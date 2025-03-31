@@ -1,0 +1,369 @@
+{
+    "generation": 6,
+    "primaryType": "DRAGON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "WATERGUN"
+        ],
+        [
+            10,
+            "DRAGONBREATH"
+        ],
+        [
+            15,
+            "PROTECT"
+        ],
+        [
+            20,
+            "FLAIL"
+        ],
+        [
+            25,
+            "WATERPULSE"
+        ],
+        [
+            30,
+            "RAINDANCE"
+        ],
+        [
+            35,
+            "DRAGONPULSE"
+        ],
+        [
+            41,
+            "CURSE"
+        ],
+        [
+            45,
+            "BODYSLAM"
+        ],
+        [
+            50,
+            "MUDDYWATER"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROUND",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THUNDERBOLT",
+        "TOXIC",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "COUNTER",
+        "LIFEDEW"
+    ],
+    "height": 0.3,
+    "weight": 2.8,
+    "abilities": [
+        "SAPSIPPER",
+        "HYDRATION"
+    ],
+    "hiddenAbilitie": [
+        "GOOEY"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        45,
+        50,
+        35,
+        40,
+        55,
+        75
+    ],
+    "flags": [],
+    "name": "Goomy",
+    "species": "GOOMY",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 60,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 6,
+            "primaryType": "DRAGON",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "ABSORB"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    5,
+                    "WATERGUN"
+                ],
+                [
+                    10,
+                    "DRAGONBREATH"
+                ],
+                [
+                    15,
+                    "PROTECT"
+                ],
+                [
+                    20,
+                    "FLAIL"
+                ],
+                [
+                    25,
+                    "WATERPULSE"
+                ],
+                [
+                    30,
+                    "RAINDANCE"
+                ],
+                [
+                    35,
+                    "DRAGONPULSE"
+                ],
+                [
+                    41,
+                    "CURSE"
+                ],
+                [
+                    45,
+                    "BODYSLAM"
+                ],
+                [
+                    50,
+                    "MUDDYWATER"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONPULSE",
+                "ENDURE",
+                "FACADE",
+                "FRUSTRATION",
+                "HIDDENPOWER",
+                "INFESTATION",
+                "IRONTAIL",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROUND",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "THUNDERBOLT",
+                "TOXIC",
+                "WATERPULSE"
+            ],
+            "eggMoves": [
+                "COUNTER",
+                "LIFEDEW"
+            ],
+            "height": 0.3,
+            "weight": 2.8,
+            "abilities": [
+                "SAPSIPPER",
+                "HYDRATION"
+            ],
+            "hiddenAbilitie": [
+                "GOOEY"
+            ],
+            "baseTotal": 300,
+            "baseStats": [
+                45,
+                50,
+                35,
+                40,
+                55,
+                75
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Goomy"
+        },
+        {
+            "generation": 8,
+            "primaryType": "DRAGON",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "ABSORB"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    5,
+                    "WATERGUN"
+                ],
+                [
+                    10,
+                    "DRAGONBREATH"
+                ],
+                [
+                    15,
+                    "PROTECT"
+                ],
+                [
+                    20,
+                    "FLAIL"
+                ],
+                [
+                    25,
+                    "WATERPULSE"
+                ],
+                [
+                    30,
+                    "RAINDANCE"
+                ],
+                [
+                    35,
+                    "DRAGONPULSE"
+                ],
+                [
+                    41,
+                    "CURSE"
+                ],
+                [
+                    45,
+                    "BODYSLAM"
+                ],
+                [
+                    50,
+                    "MUDDYWATER"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONPULSE",
+                "ENDURE",
+                "FACADE",
+                "FRUSTRATION",
+                "HIDDENPOWER",
+                "INFESTATION",
+                "IRONTAIL",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROUND",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "THUNDERBOLT",
+                "TOXIC",
+                "WATERPULSE"
+            ],
+            "eggMoves": [
+                "COUNTER",
+                "LIFEDEW"
+            ],
+            "height": 0.3,
+            "weight": 2.8,
+            "abilities": [
+                "SAPSIPPER",
+                "HYDRATION"
+            ],
+            "hiddenAbilitie": [
+                "GOOEY"
+            ],
+            "baseTotal": 300,
+            "baseStats": [
+                45,
+                50,
+                35,
+                40,
+                55,
+                75
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Goomy"
+        }
+    ],
+    "internationalPokedex": 704
+}

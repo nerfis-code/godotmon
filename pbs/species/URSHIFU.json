@@ -1,0 +1,844 @@
+{
+    "generation": 8,
+    "primaryType": "FIGHTING",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            -1,
+            "WICKEDBLOW"
+        ],
+        [
+            1,
+            "SUCKERPUNCH"
+        ],
+        [
+            1,
+            "ROCKSMASH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "ENDURE"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            12,
+            "AERIALACE"
+        ],
+        [
+            16,
+            "SCARYFACE"
+        ],
+        [
+            20,
+            "HEADBUTT"
+        ],
+        [
+            24,
+            "BRICKBREAK"
+        ],
+        [
+            28,
+            "DETECT"
+        ],
+        [
+            32,
+            "BULKUP"
+        ],
+        [
+            36,
+            "IRONHEAD"
+        ],
+        [
+            40,
+            "DYNAMICPUNCH"
+        ],
+        [
+            44,
+            "COUNTER"
+        ],
+        [
+            48,
+            "CLOSECOMBAT"
+        ],
+        [
+            52,
+            "FOCUSPUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ASSURANCE",
+        "ATTRACT",
+        "AURASPHERE",
+        "BEATUP",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKESTLARIAT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "UTURN",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 105.0,
+    "abilities": [
+        "UNSEENFIST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 550,
+    "baseStats": [
+        100,
+        130,
+        100,
+        97,
+        63,
+        60
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Urshifu",
+    "species": "URSHIFU",
+    "catchRate": 3,
+    "happiness": 50,
+    "baseExp": 275,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 12.5,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "FIGHTING",
+            "secondaryType": "DARK",
+            "moves": [
+                [
+                    -1,
+                    "WICKEDBLOW"
+                ],
+                [
+                    1,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    1,
+                    "ROCKSMASH"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "ENDURE"
+                ],
+                [
+                    1,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "AERIALACE"
+                ],
+                [
+                    16,
+                    "SCARYFACE"
+                ],
+                [
+                    20,
+                    "HEADBUTT"
+                ],
+                [
+                    24,
+                    "BRICKBREAK"
+                ],
+                [
+                    28,
+                    "DETECT"
+                ],
+                [
+                    32,
+                    "BULKUP"
+                ],
+                [
+                    36,
+                    "IRONHEAD"
+                ],
+                [
+                    40,
+                    "DYNAMICPUNCH"
+                ],
+                [
+                    44,
+                    "COUNTER"
+                ],
+                [
+                    48,
+                    "CLOSECOMBAT"
+                ],
+                [
+                    52,
+                    "FOCUSPUNCH"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "ASSURANCE",
+                "ATTRACT",
+                "AURASPHERE",
+                "BEATUP",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULKUP",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "COACHING",
+                "CONFIDE",
+                "CRUNCH",
+                "DARKESTLARIAT",
+                "DARKPULSE",
+                "DIG",
+                "DOUBLETEAM",
+                "DRAINPUNCH",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FIREPUNCH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "ICEPUNCH",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASHOUT",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAYBACK",
+                "POISONJAB",
+                "PROTECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THROATCHOP",
+                "THUNDERPUNCH",
+                "TOXIC",
+                "UTURN",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.9,
+            "weight": 105.0,
+            "abilities": [
+                "UNSEENFIST"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                100,
+                130,
+                100,
+                97,
+                63,
+                60
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 0,
+            "formName": "Estilo Brusco"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FIGHTING",
+            "secondaryType": "WATER",
+            "moves": [
+                [
+                    0,
+                    "SURGINGSTRIKES"
+                ],
+                [
+                    1,
+                    "AQUAJET"
+                ],
+                [
+                    1,
+                    "ROCKSMASH"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "ENDURE"
+                ],
+                [
+                    1,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "AERIALACE"
+                ],
+                [
+                    16,
+                    "SCARYFACE"
+                ],
+                [
+                    20,
+                    "HEADBUTT"
+                ],
+                [
+                    24,
+                    "BRICKBREAK"
+                ],
+                [
+                    28,
+                    "DETECT"
+                ],
+                [
+                    32,
+                    "BULKUP"
+                ],
+                [
+                    36,
+                    "IRONHEAD"
+                ],
+                [
+                    40,
+                    "DYNAMICPUNCH"
+                ],
+                [
+                    44,
+                    "COUNTER"
+                ],
+                [
+                    48,
+                    "CLOSECOMBAT"
+                ],
+                [
+                    52,
+                    "FOCUSPUNCH"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "ATTRACT",
+                "AURASPHERE",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRINE",
+                "BULKUP",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "COACHING",
+                "CONFIDE",
+                "DIG",
+                "DIVE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAINPUNCH",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FIREPUNCH",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "ICEPUNCH",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LIQUIDATION",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "NATURALGIFT",
+                "POISONJAB",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SCALD",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THUNDERPUNCH",
+                "TOXIC",
+                "UTURN",
+                "WATERFALL",
+                "WHIRLPOOL",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.9,
+            "weight": 105.0,
+            "abilities": [
+                "UNSEENFIST"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                100,
+                130,
+                100,
+                97,
+                63,
+                60
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 1,
+            "formName": "Estilo Fluido"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FIGHTING",
+            "secondaryType": "DARK",
+            "moves": [
+                [
+                    -1,
+                    "WICKEDBLOW"
+                ],
+                [
+                    1,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    1,
+                    "ROCKSMASH"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "ENDURE"
+                ],
+                [
+                    1,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "AERIALACE"
+                ],
+                [
+                    16,
+                    "SCARYFACE"
+                ],
+                [
+                    20,
+                    "HEADBUTT"
+                ],
+                [
+                    24,
+                    "BRICKBREAK"
+                ],
+                [
+                    28,
+                    "DETECT"
+                ],
+                [
+                    32,
+                    "BULKUP"
+                ],
+                [
+                    36,
+                    "IRONHEAD"
+                ],
+                [
+                    40,
+                    "DYNAMICPUNCH"
+                ],
+                [
+                    44,
+                    "COUNTER"
+                ],
+                [
+                    48,
+                    "CLOSECOMBAT"
+                ],
+                [
+                    52,
+                    "FOCUSPUNCH"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "ASSURANCE",
+                "ATTRACT",
+                "AURASPHERE",
+                "BEATUP",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULKUP",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "COACHING",
+                "CONFIDE",
+                "CRUNCH",
+                "DARKESTLARIAT",
+                "DARKPULSE",
+                "DIG",
+                "DOUBLETEAM",
+                "DRAINPUNCH",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FIREPUNCH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "ICEPUNCH",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASHOUT",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAYBACK",
+                "POISONJAB",
+                "PROTECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THROATCHOP",
+                "THUNDERPUNCH",
+                "TOXIC",
+                "UTURN",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 29.0,
+            "weight": 105.0,
+            "abilities": [
+                "UNSEENFIST"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                100,
+                130,
+                100,
+                97,
+                63,
+                60
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 2,
+            "formName": "Gigantamax Single Strike Style"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FIGHTING",
+            "secondaryType": "WATER",
+            "moves": [
+                [
+                    0,
+                    "SURGINGSTRIKES"
+                ],
+                [
+                    1,
+                    "FOCUSENERGY"
+                ],
+                [
+                    1,
+                    "ENDURE"
+                ],
+                [
+                    1,
+                    "ROCKSMASH"
+                ],
+                [
+                    1,
+                    "AQUAJET"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    12,
+                    "AERIALACE"
+                ],
+                [
+                    16,
+                    "SCARYFACE"
+                ],
+                [
+                    20,
+                    "HEADBUTT"
+                ],
+                [
+                    24,
+                    "BRICKBREAK"
+                ],
+                [
+                    28,
+                    "DETECT"
+                ],
+                [
+                    32,
+                    "BULKUP"
+                ],
+                [
+                    36,
+                    "IRONHEAD"
+                ],
+                [
+                    40,
+                    "DYNAMICPUNCH"
+                ],
+                [
+                    44,
+                    "COUNTER"
+                ],
+                [
+                    48,
+                    "CLOSECOMBAT"
+                ],
+                [
+                    52,
+                    "FOCUSPUNCH"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "ASSURANCE",
+                "ATTRACT",
+                "AURASPHERE",
+                "BEATUP",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULKUP",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "COACHING",
+                "CONFIDE",
+                "CRUNCH",
+                "DARKESTLARIAT",
+                "DARKPULSE",
+                "DIG",
+                "DOUBLETEAM",
+                "DRAINPUNCH",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FIREPUNCH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "ICEPUNCH",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASHOUT",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAYBACK",
+                "POISONJAB",
+                "PROTECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THROATCHOP",
+                "THUNDERPUNCH",
+                "TOXIC",
+                "UTURN",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 26.0,
+            "weight": 105.0,
+            "abilities": [
+                "UNSEENFIST"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                100,
+                130,
+                100,
+                97,
+                63,
+                60
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 3,
+            "formName": "Gigantamax Rapid Strike Style"
+        }
+    ],
+    "internationalPokedex": 892
+}

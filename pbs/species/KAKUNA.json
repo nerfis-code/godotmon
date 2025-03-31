@@ -1,0 +1,47 @@
+{
+    "generation": 1,
+    "primaryType": "BUG",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            0,
+            "HARDEN"
+        ]
+    ],
+    "tutorMoves": [
+        "BUGBITE",
+        "ELECTROWEB",
+        "IRONDEFENSE",
+        "STRINGSHOT"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 10.0,
+    "abilities": [
+        "SHEDSKIN"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 205,
+    "baseStats": [
+        45,
+        25,
+        50,
+        35,
+        25,
+        25
+    ],
+    "flags": [],
+    "name": "Kakuna",
+    "species": "KAKUNA",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 72,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 14
+}

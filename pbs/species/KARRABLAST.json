@@ -1,0 +1,145 @@
+{
+    "generation": 5,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            4,
+            "FURYCUTTER"
+        ],
+        [
+            8,
+            "ENDURE"
+        ],
+        [
+            12,
+            "FALSESWIPE"
+        ],
+        [
+            16,
+            "ACIDSPRAY"
+        ],
+        [
+            20,
+            "HEADBUTT"
+        ],
+        [
+            24,
+            "FLAIL"
+        ],
+        [
+            28,
+            "SCARYFACE"
+        ],
+        [
+            32,
+            "XSCISSOR"
+        ],
+        [
+            36,
+            "SWORDSDANCE"
+        ],
+        [
+            40,
+            "TAKEDOWN"
+        ],
+        [
+            44,
+            "BUGBUZZ"
+        ],
+        [
+            48,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "MEGAHORN",
+        "MIMIC",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TOXIC",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "BUGBITE",
+        "COUNTER",
+        "KNOCKOFF",
+        "NIGHTSLASH",
+        "SLASH"
+    ],
+    "height": 0.5,
+    "weight": 5.9,
+    "abilities": [
+        "SWARM",
+        "SHEDSKIN"
+    ],
+    "hiddenAbilitie": [
+        "NOGUARD"
+    ],
+    "baseTotal": 315,
+    "baseStats": [
+        50,
+        75,
+        45,
+        60,
+        40,
+        45
+    ],
+    "flags": [],
+    "name": "Karrablast",
+    "species": "KARRABLAST",
+    "catchRate": 200,
+    "happiness": 50,
+    "baseExp": 63,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 588
+}

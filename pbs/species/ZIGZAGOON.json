@@ -1,0 +1,480 @@
+{
+    "generation": 3,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            3,
+            "SANDATTACK"
+        ],
+        [
+            6,
+            "TAILWHIP"
+        ],
+        [
+            9,
+            "COVET"
+        ],
+        [
+            12,
+            "HEADBUTT"
+        ],
+        [
+            15,
+            "BABYDOLLEYES"
+        ],
+        [
+            18,
+            "PINMISSILE"
+        ],
+        [
+            21,
+            "REST"
+        ],
+        [
+            24,
+            "TAKEDOWN"
+        ],
+        [
+            27,
+            "FLING"
+        ],
+        [
+            30,
+            "FLAIL"
+        ],
+        [
+            33,
+            "BELLYDRUM"
+        ],
+        [
+            36,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "LASHOUT",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PINMISSILE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TAILSLAP",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRICK",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "CHARM",
+        "EXTREMESPEED",
+        "HELPINGHAND",
+        "MUDSLAP",
+        "SIMPLEBEAM",
+        "TICKLE",
+        "TRICK"
+    ],
+    "height": 0.4,
+    "weight": 17.5,
+    "abilities": [
+        "PICKUP",
+        "GLUTTONY"
+    ],
+    "hiddenAbilitie": [
+        "QUICKFEET"
+    ],
+    "baseTotal": 240,
+    "baseStats": [
+        38,
+        30,
+        41,
+        60,
+        30,
+        41
+    ],
+    "flags": [],
+    "name": "Zigzagoon",
+    "species": "ZIGZAGOON",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 56,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 3,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    3,
+                    "SANDATTACK"
+                ],
+                [
+                    6,
+                    "TAILWHIP"
+                ],
+                [
+                    9,
+                    "COVET"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    18,
+                    "PINMISSILE"
+                ],
+                [
+                    21,
+                    "REST"
+                ],
+                [
+                    24,
+                    "TAKEDOWN"
+                ],
+                [
+                    27,
+                    "FLING"
+                ],
+                [
+                    30,
+                    "FLAIL"
+                ],
+                [
+                    33,
+                    "BELLYDRUM"
+                ],
+                [
+                    36,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CHARM",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FLING",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GRASSKNOT",
+                "GUNKSHOT",
+                "HEADBUTT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONTAIL",
+                "LASHOUT",
+                "LASTRESORT",
+                "MIMIC",
+                "MUDSHOT",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PINMISSILE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROCKSMASH",
+                "ROLLOUT",
+                "ROUND",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERFANG",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "TAILSLAP",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRICK",
+                "WATERPULSE",
+                "WHIRLPOOL",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "CHARM",
+                "EXTREMESPEED",
+                "HELPINGHAND",
+                "MUDSLAP",
+                "SIMPLEBEAM",
+                "TICKLE",
+                "TRICK"
+            ],
+            "height": 0.4,
+            "weight": 17.5,
+            "abilities": [
+                "PICKUP",
+                "GLUTTONY"
+            ],
+            "hiddenAbilitie": [
+                "QUICKFEET"
+            ],
+            "baseTotal": 240,
+            "baseStats": [
+                38,
+                30,
+                41,
+                60,
+                30,
+                41
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Zigzagoon"
+        },
+        {
+            "generation": 8,
+            "primaryType": "DARK",
+            "secondaryType": "NORMAL",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    3,
+                    "SANDATTACK"
+                ],
+                [
+                    6,
+                    "LICK"
+                ],
+                [
+                    9,
+                    "SNARL"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    18,
+                    "PINMISSILE"
+                ],
+                [
+                    21,
+                    "REST"
+                ],
+                [
+                    24,
+                    "TAKEDOWN"
+                ],
+                [
+                    27,
+                    "SCARYFACE"
+                ],
+                [
+                    30,
+                    "COUNTER"
+                ],
+                [
+                    33,
+                    "TAUNT"
+                ],
+                [
+                    36,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ASSURANCE",
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FLING",
+                "FRUSTRATION",
+                "GRASSKNOT",
+                "GUNKSHOT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONTAIL",
+                "LASHOUT",
+                "MIMIC",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PINMISSILE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROUND",
+                "SCARYFACE",
+                "SCREECH",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRICK",
+                "WHIRLPOOL",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "KNOCKOFF",
+                "PARTINGSHOT",
+                "QUICKGUARD"
+            ],
+            "height": 0.4,
+            "weight": 17.5,
+            "abilities": [
+                "PICKUP",
+                "GLUTTONY"
+            ],
+            "hiddenAbilitie": [
+                "QUICKFEET"
+            ],
+            "baseTotal": 240,
+            "baseStats": [
+                38,
+                30,
+                41,
+                60,
+                30,
+                41
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Galar"
+        }
+    ],
+    "internationalPokedex": 263
+}

@@ -1,0 +1,158 @@
+{
+    "generation": 6,
+    "primaryType": "ROCK",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            5,
+            "GUARDSPLIT"
+        ],
+        [
+            10,
+            "SMACKDOWN"
+        ],
+        [
+            15,
+            "FLAIL"
+        ],
+        [
+            20,
+            "ANCIENTPOWER"
+        ],
+        [
+            25,
+            "ROCKPOLISH"
+        ],
+        [
+            30,
+            "LIGHTSCREEN"
+        ],
+        [
+            35,
+            "ROCKSLIDE"
+        ],
+        [
+            40,
+            "SKILLSWAP"
+        ],
+        [
+            45,
+            "POWERGEM"
+        ],
+        [
+            50,
+            "STEALTHROCK"
+        ],
+        [
+            55,
+            "MOONBLAST"
+        ],
+        [
+            60,
+            "STONEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ALLYSWITCH",
+        "BODYPRESS",
+        "CALMMIND",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GRAVITY",
+        "GUARDSWAP",
+        "GYROBALL",
+        "HAIL",
+        "HIDDENPOWER",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "METEORBEAM",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POWERGEM",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SECRETPOWER",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "TERRAINPULSE",
+        "TOXIC",
+        "TRICKROOM",
+        "WONDERROOM"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 5.7,
+    "abilities": [
+        "CLEARBODY"
+    ],
+    "hiddenAbilitie": [
+        "STURDY"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        50,
+        50,
+        150,
+        50,
+        50,
+        150
+    ],
+    "flags": [],
+    "name": "Carbink",
+    "species": "CARBINK",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 100,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 703
+}

@@ -1,0 +1,173 @@
+{
+    "generation": 5,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "PSYCHICTERRAIN"
+        ],
+        [
+            1,
+            "IMPRISON"
+        ],
+        [
+            1,
+            "MOONLIGHT"
+        ],
+        [
+            1,
+            "MAGICCOAT"
+        ],
+        [
+            1,
+            "ZENHEADBUTT"
+        ],
+        [
+            1,
+            "CALMMIND"
+        ],
+        [
+            1,
+            "YAWN"
+        ],
+        [
+            1,
+            "PSYCHIC"
+        ],
+        [
+            1,
+            "MOONBLAST"
+        ],
+        [
+            1,
+            "DREAMEATER"
+        ],
+        [
+            1,
+            "FUTURESIGHT"
+        ],
+        [
+            1,
+            "WONDERROOM"
+        ],
+        [
+            1,
+            "STOREDPOWER"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "HYPNOSIS"
+        ],
+        [
+            1,
+            "PSYBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ALLYSWITCH",
+        "AMNESIA",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "GYROBALL",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TELEKINESIS",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "WONDERROOM",
+        "WORRYSEED",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 60.5,
+    "abilities": [
+        "FOREWARN",
+        "SYNCHRONIZE"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 487,
+    "baseStats": [
+        116,
+        55,
+        85,
+        29,
+        107,
+        95
+    ],
+    "flags": [],
+    "name": "Musharna",
+    "species": "MUSHARNA",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 518
+}

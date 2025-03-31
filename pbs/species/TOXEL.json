@@ -1,0 +1,91 @@
+{
+    "generation": 8,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "BELCH"
+        ],
+        [
+            1,
+            "TEARFULLOOK"
+        ],
+        [
+            1,
+            "NUZZLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "FLAIL"
+        ],
+        [
+            1,
+            "ACID"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC"
+    ],
+    "eggMoves": [
+        "ENDEAVOR",
+        "METALSOUND",
+        "POWERUPPUNCH"
+    ],
+    "height": 0.4,
+    "weight": 11.0,
+    "abilities": [
+        "RATTLED",
+        "STATIC"
+    ],
+    "hiddenAbilitie": [
+        "KLUTZ"
+    ],
+    "baseTotal": 242,
+    "baseStats": [
+        40,
+        38,
+        35,
+        40,
+        54,
+        35
+    ],
+    "flags": [],
+    "name": "Toxel",
+    "species": "TOXEL",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 48,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 848
+}

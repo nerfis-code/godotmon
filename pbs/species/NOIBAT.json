@@ -1,0 +1,166 @@
+{
+    "generation": 6,
+    "primaryType": "FLYING",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            4,
+            "GUST"
+        ],
+        [
+            8,
+            "SUPERSONIC"
+        ],
+        [
+            12,
+            "DOUBLETEAM"
+        ],
+        [
+            16,
+            "WINGATTACK"
+        ],
+        [
+            20,
+            "BITE"
+        ],
+        [
+            24,
+            "AIRCUTTER"
+        ],
+        [
+            28,
+            "WHIRLWIND"
+        ],
+        [
+            32,
+            "SUPERFANG"
+        ],
+        [
+            36,
+            "AIRSLASH"
+        ],
+        [
+            40,
+            "SCREECH"
+        ],
+        [
+            44,
+            "ROOST"
+        ],
+        [
+            49,
+            "TAILWIND"
+        ],
+        [
+            52,
+            "HURRICANE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRSLASH",
+        "ATTRACT",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONPULSE",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "LEECHLIFE",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "WATERPULSE",
+        "WILDCHARGE",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "DEFOG",
+        "DRAGONRUSH"
+    ],
+    "height": 0.5,
+    "weight": 8.0,
+    "abilities": [
+        "FRISK",
+        "INFILTRATOR"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 245,
+    "baseStats": [
+        40,
+        30,
+        35,
+        55,
+        45,
+        40
+    ],
+    "flags": [],
+    "name": "Noibat",
+    "species": "NOIBAT",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 49,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 714
+}

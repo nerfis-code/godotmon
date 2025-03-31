@@ -1,0 +1,174 @@
+{
+    "generation": 2,
+    "primaryType": "ROCK",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            -1,
+            "IRONDEFENSE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "ROCKTHROW"
+        ],
+        [
+            1,
+            "PAYBACK"
+        ],
+        [
+            9,
+            "BITE"
+        ],
+        [
+            12,
+            "SCARYFACE"
+        ],
+        [
+            15,
+            "ROCKSLIDE"
+        ],
+        [
+            18,
+            "STOMPINGTANTRUM"
+        ],
+        [
+            21,
+            "SCREECH"
+        ],
+        [
+            24,
+            "DARKPULSE"
+        ],
+        [
+            24,
+            "SMACKDOWN"
+        ],
+        [
+            27,
+            "CRUNCH"
+        ],
+        [
+            33,
+            "EARTHQUAKE"
+        ],
+        [
+            37,
+            "STONEEDGE"
+        ],
+        [
+            42,
+            "THRASH"
+        ],
+        [
+            47,
+            "SANDSTORM"
+        ],
+        [
+            52,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONDANCE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNARL",
+        "SNORE",
+        "SPITE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "TORMENT",
+        "UPROAR"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 152.0,
+    "abilities": [
+        "SHEDSKIN"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 410,
+    "baseStats": [
+        70,
+        84,
+        70,
+        51,
+        65,
+        70
+    ],
+    "flags": [],
+    "name": "Pupitar",
+    "species": "PUPITAR",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 144,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 247
+}

@@ -1,0 +1,478 @@
+{
+    "generation": 1,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SMARTSTRIKE"
+        ],
+        [
+            1,
+            "MEGAHORN"
+        ],
+        [
+            1,
+            "POISONJAB"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            15,
+            "FLAMECHARGE"
+        ],
+        [
+            20,
+            "AGILITY"
+        ],
+        [
+            25,
+            "FLAMEWHEEL"
+        ],
+        [
+            30,
+            "STOMP"
+        ],
+        [
+            35,
+            "FIRESPIN"
+        ],
+        [
+            43,
+            "TAKEDOWN"
+        ],
+        [
+            49,
+            "INFERNO"
+        ],
+        [
+            56,
+            "FIREBLAST"
+        ],
+        [
+            63,
+            "FLAREBLITZ"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BATONPASS",
+        "BODYSLAM",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONTAIL",
+        "LOWKICK",
+        "MEGAHORN",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PAYDAY",
+        "PLAYROUGH",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "THROATCHOP",
+        "WILDCHARGE",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 95.0,
+    "abilities": [
+        "RUNAWAY",
+        "FLASHFIRE"
+    ],
+    "hiddenAbilitie": [
+        "FLAMEBODY"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        65,
+        100,
+        70,
+        105,
+        80,
+        80
+    ],
+    "flags": [],
+    "name": "Rapidash",
+    "species": "RAPIDASH",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "FIRE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "SMARTSTRIKE"
+                ],
+                [
+                    1,
+                    "MEGAHORN"
+                ],
+                [
+                    1,
+                    "POISONJAB"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    15,
+                    "FLAMECHARGE"
+                ],
+                [
+                    20,
+                    "AGILITY"
+                ],
+                [
+                    25,
+                    "FLAMEWHEEL"
+                ],
+                [
+                    30,
+                    "STOMP"
+                ],
+                [
+                    35,
+                    "FIRESPIN"
+                ],
+                [
+                    43,
+                    "TAKEDOWN"
+                ],
+                [
+                    49,
+                    "INFERNO"
+                ],
+                [
+                    56,
+                    "FIREBLAST"
+                ],
+                [
+                    63,
+                    "FLAREBLITZ"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BATONPASS",
+                "BODYSLAM",
+                "BOUNCE",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRILLRUN",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIRESPIN",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "INCINERATE",
+                "IRONTAIL",
+                "LOWKICK",
+                "MEGAHORN",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "PAYDAY",
+                "PLAYROUGH",
+                "POISONJAB",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "SNORE",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "THROATCHOP",
+                "WILDCHARGE",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 1.7,
+            "weight": 95.0,
+            "abilities": [
+                "RUNAWAY",
+                "FLASHFIRE"
+            ],
+            "hiddenAbilitie": [
+                "FLAMEBODY"
+            ],
+            "baseTotal": 500,
+            "baseStats": [
+                65,
+                100,
+                70,
+                105,
+                80,
+                80
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Rapidash"
+        },
+        {
+            "generation": 8,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "FAIRY",
+            "moves": [
+                [
+                    0,
+                    "PSYCHOCUT"
+                ],
+                [
+                    1,
+                    "MEGAHORN"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "CONFUSION"
+                ],
+                [
+                    15,
+                    "FAIRYWIND"
+                ],
+                [
+                    20,
+                    "AGILITY"
+                ],
+                [
+                    25,
+                    "PSYBEAM"
+                ],
+                [
+                    30,
+                    "STOMP"
+                ],
+                [
+                    35,
+                    "HEALPULSE"
+                ],
+                [
+                    43,
+                    "TAKEDOWN"
+                ],
+                [
+                    49,
+                    "DAZZLINGGLEAM"
+                ],
+                [
+                    56,
+                    "PSYCHIC"
+                ],
+                [
+                    63,
+                    "HEALINGWISH"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BATONPASS",
+                "BODYSLAM",
+                "BOUNCE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRILLRUN",
+                "ENDURE",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IMPRISON",
+                "IRONTAIL",
+                "LOWKICK",
+                "MAGICROOM",
+                "MEGAHORN",
+                "MIMIC",
+                "MISTYTERRAIN",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "PAYDAY",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHICTERRAIN",
+                "PSYCHOCUT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "SNORE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "THROATCHOP",
+                "TRICKROOM",
+                "WILDCHARGE",
+                "WONDERROOM",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.7,
+            "weight": 80.0,
+            "abilities": [
+                "RUNAWAY",
+                "PASTELVEIL"
+            ],
+            "hiddenAbilitie": [
+                "ANTICIPATION"
+            ],
+            "baseTotal": 500,
+            "baseStats": [
+                65,
+                100,
+                70,
+                105,
+                80,
+                80
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Galar"
+        }
+    ],
+    "internationalPokedex": 78
+}

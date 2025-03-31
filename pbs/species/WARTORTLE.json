@@ -1,0 +1,169 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            9,
+            "RAPIDSPIN"
+        ],
+        [
+            12,
+            "BITE"
+        ],
+        [
+            15,
+            "WATERPULSE"
+        ],
+        [
+            20,
+            "PROTECT"
+        ],
+        [
+            25,
+            "RAINDANCE"
+        ],
+        [
+            30,
+            "AQUATAIL"
+        ],
+        [
+            35,
+            "SHELLSMASH"
+        ],
+        [
+            40,
+            "IRONDEFENSE"
+        ],
+        [
+            45,
+            "HYDROPUMP"
+        ],
+        [
+            50,
+            "SKULLBASH"
+        ],
+        [
+            50,
+            "WAVECRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "AURASPHERE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "DYNAMICPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FLIPTURN",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GYROBALL",
+        "HAIL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "IRONTAIL",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WHIRLPOOL",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 22.5,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "RAINDISH"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        59,
+        63,
+        80,
+        58,
+        65,
+        80
+    ],
+    "flags": [],
+    "name": "Wartortle",
+    "species": "WARTORTLE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 142,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 8
+}

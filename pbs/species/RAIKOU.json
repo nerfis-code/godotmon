@@ -1,0 +1,182 @@
+{
+    "generation": 2,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "EXTREMESPEED"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "CHARGE"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            6,
+            "SPARK"
+        ],
+        [
+            12,
+            "BITE"
+        ],
+        [
+            18,
+            "CALMMIND"
+        ],
+        [
+            24,
+            "ROAR"
+        ],
+        [
+            30,
+            "THUNDERFANG"
+        ],
+        [
+            36,
+            "HOWL"
+        ],
+        [
+            42,
+            "CRUNCH"
+        ],
+        [
+            48,
+            "EXTRASENSORY"
+        ],
+        [
+            54,
+            "DISCHARGE"
+        ],
+        [
+            60,
+            "REFLECT"
+        ],
+        [
+            66,
+            "RAINDANCE"
+        ],
+        [
+            72,
+            "THUNDER"
+        ],
+        [
+            78,
+            "ZAPCANNON"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AURASPHERE",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHUP",
+        "QUASH",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSMASH",
+        "ROUND",
+        "SANDSTORM",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "VOLTSWITCH",
+        "WEATHERBALL",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 178.0,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [
+        "INNERFOCUS"
+    ],
+    "baseTotal": 580,
+    "baseStats": [
+        90,
+        85,
+        75,
+        115,
+        115,
+        100
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Raikou",
+    "species": "RAIKOU",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1,
+        "SPEED",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 243
+}

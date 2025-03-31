@@ -1,0 +1,116 @@
+{
+    "generation": 9,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            4,
+            "STRUGGLEBUG"
+        ],
+        [
+            6,
+            "ASTONISH"
+        ],
+        [
+            9,
+            "ASSURANCE"
+        ],
+        [
+            11,
+            "DOUBLEKICK"
+        ],
+        [
+            14,
+            "SCREECH"
+        ],
+        [
+            18,
+            "ENDURE"
+        ],
+        [
+            22,
+            "BUGBITE"
+        ],
+        [
+            26,
+            "FEINT"
+        ],
+        [
+            30,
+            "AGILITY"
+        ],
+        [
+            38,
+            "SUCKERPUNCH"
+        ],
+        [
+            41,
+            "FIRSTIMPRESSION"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "BUGBITE",
+        "BUGBUZZ",
+        "ENDURE",
+        "FACADE",
+        "LEECHLIFE",
+        "POUNCE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "THIEF",
+        "TRAILBLAZE",
+        "UTURN",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "COUNTER",
+        "SKITTERSMACK"
+    ],
+    "height": 0.2,
+    "weight": 1.0,
+    "abilities": [
+        "SWARM"
+    ],
+    "hiddenAbilitie": [
+        "TINTEDLENS"
+    ],
+    "baseTotal": 210,
+    "baseStats": [
+        33,
+        46,
+        40,
+        45,
+        21,
+        25
+    ],
+    "flags": [],
+    "name": "Nymble",
+    "species": "NYMBLE",
+    "catchRate": 190,
+    "happiness": 20,
+    "baseExp": 42,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 919
+}

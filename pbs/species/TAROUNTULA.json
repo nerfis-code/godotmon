@@ -1,0 +1,132 @@
+{
+    "generation": 9,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "STRUGGLEBUG"
+        ],
+        [
+            8,
+            "ASSURANCE"
+        ],
+        [
+            11,
+            "FEINT"
+        ],
+        [
+            14,
+            "BUGBITE"
+        ],
+        [
+            18,
+            "BLOCK"
+        ],
+        [
+            22,
+            "COUNTER"
+        ],
+        [
+            25,
+            "HEADBUTT"
+        ],
+        [
+            29,
+            "STICKYWEB"
+        ],
+        [
+            33,
+            "GASTROACID"
+        ],
+        [
+            36,
+            "CIRCLETHROW"
+        ],
+        [
+            40,
+            "THROATCHOP"
+        ],
+        [
+            44,
+            "SKITTERSMACK"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYSLAM",
+        "BUGBITE",
+        "BUGBUZZ",
+        "BULLETSEED",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "KNOCKOFF",
+        "LEECHLIFE",
+        "LUNGE",
+        "POISONJAB",
+        "POUNCE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SPIKES",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "THIEF",
+        "THROATCHOP",
+        "TOXICSPIKES",
+        "TRAILBLAZE",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "FIRSTIMPRESSION",
+        "LUNGE",
+        "MEMENTO",
+        "SUCKERPUNCH"
+    ],
+    "height": 0.3,
+    "weight": 4.0,
+    "abilities": [
+        "INSOMNIA"
+    ],
+    "hiddenAbilitie": [
+        "STAKEOUT"
+    ],
+    "baseTotal": 210,
+    "baseStats": [
+        35,
+        41,
+        45,
+        20,
+        29,
+        40
+    ],
+    "flags": [],
+    "name": "Tarountula",
+    "species": "TAROUNTULA",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 42,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 917
+}

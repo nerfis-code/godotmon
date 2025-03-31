@@ -1,0 +1,508 @@
+{
+    "generation": 1,
+    "primaryType": "GRASS",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            -1,
+            "STOMP"
+        ],
+        [
+            -1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "SEEDBOMB"
+        ],
+        [
+            1,
+            "PSYSHOCK"
+        ],
+        [
+            1,
+            "WOODHAMMER"
+        ],
+        [
+            1,
+            "LEAFSTORM"
+        ],
+        [
+            1,
+            "MEGADRAIN"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "SYNTHESIS"
+        ],
+        [
+            1,
+            "BULLETSEED"
+        ],
+        [
+            1,
+            "GIGADRAIN"
+        ],
+        [
+            1,
+            "EXTRASENSORY"
+        ],
+        [
+            1,
+            "UPROAR"
+        ],
+        [
+            1,
+            "WORRYSEED"
+        ],
+        [
+            1,
+            "SOLARBEAM"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "HYPNOSIS"
+        ],
+        [
+            1,
+            "REFLECT"
+        ],
+        [
+            1,
+            "LEECHSEED"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BLOCK",
+        "BULLDOZE",
+        "BULLETSEED",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "GRAVITY",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "LEAFSTORM",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "MAGICALLEAF",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SELFDESTRUCT",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TELEKINESIS",
+        "TERRAINPULSE",
+        "THIEF",
+        "TRICKROOM",
+        "UPROAR",
+        "WORRYSEED",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 120.0,
+    "abilities": [
+        "CHLOROPHYLL"
+    ],
+    "hiddenAbilitie": [
+        "HARVEST"
+    ],
+    "baseTotal": 530,
+    "baseStats": [
+        95,
+        95,
+        85,
+        55,
+        125,
+        75
+    ],
+    "flags": [],
+    "name": "Exeggutor",
+    "species": "EXEGGUTOR",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 186,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "GRASS",
+            "secondaryType": "PSYCHIC",
+            "moves": [
+                [
+                    -1,
+                    "STOMP"
+                ],
+                [
+                    -1,
+                    "GROWTH"
+                ],
+                [
+                    1,
+                    "SEEDBOMB"
+                ],
+                [
+                    1,
+                    "PSYSHOCK"
+                ],
+                [
+                    1,
+                    "WOODHAMMER"
+                ],
+                [
+                    1,
+                    "LEAFSTORM"
+                ],
+                [
+                    1,
+                    "MEGADRAIN"
+                ],
+                [
+                    1,
+                    "CONFUSION"
+                ],
+                [
+                    1,
+                    "SYNTHESIS"
+                ],
+                [
+                    1,
+                    "BULLETSEED"
+                ],
+                [
+                    1,
+                    "GIGADRAIN"
+                ],
+                [
+                    1,
+                    "EXTRASENSORY"
+                ],
+                [
+                    1,
+                    "UPROAR"
+                ],
+                [
+                    1,
+                    "WORRYSEED"
+                ],
+                [
+                    1,
+                    "SOLARBEAM"
+                ],
+                [
+                    1,
+                    "ABSORB"
+                ],
+                [
+                    1,
+                    "HYPNOSIS"
+                ],
+                [
+                    1,
+                    "REFLECT"
+                ],
+                [
+                    1,
+                    "LEECHSEED"
+                ]
+            ],
+            "tutorMoves": [
+                "ANCIENTPOWER",
+                "ATTRACT",
+                "BLOCK",
+                "BULLDOZE",
+                "BULLETSEED",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPANDINGFORCE",
+                "EXPLOSION",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "GRAVITY",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LEAFSTORM",
+                "LIGHTSCREEN",
+                "LOWKICK",
+                "MAGICALLEAF",
+                "MIMIC",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "POWERSWAP",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHOCUT",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROLLOUT",
+                "ROUND",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SELFDESTRUCT",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNORE",
+                "SOLARBEAM",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "TELEKINESIS",
+                "TERRAINPULSE",
+                "THIEF",
+                "TRICKROOM",
+                "UPROAR",
+                "WORRYSEED",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 2.0,
+            "weight": 120.0,
+            "abilities": [
+                "CHLOROPHYLL"
+            ],
+            "hiddenAbilitie": [
+                "HARVEST"
+            ],
+            "baseTotal": 530,
+            "baseStats": [
+                95,
+                95,
+                85,
+                55,
+                125,
+                75
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Exeggutor"
+        },
+        {
+            "generation": 7,
+            "primaryType": "GRASS",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    0,
+                    "DRAGONHAMMER"
+                ],
+                [
+                    1,
+                    "SEEDBOMB"
+                ],
+                [
+                    1,
+                    "BARRAGE"
+                ],
+                [
+                    1,
+                    "HYPNOSIS"
+                ],
+                [
+                    1,
+                    "CONFUSION"
+                ],
+                [
+                    17,
+                    "PSYSHOCK"
+                ],
+                [
+                    27,
+                    "EGGBOMB"
+                ],
+                [
+                    37,
+                    "WOODHAMMER"
+                ],
+                [
+                    47,
+                    "LEAFSTORM"
+                ]
+            ],
+            "tutorMoves": [
+                "ANCIENTPOWER",
+                "ATTRACT",
+                "BLOCK",
+                "BREAKINGSWIPE",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "DREAMEATER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPLOSION",
+                "FACADE",
+                "FLAMETHROWER",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "GRAVITY",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "IRONHEAD",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LEAFSTORM",
+                "LIGHTSCREEN",
+                "LOWKICK",
+                "MAGICALLEAF",
+                "MIMIC",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "OUTRAGE",
+                "POWERSWAP",
+                "POWERWHIP",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROLLOUT",
+                "ROUND",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SELFDESTRUCT",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNORE",
+                "SOLARBEAM",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "TELEKINESIS",
+                "TERRAINPULSE",
+                "THIEF",
+                "TRICKROOM",
+                "TRICKROOM",
+                "UPROAR",
+                "WORRYSEED",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 10.9,
+            "weight": 415.6,
+            "abilities": [
+                "FRISK"
+            ],
+            "hiddenAbilitie": [
+                "HARVEST"
+            ],
+            "baseTotal": 530,
+            "baseStats": [
+                95,
+                105,
+                85,
+                45,
+                125,
+                75
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Alola"
+        }
+    ],
+    "internationalPokedex": 103
+}

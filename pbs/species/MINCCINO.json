@@ -1,0 +1,157 @@
+{
+    "generation": 5,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "BABYDOLLEYES"
+        ],
+        [
+            4,
+            "HELPINGHAND"
+        ],
+        [
+            8,
+            "ECHOEDVOICE"
+        ],
+        [
+            12,
+            "SING"
+        ],
+        [
+            16,
+            "CHARM"
+        ],
+        [
+            20,
+            "SWIFT"
+        ],
+        [
+            24,
+            "ENCORE"
+        ],
+        [
+            28,
+            "AFTERYOU"
+        ],
+        [
+            32,
+            "TAILSLAP"
+        ],
+        [
+            36,
+            "TICKLE"
+        ],
+        [
+            40,
+            "SLAM"
+        ],
+        [
+            44,
+            "HYPERVOICE"
+        ],
+        [
+            48,
+            "LASTRESORT"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AQUATAIL",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DIG",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FLING",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILSLAP",
+        "THIEF",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRIPLEAXEL",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "AQUATAIL",
+        "FLAIL",
+        "KNOCKOFF",
+        "TAILWHIP"
+    ],
+    "height": 0.4,
+    "weight": 5.8,
+    "abilities": [
+        "CUTECHARM",
+        "TECHNICIAN"
+    ],
+    "hiddenAbilitie": [
+        "SKILLLINK"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        55,
+        50,
+        40,
+        75,
+        40,
+        40
+    ],
+    "flags": [],
+    "name": "Minccino",
+    "species": "MINCCINO",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 572
+}

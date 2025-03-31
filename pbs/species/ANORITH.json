@@ -1,0 +1,157 @@
+{
+    "generation": 3,
+    "primaryType": "ROCK",
+    "secondaryType": "BUG",
+    "moves": [
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            4,
+            "WATERGUN"
+        ],
+        [
+            8,
+            "SMACKDOWN"
+        ],
+        [
+            12,
+            "METALCLAW"
+        ],
+        [
+            16,
+            "ANCIENTPOWER"
+        ],
+        [
+            20,
+            "BUGBITE"
+        ],
+        [
+            24,
+            "BRINE"
+        ],
+        [
+            28,
+            "SLASH"
+        ],
+        [
+            32,
+            "CRUSHCLAW"
+        ],
+        [
+            36,
+            "ROCKBLAST"
+        ],
+        [
+            41,
+            "PROTECT"
+        ],
+        [
+            44,
+            "XSCISSOR"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRINE",
+        "BUGBITE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CROSSPOISON",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "WATERPULSE",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "AQUAJET",
+        "CROSSPOISON",
+        "CURSE",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "RAPIDSPIN",
+        "SANDATTACK",
+        "SCREECH",
+        "WATERPULSE"
+    ],
+    "height": 0.7,
+    "weight": 12.5,
+    "abilities": [
+        "BATTLEARMOR"
+    ],
+    "hiddenAbilitie": [
+        "SWIFTSWIM"
+    ],
+    "baseTotal": 355,
+    "baseStats": [
+        45,
+        95,
+        50,
+        75,
+        40,
+        50
+    ],
+    "flags": [],
+    "name": "Anorith",
+    "species": "ANORITH",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 71,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 347
+}

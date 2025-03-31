@@ -1,0 +1,171 @@
+{
+    "generation": 1,
+    "primaryType": "BUG",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            -1,
+            "AIRSLASH"
+        ],
+        [
+            0,
+            "GUST"
+        ],
+        [
+            1,
+            "QUIVERDANCE"
+        ],
+        [
+            1,
+            "WHIRLWIND"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "DISABLE"
+        ],
+        [
+            1,
+            "STRUGGLEBUG"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            11,
+            "CONFUSION"
+        ],
+        [
+            13,
+            "POISONPOWDER"
+        ],
+        [
+            17,
+            "PSYBEAM"
+        ],
+        [
+            23,
+            "STUNSPORE"
+        ],
+        [
+            25,
+            "BUGBUZZ"
+        ],
+        [
+            25,
+            "MEGADRAIN"
+        ],
+        [
+            29,
+            "SLEEPPOWDER"
+        ],
+        [
+            37,
+            "LEECHLIFE"
+        ],
+        [
+            41,
+            "ZENHEADBUTT"
+        ],
+        [
+            47,
+            "POISONFANG"
+        ],
+        [
+            55,
+            "PSYCHIC"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "LEECHLIFE",
+        "MIMIC",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SILVERWIND",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TWISTER",
+        "UTURN",
+        "VENOSHOCK",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 12.5,
+    "abilities": [
+        "SHIELDDUST",
+        "TINTEDLENS"
+    ],
+    "hiddenAbilitie": [
+        "WONDERSKIN"
+    ],
+    "baseTotal": 450,
+    "baseStats": [
+        70,
+        65,
+        60,
+        90,
+        90,
+        75
+    ],
+    "flags": [],
+    "name": "Venomoth",
+    "species": "VENOMOTH",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 158,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1,
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 49
+}

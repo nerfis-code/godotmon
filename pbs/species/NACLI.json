@@ -1,0 +1,133 @@
+{
+    "generation": 9,
+    "primaryType": "ROCK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "ROCKTHROW"
+        ],
+        [
+            7,
+            "MUDSHOT"
+        ],
+        [
+            10,
+            "SMACKDOWN"
+        ],
+        [
+            13,
+            "ROCKPOLISH"
+        ],
+        [
+            16,
+            "HEADBUTT"
+        ],
+        [
+            20,
+            "IRONDEFENSE"
+        ],
+        [
+            25,
+            "RECOVER"
+        ],
+        [
+            30,
+            "ROCKSLIDE"
+        ],
+        [
+            33,
+            "STEALTHROCK"
+        ],
+        [
+            35,
+            "HEAVYSLAM"
+        ],
+        [
+            40,
+            "EARTHQUAKE"
+        ],
+        [
+            45,
+            "STONEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYSLAM",
+        "BULLDOZE",
+        "CURSE",
+        "DIG",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "METEORBEAM",
+        "MUDSHOT",
+        "POWERGEM",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "ROCKSLIDE",
+        "SANDSTORM",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "CURSE",
+        "FISSURE",
+        "POWERGEM"
+    ],
+    "height": 0.4,
+    "weight": 16.0,
+    "abilities": [
+        "PURIFYINGSALT",
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "CLEARBODY"
+    ],
+    "baseTotal": 280,
+    "baseStats": [
+        55,
+        55,
+        75,
+        25,
+        35,
+        35
+    ],
+    "flags": [],
+    "name": "Nacli",
+    "species": "NACLI",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 56,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 932
+}

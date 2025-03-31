@@ -1,0 +1,173 @@
+{
+    "generation": 6,
+    "primaryType": "FAIRY",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "AROMATICMIST"
+        ],
+        [
+            1,
+            "HEALPULSE"
+        ],
+        [
+            1,
+            "FAIRYWIND"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            1,
+            "SWEETKISS"
+        ],
+        [
+            1,
+            "ECHOEDVOICE"
+        ],
+        [
+            9,
+            "DISARMINGVOICE"
+        ],
+        [
+            12,
+            "AROMATHERAPY"
+        ],
+        [
+            15,
+            "DRAININGKISS"
+        ],
+        [
+            18,
+            "ATTRACT"
+        ],
+        [
+            21,
+            "FLAIL"
+        ],
+        [
+            24,
+            "MISTYTERRAIN"
+        ],
+        [
+            27,
+            "PSYCHIC"
+        ],
+        [
+            30,
+            "CHARM"
+        ],
+        [
+            33,
+            "CALMMIND"
+        ],
+        [
+            36,
+            "MOONBLAST"
+        ],
+        [
+            39,
+            "SKILLSWAP"
+        ],
+        [
+            42,
+            "PSYCHUP"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FAKETEARS",
+        "FLASH",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "METRONOME",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "MISTYTERRAIN",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERBOLT",
+        "TORMENT",
+        "TOXIC",
+        "TRICKROOM"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 15.5,
+    "abilities": [
+        "HEALER"
+    ],
+    "hiddenAbilitie": [
+        "AROMAVEIL"
+    ],
+    "baseTotal": 462,
+    "baseStats": [
+        101,
+        72,
+        72,
+        29,
+        99,
+        89
+    ],
+    "flags": [],
+    "name": "Aromatisse",
+    "species": "AROMATISSE",
+    "catchRate": 140,
+    "happiness": 50,
+    "baseExp": 162,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 683
+}

@@ -1,0 +1,177 @@
+{
+    "generation": 6,
+    "primaryType": "ROCK",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "ROAR"
+        ],
+        [
+            1,
+            "ANCIENTPOWER"
+        ],
+        [
+            12,
+            "CHARM"
+        ],
+        [
+            16,
+            "BITE"
+        ],
+        [
+            20,
+            "DRAGONTAIL"
+        ],
+        [
+            24,
+            "STOMP"
+        ],
+        [
+            28,
+            "ROCKSLIDE"
+        ],
+        [
+            32,
+            "CRUNCH"
+        ],
+        [
+            36,
+            "DRAGONCLAW"
+        ],
+        [
+            42,
+            "THRASH"
+        ],
+        [
+            48,
+            "EARTHQUAKE"
+        ],
+        [
+            54,
+            "HORNDRILL"
+        ],
+        [
+            60,
+            "GIGAIMPACT"
+        ],
+        [
+            66,
+            "HEADSMASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ASSURANCE",
+        "ATTRACT",
+        "BLOCK",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CHARM",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEFANG",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASHOUT",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "THUNDERFANG",
+        "TOXIC",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.5,
+    "weight": 270.0,
+    "abilities": [
+        "STRONGJAW"
+    ],
+    "hiddenAbilitie": [
+        "ROCKHEAD"
+    ],
+    "baseTotal": 521,
+    "baseStats": [
+        82,
+        121,
+        119,
+        71,
+        69,
+        59
+    ],
+    "flags": [],
+    "name": "Tyrantrum",
+    "species": "TYRANTRUM",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 182,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 697
+}

@@ -1,0 +1,190 @@
+{
+    "generation": 4,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            4,
+            "DEFENSECURL"
+        ],
+        [
+            8,
+            "BABYDOLLEYES"
+        ],
+        [
+            12,
+            "AFTERYOU"
+        ],
+        [
+            16,
+            "QUICKATTACK"
+        ],
+        [
+            20,
+            "DOUBLEKICK"
+        ],
+        [
+            24,
+            "CHARM"
+        ],
+        [
+            28,
+            "BATONPASS"
+        ],
+        [
+            32,
+            "HEADBUTT"
+        ],
+        [
+            36,
+            "AGILITY"
+        ],
+        [
+            40,
+            "ENTRAINMENT"
+        ],
+        [
+            44,
+            "FLATTER"
+        ],
+        [
+            48,
+            "BOUNCE"
+        ],
+        [
+            52,
+            "HEALINGWISH"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AGILITY",
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COSMICPOWER",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "IRONTAIL",
+        "LASTRESORT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MAGICCOAT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PLAYROUGH",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TRIPLEAXEL",
+        "UPROAR",
+        "WATERPULSE",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "CIRCLETHROW",
+        "COPYCAT",
+        "COSMICPOWER",
+        "DOUBLEHIT",
+        "ENCORE",
+        "FAKEOUT",
+        "FAKETEARS",
+        "FIREPUNCH",
+        "FLAIL",
+        "FOCUSPUNCH",
+        "ICEPUNCH",
+        "LOWKICK",
+        "POWERUPPUNCH",
+        "SWEETKISS",
+        "SWITCHEROO",
+        "TEETERDANCE",
+        "THUNDERPUNCH"
+    ],
+    "height": 0.4,
+    "weight": 5.5,
+    "abilities": [
+        "RUNAWAY",
+        "KLUTZ"
+    ],
+    "hiddenAbilitie": [
+        "LIMBER"
+    ],
+    "baseTotal": 350,
+    "baseStats": [
+        55,
+        66,
+        44,
+        85,
+        44,
+        56
+    ],
+    "flags": [],
+    "name": "Buneary",
+    "species": "BUNEARY",
+    "catchRate": 190,
+    "happiness": 0,
+    "baseExp": 70,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 427
+}

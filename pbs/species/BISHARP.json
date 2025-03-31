@@ -1,0 +1,184 @@
+{
+    "generation": 5,
+    "primaryType": "DARK",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            1,
+            "METALBURST"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            15,
+            "TORMENT"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            25,
+            "ASSURANCE"
+        ],
+        [
+            30,
+            "METALSOUND"
+        ],
+        [
+            35,
+            "SLASH"
+        ],
+        [
+            40,
+            "NIGHTSLASH"
+        ],
+        [
+            45,
+            "IRONDEFENSE"
+        ],
+        [
+            50,
+            "LASERFOCUS"
+        ],
+        [
+            50,
+            "RETALIATE"
+        ],
+        [
+            57,
+            "IRONHEAD"
+        ],
+        [
+            64,
+            "SWORDSDANCE"
+        ],
+        [
+            71,
+            "GUILLOTINE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRSLASH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHOCUT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROCKPOLISH",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 70.0,
+    "abilities": [
+        "DEFIANT",
+        "INNERFOCUS"
+    ],
+    "hiddenAbilitie": [
+        "PRESSURE"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        65,
+        125,
+        100,
+        70,
+        60,
+        70
+    ],
+    "flags": [],
+    "name": "Bisharp",
+    "species": "BISHARP",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 172,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 625
+}

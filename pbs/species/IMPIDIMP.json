@@ -1,0 +1,137 @@
+{
+    "generation": 8,
+    "primaryType": "DARK",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "FAKEOUT"
+        ],
+        [
+            1,
+            "CONFIDE"
+        ],
+        [
+            4,
+            "BITE"
+        ],
+        [
+            8,
+            "FLATTER"
+        ],
+        [
+            12,
+            "FAKETEARS"
+        ],
+        [
+            16,
+            "ASSURANCE"
+        ],
+        [
+            20,
+            "SWAGGER"
+        ],
+        [
+            24,
+            "SUCKERPUNCH"
+        ],
+        [
+            28,
+            "TORMENT"
+        ],
+        [
+            33,
+            "DARKPULSE"
+        ],
+        [
+            36,
+            "NASTYPLOT"
+        ],
+        [
+            40,
+            "PLAYROUGH"
+        ],
+        [
+            44,
+            "FOULPLAY"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BURNINGJEALOUSY",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DRAINPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "LASHOUT",
+        "LEECHLIFE",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRICK",
+        "UPROAR"
+    ],
+    "eggMoves": [],
+    "height": 0.4,
+    "weight": 5.5,
+    "abilities": [
+        "PRANKSTER",
+        "FRISK"
+    ],
+    "hiddenAbilitie": [
+        "PICKPOCKET"
+    ],
+    "baseTotal": 265,
+    "baseStats": [
+        45,
+        45,
+        30,
+        50,
+        55,
+        40
+    ],
+    "flags": [],
+    "name": "Impidimp",
+    "species": "IMPIDIMP",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 53,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 0,
+    "forms": [],
+    "internationalPokedex": 859
+}

@@ -1,0 +1,485 @@
+{
+    "generation": 1,
+    "primaryType": "BUG",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            0,
+            "FURYATTACK"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            1,
+            "BUGBITE"
+        ],
+        [
+            11,
+            "FURYCUTTER"
+        ],
+        [
+            14,
+            "LASERFOCUS"
+        ],
+        [
+            17,
+            "POISONSTING"
+        ],
+        [
+            20,
+            "FOCUSENERGY"
+        ],
+        [
+            23,
+            "VENOSHOCK"
+        ],
+        [
+            26,
+            "ASSURANCE"
+        ],
+        [
+            29,
+            "TOXICSPIKES"
+        ],
+        [
+            32,
+            "PINMISSILE"
+        ],
+        [
+            35,
+            "POISONJAB"
+        ],
+        [
+            38,
+            "AGILITY"
+        ],
+        [
+            41,
+            "ENDEAVOR"
+        ],
+        [
+            44,
+            "FELLSTINGER"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BUGBITE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "ELECTROWEB",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "MIMIC",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAILWIND",
+        "THIEF",
+        "THROATCHOP",
+        "UTURN",
+        "VENOSHOCK",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 29.5,
+    "abilities": [
+        "SWARM"
+    ],
+    "hiddenAbilitie": [
+        "SNIPER"
+    ],
+    "baseTotal": 395,
+    "baseStats": [
+        65,
+        90,
+        40,
+        75,
+        45,
+        80
+    ],
+    "flags": [],
+    "name": "Beedrill",
+    "species": "BEEDRILL",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 198,
+    "evs": [
+        "ATTACK",
+        2,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "BUG",
+            "secondaryType": "POISON",
+            "moves": [
+                [
+                    0,
+                    "FURYATTACK"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    1,
+                    "POISONSTING"
+                ],
+                [
+                    1,
+                    "STRINGSHOT"
+                ],
+                [
+                    1,
+                    "BUGBITE"
+                ],
+                [
+                    11,
+                    "FURYCUTTER"
+                ],
+                [
+                    14,
+                    "LASERFOCUS"
+                ],
+                [
+                    17,
+                    "POISONSTING"
+                ],
+                [
+                    20,
+                    "FOCUSENERGY"
+                ],
+                [
+                    23,
+                    "VENOSHOCK"
+                ],
+                [
+                    26,
+                    "ASSURANCE"
+                ],
+                [
+                    29,
+                    "TOXICSPIKES"
+                ],
+                [
+                    32,
+                    "PINMISSILE"
+                ],
+                [
+                    35,
+                    "POISONJAB"
+                ],
+                [
+                    38,
+                    "AGILITY"
+                ],
+                [
+                    41,
+                    "ENDEAVOR"
+                ],
+                [
+                    44,
+                    "FELLSTINGER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "AIRCUTTER",
+                "ATTRACT",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BUGBITE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CUT",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRILLRUN",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLASH",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "KNOCKOFF",
+                "LASERFOCUS",
+                "MIMIC",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PAYBACK",
+                "POISONJAB",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROCKSMASH",
+                "ROOST",
+                "ROUND",
+                "SECRETPOWER",
+                "SILVERWIND",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNORE",
+                "SOLARBEAM",
+                "STRINGSHOT",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAILWIND",
+                "THIEF",
+                "THROATCHOP",
+                "UTURN",
+                "VENOSHOCK",
+                "XSCISSOR"
+            ],
+            "eggMoves": [],
+            "height": 1.0,
+            "weight": 29.5,
+            "abilities": [
+                "SWARM"
+            ],
+            "hiddenAbilitie": [
+                "SNIPER"
+            ],
+            "baseTotal": 395,
+            "baseStats": [
+                65,
+                90,
+                40,
+                75,
+                45,
+                80
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Beedrill"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "POISON",
+            "moves": [
+                [
+                    0,
+                    "FURYATTACK"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    1,
+                    "POISONSTING"
+                ],
+                [
+                    1,
+                    "STRINGSHOT"
+                ],
+                [
+                    1,
+                    "BUGBITE"
+                ],
+                [
+                    11,
+                    "FURYCUTTER"
+                ],
+                [
+                    14,
+                    "LASERFOCUS"
+                ],
+                [
+                    17,
+                    "POISONSTING"
+                ],
+                [
+                    20,
+                    "FOCUSENERGY"
+                ],
+                [
+                    23,
+                    "VENOSHOCK"
+                ],
+                [
+                    26,
+                    "ASSURANCE"
+                ],
+                [
+                    29,
+                    "TOXICSPIKES"
+                ],
+                [
+                    32,
+                    "PINMISSILE"
+                ],
+                [
+                    35,
+                    "POISONJAB"
+                ],
+                [
+                    38,
+                    "AGILITY"
+                ],
+                [
+                    41,
+                    "ENDEAVOR"
+                ],
+                [
+                    44,
+                    "FELLSTINGER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "AIRCUTTER",
+                "ATTRACT",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BUGBITE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CUT",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRILLRUN",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLASH",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "KNOCKOFF",
+                "LASERFOCUS",
+                "MIMIC",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PAYBACK",
+                "POISONJAB",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROCKSMASH",
+                "ROOST",
+                "ROUND",
+                "SECRETPOWER",
+                "SILVERWIND",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNORE",
+                "SOLARBEAM",
+                "STRINGSHOT",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAILWIND",
+                "THIEF",
+                "THROATCHOP",
+                "UTURN",
+                "VENOSHOCK",
+                "XSCISSOR"
+            ],
+            "eggMoves": [],
+            "height": 1.4,
+            "weight": 40.5,
+            "abilities": [
+                "ADAPTABILITY"
+            ],
+            "hiddenAbilitie": [
+                "ADAPTABILITY"
+            ],
+            "baseTotal": 495,
+            "baseStats": [
+                65,
+                150,
+                40,
+                145,
+                15,
+                80
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Beedrill"
+        }
+    ],
+    "internationalPokedex": 15
+}

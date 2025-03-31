@@ -1,0 +1,176 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            4,
+            "LEER"
+        ],
+        [
+            8,
+            "TAUNT"
+        ],
+        [
+            12,
+            "BUBBLEBEAM"
+        ],
+        [
+            16,
+            "KNOCKOFF"
+        ],
+        [
+            20,
+            "DOUBLEHIT"
+        ],
+        [
+            24,
+            "PROTECT"
+        ],
+        [
+            28,
+            "NIGHTSLASH"
+        ],
+        [
+            32,
+            "RAZORSHELL"
+        ],
+        [
+            36,
+            "SWORDSDANCE"
+        ],
+        [
+            40,
+            "CRUNCH"
+        ],
+        [
+            44,
+            "CRABHAMMER"
+        ],
+        [
+            48,
+            "ENDEAVOR"
+        ],
+        [
+            52,
+            "GUILLOTINE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CRUNCH",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONDANCE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HAIL",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "RAZORSHELL",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "AQUAJET",
+        "BODYSLAM",
+        "DOUBLEEDGE",
+        "DRAGONDANCE",
+        "ENDEAVOR",
+        "KNOCKOFF",
+        "METALCLAW",
+        "SLASH",
+        "SUPERPOWER",
+        "SWITCHEROO"
+    ],
+    "height": 0.6,
+    "weight": 11.5,
+    "abilities": [
+        "HYPERCUTTER",
+        "SHELLARMOR"
+    ],
+    "hiddenAbilitie": [
+        "ADAPTABILITY"
+    ],
+    "baseTotal": 308,
+    "baseStats": [
+        43,
+        80,
+        65,
+        35,
+        50,
+        35
+    ],
+    "flags": [],
+    "name": "Corphish",
+    "species": "CORPHISH",
+    "catchRate": 205,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "FLUCTUATING",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 341
+}

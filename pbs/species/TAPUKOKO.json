@@ -1,0 +1,178 @@
+{
+    "generation": 7,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            5,
+            "WITHDRAW"
+        ],
+        [
+            10,
+            "FAIRYWIND"
+        ],
+        [
+            15,
+            "FALSESWIPE"
+        ],
+        [
+            20,
+            "SPARK"
+        ],
+        [
+            25,
+            "SHOCKWAVE"
+        ],
+        [
+            30,
+            "CHARGE"
+        ],
+        [
+            35,
+            "AGILITY"
+        ],
+        [
+            40,
+            "SCREECH"
+        ],
+        [
+            45,
+            "DISCHARGE"
+        ],
+        [
+            50,
+            "MEANLOOK"
+        ],
+        [
+            55,
+            "NATURESMADNESS"
+        ],
+        [
+            60,
+            "WILDCHARGE"
+        ],
+        [
+            65,
+            "BRAVEBIRD"
+        ],
+        [
+            70,
+            "POWERSWAP"
+        ],
+        [
+            75,
+            "ELECTRICTERRAIN"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "ASSURANCE",
+        "BRAVEBIRD",
+        "CALMMIND",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DEFOG",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SKYATTACK",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "UTURN",
+        "VOLTSWITCH",
+        "WILDCHARGE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 20.5,
+    "abilities": [
+        "ELECTRICSURGE"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 570,
+    "baseStats": [
+        70,
+        115,
+        85,
+        130,
+        95,
+        75
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Tapu Koko",
+    "species": "TAPUKOKO",
+    "catchRate": 3,
+    "happiness": 50,
+    "baseExp": 285,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 785
+}

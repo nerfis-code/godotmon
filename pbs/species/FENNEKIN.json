@@ -1,0 +1,160 @@
+{
+    "generation": 6,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            5,
+            "EMBER"
+        ],
+        [
+            11,
+            "HOWL"
+        ],
+        [
+            14,
+            "FLAMECHARGE"
+        ],
+        [
+            17,
+            "PSYBEAM"
+        ],
+        [
+            20,
+            "FIRESPIN"
+        ],
+        [
+            25,
+            "LUCKYCHANT"
+        ],
+        [
+            25,
+            "LIGHTSCREEN"
+        ],
+        [
+            31,
+            "PSYSHOCK"
+        ],
+        [
+            35,
+            "FLAMETHROWER"
+        ],
+        [
+            38,
+            "WILLOWISP"
+        ],
+        [
+            41,
+            "PSYCHIC"
+        ],
+        [
+            43,
+            "SUNNYDAY"
+        ],
+        [
+            46,
+            "MAGICROOM"
+        ],
+        [
+            48,
+            "FIREBLAST"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPLEDGE",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "INCINERATE",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THIEF",
+        "TOXIC",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "HEATWAVE",
+        "HYPNOSIS",
+        "MAGICCOAT",
+        "PSYCHICTERRAIN",
+        "WISH"
+    ],
+    "height": 0.4,
+    "weight": 9.4,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "MAGICIAN"
+    ],
+    "baseTotal": 307,
+    "baseStats": [
+        40,
+        45,
+        40,
+        60,
+        62,
+        60
+    ],
+    "flags": [],
+    "name": "Fennekin",
+    "species": "FENNEKIN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 653
+}

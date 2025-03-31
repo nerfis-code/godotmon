@@ -1,0 +1,136 @@
+{
+    "generation": 9,
+    "primaryType": "ROCK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "SALTCURE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "ROCKTHROW"
+        ],
+        [
+            7,
+            "MUDSHOT"
+        ],
+        [
+            10,
+            "SMACKDOWN"
+        ],
+        [
+            13,
+            "ROCKPOLISH"
+        ],
+        [
+            16,
+            "HEADBUTT"
+        ],
+        [
+            20,
+            "IRONDEFENSE"
+        ],
+        [
+            30,
+            "RECOVER"
+        ],
+        [
+            34,
+            "ROCKSLIDE"
+        ],
+        [
+            38,
+            "STEALTHROCK"
+        ],
+        [
+            41,
+            "HEAVYSLAM"
+        ],
+        [
+            45,
+            "EARTHQUAKE"
+        ],
+        [
+            51,
+            "STONEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CURSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "GIGAIMPACT",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "METEORBEAM",
+        "MUDSHOT",
+        "POWERGEM",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "ROCKSLIDE",
+        "SANDSTORM",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 105.0,
+    "abilities": [
+        "PURIFYINGSALT",
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "CLEARBODY"
+    ],
+    "baseTotal": 355,
+    "baseStats": [
+        60,
+        60,
+        100,
+        35,
+        35,
+        65
+    ],
+    "flags": [],
+    "name": "Naclstack",
+    "species": "NACLSTACK",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 124,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 933
+}

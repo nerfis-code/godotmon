@@ -1,0 +1,153 @@
+{
+    "generation": 5,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "VINEWHIP"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            13,
+            "GROWTH"
+        ],
+        [
+            16,
+            "LEAFTORNADO"
+        ],
+        [
+            16,
+            "MAGICALLEAF"
+        ],
+        [
+            20,
+            "LEECHSEED"
+        ],
+        [
+            24,
+            "MEGADRAIN"
+        ],
+        [
+            28,
+            "SLAM"
+        ],
+        [
+            32,
+            "LEAFBLADE"
+        ],
+        [
+            36,
+            "COIL"
+        ],
+        [
+            40,
+            "GIGADRAIN"
+        ],
+        [
+            44,
+            "WRINGOUT"
+        ],
+        [
+            44,
+            "GASTROACID"
+        ],
+        [
+            48,
+            "LEAFSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ATTRACT",
+        "BIND",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DEFOG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TAUNT",
+        "TORMENT",
+        "TOXIC",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 16.0,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "CONTRARY"
+    ],
+    "baseTotal": 413,
+    "baseStats": [
+        60,
+        60,
+        75,
+        83,
+        60,
+        75
+    ],
+    "flags": [],
+    "name": "Servine",
+    "species": "SERVINE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 145,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 496
+}

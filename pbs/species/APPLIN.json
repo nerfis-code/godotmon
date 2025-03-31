@@ -1,0 +1,58 @@
+{
+    "generation": 8,
+    "primaryType": "GRASS",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "DRACOMETEOR",
+        "GRASSYGLIDE"
+    ],
+    "eggMoves": [
+        "DEFENSECURL",
+        "RECYCLE",
+        "ROLLOUT",
+        "SUCKERPUNCH"
+    ],
+    "height": 0.2,
+    "weight": 0.5,
+    "abilities": [
+        "RIPEN",
+        "GLUTTONY"
+    ],
+    "hiddenAbilitie": [
+        "BULLETPROOF"
+    ],
+    "baseTotal": 260,
+    "baseStats": [
+        40,
+        40,
+        80,
+        20,
+        40,
+        40
+    ],
+    "flags": [],
+    "name": "Applin",
+    "species": "APPLIN",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 52,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 840
+}

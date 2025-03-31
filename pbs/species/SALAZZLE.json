@@ -1,0 +1,188 @@
+{
+    "generation": 7,
+    "primaryType": "POISON",
+    "secondaryType": "FIRE",
+    "moves": [
+        [
+            -1,
+            "FIRELASH"
+        ],
+        [
+            1,
+            "KNOCKOFF"
+        ],
+        [
+            1,
+            "ENCORE"
+        ],
+        [
+            1,
+            "TORMENT"
+        ],
+        [
+            1,
+            "SWAGGER"
+        ],
+        [
+            1,
+            "DISABLE"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "ENDEAVOR"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "POISONGAS"
+        ],
+        [
+            1,
+            "SMOG"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            15,
+            "POISONFANG"
+        ],
+        [
+            20,
+            "SWEETSCENT"
+        ],
+        [
+            25,
+            "NASTYPLOT"
+        ],
+        [
+            30,
+            "INCINERATE"
+        ],
+        [
+            37,
+            "VENOSHOCK"
+        ],
+        [
+            44,
+            "DRAGONPULSE"
+        ],
+        [
+            51,
+            "VENOMDRENCH"
+        ],
+        [
+            51,
+            "FLAMETHROWER"
+        ],
+        [
+            58,
+            "TOXIC"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ATTRACT",
+        "BEATUP",
+        "BREAKINGSWIPE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CORROSIVEGAS",
+        "COVET",
+        "CROSSPOISON",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREBLAST",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLING",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GUNKSHOT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LEECHLIFE",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 22.2,
+    "abilities": [
+        "CORROSION"
+    ],
+    "hiddenAbilitie": [
+        "OBLIVIOUS"
+    ],
+    "baseTotal": 480,
+    "baseStats": [
+        68,
+        64,
+        60,
+        117,
+        111,
+        60
+    ],
+    "flags": [],
+    "name": "Salazzle",
+    "species": "SALAZZLE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 168,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 758
+}

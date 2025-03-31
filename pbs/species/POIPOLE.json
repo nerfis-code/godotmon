@@ -1,0 +1,132 @@
+{
+    "generation": 7,
+    "primaryType": "POISON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "DRAGONPULSE"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "ACID"
+        ],
+        [
+            7,
+            "FURYATTACK"
+        ],
+        [
+            14,
+            "FELLSTINGER"
+        ],
+        [
+            21,
+            "CHARM"
+        ],
+        [
+            28,
+            "VENOSHOCK"
+        ],
+        [
+            35,
+            "VENOMDRENCH"
+        ],
+        [
+            42,
+            "NASTYPLOT"
+        ],
+        [
+            49,
+            "POISONJAB"
+        ],
+        [
+            56,
+            "GASTROACID"
+        ],
+        [
+            63,
+            "TOXIC"
+        ]
+    ],
+    "tutorMoves": [
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DRAGONPULSE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GUNKSHOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PINMISSILE",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "TOXIC",
+        "TOXICSPIKES",
+        "UPROAR",
+        "VENOMDRENCH",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 1.8,
+    "abilities": [
+        "BEASTBOOST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 420,
+    "baseStats": [
+        67,
+        73,
+        67,
+        73,
+        73,
+        67
+    ],
+    "flags": [
+        "UltraBeast"
+    ],
+    "name": "Poipole",
+    "species": "POIPOLE",
+    "catchRate": 45,
+    "happiness": 0,
+    "baseExp": 210,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 803
+}

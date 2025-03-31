@@ -1,0 +1,151 @@
+{
+    "generation": 7,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            3,
+            "EMBER"
+        ],
+        [
+            6,
+            "LICK"
+        ],
+        [
+            9,
+            "ROAR"
+        ],
+        [
+            12,
+            "FURYSWIPES"
+        ],
+        [
+            15,
+            "BITE"
+        ],
+        [
+            18,
+            "DOUBLEKICK"
+        ],
+        [
+            21,
+            "FIREFANG"
+        ],
+        [
+            24,
+            "SCARYFACE"
+        ],
+        [
+            27,
+            "SWAGGER"
+        ],
+        [
+            30,
+            "FLAMETHROWER"
+        ],
+        [
+            33,
+            "THRASH"
+        ],
+        [
+            36,
+            "FLAREBLITZ"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULKUP",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CRUNCH",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIREPLEDGE",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "LEECHLIFE",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "OVERHEAT",
+        "PAYDAY",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROAR",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TORMENT",
+        "TOXIC",
+        "UTURN",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "FAKEOUT",
+        "PARTINGSHOT",
+        "POWERTRIP"
+    ],
+    "height": 0.4,
+    "weight": 4.3,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "INTIMIDATE"
+    ],
+    "baseTotal": 320,
+    "baseStats": [
+        45,
+        65,
+        40,
+        70,
+        60,
+        40
+    ],
+    "flags": [],
+    "name": "Litten",
+    "species": "LITTEN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 64,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 725
+}

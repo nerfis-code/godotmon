@@ -1,0 +1,136 @@
+{
+    "generation": 3,
+    "primaryType": "BUG",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            6,
+            "QUICKATTACK"
+        ],
+        [
+            9,
+            "SWEETSCENT"
+        ],
+        [
+            14,
+            "SOAK"
+        ],
+        [
+            17,
+            "BUBBLEBEAM"
+        ],
+        [
+            22,
+            "AGILITY"
+        ],
+        [
+            25,
+            "MIST"
+        ],
+        [
+            25,
+            "HAZE"
+        ],
+        [
+            30,
+            "AQUAJET"
+        ],
+        [
+            35,
+            "BATONPASS"
+        ],
+        [
+            38,
+            "STICKYWEB"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BUGBITE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "INFESTATION",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "AQUAJET",
+        "BUGBITE",
+        "FELLSTINGER",
+        "HYDROPUMP",
+        "LUNGE",
+        "MINDREADER",
+        "MUDSHOT",
+        "POWERSPLIT",
+        "PSYBEAM"
+    ],
+    "height": 0.5,
+    "weight": 1.7,
+    "abilities": [
+        "SWIFTSWIM"
+    ],
+    "hiddenAbilitie": [
+        "RAINDISH"
+    ],
+    "baseTotal": 269,
+    "baseStats": [
+        40,
+        30,
+        32,
+        65,
+        50,
+        52
+    ],
+    "flags": [],
+    "name": "Surskit",
+    "species": "SURSKIT",
+    "catchRate": 200,
+    "happiness": 50,
+    "baseExp": 54,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 283
+}

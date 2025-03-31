@@ -1,0 +1,146 @@
+{
+    "generation": 8,
+    "primaryType": "ICE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            6,
+            "DOUBLEKICK"
+        ],
+        [
+            12,
+            "AVALANCHE"
+        ],
+        [
+            18,
+            "STOMP"
+        ],
+        [
+            24,
+            "TORMENT"
+        ],
+        [
+            30,
+            "MIST"
+        ],
+        [
+            36,
+            "ICICLECRASH"
+        ],
+        [
+            42,
+            "TAKEDOWN"
+        ],
+        [
+            48,
+            "IRONDEFENSE"
+        ],
+        [
+            54,
+            "THRASH"
+        ],
+        [
+            60,
+            "TAUNT"
+        ],
+        [
+            66,
+            "DOUBLEEDGE"
+        ],
+        [
+            72,
+            "SWORDSDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CRUNCH",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "LASHOUT",
+        "MEGAHORN",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNARL",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THROATCHOP",
+        "TOXIC",
+        "UPROAR"
+    ],
+    "eggMoves": [],
+    "height": 2.2,
+    "weight": 800.0,
+    "abilities": [
+        "CHILLINGNEIGH"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 580,
+    "baseStats": [
+        100,
+        145,
+        130,
+        30,
+        65,
+        110
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Glastrier",
+    "species": "GLASTRIER",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 896
+}

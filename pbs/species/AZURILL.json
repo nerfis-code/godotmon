@@ -1,0 +1,140 @@
+{
+    "generation": 3,
+    "primaryType": "NORMAL",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            3,
+            "HELPINGHAND"
+        ],
+        [
+            6,
+            "BUBBLEBEAM"
+        ],
+        [
+            9,
+            "CHARM"
+        ],
+        [
+            12,
+            "SLAM"
+        ],
+        [
+            15,
+            "BOUNCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRUTALSWING",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FRUSTRATION",
+        "HAIL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "AQUAJET",
+        "BELLYDRUM",
+        "BODYSLAM",
+        "COPYCAT",
+        "ENCORE",
+        "FAKETEARS",
+        "MUDDYWATER",
+        "PERISHSONG",
+        "PRESENT",
+        "SING",
+        "SLAM",
+        "SOAK",
+        "SUPERSONIC",
+        "TICKLE"
+    ],
+    "height": 0.2,
+    "weight": 2.0,
+    "abilities": [
+        "THICKFAT",
+        "HUGEPOWER"
+    ],
+    "hiddenAbilitie": [
+        "SAPSIPPER"
+    ],
+    "baseTotal": 190,
+    "baseStats": [
+        50,
+        20,
+        40,
+        20,
+        20,
+        40
+    ],
+    "flags": [],
+    "name": "Azurill",
+    "species": "AZURILL",
+    "catchRate": 150,
+    "happiness": 50,
+    "baseExp": 38,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 298
+}

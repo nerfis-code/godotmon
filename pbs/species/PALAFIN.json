@@ -1,0 +1,450 @@
+{
+    "generation": 9,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "FLIPTURN"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "JETPUNCH"
+        ],
+        [
+            7,
+            "ASTONISH"
+        ],
+        [
+            10,
+            "FOCUSENERGY"
+        ],
+        [
+            13,
+            "AQUAJET"
+        ],
+        [
+            17,
+            "DOUBLEHIT"
+        ],
+        [
+            21,
+            "DIVE"
+        ],
+        [
+            25,
+            "CHARM"
+        ],
+        [
+            29,
+            "ACROBATICS"
+        ],
+        [
+            34,
+            "ENCORE"
+        ],
+        [
+            39,
+            "AQUATAIL"
+        ],
+        [
+            44,
+            "MIST"
+        ],
+        [
+            50,
+            "HYDROPUMP"
+        ],
+        [
+            55,
+            "FOCUSPUNCH"
+        ],
+        [
+            61,
+            "WAVECRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AGILITY",
+        "AURASPHERE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BULKUP",
+        "CHARM",
+        "CHILLINGWATER",
+        "CLOSECOMBAT",
+        "DISARMINGVOICE",
+        "DRAININGKISS",
+        "DRAINPUNCH",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FLIPTURN",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HARDPRESS",
+        "HAZE",
+        "HELPINGHAND",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONHEAD",
+        "LIQUIDATION",
+        "OUTRAGE",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "REVERSAL",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SURF",
+        "SWIFT",
+        "TAKEDOWN",
+        "TAUNT",
+        "THROATCHOP",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 60.2,
+    "abilities": [
+        "ZEROTOHERO"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 457,
+    "baseStats": [
+        100,
+        70,
+        72,
+        100,
+        53,
+        62
+    ],
+    "flags": [],
+    "name": "Palafin",
+    "species": "PALAFIN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 160,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 9,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "FLIPTURN"
+                ],
+                [
+                    1,
+                    "SUPERSONIC"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "JETPUNCH"
+                ],
+                [
+                    7,
+                    "ASTONISH"
+                ],
+                [
+                    10,
+                    "FOCUSENERGY"
+                ],
+                [
+                    13,
+                    "AQUAJET"
+                ],
+                [
+                    17,
+                    "DOUBLEHIT"
+                ],
+                [
+                    21,
+                    "DIVE"
+                ],
+                [
+                    25,
+                    "CHARM"
+                ],
+                [
+                    29,
+                    "ACROBATICS"
+                ],
+                [
+                    34,
+                    "ENCORE"
+                ],
+                [
+                    39,
+                    "AQUATAIL"
+                ],
+                [
+                    44,
+                    "MIST"
+                ],
+                [
+                    50,
+                    "HYDROPUMP"
+                ],
+                [
+                    55,
+                    "FOCUSPUNCH"
+                ],
+                [
+                    61,
+                    "WAVECRASH"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AGILITY",
+                "AURASPHERE",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BULKUP",
+                "CHARM",
+                "CHILLINGWATER",
+                "CLOSECOMBAT",
+                "DISARMINGVOICE",
+                "DRAININGKISS",
+                "DRAINPUNCH",
+                "ENCORE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLING",
+                "FLIPTURN",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HARDPRESS",
+                "HAZE",
+                "HELPINGHAND",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "ICEPUNCH",
+                "ICYWIND",
+                "IRONHEAD",
+                "LIQUIDATION",
+                "OUTRAGE",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "SLEEPTALK",
+                "SUBSTITUTE",
+                "SURF",
+                "SWIFT",
+                "TAKEDOWN",
+                "TAUNT",
+                "THROATCHOP",
+                "WATERFALL",
+                "WATERPULSE",
+                "WHIRLPOOL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.3,
+            "weight": 60.2,
+            "abilities": [
+                "ZEROTOHERO"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 457,
+            "baseStats": [
+                100,
+                70,
+                72,
+                100,
+                53,
+                62
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Ingenua"
+        },
+        {
+            "generation": 9,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "FLIPTURN"
+                ],
+                [
+                    1,
+                    "SUPERSONIC"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "JETPUNCH"
+                ],
+                [
+                    7,
+                    "ASTONISH"
+                ],
+                [
+                    10,
+                    "FOCUSENERGY"
+                ],
+                [
+                    13,
+                    "AQUAJET"
+                ],
+                [
+                    17,
+                    "DOUBLEHIT"
+                ],
+                [
+                    21,
+                    "DIVE"
+                ],
+                [
+                    25,
+                    "CHARM"
+                ],
+                [
+                    29,
+                    "ACROBATICS"
+                ],
+                [
+                    34,
+                    "ENCORE"
+                ],
+                [
+                    39,
+                    "AQUATAIL"
+                ],
+                [
+                    44,
+                    "MIST"
+                ],
+                [
+                    50,
+                    "HYDROPUMP"
+                ],
+                [
+                    55,
+                    "FOCUSPUNCH"
+                ],
+                [
+                    61,
+                    "WAVECRASH"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AGILITY",
+                "AURASPHERE",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BULKUP",
+                "CHARM",
+                "CHILLINGWATER",
+                "CLOSECOMBAT",
+                "DISARMINGVOICE",
+                "DRAININGKISS",
+                "DRAINPUNCH",
+                "ENCORE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLING",
+                "FLIPTURN",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HARDPRESS",
+                "HAZE",
+                "HELPINGHAND",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "ICEPUNCH",
+                "ICYWIND",
+                "IRONHEAD",
+                "LIQUIDATION",
+                "OUTRAGE",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "SLEEPTALK",
+                "SUBSTITUTE",
+                "SURF",
+                "SWIFT",
+                "TAKEDOWN",
+                "TAUNT",
+                "THROATCHOP",
+                "WATERFALL",
+                "WATERPULSE",
+                "WHIRLPOOL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.8,
+            "weight": 97.4,
+            "abilities": [
+                "ZEROTOHERO"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 650,
+            "baseStats": [
+                100,
+                160,
+                97,
+                100,
+                106,
+                87
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Heroica"
+        }
+    ],
+    "internationalPokedex": 964
+}

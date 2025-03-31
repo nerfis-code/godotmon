@@ -1,0 +1,167 @@
+{
+    "generation": 5,
+    "primaryType": "DARK",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            4,
+            "DRAGONBREATH"
+        ],
+        [
+            8,
+            "BITE"
+        ],
+        [
+            12,
+            "ROAR"
+        ],
+        [
+            16,
+            "ASSURANCE"
+        ],
+        [
+            20,
+            "HEADBUTT"
+        ],
+        [
+            24,
+            "WORKUP"
+        ],
+        [
+            28,
+            "SLAM"
+        ],
+        [
+            32,
+            "CRUNCH"
+        ],
+        [
+            36,
+            "SCARYFACE"
+        ],
+        [
+            40,
+            "DRAGONPULSE"
+        ],
+        [
+            44,
+            "BODYSLAM"
+        ],
+        [
+            48,
+            "HYPERVOICE"
+        ],
+        [
+            52,
+            "DRAGONRUSH"
+        ],
+        [
+            56,
+            "NASTYPLOT"
+        ],
+        [
+            60,
+            "OUTRAGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHPOWER",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEFANG",
+        "INCINERATE",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROUND",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "ASTONISH",
+        "BELCH",
+        "DOUBLEHIT",
+        "HEADSMASH"
+    ],
+    "height": 0.8,
+    "weight": 17.3,
+    "abilities": [
+        "HUSTLE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 300,
+    "baseStats": [
+        52,
+        65,
+        50,
+        38,
+        45,
+        50
+    ],
+    "flags": [],
+    "name": "Deino",
+    "species": "DEINO",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 60,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 633
+}

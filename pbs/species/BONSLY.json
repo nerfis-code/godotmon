@@ -1,0 +1,152 @@
+{
+    "generation": 4,
+    "primaryType": "ROCK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "FAKETEARS"
+        ],
+        [
+            1,
+            "COPYCAT"
+        ],
+        [
+            4,
+            "FLAIL"
+        ],
+        [
+            8,
+            "ROCKTHROW"
+        ],
+        [
+            12,
+            "BLOCK"
+        ],
+        [
+            16,
+            "MIMIC"
+        ],
+        [
+            20,
+            "ROCKTOMB"
+        ],
+        [
+            24,
+            "TEARFULLOOK"
+        ],
+        [
+            28,
+            "SUCKERPUNCH"
+        ],
+        [
+            32,
+            "ROCKSLIDE"
+        ],
+        [
+            36,
+            "LOWKICK"
+        ],
+        [
+            40,
+            "COUNTER"
+        ],
+        [
+            44,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BLOCK",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FAKETEARS",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "LOWKICK",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "PSYCHUP",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THIEF",
+        "UPROAR"
+    ],
+    "eggMoves": [
+        "CURSE",
+        "DEFENSECURL",
+        "HARDEN",
+        "HEADBUTT",
+        "ROCKPOLISH",
+        "ROLLOUT",
+        "SANDTOMB",
+        "SELFDESTRUCT"
+    ],
+    "height": 0.5,
+    "weight": 15.0,
+    "abilities": [
+        "STURDY",
+        "ROCKHEAD"
+    ],
+    "hiddenAbilitie": [
+        "RATTLED"
+    ],
+    "baseTotal": 290,
+    "baseStats": [
+        50,
+        80,
+        95,
+        10,
+        10,
+        45
+    ],
+    "flags": [],
+    "name": "Bonsly",
+    "species": "BONSLY",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 58,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 438
+}

@@ -1,0 +1,408 @@
+{
+    "generation": 8,
+    "primaryType": "FIRE",
+    "secondaryType": "BUG",
+    "moves": [
+        [
+            1,
+            "INFERNO"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "SMOKESCREEN"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            15,
+            "FLAMEWHEEL"
+        ],
+        [
+            20,
+            "BUGBITE"
+        ],
+        [
+            25,
+            "COIL"
+        ],
+        [
+            32,
+            "SLAM"
+        ],
+        [
+            39,
+            "FIRESPIN"
+        ],
+        [
+            46,
+            "CRUNCH"
+        ],
+        [
+            53,
+            "FIRELASH"
+        ],
+        [
+            60,
+            "LUNGE"
+        ],
+        [
+            67,
+            "BURNUP"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BRUTALSWING",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIRESPIN",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATCRASH",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LEECHLIFE",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "POWERWHIP",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THUNDERFANG",
+        "TOXIC",
+        "VENOSHOCK",
+        "WILLOWISP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 3.0,
+    "weight": 120.0,
+    "abilities": [
+        "FLASHFIRE",
+        "WHITESMOKE"
+    ],
+    "hiddenAbilitie": [
+        "FLAMEBODY"
+    ],
+    "baseTotal": 525,
+    "baseStats": [
+        100,
+        115,
+        65,
+        65,
+        90,
+        90
+    ],
+    "flags": [],
+    "name": "Centiskorch",
+    "species": "CENTISKORCH",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 184,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "FIRE",
+            "secondaryType": "BUG",
+            "moves": [
+                [
+                    1,
+                    "INFERNO"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    1,
+                    "SMOKESCREEN"
+                ],
+                [
+                    1,
+                    "WRAP"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    15,
+                    "FLAMEWHEEL"
+                ],
+                [
+                    20,
+                    "BUGBITE"
+                ],
+                [
+                    25,
+                    "COIL"
+                ],
+                [
+                    32,
+                    "SLAM"
+                ],
+                [
+                    39,
+                    "FIRESPIN"
+                ],
+                [
+                    46,
+                    "CRUNCH"
+                ],
+                [
+                    53,
+                    "FIRELASH"
+                ],
+                [
+                    60,
+                    "LUNGE"
+                ],
+                [
+                    67,
+                    "BURNUP"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BRUTALSWING",
+                "BUGBUZZ",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FIRESPIN",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEATCRASH",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "LEECHLIFE",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "POWERWHIP",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SCALD",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "THUNDERFANG",
+                "TOXIC",
+                "VENOSHOCK",
+                "WILLOWISP",
+                "XSCISSOR"
+            ],
+            "eggMoves": [],
+            "height": 3.0,
+            "weight": 120.0,
+            "abilities": [
+                "FLASHFIRE",
+                "WHITESMOKE"
+            ],
+            "hiddenAbilitie": [
+                "FLAMEBODY"
+            ],
+            "baseTotal": 525,
+            "baseStats": [
+                100,
+                115,
+                65,
+                65,
+                90,
+                90
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Centiskorch"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FIRE",
+            "secondaryType": "BUG",
+            "moves": [
+                [
+                    1,
+                    "INFERNO"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    1,
+                    "SMOKESCREEN"
+                ],
+                [
+                    1,
+                    "WRAP"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    15,
+                    "FLAMEWHEEL"
+                ],
+                [
+                    20,
+                    "BUGBITE"
+                ],
+                [
+                    25,
+                    "COIL"
+                ],
+                [
+                    32,
+                    "SLAM"
+                ],
+                [
+                    39,
+                    "FIRESPIN"
+                ],
+                [
+                    46,
+                    "CRUNCH"
+                ],
+                [
+                    53,
+                    "FIRELASH"
+                ],
+                [
+                    60,
+                    "LUNGE"
+                ],
+                [
+                    67,
+                    "BURNUP"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BRUTALSWING",
+                "BUGBUZZ",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FIRESPIN",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEATCRASH",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "LEECHLIFE",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "POWERWHIP",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SCALD",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "THUNDERFANG",
+                "TOXIC",
+                "VENOSHOCK",
+                "WILLOWISP",
+                "XSCISSOR"
+            ],
+            "eggMoves": [],
+            "height": 75.0,
+            "weight": 120.0,
+            "abilities": [
+                "FLASHFIRE",
+                "WHITESMOKE"
+            ],
+            "hiddenAbilitie": [
+                "FLAMEBODY"
+            ],
+            "baseTotal": 525,
+            "baseStats": [
+                100,
+                115,
+                65,
+                65,
+                90,
+                90
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 851
+}

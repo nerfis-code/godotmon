@@ -1,0 +1,161 @@
+{
+    "generation": 4,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "WITHDRAW"
+        ],
+        [
+            6,
+            "LEAFAGE"
+        ],
+        [
+            9,
+            "ABSORB"
+        ],
+        [
+            10,
+            "GROWTH"
+        ],
+        [
+            13,
+            "RAZORLEAF"
+        ],
+        [
+            17,
+            "CURSE"
+        ],
+        [
+            21,
+            "BITE"
+        ],
+        [
+            25,
+            "MEGADRAIN"
+        ],
+        [
+            29,
+            "LEECHSEED"
+        ],
+        [
+            33,
+            "SYNTHESIS"
+        ],
+        [
+            37,
+            "CRUNCH"
+        ],
+        [
+            41,
+            "GIGADRAIN"
+        ],
+        [
+            45,
+            "LEAFSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSMASH",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "BODYSLAM",
+        "DOUBLEEDGE",
+        "EARTHPOWER",
+        "GRASSYTERRAIN",
+        "GROWTH",
+        "HEAVYSLAM",
+        "SANDTOMB",
+        "SEEDBOMB",
+        "SPITUP",
+        "STOCKPILE",
+        "SUPERPOWER",
+        "SWALLOW",
+        "THRASH",
+        "TICKLE",
+        "WIDEGUARD",
+        "WORRYSEED"
+    ],
+    "height": 0.4,
+    "weight": 10.2,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "SHELLARMOR"
+    ],
+    "baseTotal": 318,
+    "baseStats": [
+        55,
+        68,
+        64,
+        31,
+        45,
+        55
+    ],
+    "flags": [],
+    "name": "Turtwig",
+    "species": "TURTWIG",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 64,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 387
+}

@@ -1,0 +1,116 @@
+{
+    "generation": 8,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            7,
+            "BITE"
+        ],
+        [
+            14,
+            "PROTECT"
+        ],
+        [
+            21,
+            "HEADBUTT"
+        ],
+        [
+            28,
+            "COUNTER"
+        ],
+        [
+            35,
+            "JAWLOCK"
+        ],
+        [
+            42,
+            "LIQUIDATION"
+        ],
+        [
+            49,
+            "BODYSLAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEFANG",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROUND",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "DRAGONTAIL",
+        "GASTROACID",
+        "SKULLBASH"
+    ],
+    "height": 0.3,
+    "weight": 8.5,
+    "abilities": [
+        "STRONGJAW",
+        "SHELLARMOR"
+    ],
+    "hiddenAbilitie": [
+        "SWIFTSWIM"
+    ],
+    "baseTotal": 284,
+    "baseStats": [
+        50,
+        64,
+        50,
+        44,
+        38,
+        38
+    ],
+    "flags": [],
+    "name": "Chewtle",
+    "species": "CHEWTLE",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 57,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 833
+}

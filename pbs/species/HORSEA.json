@@ -1,0 +1,157 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            5,
+            "SMOKESCREEN"
+        ],
+        [
+            10,
+            "TWISTER"
+        ],
+        [
+            15,
+            "FOCUSENERGY"
+        ],
+        [
+            20,
+            "DRAGONBREATH"
+        ],
+        [
+            25,
+            "BUBBLEBEAM"
+        ],
+        [
+            30,
+            "AGILITY"
+        ],
+        [
+            35,
+            "LASERFOCUS"
+        ],
+        [
+            35,
+            "WATERPULSE"
+        ],
+        [
+            40,
+            "DRAGONPULSE"
+        ],
+        [
+            45,
+            "HYDROPUMP"
+        ],
+        [
+            50,
+            "DRAGONDANCE"
+        ],
+        [
+            55,
+            "RAINDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "BLIZZARD",
+        "BOUNCE",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FLIPTURN",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TWISTER",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "AURORABEAM",
+        "CLEARSMOG",
+        "DISABLE",
+        "DRAGONBREATH",
+        "FLAIL",
+        "MUDDYWATER",
+        "OCTAZOOKA",
+        "OUTRAGE",
+        "SPLASH",
+        "WATERPULSE"
+    ],
+    "height": 0.4,
+    "weight": 8.0,
+    "abilities": [
+        "SWIFTSWIM",
+        "SNIPER"
+    ],
+    "hiddenAbilitie": [
+        "DAMP"
+    ],
+    "baseTotal": 295,
+    "baseStats": [
+        30,
+        40,
+        70,
+        60,
+        70,
+        25
+    ],
+    "flags": [],
+    "name": "Horsea",
+    "species": "HORSEA",
+    "catchRate": 225,
+    "happiness": 50,
+    "baseExp": 59,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 116
+}

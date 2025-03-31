@@ -1,0 +1,155 @@
+{
+    "generation": 7,
+    "primaryType": "GHOST",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            5,
+            "ASTONISH"
+        ],
+        [
+            10,
+            "SANDTOMB"
+        ],
+        [
+            15,
+            "MEGADRAIN"
+        ],
+        [
+            20,
+            "SANDATTACK"
+        ],
+        [
+            25,
+            "BULLDOZE"
+        ],
+        [
+            30,
+            "HYPNOSIS"
+        ],
+        [
+            35,
+            "GIGADRAIN"
+        ],
+        [
+            40,
+            "IRONDEFENSE"
+        ],
+        [
+            45,
+            "SHADOWBALL"
+        ],
+        [
+            50,
+            "EARTHPOWER"
+        ],
+        [
+            55,
+            "SHOREUP"
+        ],
+        [
+            60,
+            "SANDSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AMNESIA",
+        "ATTRACT",
+        "BLOCK",
+        "BRINE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRAVITY",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHIC",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SPITE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC",
+        "TRICK"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "CURSE",
+        "DESTINYBOND",
+        "SPITUP",
+        "STOCKPILE",
+        "SWALLOW"
+    ],
+    "height": 0.5,
+    "weight": 70.0,
+    "abilities": [
+        "WATERCOMPACTION"
+    ],
+    "hiddenAbilitie": [
+        "SANDVEIL"
+    ],
+    "baseTotal": 320,
+    "baseStats": [
+        55,
+        55,
+        80,
+        15,
+        70,
+        45
+    ],
+    "flags": [],
+    "name": "Sandygast",
+    "species": "SANDYGAST",
+    "catchRate": 140,
+    "happiness": 50,
+    "baseExp": 64,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 769
+}

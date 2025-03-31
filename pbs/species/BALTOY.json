@@ -1,0 +1,180 @@
+{
+    "generation": 3,
+    "primaryType": "GROUND",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            3,
+            "RAPIDSPIN"
+        ],
+        [
+            6,
+            "CONFUSION"
+        ],
+        [
+            9,
+            "ROCKTOMB"
+        ],
+        [
+            12,
+            "POWERTRICK"
+        ],
+        [
+            15,
+            "PSYBEAM"
+        ],
+        [
+            18,
+            "ANCIENTPOWER"
+        ],
+        [
+            21,
+            "IMPRISON"
+        ],
+        [
+            24,
+            "COSMICPOWER"
+        ],
+        [
+            27,
+            "EXTRASENSORY"
+        ],
+        [
+            30,
+            "EARTHPOWER"
+        ],
+        [
+            33,
+            "SELFDESTRUCT"
+        ],
+        [
+            36,
+            "GUARDSPLIT"
+        ],
+        [
+            36,
+            "POWERSPLIT"
+        ],
+        [
+            39,
+            "SANDSTORM"
+        ],
+        [
+            42,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ANCIENTPOWER",
+        "BULLDOZE",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COSMICPOWER",
+        "DAZZLINGGLEAM",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DRILLRUN",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "EERIEIMPULSE",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "GYROBALL",
+        "HEADBUTT",
+        "HEX",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "IMPRISON",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "TRICK",
+        "TRICKROOM",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.5,
+    "weight": 21.5,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 300,
+    "baseStats": [
+        40,
+        40,
+        55,
+        55,
+        40,
+        70
+    ],
+    "flags": [],
+    "name": "Baltoy",
+    "species": "BALTOY",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 343
+}

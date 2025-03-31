@@ -1,0 +1,149 @@
+{
+    "generation": 1,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            4,
+            "SUPERSONIC"
+        ],
+        [
+            8,
+            "THUNDERWAVE"
+        ],
+        [
+            12,
+            "ELECTROBALL"
+        ],
+        [
+            16,
+            "GYROBALL"
+        ],
+        [
+            20,
+            "SPARK"
+        ],
+        [
+            24,
+            "SCREECH"
+        ],
+        [
+            28,
+            "MAGNETRISE"
+        ],
+        [
+            32,
+            "FLASHCANNON"
+        ],
+        [
+            36,
+            "DISCHARGE"
+        ],
+        [
+            40,
+            "METALSOUND"
+        ],
+        [
+            44,
+            "LIGHTSCREEN"
+        ],
+        [
+            48,
+            "LOCKON"
+        ],
+        [
+            52,
+            "ZAPCANNON"
+        ]
+    ],
+    "tutorMoves": [
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GRAVITY",
+        "GYROBALL",
+        "HIDDENPOWER",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROLLOUT",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 6.0,
+    "abilities": [
+        "MAGNETPULL",
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "ANALYTIC"
+    ],
+    "baseTotal": 325,
+    "baseStats": [
+        25,
+        35,
+        70,
+        45,
+        95,
+        55
+    ],
+    "flags": [],
+    "name": "Magnemite",
+    "species": "MAGNEMITE",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 65,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 81
+}

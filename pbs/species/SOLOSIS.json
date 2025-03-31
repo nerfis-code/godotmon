@@ -1,0 +1,175 @@
+{
+    "generation": 5,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            4,
+            "RECOVER"
+        ],
+        [
+            8,
+            "ENDEAVOR"
+        ],
+        [
+            12,
+            "PSYBEAM"
+        ],
+        [
+            16,
+            "CHARM"
+        ],
+        [
+            20,
+            "PSYSHOCK"
+        ],
+        [
+            24,
+            "LIGHTSCREEN"
+        ],
+        [
+            24,
+            "REFLECT"
+        ],
+        [
+            28,
+            "ALLYSWITCH"
+        ],
+        [
+            33,
+            "PAINSPLIT"
+        ],
+        [
+            36,
+            "PSYCHIC"
+        ],
+        [
+            40,
+            "SKILLSWAP"
+        ],
+        [
+            44,
+            "FUTURESIGHT"
+        ],
+        [
+            48,
+            "WONDERROOM"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "GYROBALL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IMPRISON",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "STEELROLLER",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "ACIDARMOR",
+        "ASTONISH",
+        "CONFUSERAY"
+    ],
+    "height": 0.3,
+    "weight": 1.0,
+    "abilities": [
+        "OVERCOAT",
+        "MAGICGUARD"
+    ],
+    "hiddenAbilitie": [
+        "REGENERATOR"
+    ],
+    "baseTotal": 290,
+    "baseStats": [
+        45,
+        30,
+        40,
+        20,
+        105,
+        50
+    ],
+    "flags": [],
+    "name": "Solosis",
+    "species": "SOLOSIS",
+    "catchRate": 200,
+    "happiness": 50,
+    "baseExp": 58,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 577
+}

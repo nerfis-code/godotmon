@@ -1,0 +1,184 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            -1,
+            "CIRCLETHROW"
+        ],
+        [
+            -1,
+            "DYNAMICPUNCH"
+        ],
+        [
+            -1,
+            "RAINDANCE"
+        ],
+        [
+            -1,
+            "EARTHPOWER"
+        ],
+        [
+            -1,
+            "HYDROPUMP"
+        ],
+        [
+            -1,
+            "BELLYDRUM"
+        ],
+        [
+            -1,
+            "WATERGUN"
+        ],
+        [
+            -1,
+            "POUND"
+        ],
+        [
+            -1,
+            "MUDSHOT"
+        ],
+        [
+            0,
+            "SUBMISSION"
+        ],
+        [
+            1,
+            "MINDREADER"
+        ],
+        [
+            1,
+            "BUBBLEBEAM"
+        ],
+        [
+            1,
+            "BODYSLAM"
+        ],
+        [
+            1,
+            "DOUBLEEDGE"
+        ],
+        [
+            1,
+            "HYPNOSIS"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "COUNTER",
+        "DARKESTLARIAT",
+        "DEFENSECURL",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "DYNAMICPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "LIQUIDATION",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "THIEF",
+        "THROATCHOP",
+        "VACUUMWAVE",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 54.0,
+    "abilities": [
+        "WATERABSORB",
+        "DAMP"
+    ],
+    "hiddenAbilitie": [
+        "SWIFTSWIM"
+    ],
+    "baseTotal": 510,
+    "baseStats": [
+        90,
+        95,
+        95,
+        70,
+        70,
+        90
+    ],
+    "flags": [],
+    "name": "Poliwrath",
+    "species": "POLIWRATH",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 255,
+    "evs": [
+        "DEFENSE",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 62
+}

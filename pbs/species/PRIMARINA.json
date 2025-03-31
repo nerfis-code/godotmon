@@ -1,0 +1,169 @@
+{
+    "generation": 7,
+    "primaryType": "WATER",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            -1,
+            "SPARKLINGARIA"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "DISARMINGVOICE"
+        ],
+        [
+            9,
+            "AQUAJET"
+        ],
+        [
+            12,
+            "BABYDOLLEYES"
+        ],
+        [
+            15,
+            "ICYWIND"
+        ],
+        [
+            20,
+            "SING"
+        ],
+        [
+            25,
+            "BUBBLEBEAM"
+        ],
+        [
+            30,
+            "ENCORE"
+        ],
+        [
+            37,
+            "MISTYTERRAIN"
+        ],
+        [
+            44,
+            "HYPERVOICE"
+        ],
+        [
+            51,
+            "MOONBLAST"
+        ],
+        [
+            58,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AMNESIA",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BRINE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLIPTURN",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROCANNON",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "MAGICCOAT",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "MISTYTERRAIN",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "TRIPLEAXEL",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WHIRLPOOL",
+        "WONDERROOM",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 44.0,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "LIQUIDVOICE"
+    ],
+    "baseTotal": 530,
+    "baseStats": [
+        80,
+        74,
+        74,
+        60,
+        126,
+        116
+    ],
+    "flags": [],
+    "name": "Primarina",
+    "species": "PRIMARINA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 265,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 730
+}

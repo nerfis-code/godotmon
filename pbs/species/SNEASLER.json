@@ -1,0 +1,161 @@
+{
+    "generation": 8,
+    "primaryType": "FIGHTING",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            -1,
+            "DIRECLAW"
+        ],
+        [
+            1,
+            "FLING"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "ROCKSMASH"
+        ],
+        [
+            6,
+            "TAUNT"
+        ],
+        [
+            12,
+            "QUICKATTACK"
+        ],
+        [
+            18,
+            "METALCLAW"
+        ],
+        [
+            24,
+            "POISONJAB"
+        ],
+        [
+            30,
+            "BRICKBREAK"
+        ],
+        [
+            36,
+            "HONECLAWS"
+        ],
+        [
+            42,
+            "SLASH"
+        ],
+        [
+            48,
+            "AGILITY"
+        ],
+        [
+            54,
+            "SCREECH"
+        ],
+        [
+            60,
+            "CLOSECOMBAT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "BRICKBREAK",
+        "BULKUP",
+        "CALMMIND",
+        "CLOSECOMBAT",
+        "COACHING",
+        "DIG",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HYPERBEAM",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "METALCLAW",
+        "NASTYPLOT",
+        "POISONJAB",
+        "POISONTAIL",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TOXIC",
+        "TOXICSPIKES",
+        "TRAILBLAZE",
+        "UPPERHAND",
+        "UTURN",
+        "VACUUMWAVE",
+        "VENOSHOCK",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 43.0,
+    "abilities": [
+        "PRESSURE",
+        "UNBURDEN"
+    ],
+    "hiddenAbilitie": [
+        "POISONTOUCH"
+    ],
+    "baseTotal": 510,
+    "baseStats": [
+        80,
+        130,
+        60,
+        120,
+        40,
+        80
+    ],
+    "flags": [
+        "DefaultForm_1",
+        "InheritFormWithEverStone"
+    ],
+    "name": "Sneasler",
+    "species": "SNEASLER",
+    "catchRate": 20,
+    "happiness": 35,
+    "baseExp": 102,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 903
+}

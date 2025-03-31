@@ -1,0 +1,198 @@
+{
+    "generation": 2,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            -1,
+            "DRAGONRUSH"
+        ],
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "WHIRLWIND"
+        ],
+        [
+            1,
+            "WEATHERBALL"
+        ],
+        [
+            1,
+            "ANCIENTPOWER"
+        ],
+        [
+            9,
+            "MIST"
+        ],
+        [
+            18,
+            "SAFEGUARD"
+        ],
+        [
+            27,
+            "CALMMIND"
+        ],
+        [
+            36,
+            "EXTRASENSORY"
+        ],
+        [
+            45,
+            "RECOVER"
+        ],
+        [
+            54,
+            "AEROBLAST"
+        ],
+        [
+            63,
+            "RAINDANCE"
+        ],
+        [
+            72,
+            "HYDROPUMP"
+        ],
+        [
+            81,
+            "FUTURESIGHT"
+        ],
+        [
+            90,
+            "SKYATTACK"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRINE",
+        "BULLDOZE",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DEFOG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLY",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICYWIND",
+        "IMPRISON",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SKYATTACK",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRICK",
+        "TWISTER",
+        "WATERFALL",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WHIRLPOOL",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 5.2,
+    "weight": 216.0,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [
+        "MULTISCALE"
+    ],
+    "baseTotal": 680,
+    "baseStats": [
+        106,
+        90,
+        130,
+        110,
+        90,
+        154
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Lugia",
+    "species": "LUGIA",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 340,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 249
+}

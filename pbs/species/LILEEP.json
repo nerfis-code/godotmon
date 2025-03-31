@@ -1,0 +1,160 @@
+{
+    "generation": 3,
+    "primaryType": "ROCK",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            4,
+            "ACID"
+        ],
+        [
+            8,
+            "CONFUSERAY"
+        ],
+        [
+            12,
+            "INGRAIN"
+        ],
+        [
+            16,
+            "ANCIENTPOWER"
+        ],
+        [
+            20,
+            "MEGADRAIN"
+        ],
+        [
+            24,
+            "BRINE"
+        ],
+        [
+            28,
+            "AMNESIA"
+        ],
+        [
+            32,
+            "GASTROACID"
+        ],
+        [
+            36,
+            "GIGADRAIN"
+        ],
+        [
+            41,
+            "STOCKPILE"
+        ],
+        [
+            41,
+            "SPITUP"
+        ],
+        [
+            41,
+            "SWALLOW"
+        ],
+        [
+            44,
+            "ENERGYBALL"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BIND",
+        "BODYSLAM",
+        "BRINE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STRINGSHOT",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "BIND",
+        "CURSE",
+        "MEGADRAIN",
+        "MIRRORCOAT",
+        "RECOVER",
+        "TICKLE"
+    ],
+    "height": 1.0,
+    "weight": 23.8,
+    "abilities": [
+        "SUCTIONCUPS"
+    ],
+    "hiddenAbilitie": [
+        "STORMDRAIN"
+    ],
+    "baseTotal": 355,
+    "baseStats": [
+        66,
+        41,
+        77,
+        23,
+        61,
+        87
+    ],
+    "flags": [],
+    "name": "Lileep",
+    "species": "LILEEP",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 71,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 345
+}

@@ -1,0 +1,189 @@
+{
+    "generation": 3,
+    "primaryType": "POISON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "SWAGGER"
+        ],
+        [
+            4,
+            "BITE"
+        ],
+        [
+            6,
+            "LICK"
+        ],
+        [
+            9,
+            "POISONTAIL"
+        ],
+        [
+            11,
+            "FEINT"
+        ],
+        [
+            14,
+            "SCREECH"
+        ],
+        [
+            19,
+            "GLARE"
+        ],
+        [
+            21,
+            "POISONFANG"
+        ],
+        [
+            24,
+            "VENOSHOCK"
+        ],
+        [
+            24,
+            "VENOMDRENCH"
+        ],
+        [
+            26,
+            "NIGHTSLASH"
+        ],
+        [
+            29,
+            "GASTROACID"
+        ],
+        [
+            31,
+            "POISONJAB"
+        ],
+        [
+            34,
+            "HAZE"
+        ],
+        [
+            36,
+            "SWORDSDANCE"
+        ],
+        [
+            39,
+            "CRUNCH"
+        ],
+        [
+            41,
+            "BELCH"
+        ],
+        [
+            44,
+            "COIL"
+        ],
+        [
+            46,
+            "SLUDGEBOMB"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BIND",
+        "BODYSLAM",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONTAIL",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GASTROACID",
+        "GIGADRAIN",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNATCH",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "VENOSHOCK",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "ASSURANCE",
+        "BODYSLAM",
+        "FINALGAMBIT",
+        "NIGHTSLASH",
+        "SCARYFACE",
+        "SPITUP",
+        "STOCKPILE",
+        "SWALLOW",
+        "SWITCHEROO"
+    ],
+    "height": 2.7,
+    "weight": 52.5,
+    "abilities": [
+        "SHEDSKIN"
+    ],
+    "hiddenAbilitie": [
+        "INFILTRATOR"
+    ],
+    "baseTotal": 458,
+    "baseStats": [
+        73,
+        100,
+        60,
+        65,
+        100,
+        60
+    ],
+    "flags": [],
+    "name": "Seviper",
+    "species": "SEVIPER",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 160,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "FLUCTUATING",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 336
+}

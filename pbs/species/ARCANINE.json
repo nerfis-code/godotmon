@@ -1,0 +1,514 @@
+{
+    "generation": 1,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "EXTREMESPEED"
+        ],
+        [
+            1,
+            "BURNUP"
+        ],
+        [
+            1,
+            "FLAMEWHEEL"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "AGILITY"
+        ],
+        [
+            1,
+            "FIREFANG"
+        ],
+        [
+            1,
+            "RETALIATE"
+        ],
+        [
+            1,
+            "CRUNCH"
+        ],
+        [
+            1,
+            "TAKEDOWN"
+        ],
+        [
+            1,
+            "ROAR"
+        ],
+        [
+            1,
+            "PLAYROUGH"
+        ],
+        [
+            1,
+            "REVERSAL"
+        ],
+        [
+            1,
+            "FLAREBLITZ"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "HOWL"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            5,
+            "FLAMETHROWER"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "COVET",
+        "CRUNCH",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "INCINERATE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "OVERHEAT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVERSAL",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSMASH",
+        "ROUND",
+        "SAFEGUARD",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THUNDERFANG",
+        "WILDCHARGE",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 155.0,
+    "abilities": [
+        "INTIMIDATE",
+        "FLASHFIRE"
+    ],
+    "hiddenAbilitie": [
+        "JUSTIFIED"
+    ],
+    "baseTotal": 555,
+    "baseStats": [
+        90,
+        110,
+        80,
+        95,
+        100,
+        80
+    ],
+    "flags": [],
+    "name": "Arcanine",
+    "species": "ARCANINE",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 194,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 25,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "FIRE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "EXTREMESPEED"
+                ],
+                [
+                    1,
+                    "BURNUP"
+                ],
+                [
+                    1,
+                    "FLAMEWHEEL"
+                ],
+                [
+                    1,
+                    "HELPINGHAND"
+                ],
+                [
+                    1,
+                    "AGILITY"
+                ],
+                [
+                    1,
+                    "FIREFANG"
+                ],
+                [
+                    1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "CRUNCH"
+                ],
+                [
+                    1,
+                    "TAKEDOWN"
+                ],
+                [
+                    1,
+                    "ROAR"
+                ],
+                [
+                    1,
+                    "PLAYROUGH"
+                ],
+                [
+                    1,
+                    "REVERSAL"
+                ],
+                [
+                    1,
+                    "FLAREBLITZ"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "HOWL"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    5,
+                    "FLAMETHROWER"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "ATTRACT",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "COVET",
+                "CRUNCH",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAGONPULSE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FIRESPIN",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "INCINERATE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "OVERHEAT",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVERSAL",
+                "ROAR",
+                "ROCKCLIMB",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SCARYFACE",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SOLARBEAM",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "THIEF",
+                "THUNDERFANG",
+                "WILDCHARGE",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 1.9,
+            "weight": 155.0,
+            "abilities": [
+                "INTIMIDATE",
+                "FLASHFIRE"
+            ],
+            "hiddenAbilitie": [
+                "JUSTIFIED"
+            ],
+            "baseTotal": 555,
+            "baseStats": [
+                90,
+                110,
+                80,
+                95,
+                100,
+                80
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Arcanine"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FIRE",
+            "secondaryType": "ROCK",
+            "moves": [
+                [
+                    0,
+                    "EXTREMESPEED"
+                ],
+                [
+                    1,
+                    "FLAMEWHEEL"
+                ],
+                [
+                    1,
+                    "FIREFANG"
+                ],
+                [
+                    1,
+                    "FLAREBLITZ"
+                ],
+                [
+                    1,
+                    "HOWL"
+                ],
+                [
+                    1,
+                    "HELPINGHAND"
+                ],
+                [
+                    1,
+                    "CRUNCH"
+                ],
+                [
+                    1,
+                    "REVERSAL"
+                ],
+                [
+                    1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "TAKEDOWN"
+                ],
+                [
+                    1,
+                    "AGILITY"
+                ],
+                [
+                    1,
+                    "ROCKTHROW"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    1,
+                    "ROAR"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "ROCKSLIDE"
+                ],
+                [
+                    5,
+                    "FLAMETHROWER"
+                ],
+                [
+                    64,
+                    "RAGINGFURY"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CLOSECOMBAT",
+                "CRUNCH",
+                "DIG",
+                "DOUBLEEDGE",
+                "DRAGONPULSE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FIRESPIN",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "GIGAIMPACT",
+                "HEATCRASH",
+                "HEATWAVE",
+                "HELPINGHAND",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "IRONHEAD",
+                "OUTRAGE",
+                "OVERHEAT",
+                "POWERGEM",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "REST",
+                "REVERSAL",
+                "ROAR",
+                "ROCKBLAST",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SCORCHINGSANDS",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SMARTSTRIKE",
+                "SNARL",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAKEDOWN",
+                "TEMPERFLARE",
+                "THIEF",
+                "THUNDERFANG",
+                "WILDCHARGE",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 2.0,
+            "weight": 168.0,
+            "abilities": [
+                "INTIMIDATE",
+                "FLASHFIRE"
+            ],
+            "hiddenAbilitie": [
+                "ROCKHEAD"
+            ],
+            "baseTotal": 555,
+            "baseStats": [
+                95,
+                115,
+                80,
+                90,
+                95,
+                80
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Hisui"
+        }
+    ],
+    "internationalPokedex": 59
+}

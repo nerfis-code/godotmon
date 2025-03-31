@@ -1,0 +1,50 @@
+{
+    "generation": 8,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "STRUGGLEBUG"
+        ]
+    ],
+    "tutorMoves": [],
+    "eggMoves": [
+        "INFESTATION",
+        "RECOVER",
+        "STICKYWEB",
+        "SUPERSONIC"
+    ],
+    "height": 0.4,
+    "weight": 8.0,
+    "abilities": [
+        "SWARM",
+        "COMPOUNDEYES"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 180,
+    "baseStats": [
+        25,
+        20,
+        20,
+        45,
+        25,
+        45
+    ],
+    "flags": [],
+    "name": "Blipbug",
+    "species": "BLIPBUG",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 36,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 824
+}

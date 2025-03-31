@@ -1,0 +1,177 @@
+{
+    "generation": 7,
+    "primaryType": "WATER",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "DISARMINGVOICE"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            5,
+            "WITHDRAW"
+        ],
+        [
+            10,
+            "MIST"
+        ],
+        [
+            10,
+            "HAZE"
+        ],
+        [
+            15,
+            "AQUARING"
+        ],
+        [
+            20,
+            "WATERPULSE"
+        ],
+        [
+            25,
+            "BRINE"
+        ],
+        [
+            30,
+            "DEFOG"
+        ],
+        [
+            35,
+            "HEALPULSE"
+        ],
+        [
+            40,
+            "SURF"
+        ],
+        [
+            45,
+            "MUDDYWATER"
+        ],
+        [
+            50,
+            "MEANLOOK"
+        ],
+        [
+            55,
+            "NATURESMADNESS"
+        ],
+        [
+            60,
+            "MOONBLAST"
+        ],
+        [
+            65,
+            "HYDROPUMP"
+        ],
+        [
+            70,
+            "SOAK"
+        ],
+        [
+            75,
+            "MISTYTERRAIN"
+        ]
+    ],
+    "tutorMoves": [
+        "BLIZZARD",
+        "BRINE",
+        "CALMMIND",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DEFOG",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "MISTYTERRAIN",
+        "MUDDYWATER",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "TORMENT",
+        "TOXIC",
+        "TRICK",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WONDERROOM"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 21.2,
+    "abilities": [
+        "MISTYSURGE"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 570,
+    "baseStats": [
+        70,
+        75,
+        115,
+        85,
+        95,
+        130
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Tapu Fini",
+    "species": "TAPUFINI",
+    "catchRate": 3,
+    "happiness": 50,
+    "baseExp": 285,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 788
+}

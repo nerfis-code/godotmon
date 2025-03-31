@@ -1,0 +1,483 @@
+{
+    "generation": 1,
+    "primaryType": "ICE",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "MIST"
+        ],
+        [
+            5,
+            "POWDERSNOW"
+        ],
+        [
+            10,
+            "REFLECT"
+        ],
+        [
+            15,
+            "ICESHARD"
+        ],
+        [
+            20,
+            "AGILITY"
+        ],
+        [
+            25,
+            "ANCIENTPOWER"
+        ],
+        [
+            30,
+            "TAILWIND"
+        ],
+        [
+            35,
+            "FREEZEDRY"
+        ],
+        [
+            40,
+            "ROOST"
+        ],
+        [
+            45,
+            "ICEBEAM"
+        ],
+        [
+            50,
+            "HAIL"
+        ],
+        [
+            50,
+            "SNOWSCAPE"
+        ],
+        [
+            55,
+            "HURRICANE"
+        ],
+        [
+            60,
+            "MINDREADER"
+        ],
+        [
+            60,
+            "HAZE"
+        ],
+        [
+            65,
+            "BLIZZARD"
+        ],
+        [
+            70,
+            "SHEERCOLD"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ANCIENTPOWER",
+        "AURORAVEIL",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BRAVEBIRD",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "LASERFOCUS",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROOST",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SKYATTACK",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TRIPLEAXEL",
+        "TWISTER",
+        "UTURN",
+        "WATERPULSE",
+        "WEATHERBALL"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 55.4,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [
+        "SNOWCLOAK"
+    ],
+    "baseTotal": 580,
+    "baseStats": [
+        90,
+        85,
+        100,
+        85,
+        95,
+        125
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Articuno",
+    "species": "ARTICUNO",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "ICE",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "MIST"
+                ],
+                [
+                    5,
+                    "POWDERSNOW"
+                ],
+                [
+                    10,
+                    "REFLECT"
+                ],
+                [
+                    15,
+                    "ICESHARD"
+                ],
+                [
+                    20,
+                    "AGILITY"
+                ],
+                [
+                    25,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    30,
+                    "TAILWIND"
+                ],
+                [
+                    35,
+                    "FREEZEDRY"
+                ],
+                [
+                    40,
+                    "ROOST"
+                ],
+                [
+                    45,
+                    "ICEBEAM"
+                ],
+                [
+                    50,
+                    "HAIL"
+                ],
+                [
+                    50,
+                    "SNOWSCAPE"
+                ],
+                [
+                    55,
+                    "HURRICANE"
+                ],
+                [
+                    60,
+                    "MINDREADER"
+                ],
+                [
+                    60,
+                    "HAZE"
+                ],
+                [
+                    65,
+                    "BLIZZARD"
+                ],
+                [
+                    70,
+                    "SHEERCOLD"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "AIRCUTTER",
+                "AIRSLASH",
+                "ANCIENTPOWER",
+                "AURORAVEIL",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BRAVEBIRD",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FROSTBREATH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HAIL",
+                "HIDDENPOWER",
+                "HURRICANE",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "LASERFOCUS",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PLUCK",
+                "PROTECT",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROOST",
+                "ROUND",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SKYATTACK",
+                "SKYDROP",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "TRIPLEAXEL",
+                "TWISTER",
+                "UTURN",
+                "WATERPULSE",
+                "WEATHERBALL"
+            ],
+            "eggMoves": [],
+            "height": 1.7,
+            "weight": 55.4,
+            "abilities": [
+                "PRESSURE"
+            ],
+            "hiddenAbilitie": [
+                "SNOWCLOAK"
+            ],
+            "baseTotal": 580,
+            "baseStats": [
+                90,
+                85,
+                100,
+                85,
+                95,
+                125
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 0,
+            "formName": "Articuno"
+        },
+        {
+            "generation": 8,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "PSYCHOSHIFT"
+                ],
+                [
+                    5,
+                    "CONFUSION"
+                ],
+                [
+                    10,
+                    "REFLECT"
+                ],
+                [
+                    15,
+                    "HYPNOSIS"
+                ],
+                [
+                    20,
+                    "AGILITY"
+                ],
+                [
+                    25,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    30,
+                    "TAILWIND"
+                ],
+                [
+                    35,
+                    "PSYCHOCUT"
+                ],
+                [
+                    40,
+                    "RECOVER"
+                ],
+                [
+                    45,
+                    "FREEZINGGLARE"
+                ],
+                [
+                    50,
+                    "DREAMEATER"
+                ],
+                [
+                    55,
+                    "HURRICANE"
+                ],
+                [
+                    60,
+                    "MINDREADER"
+                ],
+                [
+                    65,
+                    "FUTURESIGHT"
+                ],
+                [
+                    70,
+                    "TRICKROOM"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "AIRSLASH",
+                "ALLYSWITCH",
+                "BRAVEBIRD",
+                "CALMMIND",
+                "CONFIDE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FLY",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGAIMPACT",
+                "GUARDSWAP",
+                "HIDDENPOWER",
+                "HURRICANE",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "IMPRISON",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "POWERSWAP",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHOCUT",
+                "PSYSHOCK",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SHADOWBALL",
+                "SKILLSWAP",
+                "SNORE",
+                "STEELWING",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "TRICKROOM",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.7,
+            "weight": 50.9,
+            "abilities": [
+                "COMPETITIVE"
+            ],
+            "hiddenAbilitie": [
+                "COMPETITIVE"
+            ],
+            "baseTotal": 580,
+            "baseStats": [
+                90,
+                85,
+                85,
+                95,
+                125,
+                100
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 1,
+            "formName": "Forma Galar"
+        }
+    ],
+    "internationalPokedex": 144
+}

@@ -1,0 +1,159 @@
+{
+    "generation": 5,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "LOWKICK"
+        ],
+        [
+            1,
+            "ROCKTHROW"
+        ],
+        [
+            12,
+            "FOCUSENERGY"
+        ],
+        [
+            16,
+            "BULKUP"
+        ],
+        [
+            20,
+            "ROCKSLIDE"
+        ],
+        [
+            24,
+            "SLAM"
+        ],
+        [
+            30,
+            "SCARYFACE"
+        ],
+        [
+            36,
+            "DYNAMICPUNCH"
+        ],
+        [
+            42,
+            "HAMMERARM"
+        ],
+        [
+            48,
+            "STONEEDGE"
+        ],
+        [
+            54,
+            "SUPERPOWER"
+        ],
+        [
+            60,
+            "FOCUSPUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLOCK",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "ICEPUNCH",
+        "KNOCKOFF",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 40.0,
+    "abilities": [
+        "GUTS",
+        "SHEERFORCE"
+    ],
+    "hiddenAbilitie": [
+        "IRONFIST"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        85,
+        105,
+        85,
+        40,
+        40,
+        50
+    ],
+    "flags": [],
+    "name": "Gurdurr",
+    "species": "GURDURR",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 142,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 25,
+    "forms": [],
+    "internationalPokedex": 533
+}

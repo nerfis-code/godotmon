@@ -1,0 +1,982 @@
+{
+    "generation": 5,
+    "primaryType": "BUG",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            7,
+            "SCREECH"
+        ],
+        [
+            14,
+            "METALCLAW"
+        ],
+        [
+            21,
+            "FELLSTINGER"
+        ],
+        [
+            28,
+            "FLAMECHARGE"
+        ],
+        [
+            35,
+            "METALSOUND"
+        ],
+        [
+            42,
+            "XSCISSOR"
+        ],
+        [
+            49,
+            "MAGNETRISE"
+        ],
+        [
+            56,
+            "BUGBUZZ"
+        ],
+        [
+            63,
+            "SIMPLEBEAM"
+        ],
+        [
+            70,
+            "ZAPCANNON"
+        ],
+        [
+            77,
+            "LOCKON"
+        ],
+        [
+            84,
+            "TECHNOBLAST"
+        ],
+        [
+            91,
+            "SELFDESTRUCT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ALLYSWITCH",
+        "ASSURANCE",
+        "BLAZEKICK",
+        "BLIZZARD",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "ELECTROWEB",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPLOSION",
+        "FACADE",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLASHCANNON",
+        "FLY",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "GUNKSHOT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LASTRESORT",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELBEAM",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRIATTACK",
+        "UTURN",
+        "XSCISSOR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 82.5,
+    "abilities": [
+        "DOWNLOAD"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        71,
+        120,
+        95,
+        99,
+        120,
+        95
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Genesect",
+    "species": "GENESECT",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 300,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPECIAL_ATTACK",
+        1,
+        "SPEED",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "BUG",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    1,
+                    "FURYCUTTER"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    7,
+                    "SCREECH"
+                ],
+                [
+                    14,
+                    "METALCLAW"
+                ],
+                [
+                    21,
+                    "FELLSTINGER"
+                ],
+                [
+                    28,
+                    "FLAMECHARGE"
+                ],
+                [
+                    35,
+                    "METALSOUND"
+                ],
+                [
+                    42,
+                    "XSCISSOR"
+                ],
+                [
+                    49,
+                    "MAGNETRISE"
+                ],
+                [
+                    56,
+                    "BUGBUZZ"
+                ],
+                [
+                    63,
+                    "SIMPLEBEAM"
+                ],
+                [
+                    70,
+                    "ZAPCANNON"
+                ],
+                [
+                    77,
+                    "LOCKON"
+                ],
+                [
+                    84,
+                    "TECHNOBLAST"
+                ],
+                [
+                    91,
+                    "SELFDESTRUCT"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ALLYSWITCH",
+                "ASSURANCE",
+                "BLAZEKICK",
+                "BLIZZARD",
+                "BUGBITE",
+                "BUGBUZZ",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "ELECTROWEB",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPLOSION",
+                "FACADE",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLASH",
+                "FLASHCANNON",
+                "FLY",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GUNKSHOT",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "INFESTATION",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASTRESORT",
+                "LEECHLIFE",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "RECYCLE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEELBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "TELEKINESIS",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TOXIC",
+                "TRIATTACK",
+                "UTURN",
+                "XSCISSOR",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 82.5,
+            "abilities": [
+                "DOWNLOAD"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                71,
+                120,
+                95,
+                99,
+                120,
+                95
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 0,
+            "formName": "Forma Normal"
+        },
+        {
+            "generation": 5,
+            "primaryType": "BUG",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    1,
+                    "FURYCUTTER"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    7,
+                    "SCREECH"
+                ],
+                [
+                    14,
+                    "METALCLAW"
+                ],
+                [
+                    21,
+                    "FELLSTINGER"
+                ],
+                [
+                    28,
+                    "FLAMECHARGE"
+                ],
+                [
+                    35,
+                    "METALSOUND"
+                ],
+                [
+                    42,
+                    "XSCISSOR"
+                ],
+                [
+                    49,
+                    "MAGNETRISE"
+                ],
+                [
+                    56,
+                    "BUGBUZZ"
+                ],
+                [
+                    63,
+                    "SIMPLEBEAM"
+                ],
+                [
+                    70,
+                    "ZAPCANNON"
+                ],
+                [
+                    77,
+                    "LOCKON"
+                ],
+                [
+                    84,
+                    "TECHNOBLAST"
+                ],
+                [
+                    91,
+                    "SELFDESTRUCT"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ALLYSWITCH",
+                "ASSURANCE",
+                "BLAZEKICK",
+                "BLIZZARD",
+                "BUGBITE",
+                "BUGBUZZ",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "ELECTROWEB",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPLOSION",
+                "FACADE",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLASH",
+                "FLASHCANNON",
+                "FLY",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GUNKSHOT",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "INFESTATION",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASTRESORT",
+                "LEECHLIFE",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "RECYCLE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEELBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "TELEKINESIS",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TOXIC",
+                "TRIATTACK",
+                "UTURN",
+                "XSCISSOR",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 82.5,
+            "abilities": [
+                "DOWNLOAD"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                71,
+                120,
+                95,
+                99,
+                120,
+                95
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 1,
+            "formName": "Forma FulgoROM"
+        },
+        {
+            "generation": 5,
+            "primaryType": "BUG",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    1,
+                    "FURYCUTTER"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    7,
+                    "SCREECH"
+                ],
+                [
+                    14,
+                    "METALCLAW"
+                ],
+                [
+                    21,
+                    "FELLSTINGER"
+                ],
+                [
+                    28,
+                    "FLAMECHARGE"
+                ],
+                [
+                    35,
+                    "METALSOUND"
+                ],
+                [
+                    42,
+                    "XSCISSOR"
+                ],
+                [
+                    49,
+                    "MAGNETRISE"
+                ],
+                [
+                    56,
+                    "BUGBUZZ"
+                ],
+                [
+                    63,
+                    "SIMPLEBEAM"
+                ],
+                [
+                    70,
+                    "ZAPCANNON"
+                ],
+                [
+                    77,
+                    "LOCKON"
+                ],
+                [
+                    84,
+                    "TECHNOBLAST"
+                ],
+                [
+                    91,
+                    "SELFDESTRUCT"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ALLYSWITCH",
+                "ASSURANCE",
+                "BLAZEKICK",
+                "BLIZZARD",
+                "BUGBITE",
+                "BUGBUZZ",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "ELECTROWEB",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPLOSION",
+                "FACADE",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLASH",
+                "FLASHCANNON",
+                "FLY",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GUNKSHOT",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "INFESTATION",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASTRESORT",
+                "LEECHLIFE",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "RECYCLE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEELBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "TELEKINESIS",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TOXIC",
+                "TRIATTACK",
+                "UTURN",
+                "XSCISSOR",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 82.5,
+            "abilities": [
+                "DOWNLOAD"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                71,
+                120,
+                95,
+                99,
+                120,
+                95
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 2,
+            "formName": "Forma PiroROM"
+        },
+        {
+            "generation": 5,
+            "primaryType": "BUG",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    1,
+                    "FURYCUTTER"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    7,
+                    "SCREECH"
+                ],
+                [
+                    14,
+                    "METALCLAW"
+                ],
+                [
+                    21,
+                    "FELLSTINGER"
+                ],
+                [
+                    28,
+                    "FLAMECHARGE"
+                ],
+                [
+                    35,
+                    "METALSOUND"
+                ],
+                [
+                    42,
+                    "XSCISSOR"
+                ],
+                [
+                    49,
+                    "MAGNETRISE"
+                ],
+                [
+                    56,
+                    "BUGBUZZ"
+                ],
+                [
+                    63,
+                    "SIMPLEBEAM"
+                ],
+                [
+                    70,
+                    "ZAPCANNON"
+                ],
+                [
+                    77,
+                    "LOCKON"
+                ],
+                [
+                    84,
+                    "TECHNOBLAST"
+                ],
+                [
+                    91,
+                    "SELFDESTRUCT"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ALLYSWITCH",
+                "ASSURANCE",
+                "BLAZEKICK",
+                "BLIZZARD",
+                "BUGBITE",
+                "BUGBUZZ",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "ELECTROWEB",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPLOSION",
+                "FACADE",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLASH",
+                "FLASHCANNON",
+                "FLY",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GUNKSHOT",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "INFESTATION",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASTRESORT",
+                "LEECHLIFE",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "RECYCLE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEELBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "TELEKINESIS",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TOXIC",
+                "TRIATTACK",
+                "UTURN",
+                "XSCISSOR",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 82.5,
+            "abilities": [
+                "DOWNLOAD"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                71,
+                120,
+                95,
+                99,
+                120,
+                95
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 3,
+            "formName": "Forma CrioROM"
+        },
+        {
+            "generation": 5,
+            "primaryType": "BUG",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    1,
+                    "FURYCUTTER"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    7,
+                    "SCREECH"
+                ],
+                [
+                    14,
+                    "METALCLAW"
+                ],
+                [
+                    21,
+                    "FELLSTINGER"
+                ],
+                [
+                    28,
+                    "FLAMECHARGE"
+                ],
+                [
+                    35,
+                    "METALSOUND"
+                ],
+                [
+                    42,
+                    "XSCISSOR"
+                ],
+                [
+                    49,
+                    "MAGNETRISE"
+                ],
+                [
+                    56,
+                    "BUGBUZZ"
+                ],
+                [
+                    63,
+                    "SIMPLEBEAM"
+                ],
+                [
+                    70,
+                    "ZAPCANNON"
+                ],
+                [
+                    77,
+                    "LOCKON"
+                ],
+                [
+                    84,
+                    "TECHNOBLAST"
+                ],
+                [
+                    91,
+                    "SELFDESTRUCT"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ALLYSWITCH",
+                "ASSURANCE",
+                "BLAZEKICK",
+                "BLIZZARD",
+                "BUGBITE",
+                "BUGBUZZ",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "ELECTROWEB",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPLOSION",
+                "FACADE",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLASH",
+                "FLASHCANNON",
+                "FLY",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GUNKSHOT",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "INFESTATION",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASTRESORT",
+                "LEECHLIFE",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "RECYCLE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEELBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "TELEKINESIS",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TOXIC",
+                "TRIATTACK",
+                "UTURN",
+                "XSCISSOR",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 82.5,
+            "abilities": [
+                "DOWNLOAD"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                71,
+                120,
+                95,
+                99,
+                120,
+                95
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 4,
+            "formName": "Forma HidroROM"
+        }
+    ],
+    "internationalPokedex": 649
+}

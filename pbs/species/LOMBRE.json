@@ -1,0 +1,187 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "TEETERDANCE"
+        ],
+        [
+            1,
+            "FAKEOUT"
+        ],
+        [
+            1,
+            "KNOCKOFF"
+        ],
+        [
+            1,
+            "FLAIL"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            9,
+            "MIST"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            18,
+            "FURYSWIPES"
+        ],
+        [
+            24,
+            "BUBBLEBEAM"
+        ],
+        [
+            30,
+            "NATUREPOWER"
+        ],
+        [
+            30,
+            "LEECHSEED"
+        ],
+        [
+            36,
+            "GIGADRAIN"
+        ],
+        [
+            43,
+            "RAINDANCE"
+        ],
+        [
+            50,
+            "ZENHEADBUTT"
+        ],
+        [
+            57,
+            "ENERGYBALL"
+        ],
+        [
+            64,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DYNAMICPUNCH",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYDROPUMP",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "KNOCKOFF",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THIEF",
+        "THUNDERPUNCH",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 32.5,
+    "abilities": [
+        "SWIFTSWIM",
+        "RAINDISH"
+    ],
+    "hiddenAbilitie": [
+        "OWNTEMPO"
+    ],
+    "baseTotal": 340,
+    "baseStats": [
+        60,
+        50,
+        50,
+        50,
+        60,
+        70
+    ],
+    "flags": [],
+    "name": "Lombre",
+    "species": "LOMBRE",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 119,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 271
+}

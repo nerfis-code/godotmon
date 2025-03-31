@@ -1,0 +1,151 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            5,
+            "SUPERSONIC"
+        ],
+        [
+            10,
+            "WATERPULSE"
+        ],
+        [
+            15,
+            "HORNATTACK"
+        ],
+        [
+            20,
+            "AGILITY"
+        ],
+        [
+            25,
+            "AQUARING"
+        ],
+        [
+            30,
+            "FLAIL"
+        ],
+        [
+            35,
+            "WATERFALL"
+        ],
+        [
+            40,
+            "SOAK"
+        ],
+        [
+            45,
+            "MEGAHORN"
+        ],
+        [
+            50,
+            "HORNDRILL"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "ENDURE",
+        "FACADE",
+        "FLIPTURN",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "KNOCKOFF",
+        "MEGAHORN",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "THROATCHOP",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "ACUPRESSURE",
+        "AQUATAIL",
+        "BODYSLAM",
+        "HAZE",
+        "HYDROPUMP",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PSYBEAM",
+        "SKULLBASH"
+    ],
+    "height": 0.6,
+    "weight": 15.0,
+    "abilities": [
+        "SWIFTSWIM",
+        "WATERVEIL"
+    ],
+    "hiddenAbilitie": [
+        "LIGHTNINGROD"
+    ],
+    "baseTotal": 320,
+    "baseStats": [
+        45,
+        67,
+        60,
+        63,
+        35,
+        50
+    ],
+    "flags": [],
+    "name": "Goldeen",
+    "species": "GOLDEEN",
+    "catchRate": 225,
+    "happiness": 50,
+    "baseExp": 64,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 118
+}

@@ -1,0 +1,149 @@
+{
+    "generation": 5,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "CRUNCH"
+        ],
+        [
+            1,
+            "THRASH"
+        ],
+        [
+            1,
+            "ZAPCANNON"
+        ],
+        [
+            1,
+            "GASTROACID"
+        ],
+        [
+            1,
+            "COIL"
+        ],
+        [
+            1,
+            "IONDELUGE"
+        ],
+        [
+            1,
+            "CRUSHCLAW"
+        ],
+        [
+            1,
+            "HEADBUTT"
+        ],
+        [
+            1,
+            "ACID"
+        ],
+        [
+            1,
+            "DISCHARGE"
+        ],
+        [
+            5,
+            "WILDCHARGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AQUATAIL",
+        "ATTRACT",
+        "BIND",
+        "BOUNCE",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DRAINPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLASHCANNON",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERFANG",
+        "SUPERPOWER",
+        "SWAGGER",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UTURN",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 2.1,
+    "weight": 80.5,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 515,
+    "baseStats": [
+        85,
+        115,
+        80,
+        50,
+        105,
+        80
+    ],
+    "flags": [],
+    "name": "Eelektross",
+    "species": "EELEKTROSS",
+    "catchRate": 30,
+    "happiness": 50,
+    "baseExp": 258,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 604
+}

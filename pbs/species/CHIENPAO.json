@@ -1,0 +1,149 @@
+{
+    "generation": 9,
+    "primaryType": "DARK",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            1,
+            "SPITE"
+        ],
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "MEANLOOK"
+        ],
+        [
+            5,
+            "ICYWIND"
+        ],
+        [
+            10,
+            "PAYBACK"
+        ],
+        [
+            15,
+            "MIST"
+        ],
+        [
+            15,
+            "HAZE"
+        ],
+        [
+            20,
+            "ICESHARD"
+        ],
+        [
+            25,
+            "SWORDSDANCE"
+        ],
+        [
+            30,
+            "SNOWSCAPE"
+        ],
+        [
+            35,
+            "NIGHTSLASH"
+        ],
+        [
+            40,
+            "DARKPULSE"
+        ],
+        [
+            45,
+            "ICICLECRASH"
+        ],
+        [
+            50,
+            "RUINATION"
+        ],
+        [
+            55,
+            "SUCKERPUNCH"
+        ],
+        [
+            60,
+            "SACREDSWORD"
+        ],
+        [
+            65,
+            "RECOVER"
+        ],
+        [
+            70,
+            "THROATCHOP"
+        ],
+        [
+            75,
+            "SHEERCOLD"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BRICKBREAK",
+        "CRUNCH",
+        "DARKPULSE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "GIGAIMPACT",
+        "HAZE",
+        "HEX",
+        "HYPERBEAM",
+        "ICEFANG",
+        "ICESPINNER",
+        "ICYWIND",
+        "LASHOUT",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SNARL",
+        "SNOWSCAPE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "TAUNT",
+        "THROATCHOP"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 152.2,
+    "abilities": [
+        "SWORDOFRUIN"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        80,
+        120,
+        80,
+        135,
+        90,
+        65
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Chien-Pao",
+    "species": "CHIENPAO",
+    "catchRate": 6,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 1002
+}

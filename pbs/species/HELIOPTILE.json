@@ -1,0 +1,152 @@
+{
+    "generation": 6,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "NORMAL",
+    "moves": [
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            4,
+            "POUND"
+        ],
+        [
+            8,
+            "THUNDERSHOCK"
+        ],
+        [
+            12,
+            "QUICKATTACK"
+        ],
+        [
+            16,
+            "CHARGE"
+        ],
+        [
+            20,
+            "BULLDOZE"
+        ],
+        [
+            24,
+            "VOLTSWITCH"
+        ],
+        [
+            28,
+            "PARABOLICCHARGE"
+        ],
+        [
+            32,
+            "THUNDERWAVE"
+        ],
+        [
+            36,
+            "THUNDERBOLT"
+        ],
+        [
+            40,
+            "ELECTRIFY"
+        ],
+        [
+            44,
+            "THUNDER"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAGONTAIL",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "LOWSWEEP",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UTURN",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "DRAGONRUSH",
+        "DRAGONTAIL",
+        "GLARE"
+    ],
+    "height": 0.5,
+    "weight": 6.0,
+    "abilities": [
+        "DRYSKIN",
+        "SANDVEIL"
+    ],
+    "hiddenAbilitie": [
+        "SOLARPOWER"
+    ],
+    "baseTotal": 289,
+    "baseStats": [
+        44,
+        38,
+        33,
+        70,
+        61,
+        43
+    ],
+    "flags": [],
+    "name": "Helioptile",
+    "species": "HELIOPTILE",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 58,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 694
+}

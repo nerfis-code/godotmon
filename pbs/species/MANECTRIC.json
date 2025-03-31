@@ -1,0 +1,461 @@
+{
+    "generation": 3,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "FIREFANG"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "THUNDERWAVE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "HOWL"
+        ],
+        [
+            12,
+            "QUICKATTACK"
+        ],
+        [
+            16,
+            "SHOCKWAVE"
+        ],
+        [
+            20,
+            "BITE"
+        ],
+        [
+            24,
+            "THUNDERFANG"
+        ],
+        [
+            30,
+            "ROAR"
+        ],
+        [
+            36,
+            "DISCHARGE"
+        ],
+        [
+            42,
+            "CHARGE"
+        ],
+        [
+            48,
+            "WILDCHARGE"
+        ],
+        [
+            54,
+            "THUNDER"
+        ],
+        [
+            60,
+            "ELECTRICTERRAIN"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CRUNCH",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FLAMETHROWER",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEFANG",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROAR",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "UPROAR",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 40.2,
+    "abilities": [
+        "STATIC",
+        "LIGHTNINGROD"
+    ],
+    "hiddenAbilitie": [
+        "MINUS"
+    ],
+    "baseTotal": 475,
+    "baseStats": [
+        70,
+        75,
+        60,
+        105,
+        105,
+        60
+    ],
+    "flags": [],
+    "name": "Manectric",
+    "species": "MANECTRIC",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 166,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 3,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "FIREFANG"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "THUNDERWAVE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "HOWL"
+                ],
+                [
+                    12,
+                    "QUICKATTACK"
+                ],
+                [
+                    16,
+                    "SHOCKWAVE"
+                ],
+                [
+                    20,
+                    "BITE"
+                ],
+                [
+                    24,
+                    "THUNDERFANG"
+                ],
+                [
+                    30,
+                    "ROAR"
+                ],
+                [
+                    36,
+                    "DISCHARGE"
+                ],
+                [
+                    42,
+                    "CHARGE"
+                ],
+                [
+                    48,
+                    "WILDCHARGE"
+                ],
+                [
+                    54,
+                    "THUNDER"
+                ],
+                [
+                    60,
+                    "ELECTRICTERRAIN"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ATTRACT",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "CRUNCH",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EERIEIMPULSE",
+                "ELECTRICTERRAIN",
+                "ELECTROBALL",
+                "ENDURE",
+                "FACADE",
+                "FIREFANG",
+                "FLAMETHROWER",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEFANG",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "RISINGVOLTAGE",
+                "ROAR",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERFANG",
+                "THUNDERWAVE",
+                "UPROAR",
+                "VOLTSWITCH",
+                "WILDCHARGE"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 40.2,
+            "abilities": [
+                "STATIC",
+                "LIGHTNINGROD"
+            ],
+            "hiddenAbilitie": [
+                "MINUS"
+            ],
+            "baseTotal": 475,
+            "baseStats": [
+                70,
+                75,
+                60,
+                105,
+                105,
+                60
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Manectric"
+        },
+        {
+            "generation": 6,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "FIREFANG"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "THUNDERWAVE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "HOWL"
+                ],
+                [
+                    12,
+                    "QUICKATTACK"
+                ],
+                [
+                    16,
+                    "SHOCKWAVE"
+                ],
+                [
+                    20,
+                    "BITE"
+                ],
+                [
+                    24,
+                    "THUNDERFANG"
+                ],
+                [
+                    30,
+                    "ROAR"
+                ],
+                [
+                    36,
+                    "DISCHARGE"
+                ],
+                [
+                    42,
+                    "CHARGE"
+                ],
+                [
+                    48,
+                    "WILDCHARGE"
+                ],
+                [
+                    54,
+                    "THUNDER"
+                ],
+                [
+                    60,
+                    "ELECTRICTERRAIN"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ATTRACT",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "CRUNCH",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EERIEIMPULSE",
+                "ELECTRICTERRAIN",
+                "ELECTROBALL",
+                "ENDURE",
+                "FACADE",
+                "FIREFANG",
+                "FLAMETHROWER",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEFANG",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "RISINGVOLTAGE",
+                "ROAR",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERFANG",
+                "THUNDERWAVE",
+                "UPROAR",
+                "VOLTSWITCH",
+                "WILDCHARGE"
+            ],
+            "eggMoves": [],
+            "height": 1.8,
+            "weight": 44.0,
+            "abilities": [
+                "INTIMIDATE"
+            ],
+            "hiddenAbilitie": [
+                "INTIMIDATE"
+            ],
+            "baseTotal": 575,
+            "baseStats": [
+                70,
+                75,
+                80,
+                135,
+                135,
+                80
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Manectric"
+        }
+    ],
+    "internationalPokedex": 310
+}

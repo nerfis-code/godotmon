@@ -1,0 +1,492 @@
+{
+    "generation": 2,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            5,
+            "STOREDPOWER"
+        ],
+        [
+            10,
+            "TELEPORT"
+        ],
+        [
+            15,
+            "CONFUSERAY"
+        ],
+        [
+            20,
+            "NIGHTSHADE"
+        ],
+        [
+            26,
+            "PSYCHOSHIFT"
+        ],
+        [
+            30,
+            "POWERSWAP"
+        ],
+        [
+            35,
+            "GUARDSWAP"
+        ],
+        [
+            35,
+            "PSYCHIC"
+        ],
+        [
+            40,
+            "WISH"
+        ],
+        [
+            45,
+            "FUTURESIGHT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BATONPASS",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COSMICPOWER",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GUARDSWAP",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "IMPRISON",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAINSPLIT",
+        "PLUCK",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SILVERWIND",
+        "SKILLSWAP",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERWAVE",
+        "TRICK",
+        "TRICKROOM",
+        "TWISTER",
+        "UTURN",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "ALLYSWITCH",
+        "DRILLPECK",
+        "FEATHERDANCE",
+        "HAZE",
+        "QUICKATTACK",
+        "ROOST",
+        "SIMPLEBEAM",
+        "SUCKERPUNCH",
+        "ZENHEADBUTT"
+    ],
+    "height": 0.2,
+    "weight": 2.0,
+    "abilities": [
+        "SYNCHRONIZE",
+        "EARLYBIRD"
+    ],
+    "hiddenAbilitie": [
+        "MAGICBOUNCE"
+    ],
+    "baseTotal": 320,
+    "baseStats": [
+        40,
+        50,
+        45,
+        70,
+        70,
+        45
+    ],
+    "flags": [],
+    "name": "Natu",
+    "species": "NATU",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 64,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    5,
+                    "STOREDPOWER"
+                ],
+                [
+                    10,
+                    "TELEPORT"
+                ],
+                [
+                    15,
+                    "CONFUSERAY"
+                ],
+                [
+                    20,
+                    "NIGHTSHADE"
+                ],
+                [
+                    26,
+                    "PSYCHOSHIFT"
+                ],
+                [
+                    30,
+                    "POWERSWAP"
+                ],
+                [
+                    35,
+                    "GUARDSWAP"
+                ],
+                [
+                    35,
+                    "PSYCHIC"
+                ],
+                [
+                    40,
+                    "WISH"
+                ],
+                [
+                    45,
+                    "FUTURESIGHT"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRCUTTER",
+                "AIRSLASH",
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BATONPASS",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COSMICPOWER",
+                "DAZZLINGGLEAM",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "GUARDSWAP",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "IMPRISON",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MAGICROOM",
+                "MIMIC",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PAINSPLIT",
+                "PLUCK",
+                "POWERSWAP",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SIGNALBEAM",
+                "SILVERWIND",
+                "SKILLSWAP",
+                "SKYATTACK",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEELWING",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "TELEKINESIS",
+                "THIEF",
+                "THUNDERWAVE",
+                "TRICK",
+                "TRICKROOM",
+                "TWISTER",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "ALLYSWITCH",
+                "DRILLPECK",
+                "FEATHERDANCE",
+                "HAZE",
+                "QUICKATTACK",
+                "ROOST",
+                "SIMPLEBEAM",
+                "SUCKERPUNCH",
+                "ZENHEADBUTT"
+            ],
+            "height": 0.2,
+            "weight": 2.0,
+            "abilities": [
+                "SYNCHRONIZE",
+                "EARLYBIRD"
+            ],
+            "hiddenAbilitie": [
+                "MAGICBOUNCE"
+            ],
+            "baseTotal": 320,
+            "baseStats": [
+                40,
+                50,
+                45,
+                70,
+                70,
+                45
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Natu"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    5,
+                    "STOREDPOWER"
+                ],
+                [
+                    10,
+                    "TELEPORT"
+                ],
+                [
+                    15,
+                    "CONFUSERAY"
+                ],
+                [
+                    20,
+                    "NIGHTSHADE"
+                ],
+                [
+                    26,
+                    "PSYCHOSHIFT"
+                ],
+                [
+                    30,
+                    "POWERSWAP"
+                ],
+                [
+                    35,
+                    "GUARDSWAP"
+                ],
+                [
+                    35,
+                    "PSYCHIC"
+                ],
+                [
+                    40,
+                    "WISH"
+                ],
+                [
+                    45,
+                    "FUTURESIGHT"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRCUTTER",
+                "AIRSLASH",
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BATONPASS",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COSMICPOWER",
+                "DAZZLINGGLEAM",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "GUARDSWAP",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "IMPRISON",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MAGICROOM",
+                "MIMIC",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PAINSPLIT",
+                "PLUCK",
+                "POWERSWAP",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SIGNALBEAM",
+                "SILVERWIND",
+                "SKILLSWAP",
+                "SKYATTACK",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEELWING",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "TELEKINESIS",
+                "THIEF",
+                "THUNDERWAVE",
+                "TRICK",
+                "TRICKROOM",
+                "TWISTER",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "ALLYSWITCH",
+                "DRILLPECK",
+                "FEATHERDANCE",
+                "HAZE",
+                "QUICKATTACK",
+                "ROOST",
+                "SIMPLEBEAM",
+                "SUCKERPUNCH",
+                "ZENHEADBUTT"
+            ],
+            "height": 100.0,
+            "weight": 2.0,
+            "abilities": [
+                "SYNCHRONIZE",
+                "EARLYBIRD"
+            ],
+            "hiddenAbilitie": [
+                "MAGICBOUNCE"
+            ],
+            "baseTotal": 1125,
+            "baseStats": [
+                255,
+                115,
+                250,
+                130,
+                125,
+                250
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Eternamax"
+        }
+    ],
+    "internationalPokedex": 177
+}

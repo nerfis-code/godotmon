@@ -1,0 +1,143 @@
+{
+    "generation": 5,
+    "primaryType": "STEEL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "VISEGRIP"
+        ],
+        [
+            1,
+            "BIND"
+        ],
+        [
+            1,
+            "CHARGE"
+        ],
+        [
+            12,
+            "CHARGEBEAM"
+        ],
+        [
+            16,
+            "METALSOUND"
+        ],
+        [
+            20,
+            "AUTOTOMIZE"
+        ],
+        [
+            24,
+            "DISCHARGE"
+        ],
+        [
+            28,
+            "SCREECH"
+        ],
+        [
+            32,
+            "GEARGRIND"
+        ],
+        [
+            36,
+            "LOCKON"
+        ],
+        [
+            42,
+            "SHIFTGEAR"
+        ],
+        [
+            48,
+            "ZAPCANNON"
+        ],
+        [
+            54,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ASSURANCE",
+        "BIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GRAVITY",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "POWERGEM",
+        "PROTECT",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROCKPOLISH",
+        "ROCKSMASH",
+        "ROUND",
+        "SANDSTORM",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELBEAM",
+        "STEELROLLER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UPROAR",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 51.0,
+    "abilities": [
+        "PLUS",
+        "MINUS"
+    ],
+    "hiddenAbilitie": [
+        "CLEARBODY"
+    ],
+    "baseTotal": 440,
+    "baseStats": [
+        60,
+        80,
+        95,
+        50,
+        70,
+        85
+    ],
+    "flags": [],
+    "name": "Klang",
+    "species": "KLANG",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 154,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 600
+}

@@ -1,0 +1,184 @@
+{
+    "generation": 4,
+    "primaryType": "WATER",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            -1,
+            "AQUAJET"
+        ],
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            11,
+            "SWORDSDANCE"
+        ],
+        [
+            15,
+            "PECK"
+        ],
+        [
+            19,
+            "BUBBLEBEAM"
+        ],
+        [
+            24,
+            "SWAGGER"
+        ],
+        [
+            28,
+            "FURYATTACK"
+        ],
+        [
+            33,
+            "BRINE"
+        ],
+        [
+            39,
+            "WHIRLPOOL"
+        ],
+        [
+            46,
+            "MIST"
+        ],
+        [
+            52,
+            "DRILLPECK"
+        ],
+        [
+            59,
+            "HYDROPUMP"
+        ],
+        [
+            66,
+            "WAVECRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BRICKBREAK",
+        "BRINE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DEFOG",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FLING",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYDROCANNON",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PLUCK",
+        "PROTECT",
+        "QUASH",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELWING",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THROATCHOP",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 84.5,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "COMPETITIVE"
+    ],
+    "baseTotal": 530,
+    "baseStats": [
+        84,
+        86,
+        88,
+        60,
+        111,
+        101
+    ],
+    "flags": [],
+    "name": "Empoleon",
+    "species": "EMPOLEON",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 265,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 395
+}

@@ -1,0 +1,194 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            -1,
+            "TEETERDANCE"
+        ],
+        [
+            -1,
+            "KNOCKOFF"
+        ],
+        [
+            -1,
+            "FLAIL"
+        ],
+        [
+            -1,
+            "MIST"
+        ],
+        [
+            -1,
+            "MEGADRAIN"
+        ],
+        [
+            -1,
+            "FURYSWIPES"
+        ],
+        [
+            -1,
+            "ZENHEADBUTT"
+        ],
+        [
+            -1,
+            "ENERGYBALL"
+        ],
+        [
+            -1,
+            "HYDROPUMP"
+        ],
+        [
+            -1,
+            "ASTONISH"
+        ],
+        [
+            -1,
+            "GROWL"
+        ],
+        [
+            -1,
+            "ABSORB"
+        ],
+        [
+            -1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "FAKEOUT"
+        ],
+        [
+            1,
+            "BUBBLEBEAM"
+        ],
+        [
+            1,
+            "NATUREPOWER"
+        ],
+        [
+            1,
+            "GIGADRAIN"
+        ],
+        [
+            1,
+            "RAINDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DYNAMICPUNCH",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "KNOCKOFF",
+        "LEAFSTORM",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSMASH",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THIEF",
+        "THUNDERPUNCH",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 55.0,
+    "abilities": [
+        "SWIFTSWIM",
+        "RAINDISH"
+    ],
+    "hiddenAbilitie": [
+        "OWNTEMPO"
+    ],
+    "baseTotal": 480,
+    "baseStats": [
+        80,
+        70,
+        70,
+        70,
+        90,
+        100
+    ],
+    "flags": [],
+    "name": "Ludicolo",
+    "species": "LUDICOLO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 240,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 272
+}

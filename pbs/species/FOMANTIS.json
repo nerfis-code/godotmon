@@ -1,0 +1,140 @@
+{
+    "generation": 7,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "LEAFAGE"
+        ],
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            5,
+            "GROWTH"
+        ],
+        [
+            10,
+            "INGRAIN"
+        ],
+        [
+            15,
+            "RAZORLEAF"
+        ],
+        [
+            20,
+            "SWEETSCENT"
+        ],
+        [
+            25,
+            "SLASH"
+        ],
+        [
+            30,
+            "XSCISSOR"
+        ],
+        [
+            35,
+            "SYNTHESIS"
+        ],
+        [
+            40,
+            "LEAFBLADE"
+        ],
+        [
+            45,
+            "SUNNYDAY"
+        ],
+        [
+            50,
+            "SOLARBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BUGBITE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "HIDDENPOWER",
+        "LEAFBLADE",
+        "LEAFSTORM",
+        "LEECHLIFE",
+        "MAGICALLEAF",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TOXIC",
+        "WEATHERBALL",
+        "WORRYSEED",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "AROMATHERAPY",
+        "DEFOG",
+        "WORRYSEED"
+    ],
+    "height": 0.3,
+    "weight": 1.5,
+    "abilities": [
+        "LEAFGUARD"
+    ],
+    "hiddenAbilitie": [
+        "CONTRARY"
+    ],
+    "baseTotal": 250,
+    "baseStats": [
+        40,
+        55,
+        35,
+        35,
+        50,
+        35
+    ],
+    "flags": [],
+    "name": "Fomantis",
+    "species": "FOMANTIS",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 50,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 753
+}

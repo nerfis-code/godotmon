@@ -1,0 +1,163 @@
+{
+    "generation": 3,
+    "primaryType": "ICE",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "ROLLOUT"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            4,
+            "GROWL"
+        ],
+        [
+            8,
+            "WATERGUN"
+        ],
+        [
+            12,
+            "POWDERSNOW"
+        ],
+        [
+            16,
+            "REST"
+        ],
+        [
+            20,
+            "SNORE"
+        ],
+        [
+            24,
+            "BRINE"
+        ],
+        [
+            28,
+            "AURORABEAM"
+        ],
+        [
+            33,
+            "ENCORE"
+        ],
+        [
+            36,
+            "BODYSLAM"
+        ],
+        [
+            40,
+            "SURF"
+        ],
+        [
+            44,
+            "BLIZZARD"
+        ],
+        [
+            48,
+            "HAIL"
+        ],
+        [
+            52,
+            "SHEERCOLD"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRINE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELROLLER",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERFANG",
+        "SURF",
+        "SWAGGER",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "AQUARING",
+        "BELLYDRUM",
+        "CURSE",
+        "FISSURE",
+        "ROLLOUT",
+        "SPITUP",
+        "STOCKPILE",
+        "SWALLOW",
+        "WATERPULSE",
+        "YAWN"
+    ],
+    "height": 0.8,
+    "weight": 39.5,
+    "abilities": [
+        "THICKFAT",
+        "ICEBODY"
+    ],
+    "hiddenAbilitie": [
+        "OBLIVIOUS"
+    ],
+    "baseTotal": 290,
+    "baseStats": [
+        70,
+        40,
+        50,
+        25,
+        55,
+        50
+    ],
+    "flags": [],
+    "name": "Spheal",
+    "species": "SPHEAL",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 58,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 363
+}

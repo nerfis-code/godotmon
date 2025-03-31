@@ -1,0 +1,181 @@
+{
+    "generation": 7,
+    "primaryType": "GRASS",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "LEAFAGE"
+        ],
+        [
+            1,
+            "ROCKSMASH"
+        ],
+        [
+            5,
+            "WITHDRAW"
+        ],
+        [
+            10,
+            "DISABLE"
+        ],
+        [
+            15,
+            "LEECHSEED"
+        ],
+        [
+            20,
+            "MEGADRAIN"
+        ],
+        [
+            25,
+            "WHIRLWIND"
+        ],
+        [
+            30,
+            "HORNATTACK"
+        ],
+        [
+            35,
+            "SCARYFACE"
+        ],
+        [
+            40,
+            "HORNLEECH"
+        ],
+        [
+            45,
+            "ZENHEADBUTT"
+        ],
+        [
+            50,
+            "MEANLOOK"
+        ],
+        [
+            55,
+            "NATURESMADNESS"
+        ],
+        [
+            60,
+            "WOODHAMMER"
+        ],
+        [
+            65,
+            "MEGAHORN"
+        ],
+        [
+            70,
+            "SKULLBASH"
+        ],
+        [
+            75,
+            "GRASSYTERRAIN"
+        ]
+    ],
+    "tutorMoves": [
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "BULLETSEED",
+        "CALMMIND",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "DARKESTLARIAT",
+        "DAZZLINGGLEAM",
+        "DUALCHOP",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYTERRAIN",
+        "GUARDSWAP",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MEGAHORN",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNARL",
+        "SNORE",
+        "SOLARBEAM",
+        "STONEEDGE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TAUNT",
+        "TELEKINESIS",
+        "TORMENT",
+        "TOXIC",
+        "WORKUP",
+        "WORRYSEED",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 45.5,
+    "abilities": [
+        "GRASSYSURGE"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 570,
+    "baseStats": [
+        70,
+        130,
+        115,
+        75,
+        85,
+        95
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Tapu Bulu",
+    "species": "TAPUBULU",
+    "catchRate": 3,
+    "happiness": 50,
+    "baseExp": 285,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 787
+}

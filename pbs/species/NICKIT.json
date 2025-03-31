@@ -1,0 +1,128 @@
+{
+    "generation": 8,
+    "primaryType": "DARK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            4,
+            "BEATUP"
+        ],
+        [
+            8,
+            "HONECLAWS"
+        ],
+        [
+            12,
+            "SNARL"
+        ],
+        [
+            16,
+            "ASSURANCE"
+        ],
+        [
+            20,
+            "NASTYPLOT"
+        ],
+        [
+            24,
+            "SUCKERPUNCH"
+        ],
+        [
+            28,
+            "NIGHTSLASH"
+        ],
+        [
+            32,
+            "TAILSLAP"
+        ],
+        [
+            36,
+            "FOULPLAY"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "BEATUP",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "LASHOUT",
+        "MIMIC",
+        "MUDSHOT",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAILSLAP",
+        "TAUNT",
+        "THIEF",
+        "TOXIC"
+    ],
+    "eggMoves": [
+        "HOWL",
+        "KNOCKOFF",
+        "QUICKGUARD",
+        "TORMENT"
+    ],
+    "height": 0.6,
+    "weight": 8.9,
+    "abilities": [
+        "RUNAWAY",
+        "UNBURDEN"
+    ],
+    "hiddenAbilitie": [
+        "STAKEOUT"
+    ],
+    "baseTotal": 245,
+    "baseStats": [
+        40,
+        28,
+        28,
+        50,
+        47,
+        52
+    ],
+    "flags": [],
+    "name": "Nickit",
+    "species": "NICKIT",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 49,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 827
+}

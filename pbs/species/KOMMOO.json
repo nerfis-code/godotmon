@@ -1,0 +1,203 @@
+{
+    "generation": 7,
+    "primaryType": "DRAGON",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            -1,
+            "CLANGINGSCALES"
+        ],
+        [
+            -1,
+            "BELLYDRUM"
+        ],
+        [
+            1,
+            "AUTOTOMIZE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            1,
+            "DRAGONTAIL"
+        ],
+        [
+            12,
+            "SCARYFACE"
+        ],
+        [
+            16,
+            "HEADBUTT"
+        ],
+        [
+            20,
+            "WORKUP"
+        ],
+        [
+            24,
+            "SCREECH"
+        ],
+        [
+            28,
+            "IRONDEFENSE"
+        ],
+        [
+            32,
+            "DRAGONCLAW"
+        ],
+        [
+            38,
+            "NOBLEROAR"
+        ],
+        [
+            44,
+            "DRAGONDANCE"
+        ],
+        [
+            52,
+            "OUTRAGE"
+        ],
+        [
+            60,
+            "CLOSECOMBAT"
+        ],
+        [
+            68,
+            "CLANGOROUSSOUL"
+        ],
+        [
+            76,
+            "BOOMBURST"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ATTRACT",
+        "AURASPHERE",
+        "BODYPRESS",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLASHCANNON",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEPUNCH",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROAR",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "UPROAR",
+        "WATERPULSE",
+        "WORKUP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 78.2,
+    "abilities": [
+        "BULLETPROOF",
+        "SOUNDPROOF"
+    ],
+    "hiddenAbilitie": [
+        "OVERCOAT"
+    ],
+    "baseTotal": 600,
+    "baseStats": [
+        75,
+        110,
+        125,
+        85,
+        100,
+        105
+    ],
+    "flags": [],
+    "name": "Kommo-o",
+    "species": "KOMMOO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 300,
+    "evs": [
+        "DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 784
+}

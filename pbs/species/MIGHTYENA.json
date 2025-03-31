@@ -1,0 +1,184 @@
+{
+    "generation": 3,
+    "primaryType": "DARK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "SNARL"
+        ],
+        [
+            1,
+            "FIREFANG"
+        ],
+        [
+            1,
+            "THUNDERFANG"
+        ],
+        [
+            1,
+            "ICEFANG"
+        ],
+        [
+            1,
+            "CRUNCH"
+        ],
+        [
+            1,
+            "THIEF"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            13,
+            "HOWL"
+        ],
+        [
+            13,
+            "MUDSLAP"
+        ],
+        [
+            13,
+            "LEER"
+        ],
+        [
+            16,
+            "ROAR"
+        ],
+        [
+            20,
+            "SWAGGER"
+        ],
+        [
+            24,
+            "ASSURANCE"
+        ],
+        [
+            28,
+            "SCARYFACE"
+        ],
+        [
+            32,
+            "HEADBUTT"
+        ],
+        [
+            36,
+            "TAUNT"
+        ],
+        [
+            44,
+            "YAWN"
+        ],
+        [
+            48,
+            "TAKEDOWN"
+        ],
+        [
+            52,
+            "SUCKERPUNCH"
+        ],
+        [
+            56,
+            "PLAYROUGH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "INCINERATE",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TORMENT",
+        "UPROAR"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 37.0,
+    "abilities": [
+        "INTIMIDATE",
+        "QUICKFEET"
+    ],
+    "hiddenAbilitie": [
+        "MOXIE"
+    ],
+    "baseTotal": 420,
+    "baseStats": [
+        70,
+        90,
+        70,
+        70,
+        60,
+        60
+    ],
+    "flags": [],
+    "name": "Mightyena",
+    "species": "MIGHTYENA",
+    "catchRate": 127,
+    "happiness": 50,
+    "baseExp": 147,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 262
+}

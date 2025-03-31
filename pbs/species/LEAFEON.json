@@ -1,0 +1,207 @@
+{
+    "generation": 4,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "RAZORLEAF"
+        ],
+        [
+            1,
+            "COVET"
+        ],
+        [
+            1,
+            "SWIFT"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "COPYCAT"
+        ],
+        [
+            1,
+            "BATONPASS"
+        ],
+        [
+            1,
+            "TAKEDOWN"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "DOUBLEEDGE"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            5,
+            "SANDATTACK"
+        ],
+        [
+            10,
+            "QUICKATTACK"
+        ],
+        [
+            15,
+            "BABYDOLLEYES"
+        ],
+        [
+            20,
+            "LEECHSEED"
+        ],
+        [
+            25,
+            "MAGICALLEAF"
+        ],
+        [
+            30,
+            "SYNTHESIS"
+        ],
+        [
+            35,
+            "SUNNYDAY"
+        ],
+        [
+            40,
+            "GIGADRAIN"
+        ],
+        [
+            45,
+            "SWORDSDANCE"
+        ],
+        [
+            50,
+            "LEAFBLADE"
+        ],
+        [
+            55,
+            "LASTRESORT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BATONPASS",
+        "BODYSLAM",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FAKETEARS",
+        "FLASH",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "HEADBUTT",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LEAFBLADE",
+        "LEAFSTORM",
+        "MAGICALLEAF",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYDAY",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "STOREDPOWER",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "WEATHERBALL",
+        "WORKUP",
+        "WORRYSEED",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 25.5,
+    "abilities": [
+        "LEAFGUARD"
+    ],
+    "hiddenAbilitie": [
+        "CHLOROPHYLL"
+    ],
+    "baseTotal": 525,
+    "baseStats": [
+        65,
+        110,
+        130,
+        95,
+        60,
+        65
+    ],
+    "flags": [],
+    "name": "Leafeon",
+    "species": "LEAFEON",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 184,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 470
+}

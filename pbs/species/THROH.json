@@ -1,0 +1,159 @@
+{
+    "generation": 5,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "BIND"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            5,
+            "FOCUSENERGY"
+        ],
+        [
+            10,
+            "CIRCLETHROW"
+        ],
+        [
+            15,
+            "WIDEGUARD"
+        ],
+        [
+            20,
+            "REVENGE"
+        ],
+        [
+            25,
+            "BULKUP"
+        ],
+        [
+            30,
+            "STORMTHROW"
+        ],
+        [
+            35,
+            "VITALTHROW"
+        ],
+        [
+            40,
+            "SEISMICTOSS"
+        ],
+        [
+            45,
+            "ENDURE"
+        ],
+        [
+            50,
+            "REVERSAL"
+        ],
+        [
+            55,
+            "SUPERPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BIND",
+        "BLOCK",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "COACHING",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 55.5,
+    "abilities": [
+        "GUTS",
+        "INNERFOCUS"
+    ],
+    "hiddenAbilitie": [
+        "MOLDBREAKER"
+    ],
+    "baseTotal": 465,
+    "baseStats": [
+        120,
+        100,
+        85,
+        45,
+        30,
+        85
+    ],
+    "flags": [],
+    "name": "Throh",
+    "species": "THROH",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 163,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 0,
+    "forms": [],
+    "internationalPokedex": 538
+}

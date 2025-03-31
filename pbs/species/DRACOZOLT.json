@@ -1,0 +1,150 @@
+{
+    "generation": 8,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            7,
+            "CHARGE"
+        ],
+        [
+            14,
+            "AERIALACE"
+        ],
+        [
+            21,
+            "ANCIENTPOWER"
+        ],
+        [
+            28,
+            "PLUCK"
+        ],
+        [
+            35,
+            "DRAGONTAIL"
+        ],
+        [
+            42,
+            "STOMP"
+        ],
+        [
+            49,
+            "SLAM"
+        ],
+        [
+            56,
+            "DISCHARGE"
+        ],
+        [
+            63,
+            "BOLTBEAK"
+        ],
+        [
+            70,
+            "DRAGONPULSE"
+        ],
+        [
+            77,
+            "DRAGONRUSH"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIRESPIN",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "IRONTAIL",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TOXIC",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 190.0,
+    "abilities": [
+        "VOLTABSORB",
+        "HUSTLE"
+    ],
+    "hiddenAbilitie": [
+        "SANDRUSH"
+    ],
+    "baseTotal": 505,
+    "baseStats": [
+        90,
+        100,
+        90,
+        75,
+        80,
+        70
+    ],
+    "flags": [],
+    "name": "Dracozolt",
+    "species": "DRACOZOLT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 177,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 880
+}

@@ -1,0 +1,147 @@
+{
+    "generation": 9,
+    "primaryType": "GHOST",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "LASTRESPECTS"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            3,
+            "LICK"
+        ],
+        [
+            6,
+            "TAILWHIP"
+        ],
+        [
+            6,
+            "BITE"
+        ],
+        [
+            9,
+            "ROAR"
+        ],
+        [
+            12,
+            "HEADBUTT"
+        ],
+        [
+            16,
+            "DIG"
+        ],
+        [
+            24,
+            "REST"
+        ],
+        [
+            28,
+            "CRUNCH"
+        ],
+        [
+            36,
+            "PLAYROUGH"
+        ],
+        [
+            41,
+            "HELPINGHAND"
+        ],
+        [
+            46,
+            "PHANTOMFORCE"
+        ],
+        [
+            51,
+            "CHARM"
+        ],
+        [
+            58,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BULLDOZE",
+        "CHARM",
+        "CONFUSERAY",
+        "CRUNCH",
+        "DIG",
+        "DOUBLEEDGE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HEX",
+        "HYPERBEAM",
+        "ICEFANG",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NIGHTSHADE",
+        "PAINSPLIT",
+        "PHANTOMFORCE",
+        "PLAYROUGH",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "ROAR",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNARL",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "THIEF",
+        "THUNDERFANG",
+        "TRICK",
+        "UPROAR",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 15.0,
+    "abilities": [
+        "SANDRUSH"
+    ],
+    "hiddenAbilitie": [
+        "FLUFFY"
+    ],
+    "baseTotal": 488,
+    "baseStats": [
+        72,
+        101,
+        100,
+        68,
+        50,
+        97
+    ],
+    "flags": [],
+    "name": "Houndstone",
+    "species": "HOUNDSTONE",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 171,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 972
+}

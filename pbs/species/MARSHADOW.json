@@ -1,0 +1,191 @@
+{
+    "generation": 7,
+    "primaryType": "FIGHTING",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            1,
+            "THUNDERPUNCH"
+        ],
+        [
+            1,
+            "FIREPUNCH"
+        ],
+        [
+            1,
+            "ICEPUNCH"
+        ],
+        [
+            1,
+            "COPYCAT"
+        ],
+        [
+            1,
+            "SHADOWSNEAK"
+        ],
+        [
+            1,
+            "FEINT"
+        ],
+        [
+            1,
+            "COUNTER"
+        ],
+        [
+            9,
+            "ROLEPLAY"
+        ],
+        [
+            18,
+            "SHADOWPUNCH"
+        ],
+        [
+            27,
+            "FORCEPALM"
+        ],
+        [
+            36,
+            "ASSURANCE"
+        ],
+        [
+            45,
+            "SUCKERPUNCH"
+        ],
+        [
+            54,
+            "DRAINPUNCH"
+        ],
+        [
+            63,
+            "PSYCHUP"
+        ],
+        [
+            72,
+            "SPECTRALTHIEF"
+        ],
+        [
+            81,
+            "LASERFOCUS"
+        ],
+        [
+            90,
+            "ENDEAVOR"
+        ],
+        [
+            99,
+            "CLOSECOMBAT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AGILITY",
+        "ASSURANCE",
+        "AURASPHERE",
+        "BLAZEKICK",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BULKUP",
+        "CALMMIND",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "PHANTOMFORCE",
+        "POISONJAB",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHUP",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNATCH",
+        "SNORE",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WILLOWISP",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 22.2,
+    "abilities": [
+        "TECHNICIAN"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        90,
+        125,
+        80,
+        125,
+        90,
+        90
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Marshadow",
+    "species": "MARSHADOW",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 300,
+    "evs": [
+        "ATTACK",
+        2,
+        "SPEED",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 802
+}

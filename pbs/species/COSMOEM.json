@@ -1,0 +1,52 @@
+{
+    "generation": 7,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "COSMICPOWER"
+        ],
+        [
+            1,
+            "TELEPORT"
+        ]
+    ],
+    "tutorMoves": [
+        "COSMICPOWER"
+    ],
+    "eggMoves": [],
+    "height": 0.1,
+    "weight": 999.9,
+    "abilities": [
+        "STURDY"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 400,
+    "baseStats": [
+        43,
+        29,
+        131,
+        37,
+        29,
+        131
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Cosmoem",
+    "species": "COSMOEM",
+    "catchRate": 45,
+    "happiness": 0,
+    "baseExp": 140,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 790
+}

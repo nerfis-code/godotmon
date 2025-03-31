@@ -1,0 +1,165 @@
+{
+    "generation": 5,
+    "primaryType": "GHOST",
+    "secondaryType": "FIRE",
+    "moves": [
+        [
+            1,
+            "CONFUSERAY"
+        ],
+        [
+            1,
+            "HEX"
+        ],
+        [
+            1,
+            "WILLOWISP"
+        ],
+        [
+            1,
+            "FIRESPIN"
+        ],
+        [
+            1,
+            "NIGHTSHADE"
+        ],
+        [
+            1,
+            "CURSE"
+        ],
+        [
+            1,
+            "SHADOWBALL"
+        ],
+        [
+            1,
+            "INFERNO"
+        ],
+        [
+            1,
+            "IMPRISON"
+        ],
+        [
+            1,
+            "PAINSPLIT"
+        ],
+        [
+            1,
+            "OVERHEAT"
+        ],
+        [
+            1,
+            "MEMENTO"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "SMOG"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "MINIMIZE"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BURNINGJEALOUSY",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "INCINERATE",
+        "LASERFOCUS",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 34.3,
+    "abilities": [
+        "FLASHFIRE",
+        "FLAMEBODY"
+    ],
+    "hiddenAbilitie": [
+        "INFILTRATOR"
+    ],
+    "baseTotal": 520,
+    "baseStats": [
+        60,
+        55,
+        90,
+        80,
+        145,
+        90
+    ],
+    "flags": [],
+    "name": "Chandelure",
+    "species": "CHANDELURE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 260,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 609
+}

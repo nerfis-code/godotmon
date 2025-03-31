@@ -1,0 +1,479 @@
+{
+    "generation": 4,
+    "primaryType": "GRASS",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            -1,
+            "ICEPUNCH"
+        ],
+        [
+            1,
+            "AURORAVEIL"
+        ],
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "LEAFAGE"
+        ],
+        [
+            1,
+            "MIST"
+        ],
+        [
+            15,
+            "ICESHARD"
+        ],
+        [
+            20,
+            "RAZORLEAF"
+        ],
+        [
+            25,
+            "ICYWIND"
+        ],
+        [
+            30,
+            "SWAGGER"
+        ],
+        [
+            35,
+            "INGRAIN"
+        ],
+        [
+            43,
+            "WOODHAMMER"
+        ],
+        [
+            49,
+            "BLIZZARD"
+        ],
+        [
+            56,
+            "SHEERCOLD"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BLOCK",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONTAIL",
+        "LEAFSTORM",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 2.2,
+    "weight": 135.5,
+    "abilities": [
+        "SNOWWARNING"
+    ],
+    "hiddenAbilitie": [
+        "SOUNDPROOF"
+    ],
+    "baseTotal": 494,
+    "baseStats": [
+        90,
+        92,
+        75,
+        60,
+        92,
+        85
+    ],
+    "flags": [],
+    "name": "Abomasnow",
+    "species": "ABOMASNOW",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 173,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 4,
+            "primaryType": "GRASS",
+            "secondaryType": "ICE",
+            "moves": [
+                [
+                    -1,
+                    "ICEPUNCH"
+                ],
+                [
+                    1,
+                    "AURORAVEIL"
+                ],
+                [
+                    1,
+                    "POWDERSNOW"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "LEAFAGE"
+                ],
+                [
+                    1,
+                    "MIST"
+                ],
+                [
+                    15,
+                    "ICESHARD"
+                ],
+                [
+                    20,
+                    "RAZORLEAF"
+                ],
+                [
+                    25,
+                    "ICYWIND"
+                ],
+                [
+                    30,
+                    "SWAGGER"
+                ],
+                [
+                    35,
+                    "INGRAIN"
+                ],
+                [
+                    43,
+                    "WOODHAMMER"
+                ],
+                [
+                    49,
+                    "BLIZZARD"
+                ],
+                [
+                    56,
+                    "SHEERCOLD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BLOCK",
+                "BRICKBREAK",
+                "BULLDOZE",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FROSTBREATH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "HAIL",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICEPUNCH",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IRONTAIL",
+                "LEAFSTORM",
+                "LIGHTSCREEN",
+                "MAGICALLEAF",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROCKCLIMB",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROLEPLAY",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "WATERPULSE",
+                "WEATHERBALL",
+                "WORRYSEED"
+            ],
+            "eggMoves": [],
+            "height": 2.2,
+            "weight": 135.5,
+            "abilities": [
+                "SNOWWARNING"
+            ],
+            "hiddenAbilitie": [
+                "SOUNDPROOF"
+            ],
+            "baseTotal": 494,
+            "baseStats": [
+                90,
+                92,
+                75,
+                60,
+                92,
+                85
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Abomasnow"
+        },
+        {
+            "generation": 6,
+            "primaryType": "GRASS",
+            "secondaryType": "ICE",
+            "moves": [
+                [
+                    -1,
+                    "ICEPUNCH"
+                ],
+                [
+                    1,
+                    "AURORAVEIL"
+                ],
+                [
+                    1,
+                    "POWDERSNOW"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "LEAFAGE"
+                ],
+                [
+                    1,
+                    "MIST"
+                ],
+                [
+                    15,
+                    "ICESHARD"
+                ],
+                [
+                    20,
+                    "RAZORLEAF"
+                ],
+                [
+                    25,
+                    "ICYWIND"
+                ],
+                [
+                    30,
+                    "SWAGGER"
+                ],
+                [
+                    35,
+                    "INGRAIN"
+                ],
+                [
+                    43,
+                    "WOODHAMMER"
+                ],
+                [
+                    49,
+                    "BLIZZARD"
+                ],
+                [
+                    56,
+                    "SHEERCOLD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BLOCK",
+                "BRICKBREAK",
+                "BULLDOZE",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FROSTBREATH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "HAIL",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICEPUNCH",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IRONTAIL",
+                "LEAFSTORM",
+                "LIGHTSCREEN",
+                "MAGICALLEAF",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROCKCLIMB",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROLEPLAY",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "WATERPULSE",
+                "WEATHERBALL",
+                "WORRYSEED"
+            ],
+            "eggMoves": [],
+            "height": 2.7,
+            "weight": 185.0,
+            "abilities": [
+                "SNOWWARNING"
+            ],
+            "hiddenAbilitie": [
+                "SNOWWARNING"
+            ],
+            "baseTotal": 594,
+            "baseStats": [
+                90,
+                132,
+                105,
+                30,
+                132,
+                105
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Abomasnow"
+        }
+    ],
+    "internationalPokedex": 460
+}

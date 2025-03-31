@@ -1,0 +1,182 @@
+{
+    "generation": 5,
+    "primaryType": "FIRE",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            -1,
+            "HAMMERARM"
+        ],
+        [
+            -1,
+            "ENDURE"
+        ],
+        [
+            1,
+            "ARMTHRUST"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            9,
+            "ODORSLEUTH"
+        ],
+        [
+            13,
+            "DEFENSECURL"
+        ],
+        [
+            15,
+            "FLAMECHARGE"
+        ],
+        [
+            20,
+            "SMOG"
+        ],
+        [
+            23,
+            "ROLLOUT"
+        ],
+        [
+            28,
+            "TAKEDOWN"
+        ],
+        [
+            31,
+            "HEATCRASH"
+        ],
+        [
+            38,
+            "ASSURANCE"
+        ],
+        [
+            43,
+            "FLAMETHROWER"
+        ],
+        [
+            50,
+            "HEADSMASH"
+        ],
+        [
+            55,
+            "ROAR"
+        ],
+        [
+            62,
+            "FLAREBLITZ"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLASTBURN",
+        "BLOCK",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPLEDGE",
+        "FIREPUNCH",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GYROBALL",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WILDCHARGE",
+        "WILLOWISP",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 150.0,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "RECKLESS"
+    ],
+    "baseTotal": 528,
+    "baseStats": [
+        110,
+        123,
+        65,
+        65,
+        100,
+        65
+    ],
+    "flags": [],
+    "name": "Emboar",
+    "species": "EMBOAR",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 264,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 500
+}

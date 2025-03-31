@@ -1,0 +1,176 @@
+{
+    "generation": 6,
+    "primaryType": "DARK",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "REVERSAL"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HYPNOSIS"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            9,
+            "PAYBACK"
+        ],
+        [
+            12,
+            "PLUCK"
+        ],
+        [
+            15,
+            "PSYBEAM"
+        ],
+        [
+            18,
+            "SWAGGER"
+        ],
+        [
+            21,
+            "SLASH"
+        ],
+        [
+            24,
+            "NIGHTSLASH"
+        ],
+        [
+            27,
+            "PSYCHOCUT"
+        ],
+        [
+            33,
+            "SWITCHEROO"
+        ],
+        [
+            37,
+            "FOULPLAY"
+        ],
+        [
+            42,
+            "TOPSYTURVY"
+        ],
+        [
+            47,
+            "SUPERPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BATONPASS",
+        "BIND",
+        "BLOCK",
+        "BRUTALSWING",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "EMBARGO",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FAKETEARS",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLING",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GUARDSWAP",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROLEPLAY",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERBOLT",
+        "TORMENT",
+        "TOXIC",
+        "TRICKROOM"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 47.0,
+    "abilities": [
+        "CONTRARY",
+        "SUCTIONCUPS"
+    ],
+    "hiddenAbilitie": [
+        "INFILTRATOR"
+    ],
+    "baseTotal": 482,
+    "baseStats": [
+        86,
+        92,
+        88,
+        73,
+        68,
+        75
+    ],
+    "flags": [],
+    "name": "Malamar",
+    "species": "MALAMAR",
+    "catchRate": 80,
+    "happiness": 50,
+    "baseExp": 169,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 687
+}

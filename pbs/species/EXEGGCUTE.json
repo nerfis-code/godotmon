@@ -1,0 +1,162 @@
+{
+    "generation": 1,
+    "primaryType": "GRASS",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "HYPNOSIS"
+        ],
+        [
+            5,
+            "REFLECT"
+        ],
+        [
+            10,
+            "LEECHSEED"
+        ],
+        [
+            15,
+            "MEGADRAIN"
+        ],
+        [
+            20,
+            "CONFUSION"
+        ],
+        [
+            25,
+            "SYNTHESIS"
+        ],
+        [
+            30,
+            "BULLETSEED"
+        ],
+        [
+            35,
+            "GIGADRAIN"
+        ],
+        [
+            40,
+            "EXTRASENSORY"
+        ],
+        [
+            45,
+            "UPROAR"
+        ],
+        [
+            50,
+            "WORRYSEED"
+        ],
+        [
+            55,
+            "SOLARBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BLOCK",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "GRAVITY",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "LEAFSTORM",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SELFDESTRUCT",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TELEKINESIS",
+        "THIEF",
+        "TRICKROOM",
+        "UPROAR",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "BLOCK",
+        "CURSE",
+        "GRASSYTERRAIN",
+        "INGRAIN",
+        "LEAFSTORM",
+        "MOONLIGHT",
+        "NATUREPOWER",
+        "POISONPOWDER",
+        "POWERSWAP",
+        "SLEEPPOWDER",
+        "STUNSPORE",
+        "SYNTHESIS"
+    ],
+    "height": 0.4,
+    "weight": 2.5,
+    "abilities": [
+        "CHLOROPHYLL"
+    ],
+    "hiddenAbilitie": [
+        "HARVEST"
+    ],
+    "baseTotal": 325,
+    "baseStats": [
+        60,
+        40,
+        80,
+        40,
+        60,
+        45
+    ],
+    "flags": [],
+    "name": "Exeggcute",
+    "species": "EXEGGCUTE",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 65,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 102
+}

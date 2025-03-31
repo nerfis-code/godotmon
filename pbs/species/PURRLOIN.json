@@ -1,0 +1,159 @@
+{
+    "generation": 5,
+    "primaryType": "DARK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "SANDATTACK"
+        ],
+        [
+            5,
+            "FAKEOUT"
+        ],
+        [
+            12,
+            "FURYSWIPES"
+        ],
+        [
+            16,
+            "TORMENT"
+        ],
+        [
+            21,
+            "ASSURANCE"
+        ],
+        [
+            24,
+            "HONECLAWS"
+        ],
+        [
+            28,
+            "SUCKERPUNCH"
+        ],
+        [
+            32,
+            "NASTYPLOT"
+        ],
+        [
+            36,
+            "NIGHTSLASH"
+        ],
+        [
+            40,
+            "PLAYROUGH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "EMBARGO",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASHOUT",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PAYDAY",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "TRICK",
+        "UTURN"
+    ],
+    "eggMoves": [
+        "COPYCAT",
+        "COVET",
+        "DOUBLETEAM",
+        "QUICKATTACK",
+        "SLASH",
+        "YAWN"
+    ],
+    "height": 0.4,
+    "weight": 10.1,
+    "abilities": [
+        "LIMBER",
+        "UNBURDEN"
+    ],
+    "hiddenAbilitie": [
+        "PRANKSTER"
+    ],
+    "baseTotal": 281,
+    "baseStats": [
+        41,
+        50,
+        37,
+        66,
+        50,
+        37
+    ],
+    "flags": [],
+    "name": "Purrloin",
+    "species": "PURRLOIN",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 56,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 509
+}

@@ -1,0 +1,189 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "AQUAJET"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            9,
+            "FURYSWIPES"
+        ],
+        [
+            12,
+            "WATERPULSE"
+        ],
+        [
+            15,
+            "DISABLE"
+        ],
+        [
+            18,
+            "ZENHEADBUTT"
+        ],
+        [
+            21,
+            "SCREECH"
+        ],
+        [
+            24,
+            "AQUATAIL"
+        ],
+        [
+            27,
+            "SOAK"
+        ],
+        [
+            30,
+            "PSYCHUP"
+        ],
+        [
+            36,
+            "AMNESIA"
+        ],
+        [
+            40,
+            "HYDROPUMP"
+        ],
+        [
+            45,
+            "WONDERROOM"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AMNESIA",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRINE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FLIPTURN",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYDAY",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROUND",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWCLAW",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TELEKINESIS",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WONDERROOM",
+        "WORRYSEED",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 76.6,
+    "abilities": [
+        "DAMP",
+        "CLOUDNINE"
+    ],
+    "hiddenAbilitie": [
+        "SWIFTSWIM"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        80,
+        82,
+        78,
+        85,
+        95,
+        80
+    ],
+    "flags": [],
+    "name": "Golduck",
+    "species": "GOLDUCK",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 55
+}

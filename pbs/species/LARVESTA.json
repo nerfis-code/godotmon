@@ -1,0 +1,145 @@
+{
+    "generation": 5,
+    "primaryType": "BUG",
+    "secondaryType": "FIRE",
+    "moves": [
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            6,
+            "FLAMECHARGE"
+        ],
+        [
+            12,
+            "STRUGGLEBUG"
+        ],
+        [
+            18,
+            "FLAMEWHEEL"
+        ],
+        [
+            24,
+            "BUGBITE"
+        ],
+        [
+            30,
+            "SCREECH"
+        ],
+        [
+            36,
+            "LEECHLIFE"
+        ],
+        [
+            42,
+            "BUGBUZZ"
+        ],
+        [
+            48,
+            "TAKEDOWN"
+        ],
+        [
+            54,
+            "AMNESIA"
+        ],
+        [
+            60,
+            "DOUBLEEDGE"
+        ],
+        [
+            66,
+            "FLAREBLITZ"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AMNESIA",
+        "ATTRACT",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "INCINERATE",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TOXIC",
+        "UTURN",
+        "WILDCHARGE",
+        "WILLOWISP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "ABSORB",
+        "HARDEN",
+        "THRASH"
+    ],
+    "height": 1.1,
+    "weight": 28.8,
+    "abilities": [
+        "FLAMEBODY"
+    ],
+    "hiddenAbilitie": [
+        "SWARM"
+    ],
+    "baseTotal": 360,
+    "baseStats": [
+        55,
+        85,
+        55,
+        60,
+        50,
+        55
+    ],
+    "flags": [],
+    "name": "Larvesta",
+    "species": "LARVESTA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 72,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 636
+}

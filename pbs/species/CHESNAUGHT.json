@@ -1,0 +1,201 @@
+{
+    "generation": 6,
+    "primaryType": "GRASS",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            -1,
+            "SPIKYSHIELD"
+        ],
+        [
+            1,
+            "NEEDLEARM"
+        ],
+        [
+            1,
+            "HAMMERARM"
+        ],
+        [
+            1,
+            "FEINT"
+        ],
+        [
+            1,
+            "BELLYDRUM"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "VINEWHIP"
+        ],
+        [
+            1,
+            "ROLLOUT"
+        ],
+        [
+            11,
+            "BITE"
+        ],
+        [
+            15,
+            "LEECHSEED"
+        ],
+        [
+            19,
+            "PINMISSILE"
+        ],
+        [
+            29,
+            "TAKEDOWN"
+        ],
+        [
+            35,
+            "SEEDBOMB"
+        ],
+        [
+            41,
+            "MUDSHOT"
+        ],
+        [
+            48,
+            "BULKUP"
+        ],
+        [
+            54,
+            "BODYSLAM"
+        ],
+        [
+            60,
+            "PAINSPLIT"
+        ],
+        [
+            66,
+            "WOODHAMMER"
+        ],
+        [
+            78,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BLOCK",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRENZYPLANT",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GYROBALL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAINSPLIT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WORKUP",
+        "WORRYSEED",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 90.0,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "BULLETPROOF"
+    ],
+    "baseTotal": 530,
+    "baseStats": [
+        88,
+        107,
+        122,
+        64,
+        74,
+        75
+    ],
+    "flags": [],
+    "name": "Chesnaught",
+    "species": "CHESNAUGHT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 265,
+    "evs": [
+        "DEFENSE",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 652
+}

@@ -1,0 +1,159 @@
+{
+    "generation": 6,
+    "primaryType": "FAIRY",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "FAIRYWIND"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            3,
+            "SWEETKISS"
+        ],
+        [
+            6,
+            "ECHOEDVOICE"
+        ],
+        [
+            9,
+            "DISARMINGVOICE"
+        ],
+        [
+            12,
+            "AROMATHERAPY"
+        ],
+        [
+            15,
+            "DRAININGKISS"
+        ],
+        [
+            18,
+            "ATTRACT"
+        ],
+        [
+            21,
+            "FLAIL"
+        ],
+        [
+            24,
+            "MISTYTERRAIN"
+        ],
+        [
+            27,
+            "PSYCHIC"
+        ],
+        [
+            30,
+            "CHARM"
+        ],
+        [
+            33,
+            "CALMMIND"
+        ],
+        [
+            36,
+            "MOONBLAST"
+        ],
+        [
+            39,
+            "SKILLSWAP"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FAKETEARS",
+        "FLASH",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GYROBALL",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "MISTYTERRAIN",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THUNDERBOLT",
+        "TORMENT",
+        "TOXIC",
+        "TRICKROOM"
+    ],
+    "eggMoves": [
+        "AFTERYOU",
+        "DISABLE",
+        "WISH"
+    ],
+    "height": 0.2,
+    "weight": 0.5,
+    "abilities": [
+        "HEALER"
+    ],
+    "hiddenAbilitie": [
+        "AROMAVEIL"
+    ],
+    "baseTotal": 341,
+    "baseStats": [
+        78,
+        52,
+        60,
+        23,
+        63,
+        65
+    ],
+    "flags": [],
+    "name": "Spritzee",
+    "species": "SPRITZEE",
+    "catchRate": 200,
+    "happiness": 50,
+    "baseExp": 68,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 682
+}

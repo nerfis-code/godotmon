@@ -1,0 +1,129 @@
+{
+    "generation": 9,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            7,
+            "ROUND"
+        ],
+        [
+            12,
+            "BITE"
+        ],
+        [
+            15,
+            "INCINERATE"
+        ],
+        [
+            17,
+            "YAWN"
+        ],
+        [
+            21,
+            "SNARL"
+        ],
+        [
+            25,
+            "ROAR"
+        ],
+        [
+            28,
+            "FLAMETHROWER"
+        ],
+        [
+            32,
+            "HYPERVOICE"
+        ],
+        [
+            36,
+            "FIREBLAST"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYSLAM",
+        "CRUNCH",
+        "CURSE",
+        "DIG",
+        "DISARMINGVOICE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIREPLEDGE",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HYPERVOICE",
+        "MUDSLAP",
+        "OUTRAGE",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "ROAR",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNARL",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "TEMPERFLARE",
+        "THUNDERFANG",
+        "WILLOWISP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "BELCH",
+        "CURSE",
+        "ENCORE",
+        "SLACKOFF"
+    ],
+    "height": 0.4,
+    "weight": 9.8,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "UNAWARE"
+    ],
+    "baseTotal": 310,
+    "baseStats": [
+        67,
+        45,
+        59,
+        36,
+        63,
+        40
+    ],
+    "flags": [],
+    "name": "Fuecoco",
+    "species": "FUECOCO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 909
+}

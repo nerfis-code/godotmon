@@ -1,0 +1,153 @@
+{
+    "generation": 7,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            3,
+            "WATERGUN"
+        ],
+        [
+            6,
+            "DISARMINGVOICE"
+        ],
+        [
+            9,
+            "AQUAJET"
+        ],
+        [
+            12,
+            "BABYDOLLEYES"
+        ],
+        [
+            15,
+            "ICYWIND"
+        ],
+        [
+            18,
+            "SING"
+        ],
+        [
+            21,
+            "BUBBLEBEAM"
+        ],
+        [
+            24,
+            "ENCORE"
+        ],
+        [
+            27,
+            "MISTYTERRAIN"
+        ],
+        [
+            30,
+            "HYPERVOICE"
+        ],
+        [
+            33,
+            "MOONBLAST"
+        ],
+        [
+            36,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AMNESIA",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BRINE",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLIPTURN",
+        "FRUSTRATION",
+        "HAIL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "MIMIC",
+        "MISTYTERRAIN",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "TRIPLEAXEL",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WONDERROOM",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "AQUARING",
+        "LIFEDEW",
+        "PERISHSONG"
+    ],
+    "height": 0.4,
+    "weight": 7.5,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "LIQUIDVOICE"
+    ],
+    "baseTotal": 320,
+    "baseStats": [
+        50,
+        54,
+        54,
+        40,
+        66,
+        56
+    ],
+    "flags": [],
+    "name": "Popplio",
+    "species": "POPPLIO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 64,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 728
+}

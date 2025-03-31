@@ -1,0 +1,190 @@
+{
+    "generation": 1,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "LOWKICK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            4,
+            "FOCUSENERGY"
+        ],
+        [
+            8,
+            "REVENGE"
+        ],
+        [
+            12,
+            "LOWSWEEP"
+        ],
+        [
+            16,
+            "KNOCKOFF"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            24,
+            "VITALTHROW"
+        ],
+        [
+            29,
+            "STRENGTH"
+        ],
+        [
+            32,
+            "DUALCHOP"
+        ],
+        [
+            36,
+            "BULKUP"
+        ],
+        [
+            40,
+            "SEISMICTOSS"
+        ],
+        [
+            44,
+            "DYNAMICPUNCH"
+        ],
+        [
+            48,
+            "CROSSCHOP"
+        ],
+        [
+            52,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "COUNTER",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "INCINERATE",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "THIEF",
+        "THUNDERPUNCH",
+        "VACUUMWAVE",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "BULLETPUNCH",
+        "CLOSECOMBAT",
+        "COUNTER",
+        "ENCORE",
+        "FIREPUNCH",
+        "HEAVYSLAM",
+        "ICEPUNCH",
+        "KNOCKOFF",
+        "POWERTRICK",
+        "QUICKGUARD",
+        "SUBMISSION",
+        "THUNDERPUNCH",
+        "TICKLE"
+    ],
+    "height": 0.8,
+    "weight": 19.5,
+    "abilities": [
+        "GUTS",
+        "NOGUARD"
+    ],
+    "hiddenAbilitie": [
+        "STEADFAST"
+    ],
+    "baseTotal": 305,
+    "baseStats": [
+        70,
+        80,
+        50,
+        35,
+        35,
+        35
+    ],
+    "flags": [],
+    "name": "Machop",
+    "species": "MACHOP",
+    "catchRate": 180,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 25,
+    "forms": [],
+    "internationalPokedex": 66
+}

@@ -1,0 +1,399 @@
+{
+    "generation": 9,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "DISARMINGVOICE"
+        ],
+        [
+            8,
+            "ECHOEDVOICE"
+        ],
+        [
+            12,
+            "MUDSHOT"
+        ],
+        [
+            15,
+            "COVET"
+        ],
+        [
+            17,
+            "DIG"
+        ],
+        [
+            23,
+            "HEADBUTT"
+        ],
+        [
+            26,
+            "TAKEDOWN"
+        ],
+        [
+            27,
+            "YAWN"
+        ],
+        [
+            34,
+            "WORKUP"
+        ],
+        [
+            38,
+            "UPROAR"
+        ],
+        [
+            42,
+            "DOUBLEEDGE"
+        ],
+        [
+            48,
+            "EARTHPOWER"
+        ],
+        [
+            54,
+            "BELCH"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "BULLETSEED",
+        "CHILLINGWATER",
+        "CURSE",
+        "DIG",
+        "DISARMINGVOICE",
+        "DOUBLEEDGE",
+        "EARTHPOWER",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IRONHEAD",
+        "LASHOUT",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "TAKEDOWN",
+        "THIEF",
+        "TRAILBLAZE",
+        "UPROAR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 120.0,
+    "abilities": [
+        "LINGERINGAROMA",
+        "GLUTTONY"
+    ],
+    "hiddenAbilitie": [
+        "THICKFAT"
+    ],
+    "baseTotal": 489,
+    "baseStats": [
+        110,
+        100,
+        75,
+        65,
+        59,
+        80
+    ],
+    "flags": [],
+    "name": "Oinkologne",
+    "species": "OINKOLOGNE",
+    "catchRate": 100,
+    "happiness": 50,
+    "baseExp": 171,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 9,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    5,
+                    "DISARMINGVOICE"
+                ],
+                [
+                    8,
+                    "ECHOEDVOICE"
+                ],
+                [
+                    12,
+                    "MUDSHOT"
+                ],
+                [
+                    15,
+                    "COVET"
+                ],
+                [
+                    17,
+                    "DIG"
+                ],
+                [
+                    23,
+                    "HEADBUTT"
+                ],
+                [
+                    26,
+                    "TAKEDOWN"
+                ],
+                [
+                    27,
+                    "YAWN"
+                ],
+                [
+                    34,
+                    "WORKUP"
+                ],
+                [
+                    38,
+                    "UPROAR"
+                ],
+                [
+                    42,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    48,
+                    "EARTHPOWER"
+                ],
+                [
+                    54,
+                    "BELCH"
+                ]
+            ],
+            "tutorMoves": [
+                "BODYPRESS",
+                "BODYSLAM",
+                "BULLDOZE",
+                "BULLETSEED",
+                "CHILLINGWATER",
+                "CURSE",
+                "DIG",
+                "DISARMINGVOICE",
+                "DOUBLEEDGE",
+                "EARTHPOWER",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "GIGAIMPACT",
+                "HELPINGHAND",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "IRONHEAD",
+                "LASHOUT",
+                "MUDSHOT",
+                "MUDSLAP",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERFANG",
+                "TAKEDOWN",
+                "THIEF",
+                "TRAILBLAZE",
+                "UPROAR",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.0,
+            "weight": 120.0,
+            "abilities": [
+                "LINGERINGAROMA",
+                "GLUTTONY"
+            ],
+            "hiddenAbilitie": [
+                "THICKFAT"
+            ],
+            "baseTotal": 489,
+            "baseStats": [
+                110,
+                100,
+                75,
+                65,
+                59,
+                80
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Macho"
+        },
+        {
+            "generation": 9,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    3,
+                    "DISARMINGVOICE"
+                ],
+                [
+                    6,
+                    "ECHOEDVOICE"
+                ],
+                [
+                    9,
+                    "MUDSHOT"
+                ],
+                [
+                    12,
+                    "COVET"
+                ],
+                [
+                    15,
+                    "DIG"
+                ],
+                [
+                    17,
+                    "HEADBUTT"
+                ],
+                [
+                    23,
+                    "YAWN"
+                ],
+                [
+                    28,
+                    "TAKEDOWN"
+                ],
+                [
+                    30,
+                    "WORKUP"
+                ],
+                [
+                    34,
+                    "UPROAR"
+                ],
+                [
+                    39,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    45,
+                    "EARTHPOWER"
+                ],
+                [
+                    51,
+                    "BELCH"
+                ]
+            ],
+            "tutorMoves": [
+                "BODYPRESS",
+                "BODYSLAM",
+                "BULLDOZE",
+                "BULLETSEED",
+                "CHILLINGWATER",
+                "CURSE",
+                "DIG",
+                "DISARMINGVOICE",
+                "DOUBLEEDGE",
+                "EARTHPOWER",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "GIGAIMPACT",
+                "HELPINGHAND",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "IRONHEAD",
+                "LASHOUT",
+                "MUDSHOT",
+                "MUDSLAP",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERFANG",
+                "TAKEDOWN",
+                "THIEF",
+                "TRAILBLAZE",
+                "UPROAR",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.0,
+            "weight": 120.0,
+            "abilities": [
+                "AROMAVEIL",
+                "GLUTTONY"
+            ],
+            "hiddenAbilitie": [
+                "THICKFAT"
+            ],
+            "baseTotal": 489,
+            "baseStats": [
+                115,
+                90,
+                70,
+                65,
+                59,
+                90
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Hembra"
+        }
+    ],
+    "internationalPokedex": 916
+}

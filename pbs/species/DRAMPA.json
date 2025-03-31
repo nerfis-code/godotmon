@@ -1,0 +1,179 @@
+{
+    "generation": 7,
+    "primaryType": "NORMAL",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "PLAYNICE"
+        ],
+        [
+            1,
+            "ECHOEDVOICE"
+        ],
+        [
+            5,
+            "TWISTER"
+        ],
+        [
+            10,
+            "PROTECT"
+        ],
+        [
+            15,
+            "GLARE"
+        ],
+        [
+            20,
+            "SAFEGUARD"
+        ],
+        [
+            25,
+            "DRAGONBREATH"
+        ],
+        [
+            30,
+            "EXTRASENSORY"
+        ],
+        [
+            35,
+            "DRAGONPULSE"
+        ],
+        [
+            40,
+            "LIGHTSCREEN"
+        ],
+        [
+            45,
+            "FLY"
+        ],
+        [
+            50,
+            "HYPERVOICE"
+        ],
+        [
+            55,
+            "OUTRAGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ATTRACT",
+        "BLIZZARD",
+        "BLOCK",
+        "BREAKINGSWIPE",
+        "BULLDOZE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLING",
+        "FLY",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICYWIND",
+        "LASHOUT",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OUTRAGE",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWIFT",
+        "TAILWIND",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UPROAR",
+        "WATERPULSE",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "DRAGONRUSH",
+        "MIST",
+        "TICKLE"
+    ],
+    "height": 3.0,
+    "weight": 185.0,
+    "abilities": [
+        "BERSERK",
+        "SAPSIPPER"
+    ],
+    "hiddenAbilitie": [
+        "CLOUDNINE"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        78,
+        60,
+        85,
+        36,
+        135,
+        91
+    ],
+    "flags": [],
+    "name": "Drampa",
+    "species": "DRAMPA",
+    "catchRate": 70,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 780
+}

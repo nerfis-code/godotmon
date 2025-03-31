@@ -1,0 +1,261 @@
+{
+    "generation": 3,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "DOUBLEKICK"
+        ],
+        [
+            -1,
+            "DISABLE"
+        ],
+        [
+            -1,
+            "COUNTER"
+        ],
+        [
+            -1,
+            "FURYSWIPES"
+        ],
+        [
+            -1,
+            "CURSE"
+        ],
+        [
+            -1,
+            "FLAIL"
+        ],
+        [
+            -1,
+            "BELLYDRUM"
+        ],
+        [
+            -1,
+            "FEINT"
+        ],
+        [
+            -1,
+            "NIGHTSLASH"
+        ],
+        [
+            -1,
+            "DOUBLEHIT"
+        ],
+        [
+            -1,
+            "QUICKGUARD"
+        ],
+        [
+            -1,
+            "FINALGAMBIT"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            5,
+            "QUICKATTACK"
+        ],
+        [
+            8,
+            "FURYCUTTER"
+        ],
+        [
+            12,
+            "METALCLAW"
+        ],
+        [
+            15,
+            "HONECLAWS"
+        ],
+        [
+            15,
+            "AERIALACE"
+        ],
+        [
+            19,
+            "SLASH"
+        ],
+        [
+            22,
+            "REVENGE"
+        ],
+        [
+            22,
+            "POWERTRIP"
+        ],
+        [
+            26,
+            "CRUSHCLAW"
+        ],
+        [
+            29,
+            "FALSESWIPE"
+        ],
+        [
+            33,
+            "FACADE"
+        ],
+        [
+            33,
+            "SWITCHEROO"
+        ],
+        [
+            36,
+            "DETECT"
+        ],
+        [
+            40,
+            "XSCISSOR"
+        ],
+        [
+            43,
+            "TAUNT"
+        ],
+        [
+            47,
+            "SWORDSDANCE"
+        ],
+        [
+            50,
+            "CLOSECOMBAT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EMBARGO",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "WATERPULSE",
+        "WORKUP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "BELLYDRUM",
+        "COUNTER",
+        "CURSE",
+        "DISABLE",
+        "DOUBLEHIT",
+        "DOUBLEKICK",
+        "FEINT",
+        "FINALGAMBIT",
+        "FLAIL",
+        "FURYSWIPES",
+        "METALCLAW",
+        "NIGHTSLASH",
+        "QUICKGUARD"
+    ],
+    "height": 1.3,
+    "weight": 40.3,
+    "abilities": [
+        "IMMUNITY"
+    ],
+    "hiddenAbilitie": [
+        "TOXICBOOST"
+    ],
+    "baseTotal": 458,
+    "baseStats": [
+        73,
+        115,
+        60,
+        90,
+        60,
+        60
+    ],
+    "flags": [],
+    "name": "Zangoose",
+    "species": "ZANGOOSE",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 160,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 335
+}

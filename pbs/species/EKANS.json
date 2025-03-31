@@ -1,0 +1,169 @@
+{
+    "generation": 1,
+    "primaryType": "POISON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            4,
+            "POISONSTING"
+        ],
+        [
+            9,
+            "BITE"
+        ],
+        [
+            12,
+            "GLARE"
+        ],
+        [
+            17,
+            "SCREECH"
+        ],
+        [
+            20,
+            "ACID"
+        ],
+        [
+            25,
+            "STOCKPILE"
+        ],
+        [
+            25,
+            "SWALLOW"
+        ],
+        [
+            25,
+            "SPITUP"
+        ],
+        [
+            28,
+            "ACIDSPRAY"
+        ],
+        [
+            33,
+            "SLUDGEBOMB"
+        ],
+        [
+            36,
+            "GASTROACID"
+        ],
+        [
+            38,
+            "BELCH"
+        ],
+        [
+            41,
+            "HAZE"
+        ],
+        [
+            44,
+            "COIL"
+        ],
+        [
+            49,
+            "GUNKSHOT"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BIND",
+        "BODYSLAM",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "IRONTAIL",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THIEF",
+        "TORMENT",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [
+        "BEATUP",
+        "DISABLE",
+        "POISONFANG",
+        "POISONTAIL",
+        "SCARYFACE",
+        "SLAM",
+        "SPITE",
+        "SUCKERPUNCH",
+        "SWITCHEROO"
+    ],
+    "height": 2.0,
+    "weight": 6.9,
+    "abilities": [
+        "INTIMIDATE",
+        "SHEDSKIN"
+    ],
+    "hiddenAbilitie": [
+        "UNNERVE"
+    ],
+    "baseTotal": 288,
+    "baseStats": [
+        35,
+        60,
+        44,
+        55,
+        40,
+        54
+    ],
+    "flags": [],
+    "name": "Ekans",
+    "species": "EKANS",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 58,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 23
+}

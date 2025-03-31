@@ -1,0 +1,175 @@
+{
+    "generation": 4,
+    "primaryType": "BUG",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            -1,
+            "HYPNOSIS"
+        ],
+        [
+            1,
+            "BUGBUZZ"
+        ],
+        [
+            1,
+            "AIRSLASH"
+        ],
+        [
+            1,
+            "NIGHTSLASH"
+        ],
+        [
+            1,
+            "WINGATTACK"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "DOUBLETEAM"
+        ],
+        [
+            14,
+            "QUICKATTACK"
+        ],
+        [
+            14,
+            "AERIALACE"
+        ],
+        [
+            17,
+            "DETECT"
+        ],
+        [
+            22,
+            "SUPERSONIC"
+        ],
+        [
+            27,
+            "UPROAR"
+        ],
+        [
+            30,
+            "BUGBITE"
+        ],
+        [
+            30,
+            "STRINGSHOT"
+        ],
+        [
+            33,
+            "ANCIENTPOWER"
+        ],
+        [
+            38,
+            "FEINT"
+        ],
+        [
+            43,
+            "SLASH"
+        ],
+        [
+            46,
+            "SCREECH"
+        ],
+        [
+            49,
+            "UTURN"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LASERFOCUS",
+        "LEECHLIFE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAILWIND",
+        "THIEF",
+        "UPROAR",
+        "UTURN"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 51.5,
+    "abilities": [
+        "SPEEDBOOST",
+        "TINTEDLENS"
+    ],
+    "hiddenAbilitie": [
+        "FRISK"
+    ],
+    "baseTotal": 515,
+    "baseStats": [
+        86,
+        76,
+        86,
+        95,
+        116,
+        56
+    ],
+    "flags": [],
+    "name": "Yanmega",
+    "species": "YANMEGA",
+    "catchRate": 30,
+    "happiness": 50,
+    "baseExp": 180,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 469
+}

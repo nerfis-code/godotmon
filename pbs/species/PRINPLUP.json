@@ -1,0 +1,154 @@
+{
+    "generation": 4,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "METALCLAW"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            11,
+            "CHARM"
+        ],
+        [
+            15,
+            "PECK"
+        ],
+        [
+            19,
+            "BUBBLEBEAM"
+        ],
+        [
+            24,
+            "SWAGGER"
+        ],
+        [
+            28,
+            "FURYATTACK"
+        ],
+        [
+            33,
+            "BRINE"
+        ],
+        [
+            37,
+            "WHIRLPOOL"
+        ],
+        [
+            42,
+            "MIST"
+        ],
+        [
+            46,
+            "DRILLPECK"
+        ],
+        [
+            50,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BLIZZARD",
+        "BRICKBREAK",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DEFOG",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "ICEBEAM",
+        "ICYWIND",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PLUCK",
+        "PROTECT",
+        "QUASH",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 23.0,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "COMPETITIVE"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        64,
+        66,
+        68,
+        50,
+        81,
+        76
+    ],
+    "flags": [],
+    "name": "Prinplup",
+    "species": "PRINPLUP",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 142,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 394
+}

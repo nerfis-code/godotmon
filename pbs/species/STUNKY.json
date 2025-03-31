@@ -1,0 +1,184 @@
+{
+    "generation": 4,
+    "primaryType": "POISON",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            1,
+            "POISONGAS"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            3,
+            "FEINT"
+        ],
+        [
+            6,
+            "SMOKESCREEN"
+        ],
+        [
+            9,
+            "ACIDSPRAY"
+        ],
+        [
+            12,
+            "FURYSWIPES"
+        ],
+        [
+            15,
+            "FOCUSENERGY"
+        ],
+        [
+            18,
+            "BITE"
+        ],
+        [
+            21,
+            "VENOSHOCK"
+        ],
+        [
+            24,
+            "SCREECH"
+        ],
+        [
+            27,
+            "TOXIC"
+        ],
+        [
+            30,
+            "SUCKERPUNCH"
+        ],
+        [
+            33,
+            "MEMENTO"
+        ],
+        [
+            36,
+            "NIGHTSLASH"
+        ],
+        [
+            39,
+            "BELCH"
+        ],
+        [
+            42,
+            "VENOMDRENCH"
+        ],
+        [
+            42,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CORROSIVEGAS",
+        "CRUNCH",
+        "CUT",
+        "DARKPULSE",
+        "DEFOG",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FOCUSENERGY",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HEX",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "INCINERATE",
+        "IRONTAIL",
+        "LASHOUT",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROUND",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILSLAP",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TORMENT",
+        "TOXIC",
+        "VENOMDRENCH",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [
+        "ASTONISH",
+        "CRUNCH",
+        "DOUBLEEDGE",
+        "FOULPLAY",
+        "HAZE",
+        "LEER",
+        "PLAYROUGH",
+        "SCARYFACE",
+        "SLASH",
+        "SMOG"
+    ],
+    "height": 0.4,
+    "weight": 19.2,
+    "abilities": [
+        "STENCH",
+        "AFTERMATH"
+    ],
+    "hiddenAbilitie": [
+        "KEENEYE"
+    ],
+    "baseTotal": 329,
+    "baseStats": [
+        63,
+        63,
+        47,
+        74,
+        41,
+        41
+    ],
+    "flags": [],
+    "name": "Stunky",
+    "species": "STUNKY",
+    "catchRate": 225,
+    "happiness": 50,
+    "baseExp": 66,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 434
+}

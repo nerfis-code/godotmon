@@ -1,0 +1,148 @@
+{
+    "generation": 9,
+    "primaryType": "POISON",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "LOWKICK"
+        ],
+        [
+            1,
+            "BULKUP"
+        ],
+        [
+            8,
+            "HOWL"
+        ],
+        [
+            16,
+            "POISONFANG"
+        ],
+        [
+            24,
+            "FORCEPALM"
+        ],
+        [
+            32,
+            "COUNTER"
+        ],
+        [
+            40,
+            "POISONJAB"
+        ],
+        [
+            48,
+            "BRUTALSWING"
+        ],
+        [
+            56,
+            "CRUNCH"
+        ],
+        [
+            64,
+            "SUPERPOWER"
+        ],
+        [
+            72,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "CLOSECOMBAT",
+        "CRUNCH",
+        "CURSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DRAINPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HARDPRESS",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEFANG",
+        "ICEPUNCH",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "METALCLAW",
+        "OUTRAGE",
+        "POISONJAB",
+        "POISONTAIL",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "REST",
+        "REVERSAL",
+        "ROAR",
+        "ROCKTOMB",
+        "SCARYFACE",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNARL",
+        "SPITE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERFANG",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "UPPERHAND",
+        "UPROAR"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 92.0,
+    "abilities": [
+        "TOXICCHAIN"
+    ],
+    "hiddenAbilitie": [
+        "GUARDDOG"
+    ],
+    "baseTotal": 555,
+    "baseStats": [
+        88,
+        128,
+        115,
+        80,
+        58,
+        86
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Okidogi",
+    "species": "OKIDOGI",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 278,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 0,
+    "forms": [],
+    "internationalPokedex": 1014
+}

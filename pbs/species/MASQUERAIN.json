@@ -1,0 +1,181 @@
+{
+    "generation": 3,
+    "primaryType": "BUG",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "WHIRLWIND"
+        ],
+        [
+            1,
+            "BUBBLEBEAM"
+        ],
+        [
+            1,
+            "AGILITY"
+        ],
+        [
+            1,
+            "MIST"
+        ],
+        [
+            1,
+            "HAZE"
+        ],
+        [
+            1,
+            "AQUAJET"
+        ],
+        [
+            1,
+            "BATONPASS"
+        ],
+        [
+            1,
+            "STICKYWEB"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            1,
+            "SOAK"
+        ],
+        [
+            17,
+            "GUST"
+        ],
+        [
+            22,
+            "SCARYFACE"
+        ],
+        [
+            22,
+            "AIRCUTTER"
+        ],
+        [
+            26,
+            "STUNSPORE"
+        ],
+        [
+            32,
+            "SUPERSONIC"
+        ],
+        [
+            32,
+            "AIRSLASH"
+        ],
+        [
+            38,
+            "GIGADRAIN"
+        ],
+        [
+            44,
+            "BUGBUZZ"
+        ],
+        [
+            52,
+            "QUIVERDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "BLIZZARD",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "INFESTATION",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TWISTER",
+        "UTURN",
+        "WATERPULSE"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 3.6,
+    "abilities": [
+        "INTIMIDATE"
+    ],
+    "hiddenAbilitie": [
+        "UNNERVE"
+    ],
+    "baseTotal": 454,
+    "baseStats": [
+        70,
+        60,
+        62,
+        80,
+        100,
+        82
+    ],
+    "flags": [],
+    "name": "Masquerain",
+    "species": "MASQUERAIN",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 159,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 284
+}

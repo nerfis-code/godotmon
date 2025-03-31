@@ -1,0 +1,68 @@
+{
+    "generation": 4,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            6,
+            "STRUGGLEBUG"
+        ],
+        [
+            16,
+            "BUGBITE"
+        ]
+    ],
+    "tutorMoves": [
+        "BUGBITE",
+        "ENDEAVOR",
+        "MUDSLAP",
+        "SNORE",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "UPROAR"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 2.2,
+    "abilities": [
+        "SHEDSKIN"
+    ],
+    "hiddenAbilitie": [
+        "RUNAWAY"
+    ],
+    "baseTotal": 194,
+    "baseStats": [
+        37,
+        25,
+        41,
+        25,
+        25,
+        41
+    ],
+    "flags": [],
+    "name": "Kricketot",
+    "species": "KRICKETOT",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 39,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 401
+}

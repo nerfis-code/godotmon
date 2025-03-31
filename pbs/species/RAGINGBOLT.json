@@ -1,0 +1,157 @@
+{
+    "generation": 9,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            -1,
+            "ANCIENTPOWER"
+        ],
+        [
+            1,
+            "TWISTER"
+        ],
+        [
+            1,
+            "SUNNYDAY"
+        ],
+        [
+            1,
+            "SHOCKWAVE"
+        ],
+        [
+            1,
+            "STOMP"
+        ],
+        [
+            7,
+            "CHARGE"
+        ],
+        [
+            14,
+            "DRAGONBREATH"
+        ],
+        [
+            21,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            28,
+            "DISCHARGE"
+        ],
+        [
+            35,
+            "DRAGONTAIL"
+        ],
+        [
+            42,
+            "CALMMIND"
+        ],
+        [
+            49,
+            "THUNDERCLAP"
+        ],
+        [
+            56,
+            "DRAGONHAMMER"
+        ],
+        [
+            63,
+            "RISINGVOLTAGE"
+        ],
+        [
+            70,
+            "DRAGONPULSE"
+        ],
+        [
+            77,
+            "ZAPCANNON"
+        ],
+        [
+            84,
+            "BODYPRESS"
+        ],
+        [
+            91,
+            "THUNDER"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "CALMMIND",
+        "CHARGE",
+        "CHARGEBEAM",
+        "CRUNCH",
+        "DOUBLEEDGE",
+        "DRACOMETEOR",
+        "DRAGONCHEER",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHQUAKE",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "GIGAIMPACT",
+        "HEAVYSLAM",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "OUTRAGE",
+        "PROTECT",
+        "REST",
+        "ROAR",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SNARL",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERCELLSLAM",
+        "TAKEDOWN",
+        "TAUNT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "VOLTSWITCH",
+        "WEATHERBALL",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 5.2,
+    "weight": 480.0,
+    "abilities": [
+        "PROTOSYNTHESIS"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 590,
+    "baseStats": [
+        125,
+        73,
+        91,
+        75,
+        137,
+        89
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Electrofuria",
+    "species": "RAGINGBOLT",
+    "catchRate": 10,
+    "happiness": 0,
+    "baseExp": 295,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 1021
+}

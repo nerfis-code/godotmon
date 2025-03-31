@@ -1,0 +1,182 @@
+{
+    "generation": 5,
+    "primaryType": "BUG",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            1,
+            "FELLSTINGER"
+        ],
+        [
+            1,
+            "ENDURE"
+        ],
+        [
+            1,
+            "FLAIL"
+        ],
+        [
+            1,
+            "SCARYFACE"
+        ],
+        [
+            1,
+            "TAKEDOWN"
+        ],
+        [
+            1,
+            "DOUBLEEDGE"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "QUICKGUARD"
+        ],
+        [
+            12,
+            "FALSESWIPE"
+        ],
+        [
+            16,
+            "ACIDSPRAY"
+        ],
+        [
+            20,
+            "HEADBUTT"
+        ],
+        [
+            24,
+            "REVERSAL"
+        ],
+        [
+            28,
+            "IRONDEFENSE"
+        ],
+        [
+            32,
+            "XSCISSOR"
+        ],
+        [
+            36,
+            "SWORDSDANCE"
+        ],
+        [
+            40,
+            "IRONHEAD"
+        ],
+        [
+            44,
+            "BUGBUZZ"
+        ],
+        [
+            48,
+            "GIGAIMPACT"
+        ],
+        [
+            52,
+            "METALBURST"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "ATTRACT",
+        "BRUTALSWING",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "MEGAHORN",
+        "MIMIC",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "RAZORSHELL",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKSMASH",
+        "ROUND",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "STEELBEAM",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TOXIC",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 33.0,
+    "abilities": [
+        "SWARM",
+        "SHELLARMOR"
+    ],
+    "hiddenAbilitie": [
+        "OVERCOAT"
+    ],
+    "baseTotal": 495,
+    "baseStats": [
+        70,
+        135,
+        105,
+        20,
+        60,
+        105
+    ],
+    "flags": [],
+    "name": "Escavalier",
+    "species": "ESCAVALIER",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 173,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 589
+}

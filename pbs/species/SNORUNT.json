@@ -1,0 +1,159 @@
+{
+    "generation": 3,
+    "primaryType": "ICE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "HEADBUTT"
+        ],
+        [
+            5,
+            "LEER"
+        ],
+        [
+            10,
+            "DOUBLETEAM"
+        ],
+        [
+            15,
+            "ICESHARD"
+        ],
+        [
+            20,
+            "PROTECT"
+        ],
+        [
+            25,
+            "ICYWIND"
+        ],
+        [
+            30,
+            "FROSTBREATH"
+        ],
+        [
+            35,
+            "BITE"
+        ],
+        [
+            40,
+            "ICEFANG"
+        ],
+        [
+            45,
+            "HAIL"
+        ],
+        [
+            45,
+            "SNOWSCAPE"
+        ],
+        [
+            50,
+            "WEATHERBALL"
+        ],
+        [
+            55,
+            "CRUNCH"
+        ],
+        [
+            60,
+            "BLIZZARD"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FLASH",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "HAIL",
+        "HEADBUTT",
+        "HEX",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICYWIND",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "SPIKES",
+        "SPITE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "WATERPULSE",
+        "WEATHERBALL"
+    ],
+    "eggMoves": [
+        "BLOCK",
+        "DISABLE",
+        "FAKETEARS",
+        "HEX",
+        "ICICLECRASH",
+        "ROLLOUT",
+        "SPIKES",
+        "SWITCHEROO",
+        "WEATHERBALL"
+    ],
+    "height": 0.7,
+    "weight": 16.8,
+    "abilities": [
+        "INNERFOCUS",
+        "ICEBODY"
+    ],
+    "hiddenAbilitie": [
+        "MOODY"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        50,
+        50,
+        50,
+        50,
+        50,
+        50
+    ],
+    "flags": [],
+    "name": "Snorunt",
+    "species": "SNORUNT",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 361
+}

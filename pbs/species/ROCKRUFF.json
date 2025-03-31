@@ -1,0 +1,421 @@
+{
+    "generation": 7,
+    "primaryType": "ROCK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            4,
+            "SANDATTACK"
+        ],
+        [
+            8,
+            "DOUBLETEAM"
+        ],
+        [
+            12,
+            "ROCKTHROW"
+        ],
+        [
+            16,
+            "HOWL"
+        ],
+        [
+            20,
+            "BITE"
+        ],
+        [
+            24,
+            "ROCKTOMB"
+        ],
+        [
+            28,
+            "ROAR"
+        ],
+        [
+            32,
+            "ROCKSLIDE"
+        ],
+        [
+            36,
+            "CRUNCH"
+        ],
+        [
+            40,
+            "SCARYFACE"
+        ],
+        [
+            44,
+            "STEALTHROCK"
+        ],
+        [
+            48,
+            "STONEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CRUNCH",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASTRESORT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THUNDERFANG",
+        "TOXIC",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "ENDEAVOR",
+        "LASTRESORT",
+        "THRASH"
+    ],
+    "height": 0.5,
+    "weight": 9.2,
+    "abilities": [
+        "KEENEYE",
+        "VITALSPIRIT"
+    ],
+    "hiddenAbilitie": [
+        "STEADFAST"
+    ],
+    "baseTotal": 280,
+    "baseStats": [
+        45,
+        65,
+        40,
+        60,
+        30,
+        40
+    ],
+    "flags": [],
+    "name": "Rockruff",
+    "species": "ROCKRUFF",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 56,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 7,
+            "primaryType": "ROCK",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    4,
+                    "SANDATTACK"
+                ],
+                [
+                    8,
+                    "DOUBLETEAM"
+                ],
+                [
+                    12,
+                    "ROCKTHROW"
+                ],
+                [
+                    16,
+                    "HOWL"
+                ],
+                [
+                    20,
+                    "BITE"
+                ],
+                [
+                    24,
+                    "ROCKTOMB"
+                ],
+                [
+                    28,
+                    "ROAR"
+                ],
+                [
+                    32,
+                    "ROCKSLIDE"
+                ],
+                [
+                    36,
+                    "CRUNCH"
+                ],
+                [
+                    40,
+                    "SCARYFACE"
+                ],
+                [
+                    44,
+                    "STEALTHROCK"
+                ],
+                [
+                    48,
+                    "STONEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "CRUNCH",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FIREFANG",
+                "FRUSTRATION",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "PLAYROUGH",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAUNT",
+                "THUNDERFANG",
+                "TOXIC",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "ENDEAVOR",
+                "LASTRESORT",
+                "THRASH"
+            ],
+            "height": 0.5,
+            "weight": 9.2,
+            "abilities": [
+                "KEENEYE",
+                "VITALSPIRIT"
+            ],
+            "hiddenAbilitie": [
+                "STEADFAST"
+            ],
+            "baseTotal": 280,
+            "baseStats": [
+                45,
+                65,
+                40,
+                60,
+                30,
+                40
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Rockruff"
+        },
+        {
+            "generation": 7,
+            "primaryType": "ROCK",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    4,
+                    "SANDATTACK"
+                ],
+                [
+                    8,
+                    "DOUBLETEAM"
+                ],
+                [
+                    12,
+                    "ROCKTHROW"
+                ],
+                [
+                    16,
+                    "HOWL"
+                ],
+                [
+                    20,
+                    "BITE"
+                ],
+                [
+                    24,
+                    "ROCKTOMB"
+                ],
+                [
+                    28,
+                    "ROAR"
+                ],
+                [
+                    32,
+                    "ROCKSLIDE"
+                ],
+                [
+                    36,
+                    "CRUNCH"
+                ],
+                [
+                    40,
+                    "SCARYFACE"
+                ],
+                [
+                    44,
+                    "STEALTHROCK"
+                ],
+                [
+                    48,
+                    "STONEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "CRUNCH",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FIREFANG",
+                "FRUSTRATION",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "PLAYROUGH",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAUNT",
+                "THUNDERFANG",
+                "TOXIC",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "ENDEAVOR",
+                "LASTRESORT",
+                "THRASH"
+            ],
+            "height": 0.5,
+            "weight": 9.2,
+            "abilities": [
+                "OWNTEMPO"
+            ],
+            "hiddenAbilitie": [
+                "OWNTEMPO"
+            ],
+            "baseTotal": 280,
+            "baseStats": [
+                45,
+                65,
+                40,
+                60,
+                30,
+                40
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 2,
+            "formName": "Rockruff"
+        }
+    ],
+    "internationalPokedex": 744
+}

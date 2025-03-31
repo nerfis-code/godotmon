@@ -1,0 +1,157 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            4,
+            "WATERGUN"
+        ],
+        [
+            7,
+            "AGILITY"
+        ],
+        [
+            13,
+            "TEARFULLOOK"
+        ],
+        [
+            13,
+            "WISH"
+        ],
+        [
+            17,
+            "WATERPULSE"
+        ],
+        [
+            20,
+            "ATTRACT"
+        ],
+        [
+            22,
+            "DRAININGKISS"
+        ],
+        [
+            22,
+            "BRINE"
+        ],
+        [
+            26,
+            "FLAIL"
+        ],
+        [
+            31,
+            "SWEETKISS"
+        ],
+        [
+            34,
+            "TAKEDOWN"
+        ],
+        [
+            37,
+            "BABYDOLLEYES"
+        ],
+        [
+            40,
+            "AQUARING"
+        ],
+        [
+            42,
+            "SOAK"
+        ],
+        [
+            46,
+            "HYDROPUMP"
+        ],
+        [
+            49,
+            "SAFEGUARD"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BOUNCE",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HAIL",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "LIQUIDATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "AQUAJET",
+        "AQUARING",
+        "ENTRAINMENT",
+        "HEALPULSE",
+        "SPLASH",
+        "SUPERSONIC"
+    ],
+    "height": 0.6,
+    "weight": 8.7,
+    "abilities": [
+        "SWIFTSWIM"
+    ],
+    "hiddenAbilitie": [
+        "HYDRATION"
+    ],
+    "baseTotal": 330,
+    "baseStats": [
+        43,
+        30,
+        55,
+        97,
+        40,
+        65
+    ],
+    "flags": [],
+    "name": "Luvdisc",
+    "species": "LUVDISC",
+    "catchRate": 225,
+    "happiness": 50,
+    "baseExp": 116,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 370
+}

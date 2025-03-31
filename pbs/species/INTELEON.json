@@ -1,0 +1,444 @@
+{
+    "generation": 8,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "SNIPESHOT"
+        ],
+        [
+            1,
+            "ACROBATICS"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "BIND"
+        ],
+        [
+            12,
+            "WATERPULSE"
+        ],
+        [
+            19,
+            "TEARFULLOOK"
+        ],
+        [
+            24,
+            "SUCKERPUNCH"
+        ],
+        [
+            30,
+            "UTURN"
+        ],
+        [
+            38,
+            "LIQUIDATION"
+        ],
+        [
+            46,
+            "SOAK"
+        ],
+        [
+            54,
+            "RAINDANCE"
+        ],
+        [
+            62,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AGILITY",
+        "AIRSLASH",
+        "ATTRACT",
+        "BATONPASS",
+        "BLIZZARD",
+        "BOUNCE",
+        "BREAKINGSWIPE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYDROCANNON",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "METRONOME",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TOXIC",
+        "UTURN",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WEATHERBALL",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 45.2,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "SNIPER"
+    ],
+    "baseTotal": 530,
+    "baseStats": [
+        70,
+        85,
+        65,
+        120,
+        125,
+        65
+    ],
+    "flags": [],
+    "name": "Inteleon",
+    "species": "INTELEON",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 265,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "SNIPESHOT"
+                ],
+                [
+                    1,
+                    "ACROBATICS"
+                ],
+                [
+                    1,
+                    "POUND"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "BIND"
+                ],
+                [
+                    12,
+                    "WATERPULSE"
+                ],
+                [
+                    19,
+                    "TEARFULLOOK"
+                ],
+                [
+                    24,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    30,
+                    "UTURN"
+                ],
+                [
+                    38,
+                    "LIQUIDATION"
+                ],
+                [
+                    46,
+                    "SOAK"
+                ],
+                [
+                    54,
+                    "RAINDANCE"
+                ],
+                [
+                    62,
+                    "HYDROPUMP"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AGILITY",
+                "AIRSLASH",
+                "ATTRACT",
+                "BATONPASS",
+                "BLIZZARD",
+                "BOUNCE",
+                "BREAKINGSWIPE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DARKPULSE",
+                "DIVE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FLING",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYDROCANNON",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "LIGHTSCREEN",
+                "LIQUIDATION",
+                "METRONOME",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SCALD",
+                "SCALESHOT",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TOXIC",
+                "UTURN",
+                "WATERFALL",
+                "WATERPLEDGE",
+                "WEATHERBALL",
+                "WHIRLPOOL",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 1.9,
+            "weight": 45.2,
+            "abilities": [
+                "TORRENT"
+            ],
+            "hiddenAbilitie": [
+                "SNIPER"
+            ],
+            "baseTotal": 530,
+            "baseStats": [
+                70,
+                85,
+                65,
+                120,
+                125,
+                65
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Inteleon"
+        },
+        {
+            "generation": 8,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "SNIPESHOT"
+                ],
+                [
+                    1,
+                    "ACROBATICS"
+                ],
+                [
+                    1,
+                    "POUND"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "BIND"
+                ],
+                [
+                    12,
+                    "WATERPULSE"
+                ],
+                [
+                    19,
+                    "TEARFULLOOK"
+                ],
+                [
+                    24,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    30,
+                    "UTURN"
+                ],
+                [
+                    38,
+                    "LIQUIDATION"
+                ],
+                [
+                    46,
+                    "SOAK"
+                ],
+                [
+                    54,
+                    "RAINDANCE"
+                ],
+                [
+                    62,
+                    "HYDROPUMP"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AGILITY",
+                "AIRSLASH",
+                "ATTRACT",
+                "BATONPASS",
+                "BLIZZARD",
+                "BOUNCE",
+                "BREAKINGSWIPE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DARKPULSE",
+                "DIVE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FLING",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYDROCANNON",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "LIGHTSCREEN",
+                "LIQUIDATION",
+                "METRONOME",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SCALD",
+                "SCALESHOT",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TOXIC",
+                "UTURN",
+                "WATERFALL",
+                "WATERPLEDGE",
+                "WEATHERBALL",
+                "WHIRLPOOL",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 40.0,
+            "weight": 45.2,
+            "abilities": [
+                "TORRENT"
+            ],
+            "hiddenAbilitie": [
+                "SNIPER"
+            ],
+            "baseTotal": 530,
+            "baseStats": [
+                70,
+                85,
+                65,
+                120,
+                125,
+                65
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 818
+}

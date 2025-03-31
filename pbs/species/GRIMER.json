@@ -1,0 +1,524 @@
+{
+    "generation": 1,
+    "primaryType": "POISON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "POISONGAS"
+        ],
+        [
+            4,
+            "HARDEN"
+        ],
+        [
+            7,
+            "MUDSLAP"
+        ],
+        [
+            12,
+            "DISABLE"
+        ],
+        [
+            15,
+            "SLUDGE"
+        ],
+        [
+            18,
+            "SMOG"
+        ],
+        [
+            18,
+            "MUDSHOT"
+        ],
+        [
+            21,
+            "MINIMIZE"
+        ],
+        [
+            26,
+            "FLING"
+        ],
+        [
+            26,
+            "TOXIC"
+        ],
+        [
+            29,
+            "SLUDGEBOMB"
+        ],
+        [
+            32,
+            "SLUDGEWAVE"
+        ],
+        [
+            37,
+            "SCREECH"
+        ],
+        [
+            40,
+            "GUNKSHOT"
+        ],
+        [
+            43,
+            "ACIDARMOR"
+        ],
+        [
+            46,
+            "BELCH"
+        ],
+        [
+            48,
+            "MEMENTO"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GUNKSHOT",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "INCINERATE",
+        "INFESTATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [
+        "ACIDSPRAY",
+        "CURSE",
+        "HAZE",
+        "IMPRISON",
+        "LICK",
+        "MEANLOOK",
+        "POWERUPPUNCH",
+        "SCARYFACE",
+        "SHADOWPUNCH",
+        "SHADOWSNEAK",
+        "SPITUP",
+        "STOCKPILE",
+        "SWALLOW"
+    ],
+    "height": 0.9,
+    "weight": 30.0,
+    "abilities": [
+        "STENCH",
+        "STICKYHOLD"
+    ],
+    "hiddenAbilitie": [
+        "POISONTOUCH"
+    ],
+    "baseTotal": 325,
+    "baseStats": [
+        80,
+        80,
+        50,
+        25,
+        40,
+        50
+    ],
+    "flags": [],
+    "name": "Grimer",
+    "species": "GRIMER",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 65,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "POISON",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "POUND"
+                ],
+                [
+                    1,
+                    "POISONGAS"
+                ],
+                [
+                    4,
+                    "HARDEN"
+                ],
+                [
+                    7,
+                    "MUDSLAP"
+                ],
+                [
+                    12,
+                    "DISABLE"
+                ],
+                [
+                    15,
+                    "SLUDGE"
+                ],
+                [
+                    18,
+                    "SMOG"
+                ],
+                [
+                    18,
+                    "MUDSHOT"
+                ],
+                [
+                    21,
+                    "MINIMIZE"
+                ],
+                [
+                    26,
+                    "FLING"
+                ],
+                [
+                    26,
+                    "TOXIC"
+                ],
+                [
+                    29,
+                    "SLUDGEBOMB"
+                ],
+                [
+                    32,
+                    "SLUDGEWAVE"
+                ],
+                [
+                    37,
+                    "SCREECH"
+                ],
+                [
+                    40,
+                    "GUNKSHOT"
+                ],
+                [
+                    43,
+                    "ACIDARMOR"
+                ],
+                [
+                    46,
+                    "BELCH"
+                ],
+                [
+                    48,
+                    "MEMENTO"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLETEAM",
+                "DYNAMICPUNCH",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FIREBLAST",
+                "FIREPUNCH",
+                "FLAMETHROWER",
+                "FLING",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GUNKSHOT",
+                "HIDDENPOWER",
+                "ICEPUNCH",
+                "INCINERATE",
+                "INFESTATION",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PAINSPLIT",
+                "PAYBACK",
+                "POISONJAB",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAUNT",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "TORMENT",
+                "VENOSHOCK"
+            ],
+            "eggMoves": [
+                "ACIDSPRAY",
+                "CURSE",
+                "HAZE",
+                "IMPRISON",
+                "LICK",
+                "MEANLOOK",
+                "POWERUPPUNCH",
+                "SCARYFACE",
+                "SHADOWPUNCH",
+                "SHADOWSNEAK",
+                "SPITUP",
+                "STOCKPILE",
+                "SWALLOW"
+            ],
+            "height": 0.9,
+            "weight": 30.0,
+            "abilities": [
+                "STENCH",
+                "STICKYHOLD"
+            ],
+            "hiddenAbilitie": [
+                "POISONTOUCH"
+            ],
+            "baseTotal": 325,
+            "baseStats": [
+                80,
+                80,
+                50,
+                25,
+                40,
+                50
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Grimer"
+        },
+        {
+            "generation": 7,
+            "primaryType": "POISON",
+            "secondaryType": "DARK",
+            "moves": [
+                [
+                    1,
+                    "POUND"
+                ],
+                [
+                    1,
+                    "POISONGAS"
+                ],
+                [
+                    4,
+                    "HARDEN"
+                ],
+                [
+                    7,
+                    "BITE"
+                ],
+                [
+                    12,
+                    "DISABLE"
+                ],
+                [
+                    15,
+                    "ACIDSPRAY"
+                ],
+                [
+                    18,
+                    "POISONFANG"
+                ],
+                [
+                    21,
+                    "MINIMIZE"
+                ],
+                [
+                    26,
+                    "FLING"
+                ],
+                [
+                    29,
+                    "KNOCKOFF"
+                ],
+                [
+                    32,
+                    "CRUNCH"
+                ],
+                [
+                    37,
+                    "SCREECH"
+                ],
+                [
+                    40,
+                    "GUNKSHOT"
+                ],
+                [
+                    43,
+                    "ACIDARMOR"
+                ],
+                [
+                    46,
+                    "BELCH"
+                ],
+                [
+                    48,
+                    "MEMENTO"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYSLAM",
+                "BRUTALSWING",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLETEAM",
+                "DYNAMICPUNCH",
+                "EMBARGO",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FIREBLAST",
+                "FIREPUNCH",
+                "FLAMETHROWER",
+                "FLING",
+                "FRUSTRATION",
+                "GASTROACID",
+                "GIGADRAIN",
+                "GUNKSHOT",
+                "HIDDENPOWER",
+                "ICEPUNCH",
+                "INCINERATE",
+                "INFESTATION",
+                "KNOCKOFF",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PAINSPLIT",
+                "PAYBACK",
+                "POISONJAB",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "QUASH",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNARL",
+                "SNORE",
+                "SPITE",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAUNT",
+                "THIEF",
+                "THUNDERPUNCH",
+                "TORMENT",
+                "VENOSHOCK"
+            ],
+            "eggMoves": [
+                "ASSURANCE",
+                "CLEARSMOG",
+                "CURSE",
+                "IMPRISON",
+                "MEANLOOK",
+                "POWERUPPUNCH",
+                "PURSUIT",
+                "SCARYFACE",
+                "SHADOWSNEAK",
+                "SPITE",
+                "SPITUP",
+                "STOCKPILE",
+                "SWALLOW"
+            ],
+            "height": 0.7,
+            "weight": 42.0,
+            "abilities": [
+                "POISONTOUCH",
+                "GLUTTONY"
+            ],
+            "hiddenAbilitie": [
+                "POWEROFALCHEMY"
+            ],
+            "baseTotal": 325,
+            "baseStats": [
+                80,
+                80,
+                50,
+                25,
+                40,
+                50
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Alola"
+        }
+    ],
+    "internationalPokedex": 88
+}

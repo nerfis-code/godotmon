@@ -1,0 +1,169 @@
+{
+    "generation": 9,
+    "primaryType": "NORMAL",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "POWERSWAP"
+        ],
+        [
+            1,
+            "GUARDSWAP"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            5,
+            "CONFUSION"
+        ],
+        [
+            10,
+            "ASSURANCE"
+        ],
+        [
+            14,
+            "STOMP"
+        ],
+        [
+            19,
+            "PSYBEAM"
+        ],
+        [
+            23,
+            "AGILITY"
+        ],
+        [
+            28,
+            "DOUBLEHIT"
+        ],
+        [
+            32,
+            "TWINBEAM"
+        ],
+        [
+            37,
+            "CRUNCH"
+        ],
+        [
+            41,
+            "BATONPASS"
+        ],
+        [
+            46,
+            "NASTYPLOT"
+        ],
+        [
+            50,
+            "PSYCHIC"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AMNESIA",
+        "BATONPASS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFUSERAY",
+        "CRUNCH",
+        "CURSE",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FOULPLAY",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "HELPINGHAND",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IMPRISON",
+        "IRONHEAD",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "NASTYPLOT",
+        "NIGHTSHADE",
+        "PROTECT",
+        "PSYBEAM",
+        "PSYCHIC",
+        "PSYCHICFANGS",
+        "PSYCHICNOISE",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "ROAR",
+        "SHADOWBALL",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "STOMPINGTANTRUM",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWIFT",
+        "TAKEDOWN",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRAILBLAZE",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 3.2,
+    "weight": 160.0,
+    "abilities": [
+        "CUDCHEW",
+        "ARMORTAIL"
+    ],
+    "hiddenAbilitie": [
+        "SAPSIPPER"
+    ],
+    "baseTotal": 520,
+    "baseStats": [
+        120,
+        90,
+        70,
+        60,
+        110,
+        70
+    ],
+    "flags": [],
+    "name": "Farigiraf",
+    "species": "FARIGIRAF",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 260,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 981
+}

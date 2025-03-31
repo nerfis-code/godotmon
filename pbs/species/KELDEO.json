@@ -1,0 +1,486 @@
+{
+    "generation": 5,
+    "primaryType": "WATER",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            1,
+            "SECRETSWORD"
+        ],
+        [
+            1,
+            "AQUAJET"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "WORKUP"
+        ],
+        [
+            7,
+            "BUBBLEBEAM"
+        ],
+        [
+            14,
+            "QUICKGUARD"
+        ],
+        [
+            21,
+            "DOUBLEKICK"
+        ],
+        [
+            28,
+            "RETALIATE"
+        ],
+        [
+            35,
+            "AQUATAIL"
+        ],
+        [
+            42,
+            "TAKEDOWN"
+        ],
+        [
+            49,
+            "SACREDSWORD"
+        ],
+        [
+            56,
+            "SWORDSDANCE"
+        ],
+        [
+            63,
+            "HYDROPUMP"
+        ],
+        [
+            70,
+            "CLOSECOMBAT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRSLASH",
+        "AQUATAIL",
+        "AURASPHERE",
+        "BOUNCE",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLIPTURN",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICYWIND",
+        "LASTRESORT",
+        "LIQUIDATION",
+        "LOWKICK",
+        "MEGAHORN",
+        "MIMIC",
+        "MUDDYWATER",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROAR",
+        "ROCKSMASH",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SECRETPOWER",
+        "SECRETSWORD",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TOXIC",
+        "WATERPULSE",
+        "WORKUP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 48.5,
+    "abilities": [
+        "JUSTIFIED"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 580,
+    "baseStats": [
+        91,
+        72,
+        90,
+        108,
+        129,
+        90
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Keldeo",
+    "species": "KELDEO",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "WATER",
+            "secondaryType": "FIGHTING",
+            "moves": [
+                [
+                    1,
+                    "SECRETSWORD"
+                ],
+                [
+                    1,
+                    "AQUAJET"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "HELPINGHAND"
+                ],
+                [
+                    1,
+                    "WORKUP"
+                ],
+                [
+                    7,
+                    "BUBBLEBEAM"
+                ],
+                [
+                    14,
+                    "QUICKGUARD"
+                ],
+                [
+                    21,
+                    "DOUBLEKICK"
+                ],
+                [
+                    28,
+                    "RETALIATE"
+                ],
+                [
+                    35,
+                    "AQUATAIL"
+                ],
+                [
+                    42,
+                    "TAKEDOWN"
+                ],
+                [
+                    49,
+                    "SACREDSWORD"
+                ],
+                [
+                    56,
+                    "SWORDSDANCE"
+                ],
+                [
+                    63,
+                    "HYDROPUMP"
+                ],
+                [
+                    70,
+                    "CLOSECOMBAT"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRSLASH",
+                "AQUATAIL",
+                "AURASPHERE",
+                "BOUNCE",
+                "BRICKBREAK",
+                "CALMMIND",
+                "CLOSECOMBAT",
+                "COACHING",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DOUBLETEAM",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLIPTURN",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HAIL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICYWIND",
+                "LASTRESORT",
+                "LIQUIDATION",
+                "LOWKICK",
+                "MEGAHORN",
+                "MIMIC",
+                "MUDDYWATER",
+                "NATURALGIFT",
+                "POISONJAB",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROAR",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SCALD",
+                "SECRETPOWER",
+                "SECRETSWORD",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "SNORE",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAUNT",
+                "TOXIC",
+                "WATERPULSE",
+                "WORKUP",
+                "XSCISSOR"
+            ],
+            "eggMoves": [],
+            "height": 1.4,
+            "weight": 48.5,
+            "abilities": [
+                "JUSTIFIED"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 580,
+            "baseStats": [
+                91,
+                72,
+                90,
+                108,
+                129,
+                90
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 0,
+            "formName": "Forma Habitual"
+        },
+        {
+            "generation": 5,
+            "primaryType": "WATER",
+            "secondaryType": "FIGHTING",
+            "moves": [
+                [
+                    1,
+                    "SECRETSWORD"
+                ],
+                [
+                    1,
+                    "AQUAJET"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "HELPINGHAND"
+                ],
+                [
+                    1,
+                    "WORKUP"
+                ],
+                [
+                    7,
+                    "BUBBLEBEAM"
+                ],
+                [
+                    14,
+                    "QUICKGUARD"
+                ],
+                [
+                    21,
+                    "DOUBLEKICK"
+                ],
+                [
+                    28,
+                    "RETALIATE"
+                ],
+                [
+                    35,
+                    "AQUATAIL"
+                ],
+                [
+                    42,
+                    "TAKEDOWN"
+                ],
+                [
+                    49,
+                    "SACREDSWORD"
+                ],
+                [
+                    56,
+                    "SWORDSDANCE"
+                ],
+                [
+                    63,
+                    "HYDROPUMP"
+                ],
+                [
+                    70,
+                    "CLOSECOMBAT"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRSLASH",
+                "AQUATAIL",
+                "AURASPHERE",
+                "BOUNCE",
+                "BRICKBREAK",
+                "CALMMIND",
+                "CLOSECOMBAT",
+                "COACHING",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DOUBLETEAM",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLIPTURN",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HAIL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICYWIND",
+                "LASTRESORT",
+                "LIQUIDATION",
+                "LOWKICK",
+                "MEGAHORN",
+                "MIMIC",
+                "MUDDYWATER",
+                "NATURALGIFT",
+                "POISONJAB",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROAR",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SCALD",
+                "SECRETPOWER",
+                "SECRETSWORD",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "SNORE",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAUNT",
+                "TOXIC",
+                "WATERPULSE",
+                "WORKUP",
+                "XSCISSOR"
+            ],
+            "eggMoves": [],
+            "height": 1.4,
+            "weight": 48.5,
+            "abilities": [
+                "JUSTIFIED"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 580,
+            "baseStats": [
+                91,
+                72,
+                90,
+                108,
+                129,
+                90
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 1,
+            "formName": "Forma Brío"
+        }
+    ],
+    "internationalPokedex": 647
+}

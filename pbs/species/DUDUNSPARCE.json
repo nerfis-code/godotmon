@@ -1,0 +1,528 @@
+{
+    "generation": 9,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "FLAIL"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            4,
+            "MUDSLAP"
+        ],
+        [
+            8,
+            "ROLLOUT"
+        ],
+        [
+            12,
+            "GLARE"
+        ],
+        [
+            16,
+            "SCREECH"
+        ],
+        [
+            20,
+            "ANCIENTPOWER"
+        ],
+        [
+            24,
+            "DRILLRUN"
+        ],
+        [
+            28,
+            "YAWN"
+        ],
+        [
+            32,
+            "HYPERDRILL"
+        ],
+        [
+            36,
+            "ROOST"
+        ],
+        [
+            40,
+            "DRAGONRUSH"
+        ],
+        [
+            44,
+            "COIL"
+        ],
+        [
+            48,
+            "DOUBLEEDGE"
+        ],
+        [
+            52,
+            "ENDEAVOR"
+        ],
+        [
+            56,
+            "HURRICANE"
+        ],
+        [
+            62,
+            "BOOMBURST"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AIRSLASH",
+        "AMNESIA",
+        "BATONPASS",
+        "BLIZZARD",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BULLDOZE",
+        "CALMMIND",
+        "CHILLINGWATER",
+        "CURSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DRAGONTAIL",
+        "DRILLRUN",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HEX",
+        "HURRICANE",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICESPINNER",
+        "LUNGE",
+        "MUDSHOT",
+        "MUDSLAP",
+        "OUTRAGE",
+        "PAINSPLIT",
+        "POISONJAB",
+        "POISONTAIL",
+        "POUNCE",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SHADOWBALL",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SOLARBEAM",
+        "SPITE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAILWIND",
+        "TAKEDOWN",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "TOXIC",
+        "UPROAR",
+        "WILDCHARGE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 3.6,
+    "weight": 39.2,
+    "abilities": [
+        "SERENEGRACE",
+        "RUNAWAY"
+    ],
+    "hiddenAbilitie": [
+        "RATTLED"
+    ],
+    "baseTotal": 520,
+    "baseStats": [
+        125,
+        100,
+        80,
+        55,
+        85,
+        75
+    ],
+    "flags": [],
+    "name": "Dudunsparce",
+    "species": "DUDUNSPARCE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 182,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 9,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "FLAIL"
+                ],
+                [
+                    1,
+                    "DEFENSECURL"
+                ],
+                [
+                    4,
+                    "MUDSLAP"
+                ],
+                [
+                    8,
+                    "ROLLOUT"
+                ],
+                [
+                    12,
+                    "GLARE"
+                ],
+                [
+                    16,
+                    "SCREECH"
+                ],
+                [
+                    20,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    24,
+                    "DRILLRUN"
+                ],
+                [
+                    28,
+                    "YAWN"
+                ],
+                [
+                    32,
+                    "HYPERDRILL"
+                ],
+                [
+                    36,
+                    "ROOST"
+                ],
+                [
+                    40,
+                    "DRAGONRUSH"
+                ],
+                [
+                    44,
+                    "COIL"
+                ],
+                [
+                    48,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    52,
+                    "ENDEAVOR"
+                ],
+                [
+                    56,
+                    "HURRICANE"
+                ],
+                [
+                    62,
+                    "BOOMBURST"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "AIRSLASH",
+                "AMNESIA",
+                "BATONPASS",
+                "BLIZZARD",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BULLDOZE",
+                "CALMMIND",
+                "CHILLINGWATER",
+                "CURSE",
+                "DIG",
+                "DOUBLEEDGE",
+                "DRAGONTAIL",
+                "DRILLRUN",
+                "DUALWINGBEAT",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMETHROWER",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HEAVYSLAM",
+                "HELPINGHAND",
+                "HEX",
+                "HURRICANE",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "ICESPINNER",
+                "LUNGE",
+                "MUDSHOT",
+                "MUDSLAP",
+                "OUTRAGE",
+                "PAINSPLIT",
+                "POISONJAB",
+                "POISONTAIL",
+                "POUNCE",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SHADOWBALL",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "SOLARBEAM",
+                "SPITE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAILWIND",
+                "TAKEDOWN",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDER",
+                "THUNDERBOLT",
+                "TOXIC",
+                "UPROAR",
+                "WILDCHARGE",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 3.6,
+            "weight": 39.2,
+            "abilities": [
+                "SERENEGRACE",
+                "RUNAWAY"
+            ],
+            "hiddenAbilitie": [
+                "RATTLED"
+            ],
+            "baseTotal": 520,
+            "baseStats": [
+                125,
+                100,
+                80,
+                55,
+                85,
+                75
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Binodular"
+        },
+        {
+            "generation": 9,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "FLAIL"
+                ],
+                [
+                    1,
+                    "DEFENSECURL"
+                ],
+                [
+                    4,
+                    "MUDSLAP"
+                ],
+                [
+                    8,
+                    "ROLLOUT"
+                ],
+                [
+                    12,
+                    "GLARE"
+                ],
+                [
+                    16,
+                    "SCREECH"
+                ],
+                [
+                    20,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    24,
+                    "DRILLRUN"
+                ],
+                [
+                    28,
+                    "YAWN"
+                ],
+                [
+                    32,
+                    "HYPERDRILL"
+                ],
+                [
+                    36,
+                    "ROOST"
+                ],
+                [
+                    40,
+                    "DRAGONRUSH"
+                ],
+                [
+                    44,
+                    "COIL"
+                ],
+                [
+                    48,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    52,
+                    "ENDEAVOR"
+                ],
+                [
+                    56,
+                    "HURRICANE"
+                ],
+                [
+                    62,
+                    "BOOMBURST"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "AIRSLASH",
+                "AMNESIA",
+                "BATONPASS",
+                "BLIZZARD",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BULLDOZE",
+                "CALMMIND",
+                "CHILLINGWATER",
+                "CURSE",
+                "DIG",
+                "DOUBLEEDGE",
+                "DRAGONTAIL",
+                "DRILLRUN",
+                "DUALWINGBEAT",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMETHROWER",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HEAVYSLAM",
+                "HELPINGHAND",
+                "HEX",
+                "HURRICANE",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "ICESPINNER",
+                "LUNGE",
+                "MUDSHOT",
+                "MUDSLAP",
+                "OUTRAGE",
+                "PAINSPLIT",
+                "POISONJAB",
+                "POISONTAIL",
+                "POUNCE",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SHADOWBALL",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "SOLARBEAM",
+                "SPITE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAILWIND",
+                "TAKEDOWN",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDER",
+                "THUNDERBOLT",
+                "TOXIC",
+                "UPROAR",
+                "WILDCHARGE",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 4.5,
+            "weight": 47.4,
+            "abilities": [
+                "SERENEGRACE",
+                "RUNAWAY"
+            ],
+            "hiddenAbilitie": [
+                "RATTLED"
+            ],
+            "baseTotal": 520,
+            "baseStats": [
+                125,
+                100,
+                80,
+                55,
+                85,
+                75
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Trinodular"
+        }
+    ],
+    "internationalPokedex": 982
+}

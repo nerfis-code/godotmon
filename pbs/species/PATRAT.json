@@ -1,0 +1,165 @@
+{
+    "generation": 5,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            3,
+            "LEER"
+        ],
+        [
+            6,
+            "BITE"
+        ],
+        [
+            8,
+            "BIDE"
+        ],
+        [
+            11,
+            "DETECT"
+        ],
+        [
+            13,
+            "SANDATTACK"
+        ],
+        [
+            16,
+            "CRUNCH"
+        ],
+        [
+            18,
+            "HYPNOSIS"
+        ],
+        [
+            21,
+            "SUPERFANG"
+        ],
+        [
+            23,
+            "AFTERYOU"
+        ],
+        [
+            26,
+            "FOCUSENERGY"
+        ],
+        [
+            28,
+            "WORKUP"
+        ],
+        [
+            31,
+            "HYPERFANG"
+        ],
+        [
+            33,
+            "NASTYPLOT"
+        ],
+        [
+            36,
+            "MEANLOOK"
+        ],
+        [
+            38,
+            "BATONPASS"
+        ],
+        [
+            41,
+            "SLAM"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AQUATAIL",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LOWKICK",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THUNDERBOLT",
+        "TOXIC",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "ASSURANCE",
+        "BULLETSEED",
+        "FLAIL",
+        "FORESIGHT",
+        "IRONTAIL",
+        "PURSUIT",
+        "REVENGE",
+        "SCREECH",
+        "TEARFULLOOK"
+    ],
+    "height": 0.5,
+    "weight": 11.6,
+    "abilities": [
+        "RUNAWAY",
+        "KEENEYE"
+    ],
+    "hiddenAbilitie": [
+        "ANALYTIC"
+    ],
+    "baseTotal": 255,
+    "baseStats": [
+        45,
+        55,
+        39,
+        42,
+        35,
+        39
+    ],
+    "flags": [],
+    "name": "Patrat",
+    "species": "PATRAT",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 51,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 504
+}

@@ -1,0 +1,181 @@
+{
+    "generation": 2,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "HEALBELL"
+        ],
+        [
+            10,
+            "MAGICALLEAF"
+        ],
+        [
+            20,
+            "BATONPASS"
+        ],
+        [
+            30,
+            "ANCIENTPOWER"
+        ],
+        [
+            40,
+            "LIFEDEW"
+        ],
+        [
+            50,
+            "LEECHSEED"
+        ],
+        [
+            60,
+            "RECOVER"
+        ],
+        [
+            70,
+            "FUTURESIGHT"
+        ],
+        [
+            80,
+            "HEALINGWISH"
+        ],
+        [
+            90,
+            "LEAFSTORM"
+        ],
+        [
+            100,
+            "PERISHSONG"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ALLYSWITCH",
+        "ANCIENTPOWER",
+        "AURASPHERE",
+        "BATONPASS",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CUT",
+        "DAZZLINGGLEAM",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LEAFBLADE",
+        "LEAFSTORM",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POLLENPUFF",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SILVERWIND",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "STEALTHROCK",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TELEKINESIS",
+        "THUNDERWAVE",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "UTURN",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WONDERROOM",
+        "WORRYSEED",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 5.0,
+    "abilities": [
+        "NATURALCURE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Celebi",
+    "species": "CELEBI",
+    "catchRate": 45,
+    "happiness": 100,
+    "baseExp": 300,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 251
+}

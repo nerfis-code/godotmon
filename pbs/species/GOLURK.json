@@ -1,0 +1,198 @@
+{
+    "generation": 5,
+    "primaryType": "GROUND",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            -1,
+            "FOCUSPUNCH"
+        ],
+        [
+            1,
+            "HIGHHORSEPOWER"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            12,
+            "SHADOWPUNCH"
+        ],
+        [
+            16,
+            "CURSE"
+        ],
+        [
+            20,
+            "NIGHTSHADE"
+        ],
+        [
+            24,
+            "STOMPINGTANTRUM"
+        ],
+        [
+            28,
+            "IRONDEFENSE"
+        ],
+        [
+            32,
+            "MEGAPUNCH"
+        ],
+        [
+            36,
+            "SHADOWBALL"
+        ],
+        [
+            40,
+            "HEAVYSLAM"
+        ],
+        [
+            46,
+            "PHANTOMFORCE"
+        ],
+        [
+            52,
+            "HAMMERARM"
+        ],
+        [
+            58,
+            "EARTHQUAKE"
+        ],
+        [
+            64,
+            "DYNAMICPUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "BLOCK",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CHARGEBEAM",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "DARKESTLARIAT",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLASHCANNON",
+        "FLING",
+        "FLY",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GYROBALL",
+        "HEATCRASH",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MAGICCOAT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PHANTOMFORCE",
+        "POLTERGEIST",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "TRICK",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.8,
+    "weight": 330.0,
+    "abilities": [
+        "IRONFIST",
+        "KLUTZ"
+    ],
+    "hiddenAbilitie": [
+        "NOGUARD"
+    ],
+    "baseTotal": 483,
+    "baseStats": [
+        89,
+        124,
+        80,
+        55,
+        55,
+        80
+    ],
+    "flags": [],
+    "name": "Golurk",
+    "species": "GOLURK",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 169,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 623
+}

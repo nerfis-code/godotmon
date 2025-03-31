@@ -1,0 +1,199 @@
+{
+    "generation": 3,
+    "primaryType": "GRASS",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            -1,
+            "MACHPUNCH"
+        ],
+        [
+            -1,
+            "SPORE"
+        ],
+        [
+            1,
+            "POISONPOWDER"
+        ],
+        [
+            1,
+            "GIGADRAIN"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "TOXIC"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "STUNSPORE"
+        ],
+        [
+            1,
+            "LEECHSEED"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            15,
+            "HEADBUTT"
+        ],
+        [
+            19,
+            "FEINT"
+        ],
+        [
+            22,
+            "COUNTER"
+        ],
+        [
+            28,
+            "FORCEPALM"
+        ],
+        [
+            33,
+            "WORRYSEED"
+        ],
+        [
+            33,
+            "MINDREADER"
+        ],
+        [
+            39,
+            "DRAINPUNCH"
+        ],
+        [
+            39,
+            "BRICKBREAK"
+        ],
+        [
+            44,
+            "SEEDBOMB"
+        ],
+        [
+            50,
+            "DYNAMICPUNCH"
+        ],
+        [
+            55,
+            "FOCUSPUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DYNAMICPUNCH",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THUNDERPUNCH",
+        "VACUUMWAVE",
+        "VENOSHOCK",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 39.2,
+    "abilities": [
+        "EFFECTSPORE",
+        "POISONHEAL"
+    ],
+    "hiddenAbilitie": [
+        "TECHNICIAN"
+    ],
+    "baseTotal": 460,
+    "baseStats": [
+        60,
+        130,
+        80,
+        70,
+        60,
+        60
+    ],
+    "flags": [],
+    "name": "Breloom",
+    "species": "BRELOOM",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 161,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "FLUCTUATING",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 286
+}

@@ -1,0 +1,170 @@
+{
+    "generation": 4,
+    "primaryType": "ROCK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "HEADBUTT"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            6,
+            "FOCUSENERGY"
+        ],
+        [
+            10,
+            "ROCKPOLISH"
+        ],
+        [
+            10,
+            "ROCKSMASH"
+        ],
+        [
+            15,
+            "TAKEDOWN"
+        ],
+        [
+            19,
+            "SCARYFACE"
+        ],
+        [
+            24,
+            "ASSURANCE"
+        ],
+        [
+            28,
+            "SWORDSDANCE"
+        ],
+        [
+            28,
+            "SLAM"
+        ],
+        [
+            33,
+            "ANCIENTPOWER"
+        ],
+        [
+            37,
+            "ZENHEADBUTT"
+        ],
+        [
+            42,
+            "SCREECH"
+        ],
+        [
+            46,
+            "HEADSMASH"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BLIZZARD",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "INCINERATE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SPITE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "UPROAR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "CRUNCH",
+        "CURSE",
+        "DOUBLEEDGE",
+        "HAMMERARM",
+        "IRONHEAD",
+        "LEER",
+        "SLAM",
+        "STOMP",
+        "THRASH",
+        "WHIRLWIND"
+    ],
+    "height": 0.9,
+    "weight": 31.5,
+    "abilities": [
+        "MOLDBREAKER"
+    ],
+    "hiddenAbilitie": [
+        "SHEERFORCE"
+    ],
+    "baseTotal": 350,
+    "baseStats": [
+        67,
+        125,
+        40,
+        58,
+        30,
+        30
+    ],
+    "flags": [],
+    "name": "Cranidos",
+    "species": "CRANIDOS",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 70,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 408
+}

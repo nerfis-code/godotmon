@@ -1,0 +1,441 @@
+{
+    "generation": 8,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WIDEGUARD"
+        ],
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            1,
+            "HOWL"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            11,
+            "SLASH"
+        ],
+        [
+            22,
+            "IRONDEFENSE"
+        ],
+        [
+            33,
+            "IRONHEAD"
+        ],
+        [
+            44,
+            "METALBURST"
+        ],
+        [
+            44,
+            "LASERFOCUS"
+        ],
+        [
+            55,
+            "CRUNCH"
+        ],
+        [
+            66,
+            "MOONBLAST"
+        ],
+        [
+            77,
+            "CLOSECOMBAT"
+        ],
+        [
+            88,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "CRUNCH",
+        "DAZZLINGGLEAM",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FLASHCANNON",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GUARDSWAP",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEFANG",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PLAYROUGH",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROUND",
+        "SAFEGUARD",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELBEAM",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAILSLAP",
+        "THUNDERFANG",
+        "TOXIC",
+        "WILDCHARGE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 2.9,
+    "weight": 210.0,
+    "abilities": [
+        "DAUNTLESSSHIELD"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 670,
+    "baseStats": [
+        92,
+        130,
+        115,
+        138,
+        80,
+        115
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Zamazenta",
+    "species": "ZAMAZENTA",
+    "catchRate": 10,
+    "happiness": 0,
+    "baseExp": 335,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "FIGHTING",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WIDEGUARD"
+                ],
+                [
+                    1,
+                    "METALCLAW"
+                ],
+                [
+                    1,
+                    "HOWL"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    11,
+                    "SLASH"
+                ],
+                [
+                    22,
+                    "IRONDEFENSE"
+                ],
+                [
+                    33,
+                    "IRONHEAD"
+                ],
+                [
+                    44,
+                    "METALBURST"
+                ],
+                [
+                    44,
+                    "LASERFOCUS"
+                ],
+                [
+                    55,
+                    "CRUNCH"
+                ],
+                [
+                    66,
+                    "MOONBLAST"
+                ],
+                [
+                    77,
+                    "CLOSECOMBAT"
+                ],
+                [
+                    88,
+                    "GIGAIMPACT"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "CLOSECOMBAT",
+                "COACHING",
+                "CONFIDE",
+                "CRUNCH",
+                "DAZZLINGGLEAM",
+                "DIG",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FIREFANG",
+                "FLASHCANNON",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GUARDSWAP",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEFANG",
+                "IMPRISON",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PLAYROUGH",
+                "POWERSWAP",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "REFLECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROUND",
+                "SAFEGUARD",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SOLARBEAM",
+                "STEELBEAM",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "TAILSLAP",
+                "THUNDERFANG",
+                "TOXIC",
+                "WILDCHARGE",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 2.9,
+            "weight": 210.0,
+            "abilities": [
+                "DAUNTLESSSHIELD"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 670,
+            "baseStats": [
+                92,
+                130,
+                115,
+                138,
+                80,
+                115
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 0,
+            "formName": "Forma Guerrero Avezado"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FIGHTING",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    1,
+                    "WIDEGUARD"
+                ],
+                [
+                    1,
+                    "METALCLAW"
+                ],
+                [
+                    1,
+                    "HOWL"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    11,
+                    "SLASH"
+                ],
+                [
+                    22,
+                    "IRONDEFENSE"
+                ],
+                [
+                    33,
+                    "IRONHEAD"
+                ],
+                [
+                    44,
+                    "METALBURST"
+                ],
+                [
+                    44,
+                    "LASERFOCUS"
+                ],
+                [
+                    55,
+                    "CRUNCH"
+                ],
+                [
+                    66,
+                    "MOONBLAST"
+                ],
+                [
+                    77,
+                    "CLOSECOMBAT"
+                ],
+                [
+                    88,
+                    "GIGAIMPACT"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "CLOSECOMBAT",
+                "COACHING",
+                "CONFIDE",
+                "CRUNCH",
+                "DAZZLINGGLEAM",
+                "DIG",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FIREFANG",
+                "FLASHCANNON",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GUARDSWAP",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEFANG",
+                "IMPRISON",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PLAYROUGH",
+                "POWERSWAP",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "REFLECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROUND",
+                "SAFEGUARD",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SOLARBEAM",
+                "STEELBEAM",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "TAILSLAP",
+                "THUNDERFANG",
+                "TOXIC",
+                "WILDCHARGE",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 2.9,
+            "weight": 785.0,
+            "abilities": [
+                "DAUNTLESSSHIELD"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 720,
+            "baseStats": [
+                92,
+                130,
+                145,
+                128,
+                80,
+                145
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 1,
+            "formName": "Forma Escudo Supremo"
+        }
+    ],
+    "internationalPokedex": 889
+}

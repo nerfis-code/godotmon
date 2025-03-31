@@ -1,0 +1,159 @@
+{
+    "generation": 5,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ROCKSMASH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            5,
+            "FOCUSENERGY"
+        ],
+        [
+            10,
+            "DOUBLEKICK"
+        ],
+        [
+            15,
+            "QUICKGUARD"
+        ],
+        [
+            20,
+            "LOWSWEEP"
+        ],
+        [
+            25,
+            "BULKUP"
+        ],
+        [
+            30,
+            "RETALIATE"
+        ],
+        [
+            35,
+            "BRICKBREAK"
+        ],
+        [
+            40,
+            "COUNTER"
+        ],
+        [
+            45,
+            "ENDURE"
+        ],
+        [
+            50,
+            "REVERSAL"
+        ],
+        [
+            55,
+            "CLOSECOMBAT"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLOCK",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 51.0,
+    "abilities": [
+        "STURDY",
+        "INNERFOCUS"
+    ],
+    "hiddenAbilitie": [
+        "MOLDBREAKER"
+    ],
+    "baseTotal": 465,
+    "baseStats": [
+        75,
+        125,
+        75,
+        85,
+        30,
+        75
+    ],
+    "flags": [],
+    "name": "Sawk",
+    "species": "SAWK",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 163,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 0,
+    "forms": [],
+    "internationalPokedex": 539
+}

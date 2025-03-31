@@ -1,0 +1,182 @@
+{
+    "generation": 9,
+    "primaryType": "DRAGON",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            -1,
+            "BREAKINGSWIPE"
+        ],
+        [
+            -1,
+            "SCALESHOT"
+        ],
+        [
+            -1,
+            "SUNNYDAY"
+        ],
+        [
+            -1,
+            "JAWLOCK"
+        ],
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            7,
+            "INCINERATE"
+        ],
+        [
+            14,
+            "HEADBUTT"
+        ],
+        [
+            21,
+            "SCARYFACE"
+        ],
+        [
+            28,
+            "DRAGONCLAW"
+        ],
+        [
+            35,
+            "ZENHEADBUTT"
+        ],
+        [
+            42,
+            "FLAMETHROWER"
+        ],
+        [
+            49,
+            "NIGHTSLASH"
+        ],
+        [
+            56,
+            "DRAGONDANCE"
+        ],
+        [
+            63,
+            "DRAGONRUSH"
+        ],
+        [
+            70,
+            "FLY"
+        ],
+        [
+            77,
+            "THROATCHOP"
+        ],
+        [
+            84,
+            "ROOST"
+        ],
+        [
+            91,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AIRSLASH",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "CRUNCH",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DRACOMETEOR",
+        "DRAGONCHEER",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIRESPIN",
+        "FLAMETHROWER",
+        "FLY",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HURRICANE",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LASHOUT",
+        "METALCLAW",
+        "OUTRAGE",
+        "PROTECT",
+        "REST",
+        "ROAR",
+        "ROCKSLIDE",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNARL",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAILWIND",
+        "TAKEDOWN",
+        "TAUNT",
+        "THROATCHOP",
+        "THUNDERFANG",
+        "UTURN",
+        "XSCISSOR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 380.0,
+    "abilities": [
+        "PROTOSYNTHESIS"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 590,
+    "baseStats": [
+        105,
+        139,
+        71,
+        119,
+        55,
+        101
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Bramaluna",
+    "species": "ROARINGMOON",
+    "catchRate": 10,
+    "happiness": 0,
+    "baseExp": 295,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 1005
+}

@@ -1,0 +1,152 @@
+{
+    "generation": 9,
+    "primaryType": "ROCK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ROCKTHROW"
+        ],
+        [
+            1,
+            "VISEGRIP"
+        ],
+        [
+            6,
+            "HARDEN"
+        ],
+        [
+            9,
+            "ROCKSMASH"
+        ],
+        [
+            13,
+            "ROCKTOMB"
+        ],
+        [
+            17,
+            "METALCLAW"
+        ],
+        [
+            21,
+            "PROTECT"
+        ],
+        [
+            24,
+            "ROCKBLAST"
+        ],
+        [
+            29,
+            "XSCISSOR"
+        ],
+        [
+            33,
+            "SWORDSDANCE"
+        ],
+        [
+            37,
+            "FLAIL"
+        ],
+        [
+            42,
+            "ROCKSLIDE"
+        ],
+        [
+            47,
+            "HIGHHORSEPOWER"
+        ],
+        [
+            51,
+            "IRONDEFENSE"
+        ],
+        [
+            56,
+            "GUILLOTINE"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "DIG",
+        "EARTHPOWER",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "METALCLAW",
+        "METEORBEAM",
+        "MUDSHOT",
+        "MUDSLAP",
+        "POWERGEM",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "REVERSAL",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "TEMPERFLARE",
+        "THIEF",
+        "THROATCHOP",
+        "TRAILBLAZE",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "CRABHAMMER",
+        "ENDEAVOR",
+        "KNOCKOFF"
+    ],
+    "height": 1.3,
+    "weight": 79.0,
+    "abilities": [
+        "ANGERSHELL",
+        "SHELLARMOR"
+    ],
+    "hiddenAbilitie": [
+        "REGENERATOR"
+    ],
+    "baseTotal": 450,
+    "baseStats": [
+        70,
+        100,
+        115,
+        75,
+        35,
+        55
+    ],
+    "flags": [],
+    "name": "Klawf",
+    "species": "KLAWF",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 158,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 950
+}

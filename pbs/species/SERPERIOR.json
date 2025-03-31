@@ -1,0 +1,162 @@
+{
+    "generation": 5,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "VINEWHIP"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            13,
+            "GROWTH"
+        ],
+        [
+            16,
+            "LEAFTORNADO"
+        ],
+        [
+            16,
+            "MAGICALLEAF"
+        ],
+        [
+            20,
+            "LEECHSEED"
+        ],
+        [
+            24,
+            "MEGADRAIN"
+        ],
+        [
+            28,
+            "SLAM"
+        ],
+        [
+            32,
+            "LEAFBLADE"
+        ],
+        [
+            38,
+            "COIL"
+        ],
+        [
+            44,
+            "GIGADRAIN"
+        ],
+        [
+            50,
+            "WRINGOUT"
+        ],
+        [
+            50,
+            "GASTROACID"
+        ],
+        [
+            56,
+            "LEAFSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ATTRACT",
+        "BIND",
+        "BRUTALSWING",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRENZYPLANT",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OUTRAGE",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TAUNT",
+        "TORMENT",
+        "TOXIC",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 3.3,
+    "weight": 63.0,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "CONTRARY"
+    ],
+    "baseTotal": 528,
+    "baseStats": [
+        75,
+        75,
+        95,
+        113,
+        75,
+        95
+    ],
+    "flags": [],
+    "name": "Serperior",
+    "species": "SERPERIOR",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 264,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 497
+}

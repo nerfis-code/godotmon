@@ -1,0 +1,141 @@
+{
+    "generation": 5,
+    "primaryType": "GRASS",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "STUNSPORE"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            16,
+            "SYNTHESIS"
+        ],
+        [
+            20,
+            "CLEARSMOG"
+        ],
+        [
+            24,
+            "SWEETSCENT"
+        ],
+        [
+            28,
+            "GIGADRAIN"
+        ],
+        [
+            32,
+            "INGRAIN"
+        ],
+        [
+            36,
+            "TOXIC"
+        ],
+        [
+            42,
+            "RAGEPOWDER"
+        ],
+        [
+            48,
+            "SOLARBEAM"
+        ],
+        [
+            54,
+            "SPORE"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYTERRAIN",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "POLLENPUFF",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "TOXIC",
+        "VENOSHOCK",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 10.5,
+    "abilities": [
+        "EFFECTSPORE"
+    ],
+    "hiddenAbilitie": [
+        "REGENERATOR"
+    ],
+    "baseTotal": 464,
+    "baseStats": [
+        114,
+        85,
+        70,
+        30,
+        85,
+        80
+    ],
+    "flags": [],
+    "name": "Amoonguss",
+    "species": "AMOONGUSS",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 162,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 591
+}

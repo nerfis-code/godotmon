@@ -1,0 +1,165 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            4,
+            "WATERPULSE"
+        ],
+        [
+            8,
+            "FOCUSENERGY"
+        ],
+        [
+            12,
+            "PSYBEAM"
+        ],
+        [
+            16,
+            "AURORABEAM"
+        ],
+        [
+            20,
+            "BUBBLEBEAM"
+        ],
+        [
+            24,
+            "LOCKON"
+        ],
+        [
+            28,
+            "BULLETSEED"
+        ],
+        [
+            32,
+            "ICEBEAM"
+        ],
+        [
+            36,
+            "HYDROPUMP"
+        ],
+        [
+            40,
+            "SOAK"
+        ],
+        [
+            44,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BLIZZARD",
+        "BOUNCE",
+        "BRINE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GUNKSHOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "INCINERATE",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROUND",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STRINGSHOT",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THUNDERWAVE",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "ACIDSPRAY",
+        "AURORABEAM",
+        "ENTRAINMENT",
+        "FLAIL",
+        "HAZE",
+        "MUDSHOT",
+        "OCTAZOOKA",
+        "ROCKBLAST",
+        "SCREECH",
+        "SNORE",
+        "SUPERSONIC",
+        "SWIFT",
+        "WATERSPOUT"
+    ],
+    "height": 0.6,
+    "weight": 12.0,
+    "abilities": [
+        "HUSTLE",
+        "SNIPER"
+    ],
+    "hiddenAbilitie": [
+        "MOODY"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        35,
+        65,
+        35,
+        65,
+        65,
+        35
+    ],
+    "flags": [],
+    "name": "Remoraid",
+    "species": "REMORAID",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 223
+}

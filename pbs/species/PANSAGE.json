@@ -1,0 +1,175 @@
+{
+    "generation": 5,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "PLAYNICE"
+        ],
+        [
+            4,
+            "LEER"
+        ],
+        [
+            7,
+            "LICK"
+        ],
+        [
+            10,
+            "VINEWHIP"
+        ],
+        [
+            13,
+            "FURYSWIPES"
+        ],
+        [
+            16,
+            "LEECHSEED"
+        ],
+        [
+            19,
+            "BITE"
+        ],
+        [
+            22,
+            "SEEDBOMB"
+        ],
+        [
+            25,
+            "TORMENT"
+        ],
+        [
+            28,
+            "FLING"
+        ],
+        [
+            31,
+            "ACROBATICS"
+        ],
+        [
+            34,
+            "GRASSKNOT"
+        ],
+        [
+            37,
+            "RECYCLE"
+        ],
+        [
+            40,
+            "NATURALGIFT"
+        ],
+        [
+            43,
+            "CRUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GUNKSHOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "PROTECT",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "ASTONISH",
+        "BULLETSEED",
+        "COVET",
+        "DISARMINGVOICE",
+        "GRASSWHISTLE",
+        "LEAFSTORM",
+        "LOWKICK",
+        "MAGICALLEAF",
+        "NASTYPLOT",
+        "ROLEPLAY",
+        "SPIKYSHIELD",
+        "TICKLE"
+    ],
+    "height": 0.6,
+    "weight": 10.5,
+    "abilities": [
+        "GLUTTONY"
+    ],
+    "hiddenAbilitie": [
+        "OVERGROW"
+    ],
+    "baseTotal": 316,
+    "baseStats": [
+        50,
+        53,
+        48,
+        64,
+        53,
+        48
+    ],
+    "flags": [],
+    "name": "Pansage",
+    "species": "PANSAGE",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 63,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 511
+}

@@ -1,0 +1,132 @@
+{
+    "generation": 8,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            6,
+            "WATERGUN"
+        ],
+        [
+            8,
+            "BIND"
+        ],
+        [
+            12,
+            "WATERPULSE"
+        ],
+        [
+            17,
+            "TEARFULLOOK"
+        ],
+        [
+            20,
+            "SUCKERPUNCH"
+        ],
+        [
+            24,
+            "UTURN"
+        ],
+        [
+            28,
+            "LIQUIDATION"
+        ],
+        [
+            32,
+            "SOAK"
+        ],
+        [
+            36,
+            "RAINDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BATONPASS",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TOXIC",
+        "UTURN",
+        "WATERPLEDGE",
+        "WEATHERBALL",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "AQUAJET",
+        "AQUARING",
+        "DOUBLETEAM",
+        "FELLSTINGER",
+        "HAZE",
+        "ICESHARD",
+        "MIST"
+    ],
+    "height": 0.3,
+    "weight": 4.0,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "SNIPER"
+    ],
+    "baseTotal": 310,
+    "baseStats": [
+        50,
+        40,
+        40,
+        70,
+        70,
+        40
+    ],
+    "flags": [],
+    "name": "Sobble",
+    "species": "SOBBLE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1,
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 816
+}

@@ -1,0 +1,243 @@
+{
+    "generation": 1,
+    "primaryType": "FAIRY",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SING"
+        ],
+        [
+            1,
+            "SWEETKISS"
+        ],
+        [
+            1,
+            "DISARMINGVOICE"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "COPYCAT"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            4,
+            "STOREDPOWER"
+        ],
+        [
+            8,
+            "ENCORE"
+        ],
+        [
+            8,
+            "MINIMIZE"
+        ],
+        [
+            12,
+            "AFTERYOU"
+        ],
+        [
+            16,
+            "LIFEDEW"
+        ],
+        [
+            20,
+            "METRONOME"
+        ],
+        [
+            24,
+            "MOONLIGHT"
+        ],
+        [
+            28,
+            "GRAVITY"
+        ],
+        [
+            32,
+            "METEORMASH"
+        ],
+        [
+            36,
+            "FOLLOWME"
+        ],
+        [
+            40,
+            "COSMICPOWER"
+        ],
+        [
+            44,
+            "MOONBLAST"
+        ],
+        [
+            48,
+            "HEALINGWISH"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ALLYSWITCH",
+        "AMNESIA",
+        "ATTRACT",
+        "BATONPASS",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COSMICPOWER",
+        "COUNTER",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "DYNAMICPUNCH",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GRAVITY",
+        "HEADBUTT",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IMPRISON",
+        "INCINERATE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MAGICCOAT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METEORBEAM",
+        "METRONOME",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "MISTYTERRAIN",
+        "MUDSLAP",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SOFTBOILED",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STOREDPOWER",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TRIATTACK",
+        "TRICK",
+        "UPROAR",
+        "WATERPULSE",
+        "WONDERROOM",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 7.5,
+    "abilities": [
+        "CUTECHARM",
+        "MAGICGUARD"
+    ],
+    "hiddenAbilitie": [
+        "FRIENDGUARD"
+    ],
+    "baseTotal": 323,
+    "baseStats": [
+        70,
+        45,
+        48,
+        35,
+        60,
+        65
+    ],
+    "flags": [],
+    "name": "Clefairy",
+    "species": "CLEFAIRY",
+    "catchRate": 150,
+    "happiness": 140,
+    "baseExp": 113,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 35
+}

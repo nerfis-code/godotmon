@@ -1,0 +1,138 @@
+{
+    "generation": 7,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "ROLLOUT"
+        ],
+        [
+            6,
+            "STOCKPILE"
+        ],
+        [
+            6,
+            "SPITUP"
+        ],
+        [
+            6,
+            "SWALLOW"
+        ],
+        [
+            11,
+            "RAPIDSPIN"
+        ],
+        [
+            16,
+            "YAWN"
+        ],
+        [
+            21,
+            "SLAM"
+        ],
+        [
+            26,
+            "FLAIL"
+        ],
+        [
+            31,
+            "SUCKERPUNCH"
+        ],
+        [
+            36,
+            "PSYCHUP"
+        ],
+        [
+            41,
+            "WOODHAMMER"
+        ],
+        [
+            46,
+            "THRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "LOWSWEEP",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHUP",
+        "QUASH",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TOXIC",
+        "UTURN",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "CHARM",
+        "PLAYROUGH",
+        "SING",
+        "WISH"
+    ],
+    "height": 0.4,
+    "weight": 19.9,
+    "abilities": [
+        "COMATOSE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 480,
+    "baseStats": [
+        65,
+        115,
+        65,
+        65,
+        75,
+        95
+    ],
+    "flags": [],
+    "name": "Komala",
+    "species": "KOMALA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 168,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 775
+}

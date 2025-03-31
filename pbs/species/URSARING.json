@@ -1,0 +1,202 @@
+{
+    "generation": 2,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "FLING"
+        ],
+        [
+            1,
+            "BABYDOLLEYES"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "COVET"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "LICK"
+        ],
+        [
+            1,
+            "FAKETEARS"
+        ],
+        [
+            8,
+            "FURYSWIPES"
+        ],
+        [
+            13,
+            "PAYBACK"
+        ],
+        [
+            17,
+            "SWEETSCENT"
+        ],
+        [
+            22,
+            "SLASH"
+        ],
+        [
+            25,
+            "PLAYNICE"
+        ],
+        [
+            29,
+            "PLAYROUGH"
+        ],
+        [
+            35,
+            "SCARYFACE"
+        ],
+        [
+            41,
+            "REST"
+        ],
+        [
+            41,
+            "SNORE"
+        ],
+        [
+            48,
+            "HIGHHORSEPOWER"
+        ],
+        [
+            56,
+            "THRASH"
+        ],
+        [
+            64,
+            "HAMMERARM"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "AVALANCHE",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEPUNCH",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SEISMICTOSS",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "UPROAR",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 125.8,
+    "abilities": [
+        "GUTS",
+        "QUICKFEET"
+    ],
+    "hiddenAbilitie": [
+        "UNNERVE"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        90,
+        130,
+        75,
+        55,
+        75,
+        75
+    ],
+    "flags": [],
+    "name": "Ursaring",
+    "species": "URSARING",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 217
+}

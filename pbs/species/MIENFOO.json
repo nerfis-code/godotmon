@@ -1,0 +1,170 @@
+{
+    "generation": 5,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "DETECT"
+        ],
+        [
+            5,
+            "FAKEOUT"
+        ],
+        [
+            10,
+            "REVERSAL"
+        ],
+        [
+            15,
+            "FURYSWIPES"
+        ],
+        [
+            20,
+            "QUICKGUARD"
+        ],
+        [
+            25,
+            "FORCEPALM"
+        ],
+        [
+            30,
+            "UTURN"
+        ],
+        [
+            35,
+            "DRAINPUNCH"
+        ],
+        [
+            40,
+            "HONECLAWS"
+        ],
+        [
+            45,
+            "AURASPHERE"
+        ],
+        [
+            51,
+            "BOUNCE"
+        ],
+        [
+            55,
+            "CALMMIND"
+        ],
+        [
+            60,
+            "HIGHJUMPKICK"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "AURASPHERE",
+        "BATONPASS",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BULKUP",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "KNOCKOFF",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TOXIC",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "FEINT",
+        "FOCUSPUNCH",
+        "KNOCKOFF",
+        "VITALTHROW"
+    ],
+    "height": 0.9,
+    "weight": 20.0,
+    "abilities": [
+        "INNERFOCUS",
+        "REGENERATOR"
+    ],
+    "hiddenAbilitie": [
+        "RECKLESS"
+    ],
+    "baseTotal": 350,
+    "baseStats": [
+        45,
+        85,
+        50,
+        65,
+        55,
+        50
+    ],
+    "flags": [],
+    "name": "Mienfoo",
+    "species": "MIENFOO",
+    "catchRate": 180,
+    "happiness": 50,
+    "baseExp": 70,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 619
+}

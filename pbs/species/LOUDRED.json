@@ -1,0 +1,163 @@
+{
+    "generation": 3,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "ECHOEDVOICE"
+        ],
+        [
+            1,
+            "HOWL"
+        ],
+        [
+            15,
+            "REST"
+        ],
+        [
+            15,
+            "SLEEPTALK"
+        ],
+        [
+            23,
+            "STOMP"
+        ],
+        [
+            29,
+            "ROAR"
+        ],
+        [
+            36,
+            "SUPERSONIC"
+        ],
+        [
+            43,
+            "UPROAR"
+        ],
+        [
+            50,
+            "SCREECH"
+        ],
+        [
+            57,
+            "HYPERVOICE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "UPROAR",
+        "WATERPULSE",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 40.5,
+    "abilities": [
+        "SOUNDPROOF"
+    ],
+    "hiddenAbilitie": [
+        "SCRAPPY"
+    ],
+    "baseTotal": 360,
+    "baseStats": [
+        84,
+        71,
+        43,
+        48,
+        71,
+        43
+    ],
+    "flags": [],
+    "name": "Loudred",
+    "species": "LOUDRED",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 126,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 294
+}

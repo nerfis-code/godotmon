@@ -1,0 +1,714 @@
+{
+    "generation": 1,
+    "primaryType": "GRASS",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            -1,
+            "PETALBLIZZARD"
+        ],
+        [
+            1,
+            "PETALDANCE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "VINEWHIP"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            9,
+            "LEECHSEED"
+        ],
+        [
+            12,
+            "RAZORLEAF"
+        ],
+        [
+            15,
+            "POISONPOWDER"
+        ],
+        [
+            15,
+            "SLEEPPOWDER"
+        ],
+        [
+            20,
+            "SEEDBOMB"
+        ],
+        [
+            25,
+            "TAKEDOWN"
+        ],
+        [
+            30,
+            "SWEETSCENT"
+        ],
+        [
+            37,
+            "SYNTHESIS"
+        ],
+        [
+            44,
+            "WORRYSEED"
+        ],
+        [
+            51,
+            "DOUBLEEDGE"
+        ],
+        [
+            51,
+            "POWERWHIP"
+        ],
+        [
+            58,
+            "SOLARBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ATTRACT",
+        "BIND",
+        "BLOCK",
+        "BODYSLAM",
+        "BULLDOZE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "CUT",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FRENZYPLANT",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "KNOCKOFF",
+        "LEAFSTORM",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OUTRAGE",
+        "POWERWHIP",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSMASH",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "STRINGSHOT",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TERRAINPULSE",
+        "TOXIC",
+        "VENOSHOCK",
+        "WEATHERBALL",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 100.0,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "CHLOROPHYLL"
+    ],
+    "baseTotal": 525,
+    "baseStats": [
+        80,
+        82,
+        83,
+        80,
+        100,
+        100
+    ],
+    "flags": [],
+    "name": "Venusaur",
+    "species": "VENUSAUR",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 263,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "GRASS",
+            "secondaryType": "POISON",
+            "moves": [
+                [
+                    -1,
+                    "PETALBLIZZARD"
+                ],
+                [
+                    1,
+                    "PETALDANCE"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    1,
+                    "GROWTH"
+                ],
+                [
+                    9,
+                    "LEECHSEED"
+                ],
+                [
+                    12,
+                    "RAZORLEAF"
+                ],
+                [
+                    15,
+                    "POISONPOWDER"
+                ],
+                [
+                    15,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    20,
+                    "SEEDBOMB"
+                ],
+                [
+                    25,
+                    "TAKEDOWN"
+                ],
+                [
+                    30,
+                    "SWEETSCENT"
+                ],
+                [
+                    37,
+                    "SYNTHESIS"
+                ],
+                [
+                    44,
+                    "WORRYSEED"
+                ],
+                [
+                    51,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    51,
+                    "POWERWHIP"
+                ],
+                [
+                    58,
+                    "SOLARBEAM"
+                ]
+            ],
+            "tutorMoves": [
+                "AMNESIA",
+                "ATTRACT",
+                "BIND",
+                "BLOCK",
+                "BODYSLAM",
+                "BULLDOZE",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "CUT",
+                "DEFENSECURL",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FLASH",
+                "FRENZYPLANT",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSPLEDGE",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HEADBUTT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "KNOCKOFF",
+                "LEAFSTORM",
+                "LIGHTSCREEN",
+                "MAGICALLEAF",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "OUTRAGE",
+                "POWERWHIP",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKCLIMB",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNORE",
+                "SOLARBEAM",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "STRINGSHOT",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "TERRAINPULSE",
+                "TOXIC",
+                "VENOSHOCK",
+                "WEATHERBALL",
+                "WORKUP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [],
+            "height": 2.0,
+            "weight": 100.0,
+            "abilities": [
+                "OVERGROW"
+            ],
+            "hiddenAbilitie": [
+                "CHLOROPHYLL"
+            ],
+            "baseTotal": 525,
+            "baseStats": [
+                80,
+                82,
+                83,
+                80,
+                100,
+                100
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Venusaur"
+        },
+        {
+            "generation": 6,
+            "primaryType": "GRASS",
+            "secondaryType": "POISON",
+            "moves": [
+                [
+                    -1,
+                    "PETALBLIZZARD"
+                ],
+                [
+                    1,
+                    "PETALDANCE"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    1,
+                    "GROWTH"
+                ],
+                [
+                    9,
+                    "LEECHSEED"
+                ],
+                [
+                    12,
+                    "RAZORLEAF"
+                ],
+                [
+                    15,
+                    "POISONPOWDER"
+                ],
+                [
+                    15,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    20,
+                    "SEEDBOMB"
+                ],
+                [
+                    25,
+                    "TAKEDOWN"
+                ],
+                [
+                    30,
+                    "SWEETSCENT"
+                ],
+                [
+                    37,
+                    "SYNTHESIS"
+                ],
+                [
+                    44,
+                    "WORRYSEED"
+                ],
+                [
+                    51,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    51,
+                    "POWERWHIP"
+                ],
+                [
+                    58,
+                    "SOLARBEAM"
+                ]
+            ],
+            "tutorMoves": [
+                "AMNESIA",
+                "ATTRACT",
+                "BIND",
+                "BLOCK",
+                "BODYSLAM",
+                "BULLDOZE",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "CUT",
+                "DEFENSECURL",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FLASH",
+                "FRENZYPLANT",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSPLEDGE",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HEADBUTT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "KNOCKOFF",
+                "LEAFSTORM",
+                "LIGHTSCREEN",
+                "MAGICALLEAF",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "OUTRAGE",
+                "POWERWHIP",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKCLIMB",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNORE",
+                "SOLARBEAM",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "STRINGSHOT",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "TERRAINPULSE",
+                "TOXIC",
+                "VENOSHOCK",
+                "WEATHERBALL",
+                "WORKUP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [],
+            "height": 2.4,
+            "weight": 155.5,
+            "abilities": [
+                "THICKFAT"
+            ],
+            "hiddenAbilitie": [
+                "THICKFAT"
+            ],
+            "baseTotal": 625,
+            "baseStats": [
+                80,
+                100,
+                123,
+                80,
+                122,
+                120
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Venusaur"
+        },
+        {
+            "generation": 8,
+            "primaryType": "GRASS",
+            "secondaryType": "POISON",
+            "moves": [
+                [
+                    -1,
+                    "PETALBLIZZARD"
+                ],
+                [
+                    1,
+                    "PETALDANCE"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    1,
+                    "GROWTH"
+                ],
+                [
+                    9,
+                    "LEECHSEED"
+                ],
+                [
+                    12,
+                    "RAZORLEAF"
+                ],
+                [
+                    15,
+                    "POISONPOWDER"
+                ],
+                [
+                    15,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    20,
+                    "SEEDBOMB"
+                ],
+                [
+                    25,
+                    "TAKEDOWN"
+                ],
+                [
+                    30,
+                    "SWEETSCENT"
+                ],
+                [
+                    37,
+                    "SYNTHESIS"
+                ],
+                [
+                    44,
+                    "WORRYSEED"
+                ],
+                [
+                    51,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    51,
+                    "POWERWHIP"
+                ],
+                [
+                    58,
+                    "SOLARBEAM"
+                ]
+            ],
+            "tutorMoves": [
+                "AMNESIA",
+                "ATTRACT",
+                "BIND",
+                "BLOCK",
+                "BODYSLAM",
+                "BULLDOZE",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "CUT",
+                "DEFENSECURL",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FLASH",
+                "FRENZYPLANT",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSPLEDGE",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HEADBUTT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "KNOCKOFF",
+                "LEAFSTORM",
+                "LIGHTSCREEN",
+                "MAGICALLEAF",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "OUTRAGE",
+                "POWERWHIP",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKCLIMB",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNORE",
+                "SOLARBEAM",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "STRINGSHOT",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "TERRAINPULSE",
+                "TOXIC",
+                "VENOSHOCK",
+                "WEATHERBALL",
+                "WORKUP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [],
+            "height": 24.0,
+            "weight": 100.0,
+            "abilities": [
+                "OVERGROW"
+            ],
+            "hiddenAbilitie": [
+                "CHLOROPHYLL"
+            ],
+            "baseTotal": 525,
+            "baseStats": [
+                80,
+                82,
+                83,
+                80,
+                100,
+                100
+            ],
+            "flags": [],
+            "form": 2,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 3
+}

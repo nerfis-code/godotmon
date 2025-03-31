@@ -1,0 +1,180 @@
+{
+    "generation": 5,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            5,
+            "GRAVITY"
+        ],
+        [
+            10,
+            "HYPNOSIS"
+        ],
+        [
+            15,
+            "AIRCUTTER"
+        ],
+        [
+            20,
+            "PSYBEAM"
+        ],
+        [
+            25,
+            "WHIRLWIND"
+        ],
+        [
+            30,
+            "COSMICPOWER"
+        ],
+        [
+            35,
+            "AIRSLASH"
+        ],
+        [
+            40,
+            "PSYCHIC"
+        ],
+        [
+            45,
+            "TAILWIND"
+        ],
+        [
+            50,
+            "LIGHTSCREEN"
+        ],
+        [
+            50,
+            "REFLECT"
+        ],
+        [
+            55,
+            "SKYATTACK"
+        ],
+        [
+            60,
+            "SKILLSWAP"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRSLASH",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COSMICPOWER",
+        "DARKPULSE",
+        "DAZZLINGGLEAM",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FLY",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IMPRISON",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLUCK",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "SPEEDSWAP",
+        "STEELWING",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "PSYCHOSHIFT",
+        "ROOST"
+    ],
+    "height": 1.4,
+    "weight": 14.0,
+    "abilities": [
+        "WONDERSKIN",
+        "MAGICGUARD"
+    ],
+    "hiddenAbilitie": [
+        "TINTEDLENS"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        72,
+        58,
+        80,
+        97,
+        103,
+        80
+    ],
+    "flags": [],
+    "name": "Sigilyph",
+    "species": "SIGILYPH",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 172,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 561
+}

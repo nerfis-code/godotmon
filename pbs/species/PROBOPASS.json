@@ -1,0 +1,205 @@
+{
+    "generation": 4,
+    "primaryType": "ROCK",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            -1,
+            "TRIATTACK"
+        ],
+        [
+            1,
+            "MAGNETICFLUX"
+        ],
+        [
+            1,
+            "MAGNETRISE"
+        ],
+        [
+            1,
+            "GRAVITY"
+        ],
+        [
+            1,
+            "WIDEGUARD"
+        ],
+        [
+            1,
+            "BLOCK"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "ROCKTHROW"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "IRONDEFENSE"
+        ],
+        [
+            10,
+            "SMACKDOWN"
+        ],
+        [
+            13,
+            "THUNDERWAVE"
+        ],
+        [
+            16,
+            "REST"
+        ],
+        [
+            19,
+            "SPARK"
+        ],
+        [
+            22,
+            "ROCKSLIDE"
+        ],
+        [
+            25,
+            "POWERGEM"
+        ],
+        [
+            28,
+            "ROCKBLAST"
+        ],
+        [
+            31,
+            "DISCHARGE"
+        ],
+        [
+            34,
+            "SANDSTORM"
+        ],
+        [
+            37,
+            "EARTHPOWER"
+        ],
+        [
+            40,
+            "STONEEDGE"
+        ],
+        [
+            43,
+            "LOCKON"
+        ],
+        [
+            43,
+            "ZAPCANNON"
+        ],
+        [
+            50,
+            "BODYPRESS"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BLOCK",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TORMENT",
+        "VOLTSWITCH"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 340.0,
+    "abilities": [
+        "STURDY",
+        "MAGNETPULL"
+    ],
+    "hiddenAbilitie": [
+        "SANDFORCE"
+    ],
+    "baseTotal": 525,
+    "baseStats": [
+        60,
+        55,
+        145,
+        40,
+        75,
+        150
+    ],
+    "flags": [],
+    "name": "Probopass",
+    "species": "PROBOPASS",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 184,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 476
+}

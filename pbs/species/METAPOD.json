@@ -1,0 +1,47 @@
+{
+    "generation": 1,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "HARDEN"
+        ]
+    ],
+    "tutorMoves": [
+        "BUGBITE",
+        "ELECTROWEB",
+        "IRONDEFENSE",
+        "STRINGSHOT"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 9.9,
+    "abilities": [
+        "SHEDSKIN"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 205,
+    "baseStats": [
+        50,
+        20,
+        55,
+        30,
+        25,
+        25
+    ],
+    "flags": [],
+    "name": "Metapod",
+    "species": "METAPOD",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 72,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 11
+}

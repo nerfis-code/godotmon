@@ -1,0 +1,197 @@
+{
+    "generation": 2,
+    "primaryType": "GROUND",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "FURYATTACK"
+        ],
+        [
+            1,
+            "FIREFANG"
+        ],
+        [
+            1,
+            "THUNDERFANG"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "FLAIL"
+        ],
+        [
+            1,
+            "ENDURE"
+        ],
+        [
+            1,
+            "TAKEDOWN"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "LASTRESORT"
+        ],
+        [
+            1,
+            "DOUBLEEDGE"
+        ],
+        [
+            1,
+            "HORNATTACK"
+        ],
+        [
+            1,
+            "BULLDOZE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            6,
+            "RAPIDSPIN"
+        ],
+        [
+            10,
+            "ROLLOUT"
+        ],
+        [
+            15,
+            "ASSURANCE"
+        ],
+        [
+            19,
+            "KNOCKOFF"
+        ],
+        [
+            24,
+            "SLAM"
+        ],
+        [
+            30,
+            "ROCKTOMB"
+        ],
+        [
+            30,
+            "STOMPINGTANTRUM"
+        ],
+        [
+            37,
+            "SCARYFACE"
+        ],
+        [
+            43,
+            "EARTHQUAKE"
+        ],
+        [
+            50,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BLOCK",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "GYROBALL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IRONDEFENSE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 120.0,
+    "abilities": [
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "SANDVEIL"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        90,
+        120,
+        120,
+        50,
+        60,
+        60
+    ],
+    "flags": [],
+    "name": "Donphan",
+    "species": "DONPHAN",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "ATTACK",
+        1,
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 232
+}

@@ -1,0 +1,180 @@
+{
+    "generation": 5,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "ATTRACT"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "ENDEAVOR"
+        ],
+        [
+            15,
+            "AIRCUTTER"
+        ],
+        [
+            20,
+            "IMPRISON"
+        ],
+        [
+            25,
+            "ASSURANCE"
+        ],
+        [
+            30,
+            "AMNESIA"
+        ],
+        [
+            35,
+            "AIRSLASH"
+        ],
+        [
+            40,
+            "PSYCHIC"
+        ],
+        [
+            45,
+            "CALMMIND"
+        ],
+        [
+            50,
+            "FUTURESIGHT"
+        ],
+        [
+            55,
+            "SIMPLEBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AFTERYOU",
+        "AIRSLASH",
+        "ALLYSWITCH",
+        "AMNESIA",
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "EMBARGO",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FAKETEARS",
+        "FLASH",
+        "FLY",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PLUCK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICFANGS",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SPEEDSWAP",
+        "STEELWING",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUPERFANG",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "UTURN",
+        "VENOMDRENCH",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 10.5,
+    "abilities": [
+        "UNAWARE",
+        "KLUTZ"
+    ],
+    "hiddenAbilitie": [
+        "SIMPLE"
+    ],
+    "baseTotal": 425,
+    "baseStats": [
+        67,
+        57,
+        55,
+        114,
+        77,
+        55
+    ],
+    "flags": [],
+    "name": "Swoobat",
+    "species": "SWOOBAT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 149,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 528
+}

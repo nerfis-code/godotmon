@@ -1,0 +1,177 @@
+{
+    "generation": 5,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "PLAYNICE"
+        ],
+        [
+            4,
+            "LEER"
+        ],
+        [
+            7,
+            "LICK"
+        ],
+        [
+            10,
+            "WATERGUN"
+        ],
+        [
+            13,
+            "FURYSWIPES"
+        ],
+        [
+            16,
+            "WATERSPORT"
+        ],
+        [
+            19,
+            "BITE"
+        ],
+        [
+            22,
+            "SCALD"
+        ],
+        [
+            25,
+            "TAUNT"
+        ],
+        [
+            28,
+            "FLING"
+        ],
+        [
+            31,
+            "ACROBATICS"
+        ],
+        [
+            34,
+            "BRINE"
+        ],
+        [
+            37,
+            "RECYCLE"
+        ],
+        [
+            40,
+            "NATURALGIFT"
+        ],
+        [
+            43,
+            "CRUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HAIL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "AQUARING",
+        "AQUATAIL",
+        "ASTONISH",
+        "COVET",
+        "DISARMINGVOICE",
+        "HYDROPUMP",
+        "LOWKICK",
+        "MUDSPORT",
+        "NASTYPLOT",
+        "ROLEPLAY",
+        "TICKLE"
+    ],
+    "height": 0.6,
+    "weight": 13.5,
+    "abilities": [
+        "GLUTTONY"
+    ],
+    "hiddenAbilitie": [
+        "TORRENT"
+    ],
+    "baseTotal": 316,
+    "baseStats": [
+        50,
+        53,
+        48,
+        64,
+        53,
+        48
+    ],
+    "flags": [],
+    "name": "Panpour",
+    "species": "PANPOUR",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 63,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 515
+}

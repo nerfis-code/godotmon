@@ -1,0 +1,135 @@
+{
+    "generation": 8,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "PLAYNICE"
+        ],
+        [
+            5,
+            "LIFEDEW"
+        ],
+        [
+            10,
+            "DISARMINGVOICE"
+        ],
+        [
+            15,
+            "AROMATHERAPY"
+        ],
+        [
+            15,
+            "AROMATICMIST"
+        ],
+        [
+            20,
+            "PSYBEAM"
+        ],
+        [
+            25,
+            "HEALPULSE"
+        ],
+        [
+            30,
+            "DAZZLINGGLEAM"
+        ],
+        [
+            35,
+            "CALMMIND"
+        ],
+        [
+            40,
+            "PSYCHIC"
+        ],
+        [
+            45,
+            "HEALINGWISH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BATONPASS",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "DARKPULSE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IMPRISON",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYSHOCK",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "THUNDERWAVE",
+        "TOXIC"
+    ],
+    "eggMoves": [
+        "AFTERYOU",
+        "AROMATICMIST",
+        "NUZZLE",
+        "QUASH"
+    ],
+    "height": 0.4,
+    "weight": 3.4,
+    "abilities": [
+        "HEALER",
+        "ANTICIPATION"
+    ],
+    "hiddenAbilitie": [
+        "MAGICBOUNCE"
+    ],
+    "baseTotal": 265,
+    "baseStats": [
+        42,
+        30,
+        45,
+        39,
+        56,
+        53
+    ],
+    "flags": [],
+    "name": "Hatenna",
+    "species": "HATENNA",
+    "catchRate": 235,
+    "happiness": 50,
+    "baseExp": 53,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 856
+}

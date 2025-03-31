@@ -1,0 +1,55 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            15,
+            "TACKLE"
+        ],
+        [
+            25,
+            "FLAIL"
+        ]
+    ],
+    "tutorMoves": [
+        "BOUNCE",
+        "HYDROPUMP"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 10.0,
+    "abilities": [
+        "SWIFTSWIM"
+    ],
+    "hiddenAbilitie": [
+        "RATTLED"
+    ],
+    "baseTotal": 200,
+    "baseStats": [
+        20,
+        10,
+        55,
+        80,
+        15,
+        20
+    ],
+    "flags": [],
+    "name": "Magikarp",
+    "species": "MAGIKARP",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 40,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 129
+}

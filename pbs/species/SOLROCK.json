@@ -1,0 +1,192 @@
+{
+    "generation": 3,
+    "primaryType": "ROCK",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "FLAREBLITZ"
+        ],
+        [
+            1,
+            "MORNINGSUN"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "ROCKTHROW"
+        ],
+        [
+            5,
+            "HYPNOSIS"
+        ],
+        [
+            10,
+            "ROCKPOLISH"
+        ],
+        [
+            15,
+            "ROCKSLIDE"
+        ],
+        [
+            20,
+            "ZENHEADBUTT"
+        ],
+        [
+            25,
+            "COSMICPOWER"
+        ],
+        [
+            30,
+            "PSYCHIC"
+        ],
+        [
+            35,
+            "STONEEDGE"
+        ],
+        [
+            40,
+            "SOLARBEAM"
+        ],
+        [
+            45,
+            "WONDERROOM"
+        ],
+        [
+            50,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ALLYSWITCH",
+        "ANCIENTPOWER",
+        "BATONPASS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COSMICPOWER",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "EMBARGO",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GYROBALL",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PAINSPLIT",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TELEKINESIS",
+        "TRICKROOM",
+        "WEATHERBALL",
+        "WILLOWISP",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 154.0,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 460,
+    "baseStats": [
+        90,
+        95,
+        85,
+        70,
+        55,
+        65
+    ],
+    "flags": [],
+    "name": "Solrock",
+    "species": "SOLROCK",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 161,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 338
+}

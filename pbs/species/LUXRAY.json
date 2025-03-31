@@ -1,0 +1,161 @@
+{
+    "generation": 4,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "CHARGE"
+        ],
+        [
+            12,
+            "BITE"
+        ],
+        [
+            18,
+            "SPARK"
+        ],
+        [
+            24,
+            "ROAR"
+        ],
+        [
+            33,
+            "VOLTSWITCH"
+        ],
+        [
+            40,
+            "SCARYFACE"
+        ],
+        [
+            48,
+            "THUNDERWAVE"
+        ],
+        [
+            56,
+            "CRUNCH"
+        ],
+        [
+            64,
+            "DISCHARGE"
+        ],
+        [
+            72,
+            "SWAGGER"
+        ],
+        [
+            80,
+            "WILDCHARGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CRUNCH",
+        "DOUBLETEAM",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREFANG",
+        "FLASH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEFANG",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROAR",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 42.0,
+    "abilities": [
+        "RIVALRY",
+        "INTIMIDATE"
+    ],
+    "hiddenAbilitie": [
+        "GUTS"
+    ],
+    "baseTotal": 523,
+    "baseStats": [
+        80,
+        120,
+        79,
+        70,
+        95,
+        79
+    ],
+    "flags": [],
+    "name": "Luxray",
+    "species": "LUXRAY",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 262,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 405
+}

@@ -1,0 +1,156 @@
+{
+    "generation": 9,
+    "primaryType": "DARK",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            -1,
+            "KOWTOWCLEAVE"
+        ],
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            1,
+            "METALBURST"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            15,
+            "TORMENT"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            25,
+            "ASSURANCE"
+        ],
+        [
+            30,
+            "METALSOUND"
+        ],
+        [
+            35,
+            "SLASH"
+        ],
+        [
+            40,
+            "NIGHTSLASH"
+        ],
+        [
+            45,
+            "IRONDEFENSE"
+        ],
+        [
+            50,
+            "RETALIATE"
+        ],
+        [
+            57,
+            "IRONHEAD"
+        ],
+        [
+            64,
+            "SWORDSDANCE"
+        ],
+        [
+            71,
+            "GUILLOTINE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRSLASH",
+        "BRICKBREAK",
+        "DARKPULSE",
+        "DIG",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASHCANNON",
+        "FLING",
+        "FOCUSBLAST",
+        "FOULPLAY",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "METALCLAW",
+        "METALSOUND",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "REVERSAL",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNARL",
+        "SPITE",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERWAVE",
+        "XSCISSOR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 120.0,
+    "abilities": [
+        "DEFIANT",
+        "SUPREMEOVERLORD"
+    ],
+    "hiddenAbilitie": [
+        "PRESSURE"
+    ],
+    "baseTotal": 550,
+    "baseStats": [
+        100,
+        135,
+        120,
+        50,
+        60,
+        85
+    ],
+    "flags": [],
+    "name": "Kingambit",
+    "species": "KINGAMBIT",
+    "catchRate": 25,
+    "happiness": 50,
+    "baseExp": 275,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 983
+}

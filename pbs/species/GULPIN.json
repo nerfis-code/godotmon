@@ -1,0 +1,168 @@
+{
+    "generation": 3,
+    "primaryType": "POISON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            5,
+            "YAWN"
+        ],
+        [
+            8,
+            "POISONGAS"
+        ],
+        [
+            10,
+            "SLUDGE"
+        ],
+        [
+            12,
+            "AMNESIA"
+        ],
+        [
+            17,
+            "ACIDSPRAY"
+        ],
+        [
+            20,
+            "ENCORE"
+        ],
+        [
+            25,
+            "TOXIC"
+        ],
+        [
+            28,
+            "STOCKPILE"
+        ],
+        [
+            28,
+            "SPITUP"
+        ],
+        [
+            28,
+            "SWALLOW"
+        ],
+        [
+            33,
+            "SLUDGEBOMB"
+        ],
+        [
+            36,
+            "GASTROACID"
+        ],
+        [
+            41,
+            "BELCH"
+        ],
+        [
+            44,
+            "PAINSPLIT"
+        ],
+        [
+            49,
+            "GUNKSHOT"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREPUNCH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "INFESTATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "VENOSHOCK",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "ACIDARMOR",
+        "CURSE",
+        "DESTINYBOND",
+        "GUNKSHOT",
+        "MUDSLAP",
+        "PAINSPLIT",
+        "SMOG",
+        "VENOMDRENCH"
+    ],
+    "height": 0.4,
+    "weight": 10.3,
+    "abilities": [
+        "LIQUIDOOZE",
+        "STICKYHOLD"
+    ],
+    "hiddenAbilitie": [
+        "GLUTTONY"
+    ],
+    "baseTotal": 302,
+    "baseStats": [
+        70,
+        43,
+        53,
+        40,
+        43,
+        53
+    ],
+    "flags": [],
+    "name": "Gulpin",
+    "species": "GULPIN",
+    "catchRate": 225,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "FLUCTUATING",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 316
+}

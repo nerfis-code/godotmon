@@ -1,0 +1,154 @@
+{
+    "generation": 1,
+    "primaryType": "GRASS",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "VINEWHIP"
+        ],
+        [
+            7,
+            "GROWTH"
+        ],
+        [
+            11,
+            "WRAP"
+        ],
+        [
+            13,
+            "SLEEPPOWDER"
+        ],
+        [
+            15,
+            "POISONPOWDER"
+        ],
+        [
+            17,
+            "STUNSPORE"
+        ],
+        [
+            23,
+            "ACID"
+        ],
+        [
+            27,
+            "KNOCKOFF"
+        ],
+        [
+            29,
+            "SWEETSCENT"
+        ],
+        [
+            35,
+            "GASTROACID"
+        ],
+        [
+            39,
+            "RAZORLEAF"
+        ],
+        [
+            41,
+            "POISONJAB"
+        ],
+        [
+            47,
+            "SLAM"
+        ],
+        [
+            52,
+            "POWERWHIP"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BIND",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "KNOCKOFF",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POISONJAB",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THIEF",
+        "VENOSHOCK",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "ACIDSPRAY",
+        "BELCH",
+        "CLEARSMOG",
+        "ENCORE",
+        "INGRAIN",
+        "LEECHLIFE",
+        "MAGICALLEAF",
+        "POWERWHIP",
+        "STRENGTHSAP",
+        "SYNTHESIS",
+        "TICKLE",
+        "WEATHERBALL",
+        "WORRYSEED"
+    ],
+    "height": 0.7,
+    "weight": 4.0,
+    "abilities": [
+        "CHLOROPHYLL"
+    ],
+    "hiddenAbilitie": [
+        "GLUTTONY"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        50,
+        75,
+        35,
+        40,
+        70,
+        30
+    ],
+    "flags": [],
+    "name": "Bellsprout",
+    "species": "BELLSPROUT",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 69
+}

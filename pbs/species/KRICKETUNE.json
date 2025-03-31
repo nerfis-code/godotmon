@@ -1,0 +1,165 @@
+{
+    "generation": 4,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "STRUGGLEBUG"
+        ],
+        [
+            1,
+            "BUGBITE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            14,
+            "ABSORB"
+        ],
+        [
+            18,
+            "SING"
+        ],
+        [
+            22,
+            "FOCUSENERGY"
+        ],
+        [
+            26,
+            "SLASH"
+        ],
+        [
+            30,
+            "XSCISSOR"
+        ],
+        [
+            34,
+            "SCREECH"
+        ],
+        [
+            36,
+            "FELLSTINGER"
+        ],
+        [
+            38,
+            "TAUNT"
+        ],
+        [
+            42,
+            "NIGHTSLASH"
+        ],
+        [
+            44,
+            "STICKYWEB"
+        ],
+        [
+            46,
+            "BUGBUZZ"
+        ],
+        [
+            50,
+            "PERISHSONG"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEALBELL",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "INFESTATION",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LEECHLIFE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THROATCHOP",
+        "UPROAR",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 25.5,
+    "abilities": [
+        "SWARM"
+    ],
+    "hiddenAbilitie": [
+        "TECHNICIAN"
+    ],
+    "baseTotal": 384,
+    "baseStats": [
+        77,
+        85,
+        51,
+        65,
+        55,
+        51
+    ],
+    "flags": [],
+    "name": "Kricketune",
+    "species": "KRICKETUNE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 134,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 402
+}

@@ -1,0 +1,198 @@
+{
+    "generation": 4,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "LICK"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            4,
+            "DEFENSECURL"
+        ],
+        [
+            8,
+            "RECYCLE"
+        ],
+        [
+            12,
+            "COVET"
+        ],
+        [
+            16,
+            "BITE"
+        ],
+        [
+            20,
+            "STOCKPILE"
+        ],
+        [
+            20,
+            "SWALLOW"
+        ],
+        [
+            24,
+            "SCREECH"
+        ],
+        [
+            28,
+            "BODYSLAM"
+        ],
+        [
+            32,
+            "FLING"
+        ],
+        [
+            36,
+            "AMNESIA"
+        ],
+        [
+            40,
+            "METRONOME"
+        ],
+        [
+            44,
+            "FLAIL"
+        ],
+        [
+            48,
+            "BELLYDRUM"
+        ],
+        [
+            52,
+            "LASTRESORT"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AMNESIA",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "LASTRESORT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYDAY",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "RECYCLE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "UPROAR",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "AFTERYOU",
+        "BELCH",
+        "CHARM",
+        "COUNTER",
+        "CURSE",
+        "DOUBLEEDGE",
+        "FISSURE",
+        "GASTROACID",
+        "LICK",
+        "SELFDESTRUCT",
+        "WHIRLWIND",
+        "ZENHEADBUTT"
+    ],
+    "height": 0.6,
+    "weight": 105.0,
+    "abilities": [
+        "PICKUP",
+        "THICKFAT"
+    ],
+    "hiddenAbilitie": [
+        "GLUTTONY"
+    ],
+    "baseTotal": 390,
+    "baseStats": [
+        135,
+        85,
+        40,
+        5,
+        40,
+        85
+    ],
+    "flags": [],
+    "name": "Munchlax",
+    "species": "MUNCHLAX",
+    "catchRate": 50,
+    "happiness": 50,
+    "baseExp": 78,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 446
+}

@@ -1,0 +1,181 @@
+{
+    "generation": 4,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TRICKROOM"
+        ],
+        [
+            1,
+            "NASTYPLOT"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "CONVERSION"
+        ],
+        [
+            1,
+            "RECYCLE"
+        ],
+        [
+            1,
+            "MAGNETRISE"
+        ],
+        [
+            15,
+            "THUNDERSHOCK"
+        ],
+        [
+            20,
+            "PSYBEAM"
+        ],
+        [
+            25,
+            "CONVERSION2"
+        ],
+        [
+            30,
+            "AGILITY"
+        ],
+        [
+            35,
+            "RECOVER"
+        ],
+        [
+            40,
+            "DISCHARGE"
+        ],
+        [
+            45,
+            "TRIATTACK"
+        ],
+        [
+            50,
+            "MAGICCOAT"
+        ],
+        [
+            55,
+            "LOCKON"
+        ],
+        [
+            60,
+            "ZAPCANNON"
+        ],
+        [
+            65,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "ALLYSWITCH",
+        "BLIZZARD",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DARKPULSE",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EERIEIMPULSE",
+        "ELECTROWEB",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "LASTRESORT",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPEEDSWAP",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRIATTACK",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 34.0,
+    "abilities": [
+        "ADAPTABILITY",
+        "DOWNLOAD"
+    ],
+    "hiddenAbilitie": [
+        "ANALYTIC"
+    ],
+    "baseTotal": 535,
+    "baseStats": [
+        85,
+        80,
+        70,
+        90,
+        135,
+        75
+    ],
+    "flags": [],
+    "name": "Porygon-Z",
+    "species": "PORYGONZ",
+    "catchRate": 30,
+    "happiness": 50,
+    "baseExp": 268,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 474
+}

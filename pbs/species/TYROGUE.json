@@ -1,0 +1,117 @@
+{
+    "generation": 2,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "FAKEOUT"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "LASERFOCUS",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "UPROAR",
+        "VACUUMWAVE",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "BULLETPUNCH",
+        "COUNTER",
+        "FEINT",
+        "HELPINGHAND",
+        "HIGHJUMPKICK",
+        "MACHPUNCH",
+        "MINDREADER",
+        "RAPIDSPIN",
+        "VACUUMWAVE"
+    ],
+    "height": 0.7,
+    "weight": 21.0,
+    "abilities": [
+        "GUTS",
+        "STEADFAST"
+    ],
+    "hiddenAbilitie": [
+        "VITALSPIRIT"
+    ],
+    "baseTotal": 210,
+    "baseStats": [
+        35,
+        35,
+        35,
+        35,
+        35,
+        35
+    ],
+    "flags": [],
+    "name": "Tyrogue",
+    "species": "TYROGUE",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 42,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 0,
+    "forms": [],
+    "internationalPokedex": 236
+}

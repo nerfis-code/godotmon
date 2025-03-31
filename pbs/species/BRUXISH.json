@@ -1,0 +1,161 @@
+{
+    "generation": 7,
+    "primaryType": "WATER",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            4,
+            "ASTONISH"
+        ],
+        [
+            9,
+            "CONFUSION"
+        ],
+        [
+            12,
+            "BITE"
+        ],
+        [
+            17,
+            "AQUAJET"
+        ],
+        [
+            20,
+            "DISABLE"
+        ],
+        [
+            25,
+            "PSYWAVE"
+        ],
+        [
+            25,
+            "PSYSHOCK"
+        ],
+        [
+            28,
+            "CRUNCH"
+        ],
+        [
+            33,
+            "AQUATAIL"
+        ],
+        [
+            36,
+            "SCREECH"
+        ],
+        [
+            41,
+            "PSYCHICFANGS"
+        ],
+        [
+            44,
+            "SYNCHRONOISE"
+        ],
+        [
+            44,
+            "WAVECRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AFTERYOU",
+        "ALLYSWITCH",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BULKUP",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TELEKINESIS",
+        "TORMENT",
+        "TOXIC",
+        "TRICKROOM",
+        "UPROAR",
+        "VENOSHOCK",
+        "WATERFALL",
+        "WATERPULSE",
+        "WONDERROOM"
+    ],
+    "eggMoves": [
+        "ICEFANG",
+        "POISONFANG",
+        "RAGE",
+        "WATERPULSE"
+    ],
+    "height": 0.9,
+    "weight": 19.0,
+    "abilities": [
+        "DAZZLING",
+        "STRONGJAW"
+    ],
+    "hiddenAbilitie": [
+        "WONDERSKIN"
+    ],
+    "baseTotal": 475,
+    "baseStats": [
+        68,
+        105,
+        70,
+        92,
+        70,
+        70
+    ],
+    "flags": [],
+    "name": "Bruxish",
+    "species": "BRUXISH",
+    "catchRate": 80,
+    "happiness": 50,
+    "baseExp": 166,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 779
+}

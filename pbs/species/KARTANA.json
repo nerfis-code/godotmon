@@ -1,0 +1,144 @@
+{
+    "generation": 7,
+    "primaryType": "GRASS",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "VACUUMWAVE"
+        ],
+        [
+            5,
+            "RAZORLEAF"
+        ],
+        [
+            10,
+            "FALSESWIPE"
+        ],
+        [
+            15,
+            "CUT"
+        ],
+        [
+            20,
+            "AIRCUTTER"
+        ],
+        [
+            25,
+            "AERIALACE"
+        ],
+        [
+            30,
+            "DETECT"
+        ],
+        [
+            35,
+            "NIGHTSLASH"
+        ],
+        [
+            40,
+            "SYNTHESIS"
+        ],
+        [
+            45,
+            "LASERFOCUS"
+        ],
+        [
+            50,
+            "DEFOG"
+        ],
+        [
+            55,
+            "LEAFBLADE"
+        ],
+        [
+            60,
+            "SACREDSWORD"
+        ],
+        [
+            65,
+            "SWORDSDANCE"
+        ],
+        [
+            70,
+            "GUILLOTINE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRSLASH",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FALSESWIPE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LEAFBLADE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHOCUT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SOLARBLADE",
+        "STEELBEAM",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TAILWIND",
+        "TOXIC",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 0.1,
+    "abilities": [
+        "BEASTBOOST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        59,
+        181,
+        131,
+        109,
+        59,
+        31
+    ],
+    "flags": [
+        "UltraBeast"
+    ],
+    "name": "Kartana",
+    "species": "KARTANA",
+    "catchRate": 45,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 798
+}

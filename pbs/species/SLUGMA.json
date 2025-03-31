@@ -1,0 +1,160 @@
+{
+    "generation": 2,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "YAWN"
+        ],
+        [
+            1,
+            "SMOG"
+        ],
+        [
+            6,
+            "EMBER"
+        ],
+        [
+            8,
+            "ROCKTHROW"
+        ],
+        [
+            13,
+            "HARDEN"
+        ],
+        [
+            20,
+            "CLEARSMOG"
+        ],
+        [
+            22,
+            "ANCIENTPOWER"
+        ],
+        [
+            27,
+            "INCINERATE"
+        ],
+        [
+            29,
+            "ROCKSLIDE"
+        ],
+        [
+            34,
+            "LAVAPLUME"
+        ],
+        [
+            36,
+            "AMNESIA"
+        ],
+        [
+            41,
+            "BODYSLAM"
+        ],
+        [
+            43,
+            "RECOVER"
+        ],
+        [
+            48,
+            "FLAMETHROWER"
+        ],
+        [
+            50,
+            "EARTHPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "INCINERATE",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OVERHEAT",
+        "PAINSPLIT",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "WILLOWISP"
+    ],
+    "eggMoves": [
+        "ACIDARMOR",
+        "CURSE",
+        "EARTHPOWER",
+        "GUARDSWAP",
+        "HEATWAVE",
+        "INFERNO",
+        "MEMENTO",
+        "ROLLOUT",
+        "SMOKESCREEN",
+        "SPITUP",
+        "STOCKPILE",
+        "SWALLOW"
+    ],
+    "height": 0.7,
+    "weight": 35.0,
+    "abilities": [
+        "MAGMAARMOR",
+        "FLAMEBODY"
+    ],
+    "hiddenAbilitie": [
+        "WEAKARMOR"
+    ],
+    "baseTotal": 250,
+    "baseStats": [
+        40,
+        40,
+        40,
+        20,
+        70,
+        40
+    ],
+    "flags": [],
+    "name": "Slugma",
+    "species": "SLUGMA",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 50,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 218
+}

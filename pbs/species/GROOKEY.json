@@ -1,0 +1,138 @@
+{
+    "generation": 8,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            6,
+            "BRANCHPOKE"
+        ],
+        [
+            8,
+            "TAUNT"
+        ],
+        [
+            12,
+            "RAZORLEAF"
+        ],
+        [
+            17,
+            "SCREECH"
+        ],
+        [
+            20,
+            "KNOCKOFF"
+        ],
+        [
+            24,
+            "SLAM"
+        ],
+        [
+            28,
+            "UPROAR"
+        ],
+        [
+            32,
+            "WOODHAMMER"
+        ],
+        [
+            36,
+            "ENDEAVOR"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ASSURANCE",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GRASSYGLIDE",
+        "HIDDENPOWER",
+        "LOWKICK",
+        "MAGICALLEAF",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "FAKEOUT",
+        "GROWTH",
+        "HAMMERARM",
+        "LEECHSEED",
+        "NATUREPOWER",
+        "STRENGTH",
+        "WORRYSEED"
+    ],
+    "height": 0.3,
+    "weight": 5.0,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "GRASSYSURGE"
+    ],
+    "baseTotal": 310,
+    "baseStats": [
+        50,
+        65,
+        50,
+        65,
+        40,
+        40
+    ],
+    "flags": [],
+    "name": "Grookey",
+    "species": "GROOKEY",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 810
+}

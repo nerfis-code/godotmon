@@ -1,0 +1,489 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WIDEGUARD"
+        ],
+        [
+            1,
+            "HAMMERARM"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            12,
+            "MUDSHOT"
+        ],
+        [
+            16,
+            "PROTECT"
+        ],
+        [
+            20,
+            "BUBBLEBEAM"
+        ],
+        [
+            24,
+            "STOMP"
+        ],
+        [
+            31,
+            "FLAIL"
+        ],
+        [
+            36,
+            "RAZORSHELL"
+        ],
+        [
+            42,
+            "SLAM"
+        ],
+        [
+            48,
+            "SWORDSDANCE"
+        ],
+        [
+            54,
+            "CRABHAMMER"
+        ],
+        [
+            60,
+            "GUILLOTINE"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ALLYSWITCH",
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRINE",
+        "BRUTALSWING",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HONECLAWS",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "QUASH",
+        "RAINDANCE",
+        "RAZORSHELL",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THIEF",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 60.0,
+    "abilities": [
+        "HYPERCUTTER",
+        "SHELLARMOR"
+    ],
+    "hiddenAbilitie": [
+        "SHEERFORCE"
+    ],
+    "baseTotal": 475,
+    "baseStats": [
+        55,
+        130,
+        115,
+        75,
+        50,
+        50
+    ],
+    "flags": [],
+    "name": "Kingler",
+    "species": "KINGLER",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 166,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WIDEGUARD"
+                ],
+                [
+                    1,
+                    "HAMMERARM"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    1,
+                    "METALCLAW"
+                ],
+                [
+                    12,
+                    "MUDSHOT"
+                ],
+                [
+                    16,
+                    "PROTECT"
+                ],
+                [
+                    20,
+                    "BUBBLEBEAM"
+                ],
+                [
+                    24,
+                    "STOMP"
+                ],
+                [
+                    31,
+                    "FLAIL"
+                ],
+                [
+                    36,
+                    "RAZORSHELL"
+                ],
+                [
+                    42,
+                    "SLAM"
+                ],
+                [
+                    48,
+                    "SWORDSDANCE"
+                ],
+                [
+                    54,
+                    "CRABHAMMER"
+                ],
+                [
+                    60,
+                    "GUILLOTINE"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ALLYSWITCH",
+                "AMNESIA",
+                "ANCIENTPOWER",
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRINE",
+                "BRUTALSWING",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CUT",
+                "DIG",
+                "DIVE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "HAIL",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HONECLAWS",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONDEFENSE",
+                "KNOCKOFF",
+                "LIQUIDATION",
+                "MIMIC",
+                "MUDSHOT",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PROTECT",
+                "QUASH",
+                "RAINDANCE",
+                "RAZORSHELL",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SCALD",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SURF",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "THIEF",
+                "WATERPULSE",
+                "WHIRLPOOL",
+                "XSCISSOR"
+            ],
+            "eggMoves": [],
+            "height": 1.3,
+            "weight": 60.0,
+            "abilities": [
+                "HYPERCUTTER",
+                "SHELLARMOR"
+            ],
+            "hiddenAbilitie": [
+                "SHEERFORCE"
+            ],
+            "baseTotal": 475,
+            "baseStats": [
+                55,
+                130,
+                115,
+                75,
+                50,
+                50
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Kingler"
+        },
+        {
+            "generation": 8,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WIDEGUARD"
+                ],
+                [
+                    1,
+                    "HAMMERARM"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    1,
+                    "METALCLAW"
+                ],
+                [
+                    12,
+                    "MUDSHOT"
+                ],
+                [
+                    16,
+                    "PROTECT"
+                ],
+                [
+                    20,
+                    "BUBBLEBEAM"
+                ],
+                [
+                    24,
+                    "STOMP"
+                ],
+                [
+                    31,
+                    "FLAIL"
+                ],
+                [
+                    36,
+                    "RAZORSHELL"
+                ],
+                [
+                    42,
+                    "SLAM"
+                ],
+                [
+                    48,
+                    "SWORDSDANCE"
+                ],
+                [
+                    54,
+                    "CRABHAMMER"
+                ],
+                [
+                    60,
+                    "GUILLOTINE"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ALLYSWITCH",
+                "AMNESIA",
+                "ANCIENTPOWER",
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRINE",
+                "BRUTALSWING",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CUT",
+                "DIG",
+                "DIVE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "HAIL",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HONECLAWS",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONDEFENSE",
+                "KNOCKOFF",
+                "LIQUIDATION",
+                "MIMIC",
+                "MUDSHOT",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PROTECT",
+                "QUASH",
+                "RAINDANCE",
+                "RAZORSHELL",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SCALD",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SURF",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "THIEF",
+                "WATERPULSE",
+                "WHIRLPOOL",
+                "XSCISSOR"
+            ],
+            "eggMoves": [],
+            "height": 19.0,
+            "weight": 60.0,
+            "abilities": [
+                "HYPERCUTTER",
+                "SHELLARMOR"
+            ],
+            "hiddenAbilitie": [
+                "SHEERFORCE"
+            ],
+            "baseTotal": 475,
+            "baseStats": [
+                55,
+                130,
+                115,
+                75,
+                50,
+                50
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 99
+}

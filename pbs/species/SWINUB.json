@@ -1,0 +1,153 @@
+{
+    "generation": 2,
+    "primaryType": "ICE",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            5,
+            "POWDERSNOW"
+        ],
+        [
+            10,
+            "FLAIL"
+        ],
+        [
+            15,
+            "ICESHARD"
+        ],
+        [
+            20,
+            "MIST"
+        ],
+        [
+            25,
+            "ENDURE"
+        ],
+        [
+            30,
+            "ICYWIND"
+        ],
+        [
+            35,
+            "AMNESIA"
+        ],
+        [
+            40,
+            "TAKEDOWN"
+        ],
+        [
+            45,
+            "EARTHQUAKE"
+        ],
+        [
+            50,
+            "BLIZZARD"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "BITE",
+        "BODYSLAM",
+        "CURSE",
+        "DOUBLEEDGE",
+        "FISSURE",
+        "FREEZEDRY",
+        "ICICLECRASH",
+        "ICICLESPEAR",
+        "MUDSHOT",
+        "TAKEDOWN"
+    ],
+    "height": 0.4,
+    "weight": 6.5,
+    "abilities": [
+        "OBLIVIOUS",
+        "SNOWCLOAK"
+    ],
+    "hiddenAbilitie": [
+        "THICKFAT"
+    ],
+    "baseTotal": 250,
+    "baseStats": [
+        50,
+        50,
+        40,
+        50,
+        30,
+        30
+    ],
+    "flags": [],
+    "name": "Swinub",
+    "species": "SWINUB",
+    "catchRate": 225,
+    "happiness": 50,
+    "baseExp": 50,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 220
+}

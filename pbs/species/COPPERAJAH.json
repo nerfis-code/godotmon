@@ -1,0 +1,447 @@
+{
+    "generation": 8,
+    "primaryType": "STEEL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "HEAVYSLAM"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "ROLLOUT"
+        ],
+        [
+            1,
+            "ROCKSMASH"
+        ],
+        [
+            15,
+            "BULLDOZE"
+        ],
+        [
+            20,
+            "STOMP"
+        ],
+        [
+            25,
+            "IRONDEFENSE"
+        ],
+        [
+            30,
+            "DIG"
+        ],
+        [
+            37,
+            "STRENGTH"
+        ],
+        [
+            44,
+            "IRONHEAD"
+        ],
+        [
+            51,
+            "PLAYROUGH"
+        ],
+        [
+            58,
+            "HIGHHORSEPOWER"
+        ],
+        [
+            65,
+            "SUPERPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FLING",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATCRASH",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MEGAKICK",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "PLAYROUGH",
+        "POWERWHIP",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STEELROLLER",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "TOXIC",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 3.0,
+    "weight": 650.0,
+    "abilities": [
+        "SHEERFORCE"
+    ],
+    "hiddenAbilitie": [
+        "HEAVYMETAL"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        122,
+        130,
+        69,
+        30,
+        80,
+        69
+    ],
+    "flags": [],
+    "name": "Copperajah",
+    "species": "COPPERAJAH",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "STEEL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "HEAVYSLAM"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "ROLLOUT"
+                ],
+                [
+                    1,
+                    "ROCKSMASH"
+                ],
+                [
+                    15,
+                    "BULLDOZE"
+                ],
+                [
+                    20,
+                    "STOMP"
+                ],
+                [
+                    25,
+                    "IRONDEFENSE"
+                ],
+                [
+                    30,
+                    "DIG"
+                ],
+                [
+                    37,
+                    "STRENGTH"
+                ],
+                [
+                    44,
+                    "IRONHEAD"
+                ],
+                [
+                    51,
+                    "PLAYROUGH"
+                ],
+                [
+                    58,
+                    "HIGHHORSEPOWER"
+                ],
+                [
+                    65,
+                    "SUPERPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FLING",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEATCRASH",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "MEGAKICK",
+                "MIMIC",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAYBACK",
+                "PLAYROUGH",
+                "POWERWHIP",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "ROCKBLAST",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SCARYFACE",
+                "SCREECH",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "STEALTHROCK",
+                "STEELBEAM",
+                "STEELROLLER",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SWAGGER",
+                "TAUNT",
+                "TOXIC",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 3.0,
+            "weight": 650.0,
+            "abilities": [
+                "SHEERFORCE"
+            ],
+            "hiddenAbilitie": [
+                "HEAVYMETAL"
+            ],
+            "baseTotal": 500,
+            "baseStats": [
+                122,
+                130,
+                69,
+                30,
+                80,
+                69
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Copperajah"
+        },
+        {
+            "generation": 8,
+            "primaryType": "STEEL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "HEAVYSLAM"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "ROLLOUT"
+                ],
+                [
+                    1,
+                    "ROCKSMASH"
+                ],
+                [
+                    15,
+                    "BULLDOZE"
+                ],
+                [
+                    20,
+                    "STOMP"
+                ],
+                [
+                    25,
+                    "IRONDEFENSE"
+                ],
+                [
+                    30,
+                    "DIG"
+                ],
+                [
+                    37,
+                    "STRENGTH"
+                ],
+                [
+                    44,
+                    "IRONHEAD"
+                ],
+                [
+                    51,
+                    "PLAYROUGH"
+                ],
+                [
+                    58,
+                    "HIGHHORSEPOWER"
+                ],
+                [
+                    65,
+                    "SUPERPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FLING",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEATCRASH",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "MEGAKICK",
+                "MIMIC",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAYBACK",
+                "PLAYROUGH",
+                "POWERWHIP",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "ROCKBLAST",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SCARYFACE",
+                "SCREECH",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "STEALTHROCK",
+                "STEELBEAM",
+                "STEELROLLER",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SWAGGER",
+                "TAUNT",
+                "TOXIC",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 23.0,
+            "weight": 650.0,
+            "abilities": [
+                "SHEERFORCE"
+            ],
+            "hiddenAbilitie": [
+                "HEAVYMETAL"
+            ],
+            "baseTotal": 500,
+            "baseStats": [
+                122,
+                130,
+                69,
+                30,
+                80,
+                69
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 879
+}

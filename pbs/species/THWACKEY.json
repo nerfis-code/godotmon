@@ -1,0 +1,134 @@
+{
+    "generation": 8,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "DOUBLEHIT"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "BRANCHPOKE"
+        ],
+        [
+            1,
+            "TAUNT"
+        ],
+        [
+            12,
+            "RAZORLEAF"
+        ],
+        [
+            19,
+            "SCREECH"
+        ],
+        [
+            24,
+            "KNOCKOFF"
+        ],
+        [
+            30,
+            "SLAM"
+        ],
+        [
+            36,
+            "UPROAR"
+        ],
+        [
+            42,
+            "WOODHAMMER"
+        ],
+        [
+            48,
+            "ENDEAVOR"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ASSURANCE",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GRASSYGLIDE",
+        "HIDDENPOWER",
+        "LOWKICK",
+        "MAGICALLEAF",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 14.0,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "GRASSYSURGE"
+    ],
+    "baseTotal": 420,
+    "baseStats": [
+        70,
+        85,
+        70,
+        80,
+        55,
+        60
+    ],
+    "flags": [],
+    "name": "Thwackey",
+    "species": "THWACKEY",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 147,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 811
+}

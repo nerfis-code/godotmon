@@ -1,0 +1,542 @@
+{
+    "generation": 1,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "KINESIS"
+        ],
+        [
+            1,
+            "DISABLE"
+        ],
+        [
+            1,
+            "TELEPORT"
+        ],
+        [
+            5,
+            "PSYBEAM"
+        ],
+        [
+            10,
+            "REFLECT"
+        ],
+        [
+            15,
+            "ALLYSWITCH"
+        ],
+        [
+            20,
+            "PSYCHOCUT"
+        ],
+        [
+            25,
+            "RECOVER"
+        ],
+        [
+            30,
+            "PSYSHOCK"
+        ],
+        [
+            35,
+            "PSYCHIC"
+        ],
+        [
+            40,
+            "ROLEPLAY"
+        ],
+        [
+            45,
+            "FUTURESIGHT"
+        ],
+        [
+            50,
+            "CALMMIND"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BODYSLAM",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COUNTER",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "EMBARGO",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "IMPRISON",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SPEEDSWAP",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRIATTACK",
+        "TRICK",
+        "TRICKROOM",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 48.0,
+    "abilities": [
+        "SYNCHRONIZE",
+        "INNERFOCUS"
+    ],
+    "hiddenAbilitie": [
+        "MAGICGUARD"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        55,
+        50,
+        45,
+        120,
+        135,
+        95
+    ],
+    "flags": [],
+    "name": "Alakazam",
+    "species": "ALAKAZAM",
+    "catchRate": 50,
+    "happiness": 50,
+    "baseExp": 250,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 25,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "CONFUSION"
+                ],
+                [
+                    1,
+                    "KINESIS"
+                ],
+                [
+                    1,
+                    "DISABLE"
+                ],
+                [
+                    1,
+                    "TELEPORT"
+                ],
+                [
+                    5,
+                    "PSYBEAM"
+                ],
+                [
+                    10,
+                    "REFLECT"
+                ],
+                [
+                    15,
+                    "ALLYSWITCH"
+                ],
+                [
+                    20,
+                    "PSYCHOCUT"
+                ],
+                [
+                    25,
+                    "RECOVER"
+                ],
+                [
+                    30,
+                    "PSYSHOCK"
+                ],
+                [
+                    35,
+                    "PSYCHIC"
+                ],
+                [
+                    40,
+                    "ROLEPLAY"
+                ],
+                [
+                    45,
+                    "FUTURESIGHT"
+                ],
+                [
+                    50,
+                    "CALMMIND"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BODYSLAM",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "COUNTER",
+                "DAZZLINGGLEAM",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAINPUNCH",
+                "DREAMEATER",
+                "DYNAMICPUNCH",
+                "EMBARGO",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FIREPUNCH",
+                "FLASH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRAVITY",
+                "GUARDSWAP",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEPUNCH",
+                "IMPRISON",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MAGICROOM",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "METRONOME",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "POWERSWAP",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHICTERRAIN",
+                "PSYCHOCUT",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "RAINDANCE",
+                "RECYCLE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROLEPLAY",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPEEDSWAP",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "TELEKINESIS",
+                "THIEF",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "TORMENT",
+                "TRIATTACK",
+                "TRICK",
+                "TRICKROOM",
+                "WONDERROOM",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 48.0,
+            "abilities": [
+                "SYNCHRONIZE",
+                "INNERFOCUS"
+            ],
+            "hiddenAbilitie": [
+                "MAGICGUARD"
+            ],
+            "baseTotal": 500,
+            "baseStats": [
+                55,
+                50,
+                45,
+                120,
+                135,
+                95
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Alakazam"
+        },
+        {
+            "generation": 6,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "CONFUSION"
+                ],
+                [
+                    1,
+                    "KINESIS"
+                ],
+                [
+                    1,
+                    "DISABLE"
+                ],
+                [
+                    1,
+                    "TELEPORT"
+                ],
+                [
+                    5,
+                    "PSYBEAM"
+                ],
+                [
+                    10,
+                    "REFLECT"
+                ],
+                [
+                    15,
+                    "ALLYSWITCH"
+                ],
+                [
+                    20,
+                    "PSYCHOCUT"
+                ],
+                [
+                    25,
+                    "RECOVER"
+                ],
+                [
+                    30,
+                    "PSYSHOCK"
+                ],
+                [
+                    35,
+                    "PSYCHIC"
+                ],
+                [
+                    40,
+                    "ROLEPLAY"
+                ],
+                [
+                    45,
+                    "FUTURESIGHT"
+                ],
+                [
+                    50,
+                    "CALMMIND"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BODYSLAM",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "COUNTER",
+                "DAZZLINGGLEAM",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAINPUNCH",
+                "DREAMEATER",
+                "DYNAMICPUNCH",
+                "EMBARGO",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FIREPUNCH",
+                "FLASH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRAVITY",
+                "GUARDSWAP",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEPUNCH",
+                "IMPRISON",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MAGICROOM",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "METRONOME",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "POWERSWAP",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHICTERRAIN",
+                "PSYCHOCUT",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "RAINDANCE",
+                "RECYCLE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROLEPLAY",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPEEDSWAP",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "TELEKINESIS",
+                "THIEF",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "TORMENT",
+                "TRIATTACK",
+                "TRICK",
+                "TRICKROOM",
+                "WONDERROOM",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 48.0,
+            "abilities": [
+                "TRACE"
+            ],
+            "hiddenAbilitie": [
+                "TRACE"
+            ],
+            "baseTotal": 600,
+            "baseStats": [
+                55,
+                50,
+                65,
+                150,
+                175,
+                105
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Alakazam"
+        }
+    ],
+    "internationalPokedex": 65
+}

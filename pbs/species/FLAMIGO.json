@@ -1,0 +1,145 @@
+{
+    "generation": 9,
+    "primaryType": "FLYING",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            1,
+            "COPYCAT"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            5,
+            "DOUBLEKICK"
+        ],
+        [
+            9,
+            "DETECT"
+        ],
+        [
+            12,
+            "WINGATTACK"
+        ],
+        [
+            15,
+            "FOCUSENERGY"
+        ],
+        [
+            18,
+            "LOWKICK"
+        ],
+        [
+            21,
+            "FEINT"
+        ],
+        [
+            27,
+            "PAYBACK"
+        ],
+        [
+            31,
+            "ROOST"
+        ],
+        [
+            35,
+            "AIRSLASH"
+        ],
+        [
+            39,
+            "MEGAKICK"
+        ],
+        [
+            44,
+            "WIDEGUARD"
+        ],
+        [
+            48,
+            "THROATCHOP"
+        ],
+        [
+            54,
+            "BRAVEBIRD"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "BRAVEBIRD",
+        "BULKUP",
+        "CHILLINGWATER",
+        "CLOSECOMBAT",
+        "DUALWINGBEAT",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FEATHERDANCE",
+        "FLING",
+        "FLY",
+        "GIGAIMPACT",
+        "HURRICANE",
+        "HYPERBEAM",
+        "LIQUIDATION",
+        "LOWKICK",
+        "LOWSWEEP",
+        "LUNGE",
+        "POUNCE",
+        "PROTECT",
+        "PSYCHUP",
+        "REST",
+        "REVERSAL",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SWORDSDANCE",
+        "TAILWIND",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "UPPERHAND",
+        "UTURN",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "DOUBLETEAM",
+        "QUICKGUARD",
+        "SKYATTACK"
+    ],
+    "height": 1.6,
+    "weight": 37.0,
+    "abilities": [
+        "SCRAPPY",
+        "TANGLEDFEET"
+    ],
+    "hiddenAbilitie": [
+        "COSTAR"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        82,
+        115,
+        74,
+        90,
+        75,
+        64
+    ],
+    "flags": [],
+    "name": "Flamigo",
+    "species": "FLAMIGO",
+    "catchRate": 100,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 973
+}

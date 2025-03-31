@@ -1,0 +1,180 @@
+{
+    "generation": 3,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "COPYCAT"
+        ],
+        [
+            14,
+            "PSYBEAM"
+        ],
+        [
+            19,
+            "HYPNOSIS"
+        ],
+        [
+            23,
+            "BODYSLAM"
+        ],
+        [
+            28,
+            "SUCKERPUNCH"
+        ],
+        [
+            32,
+            "TEETERDANCE"
+        ],
+        [
+            37,
+            "UPROAR"
+        ],
+        [
+            41,
+            "PSYCHUP"
+        ],
+        [
+            46,
+            "DOUBLEEDGE"
+        ],
+        [
+            50,
+            "FLAIL"
+        ],
+        [
+            55,
+            "THRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEPUNCH",
+        "ICYWIND",
+        "LASTRESORT",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "RECYCLE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THUNDERPUNCH",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "WATERPULSE",
+        "WILDCHARGE",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "BATONPASS",
+        "DISABLE",
+        "ENCORE",
+        "FAKEOUT",
+        "FAKETEARS",
+        "GUARDSPLIT",
+        "ICYWIND",
+        "PSYCHOCUT",
+        "PSYCHOSHIFT",
+        "RAPIDSPIN",
+        "ROLEPLAY",
+        "TRICK",
+        "WISH"
+    ],
+    "height": 1.1,
+    "weight": 5.0,
+    "abilities": [
+        "OWNTEMPO",
+        "TANGLEDFEET"
+    ],
+    "hiddenAbilitie": [
+        "CONTRARY"
+    ],
+    "baseTotal": 360,
+    "baseStats": [
+        60,
+        60,
+        60,
+        60,
+        60,
+        60
+    ],
+    "flags": [],
+    "name": "Spinda",
+    "species": "SPINDA",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 126,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 327
+}

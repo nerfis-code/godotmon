@@ -1,0 +1,450 @@
+{
+    "generation": 8,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            -1,
+            "PSYCHOCUT"
+        ],
+        [
+            1,
+            "BRUTALSWING"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "PLAYNICE"
+        ],
+        [
+            1,
+            "LIFEDEW"
+        ],
+        [
+            1,
+            "DISARMINGVOICE"
+        ],
+        [
+            15,
+            "AROMATHERAPY"
+        ],
+        [
+            15,
+            "AROMATICMIST"
+        ],
+        [
+            20,
+            "PSYBEAM"
+        ],
+        [
+            25,
+            "HEALPULSE"
+        ],
+        [
+            30,
+            "DAZZLINGGLEAM"
+        ],
+        [
+            37,
+            "CALMMIND"
+        ],
+        [
+            46,
+            "PSYCHIC"
+        ],
+        [
+            55,
+            "HEALINGWISH"
+        ],
+        [
+            64,
+            "MAGICPOWDER"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BATONPASS",
+        "BRUTALSWING",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "DARKPULSE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GUARDSWAP",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MAGICROOM",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "POWERSWAP",
+        "POWERWHIP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHOCUT",
+        "PSYSHOCK",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRICKROOM",
+        "WONDERROOM"
+    ],
+    "eggMoves": [],
+    "height": 2.1,
+    "weight": 5.1,
+    "abilities": [
+        "HEALER",
+        "ANTICIPATION"
+    ],
+    "hiddenAbilitie": [
+        "MAGICBOUNCE"
+    ],
+    "baseTotal": 510,
+    "baseStats": [
+        57,
+        90,
+        95,
+        29,
+        136,
+        103
+    ],
+    "flags": [],
+    "name": "Hatterene",
+    "species": "HATTERENE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 255,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 100,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "FAIRY",
+            "moves": [
+                [
+                    -1,
+                    "PSYCHOCUT"
+                ],
+                [
+                    1,
+                    "BRUTALSWING"
+                ],
+                [
+                    1,
+                    "CONFUSION"
+                ],
+                [
+                    1,
+                    "PLAYNICE"
+                ],
+                [
+                    1,
+                    "LIFEDEW"
+                ],
+                [
+                    1,
+                    "DISARMINGVOICE"
+                ],
+                [
+                    15,
+                    "AROMATHERAPY"
+                ],
+                [
+                    15,
+                    "AROMATICMIST"
+                ],
+                [
+                    20,
+                    "PSYBEAM"
+                ],
+                [
+                    25,
+                    "HEALPULSE"
+                ],
+                [
+                    30,
+                    "DAZZLINGGLEAM"
+                ],
+                [
+                    37,
+                    "CALMMIND"
+                ],
+                [
+                    46,
+                    "PSYCHIC"
+                ],
+                [
+                    55,
+                    "HEALINGWISH"
+                ],
+                [
+                    64,
+                    "MAGICPOWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BATONPASS",
+                "BRUTALSWING",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "ENDURE",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GUARDSWAP",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IMPRISON",
+                "LIGHTSCREEN",
+                "MAGICALLEAF",
+                "MAGICROOM",
+                "MIMIC",
+                "MISTYEXPLOSION",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "PLAYROUGH",
+                "POWERSWAP",
+                "POWERWHIP",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHOCUT",
+                "PSYSHOCK",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNORE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "THUNDERWAVE",
+                "TOXIC",
+                "TRICKROOM",
+                "WONDERROOM"
+            ],
+            "eggMoves": [],
+            "height": 2.1,
+            "weight": 5.1,
+            "abilities": [
+                "HEALER",
+                "ANTICIPATION"
+            ],
+            "hiddenAbilitie": [
+                "MAGICBOUNCE"
+            ],
+            "baseTotal": 510,
+            "baseStats": [
+                57,
+                90,
+                95,
+                29,
+                136,
+                103
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Hatterene"
+        },
+        {
+            "generation": 8,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "FAIRY",
+            "moves": [
+                [
+                    -1,
+                    "PSYCHOCUT"
+                ],
+                [
+                    1,
+                    "BRUTALSWING"
+                ],
+                [
+                    1,
+                    "CONFUSION"
+                ],
+                [
+                    1,
+                    "PLAYNICE"
+                ],
+                [
+                    1,
+                    "LIFEDEW"
+                ],
+                [
+                    1,
+                    "DISARMINGVOICE"
+                ],
+                [
+                    15,
+                    "AROMATHERAPY"
+                ],
+                [
+                    15,
+                    "AROMATICMIST"
+                ],
+                [
+                    20,
+                    "PSYBEAM"
+                ],
+                [
+                    25,
+                    "HEALPULSE"
+                ],
+                [
+                    30,
+                    "DAZZLINGGLEAM"
+                ],
+                [
+                    37,
+                    "CALMMIND"
+                ],
+                [
+                    46,
+                    "PSYCHIC"
+                ],
+                [
+                    55,
+                    "HEALINGWISH"
+                ],
+                [
+                    64,
+                    "MAGICPOWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BATONPASS",
+                "BRUTALSWING",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "ENDURE",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GUARDSWAP",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IMPRISON",
+                "LIGHTSCREEN",
+                "MAGICALLEAF",
+                "MAGICROOM",
+                "MIMIC",
+                "MISTYEXPLOSION",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "PLAYROUGH",
+                "POWERSWAP",
+                "POWERWHIP",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHOCUT",
+                "PSYSHOCK",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNORE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "THUNDERWAVE",
+                "TOXIC",
+                "TRICKROOM",
+                "WONDERROOM"
+            ],
+            "eggMoves": [],
+            "height": 26.0,
+            "weight": 5.1,
+            "abilities": [
+                "HEALER",
+                "ANTICIPATION"
+            ],
+            "hiddenAbilitie": [
+                "MAGICBOUNCE"
+            ],
+            "baseTotal": 510,
+            "baseStats": [
+                57,
+                90,
+                95,
+                29,
+                136,
+                103
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 858
+}

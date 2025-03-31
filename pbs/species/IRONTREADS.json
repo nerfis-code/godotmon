@@ -1,0 +1,150 @@
+{
+    "generation": 9,
+    "primaryType": "GROUND",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            1,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            1,
+            "HORNATTACK"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "ROLLOUT"
+        ],
+        [
+            7,
+            "BULLDOZE"
+        ],
+        [
+            21,
+            "RAPIDSPIN"
+        ],
+        [
+            28,
+            "IRONHEAD"
+        ],
+        [
+            35,
+            "STOMPINGTANTRUM"
+        ],
+        [
+            42,
+            "KNOCKOFF"
+        ],
+        [
+            49,
+            "EARTHQUAKE"
+        ],
+        [
+            56,
+            "HEAVYSLAM"
+        ],
+        [
+            63,
+            "WILDCHARGE"
+        ],
+        [
+            70,
+            "ENDEAVOR"
+        ],
+        [
+            77,
+            "MEGAHORN"
+        ],
+        [
+            84,
+            "GIGAIMPACT"
+        ],
+        [
+            91,
+            "STEELROLLER"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "DOUBLEEDGE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ENDEAVOR",
+        "FACADE",
+        "FLASHCANNON",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HARDPRESS",
+        "HEAVYSLAM",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEFANG",
+        "ICESPINNER",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "METALSOUND",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PROTECT",
+        "REST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUPERCELLSLAM",
+        "TAKEDOWN",
+        "THUNDER",
+        "THUNDERFANG",
+        "VOLTSWITCH",
+        "WILDCHARGE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 240.0,
+    "abilities": [
+        "QUARKDRIVE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        90,
+        112,
+        120,
+        106,
+        72,
+        70
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Ferrodada",
+    "species": "IRONTREADS",
+    "catchRate": 30,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 990
+}

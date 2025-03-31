@@ -1,0 +1,167 @@
+{
+    "generation": 5,
+    "primaryType": "GHOST",
+    "secondaryType": "FIRE",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "SMOG"
+        ],
+        [
+            4,
+            "EMBER"
+        ],
+        [
+            8,
+            "MINIMIZE"
+        ],
+        [
+            12,
+            "CONFUSERAY"
+        ],
+        [
+            16,
+            "HEX"
+        ],
+        [
+            20,
+            "WILLOWISP"
+        ],
+        [
+            24,
+            "FIRESPIN"
+        ],
+        [
+            28,
+            "NIGHTSHADE"
+        ],
+        [
+            32,
+            "CURSE"
+        ],
+        [
+            36,
+            "SHADOWBALL"
+        ],
+        [
+            40,
+            "INFERNO"
+        ],
+        [
+            44,
+            "IMPRISON"
+        ],
+        [
+            48,
+            "PAINSPLIT"
+        ],
+        [
+            52,
+            "OVERHEAT"
+        ],
+        [
+            56,
+            "MEMENTO"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BURNINGJEALOUSY",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLASH",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HEX",
+        "HIDDENPOWER",
+        "IMPRISON",
+        "INCINERATE",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "WILLOWISP"
+    ],
+    "eggMoves": [
+        "ACIDARMOR",
+        "CLEARSMOG",
+        "HAZE",
+        "POWERSPLIT"
+    ],
+    "height": 0.3,
+    "weight": 3.1,
+    "abilities": [
+        "FLASHFIRE",
+        "FLAMEBODY"
+    ],
+    "hiddenAbilitie": [
+        "INFILTRATOR"
+    ],
+    "baseTotal": 275,
+    "baseStats": [
+        50,
+        30,
+        55,
+        20,
+        65,
+        55
+    ],
+    "flags": [],
+    "name": "Litwick",
+    "species": "LITWICK",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 55,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 607
+}

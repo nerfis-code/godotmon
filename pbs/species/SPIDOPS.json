@@ -1,0 +1,144 @@
+{
+    "generation": 9,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "SILKTRAP"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "STRUGGLEBUG"
+        ],
+        [
+            8,
+            "ASSURANCE"
+        ],
+        [
+            11,
+            "FEINT"
+        ],
+        [
+            14,
+            "BUGBITE"
+        ],
+        [
+            19,
+            "BLOCK"
+        ],
+        [
+            24,
+            "COUNTER"
+        ],
+        [
+            28,
+            "HEADBUTT"
+        ],
+        [
+            33,
+            "STICKYWEB"
+        ],
+        [
+            37,
+            "GASTROACID"
+        ],
+        [
+            41,
+            "CIRCLETHROW"
+        ],
+        [
+            45,
+            "THROATCHOP"
+        ],
+        [
+            49,
+            "SKITTERSMACK"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BUGBITE",
+        "BUGBUZZ",
+        "BULLETSEED",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "KNOCKOFF",
+        "LEECHLIFE",
+        "LOWKICK",
+        "LUNGE",
+        "PAINSPLIT",
+        "POISONJAB",
+        "POUNCE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "REVERSAL",
+        "ROCKTOMB",
+        "SCARYFACE",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SPIKES",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TOXICSPIKES",
+        "TRAILBLAZE",
+        "UPPERHAND",
+        "UTURN",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 16.5,
+    "abilities": [
+        "INSOMNIA"
+    ],
+    "hiddenAbilitie": [
+        "STAKEOUT"
+    ],
+    "baseTotal": 404,
+    "baseStats": [
+        60,
+        79,
+        92,
+        35,
+        52,
+        86
+    ],
+    "flags": [],
+    "name": "Spidops",
+    "species": "SPIDOPS",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 141,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 918
+}

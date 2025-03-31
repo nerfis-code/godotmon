@@ -1,0 +1,153 @@
+{
+    "generation": 9,
+    "primaryType": "DRAGON",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            -1,
+            "GLAIVERUSH"
+        ],
+        [
+            1,
+            "DRAGONTAIL"
+        ],
+        [
+            1,
+            "BREAKINGSWIPE"
+        ],
+        [
+            1,
+            "SNOWSCAPE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "ICESHARD"
+        ],
+        [
+            6,
+            "ICYWIND"
+        ],
+        [
+            12,
+            "DRAGONBREATH"
+        ],
+        [
+            18,
+            "FOCUSENERGY"
+        ],
+        [
+            24,
+            "BITE"
+        ],
+        [
+            29,
+            "ICEFANG"
+        ],
+        [
+            35,
+            "DRAGONCLAW"
+        ],
+        [
+            42,
+            "TAKEDOWN"
+        ],
+        [
+            48,
+            "ICEBEAM"
+        ],
+        [
+            55,
+            "CRUNCH"
+        ],
+        [
+            62,
+            "ICICLECRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CRUNCH",
+        "DIG",
+        "DOUBLEEDGE",
+        "DRACOMETEOR",
+        "DRAGONCHEER",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONHEAD",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SNOWSCAPE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "THUNDERFANG",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.1,
+    "weight": 210.0,
+    "abilities": [
+        "THERMALEXCHANGE"
+    ],
+    "hiddenAbilitie": [
+        "ICEBODY"
+    ],
+    "baseTotal": 600,
+    "baseStats": [
+        115,
+        145,
+        92,
+        87,
+        75,
+        86
+    ],
+    "flags": [],
+    "name": "Baxcalibur",
+    "species": "BAXCALIBUR",
+    "catchRate": 10,
+    "happiness": 50,
+    "baseExp": 300,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 998
+}

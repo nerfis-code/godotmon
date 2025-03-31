@@ -1,0 +1,178 @@
+{
+    "generation": 3,
+    "primaryType": "GRASS",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "STUNSPORE"
+        ],
+        [
+            1,
+            "WORRYSEED"
+        ],
+        [
+            5,
+            "MEGADRAIN"
+        ],
+        [
+            10,
+            "LEECHSEED"
+        ],
+        [
+            15,
+            "MAGICALLEAF"
+        ],
+        [
+            20,
+            "TOXICSPIKES"
+        ],
+        [
+            25,
+            "SWEETSCENT"
+        ],
+        [
+            30,
+            "GIGADRAIN"
+        ],
+        [
+            35,
+            "SYNTHESIS"
+        ],
+        [
+            40,
+            "TOXIC"
+        ],
+        [
+            45,
+            "PETALBLIZZARD"
+        ],
+        [
+            50,
+            "AROMATHERAPY"
+        ],
+        [
+            55,
+            "INGRAIN"
+        ],
+        [
+            60,
+            "PETALDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "HIDDENPOWER",
+        "LEAFSTORM",
+        "MAGICALLEAF",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PINMISSILE",
+        "POISONJAB",
+        "POWERWHIP",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SPIKES",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TOXIC",
+        "TOXICSPIKES",
+        "UPROAR",
+        "VENOSHOCK",
+        "WEATHERBALL",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "COTTONSPORE",
+        "EXTRASENSORY",
+        "LEAFSTORM",
+        "LIFEDEW",
+        "MINDREADER",
+        "PINMISSILE",
+        "POWERWHIP",
+        "RAZORLEAF",
+        "SEEDBOMB",
+        "SLEEPPOWDER",
+        "SPIKES",
+        "SYNTHESIS"
+    ],
+    "height": 0.3,
+    "weight": 2.0,
+    "abilities": [
+        "NATURALCURE",
+        "POISONPOINT"
+    ],
+    "hiddenAbilitie": [
+        "LEAFGUARD"
+    ],
+    "baseTotal": 400,
+    "baseStats": [
+        50,
+        60,
+        45,
+        65,
+        100,
+        80
+    ],
+    "flags": [],
+    "name": "Roselia",
+    "species": "ROSELIA",
+    "catchRate": 150,
+    "happiness": 50,
+    "baseExp": 140,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 315
+}

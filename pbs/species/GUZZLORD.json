@@ -1,0 +1,176 @@
+{
+    "generation": 7,
+    "primaryType": "DARK",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "DRAGONTAIL"
+        ],
+        [
+            5,
+            "SWALLOW"
+        ],
+        [
+            5,
+            "STOCKPILE"
+        ],
+        [
+            10,
+            "KNOCKOFF"
+        ],
+        [
+            15,
+            "STOMP"
+        ],
+        [
+            20,
+            "STOMPINGTANTRUM"
+        ],
+        [
+            25,
+            "WIDEGUARD"
+        ],
+        [
+            30,
+            "CRUNCH"
+        ],
+        [
+            35,
+            "BODYSLAM"
+        ],
+        [
+            40,
+            "GASTROACID"
+        ],
+        [
+            45,
+            "HAMMERARM"
+        ],
+        [
+            50,
+            "HEAVYSLAM"
+        ],
+        [
+            55,
+            "DRAGONRUSH"
+        ],
+        [
+            60,
+            "BELCH"
+        ],
+        [
+            65,
+            "THRASH"
+        ],
+        [
+            70,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CORROSIVEGAS",
+        "CRUNCH",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLING",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEATCRASH",
+        "HEATWAVE",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LASTRESORT",
+        "MAGNETRISE",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SNARL",
+        "SNORE",
+        "STEELROLLER",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "THIEF",
+        "TOXIC"
+    ],
+    "eggMoves": [],
+    "height": 5.5,
+    "weight": 888.0,
+    "abilities": [
+        "BEASTBOOST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        223,
+        101,
+        53,
+        43,
+        97,
+        53
+    ],
+    "flags": [
+        "UltraBeast"
+    ],
+    "name": "Guzzlord",
+    "species": "GUZZLORD",
+    "catchRate": 45,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 799
+}

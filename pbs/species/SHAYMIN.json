@@ -1,0 +1,388 @@
+{
+    "generation": 4,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            10,
+            "MAGICALLEAF"
+        ],
+        [
+            19,
+            "LEECHSEED"
+        ],
+        [
+            28,
+            "SYNTHESIS"
+        ],
+        [
+            37,
+            "SWEETSCENT"
+        ],
+        [
+            46,
+            "PLAYROUGH"
+        ],
+        [
+            55,
+            "WORRYSEED"
+        ],
+        [
+            64,
+            "AROMATHERAPY"
+        ],
+        [
+            64,
+            "GRASSYTERRAIN"
+        ],
+        [
+            73,
+            "ENERGYBALL"
+        ],
+        [
+            82,
+            "SWEETKISS"
+        ],
+        [
+            91,
+            "HEALINGWISH"
+        ],
+        [
+            100,
+            "SEEDFLARE"
+        ]
+    ],
+    "tutorMoves": [
+        "BULLETSEED",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "WORRYSEED",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.2,
+    "weight": 2.1,
+    "abilities": [
+        "NATURALCURE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Shaymin",
+    "species": "SHAYMIN",
+    "catchRate": 45,
+    "happiness": 100,
+    "baseExp": 300,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 4,
+            "primaryType": "GRASS",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "GROWTH"
+                ],
+                [
+                    10,
+                    "MAGICALLEAF"
+                ],
+                [
+                    19,
+                    "LEECHSEED"
+                ],
+                [
+                    28,
+                    "SYNTHESIS"
+                ],
+                [
+                    37,
+                    "SWEETSCENT"
+                ],
+                [
+                    46,
+                    "PLAYROUGH"
+                ],
+                [
+                    55,
+                    "WORRYSEED"
+                ],
+                [
+                    64,
+                    "AROMATHERAPY"
+                ],
+                [
+                    64,
+                    "GRASSYTERRAIN"
+                ],
+                [
+                    73,
+                    "ENERGYBALL"
+                ],
+                [
+                    82,
+                    "SWEETKISS"
+                ],
+                [
+                    91,
+                    "HEALINGWISH"
+                ],
+                [
+                    100,
+                    "SEEDFLARE"
+                ]
+            ],
+            "tutorMoves": [
+                "BULLETSEED",
+                "CONFIDE",
+                "COVET",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "LASERFOCUS",
+                "LASTRESORT",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "WORRYSEED",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.2,
+            "weight": 2.1,
+            "abilities": [
+                "NATURALCURE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 0,
+            "formName": "Forma Tierra"
+        },
+        {
+            "generation": 4,
+            "primaryType": "GRASS",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "GROWTH"
+                ],
+                [
+                    10,
+                    "MAGICALLEAF"
+                ],
+                [
+                    19,
+                    "LEECHSEED"
+                ],
+                [
+                    28,
+                    "QUICKATTACK"
+                ],
+                [
+                    37,
+                    "SWEETSCENT"
+                ],
+                [
+                    46,
+                    "HEALINGWISH"
+                ],
+                [
+                    55,
+                    "WORRYSEED"
+                ],
+                [
+                    64,
+                    "AIRSLASH"
+                ],
+                [
+                    73,
+                    "ENERGYBALL"
+                ],
+                [
+                    82,
+                    "SWEETKISS"
+                ],
+                [
+                    91,
+                    "LEAFSTORM"
+                ],
+                [
+                    100,
+                    "SEEDFLARE"
+                ]
+            ],
+            "tutorMoves": [
+                "AIRCUTTER",
+                "BULLETSEED",
+                "CONFIDE",
+                "COVET",
+                "DAZZLINGGLEAM",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "LASERFOCUS",
+                "LASTRESORT",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "OMINOUSWIND",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "TAILWIND",
+                "WORRYSEED",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.4,
+            "weight": 5.2,
+            "abilities": [
+                "SERENEGRACE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                100,
+                103,
+                75,
+                127,
+                120,
+                75
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 1,
+            "formName": "Forma Cielo"
+        }
+    ],
+    "internationalPokedex": 492
+}

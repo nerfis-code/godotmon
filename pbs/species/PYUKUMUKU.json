@@ -1,0 +1,133 @@
+{
+    "generation": 7,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "BATONPASS"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            5,
+            "HELPINGHAND"
+        ],
+        [
+            10,
+            "TAUNT"
+        ],
+        [
+            15,
+            "SAFEGUARD"
+        ],
+        [
+            20,
+            "COUNTER"
+        ],
+        [
+            25,
+            "PURIFY"
+        ],
+        [
+            30,
+            "CURSE"
+        ],
+        [
+            35,
+            "GASTROACID"
+        ],
+        [
+            40,
+            "PAINSPLIT"
+        ],
+        [
+            45,
+            "RECOVER"
+        ],
+        [
+            50,
+            "SOAK"
+        ],
+        [
+            55,
+            "TOXIC"
+        ],
+        [
+            60,
+            "MEMENTO"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BATONPASS",
+        "BLOCK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "GASTROACID",
+        "HAIL",
+        "HELPINGHAND",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PROTECT",
+        "PSYCHUP",
+        "QUASH",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "SAFEGUARD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SPITE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TAUNT",
+        "TOXIC",
+        "VENOMDRENCH"
+    ],
+    "eggMoves": [
+        "MIRRORCOAT",
+        "SPITE",
+        "SWAGGER",
+        "TICKLE"
+    ],
+    "height": 0.3,
+    "weight": 1.2,
+    "abilities": [
+        "INNARDSOUT"
+    ],
+    "hiddenAbilitie": [
+        "UNAWARE"
+    ],
+    "baseTotal": 410,
+    "baseStats": [
+        55,
+        60,
+        130,
+        5,
+        30,
+        130
+    ],
+    "flags": [],
+    "name": "Pyukumuku",
+    "species": "PYUKUMUKU",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 144,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 771
+}

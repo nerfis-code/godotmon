@@ -1,0 +1,414 @@
+{
+    "generation": 7,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "HELPINGHAND"
+        ],
+        [
+            8,
+            "BEATUP"
+        ],
+        [
+            12,
+            "BRINE"
+        ],
+        [
+            16,
+            "TEARFULLOOK"
+        ],
+        [
+            20,
+            "DIVE"
+        ],
+        [
+            24,
+            "SOAK"
+        ],
+        [
+            28,
+            "UPROAR"
+        ],
+        [
+            32,
+            "AQUATAIL"
+        ],
+        [
+            36,
+            "AQUARING"
+        ],
+        [
+            40,
+            "ENDEAVOR"
+        ],
+        [
+            44,
+            "HYDROPUMP"
+        ],
+        [
+            48,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BEATUP",
+        "BRINE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "DIVE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLIPTURN",
+        "FRUSTRATION",
+        "HAIL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "IRONTAIL",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "MIST",
+        "TAKEDOWN",
+        "WATERPULSE"
+    ],
+    "height": 0.2,
+    "weight": 0.3,
+    "abilities": [
+        "SCHOOLING"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 175,
+    "baseStats": [
+        45,
+        20,
+        20,
+        40,
+        25,
+        25
+    ],
+    "flags": [],
+    "name": "Wishiwashi",
+    "species": "WISHIWASHI",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 7,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    4,
+                    "HELPINGHAND"
+                ],
+                [
+                    8,
+                    "BEATUP"
+                ],
+                [
+                    12,
+                    "BRINE"
+                ],
+                [
+                    16,
+                    "TEARFULLOOK"
+                ],
+                [
+                    20,
+                    "DIVE"
+                ],
+                [
+                    24,
+                    "SOAK"
+                ],
+                [
+                    28,
+                    "UPROAR"
+                ],
+                [
+                    32,
+                    "AQUATAIL"
+                ],
+                [
+                    36,
+                    "AQUARING"
+                ],
+                [
+                    40,
+                    "ENDEAVOR"
+                ],
+                [
+                    44,
+                    "HYDROPUMP"
+                ],
+                [
+                    48,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "AQUATAIL",
+                "ATTRACT",
+                "BEATUP",
+                "BRINE",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DIVE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLIPTURN",
+                "FRUSTRATION",
+                "HAIL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "IRONTAIL",
+                "LIQUIDATION",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SCALD",
+                "SCALESHOT",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WATERFALL",
+                "WATERPULSE",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [
+                "MIST",
+                "TAKEDOWN",
+                "WATERPULSE"
+            ],
+            "height": 0.2,
+            "weight": 0.3,
+            "abilities": [
+                "SCHOOLING"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 175,
+            "baseStats": [
+                45,
+                20,
+                20,
+                40,
+                25,
+                25
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Individual"
+        },
+        {
+            "generation": 7,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    4,
+                    "HELPINGHAND"
+                ],
+                [
+                    8,
+                    "BEATUP"
+                ],
+                [
+                    12,
+                    "BRINE"
+                ],
+                [
+                    16,
+                    "TEARFULLOOK"
+                ],
+                [
+                    20,
+                    "DIVE"
+                ],
+                [
+                    24,
+                    "SOAK"
+                ],
+                [
+                    28,
+                    "UPROAR"
+                ],
+                [
+                    32,
+                    "AQUATAIL"
+                ],
+                [
+                    36,
+                    "AQUARING"
+                ],
+                [
+                    40,
+                    "ENDEAVOR"
+                ],
+                [
+                    44,
+                    "HYDROPUMP"
+                ],
+                [
+                    48,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "AQUATAIL",
+                "ATTRACT",
+                "BEATUP",
+                "BRINE",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DIVE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLIPTURN",
+                "FRUSTRATION",
+                "HAIL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "IRONTAIL",
+                "LIQUIDATION",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SCALD",
+                "SCALESHOT",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WATERFALL",
+                "WATERPULSE",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [
+                "MIST",
+                "TAKEDOWN",
+                "WATERPULSE"
+            ],
+            "height": 8.2,
+            "weight": 78.6,
+            "abilities": [
+                "SCHOOLING"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 620,
+            "baseStats": [
+                45,
+                140,
+                130,
+                30,
+                140,
+                135
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Banco"
+        }
+    ],
+    "internationalPokedex": 746
+}

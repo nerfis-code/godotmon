@@ -1,0 +1,132 @@
+{
+    "generation": 8,
+    "primaryType": "FIRE",
+    "secondaryType": "BUG",
+    "moves": [
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "SMOKESCREEN"
+        ],
+        [
+            5,
+            "WRAP"
+        ],
+        [
+            10,
+            "BITE"
+        ],
+        [
+            15,
+            "FLAMEWHEEL"
+        ],
+        [
+            20,
+            "BUGBITE"
+        ],
+        [
+            25,
+            "COIL"
+        ],
+        [
+            30,
+            "SLAM"
+        ],
+        [
+            35,
+            "FIRESPIN"
+        ],
+        [
+            40,
+            "CRUNCH"
+        ],
+        [
+            45,
+            "FIRELASH"
+        ],
+        [
+            50,
+            "LUNGE"
+        ],
+        [
+            55,
+            "BURNUP"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BRUTALSWING",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FIRESPIN",
+        "FRUSTRATION",
+        "HEATCRASH",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "LEECHLIFE",
+        "MIMIC",
+        "NATURALGIFT",
+        "POWERWHIP",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TOXIC",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [
+        "DEFENSECURL",
+        "KNOCKOFF",
+        "ROLLOUT",
+        "STRUGGLEBUG"
+    ],
+    "height": 0.7,
+    "weight": 1.0,
+    "abilities": [
+        "FLASHFIRE",
+        "WHITESMOKE"
+    ],
+    "hiddenAbilitie": [
+        "FLAMEBODY"
+    ],
+    "baseTotal": 305,
+    "baseStats": [
+        50,
+        65,
+        45,
+        45,
+        50,
+        50
+    ],
+    "flags": [],
+    "name": "Sizzlipede",
+    "species": "SIZZLIPEDE",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 850
+}

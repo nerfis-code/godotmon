@@ -1,0 +1,169 @@
+{
+    "generation": 3,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            7,
+            "CONFUSION"
+        ],
+        [
+            10,
+            "GROWL"
+        ],
+        [
+            14,
+            "PSYBEAM"
+        ],
+        [
+            18,
+            "PSYCHUP"
+        ],
+        [
+            21,
+            "MAGICCOAT"
+        ],
+        [
+            22,
+            "CONFUSERAY"
+        ],
+        [
+            26,
+            "ZENHEADBUTT"
+        ],
+        [
+            29,
+            "POWERGEM"
+        ],
+        [
+            29,
+            "REST"
+        ],
+        [
+            33,
+            "SNORE"
+        ],
+        [
+            38,
+            "PSYSHOCK"
+        ],
+        [
+            40,
+            "PAYBACK"
+        ],
+        [
+            44,
+            "PSYCHIC"
+        ],
+        [
+            50,
+            "BOUNCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BODYSLAM",
+        "BOUNCE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COVET",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HEALBELL",
+        "HIDDENPOWER",
+        "ICYWIND",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRICK",
+        "TRICKROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "EXTRASENSORY",
+        "FUTURESIGHT",
+        "MIRRORCOAT",
+        "SIMPLEBEAM",
+        "TRICK",
+        "WHIRLWIND",
+        "ZENHEADBUTT"
+    ],
+    "height": 0.7,
+    "weight": 30.6,
+    "abilities": [
+        "THICKFAT",
+        "OWNTEMPO"
+    ],
+    "hiddenAbilitie": [
+        "GLUTTONY"
+    ],
+    "baseTotal": 330,
+    "baseStats": [
+        60,
+        25,
+        35,
+        60,
+        70,
+        80
+    ],
+    "flags": [],
+    "name": "Spoink",
+    "species": "SPOINK",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 66,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 325
+}

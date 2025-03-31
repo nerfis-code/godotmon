@@ -1,0 +1,189 @@
+{
+    "generation": 3,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "TEETERDANCE"
+        ],
+        [
+            1,
+            "BELCH"
+        ],
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "PSYBEAM"
+        ],
+        [
+            10,
+            "GROWL"
+        ],
+        [
+            18,
+            "PSYCHUP"
+        ],
+        [
+            21,
+            "MAGICCOAT"
+        ],
+        [
+            22,
+            "CONFUSERAY"
+        ],
+        [
+            26,
+            "ZENHEADBUTT"
+        ],
+        [
+            29,
+            "POWERGEM"
+        ],
+        [
+            35,
+            "REST"
+        ],
+        [
+            35,
+            "SNORE"
+        ],
+        [
+            42,
+            "PSYSHOCK"
+        ],
+        [
+            46,
+            "PAYBACK"
+        ],
+        [
+            52,
+            "PSYCHIC"
+        ],
+        [
+            60,
+            "BOUNCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HEALBELL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRICK",
+        "TRICKROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 71.5,
+    "abilities": [
+        "THICKFAT",
+        "OWNTEMPO"
+    ],
+    "hiddenAbilitie": [
+        "GLUTTONY"
+    ],
+    "baseTotal": 470,
+    "baseStats": [
+        80,
+        45,
+        65,
+        80,
+        90,
+        110
+    ],
+    "flags": [],
+    "name": "Grumpig",
+    "species": "GRUMPIG",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 165,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 326
+}

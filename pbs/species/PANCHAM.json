@@ -1,0 +1,177 @@
+{
+    "generation": 6,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            4,
+            "ARMTHRUST"
+        ],
+        [
+            8,
+            "TAUNT"
+        ],
+        [
+            12,
+            "CIRCLETHROW"
+        ],
+        [
+            16,
+            "LOWSWEEP"
+        ],
+        [
+            20,
+            "WORKUP"
+        ],
+        [
+            24,
+            "SLASH"
+        ],
+        [
+            28,
+            "VITALTHROW"
+        ],
+        [
+            33,
+            "CRUNCH"
+        ],
+        [
+            36,
+            "BODYSLAM"
+        ],
+        [
+            40,
+            "PARTINGSHOT"
+        ],
+        [
+            44,
+            "ENTRAINMENT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BLOCK",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "COACHING",
+        "CONFIDE",
+        "COVET",
+        "CRUNCH",
+        "CUT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEPUNCH",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "POWERTRIP",
+        "QUASH",
+        "QUICKGUARD",
+        "SEISMICTOSS",
+        "STORMTHROW"
+    ],
+    "height": 0.6,
+    "weight": 8.0,
+    "abilities": [
+        "IRONFIST",
+        "MOLDBREAKER"
+    ],
+    "hiddenAbilitie": [
+        "SCRAPPY"
+    ],
+    "baseTotal": 348,
+    "baseStats": [
+        67,
+        82,
+        62,
+        43,
+        46,
+        48
+    ],
+    "flags": [],
+    "name": "Pancham",
+    "species": "PANCHAM",
+    "catchRate": 220,
+    "happiness": 50,
+    "baseExp": 70,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 674
+}

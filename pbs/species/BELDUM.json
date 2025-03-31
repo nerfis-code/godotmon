@@ -1,0 +1,50 @@
+{
+    "generation": 3,
+    "primaryType": "STEEL",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ]
+    ],
+    "tutorMoves": [
+        "HEADBUTT",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "STEELBEAM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 95.2,
+    "abilities": [
+        "CLEARBODY"
+    ],
+    "hiddenAbilitie": [
+        "LIGHTMETAL"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        40,
+        55,
+        80,
+        30,
+        35,
+        60
+    ],
+    "flags": [],
+    "name": "Beldum",
+    "species": "BELDUM",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 60,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 374
+}

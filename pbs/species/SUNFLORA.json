@@ -1,0 +1,169 @@
+{
+    "generation": 2,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "FLOWERSHIELD"
+        ],
+        [
+            1,
+            "ENDEAVOR"
+        ],
+        [
+            1,
+            "SYNTHESIS"
+        ],
+        [
+            1,
+            "SEEDBOMB"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            4,
+            "INGRAIN"
+        ],
+        [
+            7,
+            "ABSORB"
+        ],
+        [
+            10,
+            "MEGADRAIN"
+        ],
+        [
+            13,
+            "LEECHSEED"
+        ],
+        [
+            16,
+            "RAZORLEAF"
+        ],
+        [
+            19,
+            "WORRYSEED"
+        ],
+        [
+            22,
+            "GIGADRAIN"
+        ],
+        [
+            25,
+            "BULLETSEED"
+        ],
+        [
+            28,
+            "PETALDANCE"
+        ],
+        [
+            31,
+            "SOLARBEAM"
+        ],
+        [
+            37,
+            "DOUBLEEDGE"
+        ],
+        [
+            39,
+            "SUNNYDAY"
+        ],
+        [
+            43,
+            "LEAFSTORM"
+        ],
+        [
+            50,
+            "PETALBLIZZARD"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "UPROAR",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 8.5,
+    "abilities": [
+        "CHLOROPHYLL",
+        "SOLARPOWER"
+    ],
+    "hiddenAbilitie": [
+        "EARLYBIRD"
+    ],
+    "baseTotal": 425,
+    "baseStats": [
+        75,
+        75,
+        55,
+        30,
+        105,
+        85
+    ],
+    "flags": [],
+    "name": "Sunflora",
+    "species": "SUNFLORA",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 149,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 192
+}

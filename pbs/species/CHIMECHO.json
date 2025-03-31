@@ -1,0 +1,186 @@
+{
+    "generation": 3,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "HEALINGWISH"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "LASTRESORT"
+        ],
+        [
+            1,
+            "ENTRAINMENT"
+        ],
+        [
+            13,
+            "YAWN"
+        ],
+        [
+            16,
+            "LIGHTSCREEN"
+        ],
+        [
+            16,
+            "STOREDPOWER"
+        ],
+        [
+            19,
+            "TAKEDOWN"
+        ],
+        [
+            22,
+            "EXTRASENSORY"
+        ],
+        [
+            27,
+            "HEALBELL"
+        ],
+        [
+            32,
+            "UPROAR"
+        ],
+        [
+            37,
+            "SAFEGUARD"
+        ],
+        [
+            42,
+            "DOUBLEEDGE"
+        ],
+        [
+            47,
+            "HEALPULSE"
+        ],
+        [
+            52,
+            "PSYCHIC"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BIND",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GRAVITY",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICYWIND",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "COSMICPOWER",
+        "CURSE",
+        "DISABLE",
+        "FUTURESIGHT",
+        "HYPNOSIS",
+        "PERISHSONG",
+        "RECOVER",
+        "STOREDPOWER",
+        "WISH"
+    ],
+    "height": 0.6,
+    "weight": 1.0,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 455,
+    "baseStats": [
+        75,
+        50,
+        80,
+        65,
+        95,
+        90
+    ],
+    "flags": [],
+    "name": "Chimecho",
+    "species": "CHIMECHO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 159,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 358
+}

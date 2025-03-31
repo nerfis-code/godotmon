@@ -1,0 +1,459 @@
+{
+    "generation": 8,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            5,
+            "LEER"
+        ],
+        [
+            10,
+            "POWERTRIP"
+        ],
+        [
+            15,
+            "QUICKATTACK"
+        ],
+        [
+            20,
+            "FLATTER"
+        ],
+        [
+            25,
+            "BITE"
+        ],
+        [
+            30,
+            "SPARK"
+        ],
+        [
+            35,
+            "TORMENT"
+        ],
+        [
+            40,
+            "AGILITY"
+        ],
+        [
+            45,
+            "BULLETSEED"
+        ],
+        [
+            50,
+            "CRUNCH"
+        ],
+        [
+            55,
+            "AURAWHEEL"
+        ],
+        [
+            60,
+            "THRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ASSURANCE",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREFANG",
+        "FLING",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "ICEFANG",
+        "LASHOUT",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "RISINGVOLTAGE",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UPROAR",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "CHARGE",
+        "FAKEOUT",
+        "PARTINGSHOT",
+        "QUASH",
+        "RAPIDSPIN",
+        "SUPERFANG",
+        "SWAGGER",
+        "TICKLE"
+    ],
+    "height": 0.3,
+    "weight": 3.0,
+    "abilities": [
+        "HUNGERSWITCH"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 436,
+    "baseStats": [
+        58,
+        95,
+        58,
+        97,
+        70,
+        58
+    ],
+    "flags": [],
+    "name": "Morpeko",
+    "species": "MORPEKO",
+    "catchRate": 180,
+    "happiness": 50,
+    "baseExp": 153,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "DARK",
+            "moves": [
+                [
+                    1,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    5,
+                    "LEER"
+                ],
+                [
+                    10,
+                    "POWERTRIP"
+                ],
+                [
+                    15,
+                    "QUICKATTACK"
+                ],
+                [
+                    20,
+                    "FLATTER"
+                ],
+                [
+                    25,
+                    "BITE"
+                ],
+                [
+                    30,
+                    "SPARK"
+                ],
+                [
+                    35,
+                    "TORMENT"
+                ],
+                [
+                    40,
+                    "AGILITY"
+                ],
+                [
+                    45,
+                    "BULLETSEED"
+                ],
+                [
+                    50,
+                    "CRUNCH"
+                ],
+                [
+                    55,
+                    "AURAWHEEL"
+                ],
+                [
+                    60,
+                    "THRASH"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ASSURANCE",
+                "ATTRACT",
+                "BRICKBREAK",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "ELECTRICTERRAIN",
+                "ELECTROBALL",
+                "ELECTROWEB",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FIREFANG",
+                "FLING",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "HIDDENPOWER",
+                "ICEFANG",
+                "LASHOUT",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "RISINGVOLTAGE",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERFANG",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "TOXIC",
+                "UPROAR",
+                "VOLTSWITCH",
+                "WILDCHARGE"
+            ],
+            "eggMoves": [
+                "CHARGE",
+                "FAKEOUT",
+                "PARTINGSHOT",
+                "QUASH",
+                "RAPIDSPIN",
+                "SUPERFANG",
+                "SWAGGER",
+                "TICKLE"
+            ],
+            "height": 0.3,
+            "weight": 3.0,
+            "abilities": [
+                "HUNGERSWITCH"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 436,
+            "baseStats": [
+                58,
+                95,
+                58,
+                97,
+                70,
+                58
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Saciada"
+        },
+        {
+            "generation": 8,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "DARK",
+            "moves": [
+                [
+                    1,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    5,
+                    "LEER"
+                ],
+                [
+                    10,
+                    "POWERTRIP"
+                ],
+                [
+                    15,
+                    "QUICKATTACK"
+                ],
+                [
+                    20,
+                    "FLATTER"
+                ],
+                [
+                    25,
+                    "BITE"
+                ],
+                [
+                    30,
+                    "SPARK"
+                ],
+                [
+                    35,
+                    "TORMENT"
+                ],
+                [
+                    40,
+                    "AGILITY"
+                ],
+                [
+                    45,
+                    "BULLETSEED"
+                ],
+                [
+                    50,
+                    "CRUNCH"
+                ],
+                [
+                    55,
+                    "AURAWHEEL"
+                ],
+                [
+                    60,
+                    "THRASH"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ASSURANCE",
+                "ATTRACT",
+                "BRICKBREAK",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "ELECTRICTERRAIN",
+                "ELECTROBALL",
+                "ELECTROWEB",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FIREFANG",
+                "FLING",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "HIDDENPOWER",
+                "ICEFANG",
+                "LASHOUT",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "RISINGVOLTAGE",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERFANG",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "TOXIC",
+                "UPROAR",
+                "VOLTSWITCH",
+                "WILDCHARGE"
+            ],
+            "eggMoves": [
+                "CHARGE",
+                "FAKEOUT",
+                "PARTINGSHOT",
+                "QUASH",
+                "RAPIDSPIN",
+                "SUPERFANG",
+                "SWAGGER",
+                "TICKLE"
+            ],
+            "height": 0.3,
+            "weight": 3.0,
+            "abilities": [
+                "HUNGERSWITCH"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 436,
+            "baseStats": [
+                58,
+                95,
+                58,
+                97,
+                70,
+                58
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Voraz"
+        }
+    ],
+    "internationalPokedex": 877
+}

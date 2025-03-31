@@ -1,0 +1,45 @@
+{
+    "generation": 2,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SKETCH"
+        ]
+    ],
+    "tutorMoves": [],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 58.0,
+    "abilities": [
+        "OWNTEMPO",
+        "TECHNICIAN"
+    ],
+    "hiddenAbilitie": [
+        "MOODY"
+    ],
+    "baseTotal": 250,
+    "baseStats": [
+        55,
+        20,
+        35,
+        75,
+        20,
+        45
+    ],
+    "flags": [],
+    "name": "Smeargle",
+    "species": "SMEARGLE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 88,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 235
+}

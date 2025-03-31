@@ -1,0 +1,169 @@
+{
+    "generation": 5,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "PLAYNICE"
+        ],
+        [
+            1,
+            "TICKLE"
+        ],
+        [
+            12,
+            "PSYBEAM"
+        ],
+        [
+            16,
+            "CHARM"
+        ],
+        [
+            20,
+            "PSYSHOCK"
+        ],
+        [
+            24,
+            "HYPNOSIS"
+        ],
+        [
+            28,
+            "FAKETEARS"
+        ],
+        [
+            35,
+            "PSYCHUP"
+        ],
+        [
+            40,
+            "PSYCHIC"
+        ],
+        [
+            46,
+            "FLATTER"
+        ],
+        [
+            52,
+            "FUTURESIGHT"
+        ],
+        [
+            58,
+            "MAGICROOM"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FAKETEARS",
+        "FLASH",
+        "FLING",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 18.0,
+    "abilities": [
+        "FRISK",
+        "COMPETITIVE"
+    ],
+    "hiddenAbilitie": [
+        "SHADOWTAG"
+    ],
+    "baseTotal": 390,
+    "baseStats": [
+        60,
+        45,
+        70,
+        55,
+        75,
+        85
+    ],
+    "flags": [],
+    "name": "Gothorita",
+    "species": "GOTHORITA",
+    "catchRate": 100,
+    "happiness": 50,
+    "baseExp": 137,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 575
+}

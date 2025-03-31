@@ -1,0 +1,144 @@
+{
+    "generation": 7,
+    "primaryType": "GROUND",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "ROCKSMASH"
+        ],
+        [
+            1,
+            "IRONDEFENSE"
+        ],
+        [
+            1,
+            "DOUBLEKICK"
+        ],
+        [
+            12,
+            "BULLDOZE"
+        ],
+        [
+            16,
+            "STOMP"
+        ],
+        [
+            20,
+            "STRENGTH"
+        ],
+        [
+            24,
+            "COUNTER"
+        ],
+        [
+            28,
+            "HIGHHORSEPOWER"
+        ],
+        [
+            34,
+            "HEAVYSLAM"
+        ],
+        [
+            40,
+            "EARTHQUAKE"
+        ],
+        [
+            46,
+            "MEGAKICK"
+        ],
+        [
+            52,
+            "SUPERPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TOXIC"
+    ],
+    "eggMoves": [],
+    "height": 2.5,
+    "weight": 920.0,
+    "abilities": [
+        "OWNTEMPO",
+        "STAMINA"
+    ],
+    "hiddenAbilitie": [
+        "INNERFOCUS"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        100,
+        125,
+        100,
+        35,
+        55,
+        85
+    ],
+    "flags": [],
+    "name": "Mudsdale",
+    "species": "MUDSDALE",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 750
+}

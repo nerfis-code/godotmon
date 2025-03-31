@@ -1,0 +1,158 @@
+{
+    "generation": 4,
+    "primaryType": "STEEL",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            4,
+            "CONFUSERAY"
+        ],
+        [
+            8,
+            "PAYBACK"
+        ],
+        [
+            12,
+            "IMPRISON"
+        ],
+        [
+            16,
+            "GYROBALL"
+        ],
+        [
+            20,
+            "HYPNOSIS"
+        ],
+        [
+            24,
+            "SAFEGUARD"
+        ],
+        [
+            28,
+            "EXTRASENSORY"
+        ],
+        [
+            32,
+            "HEAVYSLAM"
+        ],
+        [
+            36,
+            "IRONDEFENSE"
+        ],
+        [
+            40,
+            "METALSOUND"
+        ],
+        [
+            44,
+            "FUTURESIGHT"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ANCIENTPOWER",
+        "BULLDOZE",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "GYROBALL",
+        "HEAVYSLAM",
+        "HEX",
+        "HIDDENPOWER",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPEEDSWAP",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STEELROLLER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "TRICK",
+        "TRICKROOM",
+        "WONDERROOM"
+    ],
+    "eggMoves": [],
+    "height": 0.5,
+    "weight": 60.5,
+    "abilities": [
+        "LEVITATE",
+        "HEATPROOF"
+    ],
+    "hiddenAbilitie": [
+        "HEAVYMETAL"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        57,
+        24,
+        86,
+        23,
+        24,
+        86
+    ],
+    "flags": [],
+    "name": "Bronzor",
+    "species": "BRONZOR",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 436
+}

@@ -1,0 +1,140 @@
+{
+    "generation": 5,
+    "primaryType": "ICE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "TAUNT"
+        ],
+        [
+            1,
+            "MIST"
+        ],
+        [
+            12,
+            "ICYWIND"
+        ],
+        [
+            16,
+            "AVALANCHE"
+        ],
+        [
+            20,
+            "HAIL"
+        ],
+        [
+            24,
+            "ICICLESPEAR"
+        ],
+        [
+            28,
+            "UPROAR"
+        ],
+        [
+            32,
+            "ACIDARMOR"
+        ],
+        [
+            38,
+            "MIRRORCOAT"
+        ],
+        [
+            44,
+            "ICEBEAM"
+        ],
+        [
+            50,
+            "BLIZZARD"
+        ],
+        [
+            56,
+            "SHEERCOLD"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASHCANNON",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TAUNT",
+        "TOXIC",
+        "UPROAR",
+        "WATERPULSE"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 41.0,
+    "abilities": [
+        "ICEBODY",
+        "SNOWCLOAK"
+    ],
+    "hiddenAbilitie": [
+        "WEAKARMOR"
+    ],
+    "baseTotal": 395,
+    "baseStats": [
+        51,
+        65,
+        65,
+        59,
+        80,
+        75
+    ],
+    "flags": [],
+    "name": "Vanillish",
+    "species": "VANILLISH",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 138,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 583
+}

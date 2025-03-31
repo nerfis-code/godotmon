@@ -1,0 +1,162 @@
+{
+    "generation": 5,
+    "primaryType": "WATER",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            4,
+            "POISONSTING"
+        ],
+        [
+            8,
+            "NIGHTSHADE"
+        ],
+        [
+            12,
+            "WATERPULSE"
+        ],
+        [
+            16,
+            "RAINDANCE"
+        ],
+        [
+            20,
+            "HEX"
+        ],
+        [
+            24,
+            "BRINE"
+        ],
+        [
+            28,
+            "RECOVER"
+        ],
+        [
+            32,
+            "SHADOWBALL"
+        ],
+        [
+            36,
+            "WHIRLPOOL"
+        ],
+        [
+            41,
+            "HYDROPUMP"
+        ],
+        [
+            44,
+            "DESTINYBOND"
+        ],
+        [
+            48,
+            "WATERSPOUT"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BIND",
+        "BLIZZARD",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DAZZLINGGLEAM",
+        "DIVE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "HAIL",
+        "HEX",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "IMPRISON",
+        "MAGICCOAT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TAUNT",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WILLOWISP"
+    ],
+    "eggMoves": [
+        "ACIDARMOR",
+        "BUBBLEBEAM",
+        "CONFUSERAY",
+        "MIST",
+        "PAINSPLIT",
+        "STRENGTHSAP"
+    ],
+    "height": 1.2,
+    "weight": 33.0,
+    "abilities": [
+        "WATERABSORB",
+        "CURSEDBODY"
+    ],
+    "hiddenAbilitie": [
+        "DAMP"
+    ],
+    "baseTotal": 335,
+    "baseStats": [
+        55,
+        40,
+        50,
+        40,
+        65,
+        85
+    ],
+    "flags": [],
+    "name": "Frillish",
+    "species": "FRILLISH",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 67,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 592
+}

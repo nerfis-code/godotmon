@@ -1,0 +1,136 @@
+{
+    "generation": 9,
+    "primaryType": "GRASS",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            -1,
+            "INFESTATION"
+        ],
+        [
+            -1,
+            "DOUBLEHIT"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            1,
+            "RECYCLE"
+        ],
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            4,
+            "DRAGONTAIL"
+        ],
+        [
+            8,
+            "GROWTH"
+        ],
+        [
+            12,
+            "DRAGONBREATH"
+        ],
+        [
+            16,
+            "PROTECT"
+        ],
+        [
+            20,
+            "BULLETSEED"
+        ],
+        [
+            28,
+            "SYRUPBOMB"
+        ],
+        [
+            32,
+            "DRAGONPULSE"
+        ],
+        [
+            36,
+            "RECOVER"
+        ],
+        [
+            40,
+            "ENERGYBALL"
+        ],
+        [
+            44,
+            "SUBSTITUTE"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYSLAM",
+        "BUGBITE",
+        "BULLETSEED",
+        "DRACOMETEOR",
+        "DRAGONCHEER",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "GYROBALL",
+        "HYPERBEAM",
+        "LEAFSTORM",
+        "OUTRAGE",
+        "POLLENPUFF",
+        "POUNCE",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN"
+    ],
+    "eggMoves": [],
+    "height": 0.4,
+    "weight": 4.4,
+    "abilities": [
+        "SUPERSWEETSYRUP",
+        "GLUTTONY"
+    ],
+    "hiddenAbilitie": [
+        "STICKYHOLD"
+    ],
+    "baseTotal": 495,
+    "baseStats": [
+        80,
+        80,
+        110,
+        40,
+        95,
+        90
+    ],
+    "flags": [],
+    "name": "Dipplin",
+    "species": "DIPPLIN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 1011
+}

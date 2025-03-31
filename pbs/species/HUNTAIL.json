@@ -1,0 +1,160 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "IRONDEFENSE"
+        ],
+        [
+            1,
+            "SHELLSMASH"
+        ],
+        [
+            1,
+            "WHIRLPOOL"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            5,
+            "SCREECH"
+        ],
+        [
+            9,
+            "SCARYFACE"
+        ],
+        [
+            11,
+            "RAINDANCE"
+        ],
+        [
+            14,
+            "WATERPULSE"
+        ],
+        [
+            16,
+            "ICEFANG"
+        ],
+        [
+            19,
+            "BRINE"
+        ],
+        [
+            23,
+            "SUCKERPUNCH"
+        ],
+        [
+            26,
+            "DIVE"
+        ],
+        [
+            29,
+            "BATONPASS"
+        ],
+        [
+            34,
+            "CRUNCH"
+        ],
+        [
+            39,
+            "AQUATAIL"
+        ],
+        [
+            45,
+            "COIL"
+        ],
+        [
+            50,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BIND",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "INFESTATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUPERFANG",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 27.0,
+    "abilities": [
+        "SWIFTSWIM"
+    ],
+    "hiddenAbilitie": [
+        "WATERVEIL"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        55,
+        104,
+        105,
+        52,
+        94,
+        75
+    ],
+    "flags": [],
+    "name": "Huntail",
+    "species": "HUNTAIL",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "ATTACK",
+        1,
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 367
+}

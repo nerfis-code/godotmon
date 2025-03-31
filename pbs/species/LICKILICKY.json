@@ -1,0 +1,183 @@
+{
+    "generation": 4,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "LICK"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "ROLLOUT"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            18,
+            "WRAP"
+        ],
+        [
+            24,
+            "DISABLE"
+        ],
+        [
+            30,
+            "STOMP"
+        ],
+        [
+            36,
+            "KNOCKOFF"
+        ],
+        [
+            42,
+            "SCREECH"
+        ],
+        [
+            48,
+            "SLAM"
+        ],
+        [
+            54,
+            "POWERWHIP"
+        ],
+        [
+            60,
+            "BELLYDRUM"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "AQUATAIL",
+        "ATTRACT",
+        "BIND",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONTAIL",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "POWERWHIP",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELROLLER",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TERRAINPULSE",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 140.0,
+    "abilities": [
+        "OWNTEMPO",
+        "OBLIVIOUS"
+    ],
+    "hiddenAbilitie": [
+        "CLOUDNINE"
+    ],
+    "baseTotal": 515,
+    "baseStats": [
+        110,
+        85,
+        95,
+        50,
+        80,
+        95
+    ],
+    "flags": [],
+    "name": "Lickilicky",
+    "species": "LICKILICKY",
+    "catchRate": 30,
+    "happiness": 50,
+    "baseExp": 180,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 463
+}

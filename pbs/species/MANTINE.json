@@ -1,0 +1,188 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "PSYBEAM"
+        ],
+        [
+            1,
+            "BULLETSEED"
+        ],
+        [
+            1,
+            "ROOST"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            1,
+            "WINGATTACK"
+        ],
+        [
+            12,
+            "WATERPULSE"
+        ],
+        [
+            16,
+            "WIDEGUARD"
+        ],
+        [
+            20,
+            "AGILITY"
+        ],
+        [
+            24,
+            "BUBBLEBEAM"
+        ],
+        [
+            28,
+            "HEADBUTT"
+        ],
+        [
+            32,
+            "AIRSLASH"
+        ],
+        [
+            36,
+            "AQUARING"
+        ],
+        [
+            40,
+            "BOUNCE"
+        ],
+        [
+            44,
+            "TAKEDOWN"
+        ],
+        [
+            48,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "AMNESIA",
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRINE",
+        "BULLDOZE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HAIL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONHEAD",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STRINGSHOT",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "CONFUSERAY",
+        "HAZE",
+        "HYDROPUMP",
+        "MIRRORCOAT",
+        "SLAM",
+        "SPLASH",
+        "TAILWIND",
+        "TWISTER",
+        "WIDEGUARD"
+    ],
+    "height": 2.1,
+    "weight": 220.0,
+    "abilities": [
+        "SWIFTSWIM",
+        "WATERABSORB"
+    ],
+    "hiddenAbilitie": [
+        "WATERVEIL"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        85,
+        40,
+        70,
+        70,
+        80,
+        140
+    ],
+    "flags": [],
+    "name": "Mantine",
+    "species": "MANTINE",
+    "catchRate": 25,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 226
+}

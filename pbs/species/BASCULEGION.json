@@ -1,0 +1,459 @@
+{
+    "generation": 8,
+    "primaryType": "WATER",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            1,
+            "PHANTOMFORCE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "SHADOWBALL"
+        ],
+        [
+            4,
+            "TACKLE"
+        ],
+        [
+            8,
+            "FLAIL"
+        ],
+        [
+            12,
+            "AQUAJET"
+        ],
+        [
+            16,
+            "BITE"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            24,
+            "HEADBUTT"
+        ],
+        [
+            28,
+            "SOAK"
+        ],
+        [
+            32,
+            "CRUNCH"
+        ],
+        [
+            36,
+            "TAKEDOWN"
+        ],
+        [
+            40,
+            "UPROAR"
+        ],
+        [
+            44,
+            "WAVECRASH"
+        ],
+        [
+            48,
+            "THRASH"
+        ],
+        [
+            52,
+            "DOUBLEEDGE"
+        ],
+        [
+            56,
+            "HEADSMASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "BLIZZARD",
+        "CHILLINGWATER",
+        "CONFUSERAY",
+        "CRUNCH",
+        "DOUBLEEDGE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLIPTURN",
+        "GIGAIMPACT",
+        "HEX",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICYWIND",
+        "LIQUIDATION",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NIGHTSHADE",
+        "OUTRAGE",
+        "PAINSPLIT",
+        "PHANTOMFORCE",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNOWSCAPE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWIFT",
+        "TAKEDOWN",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 3.0,
+    "weight": 110.0,
+    "abilities": [
+        "SWIFTSWIM",
+        "ADAPTABILITY"
+    ],
+    "hiddenAbilitie": [
+        "MOLDBREAKER"
+    ],
+    "baseTotal": 530,
+    "baseStats": [
+        120,
+        112,
+        65,
+        78,
+        80,
+        75
+    ],
+    "flags": [
+        "DefaultForm_2",
+        "InheritFormWithEverStone"
+    ],
+    "name": "Basculegion",
+    "species": "BASCULEGION",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 265,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 100,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "WATER",
+            "secondaryType": "GHOST",
+            "moves": [
+                [
+                    1,
+                    "PHANTOMFORCE"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "SHADOWBALL"
+                ],
+                [
+                    4,
+                    "TACKLE"
+                ],
+                [
+                    8,
+                    "FLAIL"
+                ],
+                [
+                    12,
+                    "AQUAJET"
+                ],
+                [
+                    16,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "SCARYFACE"
+                ],
+                [
+                    24,
+                    "HEADBUTT"
+                ],
+                [
+                    28,
+                    "SOAK"
+                ],
+                [
+                    32,
+                    "CRUNCH"
+                ],
+                [
+                    36,
+                    "TAKEDOWN"
+                ],
+                [
+                    40,
+                    "UPROAR"
+                ],
+                [
+                    44,
+                    "WAVECRASH"
+                ],
+                [
+                    48,
+                    "THRASH"
+                ],
+                [
+                    52,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    56,
+                    "HEADSMASH"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "BLIZZARD",
+                "CHILLINGWATER",
+                "CONFUSERAY",
+                "CRUNCH",
+                "DOUBLEEDGE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLIPTURN",
+                "GIGAIMPACT",
+                "HEX",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICEFANG",
+                "ICYWIND",
+                "LIQUIDATION",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "NIGHTSHADE",
+                "OUTRAGE",
+                "PAINSPLIT",
+                "PHANTOMFORCE",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "RAINDANCE",
+                "REST",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNOWSCAPE",
+                "SPITE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWIFT",
+                "TAKEDOWN",
+                "UPROAR",
+                "WATERFALL",
+                "WATERPULSE",
+                "WHIRLPOOL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 3.0,
+            "weight": 110.0,
+            "abilities": [
+                "SWIFTSWIM",
+                "ADAPTABILITY"
+            ],
+            "hiddenAbilitie": [
+                "MOLDBREAKER"
+            ],
+            "baseTotal": 530,
+            "baseStats": [
+                120,
+                112,
+                65,
+                78,
+                80,
+                75
+            ],
+            "flags": [
+                "DefaultForm_2",
+                "InheritFormWithEverStone"
+            ],
+            "form": 0,
+            "formName": "Forma Macho"
+        },
+        {
+            "generation": 8,
+            "primaryType": "WATER",
+            "secondaryType": "GHOST",
+            "moves": [
+                [
+                    1,
+                    "PHANTOMFORCE"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "SHADOWBALL"
+                ],
+                [
+                    4,
+                    "TACKLE"
+                ],
+                [
+                    8,
+                    "FLAIL"
+                ],
+                [
+                    12,
+                    "AQUAJET"
+                ],
+                [
+                    16,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "SCARYFACE"
+                ],
+                [
+                    24,
+                    "HEADBUTT"
+                ],
+                [
+                    28,
+                    "SOAK"
+                ],
+                [
+                    32,
+                    "CRUNCH"
+                ],
+                [
+                    36,
+                    "TAKEDOWN"
+                ],
+                [
+                    40,
+                    "UPROAR"
+                ],
+                [
+                    44,
+                    "WAVECRASH"
+                ],
+                [
+                    48,
+                    "THRASH"
+                ],
+                [
+                    52,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    56,
+                    "HEADSMASH"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "BLIZZARD",
+                "CHILLINGWATER",
+                "CONFUSERAY",
+                "CRUNCH",
+                "DOUBLEEDGE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLIPTURN",
+                "GIGAIMPACT",
+                "HEX",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICEFANG",
+                "ICYWIND",
+                "LIQUIDATION",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "NIGHTSHADE",
+                "OUTRAGE",
+                "PAINSPLIT",
+                "PHANTOMFORCE",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "RAINDANCE",
+                "REST",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNOWSCAPE",
+                "SPITE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWIFT",
+                "TAKEDOWN",
+                "UPROAR",
+                "WATERFALL",
+                "WATERPULSE",
+                "WHIRLPOOL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 3.0,
+            "weight": 110.0,
+            "abilities": [
+                "SWIFTSWIM",
+                "ADAPTABILITY"
+            ],
+            "hiddenAbilitie": [
+                "MOLDBREAKER"
+            ],
+            "baseTotal": 530,
+            "baseStats": [
+                120,
+                92,
+                65,
+                78,
+                100,
+                75
+            ],
+            "flags": [
+                "DefaultForm_2",
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Hembra"
+        }
+    ],
+    "internationalPokedex": 902
+}

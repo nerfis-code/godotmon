@@ -1,0 +1,138 @@
+{
+    "generation": 4,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            -1,
+            "CLOSECOMBAT"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "WINGATTACK"
+        ],
+        [
+            13,
+            "DOUBLETEAM"
+        ],
+        [
+            18,
+            "ENDEAVOR"
+        ],
+        [
+            23,
+            "WHIRLWIND"
+        ],
+        [
+            28,
+            "AERIALACE"
+        ],
+        [
+            33,
+            "TAKEDOWN"
+        ],
+        [
+            41,
+            "AGILITY"
+        ],
+        [
+            49,
+            "BRAVEBIRD"
+        ],
+        [
+            57,
+            "FINALGAMBIT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LASERFOCUS",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TWISTER",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 24.9,
+    "abilities": [
+        "INTIMIDATE"
+    ],
+    "hiddenAbilitie": [
+        "RECKLESS"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        85,
+        120,
+        70,
+        100,
+        50,
+        60
+    ],
+    "flags": [],
+    "name": "Staraptor",
+    "species": "STARAPTOR",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 243,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 398
+}

@@ -1,0 +1,172 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            3,
+            "WATERGUN"
+        ],
+        [
+            6,
+            "ROCKSMASH"
+        ],
+        [
+            9,
+            "ROCKTHROW"
+        ],
+        [
+            12,
+            "PROTECT"
+        ],
+        [
+            15,
+            "SUPERSONIC"
+        ],
+        [
+            18,
+            "WATERPULSE"
+        ],
+        [
+            21,
+            "ROCKSLIDE"
+        ],
+        [
+            24,
+            "TAKEDOWN"
+        ],
+        [
+            27,
+            "AMNESIA"
+        ],
+        [
+            30,
+            "SURF"
+        ],
+        [
+            33,
+            "SCREECH"
+        ],
+        [
+            36,
+            "ENDEAVOR"
+        ],
+        [
+            39,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "LOWKICK",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEWAVE",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "BITE",
+        "COUNTER",
+        "CURSE",
+        "DOUBLEEDGE",
+        "MIRRORCOAT",
+        "MUDSLAP",
+        "SLUDGE",
+        "STOMP",
+        "UPROAR",
+        "WHIRLPOOL",
+        "WIDEGUARD",
+        "YAWN"
+    ],
+    "height": 0.4,
+    "weight": 7.6,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "DAMP"
+    ],
+    "baseTotal": 310,
+    "baseStats": [
+        50,
+        70,
+        50,
+        40,
+        50,
+        50
+    ],
+    "flags": [],
+    "name": "Mudkip",
+    "species": "MUDKIP",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 258
+}

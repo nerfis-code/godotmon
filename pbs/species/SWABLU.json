@@ -1,0 +1,159 @@
+{
+    "generation": 3,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "DISARMINGVOICE"
+        ],
+        [
+            8,
+            "MIST"
+        ],
+        [
+            12,
+            "FURYATTACK"
+        ],
+        [
+            16,
+            "ROUND"
+        ],
+        [
+            20,
+            "DRAGONBREATH"
+        ],
+        [
+            24,
+            "SAFEGUARD"
+        ],
+        [
+            28,
+            "SING"
+        ],
+        [
+            32,
+            "COTTONGUARD"
+        ],
+        [
+            36,
+            "TAKEDOWN"
+        ],
+        [
+            40,
+            "MOONBLAST"
+        ],
+        [
+            44,
+            "PERISHSONG"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLY",
+        "FRUSTRATION",
+        "HEALBELL",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "OUTRAGE",
+        "PLAYROUGH",
+        "PLUCK",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TWISTER",
+        "UPROAR"
+    ],
+    "eggMoves": [
+        "AGILITY",
+        "ASTONISH",
+        "DEFOG",
+        "DRAGONRUSH",
+        "FEATHERDANCE",
+        "HAZE",
+        "HYPERVOICE",
+        "PLAYROUGH",
+        "POWERSWAP",
+        "ROOST",
+        "TAILWIND"
+    ],
+    "height": 0.4,
+    "weight": 1.2,
+    "abilities": [
+        "NATURALCURE"
+    ],
+    "hiddenAbilitie": [
+        "CLOUDNINE"
+    ],
+    "baseTotal": 310,
+    "baseStats": [
+        45,
+        40,
+        60,
+        50,
+        40,
+        75
+    ],
+    "flags": [],
+    "name": "Swablu",
+    "species": "SWABLU",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 333
+}

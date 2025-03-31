@@ -1,0 +1,159 @@
+{
+    "generation": 9,
+    "primaryType": "BUG",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            -1,
+            "SUNNYDAY"
+        ],
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "BUGBITE"
+        ],
+        [
+            7,
+            "STUNSPORE"
+        ],
+        [
+            7,
+            "POISONPOWDER"
+        ],
+        [
+            14,
+            "FLAMECHARGE"
+        ],
+        [
+            21,
+            "STOMP"
+        ],
+        [
+            28,
+            "LOWSWEEP"
+        ],
+        [
+            35,
+            "MORNINGSUN"
+        ],
+        [
+            42,
+            "LUNGE"
+        ],
+        [
+            49,
+            "SUPERPOWER"
+        ],
+        [
+            56,
+            "BULKUP"
+        ],
+        [
+            63,
+            "DUALWINGBEAT"
+        ],
+        [
+            70,
+            "FIRSTIMPRESSION"
+        ],
+        [
+            77,
+            "WHIRLWIND"
+        ],
+        [
+            84,
+            "LEECHLIFE"
+        ],
+        [
+            91,
+            "THRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BUGBITE",
+        "BUGBUZZ",
+        "BULKUP",
+        "CLOSECOMBAT",
+        "CURSE",
+        "DOUBLEEDGE",
+        "DUALWINGBEAT",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLAMECHARGE",
+        "FLAREBLITZ",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HEATCRASH",
+        "HEATWAVE",
+        "HEAVYSLAM",
+        "HIGHHORSEPOWER",
+        "HURRICANE",
+        "HYPERBEAM",
+        "LEECHLIFE",
+        "LOWKICK",
+        "LOWSWEEP",
+        "LUNGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "REVERSAL",
+        "SANDSTORM",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "TEMPERFLARE",
+        "TRAILBLAZE",
+        "UTURN",
+        "WILDCHARGE",
+        "WILLOWISP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 3.2,
+    "weight": 92.0,
+    "abilities": [
+        "PROTOSYNTHESIS"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        85,
+        135,
+        79,
+        81,
+        85,
+        105
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Reptalada",
+    "species": "SLITHERWING",
+    "catchRate": 30,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 988
+}

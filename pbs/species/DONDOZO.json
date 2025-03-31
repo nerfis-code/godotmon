@@ -1,0 +1,146 @@
+{
+    "generation": 9,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            5,
+            "TICKLE"
+        ],
+        [
+            10,
+            "FLAIL"
+        ],
+        [
+            15,
+            "REST"
+        ],
+        [
+            15,
+            "SLEEPTALK"
+        ],
+        [
+            20,
+            "DIVE"
+        ],
+        [
+            25,
+            "NOBLEROAR"
+        ],
+        [
+            30,
+            "SOAK"
+        ],
+        [
+            35,
+            "BODYSLAM"
+        ],
+        [
+            40,
+            "AQUATAIL"
+        ],
+        [
+            45,
+            "RAINDANCE"
+        ],
+        [
+            50,
+            "ORDERUP"
+        ],
+        [
+            55,
+            "HEAVYSLAM"
+        ],
+        [
+            60,
+            "DOUBLEEDGE"
+        ],
+        [
+            65,
+            "WAVECRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AVALANCHE",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CHILLINGWATER",
+        "CRUNCH",
+        "CURSE",
+        "DOUBLEEDGE",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "GIGAIMPACT",
+        "HEAVYSLAM",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEFANG",
+        "LIQUIDATION",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "ROCKSLIDE",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SURF",
+        "TAKEDOWN",
+        "WATERFALL",
+        "WATERPULSE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "CURSE",
+        "FISSURE",
+        "THRASH",
+        "YAWN"
+    ],
+    "height": 12.0,
+    "weight": 220.0,
+    "abilities": [
+        "UNAWARE",
+        "OBLIVIOUS"
+    ],
+    "hiddenAbilitie": [
+        "WATERVEIL"
+    ],
+    "baseTotal": 530,
+    "baseStats": [
+        150,
+        100,
+        115,
+        35,
+        65,
+        65
+    ],
+    "flags": [],
+    "name": "Dondozo",
+    "species": "DONDOZO",
+    "catchRate": 25,
+    "happiness": 50,
+    "baseExp": 265,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 977
+}

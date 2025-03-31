@@ -1,0 +1,537 @@
+{
+    "generation": 5,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            5,
+            "LEER"
+        ],
+        [
+            10,
+            "SWAGGER"
+        ],
+        [
+            15,
+            "BITE"
+        ],
+        [
+            20,
+            "SHOCKWAVE"
+        ],
+        [
+            25,
+            "AGILITY"
+        ],
+        [
+            30,
+            "CHARGE"
+        ],
+        [
+            35,
+            "VOLTSWITCH"
+        ],
+        [
+            40,
+            "CRUNCH"
+        ],
+        [
+            45,
+            "DISCHARGE"
+        ],
+        [
+            50,
+            "UPROAR"
+        ],
+        [
+            55,
+            "HAMMERARM"
+        ],
+        [
+            60,
+            "RAINDANCE"
+        ],
+        [
+            65,
+            "THUNDER"
+        ],
+        [
+            70,
+            "THRASH"
+        ],
+        [
+            75,
+            "WILDBOLTSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "EERIEIMPULSE",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FLING",
+        "FLY",
+        "FOCUSBLAST",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASHOUT",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "RISINGVOLTAGE",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SMARTSTRIKE",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "VOLTSWITCH",
+        "WEATHERBALL",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 61.0,
+    "abilities": [
+        "PRANKSTER"
+    ],
+    "hiddenAbilitie": [
+        "DEFIANT"
+    ],
+    "baseTotal": 580,
+    "baseStats": [
+        79,
+        115,
+        70,
+        111,
+        125,
+        80
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Thundurus",
+    "species": "THUNDURUS",
+    "catchRate": 3,
+    "happiness": 90,
+    "baseExp": 290,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 0,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    5,
+                    "LEER"
+                ],
+                [
+                    10,
+                    "SWAGGER"
+                ],
+                [
+                    15,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "SHOCKWAVE"
+                ],
+                [
+                    25,
+                    "AGILITY"
+                ],
+                [
+                    30,
+                    "CHARGE"
+                ],
+                [
+                    35,
+                    "VOLTSWITCH"
+                ],
+                [
+                    40,
+                    "CRUNCH"
+                ],
+                [
+                    45,
+                    "DISCHARGE"
+                ],
+                [
+                    50,
+                    "UPROAR"
+                ],
+                [
+                    55,
+                    "HAMMERARM"
+                ],
+                [
+                    60,
+                    "RAINDANCE"
+                ],
+                [
+                    65,
+                    "THUNDER"
+                ],
+                [
+                    70,
+                    "THRASH"
+                ],
+                [
+                    75,
+                    "WILDBOLTSTORM"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULKUP",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "CRUNCH",
+                "DARKPULSE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "EERIEIMPULSE",
+                "ELECTROBALL",
+                "ELECTROWEB",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FLING",
+                "FLY",
+                "FOCUSBLAST",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INCINERATE",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LASHOUT",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "RISINGVOLTAGE",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SKYDROP",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SMACKDOWN",
+                "SMARTSTRIKE",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SWAGGER",
+                "TAUNT",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "TORMENT",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "VOLTSWITCH",
+                "WEATHERBALL",
+                "WILDCHARGE"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 61.0,
+            "abilities": [
+                "PRANKSTER"
+            ],
+            "hiddenAbilitie": [
+                "DEFIANT"
+            ],
+            "baseTotal": 580,
+            "baseStats": [
+                79,
+                115,
+                70,
+                111,
+                125,
+                80
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 0,
+            "formName": "Forma Avatar"
+        },
+        {
+            "generation": 5,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    5,
+                    "LEER"
+                ],
+                [
+                    10,
+                    "SWAGGER"
+                ],
+                [
+                    15,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "SHOCKWAVE"
+                ],
+                [
+                    25,
+                    "AGILITY"
+                ],
+                [
+                    30,
+                    "CHARGE"
+                ],
+                [
+                    35,
+                    "VOLTSWITCH"
+                ],
+                [
+                    40,
+                    "CRUNCH"
+                ],
+                [
+                    45,
+                    "DISCHARGE"
+                ],
+                [
+                    50,
+                    "UPROAR"
+                ],
+                [
+                    55,
+                    "HAMMERARM"
+                ],
+                [
+                    60,
+                    "RAINDANCE"
+                ],
+                [
+                    65,
+                    "THUNDER"
+                ],
+                [
+                    70,
+                    "THRASH"
+                ],
+                [
+                    75,
+                    "WILDBOLTSTORM"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULKUP",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "CRUNCH",
+                "DARKPULSE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "EERIEIMPULSE",
+                "ELECTROBALL",
+                "ELECTROWEB",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FLING",
+                "FLY",
+                "FOCUSBLAST",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INCINERATE",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LASHOUT",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "RISINGVOLTAGE",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SKYDROP",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SMACKDOWN",
+                "SMARTSTRIKE",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SWAGGER",
+                "TAUNT",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "TORMENT",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "VOLTSWITCH",
+                "WEATHERBALL",
+                "WILDCHARGE"
+            ],
+            "eggMoves": [],
+            "height": 3.0,
+            "weight": 61.0,
+            "abilities": [
+                "VOLTABSORB"
+            ],
+            "hiddenAbilitie": [
+                "VOLTABSORB"
+            ],
+            "baseTotal": 580,
+            "baseStats": [
+                79,
+                105,
+                70,
+                101,
+                145,
+                80
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 1,
+            "formName": "Forma Tótem"
+        }
+    ],
+    "internationalPokedex": 642
+}

@@ -1,0 +1,149 @@
+{
+    "generation": 9,
+    "primaryType": "POISON",
+    "secondaryType": "NORMAL",
+    "moves": [
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            5,
+            "ACIDSPRAY"
+        ],
+        [
+            8,
+            "BITE"
+        ],
+        [
+            8,
+            "FURYSWIPES"
+        ],
+        [
+            11,
+            "SWITCHEROO"
+        ],
+        [
+            14,
+            "POISONFANG"
+        ],
+        [
+            18,
+            "FLATTER"
+        ],
+        [
+            21,
+            "SLASH"
+        ],
+        [
+            25,
+            "UTURN"
+        ],
+        [
+            29,
+            "POISONJAB"
+        ],
+        [
+            33,
+            "TAUNT"
+        ],
+        [
+            36,
+            "SUBSTITUTE"
+        ],
+        [
+            40,
+            "KNOCKOFF"
+        ],
+        [
+            45,
+            "GUNKSHOT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "ACROBATICS",
+        "BATONPASS",
+        "DIG",
+        "DOUBLEEDGE",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOULPLAY",
+        "GUNKSHOT",
+        "HELPINGHAND",
+        "KNOCKOFF",
+        "METRONOME",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "POISONJAB",
+        "POUNCE",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TOXIC",
+        "TRAILBLAZE",
+        "UTURN",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [
+        "COPYCAT",
+        "CROSSPOISON",
+        "PARTINGSHOT",
+        "SUPERFANG",
+        "SWAGGER",
+        "TOXIC"
+    ],
+    "height": 0.2,
+    "weight": 0.7,
+    "abilities": [
+        "UNBURDEN",
+        "PICKPOCKET"
+    ],
+    "hiddenAbilitie": [
+        "PRANKSTER"
+    ],
+    "baseTotal": 290,
+    "baseStats": [
+        40,
+        65,
+        35,
+        75,
+        40,
+        35
+    ],
+    "flags": [],
+    "name": "Shroodle",
+    "species": "SHROODLE",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 58,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 944
+}

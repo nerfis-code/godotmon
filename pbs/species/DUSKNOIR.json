@@ -1,0 +1,210 @@
+{
+    "generation": 4,
+    "primaryType": "GHOST",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SHADOWPUNCH"
+        ],
+        [
+            1,
+            "FIREPUNCH"
+        ],
+        [
+            1,
+            "ICEPUNCH"
+        ],
+        [
+            1,
+            "THUNDERPUNCH"
+        ],
+        [
+            1,
+            "GRAVITY"
+        ],
+        [
+            1,
+            "BIND"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "DISABLE"
+        ],
+        [
+            1,
+            "SHADOWSNEAK"
+        ],
+        [
+            12,
+            "CONFUSERAY"
+        ],
+        [
+            16,
+            "NIGHTSHADE"
+        ],
+        [
+            20,
+            "PAYBACK"
+        ],
+        [
+            24,
+            "WILLOWISP"
+        ],
+        [
+            28,
+            "MEANLOOK"
+        ],
+        [
+            32,
+            "HEX"
+        ],
+        [
+            36,
+            "CURSE"
+        ],
+        [
+            42,
+            "SHADOWBALL"
+        ],
+        [
+            48,
+            "FUTURESIGHT"
+        ],
+        [
+            54,
+            "DESTINYBOND"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BIND",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COUNTER",
+        "DARKESTLARIAT",
+        "DARKPULSE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IMPRISON",
+        "INFESTATION",
+        "LASERFOCUS",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAINSPLIT",
+        "PAYBACK",
+        "POLTERGEIST",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SKILLSWAP",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "TRICK",
+        "TRICKROOM",
+        "WILLOWISP",
+        "WONDERROOM"
+    ],
+    "eggMoves": [],
+    "height": 2.2,
+    "weight": 106.6,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [
+        "FRISK"
+    ],
+    "baseTotal": 525,
+    "baseStats": [
+        45,
+        100,
+        135,
+        45,
+        65,
+        135
+    ],
+    "flags": [],
+    "name": "Dusknoir",
+    "species": "DUSKNOIR",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 263,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 477
+}

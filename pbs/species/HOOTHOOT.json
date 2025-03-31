@@ -1,0 +1,177 @@
+{
+    "generation": 2,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            3,
+            "TACKLE"
+        ],
+        [
+            6,
+            "ECHOEDVOICE"
+        ],
+        [
+            9,
+            "CONFUSION"
+        ],
+        [
+            12,
+            "REFLECT"
+        ],
+        [
+            15,
+            "PSYCHOSHIFT"
+        ],
+        [
+            15,
+            "DEFOG"
+        ],
+        [
+            18,
+            "AIRSLASH"
+        ],
+        [
+            21,
+            "EXTRASENSORY"
+        ],
+        [
+            24,
+            "TAKEDOWN"
+        ],
+        [
+            27,
+            "UPROAR"
+        ],
+        [
+            30,
+            "ROOST"
+        ],
+        [
+            33,
+            "MOONBLAST"
+        ],
+        [
+            36,
+            "HYPNOSIS"
+        ],
+        [
+            39,
+            "DREAMEATER"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "AMNESIA",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYPERVOICE",
+        "IMPRISON",
+        "MAGICCOAT",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PLUCK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SILVERWIND",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TWISTER",
+        "UPROAR",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "AGILITY",
+        "DEFOG",
+        "FEATHERDANCE",
+        "HURRICANE",
+        "MEANLOOK",
+        "NIGHTSHADE",
+        "SKYATTACK",
+        "SUPERSONIC",
+        "WHIRLWIND",
+        "WINGATTACK"
+    ],
+    "height": 0.7,
+    "weight": 21.2,
+    "abilities": [
+        "INSOMNIA",
+        "KEENEYE"
+    ],
+    "hiddenAbilitie": [
+        "TINTEDLENS"
+    ],
+    "baseTotal": 262,
+    "baseStats": [
+        60,
+        30,
+        30,
+        50,
+        36,
+        56
+    ],
+    "flags": [],
+    "name": "Hoothoot",
+    "species": "HOOTHOOT",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 52,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 163
+}

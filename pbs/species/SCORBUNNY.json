@@ -1,0 +1,136 @@
+{
+    "generation": 8,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            6,
+            "EMBER"
+        ],
+        [
+            8,
+            "QUICKATTACK"
+        ],
+        [
+            12,
+            "DOUBLEKICK"
+        ],
+        [
+            17,
+            "FLAMECHARGE"
+        ],
+        [
+            20,
+            "AGILITY"
+        ],
+        [
+            24,
+            "HEADBUTT"
+        ],
+        [
+            28,
+            "COUNTER"
+        ],
+        [
+            32,
+            "BOUNCE"
+        ],
+        [
+            36,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AGILITY",
+        "ALLYSWITCH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "BLAZEKICK",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIREPLEDGE",
+        "FLAMETHROWER",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GUNKSHOT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TOXIC",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "HIGHJUMPKICK",
+        "SANDATTACK",
+        "SUCKERPUNCH",
+        "SUPERFANG"
+    ],
+    "height": 0.3,
+    "weight": 4.5,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "LIBERO"
+    ],
+    "baseTotal": 310,
+    "baseStats": [
+        50,
+        71,
+        40,
+        69,
+        40,
+        40
+    ],
+    "flags": [],
+    "name": "Scorbunny",
+    "species": "SCORBUNNY",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 813
+}

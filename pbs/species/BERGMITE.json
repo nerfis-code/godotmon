@@ -1,0 +1,441 @@
+{
+    "generation": 6,
+    "primaryType": "ICE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "RAPIDSPIN"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            3,
+            "TACKLE"
+        ],
+        [
+            6,
+            "POWDERSNOW"
+        ],
+        [
+            9,
+            "CURSE"
+        ],
+        [
+            12,
+            "ICYWIND"
+        ],
+        [
+            15,
+            "PROTECT"
+        ],
+        [
+            18,
+            "AVALANCHE"
+        ],
+        [
+            21,
+            "BITE"
+        ],
+        [
+            24,
+            "ICEFANG"
+        ],
+        [
+            27,
+            "IRONDEFENSE"
+        ],
+        [
+            30,
+            "RECOVER"
+        ],
+        [
+            33,
+            "CRUNCH"
+        ],
+        [
+            36,
+            "TAKEDOWN"
+        ],
+        [
+            39,
+            "BLIZZARD"
+        ],
+        [
+            42,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GYROBALL",
+        "HAIL",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "AURORAVEIL",
+        "MIRRORCOAT",
+        "MIST"
+    ],
+    "height": 1.0,
+    "weight": 99.5,
+    "abilities": [
+        "OWNTEMPO",
+        "ICEBODY"
+    ],
+    "hiddenAbilitie": [
+        "STURDY"
+    ],
+    "baseTotal": 304,
+    "baseStats": [
+        55,
+        69,
+        85,
+        28,
+        32,
+        35
+    ],
+    "flags": [],
+    "name": "Bergmite",
+    "species": "BERGMITE",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 6,
+            "primaryType": "ICE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "RAPIDSPIN"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    3,
+                    "TACKLE"
+                ],
+                [
+                    6,
+                    "POWDERSNOW"
+                ],
+                [
+                    9,
+                    "CURSE"
+                ],
+                [
+                    12,
+                    "ICYWIND"
+                ],
+                [
+                    15,
+                    "PROTECT"
+                ],
+                [
+                    18,
+                    "AVALANCHE"
+                ],
+                [
+                    21,
+                    "BITE"
+                ],
+                [
+                    24,
+                    "ICEFANG"
+                ],
+                [
+                    27,
+                    "IRONDEFENSE"
+                ],
+                [
+                    30,
+                    "RECOVER"
+                ],
+                [
+                    33,
+                    "CRUNCH"
+                ],
+                [
+                    36,
+                    "TAKEDOWN"
+                ],
+                [
+                    39,
+                    "BLIZZARD"
+                ],
+                [
+                    42,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FLASHCANNON",
+                "FROSTBREATH",
+                "FRUSTRATION",
+                "GYROBALL",
+                "HAIL",
+                "HIDDENPOWER",
+                "ICEBEAM",
+                "ICEFANG",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IRONDEFENSE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "TOXIC",
+                "WATERPULSE"
+            ],
+            "eggMoves": [
+                "AURORAVEIL",
+                "MIRRORCOAT",
+                "MIST"
+            ],
+            "height": 1.0,
+            "weight": 99.5,
+            "abilities": [
+                "OWNTEMPO",
+                "ICEBODY"
+            ],
+            "hiddenAbilitie": [
+                "STURDY"
+            ],
+            "baseTotal": 304,
+            "baseStats": [
+                55,
+                69,
+                85,
+                28,
+                32,
+                35
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Bergmite"
+        },
+        {
+            "generation": 8,
+            "primaryType": "ICE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "RAPIDSPIN"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    3,
+                    "TACKLE"
+                ],
+                [
+                    6,
+                    "POWDERSNOW"
+                ],
+                [
+                    9,
+                    "CURSE"
+                ],
+                [
+                    12,
+                    "ICYWIND"
+                ],
+                [
+                    15,
+                    "PROTECT"
+                ],
+                [
+                    18,
+                    "AVALANCHE"
+                ],
+                [
+                    21,
+                    "BITE"
+                ],
+                [
+                    24,
+                    "ICEFANG"
+                ],
+                [
+                    27,
+                    "IRONDEFENSE"
+                ],
+                [
+                    30,
+                    "RECOVER"
+                ],
+                [
+                    33,
+                    "CRUNCH"
+                ],
+                [
+                    36,
+                    "TAKEDOWN"
+                ],
+                [
+                    39,
+                    "BLIZZARD"
+                ],
+                [
+                    42,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FLASHCANNON",
+                "FROSTBREATH",
+                "FRUSTRATION",
+                "GYROBALL",
+                "HAIL",
+                "HIDDENPOWER",
+                "ICEBEAM",
+                "ICEFANG",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IRONDEFENSE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "TOXIC",
+                "WATERPULSE"
+            ],
+            "eggMoves": [
+                "AURORAVEIL",
+                "MIRRORCOAT",
+                "MIST"
+            ],
+            "height": 1.0,
+            "weight": 99.5,
+            "abilities": [
+                "OWNTEMPO",
+                "ICEBODY"
+            ],
+            "hiddenAbilitie": [
+                "STURDY"
+            ],
+            "baseTotal": 304,
+            "baseStats": [
+                55,
+                69,
+                85,
+                28,
+                32,
+                35
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Bergmite"
+        }
+    ],
+    "internationalPokedex": 712
+}

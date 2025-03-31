@@ -1,0 +1,188 @@
+{
+    "generation": 5,
+    "primaryType": "GRASS",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "TAILWIND"
+        ],
+        [
+            1,
+            "MOONBLAST"
+        ],
+        [
+            1,
+            "MEMENTO"
+        ],
+        [
+            1,
+            "HURRICANE"
+        ],
+        [
+            1,
+            "MEGADRAIN"
+        ],
+        [
+            1,
+            "RAZORLEAF"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "POISONPOWDER"
+        ],
+        [
+            1,
+            "GIGADRAIN"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "LEECHSEED"
+        ],
+        [
+            1,
+            "COTTONSPORE"
+        ],
+        [
+            1,
+            "ENERGYBALL"
+        ],
+        [
+            1,
+            "SUNNYDAY"
+        ],
+        [
+            1,
+            "ENDEAVOR"
+        ],
+        [
+            1,
+            "COTTONGUARD"
+        ],
+        [
+            1,
+            "SOLARBEAM"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "FAIRYWIND"
+        ],
+        [
+            1,
+            "STUNSPORE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BEATUP",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FAKETEARS",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYPERBEAM",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MISTYTERRAIN",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "TOXIC",
+        "TRICKROOM",
+        "UTURN",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 6.6,
+    "abilities": [
+        "PRANKSTER",
+        "INFILTRATOR"
+    ],
+    "hiddenAbilitie": [
+        "CHLOROPHYLL"
+    ],
+    "baseTotal": 480,
+    "baseStats": [
+        60,
+        67,
+        85,
+        116,
+        77,
+        75
+    ],
+    "flags": [],
+    "name": "Whimsicott",
+    "species": "WHIMSICOTT",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 168,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 547
+}

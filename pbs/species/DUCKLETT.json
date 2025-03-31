@@ -1,0 +1,150 @@
+{
+    "generation": 5,
+    "primaryType": "WATER",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            3,
+            "WATERSPORT"
+        ],
+        [
+            6,
+            "DEFOG"
+        ],
+        [
+            9,
+            "WINGATTACK"
+        ],
+        [
+            13,
+            "WATERPULSE"
+        ],
+        [
+            15,
+            "AERIALACE"
+        ],
+        [
+            19,
+            "BUBBLEBEAM"
+        ],
+        [
+            21,
+            "FEATHERDANCE"
+        ],
+        [
+            24,
+            "AQUARING"
+        ],
+        [
+            27,
+            "AIRSLASH"
+        ],
+        [
+            30,
+            "ROOST"
+        ],
+        [
+            34,
+            "RAINDANCE"
+        ],
+        [
+            37,
+            "TAILWIND"
+        ],
+        [
+            41,
+            "BRAVEBIRD"
+        ],
+        [
+            46,
+            "HURRICANE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "HAIL",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "LIQUIDATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TAILWIND",
+        "TOXIC",
+        "UPROAR",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "AIRCUTTER",
+        "AQUAJET",
+        "BRINE",
+        "GUST",
+        "LUCKYCHANT",
+        "MEFIRST",
+        "MIRRORMOVE",
+        "MUDSPORT",
+        "STEELWING"
+    ],
+    "height": 0.5,
+    "weight": 5.5,
+    "abilities": [
+        "KEENEYE",
+        "BIGPECKS"
+    ],
+    "hiddenAbilitie": [
+        "HYDRATION"
+    ],
+    "baseTotal": 305,
+    "baseStats": [
+        62,
+        44,
+        50,
+        55,
+        44,
+        50
+    ],
+    "flags": [],
+    "name": "Ducklett",
+    "species": "DUCKLETT",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 580
+}

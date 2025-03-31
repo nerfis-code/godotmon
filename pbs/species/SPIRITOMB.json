@@ -1,0 +1,171 @@
+{
+    "generation": 4,
+    "primaryType": "GHOST",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            1,
+            "NIGHTSHADE"
+        ],
+        [
+            1,
+            "CONFUSERAY"
+        ],
+        [
+            5,
+            "SHADOWSNEAK"
+        ],
+        [
+            10,
+            "SPITE"
+        ],
+        [
+            15,
+            "PAYBACK"
+        ],
+        [
+            20,
+            "NASTYPLOT"
+        ],
+        [
+            25,
+            "HEX"
+        ],
+        [
+            30,
+            "MEMENTO"
+        ],
+        [
+            35,
+            "SUCKERPUNCH"
+        ],
+        [
+            40,
+            "CURSE"
+        ],
+        [
+            45,
+            "SHADOWBALL"
+        ],
+        [
+            50,
+            "DARKPULSE"
+        ],
+        [
+            55,
+            "HYPNOSIS"
+        ],
+        [
+            60,
+            "DREAMEATER"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BURNINGJEALOUSY",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICYWIND",
+        "IMPRISON",
+        "INFESTATION",
+        "LASHOUT",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PHANTOMFORCE",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "QUASH",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "TORMENT",
+        "TRICK",
+        "UPROAR",
+        "WATERPULSE",
+        "WILLOWISP",
+        "WONDERROOM"
+    ],
+    "eggMoves": [
+        "DESTINYBOND",
+        "DISABLE",
+        "FOULPLAY",
+        "GRUDGE",
+        "IMPRISON",
+        "PAINSPLIT",
+        "SHADOWSNEAK",
+        "SMOKESCREEN"
+    ],
+    "height": 1.0,
+    "weight": 108.0,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [
+        "INFILTRATOR"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        50,
+        92,
+        108,
+        35,
+        92,
+        108
+    ],
+    "flags": [],
+    "name": "Spiritomb",
+    "species": "SPIRITOMB",
+    "catchRate": 100,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 442
+}

@@ -1,0 +1,191 @@
+{
+    "generation": 3,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "BRINE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "ARMTHRUST"
+        ],
+        [
+            10,
+            "FAKEOUT"
+        ],
+        [
+            13,
+            "FORCEPALM"
+        ],
+        [
+            16,
+            "WHIRLWIND"
+        ],
+        [
+            19,
+            "KNOCKOFF"
+        ],
+        [
+            22,
+            "VITALTHROW"
+        ],
+        [
+            22,
+            "BULKUP"
+        ],
+        [
+            26,
+            "BELLYDRUM"
+        ],
+        [
+            30,
+            "DETECT"
+        ],
+        [
+            34,
+            "SEISMICTOSS"
+        ],
+        [
+            38,
+            "FOCUSPUNCH"
+        ],
+        [
+            42,
+            "ENDURE"
+        ],
+        [
+            46,
+            "CLOSECOMBAT"
+        ],
+        [
+            50,
+            "REVERSAL"
+        ],
+        [
+            54,
+            "HEAVYSLAM"
+        ],
+        [
+            60,
+            "HEADLONGRUSH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRINE",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "VACUUMWAVE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 2.3,
+    "weight": 253.8,
+    "abilities": [
+        "THICKFAT",
+        "GUTS"
+    ],
+    "hiddenAbilitie": [
+        "SHEERFORCE"
+    ],
+    "baseTotal": 474,
+    "baseStats": [
+        144,
+        120,
+        60,
+        50,
+        40,
+        60
+    ],
+    "flags": [],
+    "name": "Hariyama",
+    "species": "HARIYAMA",
+    "catchRate": 200,
+    "happiness": 50,
+    "baseExp": 166,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "FLUCTUATING",
+    "genderRatio": 25,
+    "forms": [],
+    "internationalPokedex": 297
+}

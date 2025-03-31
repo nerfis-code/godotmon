@@ -1,0 +1,228 @@
+{
+    "generation": 4,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            10,
+            "TACKLE"
+        ],
+        [
+            15,
+            "BUGBITE"
+        ],
+        [
+            20,
+            "STRINGSHOT"
+        ]
+    ],
+    "tutorMoves": [
+        "BUGBITE",
+        "ELECTROWEB",
+        "HIDDENPOWER",
+        "PROTECT",
+        "SNORE",
+        "STRINGSHOT"
+    ],
+    "eggMoves": [],
+    "height": 0.2,
+    "weight": 3.4,
+    "abilities": [
+        "SHEDSKIN"
+    ],
+    "hiddenAbilitie": [
+        "OVERCOAT"
+    ],
+    "baseTotal": 224,
+    "baseStats": [
+        40,
+        29,
+        45,
+        36,
+        29,
+        45
+    ],
+    "flags": [
+        "InheritFormFromMother"
+    ],
+    "name": "Burmy",
+    "species": "BURMY",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 45,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 4,
+            "primaryType": "BUG",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "PROTECT"
+                ],
+                [
+                    10,
+                    "TACKLE"
+                ],
+                [
+                    15,
+                    "BUGBITE"
+                ],
+                [
+                    20,
+                    "STRINGSHOT"
+                ]
+            ],
+            "tutorMoves": [
+                "BUGBITE",
+                "ELECTROWEB",
+                "HIDDENPOWER",
+                "PROTECT",
+                "SNORE",
+                "STRINGSHOT"
+            ],
+            "eggMoves": [],
+            "height": 0.2,
+            "weight": 3.4,
+            "abilities": [
+                "SHEDSKIN"
+            ],
+            "hiddenAbilitie": [
+                "OVERCOAT"
+            ],
+            "baseTotal": 224,
+            "baseStats": [
+                40,
+                29,
+                45,
+                36,
+                29,
+                45
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 0,
+            "formName": "Forma Tronco Planta"
+        },
+        {
+            "generation": 4,
+            "primaryType": "BUG",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "PROTECT"
+                ],
+                [
+                    10,
+                    "TACKLE"
+                ],
+                [
+                    15,
+                    "BUGBITE"
+                ],
+                [
+                    20,
+                    "STRINGSHOT"
+                ]
+            ],
+            "tutorMoves": [
+                "BUGBITE",
+                "ELECTROWEB",
+                "HIDDENPOWER",
+                "PROTECT",
+                "SNORE",
+                "STRINGSHOT"
+            ],
+            "eggMoves": [],
+            "height": 0.2,
+            "weight": 3.4,
+            "abilities": [
+                "SHEDSKIN"
+            ],
+            "hiddenAbilitie": [
+                "OVERCOAT"
+            ],
+            "baseTotal": 224,
+            "baseStats": [
+                40,
+                29,
+                45,
+                36,
+                29,
+                45
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 1,
+            "formName": "Forma Tronco Arena"
+        },
+        {
+            "generation": 4,
+            "primaryType": "BUG",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "PROTECT"
+                ],
+                [
+                    10,
+                    "TACKLE"
+                ],
+                [
+                    15,
+                    "BUGBITE"
+                ],
+                [
+                    20,
+                    "STRINGSHOT"
+                ]
+            ],
+            "tutorMoves": [
+                "BUGBITE",
+                "ELECTROWEB",
+                "HIDDENPOWER",
+                "PROTECT",
+                "SNORE",
+                "STRINGSHOT"
+            ],
+            "eggMoves": [],
+            "height": 0.2,
+            "weight": 3.4,
+            "abilities": [
+                "SHEDSKIN"
+            ],
+            "hiddenAbilitie": [
+                "OVERCOAT"
+            ],
+            "baseTotal": 224,
+            "baseStats": [
+                40,
+                29,
+                45,
+                36,
+                29,
+                45
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 2,
+            "formName": "Forma Tronco Basura"
+        }
+    ],
+    "internationalPokedex": 412
+}

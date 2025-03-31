@@ -1,0 +1,207 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "ROLLOUT"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            6,
+            "BUBBLEBEAM"
+        ],
+        [
+            9,
+            "CHARM"
+        ],
+        [
+            12,
+            "SLAM"
+        ],
+        [
+            15,
+            "BOUNCE"
+        ],
+        [
+            19,
+            "AQUATAIL"
+        ],
+        [
+            21,
+            "PLAYROUGH"
+        ],
+        [
+            24,
+            "AQUARING"
+        ],
+        [
+            27,
+            "RAINDANCE"
+        ],
+        [
+            30,
+            "HYDROPUMP"
+        ],
+        [
+            33,
+            "DOUBLEEDGE"
+        ],
+        [
+            36,
+            "SUPERPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DEFENSECURL",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DYNAMICPUNCH",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GRASSKNOT",
+        "HAIL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "MISTYTERRAIN",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELROLLER",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "AQUAJET",
+        "BELLYDRUM",
+        "BODYSLAM",
+        "COPYCAT",
+        "ENCORE",
+        "FAKETEARS",
+        "FUTURESIGHT",
+        "MUDDYWATER",
+        "PERISHSONG",
+        "PRESENT",
+        "SING",
+        "SLAM",
+        "SOAK",
+        "SUPERPOWER",
+        "SUPERSONIC",
+        "TICKLE"
+    ],
+    "height": 0.4,
+    "weight": 8.5,
+    "abilities": [
+        "THICKFAT",
+        "HUGEPOWER"
+    ],
+    "hiddenAbilitie": [
+        "SAPSIPPER"
+    ],
+    "baseTotal": 250,
+    "baseStats": [
+        70,
+        20,
+        50,
+        40,
+        20,
+        50
+    ],
+    "flags": [],
+    "name": "Marill",
+    "species": "MARILL",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 88,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 183
+}

@@ -1,0 +1,129 @@
+{
+    "generation": 8,
+    "primaryType": "GROUND",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            5,
+            "MINIMIZE"
+        ],
+        [
+            10,
+            "BRUTALSWING"
+        ],
+        [
+            15,
+            "BULLDOZE"
+        ],
+        [
+            20,
+            "HEADBUTT"
+        ],
+        [
+            25,
+            "GLARE"
+        ],
+        [
+            30,
+            "DIG"
+        ],
+        [
+            35,
+            "SANDSTORM"
+        ],
+        [
+            40,
+            "SLAM"
+        ],
+        [
+            45,
+            "COIL"
+        ],
+        [
+            50,
+            "SANDTOMB"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCALESHOT",
+        "SCORCHINGSANDS",
+        "SCREECH",
+        "SECRETPOWER",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC"
+    ],
+    "eggMoves": [
+        "BELCH",
+        "DRAGONRUSH",
+        "LASTRESORT",
+        "MUDSLAP",
+        "POISONTAIL"
+    ],
+    "height": 2.2,
+    "weight": 7.6,
+    "abilities": [
+        "SANDSPIT",
+        "SHEDSKIN"
+    ],
+    "hiddenAbilitie": [
+        "SANDVEIL"
+    ],
+    "baseTotal": 315,
+    "baseStats": [
+        52,
+        57,
+        75,
+        46,
+        35,
+        50
+    ],
+    "flags": [],
+    "name": "Silicobra",
+    "species": "SILICOBRA",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 63,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 843
+}

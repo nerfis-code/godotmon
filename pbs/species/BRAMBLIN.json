@@ -1,0 +1,136 @@
+{
+    "generation": 9,
+    "primaryType": "GRASS",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "ROLLOUT"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            5,
+            "ABSORB"
+        ],
+        [
+            9,
+            "RAPIDSPIN"
+        ],
+        [
+            13,
+            "BULLETSEED"
+        ],
+        [
+            17,
+            "INFESTATION"
+        ],
+        [
+            21,
+            "HEX"
+        ],
+        [
+            25,
+            "MEGADRAIN"
+        ],
+        [
+            29,
+            "DISABLE"
+        ],
+        [
+            35,
+            "PHANTOMFORCE"
+        ],
+        [
+            40,
+            "GIGADRAIN"
+        ],
+        [
+            45,
+            "CURSE"
+        ],
+        [
+            50,
+            "PAINSPLIT"
+        ],
+        [
+            55,
+            "POWERWHIP"
+        ]
+    ],
+    "tutorMoves": [
+        "BULLETSEED",
+        "CONFUSERAY",
+        "CURSE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HEX",
+        "LEAFSTORM",
+        "NIGHTSHADE",
+        "PAINSPLIT",
+        "PHANTOMFORCE",
+        "POLTERGEIST",
+        "POUNCE",
+        "PROTECT",
+        "REST",
+        "SCARYFACE",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "SPIKES",
+        "SPITE",
+        "SUBSTITUTE",
+        "THIEF",
+        "TRAILBLAZE"
+    ],
+    "eggMoves": [
+        "BEATUP",
+        "BLOCK",
+        "LEECHSEED",
+        "SHADOWSNEAK",
+        "STRENGTHSAP"
+    ],
+    "height": 0.6,
+    "weight": 0.6,
+    "abilities": [
+        "WINDRIDER"
+    ],
+    "hiddenAbilitie": [
+        "INFILTRATOR"
+    ],
+    "baseTotal": 275,
+    "baseStats": [
+        40,
+        65,
+        30,
+        60,
+        45,
+        35
+    ],
+    "flags": [],
+    "name": "Bramblin",
+    "species": "BRAMBLIN",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 55,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 946
+}

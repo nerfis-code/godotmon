@@ -1,0 +1,161 @@
+{
+    "generation": 7,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "PAYBACK"
+        ],
+        [
+            7,
+            "PURSUIT"
+        ],
+        [
+            13,
+            "ODORSLEUTH"
+        ],
+        [
+            13,
+            "WORKUP"
+        ],
+        [
+            16,
+            "BIDE"
+        ],
+        [
+            19,
+            "BITE"
+        ],
+        [
+            23,
+            "MUDSLAP"
+        ],
+        [
+            27,
+            "SUPERFANG"
+        ],
+        [
+            31,
+            "TAKEDOWN"
+        ],
+        [
+            35,
+            "SCARYFACE"
+        ],
+        [
+            39,
+            "CRUNCH"
+        ],
+        [
+            43,
+            "HYPERFANG"
+        ],
+        [
+            43,
+            "YAWN"
+        ],
+        [
+            47,
+            "THRASH"
+        ],
+        [
+            52,
+            "REST"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLOCK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASTRESORT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUPERFANG",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 14.2,
+    "abilities": [
+        "STAKEOUT",
+        "STRONGJAW"
+    ],
+    "hiddenAbilitie": [
+        "ADAPTABILITY"
+    ],
+    "baseTotal": 418,
+    "baseStats": [
+        88,
+        110,
+        60,
+        45,
+        55,
+        60
+    ],
+    "flags": [],
+    "name": "Gumshoos",
+    "species": "GUMSHOOS",
+    "catchRate": 127,
+    "happiness": 50,
+    "baseExp": 146,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 735
+}

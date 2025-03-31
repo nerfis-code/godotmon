@@ -1,0 +1,168 @@
+{
+    "generation": 5,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "STOREDPOWER"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            4,
+            "HYPNOSIS"
+        ],
+        [
+            8,
+            "PSYBEAM"
+        ],
+        [
+            12,
+            "IMPRISON"
+        ],
+        [
+            16,
+            "MOONLIGHT"
+        ],
+        [
+            20,
+            "MAGICCOAT"
+        ],
+        [
+            24,
+            "ZENHEADBUTT"
+        ],
+        [
+            28,
+            "CALMMIND"
+        ],
+        [
+            32,
+            "YAWN"
+        ],
+        [
+            36,
+            "PSYCHIC"
+        ],
+        [
+            40,
+            "MOONBLAST"
+        ],
+        [
+            44,
+            "DREAMEATER"
+        ],
+        [
+            48,
+            "FUTURESIGHT"
+        ],
+        [
+            52,
+            "WONDERROOM"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ALLYSWITCH",
+        "AMNESIA",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "GYROBALL",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IMPRISON",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TELEKINESIS",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "WONDERROOM",
+        "WORRYSEED",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "CURSE",
+        "HEALINGWISH"
+    ],
+    "height": 0.6,
+    "weight": 23.3,
+    "abilities": [
+        "FOREWARN",
+        "SYNCHRONIZE"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 292,
+    "baseStats": [
+        76,
+        25,
+        45,
+        24,
+        67,
+        55
+    ],
+    "flags": [],
+    "name": "Munna",
+    "species": "MUNNA",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 58,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 517
+}

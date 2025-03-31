@@ -1,0 +1,192 @@
+{
+    "generation": 3,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "FURYCUTTER"
+        ],
+        [
+            -1,
+            "FALSESWIPE"
+        ],
+        [
+            -1,
+            "ENERGYBALL"
+        ],
+        [
+            1,
+            "XSCISSOR"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "LEAFAGE"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            9,
+            "MEGADRAIN"
+        ],
+        [
+            12,
+            "DETECT"
+        ],
+        [
+            15,
+            "QUICKGUARD"
+        ],
+        [
+            20,
+            "ASSURANCE"
+        ],
+        [
+            25,
+            "GIGADRAIN"
+        ],
+        [
+            30,
+            "SLAM"
+        ],
+        [
+            35,
+            "DOUBLETEAM"
+        ],
+        [
+            40,
+            "LEAFBLADE"
+        ],
+        [
+            45,
+            "SCREECH"
+        ],
+        [
+            50,
+            "ENDEAVOR"
+        ],
+        [
+            55,
+            "LEAFSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CRUNCH",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DYNAMICPUNCH",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "LEAFBLADE",
+        "LEAFSTORM",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MAGICALLEAF",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THUNDERPUNCH",
+        "WORKUP",
+        "WORRYSEED",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 21.6,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "UNBURDEN"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        50,
+        65,
+        45,
+        95,
+        85,
+        65
+    ],
+    "flags": [],
+    "name": "Grovyle",
+    "species": "GROVYLE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 142,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 253
+}

@@ -1,0 +1,160 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "REFLECTTYPE"
+        ],
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "ACID"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            12,
+            "SUPERSONIC"
+        ],
+        [
+            16,
+            "WATERPULSE"
+        ],
+        [
+            20,
+            "SCREECH"
+        ],
+        [
+            24,
+            "BUBBLEBEAM"
+        ],
+        [
+            28,
+            "HEX"
+        ],
+        [
+            34,
+            "ACIDARMOR"
+        ],
+        [
+            40,
+            "POISONJAB"
+        ],
+        [
+            46,
+            "SURF"
+        ],
+        [
+            52,
+            "SLUDGEWAVE"
+        ],
+        [
+            58,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BIND",
+        "BLIZZARD",
+        "BRINE",
+        "BRUTALSWING",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CORROSIVEGAS",
+        "CROSSPOISON",
+        "CUT",
+        "DAZZLINGGLEAM",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEX",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "INFESTATION",
+        "KNOCKOFF",
+        "MAGICCOAT",
+        "MIMIC",
+        "MUDDYWATER",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THIEF",
+        "TOXICSPIKES",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 55.0,
+    "abilities": [
+        "CLEARBODY",
+        "LIQUIDOOZE"
+    ],
+    "hiddenAbilitie": [
+        "RAINDISH"
+    ],
+    "baseTotal": 515,
+    "baseStats": [
+        80,
+        70,
+        65,
+        100,
+        80,
+        120
+    ],
+    "flags": [],
+    "name": "Tentacruel",
+    "species": "TENTACRUEL",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 180,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 73
+}

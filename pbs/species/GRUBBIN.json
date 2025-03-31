@@ -1,0 +1,122 @@
+{
+    "generation": 7,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "VISEGRIP"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            5,
+            "STRINGSHOT"
+        ],
+        [
+            10,
+            "BUGBITE"
+        ],
+        [
+            15,
+            "BITE"
+        ],
+        [
+            21,
+            "SPARK"
+        ],
+        [
+            25,
+            "STICKYWEB"
+        ],
+        [
+            30,
+            "XSCISSOR"
+        ],
+        [
+            35,
+            "CRUNCH"
+        ],
+        [
+            40,
+            "DIG"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ATTRACT",
+        "BUGBITE",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CRUNCH",
+        "DIG",
+        "DOUBLETEAM",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "VOLTSWITCH",
+        "WILDCHARGE",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "DISCHARGE",
+        "HARDEN"
+    ],
+    "height": 0.4,
+    "weight": 4.4,
+    "abilities": [
+        "SWARM"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 300,
+    "baseStats": [
+        47,
+        62,
+        45,
+        46,
+        55,
+        45
+    ],
+    "flags": [],
+    "name": "Grubbin",
+    "species": "GRUBBIN",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 736
+}

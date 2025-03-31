@@ -1,0 +1,155 @@
+{
+    "generation": 7,
+    "primaryType": "POISON",
+    "secondaryType": "FIRE",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "POISONGAS"
+        ],
+        [
+            5,
+            "SMOG"
+        ],
+        [
+            10,
+            "EMBER"
+        ],
+        [
+            15,
+            "POISONFANG"
+        ],
+        [
+            20,
+            "SWEETSCENT"
+        ],
+        [
+            25,
+            "NASTYPLOT"
+        ],
+        [
+            30,
+            "INCINERATE"
+        ],
+        [
+            35,
+            "VENOSHOCK"
+        ],
+        [
+            40,
+            "DRAGONPULSE"
+        ],
+        [
+            45,
+            "VENOMDRENCH"
+        ],
+        [
+            45,
+            "FLAMETHROWER"
+        ],
+        [
+            50,
+            "TOXIC"
+        ],
+        [
+            55,
+            "ENDEAVOR"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BEATUP",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLING",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GUNKSHOT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LEECHLIFE",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "WILLOWISP"
+    ],
+    "eggMoves": [
+        "BELCH",
+        "FAKEOUT",
+        "MUDSLAP",
+        "SANDATTACK"
+    ],
+    "height": 0.6,
+    "weight": 4.8,
+    "abilities": [
+        "CORROSION"
+    ],
+    "hiddenAbilitie": [
+        "OBLIVIOUS"
+    ],
+    "baseTotal": 320,
+    "baseStats": [
+        48,
+        44,
+        40,
+        77,
+        71,
+        40
+    ],
+    "flags": [],
+    "name": "Salandit",
+    "species": "SALANDIT",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 64,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 757
+}

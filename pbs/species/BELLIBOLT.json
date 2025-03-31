@@ -1,0 +1,131 @@
+{
+    "generation": 9,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "SLACKOFF"
+        ],
+        [
+            7,
+            "THUNDERSHOCK"
+        ],
+        [
+            11,
+            "WATERGUN"
+        ],
+        [
+            17,
+            "CHARGE"
+        ],
+        [
+            21,
+            "SPARK"
+        ],
+        [
+            24,
+            "MUDSHOT"
+        ],
+        [
+            25,
+            "FLAIL"
+        ],
+        [
+            32,
+            "DISCHARGE"
+        ],
+        [
+            36,
+            "WEATHERBALL"
+        ],
+        [
+            40,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            45,
+            "SUCKERPUNCH"
+        ],
+        [
+            50,
+            "ZAPCANNON"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "CHARGE",
+        "CHARGEBEAM",
+        "CHILLINGWATER",
+        "CONFUSERAY",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "GIGAIMPACT",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "LIGHTSCREEN",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SUPERCELLSLAM",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "VOLTSWITCH",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 113.0,
+    "abilities": [
+        "ELECTROMORPHOSIS",
+        "STATIC"
+    ],
+    "hiddenAbilitie": [
+        "DAMP"
+    ],
+    "baseTotal": 495,
+    "baseStats": [
+        109,
+        64,
+        91,
+        45,
+        103,
+        83
+    ],
+    "flags": [],
+    "name": "Bellibolt",
+    "species": "BELLIBOLT",
+    "catchRate": 50,
+    "happiness": 50,
+    "baseExp": 173,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 939
+}

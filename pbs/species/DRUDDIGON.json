@@ -1,0 +1,178 @@
+{
+    "generation": 5,
+    "primaryType": "DRAGON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            5,
+            "BITE"
+        ],
+        [
+            10,
+            "DRAGONTAIL"
+        ],
+        [
+            15,
+            "METALCLAW"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            25,
+            "SLASH"
+        ],
+        [
+            30,
+            "DRAGONCLAW"
+        ],
+        [
+            35,
+            "HONECLAWS"
+        ],
+        [
+            40,
+            "CRUNCH"
+        ],
+        [
+            45,
+            "IRONHEAD"
+        ],
+        [
+            50,
+            "OUTRAGE"
+        ],
+        [
+            55,
+            "SUPERPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DUALWINGBEAT",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLASHCANNON",
+        "FLING",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASHOUT",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SMACKDOWN",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDERFANG",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "TOXIC"
+    ],
+    "eggMoves": [
+        "GLARE",
+        "NIGHTSLASH",
+        "POISONTAIL",
+        "SUCKERPUNCH"
+    ],
+    "height": 1.6,
+    "weight": 139.0,
+    "abilities": [
+        "ROUGHSKIN",
+        "SHEERFORCE"
+    ],
+    "hiddenAbilitie": [
+        "MOLDBREAKER"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        77,
+        120,
+        90,
+        48,
+        60,
+        90
+    ],
+    "flags": [],
+    "name": "Druddigon",
+    "species": "DRUDDIGON",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 621
+}

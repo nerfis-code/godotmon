@@ -1,0 +1,176 @@
+{
+    "generation": 5,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SPIKYSHIELD"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "AFTERYOU"
+        ],
+        [
+            1,
+            "INGRAIN"
+        ],
+        [
+            4,
+            "GROWTH"
+        ],
+        [
+            8,
+            "MEGADRAIN"
+        ],
+        [
+            12,
+            "LEECHSEED"
+        ],
+        [
+            16,
+            "SUCKERPUNCH"
+        ],
+        [
+            20,
+            "PINMISSILE"
+        ],
+        [
+            24,
+            "GIGADRAIN"
+        ],
+        [
+            28,
+            "SWEETSCENT"
+        ],
+        [
+            32,
+            "SYNTHESIS"
+        ],
+        [
+            36,
+            "PETALBLIZZARD"
+        ],
+        [
+            40,
+            "COTTONSPORE"
+        ],
+        [
+            44,
+            "SUNNYDAY"
+        ],
+        [
+            48,
+            "SOLARBEAM"
+        ],
+        [
+            52,
+            "ACUPRESSURE"
+        ],
+        [
+            56,
+            "PETALDANCE"
+        ],
+        [
+            60,
+            "COTTONGUARD"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AFTERYOU",
+        "ASSURANCE",
+        "ATTRACT",
+        "BOUNCE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "KNOCKOFF",
+        "LEAFSTORM",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PINMISSILE",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPIKES",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "THROATCHOP",
+        "TOXIC",
+        "UPROAR",
+        "WEATHERBALL",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "WOODHAMMER",
+        "WORRYSEED"
+    ],
+    "height": 1.0,
+    "weight": 28.0,
+    "abilities": [
+        "WATERABSORB",
+        "CHLOROPHYLL"
+    ],
+    "hiddenAbilitie": [
+        "STORMDRAIN"
+    ],
+    "baseTotal": 461,
+    "baseStats": [
+        75,
+        86,
+        67,
+        60,
+        106,
+        67
+    ],
+    "flags": [],
+    "name": "Maractus",
+    "species": "MARACTUS",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 161,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 556
+}

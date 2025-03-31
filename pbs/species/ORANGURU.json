@@ -1,0 +1,180 @@
+{
+    "generation": 7,
+    "primaryType": "NORMAL",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "TAUNT"
+        ],
+        [
+            5,
+            "AFTERYOU"
+        ],
+        [
+            10,
+            "CALMMIND"
+        ],
+        [
+            15,
+            "STOREDPOWER"
+        ],
+        [
+            20,
+            "PSYCHUP"
+        ],
+        [
+            25,
+            "QUASH"
+        ],
+        [
+            30,
+            "NASTYPLOT"
+        ],
+        [
+            35,
+            "ZENHEADBUTT"
+        ],
+        [
+            40,
+            "TRICKROOM"
+        ],
+        [
+            45,
+            "PSYCHIC"
+        ],
+        [
+            50,
+            "INSTRUCT"
+        ],
+        [
+            55,
+            "FOULPLAY"
+        ],
+        [
+            60,
+            "FUTURESIGHT"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BLOCK",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COVET",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EARTHQUAKE",
+        "EMBARGO",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "QUASH",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "TERRAINPULSE",
+        "THUNDER",
+        "THUNDERBOLT",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "WONDERROOM",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "DREAMEATER",
+        "EXTRASENSORY",
+        "LASTRESORT",
+        "YAWN"
+    ],
+    "height": 1.5,
+    "weight": 76.0,
+    "abilities": [
+        "INNERFOCUS",
+        "TELEPATHY"
+    ],
+    "hiddenAbilitie": [
+        "SYMBIOSIS"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        90,
+        60,
+        80,
+        60,
+        90,
+        110
+    ],
+    "flags": [],
+    "name": "Oranguru",
+    "species": "ORANGURU",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 172,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 765
+}

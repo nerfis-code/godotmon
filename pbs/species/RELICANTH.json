@@ -1,0 +1,171 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "ROCK",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            5,
+            "WATERGUN"
+        ],
+        [
+            10,
+            "ANCIENTPOWER"
+        ],
+        [
+            15,
+            "YAWN"
+        ],
+        [
+            20,
+            "DIVE"
+        ],
+        [
+            25,
+            "TAKEDOWN"
+        ],
+        [
+            30,
+            "AQUATAIL"
+        ],
+        [
+            35,
+            "REST"
+        ],
+        [
+            40,
+            "FLAIL"
+        ],
+        [
+            45,
+            "HYDROPUMP"
+        ],
+        [
+            50,
+            "DOUBLEEDGE"
+        ],
+        [
+            55,
+            "HEADSMASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRINE",
+        "BULLDOZE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "LIQUIDATION",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCALD",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "AQUATAIL",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "SKULLBASH",
+        "SNORE",
+        "ZENHEADBUTT"
+    ],
+    "height": 1.0,
+    "weight": 23.4,
+    "abilities": [
+        "SWIFTSWIM",
+        "ROCKHEAD"
+    ],
+    "hiddenAbilitie": [
+        "STURDY"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        100,
+        90,
+        130,
+        55,
+        45,
+        65
+    ],
+    "flags": [],
+    "name": "Relicanth",
+    "species": "RELICANTH",
+    "catchRate": 25,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "HP",
+        1,
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 369
+}

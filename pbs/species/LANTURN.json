@@ -1,0 +1,165 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "ELECTRIC",
+    "moves": [
+        [
+            -1,
+            "STOCKPILE"
+        ],
+        [
+            -1,
+            "SWALLOW"
+        ],
+        [
+            -1,
+            "SPITUP"
+        ],
+        [
+            1,
+            "EERIEIMPULSE"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            1,
+            "ELECTROBALL"
+        ],
+        [
+            1,
+            "THUNDERWAVE"
+        ],
+        [
+            12,
+            "BUBBLEBEAM"
+        ],
+        [
+            16,
+            "CONFUSERAY"
+        ],
+        [
+            20,
+            "SPARK"
+        ],
+        [
+            24,
+            "CHARGE"
+        ],
+        [
+            30,
+            "DISCHARGE"
+        ],
+        [
+            36,
+            "AQUARING"
+        ],
+        [
+            42,
+            "FLAIL"
+        ],
+        [
+            48,
+            "TAKEDOWN"
+        ],
+        [
+            54,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AMNESIA",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BOUNCE",
+        "BRINE",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EERIEIMPULSE",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEALBELL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROUND",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SURF",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "VOLTSWITCH",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 22.5,
+    "abilities": [
+        "VOLTABSORB",
+        "ILLUMINATE"
+    ],
+    "hiddenAbilitie": [
+        "WATERABSORB"
+    ],
+    "baseTotal": 460,
+    "baseStats": [
+        125,
+        58,
+        58,
+        67,
+        76,
+        76
+    ],
+    "flags": [],
+    "name": "Lanturn",
+    "species": "LANTURN",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 161,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 171
+}

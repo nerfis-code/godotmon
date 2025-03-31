@@ -1,0 +1,126 @@
+{
+    "generation": 9,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            12,
+            "AQUAJET"
+        ],
+        [
+            16,
+            "SLAM"
+        ],
+        [
+            20,
+            "WATERPULSE"
+        ],
+        [
+            24,
+            "HEADBUTT"
+        ],
+        [
+            30,
+            "TRIPLEDIVE"
+        ],
+        [
+            36,
+            "DIG"
+        ],
+        [
+            42,
+            "SUCKERPUNCH"
+        ],
+        [
+            48,
+            "THROATCHOP"
+        ],
+        [
+            54,
+            "LIQUIDATION"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "BLIZZARD",
+        "BULLDOZE",
+        "CHILLINGWATER",
+        "DIG",
+        "EARTHPOWER",
+        "ENDURE",
+        "FACADE",
+        "FOULPLAY",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "LIQUIDATION",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PAINSPLIT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SANDSTORM",
+        "SLEEPTALK",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SURF",
+        "SWIFT",
+        "TAKEDOWN",
+        "THROATCHOP",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 5.4,
+    "abilities": [
+        "GOOEY",
+        "RATTLED"
+    ],
+    "hiddenAbilitie": [
+        "SANDVEIL"
+    ],
+    "baseTotal": 425,
+    "baseStats": [
+        35,
+        100,
+        50,
+        120,
+        50,
+        70
+    ],
+    "flags": [],
+    "name": "Wugtrio",
+    "species": "WUGTRIO",
+    "catchRate": 50,
+    "happiness": 50,
+    "baseExp": 149,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 961
+}

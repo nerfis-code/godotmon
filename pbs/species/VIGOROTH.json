@@ -1,0 +1,189 @@
+{
+    "generation": 3,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "YAWN"
+        ],
+        [
+            1,
+            "SLACKOFF"
+        ],
+        [
+            1,
+            "REST"
+        ],
+        [
+            1,
+            "AMNESIA"
+        ],
+        [
+            1,
+            "COVET"
+        ],
+        [
+            1,
+            "FLAIL"
+        ],
+        [
+            1,
+            "PLAYROUGH"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            1,
+            "ENCORE"
+        ],
+        [
+            1,
+            "UPROAR"
+        ],
+        [
+            14,
+            "FURYSWIPES"
+        ],
+        [
+            17,
+            "ENDURE"
+        ],
+        [
+            23,
+            "SLASH"
+        ],
+        [
+            27,
+            "HEADBUTT"
+        ],
+        [
+            27,
+            "THROATCHOP"
+        ],
+        [
+            33,
+            "COUNTER"
+        ],
+        [
+            37,
+            "FOCUSPUNCH"
+        ],
+        [
+            43,
+            "REVERSAL"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AFTERYOU",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "CUT",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "UPROAR",
+        "WATERPULSE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 46.5,
+    "abilities": [
+        "VITALSPIRIT"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 440,
+    "baseStats": [
+        80,
+        80,
+        80,
+        90,
+        55,
+        55
+    ],
+    "flags": [],
+    "name": "Vigoroth",
+    "species": "VIGOROTH",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 154,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 288
+}

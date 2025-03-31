@@ -1,0 +1,159 @@
+{
+    "generation": 4,
+    "primaryType": "DRAGON",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "SANDTOMB"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            6,
+            "SANDATTACK"
+        ],
+        [
+            12,
+            "DRAGONBREATH"
+        ],
+        [
+            18,
+            "BULLDOZE"
+        ],
+        [
+            25,
+            "BITE"
+        ],
+        [
+            30,
+            "SLASH"
+        ],
+        [
+            36,
+            "DRAGONCLAW"
+        ],
+        [
+            42,
+            "DIG"
+        ],
+        [
+            48,
+            "SANDSTORM"
+        ],
+        [
+            54,
+            "TAKEDOWN"
+        ],
+        [
+            60,
+            "DRAGONRUSH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "INCINERATE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TWISTER"
+    ],
+    "eggMoves": [
+        "BODYSLAM",
+        "DOUBLEEDGE",
+        "DRAGONBREATH",
+        "IRONHEAD",
+        "METALCLAW",
+        "MUDSHOT",
+        "OUTRAGE",
+        "SANDTOMB",
+        "SCARYFACE",
+        "THRASH",
+        "TWISTER"
+    ],
+    "height": 0.7,
+    "weight": 20.5,
+    "abilities": [
+        "SANDVEIL"
+    ],
+    "hiddenAbilitie": [
+        "ROUGHSKIN"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        58,
+        70,
+        45,
+        42,
+        40,
+        45
+    ],
+    "flags": [],
+    "name": "Gible",
+    "species": "GIBLE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 443
+}

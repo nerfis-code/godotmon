@@ -1,0 +1,133 @@
+{
+    "generation": 9,
+    "primaryType": "GRASS",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "ROLLOUT"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            5,
+            "ABSORB"
+        ],
+        [
+            9,
+            "RAPIDSPIN"
+        ],
+        [
+            13,
+            "BULLETSEED"
+        ],
+        [
+            17,
+            "INFESTATION"
+        ],
+        [
+            21,
+            "HEX"
+        ],
+        [
+            25,
+            "MEGADRAIN"
+        ],
+        [
+            29,
+            "DISABLE"
+        ],
+        [
+            35,
+            "PHANTOMFORCE"
+        ],
+        [
+            40,
+            "GIGADRAIN"
+        ],
+        [
+            45,
+            "CURSE"
+        ],
+        [
+            50,
+            "PAINSPLIT"
+        ],
+        [
+            55,
+            "POWERWHIP"
+        ]
+    ],
+    "tutorMoves": [
+        "BULLETSEED",
+        "CONFUSERAY",
+        "CURSE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HEX",
+        "HYPERBEAM",
+        "LEAFSTORM",
+        "NIGHTSHADE",
+        "PAINSPLIT",
+        "PHANTOMFORCE",
+        "POLTERGEIST",
+        "POUNCE",
+        "PROTECT",
+        "REST",
+        "SCARYFACE",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "SPIKES",
+        "SPITE",
+        "SUBSTITUTE",
+        "THIEF",
+        "TRAILBLAZE"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 6.0,
+    "abilities": [
+        "WINDRIDER"
+    ],
+    "hiddenAbilitie": [
+        "INFILTRATOR"
+    ],
+    "baseTotal": 480,
+    "baseStats": [
+        55,
+        115,
+        70,
+        90,
+        80,
+        70
+    ],
+    "flags": [],
+    "name": "Brambleghast",
+    "species": "BRAMBLEGHAST",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 168,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 947
+}

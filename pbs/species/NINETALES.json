@@ -1,0 +1,477 @@
+{
+    "generation": 1,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "NASTYPLOT"
+        ],
+        [
+            -1,
+            "SPITE"
+        ],
+        [
+            -1,
+            "INCINERATE"
+        ],
+        [
+            -1,
+            "CONFUSERAY"
+        ],
+        [
+            -1,
+            "EXTRASENSORY"
+        ],
+        [
+            -1,
+            "IMPRISON"
+        ],
+        [
+            -1,
+            "FIRESPIN"
+        ],
+        [
+            -1,
+            "SAFEGUARD"
+        ],
+        [
+            -1,
+            "INFERNO"
+        ],
+        [
+            -1,
+            "FIREBLAST"
+        ],
+        [
+            -1,
+            "EMBER"
+        ],
+        [
+            -1,
+            "DISABLE"
+        ],
+        [
+            1,
+            "WILLOWISP"
+        ],
+        [
+            1,
+            "FLAMETHROWER"
+        ],
+        [
+            1,
+            "GRUDGE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "BODYSLAM",
+        "BURNINGJEALOUSY",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FAKETEARS",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "INCINERATE",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "OVERHEAT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILSLAP",
+        "WEATHERBALL",
+        "WILLOWISP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 19.9,
+    "abilities": [
+        "FLASHFIRE"
+    ],
+    "hiddenAbilitie": [
+        "DROUGHT"
+    ],
+    "baseTotal": 505,
+    "baseStats": [
+        73,
+        76,
+        75,
+        100,
+        81,
+        100
+    ],
+    "flags": [],
+    "name": "Ninetales",
+    "species": "NINETALES",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 177,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1,
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 75,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "FIRE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "NASTYPLOT"
+                ],
+                [
+                    -1,
+                    "SPITE"
+                ],
+                [
+                    -1,
+                    "INCINERATE"
+                ],
+                [
+                    -1,
+                    "CONFUSERAY"
+                ],
+                [
+                    -1,
+                    "EXTRASENSORY"
+                ],
+                [
+                    -1,
+                    "IMPRISON"
+                ],
+                [
+                    -1,
+                    "FIRESPIN"
+                ],
+                [
+                    -1,
+                    "SAFEGUARD"
+                ],
+                [
+                    -1,
+                    "INFERNO"
+                ],
+                [
+                    -1,
+                    "FIREBLAST"
+                ],
+                [
+                    -1,
+                    "EMBER"
+                ],
+                [
+                    -1,
+                    "DISABLE"
+                ],
+                [
+                    1,
+                    "WILLOWISP"
+                ],
+                [
+                    1,
+                    "FLAMETHROWER"
+                ],
+                [
+                    1,
+                    "GRUDGE"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ATTRACT",
+                "BODYSLAM",
+                "BURNINGJEALOUSY",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DARKPULSE",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FAKETEARS",
+                "FIREBLAST",
+                "FIRESPIN",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HEX",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IMPRISON",
+                "INCINERATE",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "OVERHEAT",
+                "PAINSPLIT",
+                "PAYBACK",
+                "POWERSWAP",
+                "PROTECT",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROLEPLAY",
+                "ROUND",
+                "SAFEGUARD",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SPITE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILSLAP",
+                "WEATHERBALL",
+                "WILLOWISP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.1,
+            "weight": 19.9,
+            "abilities": [
+                "FLASHFIRE"
+            ],
+            "hiddenAbilitie": [
+                "DROUGHT"
+            ],
+            "baseTotal": 505,
+            "baseStats": [
+                73,
+                76,
+                75,
+                100,
+                81,
+                100
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Ninetales"
+        },
+        {
+            "generation": 7,
+            "primaryType": "ICE",
+            "secondaryType": "FAIRY",
+            "moves": [
+                [
+                    0,
+                    "DAZZLINGGLEAM"
+                ],
+                [
+                    1,
+                    "IMPRISON"
+                ],
+                [
+                    1,
+                    "NASTYPLOT"
+                ],
+                [
+                    1,
+                    "ICEBEAM"
+                ],
+                [
+                    1,
+                    "ICESHARD"
+                ],
+                [
+                    1,
+                    "CONFUSERAY"
+                ],
+                [
+                    1,
+                    "SAFEGUARD"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "AQUATAIL",
+                "ATTRACT",
+                "AURORAVEIL",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BODYSLAM",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "COVET",
+                "DARKPULSE",
+                "DAZZLINGGLEAM",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "DREAMEATER",
+                "ENCORE",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FOULPLAY",
+                "FROSTBREATH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HAIL",
+                "HEADBUTT",
+                "HEALBELL",
+                "HEX",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICYWIND",
+                "IMPRISON",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "MIMIC",
+                "MISTYTERRAIN",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAINSPLIT",
+                "PAYBACK",
+                "POWERSWAP",
+                "PROTECT",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROLEPLAY",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SPITE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "TAILSLAP",
+                "TRIPLEAXEL",
+                "WEATHERBALL",
+                "WONDERROOM",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.1,
+            "weight": 19.9,
+            "abilities": [
+                "SNOWCLOAK"
+            ],
+            "hiddenAbilitie": [
+                "SNOWWARNING"
+            ],
+            "baseTotal": 505,
+            "baseStats": [
+                73,
+                67,
+                75,
+                109,
+                81,
+                100
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Alola"
+        }
+    ],
+    "internationalPokedex": 38
+}

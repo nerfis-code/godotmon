@@ -1,0 +1,142 @@
+{
+    "generation": 1,
+    "primaryType": "GRASS",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "ACID"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            14,
+            "POISONPOWDER"
+        ],
+        [
+            16,
+            "STUNSPORE"
+        ],
+        [
+            18,
+            "SLEEPPOWDER"
+        ],
+        [
+            20,
+            "GIGADRAIN"
+        ],
+        [
+            26,
+            "TOXIC"
+        ],
+        [
+            32,
+            "MOONBLAST"
+        ],
+        [
+            38,
+            "GRASSYTERRAIN"
+        ],
+        [
+            44,
+            "MOONLIGHT"
+        ],
+        [
+            50,
+            "PETALDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "CUT",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TOXIC",
+        "VENOSHOCK",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 8.6,
+    "abilities": [
+        "CHLOROPHYLL"
+    ],
+    "hiddenAbilitie": [
+        "STENCH"
+    ],
+    "baseTotal": 395,
+    "baseStats": [
+        60,
+        65,
+        70,
+        40,
+        85,
+        75
+    ],
+    "flags": [],
+    "name": "Gloom",
+    "species": "GLOOM",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 138,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 44
+}

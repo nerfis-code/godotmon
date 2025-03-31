@@ -1,0 +1,537 @@
+{
+    "generation": 7,
+    "primaryType": "STEEL",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "GYROBALL"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            6,
+            "DEFENSECURL"
+        ],
+        [
+            12,
+            "ROLLOUT"
+        ],
+        [
+            18,
+            "IRONDEFENSE"
+        ],
+        [
+            24,
+            "GEARUP"
+        ],
+        [
+            24,
+            "MAGNETICFLUX"
+        ],
+        [
+            30,
+            "PSYBEAM"
+        ],
+        [
+            36,
+            "AURORABEAM"
+        ],
+        [
+            42,
+            "MINDREADER"
+        ],
+        [
+            48,
+            "SHIFTGEAR"
+        ],
+        [
+            54,
+            "CRAFTYSHIELD"
+        ],
+        [
+            54,
+            "TRICK"
+        ],
+        [
+            60,
+            "IRONHEAD"
+        ],
+        [
+            66,
+            "AURASPHERE"
+        ],
+        [
+            72,
+            "FLASHCANNON"
+        ],
+        [
+            78,
+            "PAINSPLIT"
+        ],
+        [
+            84,
+            "ZAPCANNON"
+        ],
+        [
+            90,
+            "FLEURCANNON"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AGILITY",
+        "AURASPHERE",
+        "BATONPASS",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ECHOEDVOICE",
+        "EERIEIMPULSE",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "EMBARGO",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPLOSION",
+        "FALSESWIPE",
+        "FLASHCANNON",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUARDSWAP",
+        "GYROBALL",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POWERSWAP",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SNORE",
+        "SOLARBEAM",
+        "SPEEDSWAP",
+        "STEELBEAM",
+        "STEELROLLER",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRIATTACK",
+        "TRICK",
+        "TRICKROOM",
+        "VOLTSWITCH",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 80.5,
+    "abilities": [
+        "SOULHEART"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        80,
+        95,
+        115,
+        65,
+        130,
+        115
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Magearna",
+    "species": "MAGEARNA",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 300,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 7,
+            "primaryType": "STEEL",
+            "secondaryType": "FAIRY",
+            "moves": [
+                [
+                    1,
+                    "GYROBALL"
+                ],
+                [
+                    1,
+                    "HELPINGHAND"
+                ],
+                [
+                    6,
+                    "DEFENSECURL"
+                ],
+                [
+                    12,
+                    "ROLLOUT"
+                ],
+                [
+                    18,
+                    "IRONDEFENSE"
+                ],
+                [
+                    24,
+                    "GEARUP"
+                ],
+                [
+                    24,
+                    "MAGNETICFLUX"
+                ],
+                [
+                    30,
+                    "PSYBEAM"
+                ],
+                [
+                    36,
+                    "AURORABEAM"
+                ],
+                [
+                    42,
+                    "MINDREADER"
+                ],
+                [
+                    48,
+                    "SHIFTGEAR"
+                ],
+                [
+                    54,
+                    "CRAFTYSHIELD"
+                ],
+                [
+                    54,
+                    "TRICK"
+                ],
+                [
+                    60,
+                    "IRONHEAD"
+                ],
+                [
+                    66,
+                    "AURASPHERE"
+                ],
+                [
+                    72,
+                    "FLASHCANNON"
+                ],
+                [
+                    78,
+                    "PAINSPLIT"
+                ],
+                [
+                    84,
+                    "ZAPCANNON"
+                ],
+                [
+                    90,
+                    "FLEURCANNON"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "AGILITY",
+                "AURASPHERE",
+                "BATONPASS",
+                "BRICKBREAK",
+                "CALMMIND",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "ECHOEDVOICE",
+                "EERIEIMPULSE",
+                "ELECTROBALL",
+                "ELECTROWEB",
+                "EMBARGO",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPLOSION",
+                "FALSESWIPE",
+                "FLASHCANNON",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GUARDSWAP",
+                "GYROBALL",
+                "HEALBELL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "IMPRISON",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MIMIC",
+                "MISTYEXPLOSION",
+                "NATURALGIFT",
+                "PAINSPLIT",
+                "POWERSWAP",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SNORE",
+                "SOLARBEAM",
+                "SPEEDSWAP",
+                "STEELBEAM",
+                "STEELROLLER",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRIATTACK",
+                "TRICK",
+                "TRICKROOM",
+                "VOLTSWITCH",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.0,
+            "weight": 80.5,
+            "abilities": [
+                "SOULHEART"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                80,
+                95,
+                115,
+                65,
+                130,
+                115
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 0,
+            "formName": "Magearna"
+        },
+        {
+            "generation": 7,
+            "primaryType": "STEEL",
+            "secondaryType": "FAIRY",
+            "moves": [
+                [
+                    1,
+                    "GYROBALL"
+                ],
+                [
+                    1,
+                    "HELPINGHAND"
+                ],
+                [
+                    6,
+                    "DEFENSECURL"
+                ],
+                [
+                    12,
+                    "ROLLOUT"
+                ],
+                [
+                    18,
+                    "IRONDEFENSE"
+                ],
+                [
+                    24,
+                    "GEARUP"
+                ],
+                [
+                    24,
+                    "MAGNETICFLUX"
+                ],
+                [
+                    30,
+                    "PSYBEAM"
+                ],
+                [
+                    36,
+                    "AURORABEAM"
+                ],
+                [
+                    42,
+                    "MINDREADER"
+                ],
+                [
+                    48,
+                    "SHIFTGEAR"
+                ],
+                [
+                    54,
+                    "CRAFTYSHIELD"
+                ],
+                [
+                    54,
+                    "TRICK"
+                ],
+                [
+                    60,
+                    "IRONHEAD"
+                ],
+                [
+                    66,
+                    "AURASPHERE"
+                ],
+                [
+                    72,
+                    "FLASHCANNON"
+                ],
+                [
+                    78,
+                    "PAINSPLIT"
+                ],
+                [
+                    84,
+                    "ZAPCANNON"
+                ],
+                [
+                    90,
+                    "FLEURCANNON"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "AGILITY",
+                "AURASPHERE",
+                "BATONPASS",
+                "BRICKBREAK",
+                "CALMMIND",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "ECHOEDVOICE",
+                "EERIEIMPULSE",
+                "ELECTROBALL",
+                "ELECTROWEB",
+                "EMBARGO",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPLOSION",
+                "FALSESWIPE",
+                "FLASHCANNON",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GUARDSWAP",
+                "GYROBALL",
+                "HEALBELL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "IMPRISON",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MIMIC",
+                "MISTYEXPLOSION",
+                "NATURALGIFT",
+                "PAINSPLIT",
+                "POWERSWAP",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SNORE",
+                "SOLARBEAM",
+                "SPEEDSWAP",
+                "STEELBEAM",
+                "STEELROLLER",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRIATTACK",
+                "TRICK",
+                "TRICKROOM",
+                "VOLTSWITCH",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.0,
+            "weight": 80.5,
+            "abilities": [
+                "SOULHEART"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                80,
+                95,
+                115,
+                65,
+                130,
+                115
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 1,
+            "formName": "Forma Color Vetusta"
+        }
+    ],
+    "internationalPokedex": 801
+}

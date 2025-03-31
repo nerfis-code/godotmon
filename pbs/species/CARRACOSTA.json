@@ -1,0 +1,176 @@
+{
+    "generation": 5,
+    "primaryType": "WATER",
+    "secondaryType": "ROCK",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            1,
+            "AQUAJET"
+        ],
+        [
+            9,
+            "SMACKDOWN"
+        ],
+        [
+            12,
+            "ANCIENTPOWER"
+        ],
+        [
+            15,
+            "BITE"
+        ],
+        [
+            18,
+            "WIDEGUARD"
+        ],
+        [
+            21,
+            "BRINE"
+        ],
+        [
+            24,
+            "ROCKSLIDE"
+        ],
+        [
+            27,
+            "CRUNCH"
+        ],
+        [
+            30,
+            "CURSE"
+        ],
+        [
+            33,
+            "IRONDEFENSE"
+        ],
+        [
+            36,
+            "AQUATAIL"
+        ],
+        [
+            41,
+            "RAINDANCE"
+        ],
+        [
+            46,
+            "HYDROPUMP"
+        ],
+        [
+            51,
+            "SHELLSMASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYSLAM",
+        "BRINE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GUARDSWAP",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LIQUIDATION",
+        "LOWKICK",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "RAZORSHELL",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 81.0,
+    "abilities": [
+        "SOLIDROCK",
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "SWIFTSWIM"
+    ],
+    "baseTotal": 495,
+    "baseStats": [
+        74,
+        108,
+        133,
+        32,
+        83,
+        65
+    ],
+    "flags": [],
+    "name": "Carracosta",
+    "species": "CARRACOSTA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 173,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 565
+}

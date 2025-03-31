@@ -1,0 +1,141 @@
+{
+    "generation": 1,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "LEER"
+        ],
+        [
+            8,
+            "ASSURANCE"
+        ],
+        [
+            11,
+            "FURYATTACK"
+        ],
+        [
+            15,
+            "AERIALACE"
+        ],
+        [
+            18,
+            "WINGATTACK"
+        ],
+        [
+            22,
+            "TAKEDOWN"
+        ],
+        [
+            25,
+            "AGILITY"
+        ],
+        [
+            29,
+            "FOCUSENERGY"
+        ],
+        [
+            32,
+            "ROOST"
+        ],
+        [
+            36,
+            "DRILLPECK"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLY",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TWISTER",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "ASTONISH",
+        "FEATHERDANCE",
+        "QUICKATTACK",
+        "SCARYFACE",
+        "SKYATTACK",
+        "TRIATTACK",
+        "UPROAR",
+        "WHIRLWIND"
+    ],
+    "height": 0.3,
+    "weight": 2.0,
+    "abilities": [
+        "KEENEYE"
+    ],
+    "hiddenAbilitie": [
+        "SNIPER"
+    ],
+    "baseTotal": 262,
+    "baseStats": [
+        40,
+        60,
+        30,
+        70,
+        31,
+        31
+    ],
+    "flags": [],
+    "name": "Spearow",
+    "species": "SPEAROW",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 52,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 21
+}

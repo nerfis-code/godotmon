@@ -1,0 +1,154 @@
+{
+    "generation": 4,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            4,
+            "GROWL"
+        ],
+        [
+            8,
+            "WATERGUN"
+        ],
+        [
+            11,
+            "CHARM"
+        ],
+        [
+            15,
+            "PECK"
+        ],
+        [
+            18,
+            "BUBBLEBEAM"
+        ],
+        [
+            22,
+            "SWAGGER"
+        ],
+        [
+            25,
+            "FURYATTACK"
+        ],
+        [
+            29,
+            "BRINE"
+        ],
+        [
+            32,
+            "WHIRLPOOL"
+        ],
+        [
+            36,
+            "MIST"
+        ],
+        [
+            39,
+            "DRILLPECK"
+        ],
+        [
+            43,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BLIZZARD",
+        "BRICKBREAK",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DEFOG",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PLUCK",
+        "PROTECT",
+        "QUASH",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "AGILITY",
+        "AQUARING",
+        "DOUBLEHIT",
+        "FEATHERDANCE",
+        "FLAIL",
+        "HYDROPUMP",
+        "ICYWIND",
+        "MUDSLAP",
+        "SNORE",
+        "SUPERSONIC",
+        "YAWN"
+    ],
+    "height": 0.4,
+    "weight": 5.2,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "COMPETITIVE"
+    ],
+    "baseTotal": 314,
+    "baseStats": [
+        53,
+        51,
+        53,
+        40,
+        61,
+        56
+    ],
+    "flags": [],
+    "name": "Piplup",
+    "species": "PIPLUP",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 63,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 393
+}

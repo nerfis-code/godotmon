@@ -1,0 +1,148 @@
+{
+    "generation": 8,
+    "primaryType": "STEEL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            5,
+            "ROLLOUT"
+        ],
+        [
+            10,
+            "ROCKSMASH"
+        ],
+        [
+            15,
+            "BULLDOZE"
+        ],
+        [
+            20,
+            "STOMP"
+        ],
+        [
+            25,
+            "IRONDEFENSE"
+        ],
+        [
+            30,
+            "DIG"
+        ],
+        [
+            35,
+            "STRENGTH"
+        ],
+        [
+            40,
+            "IRONHEAD"
+        ],
+        [
+            45,
+            "PLAYROUGH"
+        ],
+        [
+            50,
+            "HIGHHORSEPOWER"
+        ],
+        [
+            55,
+            "SUPERPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MEGAKICK",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "POWERWHIP",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STEELROLLER",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TOXIC",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "BELCH",
+        "CURSE",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "FISSURE",
+        "SLAM",
+        "SWAGGER",
+        "WHIRLWIND"
+    ],
+    "height": 1.2,
+    "weight": 100.0,
+    "abilities": [
+        "SHEERFORCE"
+    ],
+    "hiddenAbilitie": [
+        "HEAVYMETAL"
+    ],
+    "baseTotal": 330,
+    "baseStats": [
+        72,
+        80,
+        49,
+        40,
+        40,
+        49
+    ],
+    "flags": [],
+    "name": "Cufant",
+    "species": "CUFANT",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 66,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 878
+}

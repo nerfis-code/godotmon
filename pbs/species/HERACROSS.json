@@ -1,0 +1,536 @@
+{
+    "generation": 2,
+    "primaryType": "BUG",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "ARMTHRUST"
+        ],
+        [
+            5,
+            "FURYATTACK"
+        ],
+        [
+            10,
+            "ENDURE"
+        ],
+        [
+            15,
+            "AERIALACE"
+        ],
+        [
+            20,
+            "HORNATTACK"
+        ],
+        [
+            25,
+            "COUNTER"
+        ],
+        [
+            30,
+            "BRICKBREAK"
+        ],
+        [
+            35,
+            "PINMISSILE"
+        ],
+        [
+            40,
+            "THROATCHOP"
+        ],
+        [
+            45,
+            "THRASH"
+        ],
+        [
+            50,
+            "SWORDSDANCE"
+        ],
+        [
+            55,
+            "MEGAHORN"
+        ],
+        [
+            60,
+            "CLOSECOMBAT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BUGBITE",
+        "BULKUP",
+        "BULLDOZE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LOWKICK",
+        "MEGAHORN",
+        "MIMIC",
+        "NATURALGIFT",
+        "PINMISSILE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SPIKES",
+        "STONEEDGE",
+        "STRENGTH",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THIEF",
+        "THROATCHOP",
+        "VACUUMWAVE",
+        "VENOSHOCK",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "DOUBLEEDGE",
+        "FEINT",
+        "FLAIL",
+        "HARDEN",
+        "MEGAHORN",
+        "NIGHTSLASH",
+        "REVENGE",
+        "ROCKBLAST",
+        "SEISMICTOSS",
+        "TAKEDOWN"
+    ],
+    "height": 1.5,
+    "weight": 54.0,
+    "abilities": [
+        "SWARM",
+        "GUTS"
+    ],
+    "hiddenAbilitie": [
+        "MOXIE"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        80,
+        125,
+        75,
+        85,
+        40,
+        95
+    ],
+    "flags": [],
+    "name": "Heracross",
+    "species": "HERACROSS",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 2,
+            "primaryType": "BUG",
+            "secondaryType": "FIGHTING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "ARMTHRUST"
+                ],
+                [
+                    5,
+                    "FURYATTACK"
+                ],
+                [
+                    10,
+                    "ENDURE"
+                ],
+                [
+                    15,
+                    "AERIALACE"
+                ],
+                [
+                    20,
+                    "HORNATTACK"
+                ],
+                [
+                    25,
+                    "COUNTER"
+                ],
+                [
+                    30,
+                    "BRICKBREAK"
+                ],
+                [
+                    35,
+                    "PINMISSILE"
+                ],
+                [
+                    40,
+                    "THROATCHOP"
+                ],
+                [
+                    45,
+                    "THRASH"
+                ],
+                [
+                    50,
+                    "SWORDSDANCE"
+                ],
+                [
+                    55,
+                    "MEGAHORN"
+                ],
+                [
+                    60,
+                    "CLOSECOMBAT"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BUGBITE",
+                "BULKUP",
+                "BULLDOZE",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "COACHING",
+                "CONFIDE",
+                "COUNTER",
+                "CUT",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "KNOCKOFF",
+                "LOWKICK",
+                "MEGAHORN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PINMISSILE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROCKBLAST",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SMARTSTRIKE",
+                "SNORE",
+                "SPIKES",
+                "STONEEDGE",
+                "STRENGTH",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "THIEF",
+                "THROATCHOP",
+                "VACUUMWAVE",
+                "VENOSHOCK",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "DOUBLEEDGE",
+                "FEINT",
+                "FLAIL",
+                "HARDEN",
+                "MEGAHORN",
+                "NIGHTSLASH",
+                "REVENGE",
+                "ROCKBLAST",
+                "SEISMICTOSS",
+                "TAKEDOWN"
+            ],
+            "height": 1.5,
+            "weight": 54.0,
+            "abilities": [
+                "SWARM",
+                "GUTS"
+            ],
+            "hiddenAbilitie": [
+                "MOXIE"
+            ],
+            "baseTotal": 500,
+            "baseStats": [
+                80,
+                125,
+                75,
+                85,
+                40,
+                95
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Heracross"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FIGHTING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "ARMTHRUST"
+                ],
+                [
+                    5,
+                    "FURYATTACK"
+                ],
+                [
+                    10,
+                    "ENDURE"
+                ],
+                [
+                    15,
+                    "AERIALACE"
+                ],
+                [
+                    20,
+                    "HORNATTACK"
+                ],
+                [
+                    25,
+                    "COUNTER"
+                ],
+                [
+                    30,
+                    "BRICKBREAK"
+                ],
+                [
+                    35,
+                    "PINMISSILE"
+                ],
+                [
+                    40,
+                    "THROATCHOP"
+                ],
+                [
+                    45,
+                    "THRASH"
+                ],
+                [
+                    50,
+                    "SWORDSDANCE"
+                ],
+                [
+                    55,
+                    "MEGAHORN"
+                ],
+                [
+                    60,
+                    "CLOSECOMBAT"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BUGBITE",
+                "BULKUP",
+                "BULLDOZE",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "COACHING",
+                "CONFIDE",
+                "COUNTER",
+                "CUT",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "KNOCKOFF",
+                "LOWKICK",
+                "MEGAHORN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PINMISSILE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROCKBLAST",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SMARTSTRIKE",
+                "SNORE",
+                "SPIKES",
+                "STONEEDGE",
+                "STRENGTH",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "THIEF",
+                "THROATCHOP",
+                "VACUUMWAVE",
+                "VENOSHOCK",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "DOUBLEEDGE",
+                "FEINT",
+                "FLAIL",
+                "HARDEN",
+                "MEGAHORN",
+                "NIGHTSLASH",
+                "REVENGE",
+                "ROCKBLAST",
+                "SEISMICTOSS",
+                "TAKEDOWN"
+            ],
+            "height": 1.7,
+            "weight": 62.5,
+            "abilities": [
+                "SKILLLINK"
+            ],
+            "hiddenAbilitie": [
+                "SKILLLINK"
+            ],
+            "baseTotal": 600,
+            "baseStats": [
+                80,
+                185,
+                115,
+                75,
+                40,
+                105
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Heracross"
+        }
+    ],
+    "internationalPokedex": 214
+}

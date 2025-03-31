@@ -1,0 +1,166 @@
+{
+    "generation": 3,
+    "primaryType": "BUG",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "BUGBITE"
+        ],
+        [
+            12,
+            "CONFUSION"
+        ],
+        [
+            15,
+            "POISONPOWDER"
+        ],
+        [
+            17,
+            "MOONLIGHT"
+        ],
+        [
+            20,
+            "VENOSHOCK"
+        ],
+        [
+            22,
+            "PSYBEAM"
+        ],
+        [
+            25,
+            "LEECHLIFE"
+        ],
+        [
+            27,
+            "LIGHTSCREEN"
+        ],
+        [
+            30,
+            "WHIRLWIND"
+        ],
+        [
+            32,
+            "TOXIC"
+        ],
+        [
+            35,
+            "BUGBUZZ"
+        ],
+        [
+            37,
+            "PROTECT"
+        ],
+        [
+            40,
+            "QUIVERDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ELECTROWEB",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TOXIC",
+        "TWISTER",
+        "UTURN",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 31.6,
+    "abilities": [
+        "SHIELDDUST"
+    ],
+    "hiddenAbilitie": [
+        "COMPOUNDEYES"
+    ],
+    "baseTotal": 385,
+    "baseStats": [
+        60,
+        50,
+        70,
+        65,
+        50,
+        90
+    ],
+    "flags": [],
+    "name": "Dustox",
+    "species": "DUSTOX",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 193,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 269
+}

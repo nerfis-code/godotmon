@@ -1,0 +1,146 @@
+{
+    "generation": 5,
+    "primaryType": "GRASS",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            5,
+            "METALCLAW"
+        ],
+        [
+            10,
+            "PINMISSILE"
+        ],
+        [
+            15,
+            "INGRAIN"
+        ],
+        [
+            20,
+            "FLASHCANNON"
+        ],
+        [
+            25,
+            "IRONHEAD"
+        ],
+        [
+            30,
+            "SELFDESTRUCT"
+        ],
+        [
+            35,
+            "IRONDEFENSE"
+        ],
+        [
+            41,
+            "CURSE"
+        ],
+        [
+            45,
+            "GYROBALL"
+        ],
+        [
+            50,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRAVITY",
+        "GYROBALL",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "PINMISSILE",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROCKPOLISH",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPIKES",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STEELROLLER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "ACIDSPRAY",
+        "GRAVITY",
+        "KNOCKOFF",
+        "LEECHSEED",
+        "TOXIC"
+    ],
+    "height": 0.6,
+    "weight": 18.8,
+    "abilities": [
+        "IRONBARBS"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 305,
+    "baseStats": [
+        44,
+        50,
+        91,
+        10,
+        24,
+        86
+    ],
+    "flags": [],
+    "name": "Ferroseed",
+    "species": "FERROSEED",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 597
+}

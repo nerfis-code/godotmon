@@ -1,0 +1,145 @@
+{
+    "generation": 4,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            6,
+            "LEAFAGE"
+        ],
+        [
+            10,
+            "GROWTH"
+        ],
+        [
+            13,
+            "RAZORLEAF"
+        ],
+        [
+            17,
+            "CURSE"
+        ],
+        [
+            22,
+            "BITE"
+        ],
+        [
+            27,
+            "MEGADRAIN"
+        ],
+        [
+            32,
+            "LEECHSEED"
+        ],
+        [
+            37,
+            "SYNTHESIS"
+        ],
+        [
+            42,
+            "CRUNCH"
+        ],
+        [
+            47,
+            "GIGADRAIN"
+        ],
+        [
+            52,
+            "LEAFSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSMASH",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 97.0,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "SHELLARMOR"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        75,
+        89,
+        85,
+        36,
+        55,
+        65
+    ],
+    "flags": [],
+    "name": "Grotle",
+    "species": "GROTLE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 142,
+    "evs": [
+        "ATTACK",
+        1,
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 388
+}

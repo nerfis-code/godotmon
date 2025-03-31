@@ -1,0 +1,155 @@
+{
+    "generation": 5,
+    "primaryType": "BUG",
+    "secondaryType": "ROCK",
+    "moves": [
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            4,
+            "WITHDRAW"
+        ],
+        [
+            8,
+            "SMACKDOWN"
+        ],
+        [
+            12,
+            "BUGBITE"
+        ],
+        [
+            16,
+            "FLAIL"
+        ],
+        [
+            20,
+            "SLASH"
+        ],
+        [
+            24,
+            "ROCKSLIDE"
+        ],
+        [
+            28,
+            "STEALTHROCK"
+        ],
+        [
+            32,
+            "ROCKBLAST"
+        ],
+        [
+            36,
+            "XSCISSOR"
+        ],
+        [
+            40,
+            "ROCKPOLISH"
+        ],
+        [
+            44,
+            "SHELLSMASH"
+        ],
+        [
+            48,
+            "ROCKWRECKER"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BLOCK",
+        "BUGBITE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "SPIKES",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STRENGTH",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TOXIC",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "BLOCK",
+        "COUNTER",
+        "CURSE",
+        "KNOCKOFF",
+        "NIGHTSLASH",
+        "WIDEGUARD"
+    ],
+    "height": 0.3,
+    "weight": 14.5,
+    "abilities": [
+        "STURDY",
+        "SHELLARMOR"
+    ],
+    "hiddenAbilitie": [
+        "WEAKARMOR"
+    ],
+    "baseTotal": 325,
+    "baseStats": [
+        50,
+        65,
+        85,
+        55,
+        35,
+        35
+    ],
+    "flags": [],
+    "name": "Dwebble",
+    "species": "DWEBBLE",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 65,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 557
+}

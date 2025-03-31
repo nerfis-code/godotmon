@@ -1,0 +1,172 @@
+{
+    "generation": 9,
+    "primaryType": "FIGHTING",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "BREAKINGSWIPE"
+        ],
+        [
+            1,
+            "SUNNYDAY"
+        ],
+        [
+            7,
+            "ROCKSMASH"
+        ],
+        [
+            14,
+            "ANCIENTPOWER"
+        ],
+        [
+            21,
+            "DRAINPUNCH"
+        ],
+        [
+            28,
+            "BRICKBREAK"
+        ],
+        [
+            35,
+            "AGILITY"
+        ],
+        [
+            42,
+            "DRAGONCLAW"
+        ],
+        [
+            49,
+            "FLAMETHROWER"
+        ],
+        [
+            56,
+            "COLLISIONCOURSE"
+        ],
+        [
+            63,
+            "SCREECH"
+        ],
+        [
+            70,
+            "COUNTER"
+        ],
+        [
+            77,
+            "OUTRAGE"
+        ],
+        [
+            84,
+            "CLOSECOMBAT"
+        ],
+        [
+            91,
+            "FLAREBLITZ"
+        ],
+        [
+            98,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AGILITY",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CLOSECOMBAT",
+        "CRUNCH",
+        "DIG",
+        "DOUBLEEDGE",
+        "DRACOMETEOR",
+        "DRAGONCHEER",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DRAINPUNCH",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "GIGAIMPACT",
+        "HEATCRASH",
+        "HEATWAVE",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HYPERBEAM",
+        "ICEFANG",
+        "IRONHEAD",
+        "LOWKICK",
+        "LOWSWEEP",
+        "METEORBEAM",
+        "MUDSHOT",
+        "MUDSLAP",
+        "OUTRAGE",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "REVERSAL",
+        "ROAR",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNARL",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "TAUNT",
+        "TEMPERFLARE",
+        "THUNDERFANG",
+        "UPROAR",
+        "UTURN",
+        "WILDCHARGE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.5,
+    "weight": 303.0,
+    "abilities": [
+        "ORICHALCUMPULSE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 670,
+    "baseStats": [
+        100,
+        135,
+        115,
+        135,
+        85,
+        100
+    ],
+    "flags": [
+        "Paradox",
+        "Legendary"
+    ],
+    "name": "Koraidon",
+    "species": "KORAIDON",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 335,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 1007
+}

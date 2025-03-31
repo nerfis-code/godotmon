@@ -1,0 +1,196 @@
+{
+    "generation": 3,
+    "primaryType": "GROUND",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            -1,
+            "DRAGONBREATH"
+        ],
+        [
+            -1,
+            "BULLDOZE"
+        ],
+        [
+            -1,
+            "CRUNCH"
+        ],
+        [
+            -1,
+            "SUPERPOWER"
+        ],
+        [
+            -1,
+            "FISSURE"
+        ],
+        [
+            -1,
+            "ASTONISH"
+        ],
+        [
+            -1,
+            "SUPERSONIC"
+        ],
+        [
+            1,
+            "LASERFOCUS"
+        ],
+        [
+            1,
+            "DIG"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            12,
+            "MUDSLAP"
+        ],
+        [
+            16,
+            "SANDTOMB"
+        ],
+        [
+            20,
+            "DRAGONTAIL"
+        ],
+        [
+            24,
+            "SCREECH"
+        ],
+        [
+            28,
+            "BUGBUZZ"
+        ],
+        [
+            32,
+            "SANDSTORM"
+        ],
+        [
+            38,
+            "EARTHPOWER"
+        ],
+        [
+            44,
+            "EARTHQUAKE"
+        ],
+        [
+            50,
+            "UPROAR"
+        ],
+        [
+            56,
+            "DRAGONRUSH"
+        ],
+        [
+            62,
+            "BOOMBURST"
+        ]
+    ],
+    "tutorMoves": [
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ATTRACT",
+        "BODYSLAM",
+        "BUGBITE",
+        "BUGBUZZ",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DEFOG",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONPULSE",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "OUTRAGE",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCORCHINGSANDS",
+        "SCREECH",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "STRENGTH",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THROATCHOP",
+        "TWISTER",
+        "UPROAR",
+        "UTURN"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 15.3,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 340,
+    "baseStats": [
+        50,
+        70,
+        50,
+        70,
+        50,
+        50
+    ],
+    "flags": [],
+    "name": "Vibrava",
+    "species": "VIBRAVA",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 119,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 329
+}

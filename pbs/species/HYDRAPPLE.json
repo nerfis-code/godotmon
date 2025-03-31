@@ -1,0 +1,160 @@
+{
+    "generation": 9,
+    "primaryType": "GRASS",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            -1,
+            "YAWN"
+        ],
+        [
+            -1,
+            "DOUBLEHIT"
+        ],
+        [
+            -1,
+            "INFESTATION"
+        ],
+        [
+            -1,
+            "FICKLEBEAM"
+        ],
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            1,
+            "RECYCLE"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            4,
+            "DRAGONTAIL"
+        ],
+        [
+            8,
+            "GROWTH"
+        ],
+        [
+            12,
+            "DRAGONBREATH"
+        ],
+        [
+            16,
+            "PROTECT"
+        ],
+        [
+            20,
+            "BULLETSEED"
+        ],
+        [
+            28,
+            "SYRUPBOMB"
+        ],
+        [
+            32,
+            "DRAGONPULSE"
+        ],
+        [
+            36,
+            "RECOVER"
+        ],
+        [
+            40,
+            "ENERGYBALL"
+        ],
+        [
+            44,
+            "SUBSTITUTE"
+        ],
+        [
+            54,
+            "POWERWHIP"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BUGBITE",
+        "BULLETSEED",
+        "CURSE",
+        "DOUBLEEDGE",
+        "DRACOMETEOR",
+        "DRAGONCHEER",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "GYROBALL",
+        "HEAVYSLAM",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "LEAFSTORM",
+        "MAGICALLEAF",
+        "NASTYPLOT",
+        "OUTRAGE",
+        "POLLENPUFF",
+        "POUNCE",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "UPROAR"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 93.0,
+    "abilities": [
+        "SUPERSWEETSYRUP",
+        "REGENERATOR"
+    ],
+    "hiddenAbilitie": [
+        "STICKYHOLD"
+    ],
+    "baseTotal": 540,
+    "baseStats": [
+        106,
+        80,
+        110,
+        44,
+        120,
+        80
+    ],
+    "flags": [],
+    "name": "Hydrapple",
+    "species": "HYDRAPPLE",
+    "catchRate": 10,
+    "happiness": 50,
+    "baseExp": 270,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 1019
+}

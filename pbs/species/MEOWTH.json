@@ -1,0 +1,834 @@
+{
+    "generation": 1,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "FAKEOUT"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "FEINT"
+        ],
+        [
+            8,
+            "SCRATCH"
+        ],
+        [
+            12,
+            "PAYDAY"
+        ],
+        [
+            16,
+            "BITE"
+        ],
+        [
+            20,
+            "TAUNT"
+        ],
+        [
+            24,
+            "ASSURANCE"
+        ],
+        [
+            29,
+            "FURYSWIPES"
+        ],
+        [
+            32,
+            "SCREECH"
+        ],
+        [
+            36,
+            "SLASH"
+        ],
+        [
+            40,
+            "NASTYPLOT"
+        ],
+        [
+            44,
+            "PLAYROUGH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AMNESIA",
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DARKPULSE",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERVOICE",
+        "ICYWIND",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PAYDAY",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "TORMENT",
+        "UPROAR",
+        "UTURN",
+        "WATERPULSE",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "CHARM",
+        "COVET",
+        "FLAIL",
+        "FOULPLAY",
+        "HYPNOSIS",
+        "LASTRESORT",
+        "SPITE",
+        "TAILWHIP"
+    ],
+    "height": 0.4,
+    "weight": 4.2,
+    "abilities": [
+        "PICKUP",
+        "TECHNICIAN"
+    ],
+    "hiddenAbilitie": [
+        "UNNERVE"
+    ],
+    "baseTotal": 290,
+    "baseStats": [
+        40,
+        45,
+        35,
+        90,
+        40,
+        40
+    ],
+    "flags": [],
+    "name": "Meowth",
+    "species": "MEOWTH",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 58,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "FAKEOUT"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    4,
+                    "FEINT"
+                ],
+                [
+                    8,
+                    "SCRATCH"
+                ],
+                [
+                    12,
+                    "PAYDAY"
+                ],
+                [
+                    16,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "TAUNT"
+                ],
+                [
+                    24,
+                    "ASSURANCE"
+                ],
+                [
+                    29,
+                    "FURYSWIPES"
+                ],
+                [
+                    32,
+                    "SCREECH"
+                ],
+                [
+                    36,
+                    "SLASH"
+                ],
+                [
+                    40,
+                    "NASTYPLOT"
+                ],
+                [
+                    44,
+                    "PLAYROUGH"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AMNESIA",
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DARKPULSE",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GUNKSHOT",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERVOICE",
+                "ICYWIND",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LASTRESORT",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PAYDAY",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDER",
+                "THUNDERBOLT",
+                "TORMENT",
+                "UPROAR",
+                "UTURN",
+                "WATERPULSE",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "AMNESIA",
+                "CHARM",
+                "COVET",
+                "FLAIL",
+                "FOULPLAY",
+                "HYPNOSIS",
+                "LASTRESORT",
+                "SPITE",
+                "TAILWHIP"
+            ],
+            "height": 0.4,
+            "weight": 4.2,
+            "abilities": [
+                "PICKUP",
+                "TECHNICIAN"
+            ],
+            "hiddenAbilitie": [
+                "UNNERVE"
+            ],
+            "baseTotal": 290,
+            "baseStats": [
+                40,
+                45,
+                35,
+                90,
+                40,
+                40
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Meowth"
+        },
+        {
+            "generation": 7,
+            "primaryType": "DARK",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "FAKEOUT"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    4,
+                    "FEINT"
+                ],
+                [
+                    8,
+                    "SCRATCH"
+                ],
+                [
+                    12,
+                    "PAYDAY"
+                ],
+                [
+                    16,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "TAUNT"
+                ],
+                [
+                    24,
+                    "ASSURANCE"
+                ],
+                [
+                    29,
+                    "FURYSWIPES"
+                ],
+                [
+                    32,
+                    "SCREECH"
+                ],
+                [
+                    36,
+                    "NIGHTSLASH"
+                ],
+                [
+                    40,
+                    "NASTYPLOT"
+                ],
+                [
+                    44,
+                    "PLAYROUGH"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AMNESIA",
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DARKPULSE",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ECHOEDVOICE",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GUNKSHOT",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERVOICE",
+                "ICYWIND",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LASTRESORT",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PAYDAY",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHUP",
+                "QUASH",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDER",
+                "THUNDERBOLT",
+                "TORMENT",
+                "UPROAR",
+                "UTURN",
+                "WATERPULSE",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "AMNESIA",
+                "ASSIST",
+                "CHARM",
+                "COVET",
+                "FLAIL",
+                "FLATTER",
+                "FOULPLAY",
+                "HYPNOSIS",
+                "PARTINGSHOT",
+                "PUNISHMENT",
+                "SNATCH",
+                "SPITE"
+            ],
+            "height": 0.4,
+            "weight": 4.2,
+            "abilities": [
+                "PICKUP",
+                "TECHNICIAN"
+            ],
+            "hiddenAbilitie": [
+                "RATTLED"
+            ],
+            "baseTotal": 290,
+            "baseStats": [
+                40,
+                35,
+                35,
+                90,
+                50,
+                40
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Alola"
+        },
+        {
+            "generation": 8,
+            "primaryType": "STEEL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "FAKEOUT"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    4,
+                    "HONECLAWS"
+                ],
+                [
+                    8,
+                    "SCRATCH"
+                ],
+                [
+                    12,
+                    "PAYDAY"
+                ],
+                [
+                    16,
+                    "METALCLAW"
+                ],
+                [
+                    20,
+                    "TAUNT"
+                ],
+                [
+                    24,
+                    "SWAGGER"
+                ],
+                [
+                    29,
+                    "FURYSWIPES"
+                ],
+                [
+                    32,
+                    "SCREECH"
+                ],
+                [
+                    36,
+                    "SLASH"
+                ],
+                [
+                    40,
+                    "METALSOUND"
+                ],
+                [
+                    44,
+                    "THRASH"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AMNESIA",
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "CRUNCH",
+                "DARKPULSE",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GUNKSHOT",
+                "GYROBALL",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERVOICE",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LASTRESORT",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PAYDAY",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "STEELBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDER",
+                "THUNDERBOLT",
+                "TORMENT",
+                "UPROAR",
+                "UTURN",
+                "WATERPULSE",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "COVET",
+                "CURSE",
+                "DOUBLEEDGE",
+                "FLAIL",
+                "NIGHTSLASH",
+                "SPITE"
+            ],
+            "height": 0.4,
+            "weight": 7.5,
+            "abilities": [
+                "PICKUP",
+                "TOUGHCLAWS"
+            ],
+            "hiddenAbilitie": [
+                "UNNERVE"
+            ],
+            "baseTotal": 290,
+            "baseStats": [
+                50,
+                65,
+                55,
+                40,
+                40,
+                40
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 2,
+            "formName": "Forma Galar"
+        },
+        {
+            "generation": 8,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "FAKEOUT"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    4,
+                    "FEINT"
+                ],
+                [
+                    8,
+                    "SCRATCH"
+                ],
+                [
+                    12,
+                    "PAYDAY"
+                ],
+                [
+                    16,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "TAUNT"
+                ],
+                [
+                    24,
+                    "ASSURANCE"
+                ],
+                [
+                    29,
+                    "FURYSWIPES"
+                ],
+                [
+                    32,
+                    "SCREECH"
+                ],
+                [
+                    36,
+                    "SLASH"
+                ],
+                [
+                    40,
+                    "NASTYPLOT"
+                ],
+                [
+                    44,
+                    "PLAYROUGH"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AMNESIA",
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DARKPULSE",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GUNKSHOT",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERVOICE",
+                "ICYWIND",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LASTRESORT",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PAYDAY",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDER",
+                "THUNDERBOLT",
+                "TORMENT",
+                "UPROAR",
+                "UTURN",
+                "WATERPULSE",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "AMNESIA",
+                "CHARM",
+                "COVET",
+                "FLAIL",
+                "FOULPLAY",
+                "HYPNOSIS",
+                "LASTRESORT",
+                "SPITE",
+                "TAILWHIP"
+            ],
+            "height": 33.0,
+            "weight": 4.2,
+            "abilities": [
+                "PICKUP",
+                "TECHNICIAN"
+            ],
+            "hiddenAbilitie": [
+                "UNNERVE"
+            ],
+            "baseTotal": 290,
+            "baseStats": [
+                40,
+                45,
+                35,
+                90,
+                40,
+                40
+            ],
+            "flags": [],
+            "form": 3,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 52
+}

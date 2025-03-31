@@ -1,0 +1,181 @@
+{
+    "generation": 9,
+    "primaryType": "FIGHTING",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            -1,
+            "SHADOWPUNCH"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "COUNTER"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            1,
+            "FLING"
+        ],
+        [
+            5,
+            "FURYSWIPES"
+        ],
+        [
+            8,
+            "LOWKICK"
+        ],
+        [
+            12,
+            "SEISMICTOSS"
+        ],
+        [
+            17,
+            "SWAGGER"
+        ],
+        [
+            22,
+            "CROSSCHOP"
+        ],
+        [
+            26,
+            "ASSURANCE"
+        ],
+        [
+            30,
+            "THRASH"
+        ],
+        [
+            35,
+            "RAGEFIST"
+        ],
+        [
+            39,
+            "CLOSECOMBAT"
+        ],
+        [
+            44,
+            "SCREECH"
+        ],
+        [
+            48,
+            "STOMPINGTANTRUM"
+        ],
+        [
+            53,
+            "OUTRAGE"
+        ],
+        [
+            57,
+            "FINALGAMBIT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CURSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DRAINPUNCH",
+        "EARTHQUAKE",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HELPINGHAND",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "METRONOME",
+        "NIGHTSHADE",
+        "OUTRAGE",
+        "OVERHEAT",
+        "PHANTOMFORCE",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SCARYFACE",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SPITE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWIFT",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "UPROAR",
+        "UTURN",
+        "VACUUMWAVE"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 56.0,
+    "abilities": [
+        "VITALSPIRIT",
+        "INNERFOCUS"
+    ],
+    "hiddenAbilitie": [
+        "DEFIANT"
+    ],
+    "baseTotal": 535,
+    "baseStats": [
+        110,
+        115,
+        80,
+        90,
+        50,
+        90
+    ],
+    "flags": [],
+    "name": "Annihilape",
+    "species": "ANNIHILAPE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 268,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 979
+}

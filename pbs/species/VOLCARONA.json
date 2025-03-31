@@ -1,0 +1,189 @@
+{
+    "generation": 5,
+    "primaryType": "BUG",
+    "secondaryType": "FIRE",
+    "moves": [
+        [
+            -1,
+            "QUIVERDANCE"
+        ],
+        [
+            1,
+            "FIERYDANCE"
+        ],
+        [
+            1,
+            "WHIRLWIND"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "FLAMECHARGE"
+        ],
+        [
+            1,
+            "TAKEDOWN"
+        ],
+        [
+            1,
+            "DOUBLEEDGE"
+        ],
+        [
+            1,
+            "FLAREBLITZ"
+        ],
+        [
+            1,
+            "FIRESPIN"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "STRUGGLEBUG"
+        ],
+        [
+            18,
+            "FLAMEWHEEL"
+        ],
+        [
+            24,
+            "BUGBITE"
+        ],
+        [
+            30,
+            "SCREECH"
+        ],
+        [
+            36,
+            "LEECHLIFE"
+        ],
+        [
+            42,
+            "BUGBUZZ"
+        ],
+        [
+            48,
+            "HEATWAVE"
+        ],
+        [
+            54,
+            "AMNESIA"
+        ],
+        [
+            62,
+            "HURRICANE"
+        ],
+        [
+            70,
+            "FIREBLAST"
+        ],
+        [
+            78,
+            "RAGEPOWDER"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AMNESIA",
+        "ATTRACT",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLY",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYPERBEAM",
+        "INCINERATE",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "POISONJAB",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAILWIND",
+        "TOXIC",
+        "UTURN",
+        "WILDCHARGE",
+        "WILLOWISP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 46.0,
+    "abilities": [
+        "FLAMEBODY"
+    ],
+    "hiddenAbilitie": [
+        "SWARM"
+    ],
+    "baseTotal": 550,
+    "baseStats": [
+        85,
+        60,
+        65,
+        100,
+        135,
+        105
+    ],
+    "flags": [],
+    "name": "Volcarona",
+    "species": "VOLCARONA",
+    "catchRate": 15,
+    "happiness": 50,
+    "baseExp": 275,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 637
+}

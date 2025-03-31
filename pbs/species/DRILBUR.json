@@ -1,0 +1,148 @@
+{
+    "generation": 5,
+    "primaryType": "GROUND",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "RAPIDSPIN"
+        ],
+        [
+            4,
+            "SCRATCH"
+        ],
+        [
+            8,
+            "HONECLAWS"
+        ],
+        [
+            12,
+            "FURYSWIPES"
+        ],
+        [
+            16,
+            "METALCLAW"
+        ],
+        [
+            20,
+            "SANDSTORM"
+        ],
+        [
+            24,
+            "CRUSHCLAW"
+        ],
+        [
+            28,
+            "ROCKSLIDE"
+        ],
+        [
+            32,
+            "DIG"
+        ],
+        [
+            36,
+            "SWORDSDANCE"
+        ],
+        [
+            40,
+            "DRILLRUN"
+        ],
+        [
+            44,
+            "EARTHQUAKE"
+        ],
+        [
+            48,
+            "FISSURE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HONECLAWS",
+        "IRONDEFENSE",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "STEALTHROCK",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TOXIC",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "METALSOUND",
+        "SLASH",
+        "SUBMISSION"
+    ],
+    "height": 0.3,
+    "weight": 8.5,
+    "abilities": [
+        "SANDRUSH",
+        "SANDFORCE"
+    ],
+    "hiddenAbilitie": [
+        "MOLDBREAKER"
+    ],
+    "baseTotal": 328,
+    "baseStats": [
+        60,
+        85,
+        40,
+        68,
+        30,
+        45
+    ],
+    "flags": [],
+    "name": "Drilbur",
+    "species": "DRILBUR",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 66,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 529
+}

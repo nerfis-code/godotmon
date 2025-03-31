@@ -1,0 +1,177 @@
+{
+    "generation": 7,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            5,
+            "ROCKSMASH"
+        ],
+        [
+            10,
+            "FOCUSENERGY"
+        ],
+        [
+            15,
+            "BEATUP"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            25,
+            "TAKEDOWN"
+        ],
+        [
+            30,
+            "FLING"
+        ],
+        [
+            35,
+            "BULKUP"
+        ],
+        [
+            40,
+            "THRASH"
+        ],
+        [
+            45,
+            "DOUBLEEDGE"
+        ],
+        [
+            50,
+            "CLOSECOMBAT"
+        ],
+        [
+            55,
+            "REVERSAL"
+        ],
+        [
+            60,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BLOCK",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "EARTHQUAKE",
+        "ELECTROWEB",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "GYROBALL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONHEAD",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "COUNTER",
+        "FEINT",
+        "KNOCKOFF",
+        "QUICKATTACK",
+        "QUICKGUARD",
+        "SEISMICTOSS",
+        "VITALTHROW"
+    ],
+    "height": 2.0,
+    "weight": 82.8,
+    "abilities": [
+        "RECEIVER"
+    ],
+    "hiddenAbilitie": [
+        "DEFIANT"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        100,
+        120,
+        90,
+        80,
+        40,
+        60
+    ],
+    "flags": [],
+    "name": "Passimian",
+    "species": "PASSIMIAN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 172,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 766
+}

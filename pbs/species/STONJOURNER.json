@@ -1,0 +1,141 @@
+{
+    "generation": 8,
+    "primaryType": "ROCK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ROCKTHROW"
+        ],
+        [
+            1,
+            "BLOCK"
+        ],
+        [
+            6,
+            "ROCKPOLISH"
+        ],
+        [
+            12,
+            "ROCKTOMB"
+        ],
+        [
+            18,
+            "GRAVITY"
+        ],
+        [
+            24,
+            "STOMP"
+        ],
+        [
+            30,
+            "STEALTHROCK"
+        ],
+        [
+            36,
+            "ROCKSLIDE"
+        ],
+        [
+            42,
+            "BODYSLAM"
+        ],
+        [
+            48,
+            "WIDEGUARD"
+        ],
+        [
+            54,
+            "HEAVYSLAM"
+        ],
+        [
+            60,
+            "STONEEDGE"
+        ],
+        [
+            66,
+            "MEGAKICK"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATCRASH",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "MEGAKICK",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TOXIC",
+        "WONDERROOM"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "CURSE"
+    ],
+    "height": 2.5,
+    "weight": 520.0,
+    "abilities": [
+        "POWERSPOT"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 470,
+    "baseStats": [
+        100,
+        125,
+        135,
+        70,
+        20,
+        20
+    ],
+    "flags": [],
+    "name": "Stonjourner",
+    "species": "STONJOURNER",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 165,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 874
+}

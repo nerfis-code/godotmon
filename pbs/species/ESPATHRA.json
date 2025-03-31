@@ -1,0 +1,158 @@
+{
+    "generation": 9,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "LUMINACRASH"
+        ],
+        [
+            1,
+            "FEATHERDANCE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "DRILLPECK"
+        ],
+        [
+            5,
+            "CONFUSION"
+        ],
+        [
+            8,
+            "BABYDOLLEYES"
+        ],
+        [
+            11,
+            "DISARMINGVOICE"
+        ],
+        [
+            15,
+            "QUICKATTACK"
+        ],
+        [
+            19,
+            "PSYBEAM"
+        ],
+        [
+            24,
+            "PLUCK"
+        ],
+        [
+            29,
+            "AGILITY"
+        ],
+        [
+            34,
+            "UPROAR"
+        ],
+        [
+            43,
+            "DAZZLINGGLEAM"
+        ],
+        [
+            49,
+            "PSYCHIC"
+        ],
+        [
+            54,
+            "LASTRESORT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "BATONPASS",
+        "BODYSLAM",
+        "BRAVEBIRD",
+        "CALMMIND",
+        "CONFUSERAY",
+        "DAZZLINGGLEAM",
+        "DISARMINGVOICE",
+        "DOUBLEEDGE",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FEATHERDANCE",
+        "FLASHCANNON",
+        "FOULPLAY",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HEX",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "MUDSLAP",
+        "NIGHTSHADE",
+        "POUNCE",
+        "PROTECT",
+        "PSYBEAM",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "SANDSTORM",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWIFT",
+        "TAKEDOWN",
+        "THIEF",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "UTURN",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 90.0,
+    "abilities": [
+        "OPPORTUNIST",
+        "FRISK"
+    ],
+    "hiddenAbilitie": [
+        "SPEEDBOOST"
+    ],
+    "baseTotal": 481,
+    "baseStats": [
+        95,
+        60,
+        60,
+        105,
+        101,
+        60
+    ],
+    "flags": [],
+    "name": "Espathra",
+    "species": "ESPATHRA",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 168,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 956
+}

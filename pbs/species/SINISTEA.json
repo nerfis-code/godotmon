@@ -1,0 +1,369 @@
+{
+    "generation": 8,
+    "primaryType": "GHOST",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            6,
+            "AROMATICMIST"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            18,
+            "PROTECT"
+        ],
+        [
+            24,
+            "SUCKERPUNCH"
+        ],
+        [
+            30,
+            "AROMATHERAPY"
+        ],
+        [
+            30,
+            "SWEETSCENT"
+        ],
+        [
+            36,
+            "GIGADRAIN"
+        ],
+        [
+            42,
+            "NASTYPLOT"
+        ],
+        [
+            48,
+            "SHADOWBALL"
+        ],
+        [
+            54,
+            "MEMENTO"
+        ],
+        [
+            60,
+            "SHELLSMASH"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "BATONPASS",
+        "CONFIDE",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "HEX",
+        "HIDDENPOWER",
+        "IMPRISON",
+        "METRONOME",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PHANTOMFORCE",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYSHOCK",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC",
+        "TRICK",
+        "WILLOWISP",
+        "WONDERROOM"
+    ],
+    "eggMoves": [],
+    "height": 0.1,
+    "weight": 0.2,
+    "abilities": [
+        "WEAKARMOR"
+    ],
+    "hiddenAbilitie": [
+        "CURSEDBODY"
+    ],
+    "baseTotal": 308,
+    "baseStats": [
+        40,
+        45,
+        45,
+        50,
+        74,
+        54
+    ],
+    "flags": [],
+    "name": "Sinistea",
+    "species": "SINISTEA",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "GHOST",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "WITHDRAW"
+                ],
+                [
+                    6,
+                    "AROMATICMIST"
+                ],
+                [
+                    12,
+                    "MEGADRAIN"
+                ],
+                [
+                    18,
+                    "PROTECT"
+                ],
+                [
+                    24,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    30,
+                    "AROMATHERAPY"
+                ],
+                [
+                    30,
+                    "SWEETSCENT"
+                ],
+                [
+                    36,
+                    "GIGADRAIN"
+                ],
+                [
+                    42,
+                    "NASTYPLOT"
+                ],
+                [
+                    48,
+                    "SHADOWBALL"
+                ],
+                [
+                    54,
+                    "MEMENTO"
+                ],
+                [
+                    60,
+                    "SHELLSMASH"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "BATONPASS",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "HEX",
+                "HIDDENPOWER",
+                "IMPRISON",
+                "METRONOME",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PHANTOMFORCE",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYSHOCK",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNORE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TOXIC",
+                "TRICK",
+                "WILLOWISP",
+                "WONDERROOM"
+            ],
+            "eggMoves": [],
+            "height": 0.1,
+            "weight": 0.2,
+            "abilities": [
+                "WEAKARMOR"
+            ],
+            "hiddenAbilitie": [
+                "CURSEDBODY"
+            ],
+            "baseTotal": 308,
+            "baseStats": [
+                40,
+                45,
+                45,
+                50,
+                74,
+                54
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Falsificada"
+        },
+        {
+            "generation": 8,
+            "primaryType": "GHOST",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "WITHDRAW"
+                ],
+                [
+                    6,
+                    "AROMATICMIST"
+                ],
+                [
+                    12,
+                    "MEGADRAIN"
+                ],
+                [
+                    18,
+                    "PROTECT"
+                ],
+                [
+                    24,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    30,
+                    "AROMATHERAPY"
+                ],
+                [
+                    30,
+                    "SWEETSCENT"
+                ],
+                [
+                    36,
+                    "GIGADRAIN"
+                ],
+                [
+                    42,
+                    "NASTYPLOT"
+                ],
+                [
+                    48,
+                    "SHADOWBALL"
+                ],
+                [
+                    54,
+                    "MEMENTO"
+                ],
+                [
+                    60,
+                    "SHELLSMASH"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "BATONPASS",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "HEX",
+                "HIDDENPOWER",
+                "IMPRISON",
+                "METRONOME",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PHANTOMFORCE",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYSHOCK",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNORE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TOXIC",
+                "TRICK",
+                "WILLOWISP",
+                "WONDERROOM"
+            ],
+            "eggMoves": [],
+            "height": 0.1,
+            "weight": 0.2,
+            "abilities": [
+                "WEAKARMOR"
+            ],
+            "hiddenAbilitie": [
+                "CURSEDBODY"
+            ],
+            "baseTotal": 308,
+            "baseStats": [
+                40,
+                45,
+                45,
+                50,
+                74,
+                54
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Genuina"
+        }
+    ],
+    "internationalPokedex": 854
+}

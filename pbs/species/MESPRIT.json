@@ -1,0 +1,225 @@
+{
+    "generation": 4,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "TRIATTACK"
+        ],
+        [
+            -1,
+            "SNORE"
+        ],
+        [
+            -1,
+            "SAFEGUARD"
+        ],
+        [
+            -1,
+            "IRONTAIL"
+        ],
+        [
+            -1,
+            "PSYCHOCUT"
+        ],
+        [
+            -1,
+            "WONDERROOM"
+        ],
+        [
+            -1,
+            "MAGICROOM"
+        ],
+        [
+            -1,
+            "ROUND"
+        ],
+        [
+            -1,
+            "ALLYSWITCH"
+        ],
+        [
+            -1,
+            "EXPANDINGFORCE"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "REST"
+        ],
+        [
+            7,
+            "SWIFT"
+        ],
+        [
+            14,
+            "PROTECT"
+        ],
+        [
+            21,
+            "PSYBEAM"
+        ],
+        [
+            28,
+            "IMPRISON"
+        ],
+        [
+            35,
+            "EXTRASENSORY"
+        ],
+        [
+            42,
+            "CHARM"
+        ],
+        [
+            49,
+            "PSYCHIC"
+        ],
+        [
+            56,
+            "FLATTER"
+        ],
+        [
+            63,
+            "FUTURESIGHT"
+        ],
+        [
+            70,
+            "COPYCAT"
+        ],
+        [
+            77,
+            "HEALINGWISH"
+        ],
+        [
+            84,
+            "MYSTICALPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ALLYSWITCH",
+        "BATONPASS",
+        "BLIZZARD",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "IMPRISON",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TRIATTACK",
+        "TRICK",
+        "TRICKROOM",
+        "UTURN",
+        "WATERPULSE",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 0.3,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 580,
+    "baseStats": [
+        80,
+        105,
+        105,
+        80,
+        105,
+        105
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Mesprit",
+    "species": "MESPRIT",
+    "catchRate": 3,
+    "happiness": 140,
+    "baseExp": 290,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPECIAL_ATTACK",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 481
+}

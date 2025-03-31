@@ -1,0 +1,143 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            6,
+            "REST"
+        ],
+        [
+            6,
+            "SNORE"
+        ],
+        [
+            12,
+            "WATERPULSE"
+        ],
+        [
+            18,
+            "AMNESIA"
+        ],
+        [
+            24,
+            "AQUATAIL"
+        ],
+        [
+            31,
+            "MUDDYWATER"
+        ],
+        [
+            36,
+            "EARTHQUAKE"
+        ],
+        [
+            42,
+            "FUTURESIGHT"
+        ],
+        [
+            48,
+            "FISSURE"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BOUNCE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONDANCE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "DRAGONDANCE",
+        "EARTHPOWER",
+        "FLAIL",
+        "HYDROPUMP",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "SPARK",
+        "TAKEDOWN",
+        "THRASH",
+        "WHIRLPOOL"
+    ],
+    "height": 0.4,
+    "weight": 1.9,
+    "abilities": [
+        "OBLIVIOUS",
+        "ANTICIPATION"
+    ],
+    "hiddenAbilitie": [
+        "HYDRATION"
+    ],
+    "baseTotal": 288,
+    "baseStats": [
+        50,
+        48,
+        43,
+        60,
+        46,
+        41
+    ],
+    "flags": [],
+    "name": "Barboach",
+    "species": "BARBOACH",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 58,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 339
+}

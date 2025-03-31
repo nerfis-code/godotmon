@@ -1,0 +1,632 @@
+{
+    "generation": 4,
+    "primaryType": "BUG",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "QUIVERDANCE"
+        ],
+        [
+            1,
+            "SUCKERPUNCH"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            10,
+            "PROTECT"
+        ],
+        [
+            15,
+            "BUGBITE"
+        ],
+        [
+            20,
+            "STRINGSHOT"
+        ],
+        [
+            23,
+            "CONFUSION"
+        ],
+        [
+            26,
+            "RAZORLEAF"
+        ],
+        [
+            29,
+            "GROWTH"
+        ],
+        [
+            32,
+            "PSYBEAM"
+        ],
+        [
+            35,
+            "INFESTATION"
+        ],
+        [
+            38,
+            "FLAIL"
+        ],
+        [
+            41,
+            "ATTRACT"
+        ],
+        [
+            44,
+            "PSYCHIC"
+        ],
+        [
+            47,
+            "LEAFSTORM"
+        ],
+        [
+            50,
+            "BUGBUZZ"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BUGBITE",
+        "BUGBUZZ",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ELECTROWEB",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "TELEKINESIS",
+        "THIEF",
+        "UPROAR",
+        "VENOSHOCK",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 0.5,
+    "weight": 6.5,
+    "abilities": [
+        "ANTICIPATION"
+    ],
+    "hiddenAbilitie": [
+        "OVERCOAT"
+    ],
+    "baseTotal": 424,
+    "baseStats": [
+        60,
+        59,
+        85,
+        36,
+        79,
+        105
+    ],
+    "flags": [
+        "InheritFormFromMother"
+    ],
+    "name": "Wormadam",
+    "species": "WORMADAM",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 148,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 100,
+    "forms": [
+        {
+            "generation": 4,
+            "primaryType": "BUG",
+            "secondaryType": "GRASS",
+            "moves": [
+                [
+                    1,
+                    "QUIVERDANCE"
+                ],
+                [
+                    1,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    10,
+                    "PROTECT"
+                ],
+                [
+                    15,
+                    "BUGBITE"
+                ],
+                [
+                    20,
+                    "STRINGSHOT"
+                ],
+                [
+                    23,
+                    "CONFUSION"
+                ],
+                [
+                    26,
+                    "RAZORLEAF"
+                ],
+                [
+                    29,
+                    "GROWTH"
+                ],
+                [
+                    32,
+                    "PSYBEAM"
+                ],
+                [
+                    35,
+                    "INFESTATION"
+                ],
+                [
+                    38,
+                    "FLAIL"
+                ],
+                [
+                    41,
+                    "ATTRACT"
+                ],
+                [
+                    44,
+                    "PSYCHIC"
+                ],
+                [
+                    47,
+                    "LEAFSTORM"
+                ],
+                [
+                    50,
+                    "BUGBUZZ"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BUGBITE",
+                "BUGBUZZ",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SIGNALBEAM",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRINGSHOT",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "TELEKINESIS",
+                "THIEF",
+                "UPROAR",
+                "VENOSHOCK",
+                "WORRYSEED"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 6.5,
+            "abilities": [
+                "ANTICIPATION"
+            ],
+            "hiddenAbilitie": [
+                "OVERCOAT"
+            ],
+            "baseTotal": 424,
+            "baseStats": [
+                60,
+                59,
+                85,
+                36,
+                79,
+                105
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 0,
+            "formName": "Forma Tronco Planta"
+        },
+        {
+            "generation": 4,
+            "primaryType": "BUG",
+            "secondaryType": "GROUND",
+            "moves": [
+                [
+                    0,
+                    "QUIVERDANCE"
+                ],
+                [
+                    1,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "PROTECT"
+                ],
+                [
+                    1,
+                    "BUGBITE"
+                ],
+                [
+                    10,
+                    "PROTECT"
+                ],
+                [
+                    15,
+                    "BUGBITE"
+                ],
+                [
+                    20,
+                    "STRINGSHOT"
+                ],
+                [
+                    23,
+                    "CONFUSION"
+                ],
+                [
+                    26,
+                    "ROCKBLAST"
+                ],
+                [
+                    29,
+                    "HARDEN"
+                ],
+                [
+                    32,
+                    "PSYBEAM"
+                ],
+                [
+                    35,
+                    "INFESTATION"
+                ],
+                [
+                    38,
+                    "FLAIL"
+                ],
+                [
+                    41,
+                    "ATTRACT"
+                ],
+                [
+                    44,
+                    "PSYCHIC"
+                ],
+                [
+                    47,
+                    "FISSURE"
+                ],
+                [
+                    50,
+                    "BUGBUZZ"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BUGBITE",
+                "BUGBUZZ",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SIGNALBEAM",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STRINGSHOT",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TELEKINESIS",
+                "THIEF",
+                "UPROAR",
+                "VENOSHOCK"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 6.5,
+            "abilities": [
+                "ANTICIPATION"
+            ],
+            "hiddenAbilitie": [
+                "OVERCOAT"
+            ],
+            "baseTotal": 424,
+            "baseStats": [
+                60,
+                79,
+                105,
+                36,
+                59,
+                85
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 1,
+            "formName": "Forma Tronco Arena"
+        },
+        {
+            "generation": 4,
+            "primaryType": "BUG",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    0,
+                    "QUIVERDANCE"
+                ],
+                [
+                    1,
+                    "METALBURST"
+                ],
+                [
+                    1,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "PROTECT"
+                ],
+                [
+                    1,
+                    "BUGBITE"
+                ],
+                [
+                    10,
+                    "PROTECT"
+                ],
+                [
+                    15,
+                    "BUGBITE"
+                ],
+                [
+                    20,
+                    "STRINGSHOT"
+                ],
+                [
+                    23,
+                    "CONFUSION"
+                ],
+                [
+                    26,
+                    "METALBURST"
+                ],
+                [
+                    29,
+                    "METALSOUND"
+                ],
+                [
+                    32,
+                    "PSYBEAM"
+                ],
+                [
+                    35,
+                    "INFESTATION"
+                ],
+                [
+                    38,
+                    "FLAIL"
+                ],
+                [
+                    41,
+                    "ATTRACT"
+                ],
+                [
+                    44,
+                    "PSYCHIC"
+                ],
+                [
+                    47,
+                    "IRONHEAD"
+                ],
+                [
+                    50,
+                    "BUGBUZZ"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BUGBITE",
+                "BUGBUZZ",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FLASHCANNON",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "GYROBALL",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SIGNALBEAM",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STRINGSHOT",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TELEKINESIS",
+                "THIEF",
+                "UPROAR",
+                "VENOSHOCK"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 6.5,
+            "abilities": [
+                "ANTICIPATION"
+            ],
+            "hiddenAbilitie": [
+                "OVERCOAT"
+            ],
+            "baseTotal": 424,
+            "baseStats": [
+                60,
+                69,
+                95,
+                36,
+                69,
+                95
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 2,
+            "formName": "Forma Tronco Basura"
+        }
+    ],
+    "internationalPokedex": 413
+}

@@ -1,0 +1,145 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "HYPNOSIS"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "MUDSHOT"
+        ],
+        [
+            18,
+            "BUBBLEBEAM"
+        ],
+        [
+            24,
+            "RAINDANCE"
+        ],
+        [
+            32,
+            "BODYSLAM"
+        ],
+        [
+            40,
+            "EARTHPOWER"
+        ],
+        [
+            48,
+            "HYDROPUMP"
+        ],
+        [
+            56,
+            "BELLYDRUM"
+        ],
+        [
+            66,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "HAIL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "THIEF",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 20.0,
+    "abilities": [
+        "WATERABSORB",
+        "DAMP"
+    ],
+    "hiddenAbilitie": [
+        "SWIFTSWIM"
+    ],
+    "baseTotal": 385,
+    "baseStats": [
+        65,
+        65,
+        65,
+        90,
+        50,
+        50
+    ],
+    "flags": [],
+    "name": "Poliwhirl",
+    "species": "POLIWHIRL",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 135,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 61
+}

@@ -1,0 +1,157 @@
+{
+    "generation": 9,
+    "primaryType": "FLYING",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            1,
+            "MEMENTO"
+        ],
+        [
+            1,
+            "HONECLAWS"
+        ],
+        [
+            1,
+            "WINGATTACK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            7,
+            "THIEF"
+        ],
+        [
+            11,
+            "ROCKTHROW"
+        ],
+        [
+            16,
+            "WHIRLWIND"
+        ],
+        [
+            20,
+            "PLUCK"
+        ],
+        [
+            24,
+            "TORMENT"
+        ],
+        [
+            29,
+            "ROCKTOMB"
+        ],
+        [
+            36,
+            "PAYBACK"
+        ],
+        [
+            42,
+            "DUALWINGBEAT"
+        ],
+        [
+            47,
+            "ROCKSLIDE"
+        ],
+        [
+            53,
+            "KNOCKOFF"
+        ],
+        [
+            60,
+            "PARTINGSHOT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "BRAVEBIRD",
+        "CURSE",
+        "DARKPULSE",
+        "DRILLRUN",
+        "DUALWINGBEAT",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FEATHERDANCE",
+        "FLY",
+        "FOULPLAY",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HURRICANE",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICYWIND",
+        "KNOCKOFF",
+        "LASHOUT",
+        "NASTYPLOT",
+        "POWERGEM",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SNARL",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAILWIND",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "UTURN"
+    ],
+    "eggMoves": [
+        "FEATHERDANCE",
+        "POWERTRIP",
+        "ROOST",
+        "SKYATTACK",
+        "SUCKERPUNCH"
+    ],
+    "height": 1.5,
+    "weight": 42.9,
+    "abilities": [
+        "BIGPECKS",
+        "KEENEYE"
+    ],
+    "hiddenAbilitie": [
+        "ROCKYPAYLOAD"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        70,
+        103,
+        85,
+        82,
+        60,
+        85
+    ],
+    "flags": [],
+    "name": "Bombirdier",
+    "species": "BOMBIRDIER",
+    "catchRate": 25,
+    "happiness": 50,
+    "baseExp": 243,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 962
+}

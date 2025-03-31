@@ -1,0 +1,171 @@
+{
+    "generation": 6,
+    "primaryType": "ROCK",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            4,
+            "WITHDRAW"
+        ],
+        [
+            8,
+            "WATERGUN"
+        ],
+        [
+            12,
+            "FURYCUTTER"
+        ],
+        [
+            16,
+            "FURYSWIPES"
+        ],
+        [
+            20,
+            "ANCIENTPOWER"
+        ],
+        [
+            24,
+            "ROCKPOLISH"
+        ],
+        [
+            28,
+            "SLASH"
+        ],
+        [
+            32,
+            "HONECLAWS"
+        ],
+        [
+            36,
+            "RAZORSHELL"
+        ],
+        [
+            40,
+            "SHELLSMASH"
+        ],
+        [
+            44,
+            "CROSSCHOP"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BLIZZARD",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "EMBARGO",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "ICEBEAM",
+        "ICYWIND",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "RAZORSHELL",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "WATERPULSE",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "NIGHTSLASH",
+        "SANDATTACK",
+        "SWITCHEROO"
+    ],
+    "height": 0.5,
+    "weight": 31.0,
+    "abilities": [
+        "TOUGHCLAWS",
+        "SNIPER"
+    ],
+    "hiddenAbilitie": [
+        "PICKPOCKET"
+    ],
+    "baseTotal": 306,
+    "baseStats": [
+        42,
+        52,
+        67,
+        50,
+        39,
+        56
+    ],
+    "flags": [],
+    "name": "Binacle",
+    "species": "BINACLE",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 688
+}

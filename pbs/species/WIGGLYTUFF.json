@@ -1,0 +1,231 @@
+{
+    "generation": 1,
+    "primaryType": "NORMAL",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "SWEETKISS"
+        ],
+        [
+            1,
+            "DISARMINGVOICE"
+        ],
+        [
+            1,
+            "DISABLE"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "ECHOEDVOICE"
+        ],
+        [
+            1,
+            "COVET"
+        ],
+        [
+            1,
+            "STOCKPILE"
+        ],
+        [
+            1,
+            "SWALLOW"
+        ],
+        [
+            1,
+            "SPITUP"
+        ],
+        [
+            1,
+            "ROUND"
+        ],
+        [
+            1,
+            "REST"
+        ],
+        [
+            1,
+            "BODYSLAM"
+        ],
+        [
+            1,
+            "MIMIC"
+        ],
+        [
+            1,
+            "GYROBALL"
+        ],
+        [
+            1,
+            "HYPERVOICE"
+        ],
+        [
+            1,
+            "DOUBLEEDGE"
+        ],
+        [
+            1,
+            "SING"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "COPYCAT"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            5,
+            "PLAYROUGH"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BATONPASS",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GYROBALL",
+        "HEADBUTT",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "MISTYTERRAIN",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PLAYROUGH",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROLEPLAY",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STEELROLLER",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TRIATTACK",
+        "UPROAR",
+        "WATERPULSE",
+        "WILDCHARGE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 12.0,
+    "abilities": [
+        "CUTECHARM",
+        "COMPETITIVE"
+    ],
+    "hiddenAbilitie": [
+        "FRISK"
+    ],
+    "baseTotal": 435,
+    "baseStats": [
+        140,
+        70,
+        45,
+        45,
+        85,
+        50
+    ],
+    "flags": [],
+    "name": "Wigglytuff",
+    "species": "WIGGLYTUFF",
+    "catchRate": 50,
+    "happiness": 50,
+    "baseExp": 218,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 40
+}

@@ -1,0 +1,555 @@
+{
+    "generation": 3,
+    "primaryType": "DRAGON",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            -1,
+            "FLY"
+        ],
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            1,
+            "DRAGONTAIL"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            1,
+            "DUALWINGBEAT"
+        ],
+        [
+            1,
+            "ROOST"
+        ],
+        [
+            15,
+            "HEADBUTT"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            25,
+            "CRUNCH"
+        ],
+        [
+            33,
+            "DRAGONCLAW"
+        ],
+        [
+            39,
+            "ZENHEADBUTT"
+        ],
+        [
+            46,
+            "FOCUSENERGY"
+        ],
+        [
+            55,
+            "FLAMETHROWER"
+        ],
+        [
+            64,
+            "OUTRAGE"
+        ],
+        [
+            73,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "AQUATAIL",
+        "ATTRACT",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DEFENSECURL",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DUALWINGBEAT",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FLAMETHROWER",
+        "FLY",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HURRICANE",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROOST",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THUNDERFANG",
+        "TWISTER",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 102.6,
+    "abilities": [
+        "INTIMIDATE"
+    ],
+    "hiddenAbilitie": [
+        "MOXIE"
+    ],
+    "baseTotal": 600,
+    "baseStats": [
+        95,
+        135,
+        80,
+        100,
+        110,
+        80
+    ],
+    "flags": [],
+    "name": "Salamence",
+    "species": "SALAMENCE",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 300,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 3,
+            "primaryType": "DRAGON",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "FLY"
+                ],
+                [
+                    1,
+                    "PROTECT"
+                ],
+                [
+                    1,
+                    "DRAGONTAIL"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    1,
+                    "DRAGONBREATH"
+                ],
+                [
+                    1,
+                    "DUALWINGBEAT"
+                ],
+                [
+                    1,
+                    "ROOST"
+                ],
+                [
+                    15,
+                    "HEADBUTT"
+                ],
+                [
+                    20,
+                    "SCARYFACE"
+                ],
+                [
+                    25,
+                    "CRUNCH"
+                ],
+                [
+                    33,
+                    "DRAGONCLAW"
+                ],
+                [
+                    39,
+                    "ZENHEADBUTT"
+                ],
+                [
+                    46,
+                    "FOCUSENERGY"
+                ],
+                [
+                    55,
+                    "FLAMETHROWER"
+                ],
+                [
+                    64,
+                    "OUTRAGE"
+                ],
+                [
+                    73,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRCUTTER",
+                "AIRSLASH",
+                "AQUATAIL",
+                "ATTRACT",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "CUT",
+                "DEFENSECURL",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "DUALWINGBEAT",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FLAMETHROWER",
+                "FLY",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HURRICANE",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "INCINERATE",
+                "IRONDEFENSE",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "OUTRAGE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROLLOUT",
+                "ROOST",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "THUNDERFANG",
+                "TWISTER",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 102.6,
+            "abilities": [
+                "INTIMIDATE"
+            ],
+            "hiddenAbilitie": [
+                "MOXIE"
+            ],
+            "baseTotal": 600,
+            "baseStats": [
+                95,
+                135,
+                80,
+                100,
+                110,
+                80
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Salamence"
+        },
+        {
+            "generation": 6,
+            "primaryType": "DRAGON",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "FLY"
+                ],
+                [
+                    1,
+                    "PROTECT"
+                ],
+                [
+                    1,
+                    "DRAGONTAIL"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    1,
+                    "DRAGONBREATH"
+                ],
+                [
+                    1,
+                    "DUALWINGBEAT"
+                ],
+                [
+                    1,
+                    "ROOST"
+                ],
+                [
+                    15,
+                    "HEADBUTT"
+                ],
+                [
+                    20,
+                    "SCARYFACE"
+                ],
+                [
+                    25,
+                    "CRUNCH"
+                ],
+                [
+                    33,
+                    "DRAGONCLAW"
+                ],
+                [
+                    39,
+                    "ZENHEADBUTT"
+                ],
+                [
+                    46,
+                    "FOCUSENERGY"
+                ],
+                [
+                    55,
+                    "FLAMETHROWER"
+                ],
+                [
+                    64,
+                    "OUTRAGE"
+                ],
+                [
+                    73,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRCUTTER",
+                "AIRSLASH",
+                "AQUATAIL",
+                "ATTRACT",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "CUT",
+                "DEFENSECURL",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "DUALWINGBEAT",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FLAMETHROWER",
+                "FLY",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HURRICANE",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "INCINERATE",
+                "IRONDEFENSE",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "OUTRAGE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROLLOUT",
+                "ROOST",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "THUNDERFANG",
+                "TWISTER",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.8,
+            "weight": 112.6,
+            "abilities": [
+                "AERILATE"
+            ],
+            "hiddenAbilitie": [
+                "AERILATE"
+            ],
+            "baseTotal": 700,
+            "baseStats": [
+                95,
+                145,
+                130,
+                120,
+                120,
+                90
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Salamence"
+        }
+    ],
+    "internationalPokedex": 373
+}

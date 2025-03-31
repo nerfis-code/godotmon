@@ -1,0 +1,201 @@
+{
+    "generation": 3,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "CRUNCH"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "ICEFANG"
+        ],
+        [
+            1,
+            "FIREFANG"
+        ],
+        [
+            1,
+            "THUNDERFANG"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "ECHOEDVOICE"
+        ],
+        [
+            1,
+            "HOWL"
+        ],
+        [
+            15,
+            "REST"
+        ],
+        [
+            15,
+            "SLEEPTALK"
+        ],
+        [
+            23,
+            "STOMP"
+        ],
+        [
+            29,
+            "ROAR"
+        ],
+        [
+            36,
+            "SUPERSONIC"
+        ],
+        [
+            45,
+            "UPROAR"
+        ],
+        [
+            54,
+            "SCREECH"
+        ],
+        [
+            63,
+            "HYPERVOICE"
+        ],
+        [
+            72,
+            "BOOMBURST"
+        ],
+        [
+            81,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CRUNCH",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "OVERHEAT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "TAUNT",
+        "TERRAINPULSE",
+        "THUNDERFANG",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "UPROAR",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 84.0,
+    "abilities": [
+        "SOUNDPROOF"
+    ],
+    "hiddenAbilitie": [
+        "SCRAPPY"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        104,
+        91,
+        63,
+        68,
+        91,
+        73
+    ],
+    "flags": [],
+    "name": "Exploud",
+    "species": "EXPLOUD",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 245,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 295
+}

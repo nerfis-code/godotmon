@@ -1,0 +1,122 @@
+{
+    "generation": 9,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            4,
+            "MUDSLAP"
+        ],
+        [
+            8,
+            "WRAP"
+        ],
+        [
+            12,
+            "AQUAJET"
+        ],
+        [
+            20,
+            "WATERPULSE"
+        ],
+        [
+            20,
+            "SLAM"
+        ],
+        [
+            24,
+            "HEADBUTT"
+        ],
+        [
+            28,
+            "DIG"
+        ],
+        [
+            32,
+            "SUCKERPUNCH"
+        ],
+        [
+            36,
+            "THROATCHOP"
+        ],
+        [
+            40,
+            "LIQUIDATION"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "BLIZZARD",
+        "BULLDOZE",
+        "CHILLINGWATER",
+        "DIG",
+        "EARTHPOWER",
+        "ENDURE",
+        "FACADE",
+        "FOULPLAY",
+        "HELPINGHAND",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "LIQUIDATION",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SANDSTORM",
+        "SLEEPTALK",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SURF",
+        "SWIFT",
+        "TAKEDOWN",
+        "THROATCHOP",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "FINALGAMBIT",
+        "MEMENTO"
+    ],
+    "height": 1.2,
+    "weight": 1.8,
+    "abilities": [
+        "GOOEY",
+        "RATTLED"
+    ],
+    "hiddenAbilitie": [
+        "SANDVEIL"
+    ],
+    "baseTotal": 245,
+    "baseStats": [
+        10,
+        55,
+        25,
+        95,
+        35,
+        25
+    ],
+    "flags": [],
+    "name": "Wiglett",
+    "species": "WIGLETT",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 49,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 960
+}

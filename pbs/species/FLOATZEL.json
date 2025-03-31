@@ -1,0 +1,173 @@
+{
+    "generation": 4,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ICEFANG"
+        ],
+        [
+            1,
+            "CRUNCH"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "SOAK"
+        ],
+        [
+            7,
+            "TAILWHIP"
+        ],
+        [
+            15,
+            "WATERGUN"
+        ],
+        [
+            18,
+            "BITE"
+        ],
+        [
+            21,
+            "SWIFT"
+        ],
+        [
+            24,
+            "AQUAJET"
+        ],
+        [
+            29,
+            "DOUBLEHIT"
+        ],
+        [
+            35,
+            "WHIRLPOOL"
+        ],
+        [
+            41,
+            "WATERFALL"
+        ],
+        [
+            41,
+            "LIQUIDATION"
+        ],
+        [
+            46,
+            "AQUATAIL"
+        ],
+        [
+            51,
+            "AGILITY"
+        ],
+        [
+            57,
+            "HYDROPUMP"
+        ],
+        [
+            62,
+            "WAVECRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BRICKBREAK",
+        "BRINE",
+        "BULKUP",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONTAIL",
+        "LIQUIDATION",
+        "LOWKICK",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TORMENT",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 33.5,
+    "abilities": [
+        "SWIFTSWIM"
+    ],
+    "hiddenAbilitie": [
+        "WATERVEIL"
+    ],
+    "baseTotal": 495,
+    "baseStats": [
+        85,
+        105,
+        55,
+        115,
+        85,
+        50
+    ],
+    "flags": [],
+    "name": "Floatzel",
+    "species": "FLOATZEL",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 173,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 419
+}

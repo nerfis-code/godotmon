@@ -1,0 +1,417 @@
+{
+    "generation": 4,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            5,
+            "HARDEN"
+        ],
+        [
+            10,
+            "RECOVER"
+        ],
+        [
+            15,
+            "WATERPULSE"
+        ],
+        [
+            20,
+            "ANCIENTPOWER"
+        ],
+        [
+            25,
+            "BODYSLAM"
+        ],
+        [
+            31,
+            "MUDDYWATER"
+        ],
+        [
+            35,
+            "EARTHPOWER"
+        ],
+        [
+            40,
+            "RAINDANCE"
+        ],
+        [
+            45,
+            "MEMENTO"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "INFESTATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STRINGSHOT",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "ACIDARMOR",
+        "AMNESIA",
+        "CLEARSMOG",
+        "COUNTER",
+        "CURSE",
+        "FISSURE",
+        "MEMENTO",
+        "MIRRORCOAT",
+        "MIST",
+        "SLUDGE",
+        "SPITUP",
+        "STOCKPILE",
+        "SWALLOW",
+        "YAWN"
+    ],
+    "height": 0.3,
+    "weight": 6.3,
+    "abilities": [
+        "STICKYHOLD",
+        "STORMDRAIN"
+    ],
+    "hiddenAbilitie": [
+        "SANDFORCE"
+    ],
+    "baseTotal": 325,
+    "baseStats": [
+        76,
+        48,
+        48,
+        34,
+        57,
+        62
+    ],
+    "flags": [
+        "InheritFormFromMother"
+    ],
+    "name": "Shellos",
+    "species": "SHELLOS",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 65,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 4,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "MUDSLAP"
+                ],
+                [
+                    5,
+                    "HARDEN"
+                ],
+                [
+                    10,
+                    "RECOVER"
+                ],
+                [
+                    15,
+                    "WATERPULSE"
+                ],
+                [
+                    20,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    25,
+                    "BODYSLAM"
+                ],
+                [
+                    31,
+                    "MUDDYWATER"
+                ],
+                [
+                    35,
+                    "EARTHPOWER"
+                ],
+                [
+                    40,
+                    "RAINDANCE"
+                ],
+                [
+                    45,
+                    "MEMENTO"
+                ]
+            ],
+            "tutorMoves": [
+                "AMNESIA",
+                "ANCIENTPOWER",
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BRINE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIVE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "ENDURE",
+                "FACADE",
+                "FRUSTRATION",
+                "HAIL",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "ICYWIND",
+                "INFESTATION",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PAINSPLIT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SCALD",
+                "SECRETPOWER",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SNORE",
+                "STRINGSHOT",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "WATERPULSE",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [
+                "ACIDARMOR",
+                "AMNESIA",
+                "CLEARSMOG",
+                "COUNTER",
+                "CURSE",
+                "FISSURE",
+                "MEMENTO",
+                "MIRRORCOAT",
+                "MIST",
+                "SLUDGE",
+                "SPITUP",
+                "STOCKPILE",
+                "SWALLOW",
+                "YAWN"
+            ],
+            "height": 0.3,
+            "weight": 6.3,
+            "abilities": [
+                "STICKYHOLD",
+                "STORMDRAIN"
+            ],
+            "hiddenAbilitie": [
+                "SANDFORCE"
+            ],
+            "baseTotal": 325,
+            "baseStats": [
+                76,
+                48,
+                48,
+                34,
+                57,
+                62
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 0,
+            "formName": "Forma Mar Oeste"
+        },
+        {
+            "generation": 4,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "MUDSLAP"
+                ],
+                [
+                    5,
+                    "HARDEN"
+                ],
+                [
+                    10,
+                    "RECOVER"
+                ],
+                [
+                    15,
+                    "WATERPULSE"
+                ],
+                [
+                    20,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    25,
+                    "BODYSLAM"
+                ],
+                [
+                    31,
+                    "MUDDYWATER"
+                ],
+                [
+                    35,
+                    "EARTHPOWER"
+                ],
+                [
+                    40,
+                    "RAINDANCE"
+                ],
+                [
+                    45,
+                    "MEMENTO"
+                ]
+            ],
+            "tutorMoves": [
+                "AMNESIA",
+                "ANCIENTPOWER",
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BRINE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIVE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "ENDURE",
+                "FACADE",
+                "FRUSTRATION",
+                "HAIL",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "ICYWIND",
+                "INFESTATION",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PAINSPLIT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SCALD",
+                "SECRETPOWER",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SNORE",
+                "STRINGSHOT",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "WATERPULSE",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [
+                "ACIDARMOR",
+                "AMNESIA",
+                "CLEARSMOG",
+                "COUNTER",
+                "CURSE",
+                "FISSURE",
+                "MEMENTO",
+                "MIRRORCOAT",
+                "MIST",
+                "SLUDGE",
+                "SPITUP",
+                "STOCKPILE",
+                "SWALLOW",
+                "YAWN"
+            ],
+            "height": 0.3,
+            "weight": 6.3,
+            "abilities": [
+                "STICKYHOLD",
+                "STORMDRAIN"
+            ],
+            "hiddenAbilitie": [
+                "SANDFORCE"
+            ],
+            "baseTotal": 325,
+            "baseStats": [
+                76,
+                48,
+                48,
+                34,
+                57,
+                62
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 1,
+            "formName": "Forma Mar Este"
+        }
+    ],
+    "internationalPokedex": 422
+}

@@ -1,0 +1,133 @@
+{
+    "generation": 8,
+    "primaryType": "FLYING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            4,
+            "POWERTRIP"
+        ],
+        [
+            8,
+            "HONECLAWS"
+        ],
+        [
+            12,
+            "FURYATTACK"
+        ],
+        [
+            16,
+            "PLUCK"
+        ],
+        [
+            20,
+            "TAUNT"
+        ],
+        [
+            24,
+            "SCARYFACE"
+        ],
+        [
+            28,
+            "DRILLPECK"
+        ],
+        [
+            32,
+            "SWAGGER"
+        ],
+        [
+            36,
+            "BRAVEBIRD"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AIRSLASH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BRAVEBIRD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FLY",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "TOXIC",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "DEFOG",
+        "ROCKSMASH",
+        "ROOST",
+        "SANDATTACK",
+        "SKYATTACK",
+        "SPITE",
+        "TAILWIND"
+    ],
+    "height": 0.2,
+    "weight": 1.8,
+    "abilities": [
+        "KEENEYE",
+        "UNNERVE"
+    ],
+    "hiddenAbilitie": [
+        "BIGPECKS"
+    ],
+    "baseTotal": 245,
+    "baseStats": [
+        38,
+        47,
+        35,
+        57,
+        33,
+        35
+    ],
+    "flags": [],
+    "name": "Rookidee",
+    "species": "ROOKIDEE",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 49,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 821
+}

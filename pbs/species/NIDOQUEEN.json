@@ -1,0 +1,212 @@
+{
+    "generation": 1,
+    "primaryType": "POISON",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "SUPERPOWER"
+        ],
+        [
+            1,
+            "SLUDGEWAVE"
+        ],
+        [
+            1,
+            "FURYSWIPES"
+        ],
+        [
+            1,
+            "TOXICSPIKES"
+        ],
+        [
+            1,
+            "DOUBLEKICK"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "TOXIC"
+        ],
+        [
+            1,
+            "FLATTER"
+        ],
+        [
+            1,
+            "CRUNCH"
+        ],
+        [
+            1,
+            "EARTHPOWER"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ATTRACT",
+        "AVALANCHE",
+        "BEATUP",
+        "BLIZZARD",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COUNTER",
+        "CRUNCH",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DRILLRUN",
+        "DYNAMICPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HEX",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "IRONTAIL",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYDAY",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "QUASH",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKBLAST",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "TOXIC",
+        "TOXICSPIKES",
+        "UPROAR",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 60.0,
+    "abilities": [
+        "POISONPOINT",
+        "RIVALRY"
+    ],
+    "hiddenAbilitie": [
+        "SHEERFORCE"
+    ],
+    "baseTotal": 505,
+    "baseStats": [
+        90,
+        92,
+        87,
+        76,
+        75,
+        85
+    ],
+    "flags": [],
+    "name": "Nidoqueen",
+    "species": "NIDOQUEEN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 253,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 31
+}

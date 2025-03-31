@@ -1,0 +1,189 @@
+{
+    "generation": 7,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            -1,
+            "MOONGEISTBEAM"
+        ],
+        [
+            1,
+            "COSMICPOWER"
+        ],
+        [
+            1,
+            "TELEPORT"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "HYPNOSIS"
+        ],
+        [
+            7,
+            "NIGHTSHADE"
+        ],
+        [
+            14,
+            "CONFUSERAY"
+        ],
+        [
+            21,
+            "AIRSLASH"
+        ],
+        [
+            28,
+            "SHADOWBALL"
+        ],
+        [
+            35,
+            "MOONLIGHT"
+        ],
+        [
+            42,
+            "NIGHTDAZE"
+        ],
+        [
+            49,
+            "MAGICCOAT"
+        ],
+        [
+            49,
+            "PSYCHIC"
+        ],
+        [
+            56,
+            "MOONBLAST"
+        ],
+        [
+            63,
+            "PHANTOMFORCE"
+        ],
+        [
+            70,
+            "DREAMEATER"
+        ],
+        [
+            77,
+            "WIDEGUARD"
+        ],
+        [
+            84,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRSLASH",
+        "BLIZZARD",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COSMICPOWER",
+        "DAZZLINGGLEAM",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FLY",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PHANTOMFORCE",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKYATTACK",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "WILLOWISP",
+        "WONDERROOM",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 4.0,
+    "weight": 120.0,
+    "abilities": [
+        "SHADOWSHIELD"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 680,
+    "baseStats": [
+        137,
+        113,
+        89,
+        97,
+        137,
+        107
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Lunala",
+    "species": "LUNALA",
+    "catchRate": 45,
+    "happiness": 0,
+    "baseExp": 340,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 792
+}

@@ -1,0 +1,146 @@
+{
+    "generation": 8,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            5,
+            "ROCKSMASH"
+        ],
+        [
+            10,
+            "FOCUSENERGY"
+        ],
+        [
+            15,
+            "HEADBUTT"
+        ],
+        [
+            20,
+            "BULKUP"
+        ],
+        [
+            25,
+            "ENDURE"
+        ],
+        [
+            30,
+            "REVERSAL"
+        ],
+        [
+            35,
+            "FIRSTIMPRESSION"
+        ],
+        [
+            40,
+            "NORETREAT"
+        ],
+        [
+            45,
+            "IRONDEFENSE"
+        ],
+        [
+            50,
+            "CLOSECOMBAT"
+        ],
+        [
+            55,
+            "MEGAHORN"
+        ],
+        [
+            60,
+            "COUNTER"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ASSURANCE",
+        "BEATUP",
+        "BRICKBREAK",
+        "BULKUP",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MEGAHORN",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THROATCHOP",
+        "TOXIC",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 3.0,
+    "weight": 62.0,
+    "abilities": [
+        "BATTLEARMOR"
+    ],
+    "hiddenAbilitie": [
+        "DEFIANT"
+    ],
+    "baseTotal": 470,
+    "baseStats": [
+        65,
+        100,
+        100,
+        75,
+        70,
+        60
+    ],
+    "flags": [],
+    "name": "Falinks",
+    "species": "FALINKS",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 165,
+    "evs": [
+        "ATTACK",
+        2,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 870
+}

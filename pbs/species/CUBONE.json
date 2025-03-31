@@ -1,0 +1,525 @@
+{
+    "generation": 1,
+    "primaryType": "GROUND",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "TAILWHIP"
+        ],
+        [
+            8,
+            "FALSESWIPE"
+        ],
+        [
+            12,
+            "HEADBUTT"
+        ],
+        [
+            16,
+            "RETALIATE"
+        ],
+        [
+            20,
+            "FLING"
+        ],
+        [
+            24,
+            "STOMPINGTANTRUM"
+        ],
+        [
+            29,
+            "BONERUSH"
+        ],
+        [
+            32,
+            "FOCUSENERGY"
+        ],
+        [
+            36,
+            "ENDEAVOR"
+        ],
+        [
+            40,
+            "BONEMERANG"
+        ],
+        [
+            44,
+            "THRASH"
+        ],
+        [
+            48,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SCORCHINGSANDS",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "THIEF",
+        "THUNDERPUNCH",
+        "UPROAR"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "BELLYDRUM",
+        "CURSE",
+        "DETECT",
+        "DOUBLEKICK",
+        "IRONHEAD",
+        "LEER",
+        "PERISHSONG",
+        "SCREECH",
+        "SKULLBASH"
+    ],
+    "height": 0.4,
+    "weight": 6.5,
+    "abilities": [
+        "ROCKHEAD",
+        "LIGHTNINGROD"
+    ],
+    "hiddenAbilitie": [
+        "BATTLEARMOR"
+    ],
+    "baseTotal": 320,
+    "baseStats": [
+        50,
+        50,
+        95,
+        35,
+        40,
+        50
+    ],
+    "flags": [],
+    "name": "Cubone",
+    "species": "CUBONE",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 64,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "GROUND",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "MUDSLAP"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    4,
+                    "TAILWHIP"
+                ],
+                [
+                    8,
+                    "FALSESWIPE"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    16,
+                    "RETALIATE"
+                ],
+                [
+                    20,
+                    "FLING"
+                ],
+                [
+                    24,
+                    "STOMPINGTANTRUM"
+                ],
+                [
+                    29,
+                    "BONERUSH"
+                ],
+                [
+                    32,
+                    "FOCUSENERGY"
+                ],
+                [
+                    36,
+                    "ENDEAVOR"
+                ],
+                [
+                    40,
+                    "BONEMERANG"
+                ],
+                [
+                    44,
+                    "THRASH"
+                ],
+                [
+                    48,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COUNTER",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DYNAMICPUNCH",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FIREBLAST",
+                "FIREPUNCH",
+                "FLAMETHROWER",
+                "FLING",
+                "FOCUSENERGY",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "ICEBEAM",
+                "ICYWIND",
+                "INCINERATE",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LOWKICK",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROCKCLIMB",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SCORCHINGSANDS",
+                "SCREECH",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNORE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "THIEF",
+                "THUNDERPUNCH",
+                "UPROAR"
+            ],
+            "eggMoves": [
+                "ANCIENTPOWER",
+                "BELLYDRUM",
+                "CURSE",
+                "DETECT",
+                "DOUBLEKICK",
+                "IRONHEAD",
+                "LEER",
+                "PERISHSONG",
+                "SCREECH",
+                "SKULLBASH"
+            ],
+            "height": 0.4,
+            "weight": 6.5,
+            "abilities": [
+                "ROCKHEAD",
+                "LIGHTNINGROD"
+            ],
+            "hiddenAbilitie": [
+                "BATTLEARMOR"
+            ],
+            "baseTotal": 320,
+            "baseStats": [
+                50,
+                50,
+                95,
+                35,
+                40,
+                50
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Cubone"
+        },
+        {
+            "generation": 7,
+            "primaryType": "GROUND",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "MUDSLAP"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    4,
+                    "TAILWHIP"
+                ],
+                [
+                    8,
+                    "FALSESWIPE"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    16,
+                    "RETALIATE"
+                ],
+                [
+                    20,
+                    "FLING"
+                ],
+                [
+                    24,
+                    "STOMPINGTANTRUM"
+                ],
+                [
+                    29,
+                    "BONERUSH"
+                ],
+                [
+                    32,
+                    "FOCUSENERGY"
+                ],
+                [
+                    36,
+                    "ENDEAVOR"
+                ],
+                [
+                    40,
+                    "BONEMERANG"
+                ],
+                [
+                    44,
+                    "THRASH"
+                ],
+                [
+                    48,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COUNTER",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DYNAMICPUNCH",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FIREBLAST",
+                "FIREPUNCH",
+                "FLAMETHROWER",
+                "FLING",
+                "FOCUSENERGY",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "ICEBEAM",
+                "ICYWIND",
+                "INCINERATE",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LOWKICK",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROCKCLIMB",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SCORCHINGSANDS",
+                "SCREECH",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNORE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "THIEF",
+                "THUNDERPUNCH",
+                "UPROAR"
+            ],
+            "eggMoves": [
+                "ANCIENTPOWER",
+                "BELLYDRUM",
+                "CURSE",
+                "DETECT",
+                "DOUBLEKICK",
+                "IRONHEAD",
+                "LEER",
+                "PERISHSONG",
+                "SCREECH",
+                "SKULLBASH"
+            ],
+            "height": 0.4,
+            "weight": 6.5,
+            "abilities": [
+                "ROCKHEAD",
+                "LIGHTNINGROD"
+            ],
+            "hiddenAbilitie": [
+                "BATTLEARMOR"
+            ],
+            "baseTotal": 320,
+            "baseStats": [
+                50,
+                50,
+                95,
+                35,
+                40,
+                50
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Cubone"
+        }
+    ],
+    "internationalPokedex": 104
+}

@@ -1,0 +1,181 @@
+{
+    "generation": 1,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "HYPNOSIS"
+        ],
+        [
+            5,
+            "DISABLE"
+        ],
+        [
+            9,
+            "CONFUSION"
+        ],
+        [
+            13,
+            "HEADBUTT"
+        ],
+        [
+            17,
+            "POISONGAS"
+        ],
+        [
+            21,
+            "PSYBEAM"
+        ],
+        [
+            25,
+            "PSYCHUP"
+        ],
+        [
+            29,
+            "MINDREADER"
+        ],
+        [
+            29,
+            "ZENHEADBUTT"
+        ],
+        [
+            33,
+            "SWAGGER"
+        ],
+        [
+            37,
+            "PSYCHIC"
+        ],
+        [
+            41,
+            "NASTYPLOT"
+        ],
+        [
+            45,
+            "PSYSHOCK"
+        ],
+        [
+            49,
+            "FUTURESIGHT"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRICK",
+        "TRICKROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "FIREPUNCH",
+        "FLATTER",
+        "GUARDSWAP",
+        "ICEPUNCH",
+        "POWERSPLIT",
+        "PSYCHOCUT",
+        "ROLEPLAY",
+        "THUNDERPUNCH"
+    ],
+    "height": 1.0,
+    "weight": 32.4,
+    "abilities": [
+        "INSOMNIA",
+        "FOREWARN"
+    ],
+    "hiddenAbilitie": [
+        "INNERFOCUS"
+    ],
+    "baseTotal": 328,
+    "baseStats": [
+        60,
+        48,
+        45,
+        42,
+        43,
+        90
+    ],
+    "flags": [],
+    "name": "Drowzee",
+    "species": "DROWZEE",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 66,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 96
+}

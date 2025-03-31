@@ -1,0 +1,167 @@
+{
+    "generation": 4,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "DOUBLETEAM"
+        ],
+        [
+            6,
+            "MIST"
+        ],
+        [
+            12,
+            "AURORABEAM"
+        ],
+        [
+            18,
+            "PSYBEAM"
+        ],
+        [
+            24,
+            "PSYCHOSHIFT"
+        ],
+        [
+            24,
+            "ALLYSWITCH"
+        ],
+        [
+            30,
+            "SLASH"
+        ],
+        [
+            36,
+            "PSYCHOCUT"
+        ],
+        [
+            42,
+            "MOONLIGHT"
+        ],
+        [
+            48,
+            "SAFEGUARD"
+        ],
+        [
+            54,
+            "PSYCHIC"
+        ],
+        [
+            60,
+            "MOONBLAST"
+        ],
+        [
+            66,
+            "FUTURESIGHT"
+        ],
+        [
+            72,
+            "LUNARDANCE"
+        ],
+        [
+            72,
+            "LUNARBLESSING"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BODYSLAM",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TELEKINESIS",
+        "THUNDERWAVE",
+        "TRICK",
+        "TRICKROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 85.6,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        120,
+        70,
+        120,
+        85,
+        75,
+        130
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Cresselia",
+    "species": "CRESSELIA",
+    "catchRate": 3,
+    "happiness": 100,
+    "baseExp": 300,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 488
+}

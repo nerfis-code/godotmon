@@ -1,0 +1,157 @@
+{
+    "generation": 9,
+    "primaryType": "FIRE",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            -1,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            1,
+            "WHIRLWIND"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "ACIDSPRAY"
+        ],
+        [
+            1,
+            "GUST"
+        ],
+        [
+            7,
+            "STRUGGLEBUG"
+        ],
+        [
+            14,
+            "FIRESPIN"
+        ],
+        [
+            21,
+            "TAKEDOWN"
+        ],
+        [
+            28,
+            "LUNGE"
+        ],
+        [
+            35,
+            "SCREECH"
+        ],
+        [
+            42,
+            "DISCHARGE"
+        ],
+        [
+            49,
+            "SLUDGEWAVE"
+        ],
+        [
+            56,
+            "FIERYDANCE"
+        ],
+        [
+            63,
+            "METALSOUND"
+        ],
+        [
+            70,
+            "MORNINGSUN"
+        ],
+        [
+            77,
+            "HURRICANE"
+        ],
+        [
+            84,
+            "BUGBUZZ"
+        ],
+        [
+            91,
+            "OVERHEAT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "ACROBATICS",
+        "AGILITY",
+        "AIRSLASH",
+        "BUGBUZZ",
+        "CHARGEBEAM",
+        "CONFUSERAY",
+        "DAZZLINGGLEAM",
+        "ELECTRICTERRAIN",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLASHCANNON",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HURRICANE",
+        "HYPERBEAM",
+        "LIGHTSCREEN",
+        "LUNGE",
+        "METALSOUND",
+        "METEORBEAM",
+        "OVERHEAT",
+        "POUNCE",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "SLEEPTALK",
+        "SLUDGEWAVE",
+        "SOLARBEAM",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWIFT",
+        "TAKEDOWN",
+        "TOXIC",
+        "TOXICSPIKES",
+        "UTURN",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 36.0,
+    "abilities": [
+        "QUARKDRIVE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        80,
+        70,
+        60,
+        110,
+        140,
+        110
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Ferropolilla",
+    "species": "IRONMOTH",
+    "catchRate": 30,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 994
+}

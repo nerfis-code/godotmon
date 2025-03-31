@@ -1,0 +1,516 @@
+{
+    "generation": 5,
+    "primaryType": "FLYING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "GUST"
+        ],
+        [
+            5,
+            "LEER"
+        ],
+        [
+            10,
+            "SWAGGER"
+        ],
+        [
+            15,
+            "BITE"
+        ],
+        [
+            20,
+            "AIRCUTTER"
+        ],
+        [
+            25,
+            "AGILITY"
+        ],
+        [
+            30,
+            "TAILWIND"
+        ],
+        [
+            35,
+            "AIRSLASH"
+        ],
+        [
+            40,
+            "CRUNCH"
+        ],
+        [
+            45,
+            "EXTRASENSORY"
+        ],
+        [
+            50,
+            "UPROAR"
+        ],
+        [
+            55,
+            "HAMMERARM"
+        ],
+        [
+            60,
+            "RAINDANCE"
+        ],
+        [
+            65,
+            "HURRICANE"
+        ],
+        [
+            70,
+            "THRASH"
+        ],
+        [
+            77,
+            "BLEAKWINDSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRSLASH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FLY",
+        "FOCUSBLAST",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYPERBEAM",
+        "ICYWIND",
+        "INCINERATE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASHOUT",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "WEATHERBALL"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 63.0,
+    "abilities": [
+        "PRANKSTER"
+    ],
+    "hiddenAbilitie": [
+        "DEFIANT"
+    ],
+    "baseTotal": 580,
+    "baseStats": [
+        79,
+        115,
+        70,
+        111,
+        125,
+        80
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Tornadus",
+    "species": "TORNADUS",
+    "catchRate": 3,
+    "happiness": 90,
+    "baseExp": 290,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 0,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "FLYING",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "GUST"
+                ],
+                [
+                    5,
+                    "LEER"
+                ],
+                [
+                    10,
+                    "SWAGGER"
+                ],
+                [
+                    15,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "AIRCUTTER"
+                ],
+                [
+                    25,
+                    "AGILITY"
+                ],
+                [
+                    30,
+                    "TAILWIND"
+                ],
+                [
+                    35,
+                    "AIRSLASH"
+                ],
+                [
+                    40,
+                    "CRUNCH"
+                ],
+                [
+                    45,
+                    "EXTRASENSORY"
+                ],
+                [
+                    50,
+                    "UPROAR"
+                ],
+                [
+                    55,
+                    "HAMMERARM"
+                ],
+                [
+                    60,
+                    "RAINDANCE"
+                ],
+                [
+                    65,
+                    "HURRICANE"
+                ],
+                [
+                    70,
+                    "THRASH"
+                ],
+                [
+                    77,
+                    "BLEAKWINDSTORM"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "AGILITY",
+                "AIRSLASH",
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULKUP",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DARKPULSE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FLING",
+                "FLY",
+                "FOCUSBLAST",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HURRICANE",
+                "HYPERBEAM",
+                "ICYWIND",
+                "INCINERATE",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LASHOUT",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SKYDROP",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SMACKDOWN",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SWAGGER",
+                "TAILWIND",
+                "TAUNT",
+                "THIEF",
+                "TORMENT",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WEATHERBALL"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 63.0,
+            "abilities": [
+                "PRANKSTER"
+            ],
+            "hiddenAbilitie": [
+                "DEFIANT"
+            ],
+            "baseTotal": 580,
+            "baseStats": [
+                79,
+                115,
+                70,
+                111,
+                125,
+                80
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 0,
+            "formName": "Forma Avatar"
+        },
+        {
+            "generation": 5,
+            "primaryType": "FLYING",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "GUST"
+                ],
+                [
+                    5,
+                    "LEER"
+                ],
+                [
+                    10,
+                    "SWAGGER"
+                ],
+                [
+                    15,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "AIRCUTTER"
+                ],
+                [
+                    25,
+                    "AGILITY"
+                ],
+                [
+                    30,
+                    "TAILWIND"
+                ],
+                [
+                    35,
+                    "AIRSLASH"
+                ],
+                [
+                    40,
+                    "CRUNCH"
+                ],
+                [
+                    45,
+                    "EXTRASENSORY"
+                ],
+                [
+                    50,
+                    "UPROAR"
+                ],
+                [
+                    55,
+                    "HAMMERARM"
+                ],
+                [
+                    60,
+                    "RAINDANCE"
+                ],
+                [
+                    65,
+                    "HURRICANE"
+                ],
+                [
+                    70,
+                    "THRASH"
+                ],
+                [
+                    77,
+                    "BLEAKWINDSTORM"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "AGILITY",
+                "AIRSLASH",
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULKUP",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DARKPULSE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FLING",
+                "FLY",
+                "FOCUSBLAST",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HURRICANE",
+                "HYPERBEAM",
+                "ICYWIND",
+                "INCINERATE",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LASHOUT",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SKYDROP",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SMACKDOWN",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SWAGGER",
+                "TAILWIND",
+                "TAUNT",
+                "THIEF",
+                "TORMENT",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WEATHERBALL"
+            ],
+            "eggMoves": [],
+            "height": 1.4,
+            "weight": 63.0,
+            "abilities": [
+                "REGENERATOR"
+            ],
+            "hiddenAbilitie": [
+                "REGENERATOR"
+            ],
+            "baseTotal": 580,
+            "baseStats": [
+                79,
+                100,
+                80,
+                121,
+                110,
+                90
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 1,
+            "formName": "Forma Tótem"
+        }
+    ],
+    "internationalPokedex": 641
+}

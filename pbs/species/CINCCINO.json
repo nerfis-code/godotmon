@@ -1,0 +1,168 @@
+{
+    "generation": 5,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "ROCKBLAST"
+        ],
+        [
+            -1,
+            "SWIFT"
+        ],
+        [
+            -1,
+            "ENCORE"
+        ],
+        [
+            -1,
+            "AFTERYOU"
+        ],
+        [
+            -1,
+            "TAILSLAP"
+        ],
+        [
+            -1,
+            "TICKLE"
+        ],
+        [
+            -1,
+            "SLAM"
+        ],
+        [
+            -1,
+            "HYPERVOICE"
+        ],
+        [
+            -1,
+            "LASTRESORT"
+        ],
+        [
+            -1,
+            "HELPINGHAND"
+        ],
+        [
+            -1,
+            "ECHOEDVOICE"
+        ],
+        [
+            1,
+            "BULLETSEED"
+        ],
+        [
+            1,
+            "SING"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "BABYDOLLEYES"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AQUATAIL",
+        "ATTRACT",
+        "BULLETSEED",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DIG",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FLING",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKBLAST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILSLAP",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRIPLEAXEL",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.5,
+    "weight": 7.5,
+    "abilities": [
+        "CUTECHARM",
+        "TECHNICIAN"
+    ],
+    "hiddenAbilitie": [
+        "SKILLLINK"
+    ],
+    "baseTotal": 470,
+    "baseStats": [
+        75,
+        95,
+        60,
+        115,
+        65,
+        60
+    ],
+    "flags": [],
+    "name": "Cinccino",
+    "species": "CINCCINO",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 165,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 573
+}

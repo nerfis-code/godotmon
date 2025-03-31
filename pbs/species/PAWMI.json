@@ -1,0 +1,141 @@
+{
+    "generation": 9,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            3,
+            "THUNDERSHOCK"
+        ],
+        [
+            6,
+            "QUICKATTACK"
+        ],
+        [
+            8,
+            "CHARGE"
+        ],
+        [
+            12,
+            "NUZZLE"
+        ],
+        [
+            15,
+            "DIG"
+        ],
+        [
+            19,
+            "BITE"
+        ],
+        [
+            23,
+            "SPARK"
+        ],
+        [
+            27,
+            "THUNDERWAVE"
+        ],
+        [
+            31,
+            "ENTRAINMENT"
+        ],
+        [
+            35,
+            "SLAM"
+        ],
+        [
+            38,
+            "DISCHARGE"
+        ],
+        [
+            40,
+            "AGILITY"
+        ],
+        [
+            44,
+            "WILDCHARGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "BATONPASS",
+        "CHARGE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CRUNCH",
+        "DIG",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "HELPINGHAND",
+        "METALCLAW",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWIFT",
+        "TAKEDOWN",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "FAKEOUT",
+        "MACHPUNCH",
+        "SWEETKISS",
+        "WISH"
+    ],
+    "height": 0.3,
+    "weight": 2.5,
+    "abilities": [
+        "STATIC",
+        "NATURALCURE"
+    ],
+    "hiddenAbilitie": [
+        "IRONFIST"
+    ],
+    "baseTotal": 240,
+    "baseStats": [
+        45,
+        50,
+        20,
+        60,
+        40,
+        25
+    ],
+    "flags": [],
+    "name": "Pawmi",
+    "species": "PAWMI",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 48,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 921
+}

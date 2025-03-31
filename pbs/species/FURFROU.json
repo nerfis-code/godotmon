@@ -1,0 +1,1464 @@
+{
+    "generation": 6,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            5,
+            "SANDATTACK"
+        ],
+        [
+            9,
+            "BABYDOLLEYES"
+        ],
+        [
+            12,
+            "HEADBUTT"
+        ],
+        [
+            15,
+            "TAILWHIP"
+        ],
+        [
+            22,
+            "BITE"
+        ],
+        [
+            27,
+            "ODORSLEUTH"
+        ],
+        [
+            33,
+            "RETALIATE"
+        ],
+        [
+            35,
+            "TAKEDOWN"
+        ],
+        [
+            38,
+            "CHARM"
+        ],
+        [
+            42,
+            "SUCKERPUNCH"
+        ],
+        [
+            48,
+            "COTTONGUARD"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "LASTRESORT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "WILDCHARGE",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "CAPTIVATE",
+        "MIMIC",
+        "REFRESH",
+        "ROLEPLAY",
+        "WORKUP"
+    ],
+    "height": 1.2,
+    "weight": 28.0,
+    "abilities": [
+        "FURCOAT"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 472,
+    "baseStats": [
+        75,
+        80,
+        60,
+        102,
+        65,
+        90
+    ],
+    "flags": [],
+    "name": "Furfrou",
+    "species": "FURFROU",
+    "catchRate": 160,
+    "happiness": 50,
+    "baseExp": 165,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 6,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    5,
+                    "SANDATTACK"
+                ],
+                [
+                    9,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "TAILWHIP"
+                ],
+                [
+                    22,
+                    "BITE"
+                ],
+                [
+                    27,
+                    "ODORSLEUTH"
+                ],
+                [
+                    33,
+                    "RETALIATE"
+                ],
+                [
+                    35,
+                    "TAKEDOWN"
+                ],
+                [
+                    38,
+                    "CHARM"
+                ],
+                [
+                    42,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    48,
+                    "COTTONGUARD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DIG",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IRONTAIL",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "THUNDERWAVE",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WILDCHARGE",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "CAPTIVATE",
+                "MIMIC",
+                "REFRESH",
+                "ROLEPLAY",
+                "WORKUP"
+            ],
+            "height": 1.2,
+            "weight": 28.0,
+            "abilities": [
+                "FURCOAT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 472,
+            "baseStats": [
+                75,
+                80,
+                60,
+                102,
+                65,
+                90
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Salvaje"
+        },
+        {
+            "generation": 6,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    5,
+                    "SANDATTACK"
+                ],
+                [
+                    9,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "TAILWHIP"
+                ],
+                [
+                    22,
+                    "BITE"
+                ],
+                [
+                    27,
+                    "ODORSLEUTH"
+                ],
+                [
+                    33,
+                    "RETALIATE"
+                ],
+                [
+                    35,
+                    "TAKEDOWN"
+                ],
+                [
+                    38,
+                    "CHARM"
+                ],
+                [
+                    42,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    48,
+                    "COTTONGUARD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DIG",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IRONTAIL",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "THUNDERWAVE",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WILDCHARGE",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "CAPTIVATE",
+                "MIMIC",
+                "REFRESH",
+                "ROLEPLAY",
+                "WORKUP"
+            ],
+            "height": 1.2,
+            "weight": 28.0,
+            "abilities": [
+                "FURCOAT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 472,
+            "baseStats": [
+                75,
+                80,
+                60,
+                102,
+                65,
+                90
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Corte Corazón"
+        },
+        {
+            "generation": 6,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    5,
+                    "SANDATTACK"
+                ],
+                [
+                    9,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "TAILWHIP"
+                ],
+                [
+                    22,
+                    "BITE"
+                ],
+                [
+                    27,
+                    "ODORSLEUTH"
+                ],
+                [
+                    33,
+                    "RETALIATE"
+                ],
+                [
+                    35,
+                    "TAKEDOWN"
+                ],
+                [
+                    38,
+                    "CHARM"
+                ],
+                [
+                    42,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    48,
+                    "COTTONGUARD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DIG",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IRONTAIL",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "THUNDERWAVE",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WILDCHARGE",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "CAPTIVATE",
+                "MIMIC",
+                "REFRESH",
+                "ROLEPLAY",
+                "WORKUP"
+            ],
+            "height": 1.2,
+            "weight": 28.0,
+            "abilities": [
+                "FURCOAT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 472,
+            "baseStats": [
+                75,
+                80,
+                60,
+                102,
+                65,
+                90
+            ],
+            "flags": [],
+            "form": 2,
+            "formName": "Forma Corte Estrella"
+        },
+        {
+            "generation": 6,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    5,
+                    "SANDATTACK"
+                ],
+                [
+                    9,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "TAILWHIP"
+                ],
+                [
+                    22,
+                    "BITE"
+                ],
+                [
+                    27,
+                    "ODORSLEUTH"
+                ],
+                [
+                    33,
+                    "RETALIATE"
+                ],
+                [
+                    35,
+                    "TAKEDOWN"
+                ],
+                [
+                    38,
+                    "CHARM"
+                ],
+                [
+                    42,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    48,
+                    "COTTONGUARD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DIG",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IRONTAIL",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "THUNDERWAVE",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WILDCHARGE",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "CAPTIVATE",
+                "MIMIC",
+                "REFRESH",
+                "ROLEPLAY",
+                "WORKUP"
+            ],
+            "height": 1.2,
+            "weight": 28.0,
+            "abilities": [
+                "FURCOAT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 472,
+            "baseStats": [
+                75,
+                80,
+                60,
+                102,
+                65,
+                90
+            ],
+            "flags": [],
+            "form": 3,
+            "formName": "Forma Corte Rombo"
+        },
+        {
+            "generation": 6,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    5,
+                    "SANDATTACK"
+                ],
+                [
+                    9,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "TAILWHIP"
+                ],
+                [
+                    22,
+                    "BITE"
+                ],
+                [
+                    27,
+                    "ODORSLEUTH"
+                ],
+                [
+                    33,
+                    "RETALIATE"
+                ],
+                [
+                    35,
+                    "TAKEDOWN"
+                ],
+                [
+                    38,
+                    "CHARM"
+                ],
+                [
+                    42,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    48,
+                    "COTTONGUARD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DIG",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IRONTAIL",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "THUNDERWAVE",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WILDCHARGE",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "CAPTIVATE",
+                "MIMIC",
+                "REFRESH",
+                "ROLEPLAY",
+                "WORKUP"
+            ],
+            "height": 1.2,
+            "weight": 28.0,
+            "abilities": [
+                "FURCOAT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 472,
+            "baseStats": [
+                75,
+                80,
+                60,
+                102,
+                65,
+                90
+            ],
+            "flags": [],
+            "form": 4,
+            "formName": "Forma Corte Señorita"
+        },
+        {
+            "generation": 6,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    5,
+                    "SANDATTACK"
+                ],
+                [
+                    9,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "TAILWHIP"
+                ],
+                [
+                    22,
+                    "BITE"
+                ],
+                [
+                    27,
+                    "ODORSLEUTH"
+                ],
+                [
+                    33,
+                    "RETALIATE"
+                ],
+                [
+                    35,
+                    "TAKEDOWN"
+                ],
+                [
+                    38,
+                    "CHARM"
+                ],
+                [
+                    42,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    48,
+                    "COTTONGUARD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DIG",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IRONTAIL",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "THUNDERWAVE",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WILDCHARGE",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "CAPTIVATE",
+                "MIMIC",
+                "REFRESH",
+                "ROLEPLAY",
+                "WORKUP"
+            ],
+            "height": 1.2,
+            "weight": 28.0,
+            "abilities": [
+                "FURCOAT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 472,
+            "baseStats": [
+                75,
+                80,
+                60,
+                102,
+                65,
+                90
+            ],
+            "flags": [],
+            "form": 5,
+            "formName": "Forma Corte Dama"
+        },
+        {
+            "generation": 6,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    5,
+                    "SANDATTACK"
+                ],
+                [
+                    9,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "TAILWHIP"
+                ],
+                [
+                    22,
+                    "BITE"
+                ],
+                [
+                    27,
+                    "ODORSLEUTH"
+                ],
+                [
+                    33,
+                    "RETALIATE"
+                ],
+                [
+                    35,
+                    "TAKEDOWN"
+                ],
+                [
+                    38,
+                    "CHARM"
+                ],
+                [
+                    42,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    48,
+                    "COTTONGUARD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DIG",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IRONTAIL",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "THUNDERWAVE",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WILDCHARGE",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "CAPTIVATE",
+                "MIMIC",
+                "REFRESH",
+                "ROLEPLAY",
+                "WORKUP"
+            ],
+            "height": 1.2,
+            "weight": 28.0,
+            "abilities": [
+                "FURCOAT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 472,
+            "baseStats": [
+                75,
+                80,
+                60,
+                102,
+                65,
+                90
+            ],
+            "flags": [],
+            "form": 6,
+            "formName": "Forma Corte Caballero"
+        },
+        {
+            "generation": 6,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    5,
+                    "SANDATTACK"
+                ],
+                [
+                    9,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "TAILWHIP"
+                ],
+                [
+                    22,
+                    "BITE"
+                ],
+                [
+                    27,
+                    "ODORSLEUTH"
+                ],
+                [
+                    33,
+                    "RETALIATE"
+                ],
+                [
+                    35,
+                    "TAKEDOWN"
+                ],
+                [
+                    38,
+                    "CHARM"
+                ],
+                [
+                    42,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    48,
+                    "COTTONGUARD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DIG",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IRONTAIL",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "THUNDERWAVE",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WILDCHARGE",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "CAPTIVATE",
+                "MIMIC",
+                "REFRESH",
+                "ROLEPLAY",
+                "WORKUP"
+            ],
+            "height": 1.2,
+            "weight": 28.0,
+            "abilities": [
+                "FURCOAT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 472,
+            "baseStats": [
+                75,
+                80,
+                60,
+                102,
+                65,
+                90
+            ],
+            "flags": [],
+            "form": 7,
+            "formName": "Forma Corte Aristocrático"
+        },
+        {
+            "generation": 6,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    5,
+                    "SANDATTACK"
+                ],
+                [
+                    9,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "TAILWHIP"
+                ],
+                [
+                    22,
+                    "BITE"
+                ],
+                [
+                    27,
+                    "ODORSLEUTH"
+                ],
+                [
+                    33,
+                    "RETALIATE"
+                ],
+                [
+                    35,
+                    "TAKEDOWN"
+                ],
+                [
+                    38,
+                    "CHARM"
+                ],
+                [
+                    42,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    48,
+                    "COTTONGUARD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DIG",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IRONTAIL",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "THUNDERWAVE",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WILDCHARGE",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "CAPTIVATE",
+                "MIMIC",
+                "REFRESH",
+                "ROLEPLAY",
+                "WORKUP"
+            ],
+            "height": 1.2,
+            "weight": 28.0,
+            "abilities": [
+                "FURCOAT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 472,
+            "baseStats": [
+                75,
+                80,
+                60,
+                102,
+                65,
+                90
+            ],
+            "flags": [],
+            "form": 8,
+            "formName": "Forma Corte Kabuki"
+        },
+        {
+            "generation": 6,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    5,
+                    "SANDATTACK"
+                ],
+                [
+                    9,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "TAILWHIP"
+                ],
+                [
+                    22,
+                    "BITE"
+                ],
+                [
+                    27,
+                    "ODORSLEUTH"
+                ],
+                [
+                    33,
+                    "RETALIATE"
+                ],
+                [
+                    35,
+                    "TAKEDOWN"
+                ],
+                [
+                    38,
+                    "CHARM"
+                ],
+                [
+                    42,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    48,
+                    "COTTONGUARD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DIG",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IRONTAIL",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "THUNDERWAVE",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WILDCHARGE",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "CAPTIVATE",
+                "MIMIC",
+                "REFRESH",
+                "ROLEPLAY",
+                "WORKUP"
+            ],
+            "height": 1.2,
+            "weight": 28.0,
+            "abilities": [
+                "FURCOAT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 472,
+            "baseStats": [
+                75,
+                80,
+                60,
+                102,
+                65,
+                90
+            ],
+            "flags": [],
+            "form": 9,
+            "formName": "Forma Forma Corte Faraónico"
+        }
+    ],
+    "internationalPokedex": 676
+}

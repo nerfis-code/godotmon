@@ -1,0 +1,182 @@
+{
+    "generation": 7,
+    "primaryType": "POISON",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "AIRCUTTER"
+        ],
+        [
+            1,
+            "AIRSLASH"
+        ],
+        [
+            1,
+            "DRAGONPULSE"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "ACID"
+        ],
+        [
+            7,
+            "FURYATTACK"
+        ],
+        [
+            14,
+            "FELLSTINGER"
+        ],
+        [
+            21,
+            "CHARM"
+        ],
+        [
+            28,
+            "VENOSHOCK"
+        ],
+        [
+            35,
+            "VENOMDRENCH"
+        ],
+        [
+            42,
+            "NASTYPLOT"
+        ],
+        [
+            49,
+            "POISONJAB"
+        ],
+        [
+            56,
+            "GASTROACID"
+        ],
+        [
+            63,
+            "TOXIC"
+        ],
+        [
+            70,
+            "DRAGONRUSH"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AIRSLASH",
+        "ALLYSWITCH",
+        "ASSURANCE",
+        "BREAKINGSWIPE",
+        "CHARM",
+        "CONFIDE",
+        "CROSSPOISON",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DUALWINGBEAT",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLY",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LEECHLIFE",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PINMISSILE",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKYATTACK",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMARTSTRIKE",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPIKES",
+        "SUBSTITUTE",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERBOLT",
+        "TOXIC",
+        "TOXICSPIKES",
+        "UPROAR",
+        "UTURN",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 3.6,
+    "weight": 150.0,
+    "abilities": [
+        "BEASTBOOST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 540,
+    "baseStats": [
+        73,
+        73,
+        73,
+        121,
+        127,
+        73
+    ],
+    "flags": [
+        "UltraBeast"
+    ],
+    "name": "Naganadel",
+    "species": "NAGANADEL",
+    "catchRate": 45,
+    "happiness": 0,
+    "baseExp": 270,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 804
+}

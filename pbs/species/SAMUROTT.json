@@ -1,0 +1,491 @@
+{
+    "generation": 5,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "SLASH"
+        ],
+        [
+            1,
+            "MEGAHORN"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "SOAK"
+        ],
+        [
+            11,
+            "WATERSPORT"
+        ],
+        [
+            13,
+            "FOCUSENERGY"
+        ],
+        [
+            18,
+            "RAZORSHELL"
+        ],
+        [
+            21,
+            "FURYCUTTER"
+        ],
+        [
+            25,
+            "WATERPULSE"
+        ],
+        [
+            29,
+            "REVENGE"
+        ],
+        [
+            29,
+            "AERIALACE"
+        ],
+        [
+            34,
+            "AQUAJET"
+        ],
+        [
+            39,
+            "ENCORE"
+        ],
+        [
+            46,
+            "AQUATAIL"
+        ],
+        [
+            51,
+            "RETALIATE"
+        ],
+        [
+            58,
+            "SWORDSDANCE"
+        ],
+        [
+            63,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BLOCK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRAGONTAIL",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HAIL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROCANNON",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LIQUIDATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TOXIC",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WORKUP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 94.6,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "SHELLARMOR"
+    ],
+    "baseTotal": 528,
+    "baseStats": [
+        95,
+        100,
+        85,
+        70,
+        108,
+        70
+    ],
+    "flags": [],
+    "name": "Samurott",
+    "species": "SAMUROTT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 264,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "SLASH"
+                ],
+                [
+                    1,
+                    "MEGAHORN"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "SOAK"
+                ],
+                [
+                    11,
+                    "WATERSPORT"
+                ],
+                [
+                    13,
+                    "FOCUSENERGY"
+                ],
+                [
+                    18,
+                    "RAZORSHELL"
+                ],
+                [
+                    21,
+                    "FURYCUTTER"
+                ],
+                [
+                    25,
+                    "WATERPULSE"
+                ],
+                [
+                    29,
+                    "REVENGE"
+                ],
+                [
+                    29,
+                    "AERIALACE"
+                ],
+                [
+                    34,
+                    "AQUAJET"
+                ],
+                [
+                    39,
+                    "ENCORE"
+                ],
+                [
+                    46,
+                    "AQUATAIL"
+                ],
+                [
+                    51,
+                    "RETALIATE"
+                ],
+                [
+                    58,
+                    "SWORDSDANCE"
+                ],
+                [
+                    63,
+                    "HYDROPUMP"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AQUATAIL",
+                "ATTRACT",
+                "BLIZZARD",
+                "BLOCK",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DIG",
+                "DIVE",
+                "DOUBLETEAM",
+                "DRAGONTAIL",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HAIL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYDROCANNON",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LIQUIDATION",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROCKSMASH",
+                "ROUND",
+                "SCALD",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SURF",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAUNT",
+                "TOXIC",
+                "WATERFALL",
+                "WATERPLEDGE",
+                "WATERPULSE",
+                "WORKUP",
+                "XSCISSOR"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 94.6,
+            "abilities": [
+                "TORRENT"
+            ],
+            "hiddenAbilitie": [
+                "SHELLARMOR"
+            ],
+            "baseTotal": 528,
+            "baseStats": [
+                95,
+                100,
+                85,
+                70,
+                108,
+                70
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Samurott"
+        },
+        {
+            "generation": 8,
+            "primaryType": "WATER",
+            "secondaryType": "DARK",
+            "moves": [
+                [
+                    0,
+                    "CEASELESSEDGE"
+                ],
+                [
+                    1,
+                    "SLASH"
+                ],
+                [
+                    1,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    1,
+                    "MEGAHORN"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    13,
+                    "FOCUSENERGY"
+                ],
+                [
+                    18,
+                    "RAZORSHELL"
+                ],
+                [
+                    21,
+                    "FURYCUTTER"
+                ],
+                [
+                    25,
+                    "WATERPULSE"
+                ],
+                [
+                    29,
+                    "AERIALACE"
+                ],
+                [
+                    34,
+                    "AQUAJET"
+                ],
+                [
+                    39,
+                    "ENCORE"
+                ],
+                [
+                    46,
+                    "AQUATAIL"
+                ],
+                [
+                    51,
+                    "RETALIATE"
+                ],
+                [
+                    58,
+                    "SWORDSDANCE"
+                ],
+                [
+                    63,
+                    "HYDROPUMP"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRSLASH",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULLDOZE",
+                "CHILLINGWATER",
+                "DARKPULSE",
+                "DIG",
+                "DRILLRUN",
+                "ENCORE",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "FLIPTURN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HELPINGHAND",
+                "HYDROCANNON",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICYWIND",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LIQUIDATION",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "SNARL",
+                "SNOWSCAPE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "UPPERHAND",
+                "VACUUMWAVE",
+                "WATERFALL",
+                "WATERPLEDGE",
+                "WATERPULSE",
+                "WHIRLPOOL",
+                "XSCISSOR"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 58.2,
+            "abilities": [
+                "TORRENT"
+            ],
+            "hiddenAbilitie": [
+                "SHARPNESS"
+            ],
+            "baseTotal": 528,
+            "baseStats": [
+                90,
+                108,
+                80,
+                85,
+                100,
+                65
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Hisui"
+        }
+    ],
+    "internationalPokedex": 503
+}

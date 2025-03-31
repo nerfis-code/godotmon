@@ -1,0 +1,417 @@
+{
+    "generation": 7,
+    "primaryType": "GRASS",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "LEAFAGE"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            9,
+            "PECK"
+        ],
+        [
+            12,
+            "SHADOWSNEAK"
+        ],
+        [
+            15,
+            "RAZORLEAF"
+        ],
+        [
+            20,
+            "SYNTHESIS"
+        ],
+        [
+            25,
+            "PLUCK"
+        ],
+        [
+            30,
+            "NASTYPLOT"
+        ],
+        [
+            35,
+            "SUCKERPUNCH"
+        ],
+        [
+            40,
+            "LEAFBLADE"
+        ],
+        [
+            45,
+            "FEATHERDANCE"
+        ],
+        [
+            50,
+            "BRAVEBIRD"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BATONPASS",
+        "BRAVEBIRD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GRASSYGLIDE",
+        "HIDDENPOWER",
+        "LEAFBLADE",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWCLAW",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TOXIC",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 16.0,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "LONGREACH"
+    ],
+    "baseTotal": 420,
+    "baseStats": [
+        78,
+        75,
+        75,
+        52,
+        70,
+        70
+    ],
+    "flags": [],
+    "name": "Dartrix",
+    "species": "DARTRIX",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 147,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [
+        {
+            "generation": 7,
+            "primaryType": "GRASS",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "LEAFAGE"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    9,
+                    "PECK"
+                ],
+                [
+                    12,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    15,
+                    "RAZORLEAF"
+                ],
+                [
+                    20,
+                    "SYNTHESIS"
+                ],
+                [
+                    25,
+                    "PLUCK"
+                ],
+                [
+                    30,
+                    "NASTYPLOT"
+                ],
+                [
+                    35,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    40,
+                    "LEAFBLADE"
+                ],
+                [
+                    45,
+                    "FEATHERDANCE"
+                ],
+                [
+                    50,
+                    "BRAVEBIRD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BATONPASS",
+                "BRAVEBIRD",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "GRASSPLEDGE",
+                "GRASSYGLIDE",
+                "HIDDENPOWER",
+                "LEAFBLADE",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWCLAW",
+                "SKYATTACK",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "TOXIC",
+                "WORKUP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [],
+            "height": 0.7,
+            "weight": 16.0,
+            "abilities": [
+                "OVERGROW"
+            ],
+            "hiddenAbilitie": [
+                "LONGREACH"
+            ],
+            "baseTotal": 420,
+            "baseStats": [
+                78,
+                75,
+                75,
+                52,
+                70,
+                70
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Dartrix"
+        },
+        {
+            "generation": 8,
+            "primaryType": "GRASS",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "LEAFAGE"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    9,
+                    "PECK"
+                ],
+                [
+                    12,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    15,
+                    "RAZORLEAF"
+                ],
+                [
+                    20,
+                    "SYNTHESIS"
+                ],
+                [
+                    25,
+                    "PLUCK"
+                ],
+                [
+                    30,
+                    "NASTYPLOT"
+                ],
+                [
+                    35,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    40,
+                    "LEAFBLADE"
+                ],
+                [
+                    45,
+                    "FEATHERDANCE"
+                ],
+                [
+                    50,
+                    "BRAVEBIRD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BATONPASS",
+                "BRAVEBIRD",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "GRASSPLEDGE",
+                "GRASSYGLIDE",
+                "HIDDENPOWER",
+                "LEAFBLADE",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWCLAW",
+                "SKYATTACK",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "TOXIC",
+                "WORKUP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [],
+            "height": 0.7,
+            "weight": 16.0,
+            "abilities": [
+                "OVERGROW"
+            ],
+            "hiddenAbilitie": [
+                "LONGREACH"
+            ],
+            "baseTotal": 420,
+            "baseStats": [
+                78,
+                75,
+                75,
+                52,
+                70,
+                70
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Dartrix"
+        }
+    ],
+    "internationalPokedex": 723
+}

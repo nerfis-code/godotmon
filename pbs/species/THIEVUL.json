@@ -1,0 +1,145 @@
+{
+    "generation": 8,
+    "primaryType": "DARK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "THIEF"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "BEATUP"
+        ],
+        [
+            1,
+            "HONECLAWS"
+        ],
+        [
+            12,
+            "SNARL"
+        ],
+        [
+            16,
+            "ASSURANCE"
+        ],
+        [
+            22,
+            "NASTYPLOT"
+        ],
+        [
+            28,
+            "SUCKERPUNCH"
+        ],
+        [
+            34,
+            "NIGHTSLASH"
+        ],
+        [
+            40,
+            "TAILSLAP"
+        ],
+        [
+            46,
+            "FOULPLAY"
+        ],
+        [
+            52,
+            "PARTINGSHOT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AGILITY",
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "BEATUP",
+        "BURNINGJEALOUSY",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREFANG",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEFANG",
+        "LASHOUT",
+        "MIMIC",
+        "MUDSHOT",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAILSLAP",
+        "TAUNT",
+        "THIEF",
+        "THUNDERFANG",
+        "TOXIC",
+        "UTURN"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 19.9,
+    "abilities": [
+        "RUNAWAY",
+        "UNBURDEN"
+    ],
+    "hiddenAbilitie": [
+        "STAKEOUT"
+    ],
+    "baseTotal": 455,
+    "baseStats": [
+        70,
+        58,
+        58,
+        90,
+        87,
+        92
+    ],
+    "flags": [],
+    "name": "Thievul",
+    "species": "THIEVUL",
+    "catchRate": 127,
+    "happiness": 50,
+    "baseExp": 159,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 828
+}

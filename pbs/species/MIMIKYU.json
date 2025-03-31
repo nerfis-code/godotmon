@@ -1,0 +1,489 @@
+{
+    "generation": 7,
+    "primaryType": "GHOST",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "WOODHAMMER"
+        ],
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "COPYCAT"
+        ],
+        [
+            6,
+            "SHADOWSNEAK"
+        ],
+        [
+            12,
+            "DOUBLETEAM"
+        ],
+        [
+            18,
+            "BABYDOLLEYES"
+        ],
+        [
+            24,
+            "MIMIC"
+        ],
+        [
+            30,
+            "HONECLAWS"
+        ],
+        [
+            36,
+            "SLASH"
+        ],
+        [
+            42,
+            "SHADOWCLAW"
+        ],
+        [
+            48,
+            "CHARM"
+        ],
+        [
+            54,
+            "PLAYROUGH"
+        ],
+        [
+            60,
+            "PAINSPLIT"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BEATUP",
+        "BULKUP",
+        "BURNINGJEALOUSY",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DARKPULSE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "LASTRESORT",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PHANTOMFORCE",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "WILLOWISP",
+        "WORKUP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "CURSE",
+        "DESTINYBOND",
+        "GRUDGE"
+    ],
+    "height": 0.2,
+    "weight": 0.7,
+    "abilities": [
+        "DISGUISE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 476,
+    "baseStats": [
+        55,
+        90,
+        80,
+        96,
+        50,
+        105
+    ],
+    "flags": [],
+    "name": "Mimikyu",
+    "species": "MIMIKYU",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 167,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 7,
+            "primaryType": "GHOST",
+            "secondaryType": "FAIRY",
+            "moves": [
+                [
+                    1,
+                    "WOODHAMMER"
+                ],
+                [
+                    1,
+                    "SPLASH"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "SCRATCH"
+                ],
+                [
+                    1,
+                    "COPYCAT"
+                ],
+                [
+                    6,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    12,
+                    "DOUBLETEAM"
+                ],
+                [
+                    18,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    24,
+                    "MIMIC"
+                ],
+                [
+                    30,
+                    "HONECLAWS"
+                ],
+                [
+                    36,
+                    "SLASH"
+                ],
+                [
+                    42,
+                    "SHADOWCLAW"
+                ],
+                [
+                    48,
+                    "CHARM"
+                ],
+                [
+                    54,
+                    "PLAYROUGH"
+                ],
+                [
+                    60,
+                    "PAINSPLIT"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ATTRACT",
+                "BEATUP",
+                "BULKUP",
+                "BURNINGJEALOUSY",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CHARM",
+                "CONFIDE",
+                "COVET",
+                "DARKPULSE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "DRAINPUNCH",
+                "DREAMEATER",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FLING",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HEX",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASTRESORT",
+                "LEECHLIFE",
+                "LIGHTSCREEN",
+                "MAGICROOM",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAINSPLIT",
+                "PAYBACK",
+                "PHANTOMFORCE",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SCREECH",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAUNT",
+                "TELEKINESIS",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TOXIC",
+                "TRICK",
+                "TRICKROOM",
+                "WILLOWISP",
+                "WORKUP",
+                "XSCISSOR"
+            ],
+            "eggMoves": [
+                "CURSE",
+                "DESTINYBOND",
+                "GRUDGE"
+            ],
+            "height": 0.2,
+            "weight": 0.7,
+            "abilities": [
+                "DISGUISE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 476,
+            "baseStats": [
+                55,
+                90,
+                80,
+                96,
+                50,
+                105
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Encubierta"
+        },
+        {
+            "generation": 7,
+            "primaryType": "GHOST",
+            "secondaryType": "FAIRY",
+            "moves": [
+                [
+                    1,
+                    "WOODHAMMER"
+                ],
+                [
+                    1,
+                    "SPLASH"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "SCRATCH"
+                ],
+                [
+                    1,
+                    "COPYCAT"
+                ],
+                [
+                    6,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    12,
+                    "DOUBLETEAM"
+                ],
+                [
+                    18,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    24,
+                    "MIMIC"
+                ],
+                [
+                    30,
+                    "HONECLAWS"
+                ],
+                [
+                    36,
+                    "SLASH"
+                ],
+                [
+                    42,
+                    "SHADOWCLAW"
+                ],
+                [
+                    48,
+                    "CHARM"
+                ],
+                [
+                    54,
+                    "PLAYROUGH"
+                ],
+                [
+                    60,
+                    "PAINSPLIT"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ATTRACT",
+                "BEATUP",
+                "BULKUP",
+                "BURNINGJEALOUSY",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CHARM",
+                "CONFIDE",
+                "COVET",
+                "DARKPULSE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "DRAINPUNCH",
+                "DREAMEATER",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FLING",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HEX",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASTRESORT",
+                "LEECHLIFE",
+                "LIGHTSCREEN",
+                "MAGICROOM",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAINSPLIT",
+                "PAYBACK",
+                "PHANTOMFORCE",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SCREECH",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAUNT",
+                "TELEKINESIS",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TOXIC",
+                "TRICK",
+                "TRICKROOM",
+                "WILLOWISP",
+                "WORKUP",
+                "XSCISSOR"
+            ],
+            "eggMoves": [
+                "CURSE",
+                "DESTINYBOND",
+                "GRUDGE"
+            ],
+            "height": 0.2,
+            "weight": 0.7,
+            "abilities": [
+                "DISGUISE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 476,
+            "baseStats": [
+                55,
+                90,
+                80,
+                96,
+                50,
+                105
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Descubierta"
+        }
+    ],
+    "internationalPokedex": 778
+}

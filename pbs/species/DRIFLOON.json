@@ -1,0 +1,181 @@
+{
+    "generation": 4,
+    "primaryType": "GHOST",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "MINIMIZE"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            4,
+            "GUST"
+        ],
+        [
+            8,
+            "FOCUSENERGY"
+        ],
+        [
+            12,
+            "PAYBACK"
+        ],
+        [
+            16,
+            "HEX"
+        ],
+        [
+            20,
+            "SHADOWBALL"
+        ],
+        [
+            24,
+            "STOCKPILE"
+        ],
+        [
+            24,
+            "SWALLOW"
+        ],
+        [
+            24,
+            "SPITUP"
+        ],
+        [
+            29,
+            "SELFDESTRUCT"
+        ],
+        [
+            32,
+            "DESTINYBOND"
+        ],
+        [
+            36,
+            "BATONPASS"
+        ],
+        [
+            40,
+            "TAILWIND"
+        ],
+        [
+            44,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AIRCUTTER",
+        "ALLYSWITCH",
+        "AMNESIA",
+        "ATTRACT",
+        "BATONPASS",
+        "BIND",
+        "BODYSLAM",
+        "BRUTALSWING",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CUT",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GYROBALL",
+        "HEX",
+        "HIDDENPOWER",
+        "ICYWIND",
+        "KNOCKOFF",
+        "MAGICCOAT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SILVERWIND",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRICK",
+        "WEATHERBALL",
+        "WILLOWISP"
+    ],
+    "eggMoves": [
+        "BODYSLAM",
+        "CLEARSMOG",
+        "DEFOG",
+        "DESTINYBOND",
+        "DISABLE",
+        "HAZE",
+        "HYPNOSIS",
+        "MEMENTO",
+        "TAILWIND",
+        "WEATHERBALL"
+    ],
+    "height": 0.4,
+    "weight": 1.2,
+    "abilities": [
+        "AFTERMATH",
+        "UNBURDEN"
+    ],
+    "hiddenAbilitie": [
+        "FLAREBOOST"
+    ],
+    "baseTotal": 348,
+    "baseStats": [
+        90,
+        50,
+        34,
+        70,
+        60,
+        44
+    ],
+    "flags": [],
+    "name": "Drifloon",
+    "species": "DRIFLOON",
+    "catchRate": 125,
+    "happiness": 50,
+    "baseExp": 70,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "FLUCTUATING",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 425
+}

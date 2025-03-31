@@ -1,0 +1,128 @@
+{
+    "generation": 5,
+    "primaryType": "BUG",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            -1,
+            "PROTECT"
+        ],
+        [
+            1,
+            "GRASSWHISTLE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            1,
+            "BUGBITE"
+        ],
+        [
+            1,
+            "RAZORLEAF"
+        ],
+        [
+            22,
+            "STRUGGLEBUG"
+        ],
+        [
+            29,
+            "ENDURE"
+        ],
+        [
+            31,
+            "STICKYWEB"
+        ],
+        [
+            36,
+            "BUGBUZZ"
+        ],
+        [
+            43,
+            "FLAIL"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BUGBITE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ELECTROWEB",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "TOXIC",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 0.5,
+    "weight": 7.3,
+    "abilities": [
+        "LEAFGUARD",
+        "CHLOROPHYLL"
+    ],
+    "hiddenAbilitie": [
+        "OVERCOAT"
+    ],
+    "baseTotal": 380,
+    "baseStats": [
+        55,
+        63,
+        90,
+        42,
+        50,
+        80
+    ],
+    "flags": [],
+    "name": "Swadloon",
+    "species": "SWADLOON",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 133,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 541
+}

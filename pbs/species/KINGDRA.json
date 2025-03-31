@@ -1,0 +1,171 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "WHIRLPOOL"
+        ],
+        [
+            1,
+            "YAWN"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "SMOKESCREEN"
+        ],
+        [
+            1,
+            "TWISTER"
+        ],
+        [
+            15,
+            "FOCUSENERGY"
+        ],
+        [
+            20,
+            "DRAGONBREATH"
+        ],
+        [
+            25,
+            "BUBBLEBEAM"
+        ],
+        [
+            30,
+            "AGILITY"
+        ],
+        [
+            37,
+            "LASERFOCUS"
+        ],
+        [
+            37,
+            "WATERPULSE"
+        ],
+        [
+            44,
+            "DRAGONPULSE"
+        ],
+        [
+            51,
+            "HYDROPUMP"
+        ],
+        [
+            58,
+            "DRAGONDANCE"
+        ],
+        [
+            65,
+            "RAINDANCE"
+        ],
+        [
+            72,
+            "WAVECRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BOUNCE",
+        "BREAKINGSWIPE",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FLIPTURN",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONHEAD",
+        "LASERFOCUS",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "QUASH",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TWISTER",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 152.0,
+    "abilities": [
+        "SWIFTSWIM",
+        "SNIPER"
+    ],
+    "hiddenAbilitie": [
+        "DAMP"
+    ],
+    "baseTotal": 540,
+    "baseStats": [
+        75,
+        95,
+        95,
+        85,
+        95,
+        95
+    ],
+    "flags": [],
+    "name": "Kingdra",
+    "species": "KINGDRA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 270,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPECIAL_ATTACK",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 230
+}

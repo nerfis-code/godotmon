@@ -1,0 +1,503 @@
+{
+    "generation": 1,
+    "primaryType": "BUG",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            1,
+            "BUGBITE"
+        ],
+        [
+            4,
+            "SUPERSONIC"
+        ],
+        [
+            8,
+            "CONFUSION"
+        ],
+        [
+            12,
+            "POISONPOWDER"
+        ],
+        [
+            12,
+            "STUNSPORE"
+        ],
+        [
+            12,
+            "SLEEPPOWDER"
+        ],
+        [
+            16,
+            "PSYBEAM"
+        ],
+        [
+            20,
+            "WHIRLWIND"
+        ],
+        [
+            24,
+            "AIRSLASH"
+        ],
+        [
+            28,
+            "SAFEGUARD"
+        ],
+        [
+            32,
+            "BUGBUZZ"
+        ],
+        [
+            36,
+            "TAILWIND"
+        ],
+        [
+            40,
+            "RAGEPOWDER"
+        ],
+        [
+            44,
+            "QUIVERDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ATTRACT",
+        "BATONPASS",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "ELECTROWEB",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYPERBEAM",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "MIMIC",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "POLLENPUFF",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SILVERWIND",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TWISTER",
+        "UTURN",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 32.0,
+    "abilities": [
+        "COMPOUNDEYES"
+    ],
+    "hiddenAbilitie": [
+        "TINTEDLENS"
+    ],
+    "baseTotal": 395,
+    "baseStats": [
+        60,
+        45,
+        50,
+        70,
+        90,
+        80
+    ],
+    "flags": [],
+    "name": "Butterfree",
+    "species": "BUTTERFREE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 198,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "STRINGSHOT"
+                ],
+                [
+                    1,
+                    "BUGBITE"
+                ],
+                [
+                    4,
+                    "SUPERSONIC"
+                ],
+                [
+                    8,
+                    "CONFUSION"
+                ],
+                [
+                    12,
+                    "POISONPOWDER"
+                ],
+                [
+                    12,
+                    "STUNSPORE"
+                ],
+                [
+                    12,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    16,
+                    "PSYBEAM"
+                ],
+                [
+                    20,
+                    "WHIRLWIND"
+                ],
+                [
+                    24,
+                    "AIRSLASH"
+                ],
+                [
+                    28,
+                    "SAFEGUARD"
+                ],
+                [
+                    32,
+                    "BUGBUZZ"
+                ],
+                [
+                    36,
+                    "TAILWIND"
+                ],
+                [
+                    40,
+                    "RAGEPOWDER"
+                ],
+                [
+                    44,
+                    "QUIVERDANCE"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "AIRCUTTER",
+                "AIRSLASH",
+                "ATTRACT",
+                "BATONPASS",
+                "BUGBITE",
+                "BUGBUZZ",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "DREAMEATER",
+                "DUALWINGBEAT",
+                "ELECTROWEB",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HURRICANE",
+                "HYPERBEAM",
+                "INFESTATION",
+                "IRONDEFENSE",
+                "MIMIC",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "POLLENPUFF",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SIGNALBEAM",
+                "SILVERWIND",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRINGSHOT",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "THIEF",
+                "TWISTER",
+                "UTURN",
+                "VENOSHOCK"
+            ],
+            "eggMoves": [],
+            "height": 1.1,
+            "weight": 32.0,
+            "abilities": [
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "TINTEDLENS"
+            ],
+            "baseTotal": 395,
+            "baseStats": [
+                60,
+                45,
+                50,
+                70,
+                90,
+                80
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Butterfree"
+        },
+        {
+            "generation": 8,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "STRINGSHOT"
+                ],
+                [
+                    1,
+                    "BUGBITE"
+                ],
+                [
+                    4,
+                    "SUPERSONIC"
+                ],
+                [
+                    8,
+                    "CONFUSION"
+                ],
+                [
+                    12,
+                    "POISONPOWDER"
+                ],
+                [
+                    12,
+                    "STUNSPORE"
+                ],
+                [
+                    12,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    16,
+                    "PSYBEAM"
+                ],
+                [
+                    20,
+                    "WHIRLWIND"
+                ],
+                [
+                    24,
+                    "AIRSLASH"
+                ],
+                [
+                    28,
+                    "SAFEGUARD"
+                ],
+                [
+                    32,
+                    "BUGBUZZ"
+                ],
+                [
+                    36,
+                    "TAILWIND"
+                ],
+                [
+                    40,
+                    "RAGEPOWDER"
+                ],
+                [
+                    44,
+                    "QUIVERDANCE"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "AIRCUTTER",
+                "AIRSLASH",
+                "ATTRACT",
+                "BATONPASS",
+                "BUGBITE",
+                "BUGBUZZ",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "DREAMEATER",
+                "DUALWINGBEAT",
+                "ELECTROWEB",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HURRICANE",
+                "HYPERBEAM",
+                "INFESTATION",
+                "IRONDEFENSE",
+                "MIMIC",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "POLLENPUFF",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SIGNALBEAM",
+                "SILVERWIND",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRINGSHOT",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "THIEF",
+                "TWISTER",
+                "UTURN",
+                "VENOSHOCK"
+            ],
+            "eggMoves": [],
+            "height": 17.0,
+            "weight": 32.0,
+            "abilities": [
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "TINTEDLENS"
+            ],
+            "baseTotal": 395,
+            "baseStats": [
+                60,
+                45,
+                50,
+                70,
+                90,
+                80
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 12
+}

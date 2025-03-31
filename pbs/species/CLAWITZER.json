@@ -1,0 +1,156 @@
+{
+    "generation": 6,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "DARKPULSE"
+        ],
+        [
+            1,
+            "DRAGONPULSE"
+        ],
+        [
+            1,
+            "HEALPULSE"
+        ],
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "VISEGRIP"
+        ],
+        [
+            1,
+            "FLAIL"
+        ],
+        [
+            15,
+            "AQUAJET"
+        ],
+        [
+            20,
+            "SMACKDOWN"
+        ],
+        [
+            25,
+            "HONECLAWS"
+        ],
+        [
+            30,
+            "WATERPULSE"
+        ],
+        [
+            35,
+            "SWORDSDANCE"
+        ],
+        [
+            42,
+            "AURASPHERE"
+        ],
+        [
+            49,
+            "BOUNCE"
+        ],
+        [
+            56,
+            "MUDDYWATER"
+        ],
+        [
+            63,
+            "CRABHAMMER"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "AURASPHERE",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FLIPTURN",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TERRAINPULSE",
+        "TOXIC",
+        "UTURN",
+        "VENOSHOCK",
+        "WATERFALL",
+        "WATERPULSE"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 35.3,
+    "abilities": [
+        "MEGALAUNCHER"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 500,
+    "baseStats": [
+        71,
+        73,
+        88,
+        59,
+        120,
+        89
+    ],
+    "flags": [],
+    "name": "Clawitzer",
+    "species": "CLAWITZER",
+    "catchRate": 55,
+    "happiness": 50,
+    "baseExp": 100,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 693
+}

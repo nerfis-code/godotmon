@@ -1,0 +1,156 @@
+{
+    "generation": 5,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            4,
+            "WORKUP"
+        ],
+        [
+            8,
+            "BITE"
+        ],
+        [
+            12,
+            "RETALIATE"
+        ],
+        [
+            17,
+            "BABYDOLLEYES"
+        ],
+        [
+            20,
+            "PLAYROUGH"
+        ],
+        [
+            24,
+            "CRUNCH"
+        ],
+        [
+            28,
+            "TAKEDOWN"
+        ],
+        [
+            32,
+            "HELPINGHAND"
+        ],
+        [
+            36,
+            "REVERSAL"
+        ],
+        [
+            40,
+            "ROAR"
+        ],
+        [
+            44,
+            "LASTRESORT"
+        ],
+        [
+            48,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AFTERYOU",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "CRUNCH",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEFANG",
+        "LASTRESORT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVERSAL",
+        "ROAR",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UPROAR",
+        "WILDCHARGE",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "AFTERYOU",
+        "COVET",
+        "HOWL",
+        "LICK",
+        "MUDSLAP",
+        "YAWN"
+    ],
+    "height": 0.4,
+    "weight": 4.1,
+    "abilities": [
+        "VITALSPIRIT",
+        "PICKUP"
+    ],
+    "hiddenAbilitie": [
+        "RUNAWAY"
+    ],
+    "baseTotal": 275,
+    "baseStats": [
+        45,
+        60,
+        45,
+        55,
+        25,
+        45
+    ],
+    "flags": [],
+    "name": "Lillipup",
+    "species": "LILLIPUP",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 55,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 506
+}

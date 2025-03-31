@@ -1,0 +1,465 @@
+{
+    "generation": 8,
+    "primaryType": "BUG",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "REFLECT"
+        ],
+        [
+            1,
+            "LIGHTSCREEN"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "STRUGGLEBUG"
+        ],
+        [
+            4,
+            "CONFUSERAY"
+        ],
+        [
+            8,
+            "MAGICCOAT"
+        ],
+        [
+            12,
+            "AGILITY"
+        ],
+        [
+            16,
+            "PSYBEAM"
+        ],
+        [
+            20,
+            "HYPNOSIS"
+        ],
+        [
+            24,
+            "ALLYSWITCH"
+        ],
+        [
+            28,
+            "BUGBUZZ"
+        ],
+        [
+            32,
+            "MIRRORCOAT"
+        ],
+        [
+            36,
+            "PSYCHIC"
+        ],
+        [
+            40,
+            "AFTERYOU"
+        ],
+        [
+            44,
+            "CALMMIND"
+        ],
+        [
+            48,
+            "PSYCHICTERRAIN"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BATONPASS",
+        "BODYPRESS",
+        "BUGBUZZ",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GUARDSWAP",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHOCUT",
+        "PSYSHOCK",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "UTURN",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.4,
+    "weight": 40.8,
+    "abilities": [
+        "SWARM",
+        "FRISK"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 505,
+    "baseStats": [
+        60,
+        45,
+        110,
+        90,
+        80,
+        120
+    ],
+    "flags": [],
+    "name": "Orbeetle",
+    "species": "ORBEETLE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 253,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "BUG",
+            "secondaryType": "PSYCHIC",
+            "moves": [
+                [
+                    1,
+                    "REFLECT"
+                ],
+                [
+                    1,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    1,
+                    "CONFUSION"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    4,
+                    "CONFUSERAY"
+                ],
+                [
+                    8,
+                    "MAGICCOAT"
+                ],
+                [
+                    12,
+                    "AGILITY"
+                ],
+                [
+                    16,
+                    "PSYBEAM"
+                ],
+                [
+                    20,
+                    "HYPNOSIS"
+                ],
+                [
+                    24,
+                    "ALLYSWITCH"
+                ],
+                [
+                    28,
+                    "BUGBUZZ"
+                ],
+                [
+                    32,
+                    "MIRRORCOAT"
+                ],
+                [
+                    36,
+                    "PSYCHIC"
+                ],
+                [
+                    40,
+                    "AFTERYOU"
+                ],
+                [
+                    44,
+                    "CALMMIND"
+                ],
+                [
+                    48,
+                    "PSYCHICTERRAIN"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BATONPASS",
+                "BODYPRESS",
+                "BUGBUZZ",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GUARDSWAP",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IMPRISON",
+                "IRONDEFENSE",
+                "LEECHLIFE",
+                "LIGHTSCREEN",
+                "MAGICROOM",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAYBACK",
+                "POWERSWAP",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHICTERRAIN",
+                "PSYCHOCUT",
+                "PSYSHOCK",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TOXIC",
+                "TRICK",
+                "TRICKROOM",
+                "UTURN",
+                "WONDERROOM",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.4,
+            "weight": 40.8,
+            "abilities": [
+                "SWARM",
+                "FRISK"
+            ],
+            "hiddenAbilitie": [
+                "TELEPATHY"
+            ],
+            "baseTotal": 505,
+            "baseStats": [
+                60,
+                45,
+                110,
+                90,
+                80,
+                120
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Orbeetle"
+        },
+        {
+            "generation": 8,
+            "primaryType": "BUG",
+            "secondaryType": "PSYCHIC",
+            "moves": [
+                [
+                    1,
+                    "REFLECT"
+                ],
+                [
+                    1,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    1,
+                    "CONFUSION"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    4,
+                    "CONFUSERAY"
+                ],
+                [
+                    8,
+                    "MAGICCOAT"
+                ],
+                [
+                    12,
+                    "AGILITY"
+                ],
+                [
+                    16,
+                    "PSYBEAM"
+                ],
+                [
+                    20,
+                    "HYPNOSIS"
+                ],
+                [
+                    24,
+                    "ALLYSWITCH"
+                ],
+                [
+                    28,
+                    "BUGBUZZ"
+                ],
+                [
+                    32,
+                    "MIRRORCOAT"
+                ],
+                [
+                    36,
+                    "PSYCHIC"
+                ],
+                [
+                    40,
+                    "AFTERYOU"
+                ],
+                [
+                    44,
+                    "CALMMIND"
+                ],
+                [
+                    48,
+                    "PSYCHICTERRAIN"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BATONPASS",
+                "BODYPRESS",
+                "BUGBUZZ",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GUARDSWAP",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IMPRISON",
+                "IRONDEFENSE",
+                "LEECHLIFE",
+                "LIGHTSCREEN",
+                "MAGICROOM",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAYBACK",
+                "POWERSWAP",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHICTERRAIN",
+                "PSYCHOCUT",
+                "PSYSHOCK",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TOXIC",
+                "TRICK",
+                "TRICKROOM",
+                "UTURN",
+                "WONDERROOM",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 14.0,
+            "weight": 40.8,
+            "abilities": [
+                "SWARM",
+                "FRISK"
+            ],
+            "hiddenAbilitie": [
+                "TELEPATHY"
+            ],
+            "baseTotal": 505,
+            "baseStats": [
+                60,
+                45,
+                110,
+                90,
+                80,
+                120
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 826
+}

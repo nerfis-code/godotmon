@@ -1,0 +1,168 @@
+{
+    "generation": 4,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "BABYDOLLEYES"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            5,
+            "QUICKATTACK"
+        ],
+        [
+            9,
+            "CHARM"
+        ],
+        [
+            13,
+            "SPARK"
+        ],
+        [
+            17,
+            "ENDURE"
+        ],
+        [
+            19,
+            "NUZZLE"
+        ],
+        [
+            21,
+            "SWIFT"
+        ],
+        [
+            25,
+            "ELECTROBALL"
+        ],
+        [
+            29,
+            "SWEETKISS"
+        ],
+        [
+            33,
+            "THUNDERWAVE"
+        ],
+        [
+            37,
+            "SUPERFANG"
+        ],
+        [
+            41,
+            "DISCHARGE"
+        ],
+        [
+            45,
+            "LASTRESORT"
+        ],
+        [
+            49,
+            "THUNDER"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUPERFANG",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "UPROAR",
+        "UTURN",
+        "VOLTSWITCH"
+    ],
+    "eggMoves": [
+        "BABYDOLLEYES",
+        "BITE",
+        "CHARGE",
+        "COVET",
+        "DEFENSECURL",
+        "FAKETEARS",
+        "FLAIL",
+        "FLATTER",
+        "FOLLOWME",
+        "ROLLOUT",
+        "TAILWHIP"
+    ],
+    "height": 0.4,
+    "weight": 3.9,
+    "abilities": [
+        "RUNAWAY",
+        "PICKUP"
+    ],
+    "hiddenAbilitie": [
+        "VOLTABSORB"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        60,
+        45,
+        70,
+        95,
+        45,
+        90
+    ],
+    "flags": [],
+    "name": "Pachirisu",
+    "species": "PACHIRISU",
+    "catchRate": 200,
+    "happiness": 100,
+    "baseExp": 142,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 417
+}

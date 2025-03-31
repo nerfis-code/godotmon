@@ -1,0 +1,214 @@
+{
+    "generation": 3,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "SWAGGER"
+        ],
+        [
+            1,
+            "PLAYROUGH"
+        ],
+        [
+            1,
+            "REVERSAL"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            1,
+            "UPROAR"
+        ],
+        [
+            1,
+            "FURYSWIPES"
+        ],
+        [
+            1,
+            "ENDURE"
+        ],
+        [
+            1,
+            "SLASH"
+        ],
+        [
+            1,
+            "FOCUSPUNCH"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "YAWN"
+        ],
+        [
+            1,
+            "ENCORE"
+        ],
+        [
+            1,
+            "SLACKOFF"
+        ],
+        [
+            1,
+            "SUCKERPUNCH"
+        ],
+        [
+            14,
+            "REST"
+        ],
+        [
+            17,
+            "AMNESIA"
+        ],
+        [
+            23,
+            "COVET"
+        ],
+        [
+            27,
+            "HEADBUTT"
+        ],
+        [
+            27,
+            "THROATCHOP"
+        ],
+        [
+            33,
+            "COUNTER"
+        ],
+        [
+            39,
+            "FLAIL"
+        ],
+        [
+            45,
+            "FLING"
+        ],
+        [
+            52,
+            "MEGAKICK"
+        ],
+        [
+            63,
+            "HAMMERARM"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AFTERYOU",
+        "ATTRACT",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "CUT",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "QUASH",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "WATERPULSE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 130.5,
+    "abilities": [
+        "TRUANT"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 670,
+    "baseStats": [
+        150,
+        160,
+        100,
+        100,
+        95,
+        65
+    ],
+    "flags": [],
+    "name": "Slaking",
+    "species": "SLAKING",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 285,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 289
+}

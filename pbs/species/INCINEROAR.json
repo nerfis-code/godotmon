@@ -1,0 +1,201 @@
+{
+    "generation": 7,
+    "primaryType": "FIRE",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            -1,
+            "DARKESTLARIAT"
+        ],
+        [
+            -1,
+            "THROATCHOP"
+        ],
+        [
+            -1,
+            "SCRATCH"
+        ],
+        [
+            -1,
+            "GROWL"
+        ],
+        [
+            1,
+            "CROSSCHOP"
+        ],
+        [
+            1,
+            "BULKUP"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "LICK"
+        ],
+        [
+            9,
+            "ROAR"
+        ],
+        [
+            12,
+            "FURYSWIPES"
+        ],
+        [
+            15,
+            "BITE"
+        ],
+        [
+            20,
+            "DOUBLEKICK"
+        ],
+        [
+            25,
+            "FIREFANG"
+        ],
+        [
+            30,
+            "SCARYFACE"
+        ],
+        [
+            32,
+            "SWAGGER"
+        ],
+        [
+            44,
+            "FLAMETHROWER"
+        ],
+        [
+            51,
+            "THRASH"
+        ],
+        [
+            58,
+            "FLAREBLITZ"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ASSURANCE",
+        "ATTRACT",
+        "BIND",
+        "BLASTBURN",
+        "BLAZEKICK",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "BULLDOZE",
+        "BURNINGJEALOUSY",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "COVET",
+        "CRUNCH",
+        "DARKESTLARIAT",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "EMBARGO",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIREPLEDGE",
+        "FIREPUNCH",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATCRASH",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LEECHLIFE",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "OVERHEAT",
+        "PAYDAY",
+        "PROTECT",
+        "QUASH",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROAR",
+        "ROUND",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "TOXIC",
+        "UTURN",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 83.0,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "INTIMIDATE"
+    ],
+    "baseTotal": 530,
+    "baseStats": [
+        95,
+        115,
+        90,
+        60,
+        80,
+        90
+    ],
+    "flags": [],
+    "name": "Incineroar",
+    "species": "INCINEROAR",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 265,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 727
+}

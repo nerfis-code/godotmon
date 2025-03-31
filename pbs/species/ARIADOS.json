@@ -1,0 +1,180 @@
+{
+    "generation": 2,
+    "primaryType": "BUG",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            -1,
+            "SWORDSDANCE"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            1,
+            "VENOMDRENCH"
+        ],
+        [
+            1,
+            "FELLSTINGER"
+        ],
+        [
+            1,
+            "BUGBITE"
+        ],
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            8,
+            "INFESTATION"
+        ],
+        [
+            12,
+            "SCARYFACE"
+        ],
+        [
+            15,
+            "NIGHTSHADE"
+        ],
+        [
+            19,
+            "SHADOWSNEAK"
+        ],
+        [
+            23,
+            "FURYSWIPES"
+        ],
+        [
+            28,
+            "SUCKERPUNCH"
+        ],
+        [
+            31,
+            "AGILITY"
+        ],
+        [
+            32,
+            "LEECHLIFE"
+        ],
+        [
+            35,
+            "PINMISSILE"
+        ],
+        [
+            41,
+            "PSYCHIC"
+        ],
+        [
+            46,
+            "POISONJAB"
+        ],
+        [
+            50,
+            "CROSSPOISON"
+        ],
+        [
+            54,
+            "STICKYWEB"
+        ],
+        [
+            59,
+            "TOXICTHREAD"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BOUNCE",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "INFESTATION",
+        "LEECHLIFE",
+        "MIMIC",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THIEF",
+        "THROATCHOP",
+        "VENOSHOCK",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 33.5,
+    "abilities": [
+        "SWARM",
+        "INSOMNIA"
+    ],
+    "hiddenAbilitie": [
+        "SNIPER"
+    ],
+    "baseTotal": 400,
+    "baseStats": [
+        70,
+        90,
+        70,
+        40,
+        60,
+        70
+    ],
+    "flags": [],
+    "name": "Ariados",
+    "species": "ARIADOS",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 140,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 168
+}

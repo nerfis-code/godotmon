@@ -1,0 +1,123 @@
+{
+    "generation": 5,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "LICK"
+        ],
+        [
+            1,
+            "FURYSWIPES"
+        ],
+        [
+            1,
+            "FLAMEBURST"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ATTRACT",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPLEDGE",
+        "FIREPUNCH",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 28.0,
+    "abilities": [
+        "GLUTTONY"
+    ],
+    "hiddenAbilitie": [
+        "BLAZE"
+    ],
+    "baseTotal": 498,
+    "baseStats": [
+        75,
+        98,
+        63,
+        101,
+        98,
+        63
+    ],
+    "flags": [],
+    "name": "Simisear",
+    "species": "SIMISEAR",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 174,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 514
+}

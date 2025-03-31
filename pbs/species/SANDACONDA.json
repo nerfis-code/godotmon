@@ -1,0 +1,405 @@
+{
+    "generation": 8,
+    "primaryType": "GROUND",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SKULLBASH"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "MINIMIZE"
+        ],
+        [
+            1,
+            "BRUTALSWING"
+        ],
+        [
+            15,
+            "BULLDOZE"
+        ],
+        [
+            20,
+            "HEADBUTT"
+        ],
+        [
+            25,
+            "GLARE"
+        ],
+        [
+            30,
+            "DIG"
+        ],
+        [
+            35,
+            "SANDSTORM"
+        ],
+        [
+            42,
+            "SLAM"
+        ],
+        [
+            49,
+            "COIL"
+        ],
+        [
+            51,
+            "SANDTOMB"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYPRESS",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HURRICANE",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCALESHOT",
+        "SCORCHINGSANDS",
+        "SCREECH",
+        "SECRETPOWER",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 3.8,
+    "weight": 65.5,
+    "abilities": [
+        "SANDSPIT",
+        "SHEDSKIN"
+    ],
+    "hiddenAbilitie": [
+        "SANDVEIL"
+    ],
+    "baseTotal": 510,
+    "baseStats": [
+        72,
+        107,
+        125,
+        71,
+        65,
+        70
+    ],
+    "flags": [],
+    "name": "Sandaconda",
+    "species": "SANDACONDA",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 179,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "GROUND",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "SKULLBASH"
+                ],
+                [
+                    1,
+                    "WRAP"
+                ],
+                [
+                    1,
+                    "SANDATTACK"
+                ],
+                [
+                    1,
+                    "MINIMIZE"
+                ],
+                [
+                    1,
+                    "BRUTALSWING"
+                ],
+                [
+                    15,
+                    "BULLDOZE"
+                ],
+                [
+                    20,
+                    "HEADBUTT"
+                ],
+                [
+                    25,
+                    "GLARE"
+                ],
+                [
+                    30,
+                    "DIG"
+                ],
+                [
+                    35,
+                    "SANDSTORM"
+                ],
+                [
+                    42,
+                    "SLAM"
+                ],
+                [
+                    49,
+                    "COIL"
+                ],
+                [
+                    51,
+                    "SANDTOMB"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYPRESS",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLETEAM",
+                "DRILLRUN",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FIREFANG",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HURRICANE",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "MIMIC",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROCKBLAST",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SANDTOMB",
+                "SCALESHOT",
+                "SCORCHINGSANDS",
+                "SCREECH",
+                "SECRETPOWER",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SNORE",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TOXIC",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 3.8,
+            "weight": 65.5,
+            "abilities": [
+                "SANDSPIT",
+                "SHEDSKIN"
+            ],
+            "hiddenAbilitie": [
+                "SANDVEIL"
+            ],
+            "baseTotal": 510,
+            "baseStats": [
+                72,
+                107,
+                125,
+                71,
+                65,
+                70
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Sandaconda"
+        },
+        {
+            "generation": 8,
+            "primaryType": "GROUND",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "SKULLBASH"
+                ],
+                [
+                    1,
+                    "WRAP"
+                ],
+                [
+                    1,
+                    "SANDATTACK"
+                ],
+                [
+                    1,
+                    "MINIMIZE"
+                ],
+                [
+                    1,
+                    "BRUTALSWING"
+                ],
+                [
+                    15,
+                    "BULLDOZE"
+                ],
+                [
+                    20,
+                    "HEADBUTT"
+                ],
+                [
+                    25,
+                    "GLARE"
+                ],
+                [
+                    30,
+                    "DIG"
+                ],
+                [
+                    35,
+                    "SANDSTORM"
+                ],
+                [
+                    42,
+                    "SLAM"
+                ],
+                [
+                    49,
+                    "COIL"
+                ],
+                [
+                    51,
+                    "SANDTOMB"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYPRESS",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLETEAM",
+                "DRILLRUN",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FIREFANG",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HURRICANE",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "MIMIC",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROCKBLAST",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SANDTOMB",
+                "SCALESHOT",
+                "SCORCHINGSANDS",
+                "SCREECH",
+                "SECRETPOWER",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SNORE",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TOXIC",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 22.0,
+            "weight": 65.5,
+            "abilities": [
+                "SANDSPIT",
+                "SHEDSKIN"
+            ],
+            "hiddenAbilitie": [
+                "SANDVEIL"
+            ],
+            "baseTotal": 510,
+            "baseStats": [
+                72,
+                107,
+                125,
+                71,
+                65,
+                70
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 844
+}

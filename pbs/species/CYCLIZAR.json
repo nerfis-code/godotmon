@@ -1,0 +1,146 @@
+{
+    "generation": 9,
+    "primaryType": "DRAGON",
+    "secondaryType": "NORMAL",
+    "moves": [
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            7,
+            "RAPIDSPIN"
+        ],
+        [
+            11,
+            "TAUNT"
+        ],
+        [
+            14,
+            "BREAKINGSWIPE"
+        ],
+        [
+            18,
+            "QUICKATTACK"
+        ],
+        [
+            23,
+            "BITE"
+        ],
+        [
+            27,
+            "UTURN"
+        ],
+        [
+            31,
+            "SHEDTAIL"
+        ],
+        [
+            36,
+            "DRAGONCLAW"
+        ],
+        [
+            40,
+            "SHIFTGEAR"
+        ],
+        [
+            45,
+            "DRAGONPULSE"
+        ],
+        [
+            51,
+            "DOUBLEEDGE"
+        ],
+        [
+            57,
+            "DRAGONRUSH"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "CRUNCH",
+        "DOUBLEEDGE",
+        "DRACOMETEOR",
+        "DRAGONCHEER",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "GIGAIMPACT",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICESPINNER",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "MUDSHOT",
+        "MUDSLAP",
+        "OUTRAGE",
+        "OVERHEAT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SCALESHOT",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERCELLSLAM",
+        "TAKEDOWN",
+        "TAUNT",
+        "TEMPERFLARE",
+        "THIEF",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "TRAILBLAZE",
+        "UPROAR",
+        "UTURN",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "AQUATAIL",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "POWERWHIP"
+    ],
+    "height": 1.6,
+    "weight": 63.0,
+    "abilities": [
+        "SHEDSKIN"
+    ],
+    "hiddenAbilitie": [
+        "REGENERATOR"
+    ],
+    "baseTotal": 501,
+    "baseStats": [
+        70,
+        95,
+        65,
+        121,
+        85,
+        65
+    ],
+    "flags": [],
+    "name": "Cyclizar",
+    "species": "CYCLIZAR",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 967
+}

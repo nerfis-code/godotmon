@@ -1,0 +1,163 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            4,
+            "ACID"
+        ],
+        [
+            8,
+            "WRAP"
+        ],
+        [
+            12,
+            "SUPERSONIC"
+        ],
+        [
+            16,
+            "WATERPULSE"
+        ],
+        [
+            20,
+            "SCREECH"
+        ],
+        [
+            24,
+            "BUBBLEBEAM"
+        ],
+        [
+            28,
+            "HEX"
+        ],
+        [
+            32,
+            "ACIDARMOR"
+        ],
+        [
+            36,
+            "POISONJAB"
+        ],
+        [
+            40,
+            "SURF"
+        ],
+        [
+            44,
+            "SLUDGEWAVE"
+        ],
+        [
+            48,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BIND",
+        "BLIZZARD",
+        "BRINE",
+        "BRUTALSWING",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CROSSPOISON",
+        "CUT",
+        "DAZZLINGGLEAM",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "HAIL",
+        "HEX",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "INFESTATION",
+        "KNOCKOFF",
+        "MAGICCOAT",
+        "MIMIC",
+        "MUDDYWATER",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THIEF",
+        "TOXICSPIKES",
+        "VENOSHOCK",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "ACUPRESSURE",
+        "AQUARING",
+        "AURORABEAM",
+        "CONFUSERAY",
+        "HAZE",
+        "KNOCKOFF",
+        "MIRRORCOAT",
+        "MUDDYWATER",
+        "RAPIDSPIN",
+        "TICKLE"
+    ],
+    "height": 0.9,
+    "weight": 45.5,
+    "abilities": [
+        "CLEARBODY",
+        "LIQUIDOOZE"
+    ],
+    "hiddenAbilitie": [
+        "RAINDISH"
+    ],
+    "baseTotal": 335,
+    "baseStats": [
+        40,
+        40,
+        35,
+        70,
+        50,
+        100
+    ],
+    "flags": [],
+    "name": "Tentacool",
+    "species": "TENTACOOL",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 67,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 72
+}

@@ -1,0 +1,107 @@
+{
+    "generation": 8,
+    "primaryType": "BUG",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "REFLECT"
+        ],
+        [
+            1,
+            "LIGHTSCREEN"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "STRUGGLEBUG"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BODYPRESS",
+        "BUGBUZZ",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GUARDSWAP",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYSHOCK",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.4,
+    "weight": 19.5,
+    "abilities": [
+        "SWARM",
+        "COMPOUNDEYES"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 335,
+    "baseStats": [
+        50,
+        35,
+        80,
+        30,
+        50,
+        90
+    ],
+    "flags": [],
+    "name": "Dottler",
+    "species": "DOTTLER",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 117,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 825
+}

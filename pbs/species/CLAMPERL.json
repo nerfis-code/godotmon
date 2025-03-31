@@ -1,0 +1,97 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "WHIRLPOOL"
+        ],
+        [
+            1,
+            "IRONDEFENSE"
+        ],
+        [
+            50,
+            "SHELLSMASH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HAIL",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "AQUARING",
+        "BODYSLAM",
+        "CONFUSERAY",
+        "MUDDYWATER",
+        "SUPERSONIC"
+    ],
+    "height": 0.4,
+    "weight": 52.5,
+    "abilities": [
+        "SHELLARMOR"
+    ],
+    "hiddenAbilitie": [
+        "RATTLED"
+    ],
+    "baseTotal": 345,
+    "baseStats": [
+        35,
+        64,
+        85,
+        32,
+        74,
+        55
+    ],
+    "flags": [],
+    "name": "Clamperl",
+    "species": "CLAMPERL",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 69,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 366
+}

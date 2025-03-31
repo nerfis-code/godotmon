@@ -1,0 +1,175 @@
+{
+    "generation": 2,
+    "primaryType": "ICE",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "LICK"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            4,
+            "POWDERSNOW"
+        ],
+        [
+            8,
+            "COPYCAT"
+        ],
+        [
+            12,
+            "CONFUSION"
+        ],
+        [
+            16,
+            "COVET"
+        ],
+        [
+            20,
+            "SING"
+        ],
+        [
+            24,
+            "FAKETEARS"
+        ],
+        [
+            28,
+            "ICEPUNCH"
+        ],
+        [
+            32,
+            "PSYCHIC"
+        ],
+        [
+            36,
+            "SWEETKISS"
+        ],
+        [
+            40,
+            "MEANLOOK"
+        ],
+        [
+            44,
+            "PERISHSONG"
+        ],
+        [
+            48,
+            "BLIZZARD"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "AURORAVEIL",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FLASH",
+        "FLING",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HAIL",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "THIEF",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "WATERPULSE",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "FAKEOUT",
+        "ICEPUNCH",
+        "ROLEPLAY",
+        "WISH"
+    ],
+    "height": 0.4,
+    "weight": 6.0,
+    "abilities": [
+        "OBLIVIOUS",
+        "FOREWARN"
+    ],
+    "hiddenAbilitie": [
+        "HYDRATION"
+    ],
+    "baseTotal": 305,
+    "baseStats": [
+        45,
+        30,
+        15,
+        65,
+        85,
+        65
+    ],
+    "flags": [],
+    "name": "Smoochum",
+    "species": "SMOOCHUM",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 238
+}

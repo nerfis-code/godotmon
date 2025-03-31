@@ -1,0 +1,145 @@
+{
+    "generation": 5,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ECHOEDVOICE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "ACID"
+        ],
+        [
+            8,
+            "SUPERSONIC"
+        ],
+        [
+            12,
+            "MUDSHOT"
+        ],
+        [
+            16,
+            "ROUND"
+        ],
+        [
+            20,
+            "BUBBLEBEAM"
+        ],
+        [
+            24,
+            "FLAIL"
+        ],
+        [
+            28,
+            "UPROAR"
+        ],
+        [
+            32,
+            "AQUARING"
+        ],
+        [
+            36,
+            "HYPERVOICE"
+        ],
+        [
+            40,
+            "MUDDYWATER"
+        ],
+        [
+            44,
+            "RAINDANCE"
+        ],
+        [
+            48,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERVOICE",
+        "ICYWIND",
+        "INFESTATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "UPROAR",
+        "VENOMDRENCH",
+        "WATERPULSE",
+        "WEATHERBALL"
+    ],
+    "eggMoves": [
+        "MIST",
+        "MUDSLAP",
+        "TOXIC",
+        "WATERPULSE"
+    ],
+    "height": 0.5,
+    "weight": 4.5,
+    "abilities": [
+        "SWIFTSWIM",
+        "HYDRATION"
+    ],
+    "hiddenAbilitie": [
+        "WATERABSORB"
+    ],
+    "baseTotal": 294,
+    "baseStats": [
+        50,
+        50,
+        40,
+        64,
+        50,
+        40
+    ],
+    "flags": [],
+    "name": "Tympole",
+    "species": "TYMPOLE",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 59,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 535
+}

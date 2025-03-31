@@ -1,0 +1,56 @@
+{
+    "generation": 1,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            9,
+            "BUGBITE"
+        ]
+    ],
+    "tutorMoves": [
+        "BUGBITE",
+        "ELECTROWEB",
+        "STRINGSHOT"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 2.9,
+    "abilities": [
+        "SHIELDDUST"
+    ],
+    "hiddenAbilitie": [
+        "RUNAWAY"
+    ],
+    "baseTotal": 195,
+    "baseStats": [
+        45,
+        30,
+        35,
+        45,
+        20,
+        20
+    ],
+    "flags": [],
+    "name": "Caterpie",
+    "species": "CATERPIE",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 39,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 10
+}

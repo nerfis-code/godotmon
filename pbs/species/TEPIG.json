@@ -1,0 +1,165 @@
+{
+    "generation": 5,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            3,
+            "TAILWHIP"
+        ],
+        [
+            7,
+            "EMBER"
+        ],
+        [
+            9,
+            "ODORSLEUTH"
+        ],
+        [
+            9,
+            "ENDURE"
+        ],
+        [
+            13,
+            "DEFENSECURL"
+        ],
+        [
+            15,
+            "FLAMECHARGE"
+        ],
+        [
+            19,
+            "SMOG"
+        ],
+        [
+            21,
+            "ROLLOUT"
+        ],
+        [
+            25,
+            "TAKEDOWN"
+        ],
+        [
+            27,
+            "HEATCRASH"
+        ],
+        [
+            31,
+            "ASSURANCE"
+        ],
+        [
+            33,
+            "FLAMETHROWER"
+        ],
+        [
+            37,
+            "HEADSMASH"
+        ],
+        [
+            39,
+            "ROAR"
+        ],
+        [
+            43,
+            "FLAREBLITZ"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPLEDGE",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GYROBALL",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "INCINERATE",
+        "IRONTAIL",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "TOXIC",
+        "WILDCHARGE",
+        "WILLOWISP",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "BODYSLAM",
+        "BURNUP",
+        "COVET",
+        "CURSE",
+        "ENDEAVOR",
+        "HEAVYSLAM",
+        "MAGNITUDE",
+        "SLEEPTALK",
+        "SUCKERPUNCH",
+        "SUPERPOWER",
+        "THRASH",
+        "YAWN"
+    ],
+    "height": 0.5,
+    "weight": 9.9,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "THICKFAT"
+    ],
+    "baseTotal": 308,
+    "baseStats": [
+        65,
+        63,
+        45,
+        45,
+        45,
+        45
+    ],
+    "flags": [],
+    "name": "Tepig",
+    "species": "TEPIG",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 498
+}

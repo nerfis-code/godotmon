@@ -1,0 +1,169 @@
+{
+    "generation": 5,
+    "primaryType": "FIRE",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            -1,
+            "ARMTHRUST"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "ENDURE"
+        ],
+        [
+            9,
+            "ODORSLEUTH"
+        ],
+        [
+            13,
+            "DEFENSECURL"
+        ],
+        [
+            15,
+            "FLAMECHARGE"
+        ],
+        [
+            20,
+            "SMOG"
+        ],
+        [
+            23,
+            "ROLLOUT"
+        ],
+        [
+            28,
+            "TAKEDOWN"
+        ],
+        [
+            31,
+            "HEATCRASH"
+        ],
+        [
+            36,
+            "ASSURANCE"
+        ],
+        [
+            39,
+            "FLAMETHROWER"
+        ],
+        [
+            44,
+            "HEADSMASH"
+        ],
+        [
+            47,
+            "ROAR"
+        ],
+        [
+            52,
+            "FLAREBLITZ"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPLEDGE",
+        "FIREPUNCH",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GYROBALL",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "INCINERATE",
+        "IRONTAIL",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WILDCHARGE",
+        "WILLOWISP",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 55.5,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "THICKFAT"
+    ],
+    "baseTotal": 418,
+    "baseStats": [
+        90,
+        93,
+        55,
+        55,
+        70,
+        55
+    ],
+    "flags": [],
+    "name": "Pignite",
+    "species": "PIGNITE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 146,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 499
+}

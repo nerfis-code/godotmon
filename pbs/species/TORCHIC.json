@@ -1,0 +1,173 @@
+{
+    "generation": 3,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            3,
+            "EMBER"
+        ],
+        [
+            6,
+            "QUICKATTACK"
+        ],
+        [
+            9,
+            "FLAMECHARGE"
+        ],
+        [
+            12,
+            "DETECT"
+        ],
+        [
+            15,
+            "SANDATTACK"
+        ],
+        [
+            18,
+            "AERIALACE"
+        ],
+        [
+            21,
+            "SLASH"
+        ],
+        [
+            24,
+            "BOUNCE"
+        ],
+        [
+            27,
+            "FOCUSENERGY"
+        ],
+        [
+            30,
+            "FLAMETHROWER"
+        ],
+        [
+            33,
+            "FEATHERDANCE"
+        ],
+        [
+            36,
+            "REVERSAL"
+        ],
+        [
+            39,
+            "FLAREBLITZ"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "BODYSLAM",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPLEDGE",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "INCINERATE",
+        "LASTRESORT",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "AGILITY",
+        "BATONPASS",
+        "COUNTER",
+        "CRUSHCLAW",
+        "CURSE",
+        "FEATHERDANCE",
+        "FEINT",
+        "LASTRESORT",
+        "LOWKICK",
+        "NIGHTSLASH",
+        "PECK",
+        "REVERSAL"
+    ],
+    "height": 0.4,
+    "weight": 2.5,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "SPEEDBOOST"
+    ],
+    "baseTotal": 310,
+    "baseStats": [
+        45,
+        60,
+        40,
+        45,
+        70,
+        50
+    ],
+    "flags": [],
+    "name": "Torchic",
+    "species": "TORCHIC",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 255
+}

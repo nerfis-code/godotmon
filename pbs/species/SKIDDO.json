@@ -1,0 +1,155 @@
+{
+    "generation": 6,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            7,
+            "VINEWHIP"
+        ],
+        [
+            9,
+            "TAILWHIP"
+        ],
+        [
+            12,
+            "LEECHSEED"
+        ],
+        [
+            13,
+            "RAZORLEAF"
+        ],
+        [
+            16,
+            "WORRYSEED"
+        ],
+        [
+            20,
+            "SYNTHESIS"
+        ],
+        [
+            22,
+            "TAKEDOWN"
+        ],
+        [
+            26,
+            "BULLDOZE"
+        ],
+        [
+            30,
+            "SEEDBOMB"
+        ],
+        [
+            34,
+            "BULKUP"
+        ],
+        [
+            38,
+            "DOUBLEEDGE"
+        ],
+        [
+            42,
+            "HORNLEECH"
+        ],
+        [
+            45,
+            "LEAFBLADE"
+        ],
+        [
+            50,
+            "MILKDRINK"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SYNTHESIS",
+        "TOXIC",
+        "WILDCHARGE",
+        "WORKUP",
+        "WORRYSEED",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "DEFENSECURL",
+        "GRASSYTERRAIN",
+        "MILKDRINK",
+        "ROLLOUT"
+    ],
+    "height": 0.9,
+    "weight": 31.0,
+    "abilities": [
+        "SAPSIPPER"
+    ],
+    "hiddenAbilitie": [
+        "GRASSPELT"
+    ],
+    "baseTotal": 350,
+    "baseStats": [
+        66,
+        65,
+        48,
+        52,
+        62,
+        57
+    ],
+    "flags": [],
+    "name": "Skiddo",
+    "species": "SKIDDO",
+    "catchRate": 200,
+    "happiness": 50,
+    "baseExp": 70,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 672
+}

@@ -1,0 +1,192 @@
+{
+    "generation": 5,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "HAMMERARM"
+        ],
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "RECOVER"
+        ],
+        [
+            1,
+            "ENDEAVOR"
+        ],
+        [
+            12,
+            "PSYBEAM"
+        ],
+        [
+            16,
+            "CHARM"
+        ],
+        [
+            20,
+            "PSYSHOCK"
+        ],
+        [
+            24,
+            "LIGHTSCREEN"
+        ],
+        [
+            24,
+            "REFLECT"
+        ],
+        [
+            28,
+            "ALLYSWITCH"
+        ],
+        [
+            35,
+            "PAINSPLIT"
+        ],
+        [
+            40,
+            "PSYCHIC"
+        ],
+        [
+            48,
+            "SKILLSWAP"
+        ],
+        [
+            56,
+            "FUTURESIGHT"
+        ],
+        [
+            64,
+            "WONDERROOM"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLASHCANNON",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "GYROBALL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "IMPRISON",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POWERSWAP",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "STEELROLLER",
+        "STOREDPOWER",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 20.1,
+    "abilities": [
+        "OVERCOAT",
+        "MAGICGUARD"
+    ],
+    "hiddenAbilitie": [
+        "REGENERATOR"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        110,
+        65,
+        75,
+        30,
+        125,
+        85
+    ],
+    "flags": [],
+    "name": "Reuniclus",
+    "species": "REUNICLUS",
+    "catchRate": 50,
+    "happiness": 50,
+    "baseExp": 245,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 579
+}

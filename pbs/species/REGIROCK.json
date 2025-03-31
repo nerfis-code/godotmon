@@ -1,0 +1,179 @@
+{
+    "generation": 3,
+    "primaryType": "ROCK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "CHARGEBEAM"
+        ],
+        [
+            1,
+            "ROCKTHROW"
+        ],
+        [
+            6,
+            "BULLDOZE"
+        ],
+        [
+            12,
+            "ANCIENTPOWER"
+        ],
+        [
+            18,
+            "STOMP"
+        ],
+        [
+            24,
+            "ROCKSLIDE"
+        ],
+        [
+            30,
+            "CURSE"
+        ],
+        [
+            36,
+            "IRONDEFENSE"
+        ],
+        [
+            42,
+            "HAMMERARM"
+        ],
+        [
+            48,
+            "STONEEDGE"
+        ],
+        [
+            54,
+            "SUPERPOWER"
+        ],
+        [
+            60,
+            "LOCKON"
+        ],
+        [
+            66,
+            "ZAPCANNON"
+        ],
+        [
+            72,
+            "HYPERBEAM"
+        ],
+        [
+            78,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "BLOCK",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DYNAMICPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASHCANNON",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HEADBUTT",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHUP",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKCLIMB",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SELFDESTRUCT",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 230.0,
+    "abilities": [
+        "CLEARBODY"
+    ],
+    "hiddenAbilitie": [
+        "STURDY"
+    ],
+    "baseTotal": 580,
+    "baseStats": [
+        80,
+        100,
+        200,
+        50,
+        50,
+        100
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Regirock",
+    "species": "REGIROCK",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 377
+}

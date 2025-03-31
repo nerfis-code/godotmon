@@ -1,0 +1,181 @@
+{
+    "generation": 4,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "BLOCK"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "BIND"
+        ],
+        [
+            1,
+            "STUNSPORE"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            16,
+            "VINEWHIP"
+        ],
+        [
+            20,
+            "POISONPOWDER"
+        ],
+        [
+            24,
+            "ANCIENTPOWER"
+        ],
+        [
+            28,
+            "KNOCKOFF"
+        ],
+        [
+            32,
+            "GIGADRAIN"
+        ],
+        [
+            36,
+            "SLEEPPOWDER"
+        ],
+        [
+            40,
+            "SLAM"
+        ],
+        [
+            44,
+            "TICKLE"
+        ],
+        [
+            48,
+            "POWERWHIP"
+        ],
+        [
+            52,
+            "INGRAIN"
+        ],
+        [
+            56,
+            "GRASSYTERRAIN"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BIND",
+        "BLOCK",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "KNOCKOFF",
+        "LEAFSTORM",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAINSPLIT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERSWAP",
+        "POWERWHIP",
+        "PROTECT",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THIEF",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 128.6,
+    "abilities": [
+        "CHLOROPHYLL",
+        "LEAFGUARD"
+    ],
+    "hiddenAbilitie": [
+        "REGENERATOR"
+    ],
+    "baseTotal": 535,
+    "baseStats": [
+        100,
+        100,
+        125,
+        50,
+        110,
+        50
+    ],
+    "flags": [],
+    "name": "Tangrowth",
+    "species": "TANGROWTH",
+    "catchRate": 30,
+    "happiness": 50,
+    "baseExp": 187,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 465
+}

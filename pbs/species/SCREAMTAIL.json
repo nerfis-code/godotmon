@@ -1,0 +1,179 @@
+{
+    "generation": 9,
+    "primaryType": "FAIRY",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            -1,
+            "SUNNYDAY"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "SING"
+        ],
+        [
+            1,
+            "DISABLE"
+        ],
+        [
+            7,
+            "HOWL"
+        ],
+        [
+            14,
+            "NOBLEROAR"
+        ],
+        [
+            21,
+            "BITE"
+        ],
+        [
+            28,
+            "BODYSLAM"
+        ],
+        [
+            35,
+            "REST"
+        ],
+        [
+            42,
+            "PLAYROUGH"
+        ],
+        [
+            49,
+            "HYPERVOICE"
+        ],
+        [
+            56,
+            "PSYCHICFANGS"
+        ],
+        [
+            63,
+            "CRUNCH"
+        ],
+        [
+            70,
+            "WISH"
+        ],
+        [
+            77,
+            "GYROBALL"
+        ],
+        [
+            84,
+            "PERISHSONG"
+        ],
+        [
+            91,
+            "BOOMBURST"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "BATONPASS",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BULKUP",
+        "CALMMIND",
+        "CRUNCH",
+        "DAZZLINGGLEAM",
+        "DIG",
+        "DOUBLEEDGE",
+        "DRAINPUNCH",
+        "ENCORE",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GYROBALL",
+        "HELPINGHAND",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICEPUNCH",
+        "IMPRISON",
+        "LIGHTSCREEN",
+        "METRONOME",
+        "MISTYEXPLOSION",
+        "MISTYTERRAIN",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYBEAM",
+        "PSYCHIC",
+        "PSYCHICFANGS",
+        "PSYCHICNOISE",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "ROAR",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SNOWSCAPE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "WATERPULSE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 8.0,
+    "abilities": [
+        "PROTOSYNTHESIS"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        115,
+        65,
+        99,
+        111,
+        65,
+        115
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Colagrito",
+    "species": "SCREAMTAIL",
+    "catchRate": 50,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 985
+}

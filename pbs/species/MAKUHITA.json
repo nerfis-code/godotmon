@@ -1,0 +1,185 @@
+{
+    "generation": 3,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            4,
+            "SANDATTACK"
+        ],
+        [
+            7,
+            "ARMTHRUST"
+        ],
+        [
+            10,
+            "FAKEOUT"
+        ],
+        [
+            13,
+            "FORCEPALM"
+        ],
+        [
+            16,
+            "WHIRLWIND"
+        ],
+        [
+            19,
+            "KNOCKOFF"
+        ],
+        [
+            22,
+            "VITALTHROW"
+        ],
+        [
+            22,
+            "BULKUP"
+        ],
+        [
+            25,
+            "BELLYDRUM"
+        ],
+        [
+            28,
+            "DETECT"
+        ],
+        [
+            31,
+            "SEISMICTOSS"
+        ],
+        [
+            34,
+            "FOCUSPUNCH"
+        ],
+        [
+            37,
+            "ENDURE"
+        ],
+        [
+            40,
+            "CLOSECOMBAT"
+        ],
+        [
+            43,
+            "REVERSAL"
+        ],
+        [
+            46,
+            "HEAVYSLAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "KNOCKOFF",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "THUNDERPUNCH",
+        "VACUUMWAVE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "BULLETPUNCH",
+        "COUNTER",
+        "CROSSCHOP",
+        "DETECT",
+        "DYNAMICPUNCH",
+        "FEINT",
+        "HELPINGHAND",
+        "REVENGE",
+        "WIDEGUARD"
+    ],
+    "height": 1.0,
+    "weight": 86.4,
+    "abilities": [
+        "THICKFAT",
+        "GUTS"
+    ],
+    "hiddenAbilitie": [
+        "SHEERFORCE"
+    ],
+    "baseTotal": 237,
+    "baseStats": [
+        72,
+        60,
+        30,
+        25,
+        20,
+        30
+    ],
+    "flags": [],
+    "name": "Makuhita",
+    "species": "MAKUHITA",
+    "catchRate": 180,
+    "happiness": 50,
+    "baseExp": 47,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "FLUCTUATING",
+    "genderRatio": 25,
+    "forms": [],
+    "internationalPokedex": 296
+}

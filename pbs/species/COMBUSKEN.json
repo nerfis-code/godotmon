@@ -1,0 +1,192 @@
+{
+    "generation": 3,
+    "primaryType": "FIRE",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            -1,
+            "DOUBLEKICK"
+        ],
+        [
+            -1,
+            "FLAMETHROWER"
+        ],
+        [
+            -1,
+            "FEATHERDANCE"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            9,
+            "FLAMECHARGE"
+        ],
+        [
+            12,
+            "DETECT"
+        ],
+        [
+            15,
+            "SANDATTACK"
+        ],
+        [
+            20,
+            "AERIALACE"
+        ],
+        [
+            25,
+            "SLASH"
+        ],
+        [
+            30,
+            "BOUNCE"
+        ],
+        [
+            35,
+            "FOCUSENERGY"
+        ],
+        [
+            40,
+            "BLAZEKICK"
+        ],
+        [
+            45,
+            "BULKUP"
+        ],
+        [
+            50,
+            "REVERSAL"
+        ],
+        [
+            55,
+            "FLAREBLITZ"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "BLAZEKICK",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BULKUP",
+        "CAPTIVATE",
+        "COACHING",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "DYNAMICPUNCH",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPLEDGE",
+        "FIREPUNCH",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "INCINERATE",
+        "LASTRESORT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "THUNDERPUNCH",
+        "VACUUMWAVE",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 19.5,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "SPEEDBOOST"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        60,
+        85,
+        60,
+        55,
+        85,
+        60
+    ],
+    "flags": [],
+    "name": "Combusken",
+    "species": "COMBUSKEN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 142,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 256
+}

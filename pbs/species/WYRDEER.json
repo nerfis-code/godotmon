@@ -1,0 +1,160 @@
+{
+    "generation": 8,
+    "primaryType": "NORMAL",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            -1,
+            "PSYSHIELDBASH"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            3,
+            "LEER"
+        ],
+        [
+            7,
+            "ASTONISH"
+        ],
+        [
+            10,
+            "HYPNOSIS"
+        ],
+        [
+            13,
+            "STOMP"
+        ],
+        [
+            16,
+            "SANDATTACK"
+        ],
+        [
+            21,
+            "TAKEDOWN"
+        ],
+        [
+            23,
+            "CONFUSERAY"
+        ],
+        [
+            27,
+            "CALMMIND"
+        ],
+        [
+            32,
+            "ROLEPLAY"
+        ],
+        [
+            37,
+            "ZENHEADBUTT"
+        ],
+        [
+            49,
+            "IMPRISON"
+        ],
+        [
+            55,
+            "DOUBLEEDGE"
+        ],
+        [
+            62,
+            "MEGAHORN"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFUSERAY",
+        "CURSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HELPINGHAND",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "LIGHTSCREEN",
+        "LUNGE",
+        "PROTECT",
+        "PSYBEAM",
+        "PSYCHIC",
+        "PSYCHICNOISE",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "ROAR",
+        "SCARYFACE",
+        "SHADOWBALL",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "SPITE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWIFT",
+        "TAKEDOWN",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRAILBLAZE",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "WILDCHARGE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 95.1,
+    "abilities": [
+        "INTIMIDATE",
+        "FRISK"
+    ],
+    "hiddenAbilitie": [
+        "SAPSIPPER"
+    ],
+    "baseTotal": 525,
+    "baseStats": [
+        103,
+        105,
+        72,
+        65,
+        105,
+        75
+    ],
+    "flags": [],
+    "name": "Wyrdeer",
+    "species": "WYRDEER",
+    "catchRate": 45,
+    "happiness": 70,
+    "baseExp": 263,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 899
+}

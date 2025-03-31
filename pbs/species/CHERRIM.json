@@ -1,0 +1,402 @@
+{
+    "generation": 4,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SUNNYDAY"
+        ],
+        [
+            1,
+            "FLOWERSHIELD"
+        ],
+        [
+            1,
+            "MORNINGSUN"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEAFAGE"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            15,
+            "HELPINGHAND"
+        ],
+        [
+            20,
+            "MAGICALLEAF"
+        ],
+        [
+            28,
+            "LEECHSEED"
+        ],
+        [
+            34,
+            "TAKEDOWN"
+        ],
+        [
+            41,
+            "PETALBLIZZARD"
+        ],
+        [
+            48,
+            "WORRYSEED"
+        ],
+        [
+            55,
+            "SOLARBEAM"
+        ],
+        [
+            62,
+            "PETALDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LASERFOCUS",
+        "MAGICALLEAF",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PLAYROUGH",
+        "POLLENPUFF",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "WEATHERBALL",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 0.5,
+    "weight": 9.3,
+    "abilities": [
+        "FLOWERGIFT"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 450,
+    "baseStats": [
+        70,
+        60,
+        70,
+        85,
+        87,
+        78
+    ],
+    "flags": [],
+    "name": "Cherrim",
+    "species": "CHERRIM",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 158,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 4,
+            "primaryType": "GRASS",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "SUNNYDAY"
+                ],
+                [
+                    1,
+                    "FLOWERSHIELD"
+                ],
+                [
+                    1,
+                    "MORNINGSUN"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEAFAGE"
+                ],
+                [
+                    1,
+                    "GROWTH"
+                ],
+                [
+                    15,
+                    "HELPINGHAND"
+                ],
+                [
+                    20,
+                    "MAGICALLEAF"
+                ],
+                [
+                    28,
+                    "LEECHSEED"
+                ],
+                [
+                    34,
+                    "TAKEDOWN"
+                ],
+                [
+                    41,
+                    "PETALBLIZZARD"
+                ],
+                [
+                    48,
+                    "WORRYSEED"
+                ],
+                [
+                    55,
+                    "SOLARBEAM"
+                ],
+                [
+                    62,
+                    "PETALDANCE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "LASERFOCUS",
+                "MAGICALLEAF",
+                "MIMIC",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PLAYROUGH",
+                "POLLENPUFF",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROLLOUT",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "WEATHERBALL",
+                "WORRYSEED"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 9.3,
+            "abilities": [
+                "FLOWERGIFT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 450,
+            "baseStats": [
+                70,
+                60,
+                70,
+                85,
+                87,
+                78
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Encapotada"
+        },
+        {
+            "generation": 4,
+            "primaryType": "GRASS",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "SUNNYDAY"
+                ],
+                [
+                    1,
+                    "FLOWERSHIELD"
+                ],
+                [
+                    1,
+                    "MORNINGSUN"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEAFAGE"
+                ],
+                [
+                    1,
+                    "GROWTH"
+                ],
+                [
+                    15,
+                    "HELPINGHAND"
+                ],
+                [
+                    20,
+                    "MAGICALLEAF"
+                ],
+                [
+                    28,
+                    "LEECHSEED"
+                ],
+                [
+                    34,
+                    "TAKEDOWN"
+                ],
+                [
+                    41,
+                    "PETALBLIZZARD"
+                ],
+                [
+                    48,
+                    "WORRYSEED"
+                ],
+                [
+                    55,
+                    "SOLARBEAM"
+                ],
+                [
+                    62,
+                    "PETALDANCE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "LASERFOCUS",
+                "MAGICALLEAF",
+                "MIMIC",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PLAYROUGH",
+                "POLLENPUFF",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROLLOUT",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "WEATHERBALL",
+                "WORRYSEED"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 9.3,
+            "abilities": [
+                "FLOWERGIFT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 450,
+            "baseStats": [
+                70,
+                60,
+                70,
+                85,
+                87,
+                78
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Soleada"
+        }
+    ],
+    "internationalPokedex": 421
+}

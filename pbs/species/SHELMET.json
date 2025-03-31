@@ -1,0 +1,143 @@
+{
+    "generation": 5,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            4,
+            "ACID"
+        ],
+        [
+            8,
+            "CURSE"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            16,
+            "STRUGGLEBUG"
+        ],
+        [
+            20,
+            "YAWN"
+        ],
+        [
+            24,
+            "ACIDARMOR"
+        ],
+        [
+            28,
+            "GIGADRAIN"
+        ],
+        [
+            32,
+            "GUARDSWAP"
+        ],
+        [
+            36,
+            "BODYSLAM"
+        ],
+        [
+            40,
+            "RECOVER"
+        ],
+        [
+            44,
+            "BUGBUZZ"
+        ],
+        [
+            48,
+            "FINALGAMBIT"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BATONPASS",
+        "BODYSLAM",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GUARDSWAP",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "LEECHLIFE",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SPIKES",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC",
+        "TOXICSPIKES",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [
+        "DOUBLEEDGE",
+        "FEINT",
+        "GUARDSPLIT",
+        "MINDREADER"
+    ],
+    "height": 0.4,
+    "weight": 7.7,
+    "abilities": [
+        "HYDRATION",
+        "SHELLARMOR"
+    ],
+    "hiddenAbilitie": [
+        "OVERCOAT"
+    ],
+    "baseTotal": 305,
+    "baseStats": [
+        50,
+        40,
+        85,
+        25,
+        40,
+        65
+    ],
+    "flags": [],
+    "name": "Shelmet",
+    "species": "SHELMET",
+    "catchRate": 200,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 616
+}

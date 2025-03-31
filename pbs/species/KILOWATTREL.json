@@ -1,0 +1,136 @@
+{
+    "generation": 9,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            -1,
+            "ELECTROBALL"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "THUNDERSHOCK"
+        ],
+        [
+            7,
+            "QUICKATTACK"
+        ],
+        [
+            11,
+            "PLUCK"
+        ],
+        [
+            15,
+            "SPARK"
+        ],
+        [
+            19,
+            "UPROAR"
+        ],
+        [
+            24,
+            "ROOST"
+        ],
+        [
+            30,
+            "DUALWINGBEAT"
+        ],
+        [
+            36,
+            "AGILITY"
+        ],
+        [
+            43,
+            "VOLTSWITCH"
+        ],
+        [
+            48,
+            "DISCHARGE"
+        ],
+        [
+            55,
+            "HURRICANE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "BRAVEBIRD",
+        "CHARGE",
+        "CHARGEBEAM",
+        "DUALWINGBEAT",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FEATHERDANCE",
+        "FLY",
+        "GIGAIMPACT",
+        "HURRICANE",
+        "HYPERBEAM",
+        "PROTECT",
+        "REST",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SUPERCELLSLAM",
+        "SWIFT",
+        "TAILWIND",
+        "TAKEDOWN",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "UPROAR",
+        "UTURN",
+        "VOLTSWITCH",
+        "WEATHERBALL",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 38.6,
+    "abilities": [
+        "WINDPOWER",
+        "VOLTABSORB"
+    ],
+    "hiddenAbilitie": [
+        "COMPETITIVE"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        70,
+        70,
+        60,
+        125,
+        105,
+        60
+    ],
+    "flags": [],
+    "name": "Kilowattrel",
+    "species": "KILOWATTREL",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 172,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 941
+}

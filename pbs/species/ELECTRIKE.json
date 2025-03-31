@@ -1,0 +1,160 @@
+{
+    "generation": 3,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "THUNDERWAVE"
+        ],
+        [
+            4,
+            "LEER"
+        ],
+        [
+            8,
+            "HOWL"
+        ],
+        [
+            12,
+            "QUICKATTACK"
+        ],
+        [
+            16,
+            "SHOCKWAVE"
+        ],
+        [
+            20,
+            "BITE"
+        ],
+        [
+            24,
+            "THUNDERFANG"
+        ],
+        [
+            28,
+            "ROAR"
+        ],
+        [
+            32,
+            "DISCHARGE"
+        ],
+        [
+            36,
+            "CHARGE"
+        ],
+        [
+            40,
+            "WILDCHARGE"
+        ],
+        [
+            44,
+            "THUNDER"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CRUNCH",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EERIEIMPULSE",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FLAMETHROWER",
+        "FLASH",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEFANG",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROAR",
+        "ROUND",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "UPROAR",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "CRUNCH",
+        "CURSE",
+        "DISCHARGE",
+        "EERIEIMPULSE",
+        "ELECTROBALL",
+        "FIREFANG",
+        "HEADBUTT",
+        "ICEFANG",
+        "SPARK",
+        "SWIFT",
+        "SWITCHEROO",
+        "THUNDERFANG",
+        "UPROAR"
+    ],
+    "height": 0.6,
+    "weight": 15.2,
+    "abilities": [
+        "STATIC",
+        "LIGHTNINGROD"
+    ],
+    "hiddenAbilitie": [
+        "MINUS"
+    ],
+    "baseTotal": 295,
+    "baseStats": [
+        40,
+        45,
+        40,
+        65,
+        65,
+        40
+    ],
+    "flags": [],
+    "name": "Electrike",
+    "species": "ELECTRIKE",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 59,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 309
+}

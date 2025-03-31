@@ -1,0 +1,174 @@
+{
+    "generation": 2,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "SKYATTACK"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "ECHOEDVOICE"
+        ],
+        [
+            9,
+            "CONFUSION"
+        ],
+        [
+            12,
+            "REFLECT"
+        ],
+        [
+            15,
+            "PSYCHOSHIFT"
+        ],
+        [
+            15,
+            "DEFOG"
+        ],
+        [
+            18,
+            "AIRSLASH"
+        ],
+        [
+            23,
+            "EXTRASENSORY"
+        ],
+        [
+            28,
+            "TAKEDOWN"
+        ],
+        [
+            33,
+            "UPROAR"
+        ],
+        [
+            38,
+            "ROOST"
+        ],
+        [
+            43,
+            "MOONBLAST"
+        ],
+        [
+            48,
+            "HYPNOSIS"
+        ],
+        [
+            53,
+            "DREAMEATER"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "AMNESIA",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IMPRISON",
+        "LASERFOCUS",
+        "MAGICCOAT",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PLUCK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SILVERWIND",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TWISTER",
+        "UPROAR",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 40.8,
+    "abilities": [
+        "INSOMNIA",
+        "KEENEYE"
+    ],
+    "hiddenAbilitie": [
+        "TINTEDLENS"
+    ],
+    "baseTotal": 452,
+    "baseStats": [
+        100,
+        50,
+        50,
+        70,
+        86,
+        96
+    ],
+    "flags": [],
+    "name": "Noctowl",
+    "species": "NOCTOWL",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 158,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 164
+}

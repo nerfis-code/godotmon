@@ -1,0 +1,141 @@
+{
+    "generation": 5,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "LEER"
+        ],
+        [
+            8,
+            "QUICKATTACK"
+        ],
+        [
+            12,
+            "TAUNT"
+        ],
+        [
+            16,
+            "AIRCUTTER"
+        ],
+        [
+            20,
+            "SWAGGER"
+        ],
+        [
+            24,
+            "FEATHERDANCE"
+        ],
+        [
+            28,
+            "DETECT"
+        ],
+        [
+            32,
+            "AIRSLASH"
+        ],
+        [
+            36,
+            "ROOST"
+        ],
+        [
+            40,
+            "TAILWIND"
+        ],
+        [
+            44,
+            "SKYATTACK"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AIRSLASH",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "DEFOG",
+        "HYPNOSIS",
+        "MORNINGSUN",
+        "NIGHTSLASH",
+        "WISH"
+    ],
+    "height": 0.3,
+    "weight": 2.1,
+    "abilities": [
+        "BIGPECKS",
+        "SUPERLUCK"
+    ],
+    "hiddenAbilitie": [
+        "RIVALRY"
+    ],
+    "baseTotal": 264,
+    "baseStats": [
+        50,
+        55,
+        50,
+        43,
+        36,
+        30
+    ],
+    "flags": [],
+    "name": "Pidove",
+    "species": "PIDOVE",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 53,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 519
+}

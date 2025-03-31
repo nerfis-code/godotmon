@@ -1,0 +1,531 @@
+{
+    "generation": 4,
+    "primaryType": "GHOST",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "SHADOWSNEAK"
+        ],
+        [
+            1,
+            "DEFOG"
+        ],
+        [
+            7,
+            "DRAGONBREATH"
+        ],
+        [
+            14,
+            "ANCIENTPOWER"
+        ],
+        [
+            21,
+            "HEX"
+        ],
+        [
+            28,
+            "SLASH"
+        ],
+        [
+            35,
+            "SCARYFACE"
+        ],
+        [
+            42,
+            "SHADOWCLAW"
+        ],
+        [
+            49,
+            "PAINSPLIT"
+        ],
+        [
+            56,
+            "AURASPHERE"
+        ],
+        [
+            63,
+            "DRAGONCLAW"
+        ],
+        [
+            70,
+            "EARTHPOWER"
+        ],
+        [
+            77,
+            "SHADOWFORCE"
+        ],
+        [
+            84,
+            "DESTINYBOND"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "AURASPHERE",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HEADBUTT",
+        "HEX",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICYWIND",
+        "IRONHEAD",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "OUTRAGE",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PHANTOMFORCE",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSMASH",
+        "ROUND",
+        "SAFEGUARD",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNORE",
+        "SPITE",
+        "STEELWING",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TWISTER",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 4.5,
+    "weight": 750.0,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 680,
+    "baseStats": [
+        150,
+        100,
+        120,
+        90,
+        100,
+        120
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Giratina",
+    "species": "GIRATINA",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 340,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 4,
+            "primaryType": "GHOST",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    1,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    1,
+                    "DEFOG"
+                ],
+                [
+                    7,
+                    "DRAGONBREATH"
+                ],
+                [
+                    14,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    21,
+                    "HEX"
+                ],
+                [
+                    28,
+                    "SLASH"
+                ],
+                [
+                    35,
+                    "SCARYFACE"
+                ],
+                [
+                    42,
+                    "SHADOWCLAW"
+                ],
+                [
+                    49,
+                    "PAINSPLIT"
+                ],
+                [
+                    56,
+                    "AURASPHERE"
+                ],
+                [
+                    63,
+                    "DRAGONCLAW"
+                ],
+                [
+                    70,
+                    "EARTHPOWER"
+                ],
+                [
+                    77,
+                    "SHADOWFORCE"
+                ],
+                [
+                    84,
+                    "DESTINYBOND"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRCUTTER",
+                "ANCIENTPOWER",
+                "AQUATAIL",
+                "AURASPHERE",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CALMMIND",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "CUT",
+                "DARKPULSE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "DREAMEATER",
+                "DUALWINGBEAT",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLY",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "HEADBUTT",
+                "HEX",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICYWIND",
+                "IRONHEAD",
+                "IRONTAIL",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "OUTRAGE",
+                "PAINSPLIT",
+                "PAYBACK",
+                "PHANTOMFORCE",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKCLIMB",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SILVERWIND",
+                "SLEEPTALK",
+                "SNORE",
+                "SPITE",
+                "STEELWING",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TELEKINESIS",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TWISTER",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 4.5,
+            "weight": 750.0,
+            "abilities": [
+                "PRESSURE"
+            ],
+            "hiddenAbilitie": [
+                "TELEPATHY"
+            ],
+            "baseTotal": 680,
+            "baseStats": [
+                150,
+                100,
+                120,
+                90,
+                100,
+                120
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 0,
+            "formName": "Forma Origen"
+        },
+        {
+            "generation": 4,
+            "primaryType": "GHOST",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    1,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    1,
+                    "DEFOG"
+                ],
+                [
+                    7,
+                    "DRAGONBREATH"
+                ],
+                [
+                    14,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    21,
+                    "HEX"
+                ],
+                [
+                    28,
+                    "SLASH"
+                ],
+                [
+                    35,
+                    "SCARYFACE"
+                ],
+                [
+                    42,
+                    "SHADOWCLAW"
+                ],
+                [
+                    49,
+                    "PAINSPLIT"
+                ],
+                [
+                    56,
+                    "AURASPHERE"
+                ],
+                [
+                    63,
+                    "DRAGONCLAW"
+                ],
+                [
+                    70,
+                    "EARTHPOWER"
+                ],
+                [
+                    77,
+                    "SHADOWFORCE"
+                ],
+                [
+                    84,
+                    "DESTINYBOND"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRCUTTER",
+                "ANCIENTPOWER",
+                "AQUATAIL",
+                "AURASPHERE",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CALMMIND",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "CUT",
+                "DARKPULSE",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "DREAMEATER",
+                "DUALWINGBEAT",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLY",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "HEADBUTT",
+                "HEX",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICYWIND",
+                "IRONHEAD",
+                "IRONTAIL",
+                "MAGICCOAT",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "OUTRAGE",
+                "PAYBACK",
+                "PHANTOMFORCE",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKCLIMB",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SILVERWIND",
+                "SLEEPTALK",
+                "SNORE",
+                "SPITE",
+                "STEELWING",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "TELEKINESIS",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TWISTER",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 6.9,
+            "weight": 650.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [
+                "LEVITATE"
+            ],
+            "baseTotal": 680,
+            "baseStats": [
+                150,
+                120,
+                100,
+                90,
+                120,
+                100
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 1,
+            "formName": "Forma Origen"
+        }
+    ],
+    "internationalPokedex": 487
+}

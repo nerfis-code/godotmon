@@ -1,0 +1,166 @@
+{
+    "generation": 9,
+    "primaryType": "FIRE",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            -1,
+            "NIGHTSLASH"
+        ],
+        [
+            -1,
+            "SOLARBLADE"
+        ],
+        [
+            -1,
+            "QUICKGUARD"
+        ],
+        [
+            -1,
+            "SHADOWSNEAK"
+        ],
+        [
+            -1,
+            "SHADOWCLAW"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            8,
+            "CLEARSMOG"
+        ],
+        [
+            12,
+            "FIRESPIN"
+        ],
+        [
+            16,
+            "WILLOWISP"
+        ],
+        [
+            20,
+            "NIGHTSHADE"
+        ],
+        [
+            24,
+            "FLAMECHARGE"
+        ],
+        [
+            28,
+            "INCINERATE"
+        ],
+        [
+            32,
+            "LAVAPLUME"
+        ],
+        [
+            37,
+            "SWORDSDANCE"
+        ],
+        [
+            42,
+            "ALLYSWITCH"
+        ],
+        [
+            48,
+            "BITTERBLADE"
+        ],
+        [
+            56,
+            "PSYCHOCUT"
+        ],
+        [
+            62,
+            "FLAREBLITZ"
+        ]
+    ],
+    "tutorMoves": [
+        "BRICKBREAK",
+        "BULKUP",
+        "CLOSECOMBAT",
+        "CONFUSERAY",
+        "CURSE",
+        "DRAGONCLAW",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLING",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HEX",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LIGHTSCREEN",
+        "NIGHTSHADE",
+        "OVERHEAT",
+        "PHANTOMFORCE",
+        "POISONJAB",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SOLARBLADE",
+        "SPITE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "TAUNT",
+        "THROATCHOP",
+        "VACUUMWAVE",
+        "WILLOWISP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 62.0,
+    "abilities": [
+        "FLASHFIRE"
+    ],
+    "hiddenAbilitie": [
+        "WEAKARMOR"
+    ],
+    "baseTotal": 525,
+    "baseStats": [
+        75,
+        125,
+        80,
+        85,
+        60,
+        100
+    ],
+    "flags": [],
+    "name": "Ceruledge",
+    "species": "CERULEDGE",
+    "catchRate": 25,
+    "happiness": 20,
+    "baseExp": 263,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 937
+}

@@ -1,0 +1,544 @@
+{
+    "generation": 8,
+    "primaryType": "FLYING",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            -1,
+            "BELCH"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "STOCKPILE"
+        ],
+        [
+            1,
+            "SWALLOW"
+        ],
+        [
+            1,
+            "SPITUP"
+        ],
+        [
+            7,
+            "WATERGUN"
+        ],
+        [
+            14,
+            "FURYATTACK"
+        ],
+        [
+            21,
+            "PLUCK"
+        ],
+        [
+            28,
+            "DIVE"
+        ],
+        [
+            35,
+            "DRILLPECK"
+        ],
+        [
+            42,
+            "AMNESIA"
+        ],
+        [
+            49,
+            "THRASH"
+        ],
+        [
+            56,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AIRSLASH",
+        "AMNESIA",
+        "ASSURANCE",
+        "ATTRACT",
+        "BLIZZARD",
+        "BRAVEBIRD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "LIQUIDATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "THIEF",
+        "THROATCHOP",
+        "TOXIC",
+        "UPROAR",
+        "WEATHERBALL",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "AERIALACE",
+        "AQUARING",
+        "DEFOG",
+        "FEATHERDANCE",
+        "ROOST"
+    ],
+    "height": 0.8,
+    "weight": 18.0,
+    "abilities": [
+        "GULPMISSILE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 475,
+    "baseStats": [
+        70,
+        85,
+        55,
+        85,
+        85,
+        95
+    ],
+    "flags": [],
+    "name": "Cramorant",
+    "species": "CRAMORANT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 166,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "FLYING",
+            "secondaryType": "WATER",
+            "moves": [
+                [
+                    -1,
+                    "BELCH"
+                ],
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "STOCKPILE"
+                ],
+                [
+                    1,
+                    "SWALLOW"
+                ],
+                [
+                    1,
+                    "SPITUP"
+                ],
+                [
+                    7,
+                    "WATERGUN"
+                ],
+                [
+                    14,
+                    "FURYATTACK"
+                ],
+                [
+                    21,
+                    "PLUCK"
+                ],
+                [
+                    28,
+                    "DIVE"
+                ],
+                [
+                    35,
+                    "DRILLPECK"
+                ],
+                [
+                    42,
+                    "AMNESIA"
+                ],
+                [
+                    49,
+                    "THRASH"
+                ],
+                [
+                    56,
+                    "HYDROPUMP"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "AIRSLASH",
+                "AMNESIA",
+                "ASSURANCE",
+                "ATTRACT",
+                "BLIZZARD",
+                "BRAVEBIRD",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIVE",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HURRICANE",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICYWIND",
+                "LIQUIDATION",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROUND",
+                "SCALD",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SURF",
+                "SWAGGER",
+                "THIEF",
+                "THROATCHOP",
+                "TOXIC",
+                "UPROAR",
+                "WEATHERBALL",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [
+                "AERIALACE",
+                "AQUARING",
+                "DEFOG",
+                "FEATHERDANCE",
+                "ROOST"
+            ],
+            "height": 0.8,
+            "weight": 18.0,
+            "abilities": [
+                "GULPMISSILE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 475,
+            "baseStats": [
+                70,
+                85,
+                55,
+                85,
+                85,
+                95
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Cramorant"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FLYING",
+            "secondaryType": "WATER",
+            "moves": [
+                [
+                    -1,
+                    "BELCH"
+                ],
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "STOCKPILE"
+                ],
+                [
+                    1,
+                    "SWALLOW"
+                ],
+                [
+                    1,
+                    "SPITUP"
+                ],
+                [
+                    7,
+                    "WATERGUN"
+                ],
+                [
+                    14,
+                    "FURYATTACK"
+                ],
+                [
+                    21,
+                    "PLUCK"
+                ],
+                [
+                    28,
+                    "DIVE"
+                ],
+                [
+                    35,
+                    "DRILLPECK"
+                ],
+                [
+                    42,
+                    "AMNESIA"
+                ],
+                [
+                    49,
+                    "THRASH"
+                ],
+                [
+                    56,
+                    "HYDROPUMP"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "AIRSLASH",
+                "AMNESIA",
+                "ASSURANCE",
+                "ATTRACT",
+                "BLIZZARD",
+                "BRAVEBIRD",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIVE",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HURRICANE",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICYWIND",
+                "LIQUIDATION",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROUND",
+                "SCALD",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SURF",
+                "SWAGGER",
+                "THIEF",
+                "THROATCHOP",
+                "TOXIC",
+                "UPROAR",
+                "WEATHERBALL",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [
+                "AERIALACE",
+                "AQUARING",
+                "DEFOG",
+                "FEATHERDANCE",
+                "ROOST"
+            ],
+            "height": 0.8,
+            "weight": 18.0,
+            "abilities": [
+                "GULPMISSILE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 475,
+            "baseStats": [
+                70,
+                85,
+                55,
+                85,
+                85,
+                95
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Tragatodo"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FLYING",
+            "secondaryType": "WATER",
+            "moves": [
+                [
+                    -1,
+                    "BELCH"
+                ],
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "STOCKPILE"
+                ],
+                [
+                    1,
+                    "SWALLOW"
+                ],
+                [
+                    1,
+                    "SPITUP"
+                ],
+                [
+                    7,
+                    "WATERGUN"
+                ],
+                [
+                    14,
+                    "FURYATTACK"
+                ],
+                [
+                    21,
+                    "PLUCK"
+                ],
+                [
+                    28,
+                    "DIVE"
+                ],
+                [
+                    35,
+                    "DRILLPECK"
+                ],
+                [
+                    42,
+                    "AMNESIA"
+                ],
+                [
+                    49,
+                    "THRASH"
+                ],
+                [
+                    56,
+                    "HYDROPUMP"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "AIRSLASH",
+                "AMNESIA",
+                "ASSURANCE",
+                "ATTRACT",
+                "BLIZZARD",
+                "BRAVEBIRD",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIVE",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HURRICANE",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICYWIND",
+                "LIQUIDATION",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROUND",
+                "SCALD",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SURF",
+                "SWAGGER",
+                "THIEF",
+                "THROATCHOP",
+                "TOXIC",
+                "UPROAR",
+                "WEATHERBALL",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [
+                "AERIALACE",
+                "AQUARING",
+                "DEFOG",
+                "FEATHERDANCE",
+                "ROOST"
+            ],
+            "height": 0.8,
+            "weight": 18.0,
+            "abilities": [
+                "GULPMISSILE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 475,
+            "baseStats": [
+                70,
+                85,
+                55,
+                85,
+                85,
+                95
+            ],
+            "flags": [],
+            "form": 2,
+            "formName": "Forma Engulletodo"
+        }
+    ],
+    "internationalPokedex": 845
+}

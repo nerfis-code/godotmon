@@ -1,0 +1,166 @@
+{
+    "generation": 5,
+    "primaryType": "GROUND",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            1,
+            "POWERTRIP"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            3,
+            "SANDATTACK"
+        ],
+        [
+            6,
+            "HONECLAWS"
+        ],
+        [
+            9,
+            "SANDTOMB"
+        ],
+        [
+            12,
+            "SCARYFACE"
+        ],
+        [
+            15,
+            "BITE"
+        ],
+        [
+            18,
+            "TORMENT"
+        ],
+        [
+            21,
+            "DIG"
+        ],
+        [
+            24,
+            "SWAGGER"
+        ],
+        [
+            27,
+            "CRUNCH"
+        ],
+        [
+            30,
+            "SANDSTORM"
+        ],
+        [
+            33,
+            "FOULPLAY"
+        ],
+        [
+            36,
+            "EARTHQUAKE"
+        ],
+        [
+            39,
+            "THRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FOCUSENERGY",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "INCINERATE",
+        "IRONTAIL",
+        "LASHOUT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THUNDERFANG",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR"
+    ],
+    "eggMoves": [
+        "AQUATAIL",
+        "COUNTER",
+        "DOUBLEEDGE",
+        "SPITE"
+    ],
+    "height": 0.7,
+    "weight": 15.2,
+    "abilities": [
+        "INTIMIDATE",
+        "MOXIE"
+    ],
+    "hiddenAbilitie": [
+        "ANGERPOINT"
+    ],
+    "baseTotal": 292,
+    "baseStats": [
+        50,
+        72,
+        35,
+        65,
+        35,
+        35
+    ],
+    "flags": [],
+    "name": "Sandile",
+    "species": "SANDILE",
+    "catchRate": 180,
+    "happiness": 50,
+    "baseExp": 58,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 551
+}

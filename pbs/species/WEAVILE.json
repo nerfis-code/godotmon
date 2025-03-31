@@ -1,0 +1,209 @@
+{
+    "generation": 4,
+    "primaryType": "DARK",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            1,
+            "REVENGE"
+        ],
+        [
+            1,
+            "ASSURANCE"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "BEATUP"
+        ],
+        [
+            1,
+            "AGILITY"
+        ],
+        [
+            1,
+            "SLASH"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "TAUNT"
+        ],
+        [
+            1,
+            "ICESHARD"
+        ],
+        [
+            18,
+            "METALCLAW"
+        ],
+        [
+            24,
+            "ICYWIND"
+        ],
+        [
+            30,
+            "FURYSWIPES"
+        ],
+        [
+            36,
+            "HONECLAWS"
+        ],
+        [
+            42,
+            "FLING"
+        ],
+        [
+            48,
+            "NASTYPLOT"
+        ],
+        [
+            54,
+            "SCREECH"
+        ],
+        [
+            60,
+            "NIGHTSLASH"
+        ],
+        [
+            66,
+            "DARKPULSE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "ASSURANCE",
+        "ATTRACT",
+        "AVALANCHE",
+        "BEATUP",
+        "BLIZZARD",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DARKPULSE",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROCKSMASH",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TORMENT",
+        "TRIPLEAXEL",
+        "WHIRLPOOL",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 34.0,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [
+        "PICKPOCKET"
+    ],
+    "baseTotal": 510,
+    "baseStats": [
+        70,
+        120,
+        65,
+        125,
+        45,
+        85
+    ],
+    "flags": [],
+    "name": "Weavile",
+    "species": "WEAVILE",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 179,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 461
+}

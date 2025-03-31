@@ -1,0 +1,131 @@
+{
+    "generation": 9,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "THUNDERSHOCK"
+        ],
+        [
+            7,
+            "QUICKATTACK"
+        ],
+        [
+            11,
+            "PLUCK"
+        ],
+        [
+            15,
+            "SPARK"
+        ],
+        [
+            19,
+            "UPROAR"
+        ],
+        [
+            23,
+            "ROOST"
+        ],
+        [
+            27,
+            "DUALWINGBEAT"
+        ],
+        [
+            32,
+            "AGILITY"
+        ],
+        [
+            37,
+            "VOLTSWITCH"
+        ],
+        [
+            43,
+            "DISCHARGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "BRAVEBIRD",
+        "CHARGE",
+        "CHARGEBEAM",
+        "DUALWINGBEAT",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FEATHERDANCE",
+        "FLY",
+        "HURRICANE",
+        "PROTECT",
+        "REST",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SWIFT",
+        "TAILWIND",
+        "TAKEDOWN",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "UPROAR",
+        "UTURN",
+        "VOLTSWITCH",
+        "WEATHERBALL",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "ENDEAVOR",
+        "FEATHERDANCE",
+        "SPITUP",
+        "STOCKPILE",
+        "SWALLOW",
+        "WEATHERBALL"
+    ],
+    "height": 0.4,
+    "weight": 3.6,
+    "abilities": [
+        "WINDPOWER",
+        "VOLTABSORB"
+    ],
+    "hiddenAbilitie": [
+        "COMPETITIVE"
+    ],
+    "baseTotal": 280,
+    "baseStats": [
+        40,
+        40,
+        35,
+        70,
+        55,
+        40
+    ],
+    "flags": [],
+    "name": "Wattrel",
+    "species": "WATTREL",
+    "catchRate": 180,
+    "happiness": 50,
+    "baseExp": 56,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 940
+}

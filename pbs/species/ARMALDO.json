@@ -1,0 +1,164 @@
+{
+    "generation": 3,
+    "primaryType": "ROCK",
+    "secondaryType": "BUG",
+    "moves": [
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "SMACKDOWN"
+        ],
+        [
+            12,
+            "METALCLAW"
+        ],
+        [
+            16,
+            "ANCIENTPOWER"
+        ],
+        [
+            20,
+            "BUGBITE"
+        ],
+        [
+            24,
+            "BRINE"
+        ],
+        [
+            28,
+            "SLASH"
+        ],
+        [
+            32,
+            "CRUSHCLAW"
+        ],
+        [
+            36,
+            "ROCKBLAST"
+        ],
+        [
+            43,
+            "PROTECT"
+        ],
+        [
+            48,
+            "XSCISSOR"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLOCK",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRINE",
+        "BRUTALSWING",
+        "BUGBITE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CROSSPOISON",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LIQUIDATION",
+        "LOWKICK",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "WATERPULSE",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 68.2,
+    "abilities": [
+        "BATTLEARMOR"
+    ],
+    "hiddenAbilitie": [
+        "SWIFTSWIM"
+    ],
+    "baseTotal": 495,
+    "baseStats": [
+        75,
+        125,
+        100,
+        45,
+        70,
+        80
+    ],
+    "flags": [],
+    "name": "Armaldo",
+    "species": "ARMALDO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 173,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 348
+}

@@ -1,0 +1,135 @@
+{
+    "generation": 8,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "BRUTALSWING"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "PLAYNICE"
+        ],
+        [
+            1,
+            "LIFEDEW"
+        ],
+        [
+            1,
+            "DISARMINGVOICE"
+        ],
+        [
+            15,
+            "AROMATHERAPY"
+        ],
+        [
+            15,
+            "AROMATICMIST"
+        ],
+        [
+            20,
+            "PSYBEAM"
+        ],
+        [
+            25,
+            "HEALPULSE"
+        ],
+        [
+            30,
+            "DAZZLINGGLEAM"
+        ],
+        [
+            37,
+            "CALMMIND"
+        ],
+        [
+            44,
+            "PSYCHIC"
+        ],
+        [
+            51,
+            "HEALINGWISH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BATONPASS",
+        "BRUTALSWING",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "DARKPULSE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IMPRISON",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYSHOCK",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "THUNDERWAVE",
+        "TOXIC"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 4.8,
+    "abilities": [
+        "HEALER",
+        "ANTICIPATION"
+    ],
+    "hiddenAbilitie": [
+        "MAGICBOUNCE"
+    ],
+    "baseTotal": 370,
+    "baseStats": [
+        57,
+        40,
+        65,
+        49,
+        86,
+        73
+    ],
+    "flags": [],
+    "name": "Hattrem",
+    "species": "HATTREM",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 130,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 857
+}

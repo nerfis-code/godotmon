@@ -1,0 +1,145 @@
+{
+    "generation": 8,
+    "primaryType": "WATER",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            7,
+            "PROTECT"
+        ],
+        [
+            14,
+            "BRUTALSWING"
+        ],
+        [
+            21,
+            "ANCIENTPOWER"
+        ],
+        [
+            28,
+            "BITE"
+        ],
+        [
+            35,
+            "DRAGONBREATH"
+        ],
+        [
+            42,
+            "STOMP"
+        ],
+        [
+            49,
+            "SUPERFANG"
+        ],
+        [
+            56,
+            "CRUNCH"
+        ],
+        [
+            63,
+            "FISHIOUSREND"
+        ],
+        [
+            70,
+            "DRAGONPULSE"
+        ],
+        [
+            77,
+            "DRAGONRUSH"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYSLAM",
+        "BRINE",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CONFIDE",
+        "CRUNCH",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONPULSE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEFANG",
+        "IRONHEAD",
+        "LEECHLIFE",
+        "LIQUIDATION",
+        "LOWKICK",
+        "MEGAKICK",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "WATERFALL",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.3,
+    "weight": 215.0,
+    "abilities": [
+        "WATERABSORB",
+        "STRONGJAW"
+    ],
+    "hiddenAbilitie": [
+        "SANDRUSH"
+    ],
+    "baseTotal": 505,
+    "baseStats": [
+        90,
+        90,
+        100,
+        75,
+        70,
+        80
+    ],
+    "flags": [],
+    "name": "Dracovish",
+    "species": "DRACOVISH",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 177,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 882
+}

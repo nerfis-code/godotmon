@@ -1,0 +1,157 @@
+{
+    "generation": 6,
+    "primaryType": "FIRE",
+    "secondaryType": "NORMAL",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            5,
+            "EMBER"
+        ],
+        [
+            8,
+            "WORKUP"
+        ],
+        [
+            11,
+            "HEADBUTT"
+        ],
+        [
+            15,
+            "NOBLEROAR"
+        ],
+        [
+            20,
+            "TAKEDOWN"
+        ],
+        [
+            23,
+            "FIREFANG"
+        ],
+        [
+            28,
+            "ENDEAVOR"
+        ],
+        [
+            33,
+            "ECHOEDVOICE"
+        ],
+        [
+            36,
+            "FLAMETHROWER"
+        ],
+        [
+            39,
+            "CRUNCH"
+        ],
+        [
+            43,
+            "HYPERVOICE"
+        ],
+        [
+            46,
+            "INCINERATE"
+        ],
+        [
+            50,
+            "OVERHEAT"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "INCINERATE",
+        "IRONTAIL",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "TOXIC",
+        "WILDCHARGE",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "ENTRAINMENT",
+        "FIRESPIN",
+        "FLAREBLITZ",
+        "SNATCH",
+        "YAWN"
+    ],
+    "height": 0.6,
+    "weight": 13.5,
+    "abilities": [
+        "RIVALRY",
+        "UNNERVE"
+    ],
+    "hiddenAbilitie": [
+        "MOXIE"
+    ],
+    "baseTotal": 369,
+    "baseStats": [
+        62,
+        50,
+        58,
+        72,
+        73,
+        54
+    ],
+    "flags": [],
+    "name": "Litleo",
+    "species": "LITLEO",
+    "catchRate": 220,
+    "happiness": 50,
+    "baseExp": 74,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 87.5,
+    "forms": [],
+    "internationalPokedex": 667
+}

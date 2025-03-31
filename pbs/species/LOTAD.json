@@ -1,0 +1,155 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            3,
+            "ABSORB"
+        ],
+        [
+            6,
+            "WATERGUN"
+        ],
+        [
+            9,
+            "MIST"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            16,
+            "FLAIL"
+        ],
+        [
+            20,
+            "BUBBLEBEAM"
+        ],
+        [
+            24,
+            "NATUREPOWER"
+        ],
+        [
+            24,
+            "LEECHSEED"
+        ],
+        [
+            28,
+            "GIGADRAIN"
+        ],
+        [
+            33,
+            "RAINDANCE"
+        ],
+        [
+            38,
+            "ZENHEADBUTT"
+        ],
+        [
+            43,
+            "ENERGYBALL"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THIEF",
+        "UPROAR",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "COUNTER",
+        "FLAIL",
+        "LEECHSEED",
+        "RAZORLEAF",
+        "SWEETSCENT",
+        "SYNTHESIS",
+        "TEETERDANCE",
+        "TICKLE",
+        "WATERGUN"
+    ],
+    "height": 0.5,
+    "weight": 2.6,
+    "abilities": [
+        "SWIFTSWIM",
+        "RAINDISH"
+    ],
+    "hiddenAbilitie": [
+        "OWNTEMPO"
+    ],
+    "baseTotal": 220,
+    "baseStats": [
+        40,
+        30,
+        30,
+        30,
+        40,
+        50
+    ],
+    "flags": [],
+    "name": "Lotad",
+    "species": "LOTAD",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 44,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 270
+}

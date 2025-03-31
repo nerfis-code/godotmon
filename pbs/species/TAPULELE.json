@@ -1,0 +1,171 @@
+{
+    "generation": 7,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            5,
+            "WITHDRAW"
+        ],
+        [
+            10,
+            "AROMATHERAPY"
+        ],
+        [
+            15,
+            "DRAININGKISS"
+        ],
+        [
+            20,
+            "PSYBEAM"
+        ],
+        [
+            25,
+            "FLATTER"
+        ],
+        [
+            30,
+            "AROMATICMIST"
+        ],
+        [
+            35,
+            "SWEETSCENT"
+        ],
+        [
+            40,
+            "EXTRASENSORY"
+        ],
+        [
+            45,
+            "PSYSHOCK"
+        ],
+        [
+            50,
+            "MEANLOOK"
+        ],
+        [
+            55,
+            "NATURESMADNESS"
+        ],
+        [
+            60,
+            "MOONBLAST"
+        ],
+        [
+            65,
+            "TICKLE"
+        ],
+        [
+            70,
+            "SKILLSWAP"
+        ],
+        [
+            75,
+            "PSYCHICTERRAIN"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PLAYROUGH",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SPEEDSWAP",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "TORMENT",
+        "TOXIC",
+        "WONDERROOM"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 18.6,
+    "abilities": [
+        "PSYCHICSURGE"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 570,
+    "baseStats": [
+        70,
+        85,
+        75,
+        95,
+        130,
+        115
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Tapu Lele",
+    "species": "TAPULELE",
+    "catchRate": 3,
+    "happiness": 50,
+    "baseExp": 285,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 786
+}

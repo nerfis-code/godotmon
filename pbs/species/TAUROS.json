@@ -1,0 +1,736 @@
+{
+    "generation": 1,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            5,
+            "WORKUP"
+        ],
+        [
+            10,
+            "PAYBACK"
+        ],
+        [
+            15,
+            "ASSURANCE"
+        ],
+        [
+            20,
+            "HORNATTACK"
+        ],
+        [
+            25,
+            "SCARYFACE"
+        ],
+        [
+            30,
+            "ZENHEADBUTT"
+        ],
+        [
+            35,
+            "TAKEDOWN"
+        ],
+        [
+            35,
+            "RAGINGBULL"
+        ],
+        [
+            40,
+            "REST"
+        ],
+        [
+            45,
+            "SWAGGER"
+        ],
+        [
+            50,
+            "THRASH"
+        ],
+        [
+            55,
+            "DOUBLEEDGE"
+        ],
+        [
+            60,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "INCINERATE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASHOUT",
+        "MEGAHORN",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "UPROAR",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WILDCHARGE",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 88.4,
+    "abilities": [
+        "INTIMIDATE",
+        "ANGERPOINT"
+    ],
+    "hiddenAbilitie": [
+        "SHEERFORCE"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        75,
+        100,
+        95,
+        110,
+        40,
+        70
+    ],
+    "flags": [],
+    "name": "Tauros",
+    "species": "TAUROS",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 172,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPEED",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 0,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    5,
+                    "WORKUP"
+                ],
+                [
+                    10,
+                    "PAYBACK"
+                ],
+                [
+                    15,
+                    "ASSURANCE"
+                ],
+                [
+                    20,
+                    "HORNATTACK"
+                ],
+                [
+                    25,
+                    "SCARYFACE"
+                ],
+                [
+                    30,
+                    "ZENHEADBUTT"
+                ],
+                [
+                    35,
+                    "TAKEDOWN"
+                ],
+                [
+                    35,
+                    "RAGINGBULL"
+                ],
+                [
+                    40,
+                    "REST"
+                ],
+                [
+                    45,
+                    "SWAGGER"
+                ],
+                [
+                    50,
+                    "THRASH"
+                ],
+                [
+                    55,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    60,
+                    "GIGAIMPACT"
+                ]
+            ],
+            "tutorMoves": [
+                "ASSURANCE",
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMETHROWER",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICYWIND",
+                "INCINERATE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "LASHOUT",
+                "MEGAHORN",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAYBACK",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROCKCLIMB",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROLEPLAY",
+                "ROUND",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "SNORE",
+                "SOLARBEAM",
+                "SPITE",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "THROATCHOP",
+                "THUNDER",
+                "THUNDERBOLT",
+                "UPROAR",
+                "WATERPULSE",
+                "WHIRLPOOL",
+                "WILDCHARGE",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.4,
+            "weight": 88.4,
+            "abilities": [
+                "INTIMIDATE",
+                "ANGERPOINT"
+            ],
+            "hiddenAbilitie": [
+                "SHEERFORCE"
+            ],
+            "baseTotal": 490,
+            "baseStats": [
+                75,
+                100,
+                95,
+                110,
+                40,
+                70
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Tauros"
+        },
+        {
+            "generation": 9,
+            "primaryType": "FIGHTING",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    5,
+                    "WORKUP"
+                ],
+                [
+                    10,
+                    "DOUBLEKICK"
+                ],
+                [
+                    15,
+                    "ASSURANCE"
+                ],
+                [
+                    20,
+                    "HEADBUTT"
+                ],
+                [
+                    25,
+                    "SCARYFACE"
+                ],
+                [
+                    30,
+                    "ZENHEADBUTT"
+                ],
+                [
+                    35,
+                    "RAGINGBULL"
+                ],
+                [
+                    40,
+                    "REST"
+                ],
+                [
+                    45,
+                    "SWAGGER"
+                ],
+                [
+                    50,
+                    "THRASH"
+                ],
+                [
+                    55,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    60,
+                    "CLOSECOMBAT"
+                ]
+            ],
+            "tutorMoves": [
+                "BODYPRESS",
+                "BODYSLAM",
+                "BULKUP",
+                "BULLDOZE",
+                "CLOSECOMBAT",
+                "CURSE",
+                "DIG",
+                "DOUBLEEDGE",
+                "DRILLRUN",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "GIGAIMPACT",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONHEAD",
+                "LASHOUT",
+                "OUTRAGE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "TAKEDOWN",
+                "THIEF",
+                "THROATCHOP",
+                "TRAILBLAZE",
+                "WILDCHARGE",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.4,
+            "weight": 115.0,
+            "abilities": [
+                "INTIMIDATE",
+                "ANGERPOINT"
+            ],
+            "hiddenAbilitie": [
+                "CUDCHEW"
+            ],
+            "baseTotal": 490,
+            "baseStats": [
+                75,
+                110,
+                105,
+                100,
+                30,
+                70
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Paldea (Combatiente)"
+        },
+        {
+            "generation": 9,
+            "primaryType": "FIGHTING",
+            "secondaryType": "FIRE",
+            "moves": [
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    5,
+                    "WORKUP"
+                ],
+                [
+                    10,
+                    "DOUBLEKICK"
+                ],
+                [
+                    15,
+                    "FLAMECHARGE"
+                ],
+                [
+                    20,
+                    "HEADBUTT"
+                ],
+                [
+                    25,
+                    "SCARYFACE"
+                ],
+                [
+                    30,
+                    "ZENHEADBUTT"
+                ],
+                [
+                    35,
+                    "RAGINGBULL"
+                ],
+                [
+                    40,
+                    "REST"
+                ],
+                [
+                    45,
+                    "SWAGGER"
+                ],
+                [
+                    50,
+                    "THRASH"
+                ],
+                [
+                    55,
+                    "FLAREBLITZ"
+                ],
+                [
+                    60,
+                    "CLOSECOMBAT"
+                ]
+            ],
+            "tutorMoves": [
+                "BODYPRESS",
+                "BODYSLAM",
+                "BULKUP",
+                "BULLDOZE",
+                "CLOSECOMBAT",
+                "CURSE",
+                "DIG",
+                "DOUBLEEDGE",
+                "DRILLRUN",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIRESPIN",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "GIGAIMPACT",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONHEAD",
+                "LASHOUT",
+                "OUTRAGE",
+                "OVERHEAT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAKEDOWN",
+                "TEMPERFLARE",
+                "THIEF",
+                "TRAILBLAZE",
+                "WILDCHARGE",
+                "WILLOWISP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.4,
+            "weight": 85.0,
+            "abilities": [
+                "INTIMIDATE",
+                "ANGERPOINT"
+            ],
+            "hiddenAbilitie": [
+                "CUDCHEW"
+            ],
+            "baseTotal": 490,
+            "baseStats": [
+                75,
+                110,
+                105,
+                100,
+                30,
+                70
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 2,
+            "formName": "Forma Paldea (Ardiente)"
+        },
+        {
+            "generation": 9,
+            "primaryType": "FIGHTING",
+            "secondaryType": "WATER",
+            "moves": [
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    5,
+                    "WORKUP"
+                ],
+                [
+                    10,
+                    "DOUBLEKICK"
+                ],
+                [
+                    15,
+                    "AQUAJET"
+                ],
+                [
+                    20,
+                    "HEADBUTT"
+                ],
+                [
+                    25,
+                    "SCARYFACE"
+                ],
+                [
+                    30,
+                    "ZENHEADBUTT"
+                ],
+                [
+                    35,
+                    "RAGINGBULL"
+                ],
+                [
+                    40,
+                    "REST"
+                ],
+                [
+                    45,
+                    "SWAGGER"
+                ],
+                [
+                    50,
+                    "THRASH"
+                ],
+                [
+                    55,
+                    "WAVECRASH"
+                ],
+                [
+                    60,
+                    "CLOSECOMBAT"
+                ]
+            ],
+            "tutorMoves": [
+                "BODYPRESS",
+                "BODYSLAM",
+                "BULKUP",
+                "BULLDOZE",
+                "CHILLINGWATER",
+                "CLOSECOMBAT",
+                "CURSE",
+                "DIG",
+                "DOUBLEEDGE",
+                "DRILLRUN",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "GIGAIMPACT",
+                "HIGHHORSEPOWER",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "IRONHEAD",
+                "LASHOUT",
+                "LIQUIDATION",
+                "OUTRAGE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SURF",
+                "TAKEDOWN",
+                "THIEF",
+                "TRAILBLAZE",
+                "WATERPULSE",
+                "WHIRLPOOL",
+                "WILDCHARGE",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.4,
+            "weight": 110.0,
+            "abilities": [
+                "INTIMIDATE",
+                "ANGERPOINT"
+            ],
+            "hiddenAbilitie": [
+                "CUDCHEW"
+            ],
+            "baseTotal": 490,
+            "baseStats": [
+                75,
+                110,
+                105,
+                100,
+                30,
+                70
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 3,
+            "formName": "Forma Paldea (Acuática)"
+        }
+    ],
+    "internationalPokedex": 128
+}

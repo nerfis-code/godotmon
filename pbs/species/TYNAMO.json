@@ -1,0 +1,58 @@
+{
+    "generation": 5,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "THUNDERWAVE"
+        ],
+        [
+            1,
+            "SPARK"
+        ],
+        [
+            1,
+            "CHARGEBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "CHARGEBEAM",
+        "MAGNETRISE",
+        "THUNDERWAVE"
+    ],
+    "eggMoves": [],
+    "height": 0.2,
+    "weight": 0.3,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 275,
+    "baseStats": [
+        35,
+        55,
+        40,
+        60,
+        45,
+        40
+    ],
+    "flags": [],
+    "name": "Tynamo",
+    "species": "TYNAMO",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 55,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 602
+}

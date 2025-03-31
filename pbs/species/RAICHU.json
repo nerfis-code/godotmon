@@ -1,0 +1,551 @@
+{
+    "generation": 1,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "THUNDERPUNCH"
+        ],
+        [
+            1,
+            "PLAYNICE"
+        ],
+        [
+            1,
+            "SWEETKISS"
+        ],
+        [
+            1,
+            "NUZZLE"
+        ],
+        [
+            1,
+            "NASTYPLOT"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "THUNDERWAVE"
+        ],
+        [
+            1,
+            "DOUBLETEAM"
+        ],
+        [
+            1,
+            "ELECTROBALL"
+        ],
+        [
+            1,
+            "FEINT"
+        ],
+        [
+            1,
+            "SPARK"
+        ],
+        [
+            1,
+            "AGILITY"
+        ],
+        [
+            1,
+            "SLAM"
+        ],
+        [
+            1,
+            "DISCHARGE"
+        ],
+        [
+            1,
+            "LIGHTSCREEN"
+        ],
+        [
+            1,
+            "THUNDER"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "IRONTAIL"
+        ],
+        [
+            5,
+            "THUNDERBOLT"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DYNAMICPUNCH",
+        "ECHOEDVOICE",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYDAY",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "RISINGVOLTAGE",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SPEEDSWAP",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "UPROAR",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 30.0,
+    "abilities": [
+        "STATIC"
+    ],
+    "hiddenAbilitie": [
+        "LIGHTNINGROD"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        60,
+        90,
+        55,
+        110,
+        90,
+        80
+    ],
+    "flags": [],
+    "name": "Raichu",
+    "species": "RAICHU",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 243,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "THUNDERPUNCH"
+                ],
+                [
+                    1,
+                    "PLAYNICE"
+                ],
+                [
+                    1,
+                    "SWEETKISS"
+                ],
+                [
+                    1,
+                    "NUZZLE"
+                ],
+                [
+                    1,
+                    "NASTYPLOT"
+                ],
+                [
+                    1,
+                    "CHARM"
+                ],
+                [
+                    1,
+                    "THUNDERWAVE"
+                ],
+                [
+                    1,
+                    "DOUBLETEAM"
+                ],
+                [
+                    1,
+                    "ELECTROBALL"
+                ],
+                [
+                    1,
+                    "FEINT"
+                ],
+                [
+                    1,
+                    "SPARK"
+                ],
+                [
+                    1,
+                    "AGILITY"
+                ],
+                [
+                    1,
+                    "SLAM"
+                ],
+                [
+                    1,
+                    "DISCHARGE"
+                ],
+                [
+                    1,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    1,
+                    "THUNDER"
+                ],
+                [
+                    1,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "IRONTAIL"
+                ],
+                [
+                    5,
+                    "THUNDERBOLT"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CHARM",
+                "CONFIDE",
+                "COUNTER",
+                "COVET",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "DYNAMICPUNCH",
+                "ECHOEDVOICE",
+                "EERIEIMPULSE",
+                "ELECTRICTERRAIN",
+                "ELECTROBALL",
+                "ELECTROWEB",
+                "ENCORE",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HEADBUTT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAYDAY",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "RISINGVOLTAGE",
+                "ROCKSMASH",
+                "ROLLOUT",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SPEEDSWAP",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "UPROAR",
+                "VOLTSWITCH",
+                "WILDCHARGE"
+            ],
+            "eggMoves": [],
+            "height": 0.8,
+            "weight": 30.0,
+            "abilities": [
+                "STATIC"
+            ],
+            "hiddenAbilitie": [
+                "LIGHTNINGROD"
+            ],
+            "baseTotal": 485,
+            "baseStats": [
+                60,
+                90,
+                55,
+                110,
+                90,
+                80
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Raichu"
+        },
+        {
+            "generation": 7,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "PSYCHIC",
+            "moves": [
+                [
+                    0,
+                    "PSYCHIC"
+                ],
+                [
+                    1,
+                    "SPEEDSWAP"
+                ],
+                [
+                    1,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "THUNDERBOLT"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARM",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "COUNTER",
+                "COVET",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "DYNAMICPUNCH",
+                "ECHOEDVOICE",
+                "ELECTRICTERRAIN",
+                "ELECTROBALL",
+                "ELECTROWEB",
+                "ENCORE",
+                "ENDURE",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FLASH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HEADBUTT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MAGICROOM",
+                "MAGNETRISE",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAYDAY",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYSHOCK",
+                "RAINDANCE",
+                "RECYCLE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "RISINGVOLTAGE",
+                "ROCKSMASH",
+                "ROLLOUT",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SPEEDSWAP",
+                "STOREDPOWER",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "TELEKINESIS",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "UPROAR",
+                "VOLTSWITCH",
+                "WILDCHARGE"
+            ],
+            "eggMoves": [],
+            "height": 0.7,
+            "weight": 21.0,
+            "abilities": [
+                "SURGESURFER"
+            ],
+            "hiddenAbilitie": [
+                "SURGESURFER"
+            ],
+            "baseTotal": 485,
+            "baseStats": [
+                60,
+                85,
+                50,
+                110,
+                95,
+                85
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Alola"
+        }
+    ],
+    "internationalPokedex": 26
+}

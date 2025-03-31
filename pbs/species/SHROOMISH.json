@@ -1,0 +1,140 @@
+{
+    "generation": 3,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "STUNSPORE"
+        ],
+        [
+            8,
+            "LEECHSEED"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            15,
+            "HEADBUTT"
+        ],
+        [
+            19,
+            "POISONPOWDER"
+        ],
+        [
+            22,
+            "WORRYSEED"
+        ],
+        [
+            26,
+            "GIGADRAIN"
+        ],
+        [
+            29,
+            "GROWTH"
+        ],
+        [
+            33,
+            "TOXIC"
+        ],
+        [
+            36,
+            "SEEDBOMB"
+        ],
+        [
+            40,
+            "SPORE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "TOXIC",
+        "VENOSHOCK",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "CHARM",
+        "FAKETEARS",
+        "HELPINGHAND",
+        "SEEDBOMB",
+        "WORRYSEED"
+    ],
+    "height": 0.4,
+    "weight": 4.5,
+    "abilities": [
+        "EFFECTSPORE",
+        "POISONHEAL"
+    ],
+    "hiddenAbilitie": [
+        "QUICKFEET"
+    ],
+    "baseTotal": 295,
+    "baseStats": [
+        60,
+        40,
+        60,
+        35,
+        40,
+        60
+    ],
+    "flags": [],
+    "name": "Shroomish",
+    "species": "SHROOMISH",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 59,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "FLUCTUATING",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 285
+}

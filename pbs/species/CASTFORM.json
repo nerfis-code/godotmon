@@ -1,0 +1,712 @@
+{
+    "generation": 3,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            10,
+            "WATERGUN"
+        ],
+        [
+            10,
+            "EMBER"
+        ],
+        [
+            10,
+            "POWDERSNOW"
+        ],
+        [
+            15,
+            "HEADBUTT"
+        ],
+        [
+            20,
+            "RAINDANCE"
+        ],
+        [
+            20,
+            "SUNNYDAY"
+        ],
+        [
+            20,
+            "HAIL"
+        ],
+        [
+            25,
+            "WEATHERBALL"
+        ],
+        [
+            35,
+            "HYDROPUMP"
+        ],
+        [
+            35,
+            "FIREBLAST"
+        ],
+        [
+            35,
+            "BLIZZARD"
+        ],
+        [
+            45,
+            "HURRICANE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLASH",
+        "FRUSTRATION",
+        "HAIL",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "INCINERATE",
+        "LASTRESORT",
+        "MIMIC",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROUND",
+        "SANDSTORM",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "WATERPULSE",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "CLEARSMOG",
+        "COSMICPOWER",
+        "DISABLE",
+        "FUTURESIGHT",
+        "GUARDSWAP",
+        "HEX",
+        "REFLECTTYPE"
+    ],
+    "height": 0.3,
+    "weight": 0.8,
+    "abilities": [
+        "FORECAST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 420,
+    "baseStats": [
+        70,
+        70,
+        70,
+        70,
+        70,
+        70
+    ],
+    "flags": [],
+    "name": "Castform",
+    "species": "CASTFORM",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 147,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 3,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    10,
+                    "WATERGUN"
+                ],
+                [
+                    10,
+                    "EMBER"
+                ],
+                [
+                    10,
+                    "POWDERSNOW"
+                ],
+                [
+                    15,
+                    "HEADBUTT"
+                ],
+                [
+                    20,
+                    "RAINDANCE"
+                ],
+                [
+                    20,
+                    "SUNNYDAY"
+                ],
+                [
+                    20,
+                    "HAIL"
+                ],
+                [
+                    25,
+                    "WEATHERBALL"
+                ],
+                [
+                    35,
+                    "HYDROPUMP"
+                ],
+                [
+                    35,
+                    "FIREBLAST"
+                ],
+                [
+                    35,
+                    "BLIZZARD"
+                ],
+                [
+                    45,
+                    "HURRICANE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFENSECURL",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMETHROWER",
+                "FLASH",
+                "FRUSTRATION",
+                "HAIL",
+                "HIDDENPOWER",
+                "ICEBEAM",
+                "ICYWIND",
+                "INCINERATE",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROUND",
+                "SANDSTORM",
+                "SCALD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "WATERPULSE",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "AMNESIA",
+                "CLEARSMOG",
+                "COSMICPOWER",
+                "DISABLE",
+                "FUTURESIGHT",
+                "GUARDSWAP",
+                "HEX",
+                "REFLECTTYPE"
+            ],
+            "height": 0.3,
+            "weight": 0.8,
+            "abilities": [
+                "FORECAST"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 420,
+            "baseStats": [
+                70,
+                70,
+                70,
+                70,
+                70,
+                70
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Normal"
+        },
+        {
+            "generation": 3,
+            "primaryType": "FIRE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    10,
+                    "WATERGUN"
+                ],
+                [
+                    10,
+                    "EMBER"
+                ],
+                [
+                    10,
+                    "POWDERSNOW"
+                ],
+                [
+                    15,
+                    "HEADBUTT"
+                ],
+                [
+                    20,
+                    "RAINDANCE"
+                ],
+                [
+                    20,
+                    "SUNNYDAY"
+                ],
+                [
+                    20,
+                    "HAIL"
+                ],
+                [
+                    25,
+                    "WEATHERBALL"
+                ],
+                [
+                    35,
+                    "HYDROPUMP"
+                ],
+                [
+                    35,
+                    "FIREBLAST"
+                ],
+                [
+                    35,
+                    "BLIZZARD"
+                ],
+                [
+                    45,
+                    "HURRICANE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFENSECURL",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMETHROWER",
+                "FLASH",
+                "FRUSTRATION",
+                "HAIL",
+                "HIDDENPOWER",
+                "ICEBEAM",
+                "ICYWIND",
+                "INCINERATE",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROUND",
+                "SANDSTORM",
+                "SCALD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "WATERPULSE",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "AMNESIA",
+                "CLEARSMOG",
+                "COSMICPOWER",
+                "DISABLE",
+                "FUTURESIGHT",
+                "GUARDSWAP",
+                "HEX",
+                "REFLECTTYPE"
+            ],
+            "height": 0.3,
+            "weight": 0.8,
+            "abilities": [
+                "FORECAST"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 420,
+            "baseStats": [
+                70,
+                70,
+                70,
+                70,
+                70,
+                70
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Sol"
+        },
+        {
+            "generation": 3,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    10,
+                    "WATERGUN"
+                ],
+                [
+                    10,
+                    "EMBER"
+                ],
+                [
+                    10,
+                    "POWDERSNOW"
+                ],
+                [
+                    15,
+                    "HEADBUTT"
+                ],
+                [
+                    20,
+                    "RAINDANCE"
+                ],
+                [
+                    20,
+                    "SUNNYDAY"
+                ],
+                [
+                    20,
+                    "HAIL"
+                ],
+                [
+                    25,
+                    "WEATHERBALL"
+                ],
+                [
+                    35,
+                    "HYDROPUMP"
+                ],
+                [
+                    35,
+                    "FIREBLAST"
+                ],
+                [
+                    35,
+                    "BLIZZARD"
+                ],
+                [
+                    45,
+                    "HURRICANE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFENSECURL",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMETHROWER",
+                "FLASH",
+                "FRUSTRATION",
+                "HAIL",
+                "HIDDENPOWER",
+                "ICEBEAM",
+                "ICYWIND",
+                "INCINERATE",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROUND",
+                "SANDSTORM",
+                "SCALD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "WATERPULSE",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "AMNESIA",
+                "CLEARSMOG",
+                "COSMICPOWER",
+                "DISABLE",
+                "FUTURESIGHT",
+                "GUARDSWAP",
+                "HEX",
+                "REFLECTTYPE"
+            ],
+            "height": 0.3,
+            "weight": 0.8,
+            "abilities": [
+                "FORECAST"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 420,
+            "baseStats": [
+                70,
+                70,
+                70,
+                70,
+                70,
+                70
+            ],
+            "flags": [],
+            "form": 2,
+            "formName": "Forma Lluvia"
+        },
+        {
+            "generation": 3,
+            "primaryType": "ICE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    10,
+                    "WATERGUN"
+                ],
+                [
+                    10,
+                    "EMBER"
+                ],
+                [
+                    10,
+                    "POWDERSNOW"
+                ],
+                [
+                    15,
+                    "HEADBUTT"
+                ],
+                [
+                    20,
+                    "RAINDANCE"
+                ],
+                [
+                    20,
+                    "SUNNYDAY"
+                ],
+                [
+                    20,
+                    "HAIL"
+                ],
+                [
+                    25,
+                    "WEATHERBALL"
+                ],
+                [
+                    35,
+                    "HYDROPUMP"
+                ],
+                [
+                    35,
+                    "FIREBLAST"
+                ],
+                [
+                    35,
+                    "BLIZZARD"
+                ],
+                [
+                    45,
+                    "HURRICANE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFENSECURL",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMETHROWER",
+                "FLASH",
+                "FRUSTRATION",
+                "HAIL",
+                "HIDDENPOWER",
+                "ICEBEAM",
+                "ICYWIND",
+                "INCINERATE",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROUND",
+                "SANDSTORM",
+                "SCALD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "WATERPULSE",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "AMNESIA",
+                "CLEARSMOG",
+                "COSMICPOWER",
+                "DISABLE",
+                "FUTURESIGHT",
+                "GUARDSWAP",
+                "HEX",
+                "REFLECTTYPE"
+            ],
+            "height": 0.3,
+            "weight": 0.8,
+            "abilities": [
+                "FORECAST"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 420,
+            "baseStats": [
+                70,
+                70,
+                70,
+                70,
+                70,
+                70
+            ],
+            "flags": [],
+            "form": 3,
+            "formName": "Forma Nieve"
+        }
+    ],
+    "internationalPokedex": 351
+}

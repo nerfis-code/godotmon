@@ -1,0 +1,181 @@
+{
+    "generation": 9,
+    "primaryType": "GRASS",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            -1,
+            "DOUBLETEAM"
+        ],
+        [
+            -1,
+            "TRICK"
+        ],
+        [
+            -1,
+            "FLOWERTRICK"
+        ],
+        [
+            1,
+            "LEAFAGE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            7,
+            "BITE"
+        ],
+        [
+            10,
+            "HONECLAWS"
+        ],
+        [
+            13,
+            "MAGICALLEAF"
+        ],
+        [
+            15,
+            "QUICKATTACK"
+        ],
+        [
+            20,
+            "SEEDBOMB"
+        ],
+        [
+            24,
+            "UTURN"
+        ],
+        [
+            29,
+            "WORRYSEED"
+        ],
+        [
+            33,
+            "SLASH"
+        ],
+        [
+            38,
+            "NIGHTSLASH"
+        ],
+        [
+            42,
+            "ENERGYBALL"
+        ],
+        [
+            47,
+            "PLAYROUGH"
+        ],
+        [
+            52,
+            "KNOCKOFF"
+        ],
+        [
+            58,
+            "GRASSYTERRAIN"
+        ],
+        [
+            64,
+            "LEAFSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AURASPHERE",
+        "BRICKBREAK",
+        "BULLETSEED",
+        "CHARM",
+        "CHILLINGWATER",
+        "DARKPULSE",
+        "DISARMINGVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FAKETEARS",
+        "FLING",
+        "FOULPLAY",
+        "FRENZYPLANT",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "HYPERBEAM",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LEAFSTORM",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MAGICALLEAF",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "PETALBLIZZARD",
+        "PLAYROUGH",
+        "POLLENPUFF",
+        "POWERGEM",
+        "PROTECT",
+        "PSYCHUP",
+        "REST",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "SPIKES",
+        "SUBSTITUTE",
+        "SWIFT",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "TOXICSPIKES",
+        "TRAILBLAZE",
+        "TRICK",
+        "TRICKROOM",
+        "TRIPLEAXEL",
+        "UTURN"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 31.2,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "PROTEAN"
+    ],
+    "baseTotal": 530,
+    "baseStats": [
+        76,
+        110,
+        70,
+        123,
+        81,
+        70
+    ],
+    "flags": [],
+    "name": "Meowscarada",
+    "species": "MEOWSCARADA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 265,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 908
+}

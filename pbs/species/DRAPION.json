@@ -1,0 +1,209 @@
+{
+    "generation": 4,
+    "primaryType": "POISON",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            1,
+            "THUNDERFANG"
+        ],
+        [
+            1,
+            "ICEFANG"
+        ],
+        [
+            1,
+            "FIREFANG"
+        ],
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "HONECLAWS"
+        ],
+        [
+            1,
+            "FELLSTINGER"
+        ],
+        [
+            9,
+            "POISONFANG"
+        ],
+        [
+            12,
+            "BITE"
+        ],
+        [
+            15,
+            "TOXICSPIKES"
+        ],
+        [
+            18,
+            "BUGBITE"
+        ],
+        [
+            21,
+            "VENOSHOCK"
+        ],
+        [
+            24,
+            "KNOCKOFF"
+        ],
+        [
+            27,
+            "SCARYFACE"
+        ],
+        [
+            30,
+            "PINMISSILE"
+        ],
+        [
+            33,
+            "TOXIC"
+        ],
+        [
+            36,
+            "NIGHTSLASH"
+        ],
+        [
+            39,
+            "CROSSPOISON"
+        ],
+        [
+            44,
+            "XSCISSOR"
+        ],
+        [
+            49,
+            "ACUPRESSURE"
+        ],
+        [
+            54,
+            "CRUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BUGBITE",
+        "BUGBUZZ",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CROSSPOISON",
+        "CRUNCH",
+        "CUT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FIREFANG",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "ICEFANG",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LEECHLIFE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PINMISSILE",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDTOMB",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNARL",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERFANG",
+        "TORMENT",
+        "TOXIC",
+        "TOXICSPIKES",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 61.5,
+    "abilities": [
+        "BATTLEARMOR",
+        "SNIPER"
+    ],
+    "hiddenAbilitie": [
+        "KEENEYE"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        70,
+        90,
+        110,
+        95,
+        60,
+        75
+    ],
+    "flags": [],
+    "name": "Drapion",
+    "species": "DRAPION",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 452
+}

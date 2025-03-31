@@ -1,0 +1,169 @@
+{
+    "generation": 6,
+    "primaryType": "ROCK",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            4,
+            "ROAR"
+        ],
+        [
+            8,
+            "ANCIENTPOWER"
+        ],
+        [
+            12,
+            "CHARM"
+        ],
+        [
+            16,
+            "BITE"
+        ],
+        [
+            20,
+            "DRAGONTAIL"
+        ],
+        [
+            24,
+            "STOMP"
+        ],
+        [
+            28,
+            "ROCKSLIDE"
+        ],
+        [
+            32,
+            "CRUNCH"
+        ],
+        [
+            36,
+            "DRAGONCLAW"
+        ],
+        [
+            40,
+            "THRASH"
+        ],
+        [
+            44,
+            "EARTHQUAKE"
+        ],
+        [
+            48,
+            "HORNDRILL"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ASSURANCE",
+        "ATTRACT",
+        "BLOCK",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CHARM",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERVOICE",
+        "ICEFANG",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASHOUT",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "THUNDERFANG",
+        "TOXIC",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "CURSE",
+        "POISONFANG",
+        "ROCKPOLISH",
+        "ROCKTHROW"
+    ],
+    "height": 0.8,
+    "weight": 26.0,
+    "abilities": [
+        "STRONGJAW"
+    ],
+    "hiddenAbilitie": [
+        "STURDY"
+    ],
+    "baseTotal": 362,
+    "baseStats": [
+        58,
+        89,
+        77,
+        48,
+        45,
+        45
+    ],
+    "flags": [],
+    "name": "Tyrunt",
+    "species": "TYRUNT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 72,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 696
+}

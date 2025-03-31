@@ -1,0 +1,140 @@
+{
+    "generation": 7,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            3,
+            "GROWL"
+        ],
+        [
+            7,
+            "ECHOEDVOICE"
+        ],
+        [
+            9,
+            "ROCKSMASH"
+        ],
+        [
+            13,
+            "SUPERSONIC"
+        ],
+        [
+            15,
+            "PLUCK"
+        ],
+        [
+            19,
+            "ROOST"
+        ],
+        [
+            21,
+            "FURYATTACK"
+        ],
+        [
+            25,
+            "SCREECH"
+        ],
+        [
+            27,
+            "DRILLPECK"
+        ],
+        [
+            31,
+            "BULLETSEED"
+        ],
+        [
+            33,
+            "FEATHERDANCE"
+        ],
+        [
+            37,
+            "HYPERVOICE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FLAMECHARGE",
+        "FLY",
+        "FRUSTRATION",
+        "GUNKSHOT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "KNOCKOFF",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAILWIND",
+        "THIEF",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "BOOMBURST",
+        "BRAVEBIRD",
+        "MIRRORMOVE",
+        "TAILWIND",
+        "UPROAR"
+    ],
+    "height": 0.3,
+    "weight": 1.2,
+    "abilities": [
+        "KEENEYE",
+        "SKILLLINK"
+    ],
+    "hiddenAbilitie": [
+        "PICKUP"
+    ],
+    "baseTotal": 265,
+    "baseStats": [
+        35,
+        75,
+        30,
+        65,
+        30,
+        30
+    ],
+    "flags": [],
+    "name": "Pikipek",
+    "species": "PIKIPEK",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 53,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 731
+}

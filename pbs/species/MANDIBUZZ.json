@@ -1,0 +1,172 @@
+{
+    "generation": 5,
+    "primaryType": "DARK",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            -1,
+            "BONERUSH"
+        ],
+        [
+            1,
+            "SKYATTACK"
+        ],
+        [
+            1,
+            "TOXIC"
+        ],
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "FLATTER"
+        ],
+        [
+            1,
+            "PLUCK"
+        ],
+        [
+            18,
+            "TAILWIND"
+        ],
+        [
+            24,
+            "KNOCKOFF"
+        ],
+        [
+            30,
+            "IRONDEFENSE"
+        ],
+        [
+            36,
+            "WHIRLWIND"
+        ],
+        [
+            42,
+            "AIRSLASH"
+        ],
+        [
+            48,
+            "DARKPULSE"
+        ],
+        [
+            57,
+            "NASTYPLOT"
+        ],
+        [
+            64,
+            "DEFOG"
+        ],
+        [
+            72,
+            "ATTRACT"
+        ],
+        [
+            80,
+            "BRAVEBIRD"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRSLASH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BLOCK",
+        "BRAVEBIRD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FLY",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LASHOUT",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PLUCK",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "UTURN"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 39.5,
+    "abilities": [
+        "BIGPECKS",
+        "OVERCOAT"
+    ],
+    "hiddenAbilitie": [
+        "WEAKARMOR"
+    ],
+    "baseTotal": 510,
+    "baseStats": [
+        110,
+        65,
+        105,
+        80,
+        55,
+        95
+    ],
+    "flags": [],
+    "name": "Mandibuzz",
+    "species": "MANDIBUZZ",
+    "catchRate": 60,
+    "happiness": 35,
+    "baseExp": 179,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 630
+}

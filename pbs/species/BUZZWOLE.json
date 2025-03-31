@@ -1,0 +1,166 @@
+{
+    "generation": 7,
+    "primaryType": "BUG",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            1,
+            "POWERUPPUNCH"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            5,
+            "TAUNT"
+        ],
+        [
+            10,
+            "FELLSTINGER"
+        ],
+        [
+            15,
+            "VITALTHROW"
+        ],
+        [
+            20,
+            "BULKUP"
+        ],
+        [
+            25,
+            "ENDURE"
+        ],
+        [
+            30,
+            "REVERSAL"
+        ],
+        [
+            35,
+            "MEGAPUNCH"
+        ],
+        [
+            40,
+            "LUNGE"
+        ],
+        [
+            45,
+            "FOCUSENERGY"
+        ],
+        [
+            50,
+            "DYNAMICPUNCH"
+        ],
+        [
+            55,
+            "COUNTER"
+        ],
+        [
+            60,
+            "HAMMERARM"
+        ],
+        [
+            65,
+            "SUPERPOWER"
+        ],
+        [
+            70,
+            "FOCUSPUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYSLAM",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BUGBITE",
+        "BULKUP",
+        "BULLDOZE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DARKESTLARIAT",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "DUALWINGBEAT",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "ICEPUNCH",
+        "IRONHEAD",
+        "LEECHLIFE",
+        "LOWSWEEP",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 2.4,
+    "weight": 333.6,
+    "abilities": [
+        "BEASTBOOST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        107,
+        139,
+        139,
+        79,
+        53,
+        53
+    ],
+    "flags": [
+        "UltraBeast"
+    ],
+    "name": "Buzzwole",
+    "species": "BUZZWOLE",
+    "catchRate": 45,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "ATTACK",
+        1,
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 794
+}

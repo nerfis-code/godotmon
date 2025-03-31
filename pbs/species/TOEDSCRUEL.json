@@ -1,0 +1,154 @@
+{
+    "generation": 9,
+    "primaryType": "GROUND",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "REFLECTTYPE"
+        ],
+        [
+            4,
+            "ABSORB"
+        ],
+        [
+            8,
+            "STUNSPORE"
+        ],
+        [
+            8,
+            "POISONPOWDER"
+        ],
+        [
+            12,
+            "SUPERSONIC"
+        ],
+        [
+            15,
+            "TACKLE"
+        ],
+        [
+            16,
+            "MEGADRAIN"
+        ],
+        [
+            20,
+            "SCREECH"
+        ],
+        [
+            24,
+            "MUDSHOT"
+        ],
+        [
+            28,
+            "HEX"
+        ],
+        [
+            34,
+            "SEEDBOMB"
+        ],
+        [
+            40,
+            "SPORE"
+        ],
+        [
+            44,
+            "GROWTH"
+        ],
+        [
+            48,
+            "GIGADRAIN"
+        ],
+        [
+            54,
+            "EARTHPOWER"
+        ],
+        [
+            58,
+            "POWERWHIP"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "BULLETSEED",
+        "CONFUSERAY",
+        "DAZZLINGGLEAM",
+        "EARTHPOWER",
+        "ENDURE",
+        "ENERGYBALL",
+        "FLASHCANNON",
+        "FOULPLAY",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HEX",
+        "HYPERBEAM",
+        "KNOCKOFF",
+        "LEAFSTORM",
+        "LIGHTSCREEN",
+        "LUNGE",
+        "MAGICALLEAF",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PAINSPLIT",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "SCARYFACE",
+        "SEEDBOMB",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SOLARBEAM",
+        "SPIKES",
+        "SUBSTITUTE",
+        "SWIFT",
+        "TAUNT",
+        "TOXIC",
+        "TOXICSPIKES",
+        "TRAILBLAZE",
+        "TRICKROOM",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 58.0,
+    "abilities": [
+        "MYCELIUMMIGHT"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 515,
+    "baseStats": [
+        80,
+        70,
+        65,
+        100,
+        80,
+        120
+    ],
+    "flags": [],
+    "name": "Toedscruel",
+    "species": "TOEDSCRUEL",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 180,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 949
+}

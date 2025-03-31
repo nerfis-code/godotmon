@@ -1,0 +1,209 @@
+{
+    "generation": 1,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "FLING"
+        ],
+        [
+            1,
+            "COVET"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            5,
+            "FURYSWIPES"
+        ],
+        [
+            8,
+            "LOWKICK"
+        ],
+        [
+            8,
+            "MUDSLAP"
+        ],
+        [
+            15,
+            "SEISMICTOSS"
+        ],
+        [
+            15,
+            "RETALIATE"
+        ],
+        [
+            17,
+            "SWAGGER"
+        ],
+        [
+            22,
+            "CROSSCHOP"
+        ],
+        [
+            26,
+            "ASSURANCE"
+        ],
+        [
+            30,
+            "SKULLBASH"
+        ],
+        [
+            30,
+            "THRASH"
+        ],
+        [
+            35,
+            "RAGEFIST"
+        ],
+        [
+            39,
+            "CLOSECOMBAT"
+        ],
+        [
+            44,
+            "SCREECH"
+        ],
+        [
+            48,
+            "STOMPINGTANTRUM"
+        ],
+        [
+            53,
+            "OUTRAGE"
+        ],
+        [
+            57,
+            "FINALGAMBIT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "IRONTAIL",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "OVERHEAT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SPITE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "UPROAR",
+        "UTURN",
+        "VACUUMWAVE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 32.0,
+    "abilities": [
+        "VITALSPIRIT",
+        "ANGERPOINT"
+    ],
+    "hiddenAbilitie": [
+        "DEFIANT"
+    ],
+    "baseTotal": 455,
+    "baseStats": [
+        65,
+        105,
+        60,
+        95,
+        60,
+        70
+    ],
+    "flags": [],
+    "name": "Primeape",
+    "species": "PRIMEAPE",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 159,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 57
+}

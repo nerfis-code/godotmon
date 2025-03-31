@@ -1,0 +1,182 @@
+{
+    "generation": 2,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "AGILITY"
+        ],
+        [
+            1,
+            "COIL"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            13,
+            "FURYSWIPES"
+        ],
+        [
+            17,
+            "HELPINGHAND"
+        ],
+        [
+            21,
+            "FOLLOWME"
+        ],
+        [
+            28,
+            "SLAM"
+        ],
+        [
+            32,
+            "REST"
+        ],
+        [
+            36,
+            "SUCKERPUNCH"
+        ],
+        [
+            42,
+            "AMNESIA"
+        ],
+        [
+            46,
+            "BATONPASS"
+        ],
+        [
+            50,
+            "REVERSAL"
+        ],
+        [
+            56,
+            "HYPERVOICE"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "TRICK",
+        "UPROAR",
+        "UTURN",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 32.5,
+    "abilities": [
+        "RUNAWAY",
+        "KEENEYE"
+    ],
+    "hiddenAbilitie": [
+        "FRISK"
+    ],
+    "baseTotal": 415,
+    "baseStats": [
+        85,
+        76,
+        64,
+        90,
+        45,
+        55
+    ],
+    "flags": [],
+    "name": "Furret",
+    "species": "FURRET",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 145,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 162
+}

@@ -1,0 +1,188 @@
+{
+    "generation": 4,
+    "primaryType": "STEEL",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            -1,
+            "BLOCK"
+        ],
+        [
+            1,
+            "SUNNYDAY"
+        ],
+        [
+            1,
+            "WEATHERBALL"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "CONFUSERAY"
+        ],
+        [
+            1,
+            "PAYBACK"
+        ],
+        [
+            12,
+            "IMPRISON"
+        ],
+        [
+            16,
+            "GYROBALL"
+        ],
+        [
+            20,
+            "HYPNOSIS"
+        ],
+        [
+            24,
+            "SAFEGUARD"
+        ],
+        [
+            28,
+            "EXTRASENSORY"
+        ],
+        [
+            32,
+            "HEAVYSLAM"
+        ],
+        [
+            38,
+            "IRONDEFENSE"
+        ],
+        [
+            44,
+            "METALSOUND"
+        ],
+        [
+            50,
+            "FUTURESIGHT"
+        ],
+        [
+            56,
+            "RAINDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ANCIENTPOWER",
+        "BLOCK",
+        "BODYPRESS",
+        "BULLDOZE",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "GYROBALL",
+        "HEAVYSLAM",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LIGHTSCREEN",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPEEDSWAP",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STEELROLLER",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "TRICK",
+        "TRICKROOM",
+        "WEATHERBALL",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 187.0,
+    "abilities": [
+        "LEVITATE",
+        "HEATPROOF"
+    ],
+    "hiddenAbilitie": [
+        "HEAVYMETAL"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        67,
+        89,
+        116,
+        33,
+        79,
+        116
+    ],
+    "flags": [],
+    "name": "Bronzong",
+    "species": "BRONZONG",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 437
+}

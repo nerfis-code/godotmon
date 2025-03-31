@@ -1,0 +1,197 @@
+{
+    "generation": 4,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "COPYCAT"
+        ],
+        [
+            4,
+            "BATONPASS"
+        ],
+        [
+            8,
+            "ENCORE"
+        ],
+        [
+            12,
+            "CONFUSION"
+        ],
+        [
+            16,
+            "ROLEPLAY"
+        ],
+        [
+            20,
+            "PROTECT"
+        ],
+        [
+            24,
+            "RECYCLE"
+        ],
+        [
+            28,
+            "PSYBEAM"
+        ],
+        [
+            32,
+            "MIMIC"
+        ],
+        [
+            36,
+            "LIGHTSCREEN"
+        ],
+        [
+            36,
+            "REFLECT"
+        ],
+        [
+            36,
+            "SAFEGUARD"
+        ],
+        [
+            40,
+            "SUCKERPUNCH"
+        ],
+        [
+            44,
+            "DAZZLINGGLEAM"
+        ],
+        [
+            48,
+            "PSYCHIC"
+        ],
+        [
+            52,
+            "TEETERDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BATONPASS",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICYWIND",
+        "INFESTATION",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "MISTYTERRAIN",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "WONDERROOM"
+    ],
+    "eggMoves": [
+        "CHARM",
+        "CONFUSERAY",
+        "FAKEOUT",
+        "FUTURESIGHT",
+        "HEALINGWISH",
+        "HYPNOSIS",
+        "ICYWIND",
+        "MAGICROOM",
+        "MIMIC",
+        "POWERSPLIT",
+        "TEETERDANCE",
+        "TICKLE",
+        "TRICK"
+    ],
+    "height": 0.6,
+    "weight": 13.0,
+    "abilities": [
+        "SOUNDPROOF",
+        "FILTER"
+    ],
+    "hiddenAbilitie": [
+        "TECHNICIAN"
+    ],
+    "baseTotal": 310,
+    "baseStats": [
+        20,
+        25,
+        45,
+        60,
+        70,
+        90
+    ],
+    "flags": [],
+    "name": "Mime Jr.",
+    "species": "MIMEJR",
+    "catchRate": 145,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 439
+}

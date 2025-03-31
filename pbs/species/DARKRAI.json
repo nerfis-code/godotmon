@@ -1,0 +1,172 @@
+{
+    "generation": 4,
+    "primaryType": "DARK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "CONFUSERAY"
+        ],
+        [
+            1,
+            "DISABLE"
+        ],
+        [
+            11,
+            "QUICKATTACK"
+        ],
+        [
+            20,
+            "HYPNOSIS"
+        ],
+        [
+            29,
+            "SUCKERPUNCH"
+        ],
+        [
+            38,
+            "FOULPLAY"
+        ],
+        [
+            38,
+            "NIGHTSHADE"
+        ],
+        [
+            47,
+            "DOUBLETEAM"
+        ],
+        [
+            57,
+            "HAZE"
+        ],
+        [
+            66,
+            "DARKVOID"
+        ],
+        [
+            75,
+            "NASTYPLOT"
+        ],
+        [
+            84,
+            "DREAMEATER"
+        ],
+        [
+            93,
+            "DARKPULSE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "BLIZZARD",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "INCINERATE",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRICK",
+        "WILLOWISP",
+        "WONDERROOM",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 50.5,
+    "abilities": [
+        "BADDREAMS"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        70,
+        90,
+        90,
+        125,
+        135,
+        90
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Darkrai",
+    "species": "DARKRAI",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 300,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2,
+        "SPEED",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 491
+}

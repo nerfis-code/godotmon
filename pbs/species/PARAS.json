@@ -1,0 +1,156 @@
+{
+    "generation": 1,
+    "primaryType": "BUG",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            6,
+            "STUNSPORE"
+        ],
+        [
+            6,
+            "POISONPOWDER"
+        ],
+        [
+            11,
+            "ABSORB"
+        ],
+        [
+            17,
+            "FURYCUTTER"
+        ],
+        [
+            22,
+            "SPORE"
+        ],
+        [
+            27,
+            "SLASH"
+        ],
+        [
+            33,
+            "GROWTH"
+        ],
+        [
+            38,
+            "GIGADRAIN"
+        ],
+        [
+            43,
+            "AROMATHERAPY"
+        ],
+        [
+            49,
+            "RAGEPOWDER"
+        ],
+        [
+            54,
+            "XSCISSOR"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AFTERYOU",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BUGBITE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "KNOCKOFF",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THIEF",
+        "VENOSHOCK",
+        "WORRYSEED",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "AGILITY",
+        "BUGBITE",
+        "COUNTER",
+        "CROSSPOISON",
+        "FELLSTINGER",
+        "FLAIL",
+        "GRASSYTERRAIN",
+        "LEECHSEED",
+        "METALCLAW",
+        "PSYBEAM",
+        "SCREECH",
+        "SWEETSCENT",
+        "WIDEGUARD"
+    ],
+    "height": 0.3,
+    "weight": 5.4,
+    "abilities": [
+        "EFFECTSPORE",
+        "DRYSKIN"
+    ],
+    "hiddenAbilitie": [
+        "DAMP"
+    ],
+    "baseTotal": 285,
+    "baseStats": [
+        35,
+        70,
+        55,
+        25,
+        45,
+        55
+    ],
+    "flags": [],
+    "name": "Paras",
+    "species": "PARAS",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 57,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 46
+}

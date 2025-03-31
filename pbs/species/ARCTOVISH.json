@@ -1,0 +1,140 @@
+{
+    "generation": 8,
+    "primaryType": "WATER",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            7,
+            "PROTECT"
+        ],
+        [
+            14,
+            "ICYWIND"
+        ],
+        [
+            21,
+            "ANCIENTPOWER"
+        ],
+        [
+            28,
+            "BITE"
+        ],
+        [
+            35,
+            "AURORAVEIL"
+        ],
+        [
+            42,
+            "FREEZEDRY"
+        ],
+        [
+            49,
+            "SUPERFANG"
+        ],
+        [
+            56,
+            "CRUNCH"
+        ],
+        [
+            63,
+            "FISHIOUSREND"
+        ],
+        [
+            70,
+            "ICICLECRASH"
+        ],
+        [
+            77,
+            "BLIZZARD"
+        ]
+    ],
+    "tutorMoves": [
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRINE",
+        "CONFIDE",
+        "CRUNCH",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LIQUIDATION",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "WATERFALL",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 175.0,
+    "abilities": [
+        "WATERABSORB",
+        "ICEBODY"
+    ],
+    "hiddenAbilitie": [
+        "SLUSHRUSH"
+    ],
+    "baseTotal": 505,
+    "baseStats": [
+        90,
+        90,
+        100,
+        55,
+        80,
+        90
+    ],
+    "flags": [],
+    "name": "Arctovish",
+    "species": "ARCTOVISH",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 177,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 883
+}

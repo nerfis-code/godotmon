@@ -1,0 +1,165 @@
+{
+    "generation": 7,
+    "primaryType": "FIRE",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "FIRESPIN"
+        ],
+        [
+            5,
+            "LIGHTSCREEN"
+        ],
+        [
+            10,
+            "EMBER"
+        ],
+        [
+            15,
+            "NIGHTSHADE"
+        ],
+        [
+            20,
+            "CONFUSERAY"
+        ],
+        [
+            25,
+            "MAGICCOAT"
+        ],
+        [
+            30,
+            "INCINERATE"
+        ],
+        [
+            35,
+            "HYPNOSIS"
+        ],
+        [
+            40,
+            "MYSTICALFIRE"
+        ],
+        [
+            45,
+            "SHADOWBALL"
+        ],
+        [
+            50,
+            "CALMMIND"
+        ],
+        [
+            55,
+            "WILLOWISP"
+        ],
+        [
+            60,
+            "TRICK"
+        ],
+        [
+            65,
+            "FIREBLAST"
+        ],
+        [
+            70,
+            "MINDBLOWN"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "CALMMIND",
+        "CONFIDE",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "ENCORE",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLING",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYSHOCK",
+        "QUASH",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROUND",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "TRICK",
+        "UPROAR",
+        "WILLOWISP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 13.0,
+    "abilities": [
+        "BEASTBOOST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        53,
+        127,
+        53,
+        107,
+        151,
+        79
+    ],
+    "flags": [
+        "UltraBeast"
+    ],
+    "name": "Blacephalon",
+    "species": "BLACEPHALON",
+    "catchRate": 30,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 806
+}

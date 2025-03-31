@@ -1,0 +1,169 @@
+{
+    "generation": 5,
+    "primaryType": "GRASS",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            -1,
+            "TAKEDOWN"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "WORKUP"
+        ],
+        [
+            7,
+            "MAGICALLEAF"
+        ],
+        [
+            14,
+            "QUICKGUARD"
+        ],
+        [
+            21,
+            "DOUBLEKICK"
+        ],
+        [
+            28,
+            "RETALIATE"
+        ],
+        [
+            35,
+            "GIGADRAIN"
+        ],
+        [
+            42,
+            "SYNTHESIS"
+        ],
+        [
+            49,
+            "SACREDSWORD"
+        ],
+        [
+            56,
+            "SWORDSDANCE"
+        ],
+        [
+            63,
+            "LEAFBLADE"
+        ],
+        [
+            70,
+            "CLOSECOMBAT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRSLASH",
+        "BLOCK",
+        "BOUNCE",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LASERFOCUS",
+        "LEAFBLADE",
+        "LEAFSTORM",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MEGAHORN",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROAR",
+        "ROCKSMASH",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TAUNT",
+        "TOXIC",
+        "WORKUP",
+        "WORRYSEED",
+        "XSCISSOR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 200.0,
+    "abilities": [
+        "JUSTIFIED"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 580,
+    "baseStats": [
+        91,
+        90,
+        72,
+        108,
+        90,
+        129
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Virizion",
+    "species": "VIRIZION",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 640
+}

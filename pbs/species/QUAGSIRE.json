@@ -1,0 +1,174 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "RAINDANCE"
+        ],
+        [
+            1,
+            "MUDSHOT"
+        ],
+        [
+            12,
+            "MIST"
+        ],
+        [
+            12,
+            "HAZE"
+        ],
+        [
+            16,
+            "SLAM"
+        ],
+        [
+            23,
+            "YAWN"
+        ],
+        [
+            28,
+            "AQUATAIL"
+        ],
+        [
+            34,
+            "MUDDYWATER"
+        ],
+        [
+            40,
+            "AMNESIA"
+        ],
+        [
+            46,
+            "TOXIC"
+        ],
+        [
+            52,
+            "EARTHQUAKE"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "EERIEIMPULSE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GUARDSWAP",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INFESTATION",
+        "IRONTAIL",
+        "LIQUIDATION",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCALD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "THIEF",
+        "TOXIC",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 75.0,
+    "abilities": [
+        "DAMP",
+        "WATERABSORB"
+    ],
+    "hiddenAbilitie": [
+        "UNAWARE"
+    ],
+    "baseTotal": 430,
+    "baseStats": [
+        95,
+        85,
+        85,
+        35,
+        65,
+        65
+    ],
+    "flags": [],
+    "name": "Quagsire",
+    "species": "QUAGSIRE",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 151,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 195
+}

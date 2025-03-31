@@ -1,0 +1,163 @@
+{
+    "generation": 7,
+    "primaryType": "FIGHTING",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            -1,
+            "ICEPUNCH"
+        ],
+        [
+            1,
+            "BUBBLE"
+        ],
+        [
+            1,
+            "ROCKSMASH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            13,
+            "PURSUIT"
+        ],
+        [
+            17,
+            "BUBBLEBEAM"
+        ],
+        [
+            22,
+            "POWERUPPUNCH"
+        ],
+        [
+            22,
+            "BRICKBREAK"
+        ],
+        [
+            25,
+            "DIZZYPUNCH"
+        ],
+        [
+            25,
+            "SLAM"
+        ],
+        [
+            29,
+            "AVALANCHE"
+        ],
+        [
+            33,
+            "REVERSAL"
+        ],
+        [
+            37,
+            "ICEHAMMER"
+        ],
+        [
+            42,
+            "IRONDEFENSE"
+        ],
+        [
+            45,
+            "DYNAMICPUNCH"
+        ],
+        [
+            49,
+            "CLOSECOMBAT"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BLOCK",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "THIEF",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 180.0,
+    "abilities": [
+        "HYPERCUTTER",
+        "IRONFIST"
+    ],
+    "hiddenAbilitie": [
+        "ANGERPOINT"
+    ],
+    "baseTotal": 478,
+    "baseStats": [
+        97,
+        132,
+        77,
+        43,
+        62,
+        67
+    ],
+    "flags": [],
+    "name": "Crabominable",
+    "species": "CRABOMINABLE",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 167,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 740
+}

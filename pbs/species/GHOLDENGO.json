@@ -1,0 +1,126 @@
+{
+    "generation": 9,
+    "primaryType": "STEEL",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            7,
+            "NIGHTSHADE"
+        ],
+        [
+            14,
+            "CONFUSERAY"
+        ],
+        [
+            21,
+            "SUBSTITUTE"
+        ],
+        [
+            28,
+            "METALSOUND"
+        ],
+        [
+            35,
+            "SHADOWBALL"
+        ],
+        [
+            42,
+            "RECOVER"
+        ],
+        [
+            49,
+            "POWERGEM"
+        ],
+        [
+            56,
+            "MAKEITRAIN"
+        ],
+        [
+            63,
+            "NASTYPLOT"
+        ],
+        [
+            70,
+            "MEMENTO"
+        ]
+    ],
+    "tutorMoves": [
+        "CHARGEBEAM",
+        "CONFUSERAY",
+        "DAZZLINGGLEAM",
+        "ELECTROBALL",
+        "ENDURE",
+        "FLASHCANNON",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "GIGAIMPACT",
+        "HEAVYSLAM",
+        "HEX",
+        "HYPERBEAM",
+        "IRONHEAD",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "LOWSWEEP",
+        "METALSOUND",
+        "NASTYPLOT",
+        "NIGHTSHADE",
+        "POLTERGEIST",
+        "POWERGEM",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYSHOCK",
+        "REFLECT",
+        "REST",
+        "SANDSTORM",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "STEELBEAM",
+        "SUBSTITUTE",
+        "TAKEDOWN",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TRICK"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 30.0,
+    "abilities": [
+        "GOODASGOLD"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 550,
+    "baseStats": [
+        87,
+        60,
+        95,
+        84,
+        133,
+        91
+    ],
+    "flags": [],
+    "name": "Gholdengo",
+    "species": "GHOLDENGO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 275,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 1000
+}

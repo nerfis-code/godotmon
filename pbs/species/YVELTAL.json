@@ -1,0 +1,179 @@
+{
+    "generation": 6,
+    "primaryType": "DARK",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "DOUBLETEAM"
+        ],
+        [
+            5,
+            "TAUNT"
+        ],
+        [
+            10,
+            "SNARL"
+        ],
+        [
+            15,
+            "DISABLE"
+        ],
+        [
+            20,
+            "SUCKERPUNCH"
+        ],
+        [
+            25,
+            "TAILWIND"
+        ],
+        [
+            30,
+            "ROOST"
+        ],
+        [
+            35,
+            "AIRSLASH"
+        ],
+        [
+            40,
+            "DARKPULSE"
+        ],
+        [
+            45,
+            "PSYCHIC"
+        ],
+        [
+            50,
+            "OBLIVIONWING"
+        ],
+        [
+            55,
+            "PHANTOMFORCE"
+        ],
+        [
+            60,
+            "FOULPLAY"
+        ],
+        [
+            65,
+            "DRAGONRUSH"
+        ],
+        [
+            70,
+            "HURRICANE"
+        ],
+        [
+            75,
+            "FOCUSBLAST"
+        ],
+        [
+            80,
+            "SKYATTACK"
+        ],
+        [
+            85,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AIRSLASH",
+        "BLOCK",
+        "BODYSLAM",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FOCUSBLAST",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HURRICANE",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASHOUT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PHANTOMFORCE",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SKYATTACK",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "UTURN",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 5.8,
+    "weight": 203.0,
+    "abilities": [
+        "DARKAURA"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 680,
+    "baseStats": [
+        126,
+        131,
+        95,
+        99,
+        131,
+        98
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Yveltal",
+    "species": "YVELTAL",
+    "catchRate": 45,
+    "happiness": 0,
+    "baseExp": 340,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 717
+}

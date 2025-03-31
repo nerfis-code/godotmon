@@ -1,0 +1,153 @@
+{
+    "generation": 4,
+    "primaryType": "DRAGON",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "DUALCHOP"
+        ],
+        [
+            1,
+            "SANDTOMB"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            18,
+            "BULLDOZE"
+        ],
+        [
+            27,
+            "BITE"
+        ],
+        [
+            34,
+            "SLASH"
+        ],
+        [
+            42,
+            "DRAGONCLAW"
+        ],
+        [
+            50,
+            "DIG"
+        ],
+        [
+            58,
+            "SANDSTORM"
+        ],
+        [
+            66,
+            "TAKEDOWN"
+        ],
+        [
+            74,
+            "DRAGONRUSH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DUALCHOP",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "INCINERATE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TWISTER"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 56.0,
+    "abilities": [
+        "SANDVEIL"
+    ],
+    "hiddenAbilitie": [
+        "ROUGHSKIN"
+    ],
+    "baseTotal": 410,
+    "baseStats": [
+        68,
+        90,
+        65,
+        82,
+        50,
+        55
+    ],
+    "flags": [],
+    "name": "Gabite",
+    "species": "GABITE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 144,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 444
+}

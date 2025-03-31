@@ -1,0 +1,141 @@
+{
+    "generation": 4,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            4,
+            "GROWL"
+        ],
+        [
+            7,
+            "ASTONISH"
+        ],
+        [
+            10,
+            "CONFUSION"
+        ],
+        [
+            13,
+            "YAWN"
+        ],
+        [
+            16,
+            "LASTRESORT"
+        ],
+        [
+            19,
+            "ENTRAINMENT"
+        ],
+        [
+            32,
+            "UPROAR"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BIND",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GRAVITY",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICYWIND",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TELEKINESIS",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "COSMICPOWER",
+        "CURSE",
+        "DISABLE",
+        "FUTURESIGHT",
+        "HYPNOSIS",
+        "PERISHSONG",
+        "RECOVER",
+        "STOREDPOWER",
+        "WISH"
+    ],
+    "height": 0.2,
+    "weight": 0.6,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 285,
+    "baseStats": [
+        45,
+        30,
+        50,
+        45,
+        65,
+        50
+    ],
+    "flags": [],
+    "name": "Chingling",
+    "species": "CHINGLING",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 57,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 433
+}

@@ -1,0 +1,162 @@
+{
+    "generation": 7,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "BUBBLE"
+        ],
+        [
+            1,
+            "VISEGRIP"
+        ],
+        [
+            5,
+            "ROCKSMASH"
+        ],
+        [
+            9,
+            "LEER"
+        ],
+        [
+            13,
+            "PURSUIT"
+        ],
+        [
+            13,
+            "BUBBLEBEAM"
+        ],
+        [
+            17,
+            "PROTECT"
+        ],
+        [
+            22,
+            "POWERUPPUNCH"
+        ],
+        [
+            22,
+            "BRICKBREAK"
+        ],
+        [
+            25,
+            "DIZZYPUNCH"
+        ],
+        [
+            25,
+            "SLAM"
+        ],
+        [
+            29,
+            "PAYBACK"
+        ],
+        [
+            33,
+            "REVERSAL"
+        ],
+        [
+            37,
+            "CRABHAMMER"
+        ],
+        [
+            42,
+            "IRONDEFENSE"
+        ],
+        [
+            45,
+            "DYNAMICPUNCH"
+        ],
+        [
+            49,
+            "CLOSECOMBAT"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "THIEF",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "ENDEAVOR",
+        "SUPERPOWER",
+        "WIDEGUARD"
+    ],
+    "height": 0.6,
+    "weight": 7.0,
+    "abilities": [
+        "HYPERCUTTER",
+        "IRONFIST"
+    ],
+    "hiddenAbilitie": [
+        "ANGERPOINT"
+    ],
+    "baseTotal": 338,
+    "baseStats": [
+        47,
+        82,
+        57,
+        63,
+        42,
+        47
+    ],
+    "flags": [],
+    "name": "Crabrawler",
+    "species": "CRABRAWLER",
+    "catchRate": 225,
+    "happiness": 50,
+    "baseExp": 68,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 739
+}

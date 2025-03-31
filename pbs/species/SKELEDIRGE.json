@@ -1,0 +1,172 @@
+{
+    "generation": 9,
+    "primaryType": "FIRE",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            -1,
+            "SING"
+        ],
+        [
+            -1,
+            "YAWN"
+        ],
+        [
+            -1,
+            "TORCHSONG"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            7,
+            "LICK"
+        ],
+        [
+            10,
+            "ROUND"
+        ],
+        [
+            12,
+            "SCARYFACE"
+        ],
+        [
+            15,
+            "BITE"
+        ],
+        [
+            17,
+            "INCINERATE"
+        ],
+        [
+            24,
+            "SNARL"
+        ],
+        [
+            28,
+            "ROAR"
+        ],
+        [
+            32,
+            "FLAMETHROWER"
+        ],
+        [
+            38,
+            "SHADOWBALL"
+        ],
+        [
+            42,
+            "HYPERVOICE"
+        ],
+        [
+            47,
+            "WILLOWISP"
+        ],
+        [
+            47,
+            "HEX"
+        ],
+        [
+            58,
+            "FIREBLAST"
+        ],
+        [
+            64,
+            "OVERHEAT"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLURINGVOICE",
+        "BLASTBURN",
+        "BODYSLAM",
+        "CRUNCH",
+        "CURSE",
+        "DIG",
+        "DISARMINGVOICE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIREPLEDGE",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "GIGAIMPACT",
+        "HEATCRASH",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HEX",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IMPRISON",
+        "MUDSLAP",
+        "NIGHTSHADE",
+        "OUTRAGE",
+        "OVERHEAT",
+        "POLTERGEIST",
+        "PROTECT",
+        "REST",
+        "ROAR",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNARL",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "TEMPERFLARE",
+        "THUNDERFANG",
+        "WILLOWISP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 326.5,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "UNAWARE"
+    ],
+    "baseTotal": 530,
+    "baseStats": [
+        104,
+        75,
+        100,
+        66,
+        110,
+        75
+    ],
+    "flags": [],
+    "name": "Skeledirge",
+    "species": "SKELEDIRGE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 265,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 911
+}

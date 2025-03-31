@@ -1,0 +1,182 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            1,
+            "SOAK"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "AGILITY"
+        ],
+        [
+            1,
+            "AIRSLASH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "TAILWIND"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            15,
+            "WINGATTACK"
+        ],
+        [
+            20,
+            "WATERPULSE"
+        ],
+        [
+            28,
+            "STOCKPILE"
+        ],
+        [
+            28,
+            "SWALLOW"
+        ],
+        [
+            28,
+            "SPITUP"
+        ],
+        [
+            34,
+            "FLING"
+        ],
+        [
+            41,
+            "MIST"
+        ],
+        [
+            48,
+            "ROOST"
+        ],
+        [
+            55,
+            "HURRICANE"
+        ],
+        [
+            62,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ATTRACT",
+        "BLIZZARD",
+        "BRAVEBIRD",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FLY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "KNOCKOFF",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAYBACK",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHOCKWAVE",
+        "SKYATTACK",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TWISTER",
+        "UPROAR",
+        "UTURN",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 28.0,
+    "abilities": [
+        "KEENEYE",
+        "DRIZZLE"
+    ],
+    "hiddenAbilitie": [
+        "RAINDISH"
+    ],
+    "baseTotal": 440,
+    "baseStats": [
+        60,
+        50,
+        100,
+        65,
+        95,
+        70
+    ],
+    "flags": [],
+    "name": "Pelipper",
+    "species": "PELIPPER",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 154,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 279
+}

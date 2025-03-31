@@ -1,0 +1,144 @@
+{
+    "generation": 7,
+    "primaryType": "GRASS",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "CONFUSERAY"
+        ],
+        [
+            1,
+            "INGRAIN"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            16,
+            "SLEEPPOWDER"
+        ],
+        [
+            20,
+            "MOONLIGHT"
+        ],
+        [
+            27,
+            "STRENGTHSAP"
+        ],
+        [
+            32,
+            "GIGADRAIN"
+        ],
+        [
+            38,
+            "DAZZLINGGLEAM"
+        ],
+        [
+            44,
+            "SPORE"
+        ],
+        [
+            50,
+            "MOONBLAST"
+        ],
+        [
+            56,
+            "DREAMEATER"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AMNESIA",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POLLENPUFF",
+        "PROTECT",
+        "RAINDANCE",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "THUNDERWAVE",
+        "TOXIC",
+        "WEATHERBALL",
+        "WONDERROOM",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 11.5,
+    "abilities": [
+        "ILLUMINATE",
+        "EFFECTSPORE"
+    ],
+    "hiddenAbilitie": [
+        "RAINDISH"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        60,
+        45,
+        80,
+        30,
+        90,
+        100
+    ],
+    "flags": [],
+    "name": "Shiinotic",
+    "species": "SHIINOTIC",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 142,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 756
+}

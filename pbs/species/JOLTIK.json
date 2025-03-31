@@ -1,0 +1,158 @@
+{
+    "generation": 5,
+    "primaryType": "BUG",
+    "secondaryType": "ELECTRIC",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            4,
+            "ELECTROWEB"
+        ],
+        [
+            8,
+            "BUGBITE"
+        ],
+        [
+            12,
+            "STRINGSHOT"
+        ],
+        [
+            16,
+            "THUNDERWAVE"
+        ],
+        [
+            20,
+            "ELECTROBALL"
+        ],
+        [
+            24,
+            "AGILITY"
+        ],
+        [
+            28,
+            "SUCKERPUNCH"
+        ],
+        [
+            32,
+            "SLASH"
+        ],
+        [
+            37,
+            "DISCHARGE"
+        ],
+        [
+            40,
+            "SCREECH"
+        ],
+        [
+            44,
+            "GASTROACID"
+        ],
+        [
+            48,
+            "BUGBUZZ"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "BOUNCE",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CROSSPOISON",
+        "CUT",
+        "DOUBLETEAM",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PINMISSILE",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SPEEDSWAP",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "VOLTSWITCH",
+        "WILDCHARGE",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "DOUBLETEAM",
+        "INFESTATION",
+        "LUNGE",
+        "POISONSTING",
+        "STRUGGLEBUG"
+    ],
+    "height": 0.1,
+    "weight": 0.6,
+    "abilities": [
+        "COMPOUNDEYES",
+        "UNNERVE"
+    ],
+    "hiddenAbilitie": [
+        "SWARM"
+    ],
+    "baseTotal": 319,
+    "baseStats": [
+        50,
+        47,
+        50,
+        65,
+        57,
+        50
+    ],
+    "flags": [],
+    "name": "Joltik",
+    "species": "JOLTIK",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 64,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 595
+}

@@ -1,0 +1,150 @@
+{
+    "generation": 9,
+    "primaryType": "GHOST",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            -1,
+            "SUNNYDAY"
+        ],
+        [
+            1,
+            "CONFUSERAY"
+        ],
+        [
+            1,
+            "SPITE"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            7,
+            "PSYBEAM"
+        ],
+        [
+            14,
+            "MEANLOOK"
+        ],
+        [
+            21,
+            "MEMENTO"
+        ],
+        [
+            28,
+            "WISH"
+        ],
+        [
+            35,
+            "DAZZLINGGLEAM"
+        ],
+        [
+            42,
+            "SHADOWBALL"
+        ],
+        [
+            49,
+            "MYSTICALFIRE"
+        ],
+        [
+            56,
+            "POWERGEM"
+        ],
+        [
+            63,
+            "PSYSHOCK"
+        ],
+        [
+            70,
+            "PHANTOMFORCE"
+        ],
+        [
+            77,
+            "PAINSPLIT"
+        ],
+        [
+            84,
+            "MOONBLAST"
+        ],
+        [
+            91,
+            "PERISHSONG"
+        ]
+    ],
+    "tutorMoves": [
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFUSERAY",
+        "DARKPULSE",
+        "DAZZLINGGLEAM",
+        "DISARMINGVOICE",
+        "DRAININGKISS",
+        "ENDURE",
+        "ENERGYBALL",
+        "FAKETEARS",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HEX",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICYWIND",
+        "IMPRISON",
+        "MAGICALLEAF",
+        "MISTYTERRAIN",
+        "NIGHTSHADE",
+        "PAINSPLIT",
+        "PHANTOMFORCE",
+        "POLTERGEIST",
+        "POWERGEM",
+        "PROTECT",
+        "PSYBEAM",
+        "PSYSHOCK",
+        "REST",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SPITE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWIFT",
+        "TAUNT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRICKROOM"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 4.0,
+    "abilities": [
+        "PROTOSYNTHESIS"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        55,
+        55,
+        55,
+        135,
+        135,
+        135
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Melenaleteo",
+    "species": "FLUTTERMANE",
+    "catchRate": 30,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 987
+}

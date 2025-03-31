@@ -1,0 +1,167 @@
+{
+    "generation": 6,
+    "primaryType": "DARK",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            3,
+            "HYPNOSIS"
+        ],
+        [
+            6,
+            "WRAP"
+        ],
+        [
+            9,
+            "PAYBACK"
+        ],
+        [
+            12,
+            "PLUCK"
+        ],
+        [
+            15,
+            "PSYBEAM"
+        ],
+        [
+            18,
+            "SWAGGER"
+        ],
+        [
+            21,
+            "SLASH"
+        ],
+        [
+            24,
+            "NIGHTSLASH"
+        ],
+        [
+            27,
+            "PSYCHOCUT"
+        ],
+        [
+            31,
+            "SWITCHEROO"
+        ],
+        [
+            33,
+            "FOULPLAY"
+        ],
+        [
+            36,
+            "TOPSYTURVY"
+        ],
+        [
+            39,
+            "SUPERPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BATONPASS",
+        "BIND",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "EMBARGO",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FAKETEARS",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLING",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GUARDSWAP",
+        "HIDDENPOWER",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERBOLT",
+        "TORMENT",
+        "TOXIC",
+        "TRICKROOM"
+    ],
+    "eggMoves": [
+        "ACUPRESSURE",
+        "DESTINYBOND",
+        "DISABLE"
+    ],
+    "height": 0.4,
+    "weight": 3.5,
+    "abilities": [
+        "CONTRARY",
+        "SUCTIONCUPS"
+    ],
+    "hiddenAbilitie": [
+        "INFILTRATOR"
+    ],
+    "baseTotal": 288,
+    "baseStats": [
+        53,
+        54,
+        53,
+        45,
+        37,
+        46
+    ],
+    "flags": [],
+    "name": "Inkay",
+    "species": "INKAY",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 58,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 686
+}

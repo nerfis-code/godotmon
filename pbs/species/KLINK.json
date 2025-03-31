@@ -1,0 +1,142 @@
+{
+    "generation": 5,
+    "primaryType": "STEEL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "VISEGRIP"
+        ],
+        [
+            4,
+            "BIND"
+        ],
+        [
+            8,
+            "CHARGE"
+        ],
+        [
+            12,
+            "CHARGEBEAM"
+        ],
+        [
+            16,
+            "METALSOUND"
+        ],
+        [
+            20,
+            "AUTOTOMIZE"
+        ],
+        [
+            24,
+            "DISCHARGE"
+        ],
+        [
+            28,
+            "SCREECH"
+        ],
+        [
+            32,
+            "GEARGRIND"
+        ],
+        [
+            36,
+            "LOCKON"
+        ],
+        [
+            40,
+            "SHIFTGEAR"
+        ],
+        [
+            44,
+            "ZAPCANNON"
+        ],
+        [
+            48,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "BIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GRAVITY",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "POWERGEM",
+        "PROTECT",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROCKPOLISH",
+        "ROCKSMASH",
+        "ROUND",
+        "SANDSTORM",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELBEAM",
+        "STEELROLLER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UPROAR",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 21.0,
+    "abilities": [
+        "PLUS",
+        "MINUS"
+    ],
+    "hiddenAbilitie": [
+        "CLEARBODY"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        40,
+        55,
+        70,
+        30,
+        45,
+        60
+    ],
+    "flags": [],
+    "name": "Klink",
+    "species": "KLINK",
+    "catchRate": 130,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 599
+}

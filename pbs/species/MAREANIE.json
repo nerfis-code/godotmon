@@ -1,0 +1,154 @@
+{
+    "generation": 7,
+    "primaryType": "POISON",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            5,
+            "WIDEGUARD"
+        ],
+        [
+            10,
+            "BITE"
+        ],
+        [
+            15,
+            "VENOSHOCK"
+        ],
+        [
+            20,
+            "RECOVER"
+        ],
+        [
+            25,
+            "PINMISSILE"
+        ],
+        [
+            30,
+            "TOXICSPIKES"
+        ],
+        [
+            35,
+            "LIQUIDATION"
+        ],
+        [
+            40,
+            "VENOMDRENCH"
+        ],
+        [
+            40,
+            "ACIDSPRAY"
+        ],
+        [
+            45,
+            "POISONJAB"
+        ],
+        [
+            50,
+            "TOXIC"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BLIZZARD",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GUNKSHOT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LIQUIDATION",
+        "MAGICCOAT",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PINMISSILE",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "TOXICSPIKES",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "HAZE",
+        "INFESTATION",
+        "SPITUP",
+        "STOCKPILE",
+        "SWALLOW"
+    ],
+    "height": 0.4,
+    "weight": 8.0,
+    "abilities": [
+        "MERCILESS",
+        "LIMBER"
+    ],
+    "hiddenAbilitie": [
+        "REGENERATOR"
+    ],
+    "baseTotal": 305,
+    "baseStats": [
+        50,
+        53,
+        62,
+        45,
+        43,
+        52
+    ],
+    "flags": [],
+    "name": "Mareanie",
+    "species": "MAREANIE",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 747
+}

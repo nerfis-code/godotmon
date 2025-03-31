@@ -1,0 +1,171 @@
+{
+    "generation": 4,
+    "primaryType": "ICE",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            -1,
+            "DOUBLEHIT"
+        ],
+        [
+            1,
+            "ICEFANG"
+        ],
+        [
+            1,
+            "ANCIENTPOWER"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "FLAIL"
+        ],
+        [
+            15,
+            "ICESHARD"
+        ],
+        [
+            20,
+            "MIST"
+        ],
+        [
+            25,
+            "ENDURE"
+        ],
+        [
+            30,
+            "ICYWIND"
+        ],
+        [
+            37,
+            "AMNESIA"
+        ],
+        [
+            44,
+            "TAKEDOWN"
+        ],
+        [
+            51,
+            "EARTHQUAKE"
+        ],
+        [
+            58,
+            "BLIZZARD"
+        ],
+        [
+            65,
+            "THRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKBLAST",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER"
+    ],
+    "eggMoves": [],
+    "height": 2.5,
+    "weight": 291.0,
+    "abilities": [
+        "OBLIVIOUS",
+        "SNOWCLOAK"
+    ],
+    "hiddenAbilitie": [
+        "THICKFAT"
+    ],
+    "baseTotal": 530,
+    "baseStats": [
+        110,
+        130,
+        80,
+        80,
+        70,
+        60
+    ],
+    "flags": [],
+    "name": "Mamoswine",
+    "species": "MAMOSWINE",
+    "catchRate": 50,
+    "happiness": 50,
+    "baseExp": 265,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 473
+}

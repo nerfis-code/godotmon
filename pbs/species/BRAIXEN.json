@@ -1,0 +1,167 @@
+{
+    "generation": 6,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            11,
+            "HOWL"
+        ],
+        [
+            14,
+            "FLAMECHARGE"
+        ],
+        [
+            18,
+            "PSYBEAM"
+        ],
+        [
+            22,
+            "FIRESPIN"
+        ],
+        [
+            28,
+            "LUCKYCHANT"
+        ],
+        [
+            28,
+            "LIGHTSCREEN"
+        ],
+        [
+            36,
+            "PSYSHOCK"
+        ],
+        [
+            41,
+            "FLAMETHROWER"
+        ],
+        [
+            45,
+            "WILLOWISP"
+        ],
+        [
+            49,
+            "PSYCHIC"
+        ],
+        [
+            52,
+            "SUNNYDAY"
+        ],
+        [
+            56,
+            "MAGICROOM"
+        ],
+        [
+            59,
+            "FIREBLAST"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPLEDGE",
+        "FIREPUNCH",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "INCINERATE",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "TRICK",
+        "WILLOWISP",
+        "WONDERROOM",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 14.5,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "MAGICIAN"
+    ],
+    "baseTotal": 409,
+    "baseStats": [
+        59,
+        59,
+        58,
+        73,
+        90,
+        70
+    ],
+    "flags": [],
+    "name": "Braixen",
+    "species": "BRAIXEN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 143,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 654
+}

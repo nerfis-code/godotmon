@@ -1,0 +1,161 @@
+{
+    "generation": 7,
+    "primaryType": "BUG",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            1,
+            "FEINT"
+        ],
+        [
+            1,
+            "RAPIDSPIN"
+        ],
+        [
+            5,
+            "LEER"
+        ],
+        [
+            10,
+            "QUICKGUARD"
+        ],
+        [
+            15,
+            "BUGBITE"
+        ],
+        [
+            20,
+            "LOWKICK"
+        ],
+        [
+            25,
+            "DOUBLEKICK"
+        ],
+        [
+            30,
+            "TRIPLEKICK"
+        ],
+        [
+            35,
+            "STOMP"
+        ],
+        [
+            40,
+            "AGILITY"
+        ],
+        [
+            45,
+            "LUNGE"
+        ],
+        [
+            50,
+            "BOUNCE"
+        ],
+        [
+            55,
+            "SPEEDSWAP"
+        ],
+        [
+            60,
+            "BUGBUZZ"
+        ],
+        [
+            65,
+            "QUIVERDANCE"
+        ],
+        [
+            70,
+            "HIGHJUMPKICK"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ASSURANCE",
+        "BLIZZARD",
+        "BLOCK",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "ECHOEDVOICE",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "LASERFOCUS",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SPEEDSWAP",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THROATCHOP",
+        "TORMENT",
+        "TOXIC",
+        "TRIPLEAXEL",
+        "UTURN"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 25.0,
+    "abilities": [
+        "BEASTBOOST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        71,
+        137,
+        37,
+        151,
+        137,
+        37
+    ],
+    "flags": [
+        "UltraBeast"
+    ],
+    "name": "Pheromosa",
+    "species": "PHEROMOSA",
+    "catchRate": 45,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 795
+}

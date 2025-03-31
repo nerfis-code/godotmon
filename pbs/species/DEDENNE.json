@@ -1,0 +1,163 @@
+{
+    "generation": 6,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "NUZZLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            5,
+            "TACKLE"
+        ],
+        [
+            10,
+            "CHARGE"
+        ],
+        [
+            15,
+            "THUNDERSHOCK"
+        ],
+        [
+            20,
+            "CHARM"
+        ],
+        [
+            25,
+            "PARABOLICCHARGE"
+        ],
+        [
+            30,
+            "VOLTSWITCH"
+        ],
+        [
+            35,
+            "REST"
+        ],
+        [
+            35,
+            "SNORE"
+        ],
+        [
+            40,
+            "DISCHARGE"
+        ],
+        [
+            45,
+            "PLAYROUGH"
+        ],
+        [
+            50,
+            "SUPERFANG"
+        ],
+        [
+            55,
+            "ENTRAINMENT"
+        ],
+        [
+            60,
+            "THUNDER"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DAZZLINGGLEAM",
+        "DIG",
+        "DOUBLETEAM",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "LASTRESORT",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "RECYCLE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROUND",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UTURN",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "COVET",
+        "MAGNETRISE",
+        "TEARFULLOOK"
+    ],
+    "height": 0.2,
+    "weight": 2.2,
+    "abilities": [
+        "CHEEKPOUCH",
+        "PICKUP"
+    ],
+    "hiddenAbilitie": [
+        "PLUS"
+    ],
+    "baseTotal": 431,
+    "baseStats": [
+        67,
+        58,
+        57,
+        101,
+        81,
+        67
+    ],
+    "flags": [],
+    "name": "Dedenne",
+    "species": "DEDENNE",
+    "catchRate": 180,
+    "happiness": 50,
+    "baseExp": 151,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 702
+}

@@ -1,0 +1,155 @@
+{
+    "generation": 4,
+    "primaryType": "ROCK",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            6,
+            "TAUNT"
+        ],
+        [
+            10,
+            "METALSOUND"
+        ],
+        [
+            15,
+            "TAKEDOWN"
+        ],
+        [
+            19,
+            "IRONDEFENSE"
+        ],
+        [
+            24,
+            "SWAGGER"
+        ],
+        [
+            28,
+            "ANCIENTPOWER"
+        ],
+        [
+            33,
+            "ENDURE"
+        ],
+        [
+            37,
+            "METALBURST"
+        ],
+        [
+            42,
+            "IRONHEAD"
+        ],
+        [
+            46,
+            "HEAVYSLAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BLIZZARD",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "TORMENT"
+    ],
+    "eggMoves": [
+        "BODYSLAM",
+        "COUNTER",
+        "CURSE",
+        "DOUBLEEDGE",
+        "FISSURE",
+        "FOCUSENERGY",
+        "GUARDSPLIT",
+        "HEADBUTT",
+        "ROCKBLAST",
+        "SCARYFACE",
+        "SCREECH",
+        "WIDEGUARD"
+    ],
+    "height": 0.5,
+    "weight": 57.0,
+    "abilities": [
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "SOUNDPROOF"
+    ],
+    "baseTotal": 350,
+    "baseStats": [
+        30,
+        42,
+        118,
+        30,
+        42,
+        88
+    ],
+    "flags": [],
+    "name": "Shieldon",
+    "species": "SHIELDON",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 70,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 410
+}

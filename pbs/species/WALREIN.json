@@ -1,0 +1,180 @@
+{
+    "generation": 3,
+    "primaryType": "ICE",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "SWAGGER"
+        ],
+        [
+            1,
+            "CRUNCH"
+        ],
+        [
+            1,
+            "ICEFANG"
+        ],
+        [
+            1,
+            "ROLLOUT"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            12,
+            "POWDERSNOW"
+        ],
+        [
+            16,
+            "REST"
+        ],
+        [
+            20,
+            "SNORE"
+        ],
+        [
+            24,
+            "BRINE"
+        ],
+        [
+            28,
+            "AURORABEAM"
+        ],
+        [
+            35,
+            "ENCORE"
+        ],
+        [
+            40,
+            "BODYSLAM"
+        ],
+        [
+            48,
+            "SURF"
+        ],
+        [
+            56,
+            "BLIZZARD"
+        ],
+        [
+            64,
+            "HAIL"
+        ],
+        [
+            72,
+            "SHEERCOLD"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRINE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DEFENSECURL",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELROLLER",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERFANG",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 150.6,
+    "abilities": [
+        "THICKFAT",
+        "ICEBODY"
+    ],
+    "hiddenAbilitie": [
+        "OBLIVIOUS"
+    ],
+    "baseTotal": 530,
+    "baseStats": [
+        110,
+        80,
+        90,
+        65,
+        95,
+        90
+    ],
+    "flags": [],
+    "name": "Walrein",
+    "species": "WALREIN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 265,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 365
+}

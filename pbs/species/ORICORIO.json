@@ -1,0 +1,752 @@
+{
+    "generation": 7,
+    "primaryType": "FIRE",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            4,
+            "GROWL"
+        ],
+        [
+            6,
+            "PECK"
+        ],
+        [
+            10,
+            "HELPINGHAND"
+        ],
+        [
+            13,
+            "AIRCUTTER"
+        ],
+        [
+            16,
+            "BATONPASS"
+        ],
+        [
+            20,
+            "FEATHERDANCE"
+        ],
+        [
+            23,
+            "DOUBLESLAP"
+        ],
+        [
+            23,
+            "ACROBATICS"
+        ],
+        [
+            26,
+            "TEETERDANCE"
+        ],
+        [
+            30,
+            "ROOST"
+        ],
+        [
+            33,
+            "CAPTIVATE"
+        ],
+        [
+            33,
+            "FLATTER"
+        ],
+        [
+            36,
+            "AIRSLASH"
+        ],
+        [
+            40,
+            "REVELATIONDANCE"
+        ],
+        [
+            43,
+            "MIRRORMOVE"
+        ],
+        [
+            43,
+            "AGILITY"
+        ],
+        [
+            47,
+            "HURRICANE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "DEFOG",
+        "DOUBLETEAM",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICYWIND",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "QUASH",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAILWIND",
+        "TAUNT",
+        "TOXIC",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "CAPTIVATE",
+        "PLUCK",
+        "SAFEGUARD",
+        "TAILWIND"
+    ],
+    "height": 0.6,
+    "weight": 3.4,
+    "abilities": [
+        "DANCER"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 476,
+    "baseStats": [
+        75,
+        70,
+        70,
+        93,
+        98,
+        70
+    ],
+    "flags": [
+        "InheritFormFromMother"
+    ],
+    "name": "Oricorio",
+    "species": "ORICORIO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 167,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 75,
+    "forms": [
+        {
+            "generation": 7,
+            "primaryType": "FIRE",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "POUND"
+                ],
+                [
+                    4,
+                    "GROWL"
+                ],
+                [
+                    6,
+                    "PECK"
+                ],
+                [
+                    10,
+                    "HELPINGHAND"
+                ],
+                [
+                    13,
+                    "AIRCUTTER"
+                ],
+                [
+                    16,
+                    "BATONPASS"
+                ],
+                [
+                    20,
+                    "FEATHERDANCE"
+                ],
+                [
+                    23,
+                    "DOUBLESLAP"
+                ],
+                [
+                    23,
+                    "ACROBATICS"
+                ],
+                [
+                    26,
+                    "TEETERDANCE"
+                ],
+                [
+                    30,
+                    "ROOST"
+                ],
+                [
+                    33,
+                    "CAPTIVATE"
+                ],
+                [
+                    33,
+                    "FLATTER"
+                ],
+                [
+                    36,
+                    "AIRSLASH"
+                ],
+                [
+                    40,
+                    "REVELATIONDANCE"
+                ],
+                [
+                    43,
+                    "MIRRORMOVE"
+                ],
+                [
+                    43,
+                    "AGILITY"
+                ],
+                [
+                    47,
+                    "HURRICANE"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DEFOG",
+                "DOUBLETEAM",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FRUSTRATION",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "ICYWIND",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "QUASH",
+                "REST",
+                "RETURN",
+                "ROLEPLAY",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SKYATTACK",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAILWIND",
+                "TAUNT",
+                "TOXIC",
+                "UTURN",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "CAPTIVATE",
+                "PLUCK",
+                "SAFEGUARD",
+                "TAILWIND"
+            ],
+            "height": 0.6,
+            "weight": 3.4,
+            "abilities": [
+                "DANCER"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 476,
+            "baseStats": [
+                75,
+                70,
+                70,
+                93,
+                98,
+                70
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 0,
+            "formName": "Forma Estilo Apasionado"
+        },
+        {
+            "generation": 7,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "POUND"
+                ],
+                [
+                    4,
+                    "GROWL"
+                ],
+                [
+                    6,
+                    "PECK"
+                ],
+                [
+                    10,
+                    "HELPINGHAND"
+                ],
+                [
+                    13,
+                    "AIRCUTTER"
+                ],
+                [
+                    16,
+                    "BATONPASS"
+                ],
+                [
+                    20,
+                    "FEATHERDANCE"
+                ],
+                [
+                    23,
+                    "DOUBLESLAP"
+                ],
+                [
+                    23,
+                    "ACROBATICS"
+                ],
+                [
+                    26,
+                    "TEETERDANCE"
+                ],
+                [
+                    30,
+                    "ROOST"
+                ],
+                [
+                    33,
+                    "CAPTIVATE"
+                ],
+                [
+                    33,
+                    "FLATTER"
+                ],
+                [
+                    36,
+                    "AIRSLASH"
+                ],
+                [
+                    40,
+                    "REVELATIONDANCE"
+                ],
+                [
+                    43,
+                    "MIRRORMOVE"
+                ],
+                [
+                    43,
+                    "AGILITY"
+                ],
+                [
+                    47,
+                    "HURRICANE"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DEFOG",
+                "DOUBLETEAM",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FRUSTRATION",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "ICYWIND",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "QUASH",
+                "REST",
+                "RETURN",
+                "ROLEPLAY",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SKYATTACK",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAILWIND",
+                "TAUNT",
+                "TOXIC",
+                "UTURN",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "CAPTIVATE",
+                "PLUCK",
+                "SAFEGUARD",
+                "TAILWIND"
+            ],
+            "height": 0.6,
+            "weight": 3.4,
+            "abilities": [
+                "DANCER"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 476,
+            "baseStats": [
+                75,
+                70,
+                70,
+                93,
+                98,
+                70
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 1,
+            "formName": "Estilo Animado"
+        },
+        {
+            "generation": 7,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "POUND"
+                ],
+                [
+                    4,
+                    "GROWL"
+                ],
+                [
+                    6,
+                    "PECK"
+                ],
+                [
+                    10,
+                    "HELPINGHAND"
+                ],
+                [
+                    13,
+                    "AIRCUTTER"
+                ],
+                [
+                    16,
+                    "BATONPASS"
+                ],
+                [
+                    20,
+                    "FEATHERDANCE"
+                ],
+                [
+                    23,
+                    "DOUBLESLAP"
+                ],
+                [
+                    23,
+                    "ACROBATICS"
+                ],
+                [
+                    26,
+                    "TEETERDANCE"
+                ],
+                [
+                    30,
+                    "ROOST"
+                ],
+                [
+                    33,
+                    "CAPTIVATE"
+                ],
+                [
+                    33,
+                    "FLATTER"
+                ],
+                [
+                    36,
+                    "AIRSLASH"
+                ],
+                [
+                    40,
+                    "REVELATIONDANCE"
+                ],
+                [
+                    43,
+                    "MIRRORMOVE"
+                ],
+                [
+                    43,
+                    "AGILITY"
+                ],
+                [
+                    47,
+                    "HURRICANE"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DEFOG",
+                "DOUBLETEAM",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FRUSTRATION",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "ICYWIND",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "QUASH",
+                "REST",
+                "RETURN",
+                "ROLEPLAY",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SKYATTACK",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAILWIND",
+                "TAUNT",
+                "TOXIC",
+                "UTURN",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "CAPTIVATE",
+                "PLUCK",
+                "SAFEGUARD",
+                "TAILWIND"
+            ],
+            "height": 0.6,
+            "weight": 3.4,
+            "abilities": [
+                "DANCER"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 476,
+            "baseStats": [
+                75,
+                70,
+                70,
+                93,
+                98,
+                70
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 2,
+            "formName": "Estilo Plácido"
+        },
+        {
+            "generation": 7,
+            "primaryType": "GHOST",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "POUND"
+                ],
+                [
+                    4,
+                    "GROWL"
+                ],
+                [
+                    6,
+                    "PECK"
+                ],
+                [
+                    10,
+                    "HELPINGHAND"
+                ],
+                [
+                    13,
+                    "AIRCUTTER"
+                ],
+                [
+                    16,
+                    "BATONPASS"
+                ],
+                [
+                    20,
+                    "FEATHERDANCE"
+                ],
+                [
+                    23,
+                    "DOUBLESLAP"
+                ],
+                [
+                    23,
+                    "ACROBATICS"
+                ],
+                [
+                    26,
+                    "TEETERDANCE"
+                ],
+                [
+                    30,
+                    "ROOST"
+                ],
+                [
+                    33,
+                    "CAPTIVATE"
+                ],
+                [
+                    33,
+                    "FLATTER"
+                ],
+                [
+                    36,
+                    "AIRSLASH"
+                ],
+                [
+                    40,
+                    "REVELATIONDANCE"
+                ],
+                [
+                    43,
+                    "MIRRORMOVE"
+                ],
+                [
+                    43,
+                    "AGILITY"
+                ],
+                [
+                    47,
+                    "HURRICANE"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DEFOG",
+                "DOUBLETEAM",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FRUSTRATION",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "ICYWIND",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "QUASH",
+                "REST",
+                "RETURN",
+                "ROLEPLAY",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SKYATTACK",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAILWIND",
+                "TAUNT",
+                "TOXIC",
+                "UTURN",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "CAPTIVATE",
+                "PLUCK",
+                "SAFEGUARD",
+                "TAILWIND"
+            ],
+            "height": 0.6,
+            "weight": 3.4,
+            "abilities": [
+                "DANCER"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 476,
+            "baseStats": [
+                75,
+                70,
+                70,
+                93,
+                98,
+                70
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 3,
+            "formName": "Estilo Refinado"
+        }
+    ],
+    "internationalPokedex": 741
+}

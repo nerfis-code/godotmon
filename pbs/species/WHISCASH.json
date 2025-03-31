@@ -1,0 +1,160 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            -1,
+            "THRASH"
+        ],
+        [
+            1,
+            "BELCH"
+        ],
+        [
+            1,
+            "ZENHEADBUTT"
+        ],
+        [
+            1,
+            "TICKLE"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "REST"
+        ],
+        [
+            1,
+            "SNORE"
+        ],
+        [
+            12,
+            "WATERPULSE"
+        ],
+        [
+            18,
+            "AMNESIA"
+        ],
+        [
+            24,
+            "AQUATAIL"
+        ],
+        [
+            33,
+            "MUDDYWATER"
+        ],
+        [
+            40,
+            "EARTHQUAKE"
+        ],
+        [
+            48,
+            "FUTURESIGHT"
+        ],
+        [
+            56,
+            "FISSURE"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BOUNCE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONDANCE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 23.6,
+    "abilities": [
+        "OBLIVIOUS",
+        "ANTICIPATION"
+    ],
+    "hiddenAbilitie": [
+        "HYDRATION"
+    ],
+    "baseTotal": 468,
+    "baseStats": [
+        110,
+        78,
+        73,
+        60,
+        76,
+        71
+    ],
+    "flags": [],
+    "name": "Whiscash",
+    "species": "WHISCASH",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 164,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 340
+}

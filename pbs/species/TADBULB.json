@@ -1,0 +1,127 @@
+{
+    "generation": 9,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            7,
+            "THUNDERSHOCK"
+        ],
+        [
+            11,
+            "WATERGUN"
+        ],
+        [
+            17,
+            "CHARGE"
+        ],
+        [
+            21,
+            "SPARK"
+        ],
+        [
+            24,
+            "MUDSHOT"
+        ],
+        [
+            25,
+            "FLAIL"
+        ],
+        [
+            32,
+            "DISCHARGE"
+        ],
+        [
+            36,
+            "WEATHERBALL"
+        ],
+        [
+            40,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            45,
+            "SUCKERPUNCH"
+        ],
+        [
+            50,
+            "ZAPCANNON"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "CHARGE",
+        "CHARGEBEAM",
+        "CHILLINGWATER",
+        "CONFUSERAY",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "HYPERVOICE",
+        "LIGHTSCREEN",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "VOLTSWITCH",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "MUDDYWATER",
+        "PARABOLICCHARGE",
+        "SOAK"
+    ],
+    "height": 0.3,
+    "weight": 0.4,
+    "abilities": [
+        "OWNTEMPO",
+        "STATIC"
+    ],
+    "hiddenAbilitie": [
+        "DAMP"
+    ],
+    "baseTotal": 272,
+    "baseStats": [
+        61,
+        31,
+        41,
+        45,
+        59,
+        35
+    ],
+    "flags": [],
+    "name": "Tadbulb",
+    "species": "TADBULB",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 54,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 938
+}

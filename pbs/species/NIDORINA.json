@@ -1,0 +1,151 @@
+{
+    "generation": 1,
+    "primaryType": "POISON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            15,
+            "FURYSWIPES"
+        ],
+        [
+            22,
+            "TOXICSPIKES"
+        ],
+        [
+            29,
+            "DOUBLEKICK"
+        ],
+        [
+            36,
+            "BITE"
+        ],
+        [
+            43,
+            "HELPINGHAND"
+        ],
+        [
+            50,
+            "TOXIC"
+        ],
+        [
+            57,
+            "FLATTER"
+        ],
+        [
+            64,
+            "CRUNCH"
+        ],
+        [
+            71,
+            "EARTHPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BEATUP",
+        "BLIZZARD",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COUNTER",
+        "CRUNCH",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "ICEBEAM",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "TOXIC",
+        "TOXICSPIKES",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "WATERPULSE"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 20.0,
+    "abilities": [
+        "POISONPOINT",
+        "RIVALRY"
+    ],
+    "hiddenAbilitie": [
+        "HUSTLE"
+    ],
+    "baseTotal": 365,
+    "baseStats": [
+        70,
+        62,
+        67,
+        56,
+        55,
+        55
+    ],
+    "flags": [],
+    "name": "Nidorina",
+    "species": "NIDORINA",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 128,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 30
+}

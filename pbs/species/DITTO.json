@@ -1,0 +1,44 @@
+{
+    "generation": 1,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TRANSFORM"
+        ]
+    ],
+    "tutorMoves": [],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 4.0,
+    "abilities": [
+        "LIMBER"
+    ],
+    "hiddenAbilitie": [
+        "IMPOSTER"
+    ],
+    "baseTotal": 288,
+    "baseStats": [
+        48,
+        48,
+        48,
+        48,
+        48,
+        48
+    ],
+    "flags": [],
+    "name": "Ditto",
+    "species": "DITTO",
+    "catchRate": 35,
+    "happiness": 50,
+    "baseExp": 101,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 132
+}

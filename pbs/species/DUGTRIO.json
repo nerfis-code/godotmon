@@ -1,0 +1,485 @@
+{
+    "generation": 1,
+    "primaryType": "GROUND",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "SANDTOMB"
+        ],
+        [
+            1,
+            "NIGHTSLASH"
+        ],
+        [
+            1,
+            "TRIATTACK"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            12,
+            "MUDSLAP"
+        ],
+        [
+            16,
+            "BULLDOZE"
+        ],
+        [
+            20,
+            "SUCKERPUNCH"
+        ],
+        [
+            24,
+            "SLASH"
+        ],
+        [
+            30,
+            "SANDSTORM"
+        ],
+        [
+            36,
+            "DIG"
+        ],
+        [
+            42,
+            "EARTHPOWER"
+        ],
+        [
+            48,
+            "EARTHQUAKE"
+        ],
+        [
+            54,
+            "FISSURE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "ALLYSWITCH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCORCHINGSANDS",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THIEF",
+        "TRIATTACK",
+        "UPROAR",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 33.3,
+    "abilities": [
+        "SANDVEIL",
+        "ARENATRAP"
+    ],
+    "hiddenAbilitie": [
+        "SANDFORCE"
+    ],
+    "baseTotal": 425,
+    "baseStats": [
+        35,
+        100,
+        50,
+        120,
+        50,
+        70
+    ],
+    "flags": [],
+    "name": "Dugtrio",
+    "species": "DUGTRIO",
+    "catchRate": 50,
+    "happiness": 50,
+    "baseExp": 149,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "GROUND",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "SANDTOMB"
+                ],
+                [
+                    1,
+                    "NIGHTSLASH"
+                ],
+                [
+                    1,
+                    "TRIATTACK"
+                ],
+                [
+                    1,
+                    "SANDATTACK"
+                ],
+                [
+                    1,
+                    "SCRATCH"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    12,
+                    "MUDSLAP"
+                ],
+                [
+                    16,
+                    "BULLDOZE"
+                ],
+                [
+                    20,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    24,
+                    "SLASH"
+                ],
+                [
+                    30,
+                    "SANDSTORM"
+                ],
+                [
+                    36,
+                    "DIG"
+                ],
+                [
+                    42,
+                    "EARTHPOWER"
+                ],
+                [
+                    48,
+                    "EARTHQUAKE"
+                ],
+                [
+                    54,
+                    "FISSURE"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "ALLYSWITCH",
+                "ASSURANCE",
+                "ATTRACT",
+                "BEATUP",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CUT",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SANDTOMB",
+                "SCORCHINGSANDS",
+                "SCREECH",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNORE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "THIEF",
+                "TRIATTACK",
+                "UPROAR",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 0.7,
+            "weight": 33.3,
+            "abilities": [
+                "SANDVEIL",
+                "ARENATRAP"
+            ],
+            "hiddenAbilitie": [
+                "SANDFORCE"
+            ],
+            "baseTotal": 425,
+            "baseStats": [
+                35,
+                100,
+                50,
+                120,
+                50,
+                70
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Dugtrio"
+        },
+        {
+            "generation": 7,
+            "primaryType": "GROUND",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    0,
+                    "SANDTOMB"
+                ],
+                [
+                    1,
+                    "ROTOTILLER"
+                ],
+                [
+                    1,
+                    "NIGHTSLASH"
+                ],
+                [
+                    1,
+                    "TRIATTACK"
+                ],
+                [
+                    1,
+                    "SANDATTACK"
+                ],
+                [
+                    1,
+                    "METALCLAW"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    4,
+                    "GROWL"
+                ],
+                [
+                    7,
+                    "ASTONISH"
+                ],
+                [
+                    10,
+                    "MUDSLAP"
+                ],
+                [
+                    14,
+                    "MAGNITUDE"
+                ],
+                [
+                    18,
+                    "BULLDOZE"
+                ],
+                [
+                    22,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    25,
+                    "MUDBOMB"
+                ],
+                [
+                    30,
+                    "EARTHPOWER"
+                ],
+                [
+                    35,
+                    "DIG"
+                ],
+                [
+                    41,
+                    "IRONHEAD"
+                ],
+                [
+                    47,
+                    "EARTHQUAKE"
+                ],
+                [
+                    53,
+                    "FISSURE"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "ALLYSWITCH",
+                "ASSURANCE",
+                "ATTRACT",
+                "BEATUP",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CUT",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SANDTOMB",
+                "SCORCHINGSANDS",
+                "SCREECH",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNORE",
+                "STEELBEAM",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "THIEF",
+                "TRIATTACK",
+                "UPROAR",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 0.7,
+            "weight": 66.6,
+            "abilities": [
+                "SANDVEIL",
+                "TANGLINGHAIR"
+            ],
+            "hiddenAbilitie": [
+                "SANDFORCE"
+            ],
+            "baseTotal": 425,
+            "baseStats": [
+                35,
+                100,
+                60,
+                110,
+                50,
+                70
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Alola"
+        }
+    ],
+    "internationalPokedex": 51
+}

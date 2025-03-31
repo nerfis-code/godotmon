@@ -1,0 +1,170 @@
+{
+    "generation": 7,
+    "primaryType": "ROCK",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            5,
+            "ACID"
+        ],
+        [
+            10,
+            "TICKLE"
+        ],
+        [
+            15,
+            "ACIDSPRAY"
+        ],
+        [
+            20,
+            "CLEARSMOG"
+        ],
+        [
+            25,
+            "POWERSPLIT"
+        ],
+        [
+            25,
+            "GUARDSPLIT"
+        ],
+        [
+            30,
+            "VENOSHOCK"
+        ],
+        [
+            35,
+            "HEADBUTT"
+        ],
+        [
+            40,
+            "TOXICSPIKES"
+        ],
+        [
+            45,
+            "VENOMDRENCH"
+        ],
+        [
+            50,
+            "POWERGEM"
+        ],
+        [
+            55,
+            "STEALTHROCK"
+        ],
+        [
+            60,
+            "MIRRORCOAT"
+        ],
+        [
+            65,
+            "WONDERROOM"
+        ],
+        [
+            70,
+            "HEADSMASH"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "BIND",
+        "BODYSLAM",
+        "BRUTALSWING",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CORROSIVEGAS",
+        "CROSSPOISON",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HEX",
+        "HIDDENPOWER",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POISONJAB",
+        "POWERGEM",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYSHOCK",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SPITE",
+        "STEALTHROCK",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TOXICSPIKES",
+        "TRICKROOM",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "WONDERROOM",
+        "WORRYSEED",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 55.5,
+    "abilities": [
+        "BEASTBOOST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        109,
+        53,
+        47,
+        103,
+        127,
+        131
+    ],
+    "flags": [
+        "UltraBeast"
+    ],
+    "name": "Nihilego",
+    "species": "NIHILEGO",
+    "catchRate": 45,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 793
+}

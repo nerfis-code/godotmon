@@ -1,0 +1,116 @@
+{
+    "generation": 9,
+    "primaryType": "GRASS",
+    "secondaryType": "NORMAL",
+    "moves": [
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "ABSORB"
+        ],
+        [
+            7,
+            "GROWTH"
+        ],
+        [
+            10,
+            "RAZORLEAF"
+        ],
+        [
+            13,
+            "HELPINGHAND"
+        ],
+        [
+            16,
+            "FLAIL"
+        ],
+        [
+            20,
+            "MEGADRAIN"
+        ],
+        [
+            23,
+            "GRASSYTERRAIN"
+        ],
+        [
+            29,
+            "SEEDBOMB"
+        ],
+        [
+            34,
+            "ENERGYBALL"
+        ],
+        [
+            37,
+            "LEECHSEED"
+        ],
+        [
+            42,
+            "TERRAINPULSE"
+        ]
+    ],
+    "tutorMoves": [
+        "BULLETSEED",
+        "CHARM",
+        "EARTHPOWER",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "LEAFSTORM",
+        "MAGICALLEAF",
+        "PROTECT",
+        "REST",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWIFT",
+        "TRAILBLAZE",
+        "WEATHERBALL"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 11.9,
+    "abilities": [
+        "EARLYBIRD"
+    ],
+    "hiddenAbilitie": [
+        "HARVEST"
+    ],
+    "baseTotal": 354,
+    "baseStats": [
+        52,
+        53,
+        60,
+        33,
+        78,
+        78
+    ],
+    "flags": [],
+    "name": "Dolliv",
+    "species": "DOLLIV",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 124,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 929
+}

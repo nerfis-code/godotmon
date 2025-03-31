@@ -1,0 +1,168 @@
+{
+    "generation": 4,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            4,
+            "GROWL"
+        ],
+        [
+            7,
+            "TAILWHIP"
+        ],
+        [
+            7,
+            "SOAK"
+        ],
+        [
+            11,
+            "QUICKATTACK"
+        ],
+        [
+            15,
+            "WATERGUN"
+        ],
+        [
+            18,
+            "BITE"
+        ],
+        [
+            21,
+            "SWIFT"
+        ],
+        [
+            24,
+            "AQUAJET"
+        ],
+        [
+            27,
+            "DOUBLEHIT"
+        ],
+        [
+            31,
+            "WHIRLPOOL"
+        ],
+        [
+            35,
+            "WATERFALL"
+        ],
+        [
+            35,
+            "LIQUIDATION"
+        ],
+        [
+            38,
+            "AQUATAIL"
+        ],
+        [
+            41,
+            "AGILITY"
+        ],
+        [
+            45,
+            "HYDROPUMP"
+        ],
+        [
+            49,
+            "WAVECRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BRICKBREAK",
+        "BRINE",
+        "BULKUP",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "HAIL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "AQUARING",
+        "AQUATAIL",
+        "BATONPASS",
+        "FURYCUTTER",
+        "FURYSWIPES",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "MUDSLAP",
+        "SLASH",
+        "SOAK",
+        "SWITCHEROO"
+    ],
+    "height": 0.7,
+    "weight": 29.5,
+    "abilities": [
+        "SWIFTSWIM"
+    ],
+    "hiddenAbilitie": [
+        "WATERVEIL"
+    ],
+    "baseTotal": 330,
+    "baseStats": [
+        55,
+        65,
+        35,
+        85,
+        60,
+        30
+    ],
+    "flags": [],
+    "name": "Buizel",
+    "species": "BUIZEL",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 66,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 418
+}

@@ -1,0 +1,528 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            5,
+            "SING"
+        ],
+        [
+            10,
+            "MIST"
+        ],
+        [
+            15,
+            "LIFEDEW"
+        ],
+        [
+            20,
+            "ICESHARD"
+        ],
+        [
+            25,
+            "CONFUSERAY"
+        ],
+        [
+            30,
+            "WATERPULSE"
+        ],
+        [
+            35,
+            "BRINE"
+        ],
+        [
+            40,
+            "BODYSLAM"
+        ],
+        [
+            45,
+            "ICEBEAM"
+        ],
+        [
+            50,
+            "RAINDANCE"
+        ],
+        [
+            55,
+            "HYDROPUMP"
+        ],
+        [
+            60,
+            "PERISHSONG"
+        ],
+        [
+            65,
+            "SHEERCOLD"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRINE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DREAMEATER",
+        "DRILLRUN",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LIQUIDATION",
+        "MEGAHORN",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "WATERFALL",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "CURSE",
+        "DRAGONDANCE",
+        "FISSURE",
+        "FREEZEDRY",
+        "FUTURESIGHT",
+        "HORNDRILL",
+        "SPARKLINGARIA",
+        "TICKLE",
+        "WHIRLPOOL"
+    ],
+    "height": 2.5,
+    "weight": 220.0,
+    "abilities": [
+        "WATERABSORB",
+        "SHELLARMOR"
+    ],
+    "hiddenAbilitie": [
+        "HYDRATION"
+    ],
+    "baseTotal": 535,
+    "baseStats": [
+        130,
+        85,
+        80,
+        60,
+        85,
+        95
+    ],
+    "flags": [],
+    "name": "Lapras",
+    "species": "LAPRAS",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 187,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "WATER",
+            "secondaryType": "ICE",
+            "moves": [
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    5,
+                    "SING"
+                ],
+                [
+                    10,
+                    "MIST"
+                ],
+                [
+                    15,
+                    "LIFEDEW"
+                ],
+                [
+                    20,
+                    "ICESHARD"
+                ],
+                [
+                    25,
+                    "CONFUSERAY"
+                ],
+                [
+                    30,
+                    "WATERPULSE"
+                ],
+                [
+                    35,
+                    "BRINE"
+                ],
+                [
+                    40,
+                    "BODYSLAM"
+                ],
+                [
+                    45,
+                    "ICEBEAM"
+                ],
+                [
+                    50,
+                    "RAINDANCE"
+                ],
+                [
+                    55,
+                    "HYDROPUMP"
+                ],
+                [
+                    60,
+                    "PERISHSONG"
+                ],
+                [
+                    65,
+                    "SHEERCOLD"
+                ]
+            ],
+            "tutorMoves": [
+                "ANCIENTPOWER",
+                "AQUATAIL",
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BLOCK",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRINE",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "DIVE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DREAMEATER",
+                "DRILLRUN",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FROSTBREATH",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGAIMPACT",
+                "HAIL",
+                "HEADBUTT",
+                "HEALBELL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONHEAD",
+                "IRONTAIL",
+                "LIQUIDATION",
+                "MEGAHORN",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "THUNDER",
+                "THUNDERBOLT",
+                "WATERFALL",
+                "WATERPULSE",
+                "WEATHERBALL",
+                "WHIRLPOOL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "ANCIENTPOWER",
+                "CURSE",
+                "DRAGONDANCE",
+                "FISSURE",
+                "FREEZEDRY",
+                "FUTURESIGHT",
+                "HORNDRILL",
+                "SPARKLINGARIA",
+                "TICKLE",
+                "WHIRLPOOL"
+            ],
+            "height": 2.5,
+            "weight": 220.0,
+            "abilities": [
+                "WATERABSORB",
+                "SHELLARMOR"
+            ],
+            "hiddenAbilitie": [
+                "HYDRATION"
+            ],
+            "baseTotal": 535,
+            "baseStats": [
+                130,
+                85,
+                80,
+                60,
+                85,
+                95
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Lapras"
+        },
+        {
+            "generation": 8,
+            "primaryType": "WATER",
+            "secondaryType": "ICE",
+            "moves": [
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    5,
+                    "SING"
+                ],
+                [
+                    10,
+                    "MIST"
+                ],
+                [
+                    15,
+                    "LIFEDEW"
+                ],
+                [
+                    20,
+                    "ICESHARD"
+                ],
+                [
+                    25,
+                    "CONFUSERAY"
+                ],
+                [
+                    30,
+                    "WATERPULSE"
+                ],
+                [
+                    35,
+                    "BRINE"
+                ],
+                [
+                    40,
+                    "BODYSLAM"
+                ],
+                [
+                    45,
+                    "ICEBEAM"
+                ],
+                [
+                    50,
+                    "RAINDANCE"
+                ],
+                [
+                    55,
+                    "HYDROPUMP"
+                ],
+                [
+                    60,
+                    "PERISHSONG"
+                ],
+                [
+                    65,
+                    "SHEERCOLD"
+                ]
+            ],
+            "tutorMoves": [
+                "ANCIENTPOWER",
+                "AQUATAIL",
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BLOCK",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRINE",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "DIVE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DREAMEATER",
+                "DRILLRUN",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FROSTBREATH",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGAIMPACT",
+                "HAIL",
+                "HEADBUTT",
+                "HEALBELL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONHEAD",
+                "IRONTAIL",
+                "LIQUIDATION",
+                "MEGAHORN",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "THUNDER",
+                "THUNDERBOLT",
+                "WATERFALL",
+                "WATERPULSE",
+                "WEATHERBALL",
+                "WHIRLPOOL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "ANCIENTPOWER",
+                "CURSE",
+                "DRAGONDANCE",
+                "FISSURE",
+                "FREEZEDRY",
+                "FUTURESIGHT",
+                "HORNDRILL",
+                "SPARKLINGARIA",
+                "TICKLE",
+                "WHIRLPOOL"
+            ],
+            "height": 24.0,
+            "weight": 220.0,
+            "abilities": [
+                "WATERABSORB",
+                "SHELLARMOR"
+            ],
+            "hiddenAbilitie": [
+                "HYDRATION"
+            ],
+            "baseTotal": 535,
+            "baseStats": [
+                130,
+                85,
+                80,
+                60,
+                85,
+                95
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 131
+}

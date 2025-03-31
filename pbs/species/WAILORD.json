@@ -1,0 +1,173 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SOAK"
+        ],
+        [
+            1,
+            "NOBLEROAR"
+        ],
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            15,
+            "MIST"
+        ],
+        [
+            18,
+            "WATERPULSE"
+        ],
+        [
+            21,
+            "HEAVYSLAM"
+        ],
+        [
+            24,
+            "BRINE"
+        ],
+        [
+            27,
+            "WHIRLPOOL"
+        ],
+        [
+            30,
+            "DIVE"
+        ],
+        [
+            33,
+            "BOUNCE"
+        ],
+        [
+            36,
+            "BODYSLAM"
+        ],
+        [
+            39,
+            "REST"
+        ],
+        [
+            44,
+            "AMNESIA"
+        ],
+        [
+            49,
+            "HYDROPUMP"
+        ],
+        [
+            54,
+            "WATERSPOUT"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRINE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONHEAD",
+        "LIQUIDATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELROLLER",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "WATERFALL",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 14.5,
+    "weight": 398.0,
+    "abilities": [
+        "WATERVEIL",
+        "OBLIVIOUS"
+    ],
+    "hiddenAbilitie": [
+        "PRESSURE"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        170,
+        90,
+        45,
+        60,
+        90,
+        45
+    ],
+    "flags": [],
+    "name": "Wailord",
+    "species": "WAILORD",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "FLUCTUATING",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 321
+}

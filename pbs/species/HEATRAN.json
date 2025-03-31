@@ -1,0 +1,170 @@
+{
+    "generation": 4,
+    "primaryType": "FIRE",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            1,
+            "FIRESPIN"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            6,
+            "METALCLAW"
+        ],
+        [
+            12,
+            "ANCIENTPOWER"
+        ],
+        [
+            18,
+            "FIREFANG"
+        ],
+        [
+            24,
+            "SCARYFACE"
+        ],
+        [
+            30,
+            "IRONHEAD"
+        ],
+        [
+            36,
+            "CRUNCH"
+        ],
+        [
+            42,
+            "LAVAPLUME"
+        ],
+        [
+            48,
+            "METALSOUND"
+        ],
+        [
+            54,
+            "EARTHPOWER"
+        ],
+        [
+            60,
+            "HEATWAVE"
+        ],
+        [
+            66,
+            "STONEEDGE"
+        ],
+        [
+            72,
+            "MAGMASTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BUGBITE",
+        "BULLDOZE",
+        "BURNINGJEALOUSY",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEATCRASH",
+        "HEATWAVE",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OVERHEAT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STEELROLLER",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TORMENT",
+        "UPROAR",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 430.0,
+    "abilities": [
+        "FLASHFIRE"
+    ],
+    "hiddenAbilitie": [
+        "FLAMEBODY"
+    ],
+    "baseTotal": 600,
+    "baseStats": [
+        91,
+        90,
+        106,
+        77,
+        130,
+        106
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Heatran",
+    "species": "HEATRAN",
+    "catchRate": 3,
+    "happiness": 100,
+    "baseExp": 300,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 485
+}

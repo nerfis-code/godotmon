@@ -1,0 +1,56 @@
+{
+    "generation": 1,
+    "primaryType": "BUG",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            9,
+            "BUGBITE"
+        ]
+    ],
+    "tutorMoves": [
+        "BUGBITE",
+        "ELECTROWEB",
+        "STRINGSHOT"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 3.2,
+    "abilities": [
+        "SHIELDDUST"
+    ],
+    "hiddenAbilitie": [
+        "RUNAWAY"
+    ],
+    "baseTotal": 195,
+    "baseStats": [
+        40,
+        35,
+        30,
+        50,
+        20,
+        20
+    ],
+    "flags": [],
+    "name": "Weedle",
+    "species": "WEEDLE",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 39,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 13
+}

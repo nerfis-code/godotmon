@@ -1,0 +1,157 @@
+{
+    "generation": 4,
+    "primaryType": "ROCK",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            -1,
+            "BLOCK"
+        ],
+        [
+            -1,
+            "WIDEGUARD"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            1,
+            "TAUNT"
+        ],
+        [
+            1,
+            "METALSOUND"
+        ],
+        [
+            15,
+            "TAKEDOWN"
+        ],
+        [
+            19,
+            "IRONDEFENSE"
+        ],
+        [
+            24,
+            "SWAGGER"
+        ],
+        [
+            28,
+            "ANCIENTPOWER"
+        ],
+        [
+            36,
+            "ENDURE"
+        ],
+        [
+            43,
+            "METALBURST"
+        ],
+        [
+            51,
+            "IRONHEAD"
+        ],
+        [
+            58,
+            "HEAVYSLAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BLOCK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "TORMENT"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 149.5,
+    "abilities": [
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "SOUNDPROOF"
+    ],
+    "baseTotal": 495,
+    "baseStats": [
+        60,
+        52,
+        168,
+        30,
+        47,
+        138
+    ],
+    "flags": [],
+    "name": "Bastiodon",
+    "species": "BASTIODON",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 173,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 411
+}

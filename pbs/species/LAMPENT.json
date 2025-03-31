@@ -1,0 +1,162 @@
+{
+    "generation": 5,
+    "primaryType": "GHOST",
+    "secondaryType": "FIRE",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "SMOG"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "MINIMIZE"
+        ],
+        [
+            12,
+            "CONFUSERAY"
+        ],
+        [
+            16,
+            "HEX"
+        ],
+        [
+            20,
+            "WILLOWISP"
+        ],
+        [
+            24,
+            "FIRESPIN"
+        ],
+        [
+            28,
+            "NIGHTSHADE"
+        ],
+        [
+            32,
+            "CURSE"
+        ],
+        [
+            36,
+            "SHADOWBALL"
+        ],
+        [
+            40,
+            "INFERNO"
+        ],
+        [
+            46,
+            "IMPRISON"
+        ],
+        [
+            52,
+            "PAINSPLIT"
+        ],
+        [
+            58,
+            "OVERHEAT"
+        ],
+        [
+            64,
+            "MEMENTO"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BURNINGJEALOUSY",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLASH",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HEX",
+        "HIDDENPOWER",
+        "IMPRISON",
+        "INCINERATE",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 13.0,
+    "abilities": [
+        "FLASHFIRE",
+        "FLAMEBODY"
+    ],
+    "hiddenAbilitie": [
+        "INFILTRATOR"
+    ],
+    "baseTotal": 370,
+    "baseStats": [
+        60,
+        40,
+        60,
+        55,
+        95,
+        60
+    ],
+    "flags": [],
+    "name": "Lampent",
+    "species": "LAMPENT",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 130,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 608
+}

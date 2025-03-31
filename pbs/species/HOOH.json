@@ -1,0 +1,191 @@
+{
+    "generation": 2,
+    "primaryType": "FIRE",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "WHIRLWIND"
+        ],
+        [
+            1,
+            "WEATHERBALL"
+        ],
+        [
+            1,
+            "ANCIENTPOWER"
+        ],
+        [
+            9,
+            "LIFEDEW"
+        ],
+        [
+            18,
+            "SAFEGUARD"
+        ],
+        [
+            27,
+            "CALMMIND"
+        ],
+        [
+            36,
+            "EXTRASENSORY"
+        ],
+        [
+            45,
+            "RECOVER"
+        ],
+        [
+            54,
+            "SACREDFIRE"
+        ],
+        [
+            63,
+            "SUNNYDAY"
+        ],
+        [
+            72,
+            "FIREBLAST"
+        ],
+        [
+            81,
+            "FUTURESIGHT"
+        ],
+        [
+            90,
+            "SKYATTACK"
+        ],
+        [
+            99,
+            "BURNUP"
+        ],
+        [
+            99,
+            "OVERHEAT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ANCIENTPOWER",
+        "BRAVEBIRD",
+        "BULLDOZE",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLASH",
+        "FLY",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IMPRISON",
+        "INCINERATE",
+        "IRONHEAD",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MUDSLAP",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "OVERHEAT",
+        "PLUCK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKYATTACK",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TWISTER",
+        "WEATHERBALL",
+        "WILLOWISP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 3.8,
+    "weight": 199.0,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [
+        "REGENERATOR"
+    ],
+    "baseTotal": 680,
+    "baseStats": [
+        106,
+        130,
+        90,
+        90,
+        110,
+        154
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Ho-Oh",
+    "species": "HOOH",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 340,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 250
+}

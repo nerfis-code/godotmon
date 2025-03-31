@@ -1,0 +1,189 @@
+{
+    "generation": 2,
+    "primaryType": "GROUND",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            4,
+            "SANDATTACK"
+        ],
+        [
+            7,
+            "HARDEN"
+        ],
+        [
+            10,
+            "KNOCKOFF"
+        ],
+        [
+            13,
+            "QUICKATTACK"
+        ],
+        [
+            16,
+            "FURYCUTTER"
+        ],
+        [
+            19,
+            "MUDSLAP"
+        ],
+        [
+            19,
+            "POISONTAIL"
+        ],
+        [
+            22,
+            "ACROBATICS"
+        ],
+        [
+            27,
+            "SLASH"
+        ],
+        [
+            30,
+            "UTURN"
+        ],
+        [
+            35,
+            "SCREECH"
+        ],
+        [
+            40,
+            "XSCISSOR"
+        ],
+        [
+            45,
+            "EARTHQUAKE"
+        ],
+        [
+            45,
+            "CRABHAMMER"
+        ],
+        [
+            50,
+            "SWORDSDANCE"
+        ],
+        [
+            55,
+            "GUILLOTINE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AQUATAIL",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BUGBITE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DARKPULSE",
+        "DEFOG",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELWING",
+        "STONEEDGE",
+        "STRENGTH",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TORMENT",
+        "UTURN",
+        "VENOSHOCK",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "AGILITY",
+        "BATONPASS",
+        "COUNTER",
+        "CROSSPOISON",
+        "DOUBLEEDGE",
+        "FEINT",
+        "METALCLAW",
+        "NIGHTSLASH",
+        "POISONTAIL",
+        "POWERTRICK",
+        "SANDTOMB",
+        "WINGATTACK"
+    ],
+    "height": 1.1,
+    "weight": 64.8,
+    "abilities": [
+        "HYPERCUTTER",
+        "SANDVEIL"
+    ],
+    "hiddenAbilitie": [
+        "IMMUNITY"
+    ],
+    "baseTotal": 430,
+    "baseStats": [
+        65,
+        75,
+        105,
+        85,
+        35,
+        65
+    ],
+    "flags": [],
+    "name": "Gligar",
+    "species": "GLIGAR",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 86,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 207
+}

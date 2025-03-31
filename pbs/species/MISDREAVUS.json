@@ -1,0 +1,170 @@
+{
+    "generation": 2,
+    "primaryType": "GHOST",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            5,
+            "SPITE"
+        ],
+        [
+            10,
+            "ASTONISH"
+        ],
+        [
+            14,
+            "CONFUSERAY"
+        ],
+        [
+            19,
+            "MEANLOOK"
+        ],
+        [
+            23,
+            "HEX"
+        ],
+        [
+            28,
+            "PSYBEAM"
+        ],
+        [
+            32,
+            "PAINSPLIT"
+        ],
+        [
+            37,
+            "PAYBACK"
+        ],
+        [
+            41,
+            "SHADOWBALL"
+        ],
+        [
+            46,
+            "PERISHSONG"
+        ],
+        [
+            50,
+            "GRUDGE"
+        ],
+        [
+            50,
+            "POWERGEM"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DARKPULSE",
+        "DAZZLINGGLEAM",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HEALBELL",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICYWIND",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "WILLOWISP",
+        "WONDERROOM"
+    ],
+    "eggMoves": [
+        "CURSE",
+        "DESTINYBOND",
+        "IMPRISON",
+        "MEMENTO",
+        "SCREECH",
+        "SHADOWSNEAK",
+        "SPITE",
+        "SUCKERPUNCH",
+        "WONDERROOM"
+    ],
+    "height": 0.7,
+    "weight": 1.0,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 435,
+    "baseStats": [
+        60,
+        60,
+        60,
+        85,
+        85,
+        85
+    ],
+    "flags": [],
+    "name": "Misdreavus",
+    "species": "MISDREAVUS",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 87,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 200
+}

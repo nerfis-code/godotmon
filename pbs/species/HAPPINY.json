@@ -1,0 +1,142 @@
+{
+    "generation": 4,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "MINIMIZE"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "COPYCAT"
+        ],
+        [
+            4,
+            "DEFENSECURL"
+        ],
+        [
+            8,
+            "SWEETKISS"
+        ],
+        [
+            12,
+            "DISARMINGVOICE"
+        ],
+        [
+            16,
+            "COVET"
+        ],
+        [
+            20,
+            "CHARM"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GRAVITY",
+        "HAIL",
+        "HEADBUTT",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICYWIND",
+        "INCINERATE",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THUNDERWAVE",
+        "UPROAR",
+        "WATERPULSE",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "AROMATHERAPY",
+        "COUNTER",
+        "GRAVITY",
+        "HEALBELL",
+        "HELPINGHAND",
+        "LASTRESORT",
+        "METRONOME",
+        "PRESENT",
+        "SEISMICTOSS"
+    ],
+    "height": 0.6,
+    "weight": 24.4,
+    "abilities": [
+        "NATURALCURE",
+        "SERENEGRACE"
+    ],
+    "hiddenAbilitie": [
+        "FRIENDGUARD"
+    ],
+    "baseTotal": 220,
+    "baseStats": [
+        100,
+        5,
+        5,
+        30,
+        15,
+        65
+    ],
+    "flags": [],
+    "name": "Happiny",
+    "species": "HAPPINY",
+    "catchRate": 130,
+    "happiness": 140,
+    "baseExp": 110,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 440
+}

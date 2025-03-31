@@ -1,0 +1,239 @@
+{
+    "generation": 4,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "TRIATTACK"
+        ],
+        [
+            -1,
+            "SNORE"
+        ],
+        [
+            -1,
+            "SAFEGUARD"
+        ],
+        [
+            -1,
+            "IRONTAIL"
+        ],
+        [
+            -1,
+            "PAYBACK"
+        ],
+        [
+            -1,
+            "ASSURANCE"
+        ],
+        [
+            -1,
+            "PSYCHOCUT"
+        ],
+        [
+            -1,
+            "WONDERROOM"
+        ],
+        [
+            -1,
+            "MAGICROOM"
+        ],
+        [
+            -1,
+            "ROUND"
+        ],
+        [
+            -1,
+            "ALLYSWITCH"
+        ],
+        [
+            -1,
+            "EXPANDINGFORCE"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "REST"
+        ],
+        [
+            7,
+            "SWIFT"
+        ],
+        [
+            14,
+            "DETECT"
+        ],
+        [
+            21,
+            "PSYBEAM"
+        ],
+        [
+            28,
+            "IMPRISON"
+        ],
+        [
+            35,
+            "EXTRASENSORY"
+        ],
+        [
+            42,
+            "NASTYPLOT"
+        ],
+        [
+            49,
+            "PSYCHIC"
+        ],
+        [
+            56,
+            "UPROAR"
+        ],
+        [
+            63,
+            "FUTURESIGHT"
+        ],
+        [
+            70,
+            "LASTRESORT"
+        ],
+        [
+            77,
+            "EXPLOSION"
+        ],
+        [
+            84,
+            "MYSTICALPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ALLYSWITCH",
+        "ASSURANCE",
+        "BATONPASS",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "IMPRISON",
+        "INCINERATE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PLAYROUGH",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRIATTACK",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "UTURN",
+        "WATERPULSE",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 0.3,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 580,
+    "baseStats": [
+        75,
+        125,
+        70,
+        115,
+        125,
+        70
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Azelf",
+    "species": "AZELF",
+    "catchRate": 3,
+    "happiness": 140,
+    "baseExp": 290,
+    "evs": [
+        "ATTACK",
+        2,
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 482
+}

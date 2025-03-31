@@ -1,0 +1,128 @@
+{
+    "generation": 8,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            5,
+            "NUZZLE"
+        ],
+        [
+            10,
+            "BITE"
+        ],
+        [
+            15,
+            "ROAR"
+        ],
+        [
+            20,
+            "SPARK"
+        ],
+        [
+            26,
+            "CHARM"
+        ],
+        [
+            30,
+            "CRUNCH"
+        ],
+        [
+            35,
+            "CHARGE"
+        ],
+        [
+            40,
+            "WILDCHARGE"
+        ],
+        [
+            45,
+            "PLAYROUGH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "CRUNCH",
+        "DIG",
+        "DOUBLETEAM",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FRUSTRATION",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UPROAR",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "DISCHARGE",
+        "DOUBLEEDGE",
+        "FLAMECHARGE",
+        "HOWL",
+        "SANDATTACK"
+    ],
+    "height": 0.3,
+    "weight": 13.5,
+    "abilities": [
+        "BALLFETCH"
+    ],
+    "hiddenAbilitie": [
+        "RATTLED"
+    ],
+    "baseTotal": 270,
+    "baseStats": [
+        59,
+        45,
+        50,
+        26,
+        40,
+        50
+    ],
+    "flags": [],
+    "name": "Yamper",
+    "species": "YAMPER",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 54,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 835
+}

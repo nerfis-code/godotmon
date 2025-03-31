@@ -1,0 +1,160 @@
+{
+    "generation": 5,
+    "primaryType": "BUG",
+    "secondaryType": "ELECTRIC",
+    "moves": [
+        [
+            -1,
+            "STICKYWEB"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "ELECTROWEB"
+        ],
+        [
+            1,
+            "BUGBITE"
+        ],
+        [
+            12,
+            "STRINGSHOT"
+        ],
+        [
+            16,
+            "THUNDERWAVE"
+        ],
+        [
+            20,
+            "ELECTROBALL"
+        ],
+        [
+            24,
+            "AGILITY"
+        ],
+        [
+            28,
+            "SUCKERPUNCH"
+        ],
+        [
+            32,
+            "SLASH"
+        ],
+        [
+            39,
+            "DISCHARGE"
+        ],
+        [
+            44,
+            "SCREECH"
+        ],
+        [
+            50,
+            "GASTROACID"
+        ],
+        [
+            56,
+            "BUGBUZZ"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "BOUNCE",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CROSSPOISON",
+        "CUT",
+        "DOUBLETEAM",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PINMISSILE",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SPEEDSWAP",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "VOLTSWITCH",
+        "WILDCHARGE",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 14.3,
+    "abilities": [
+        "COMPOUNDEYES",
+        "UNNERVE"
+    ],
+    "hiddenAbilitie": [
+        "SWARM"
+    ],
+    "baseTotal": 472,
+    "baseStats": [
+        70,
+        77,
+        60,
+        108,
+        97,
+        60
+    ],
+    "flags": [],
+    "name": "Galvantula",
+    "species": "GALVANTULA",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 165,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 596
+}

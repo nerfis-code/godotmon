@@ -1,0 +1,182 @@
+{
+    "generation": 5,
+    "primaryType": "ROCK",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "ROCKTHROW"
+        ],
+        [
+            1,
+            "WINGATTACK"
+        ],
+        [
+            9,
+            "DRAGONBREATH"
+        ],
+        [
+            12,
+            "ANCIENTPOWER"
+        ],
+        [
+            15,
+            "PLUCK"
+        ],
+        [
+            18,
+            "QUICKGUARD"
+        ],
+        [
+            21,
+            "UTURN"
+        ],
+        [
+            24,
+            "ROCKSLIDE"
+        ],
+        [
+            27,
+            "SCARYFACE"
+        ],
+        [
+            30,
+            "CRUNCH"
+        ],
+        [
+            33,
+            "AGILITY"
+        ],
+        [
+            36,
+            "TAILWIND"
+        ],
+        [
+            41,
+            "DRAGONCLAW"
+        ],
+        [
+            46,
+            "THRASH"
+        ],
+        [
+            51,
+            "ENDEAVOR"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRSLASH",
+        "ALLYSWITCH",
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BOUNCE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DEFOG",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASHOUT",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PLUCK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELWING",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 32.0,
+    "abilities": [
+        "DEFEATIST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 567,
+    "baseStats": [
+        75,
+        140,
+        65,
+        110,
+        112,
+        65
+    ],
+    "flags": [],
+    "name": "Archeops",
+    "species": "ARCHEOPS",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 177,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 567
+}

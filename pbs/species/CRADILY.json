@@ -1,0 +1,170 @@
+{
+    "generation": 3,
+    "primaryType": "ROCK",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "LEECHSEED"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "ACID"
+        ],
+        [
+            1,
+            "CONFUSERAY"
+        ],
+        [
+            12,
+            "INGRAIN"
+        ],
+        [
+            16,
+            "ANCIENTPOWER"
+        ],
+        [
+            20,
+            "MEGADRAIN"
+        ],
+        [
+            24,
+            "BRINE"
+        ],
+        [
+            28,
+            "AMNESIA"
+        ],
+        [
+            32,
+            "GASTROACID"
+        ],
+        [
+            36,
+            "GIGADRAIN"
+        ],
+        [
+            43,
+            "STOCKPILE"
+        ],
+        [
+            43,
+            "SPITUP"
+        ],
+        [
+            43,
+            "SWALLOW"
+        ],
+        [
+            48,
+            "ENERGYBALL"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BIND",
+        "BLOCK",
+        "BODYSLAM",
+        "BRINE",
+        "BULLDOZE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYTERRAIN",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POWERWHIP",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STRENGTH",
+        "STRINGSHOT",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 60.4,
+    "abilities": [
+        "SUCTIONCUPS"
+    ],
+    "hiddenAbilitie": [
+        "STORMDRAIN"
+    ],
+    "baseTotal": 495,
+    "baseStats": [
+        86,
+        81,
+        97,
+        43,
+        81,
+        107
+    ],
+    "flags": [],
+    "name": "Cradily",
+    "species": "CRADILY",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 173,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 346
+}

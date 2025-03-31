@@ -1,0 +1,160 @@
+{
+    "generation": 2,
+    "primaryType": "BUG",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "SUPERSONIC"
+        ],
+        [
+            8,
+            "SWIFT"
+        ],
+        [
+            12,
+            "LIGHTSCREEN"
+        ],
+        [
+            12,
+            "REFLECT"
+        ],
+        [
+            12,
+            "SAFEGUARD"
+        ],
+        [
+            15,
+            "MACHPUNCH"
+        ],
+        [
+            20,
+            "ROOST"
+        ],
+        [
+            24,
+            "STRUGGLEBUG"
+        ],
+        [
+            29,
+            "BATONPASS"
+        ],
+        [
+            33,
+            "AGILITY"
+        ],
+        [
+            38,
+            "BUGBUZZ"
+        ],
+        [
+            42,
+            "AIRSLASH"
+        ],
+        [
+            47,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DYNAMICPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "INFESTATION",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAILWIND",
+        "THIEF",
+        "THUNDERPUNCH",
+        "UPROAR",
+        "UTURN"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 35.6,
+    "abilities": [
+        "SWARM",
+        "EARLYBIRD"
+    ],
+    "hiddenAbilitie": [
+        "IRONFIST"
+    ],
+    "baseTotal": 390,
+    "baseStats": [
+        55,
+        35,
+        50,
+        85,
+        55,
+        110
+    ],
+    "flags": [],
+    "name": "Ledian",
+    "species": "LEDIAN",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 137,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 166
+}

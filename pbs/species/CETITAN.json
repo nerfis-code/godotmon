@@ -1,0 +1,140 @@
+{
+    "generation": 9,
+    "primaryType": "ICE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            6,
+            "GROWL"
+        ],
+        [
+            9,
+            "ECHOEDVOICE"
+        ],
+        [
+            12,
+            "ICESHARD"
+        ],
+        [
+            15,
+            "REST"
+        ],
+        [
+            19,
+            "TAKEDOWN"
+        ],
+        [
+            25,
+            "FLAIL"
+        ],
+        [
+            27,
+            "AVALANCHE"
+        ],
+        [
+            31,
+            "BOUNCE"
+        ],
+        [
+            36,
+            "BODYSLAM"
+        ],
+        [
+            40,
+            "AMNESIA"
+        ],
+        [
+            44,
+            "ICESPINNER"
+        ],
+        [
+            49,
+            "DOUBLEEDGE"
+        ],
+        [
+            53,
+            "BLIZZARD"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CHARM",
+        "CHILLINGWATER",
+        "CURSE",
+        "DOUBLEEDGE",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "GIGAIMPACT",
+        "HARDPRESS",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICEPUNCH",
+        "ICESPINNER",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "KNOCKOFF",
+        "LIQUIDATION",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SLEEPTALK",
+        "SNOWSCAPE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "TAKEDOWN",
+        "WATERPULSE"
+    ],
+    "eggMoves": [],
+    "height": 4.5,
+    "weight": 700.0,
+    "abilities": [
+        "THICKFAT",
+        "SLUSHRUSH"
+    ],
+    "hiddenAbilitie": [
+        "SHEERFORCE"
+    ],
+    "baseTotal": 521,
+    "baseStats": [
+        170,
+        113,
+        65,
+        73,
+        45,
+        55
+    ],
+    "flags": [],
+    "name": "Cetitan",
+    "species": "CETITAN",
+    "catchRate": 50,
+    "happiness": 50,
+    "baseExp": 182,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 975
+}

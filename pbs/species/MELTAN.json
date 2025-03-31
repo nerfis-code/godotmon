@@ -1,0 +1,94 @@
+{
+    "generation": 7,
+    "primaryType": "STEEL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            8,
+            "TAILWHIP"
+        ],
+        [
+            16,
+            "HEADBUTT"
+        ],
+        [
+            24,
+            "THUNDERWAVE"
+        ],
+        [
+            32,
+            "ACIDARMOR"
+        ],
+        [
+            40,
+            "FLASHCANNON"
+        ]
+    ],
+    "tutorMoves": [
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GYROBALL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "IRONDEFENSE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELBEAM",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC"
+    ],
+    "eggMoves": [],
+    "height": 0.2,
+    "weight": 8.0,
+    "abilities": [
+        "MAGNETPULL"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 300,
+    "baseStats": [
+        46,
+        65,
+        65,
+        34,
+        55,
+        35
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Meltan",
+    "species": "MELTAN",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 150,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 808
+}

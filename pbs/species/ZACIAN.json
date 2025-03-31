@@ -1,0 +1,444 @@
+{
+    "generation": 8,
+    "primaryType": "FAIRY",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SACREDSWORD"
+        ],
+        [
+            1,
+            "QUICKGUARD"
+        ],
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            1,
+            "HOWL"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            11,
+            "SLASH"
+        ],
+        [
+            22,
+            "SWORDSDANCE"
+        ],
+        [
+            33,
+            "IRONHEAD"
+        ],
+        [
+            44,
+            "LASERFOCUS"
+        ],
+        [
+            44,
+            "NOBLEROAR"
+        ],
+        [
+            55,
+            "CRUNCH"
+        ],
+        [
+            66,
+            "MOONBLAST"
+        ],
+        [
+            77,
+            "CLOSECOMBAT"
+        ],
+        [
+            88,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AIRSLASH",
+        "ASSURANCE",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CRUNCH",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FIREFANG",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEFANG",
+        "IMPRISON",
+        "IRONHEAD",
+        "IRONTAIL",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "PSYCHOCUT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SOLARBLADE",
+        "STEELBEAM",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAILSLAP",
+        "THUNDERFANG",
+        "TOXIC",
+        "WILDCHARGE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 2.8,
+    "weight": 110.0,
+    "abilities": [
+        "INTREPIDSWORD"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 670,
+    "baseStats": [
+        92,
+        130,
+        115,
+        138,
+        80,
+        115
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Zacian",
+    "species": "ZACIAN",
+    "catchRate": 10,
+    "happiness": 0,
+    "baseExp": 335,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "FAIRY",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "SACREDSWORD"
+                ],
+                [
+                    1,
+                    "QUICKGUARD"
+                ],
+                [
+                    1,
+                    "METALCLAW"
+                ],
+                [
+                    1,
+                    "HOWL"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    11,
+                    "SLASH"
+                ],
+                [
+                    22,
+                    "SWORDSDANCE"
+                ],
+                [
+                    33,
+                    "IRONHEAD"
+                ],
+                [
+                    44,
+                    "LASERFOCUS"
+                ],
+                [
+                    44,
+                    "NOBLEROAR"
+                ],
+                [
+                    55,
+                    "CRUNCH"
+                ],
+                [
+                    66,
+                    "MOONBLAST"
+                ],
+                [
+                    77,
+                    "CLOSECOMBAT"
+                ],
+                [
+                    88,
+                    "GIGAIMPACT"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "AIRSLASH",
+                "ASSURANCE",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "CRUNCH",
+                "DIG",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FIREFANG",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEFANG",
+                "IMPRISON",
+                "IRONHEAD",
+                "IRONTAIL",
+                "MIMIC",
+                "NATURALGIFT",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "PSYCHOCUT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SOLARBLADE",
+                "STEELBEAM",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAILSLAP",
+                "THUNDERFANG",
+                "TOXIC",
+                "WILDCHARGE",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 2.8,
+            "weight": 110.0,
+            "abilities": [
+                "INTREPIDSWORD"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 670,
+            "baseStats": [
+                92,
+                130,
+                115,
+                138,
+                80,
+                115
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 0,
+            "formName": "Forma Guerrero Avezado"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FAIRY",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    1,
+                    "SACREDSWORD"
+                ],
+                [
+                    1,
+                    "QUICKGUARD"
+                ],
+                [
+                    1,
+                    "METALCLAW"
+                ],
+                [
+                    1,
+                    "HOWL"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    11,
+                    "SLASH"
+                ],
+                [
+                    22,
+                    "SWORDSDANCE"
+                ],
+                [
+                    33,
+                    "IRONHEAD"
+                ],
+                [
+                    44,
+                    "LASERFOCUS"
+                ],
+                [
+                    44,
+                    "NOBLEROAR"
+                ],
+                [
+                    55,
+                    "CRUNCH"
+                ],
+                [
+                    66,
+                    "MOONBLAST"
+                ],
+                [
+                    77,
+                    "CLOSECOMBAT"
+                ],
+                [
+                    88,
+                    "GIGAIMPACT"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "AIRSLASH",
+                "ASSURANCE",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "CRUNCH",
+                "DIG",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FIREFANG",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEFANG",
+                "IMPRISON",
+                "IRONHEAD",
+                "IRONTAIL",
+                "MIMIC",
+                "NATURALGIFT",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "PSYCHOCUT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SOLARBLADE",
+                "STEELBEAM",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAILSLAP",
+                "THUNDERFANG",
+                "TOXIC",
+                "WILDCHARGE",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 2.8,
+            "weight": 355.0,
+            "abilities": [
+                "INTREPIDSWORD"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 720,
+            "baseStats": [
+                92,
+                170,
+                115,
+                148,
+                80,
+                115
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 1,
+            "formName": "Forma Espada Suprema"
+        }
+    ],
+    "internationalPokedex": 888
+}

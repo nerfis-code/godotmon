@@ -1,0 +1,145 @@
+{
+    "generation": 6,
+    "primaryType": "POISON",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "SMOKESCREEN"
+        ],
+        [
+            5,
+            "ACID"
+        ],
+        [
+            10,
+            "WATERGUN"
+        ],
+        [
+            15,
+            "TAILWHIP"
+        ],
+        [
+            20,
+            "DOUBLETEAM"
+        ],
+        [
+            25,
+            "POISONTAIL"
+        ],
+        [
+            30,
+            "WATERPULSE"
+        ],
+        [
+            35,
+            "TOXIC"
+        ],
+        [
+            40,
+            "DRAGONPULSE"
+        ],
+        [
+            45,
+            "AQUATAIL"
+        ],
+        [
+            50,
+            "SLUDGEBOMB"
+        ],
+        [
+            55,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FLIPTURN",
+        "FRUSTRATION",
+        "GUNKSHOT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICYWIND",
+        "IRONTAIL",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "THUNDERBOLT",
+        "TOXIC",
+        "TOXICSPIKES",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "WATERFALL",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "ACIDARMOR",
+        "DRAGONTAIL",
+        "HAZE",
+        "TWISTER"
+    ],
+    "height": 0.5,
+    "weight": 7.3,
+    "abilities": [
+        "POISONPOINT",
+        "POISONTOUCH"
+    ],
+    "hiddenAbilitie": [
+        "ADAPTABILITY"
+    ],
+    "baseTotal": 320,
+    "baseStats": [
+        50,
+        60,
+        60,
+        30,
+        60,
+        60
+    ],
+    "flags": [],
+    "name": "Skrelp",
+    "species": "SKRELP",
+    "catchRate": 225,
+    "happiness": 50,
+    "baseExp": 64,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 690
+}

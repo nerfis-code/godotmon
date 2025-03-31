@@ -1,0 +1,180 @@
+{
+    "generation": 7,
+    "primaryType": "BUG",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "FIRSTIMPRESSION"
+        ],
+        [
+            1,
+            "STRUGGLEBUG"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "SPITE"
+        ],
+        [
+            4,
+            "ROCKSMASH"
+        ],
+        [
+            8,
+            "FURYCUTTER"
+        ],
+        [
+            12,
+            "MUDSHOT"
+        ],
+        [
+            16,
+            "BUGBITE"
+        ],
+        [
+            20,
+            "IRONDEFENSE"
+        ],
+        [
+            24,
+            "SUCKERPUNCH"
+        ],
+        [
+            28,
+            "SLASH"
+        ],
+        [
+            32,
+            "RAZORSHELL"
+        ],
+        [
+            36,
+            "PINMISSILE"
+        ],
+        [
+            40,
+            "SWORDSDANCE"
+        ],
+        [
+            44,
+            "LIQUIDATION"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ASSURANCE",
+        "ATTRACT",
+        "BLIZZARD",
+        "BRICKBREAK",
+        "BUGBITE",
+        "BUGBUZZ",
+        "BULKUP",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "DARKPULSE",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "DUALCHOP",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSBLAST",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LEECHLIFE",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PINMISSILE",
+        "POISONJAB",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "RAZORSHELL",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNARL",
+        "SNORE",
+        "SPIKES",
+        "SPITE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THROATCHOP",
+        "TOXIC",
+        "VENOSHOCK",
+        "WATERFALL",
+        "WATERPULSE",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 108.0,
+    "abilities": [
+        "EMERGENCYEXIT"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 530,
+    "baseStats": [
+        75,
+        125,
+        140,
+        40,
+        60,
+        90
+    ],
+    "flags": [],
+    "name": "Golisopod",
+    "species": "GOLISOPOD",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 186,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 768
+}

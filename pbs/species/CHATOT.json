@@ -1,0 +1,154 @@
+{
+    "generation": 4,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "CONFIDE"
+        ],
+        [
+            5,
+            "PECK"
+        ],
+        [
+            9,
+            "GROWL"
+        ],
+        [
+            13,
+            "SING"
+        ],
+        [
+            17,
+            "FURYATTACK"
+        ],
+        [
+            21,
+            "CHATTER"
+        ],
+        [
+            25,
+            "TAUNT"
+        ],
+        [
+            29,
+            "ROUND"
+        ],
+        [
+            33,
+            "MIMIC"
+        ],
+        [
+            37,
+            "ECHOEDVOICE"
+        ],
+        [
+            41,
+            "ROOST"
+        ],
+        [
+            45,
+            "UPROAR"
+        ],
+        [
+            49,
+            "PARTINGSHOT"
+        ],
+        [
+            50,
+            "FEATHERDANCE"
+        ],
+        [
+            57,
+            "HYPERVOICE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TWISTER",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "AGILITY",
+        "AIRCUTTER",
+        "BOOMBURST",
+        "ENCORE",
+        "NIGHTSHADE",
+        "SUPERSONIC"
+    ],
+    "height": 0.5,
+    "weight": 1.9,
+    "abilities": [
+        "KEENEYE",
+        "TANGLEDFEET"
+    ],
+    "hiddenAbilitie": [
+        "BIGPECKS"
+    ],
+    "baseTotal": 411,
+    "baseStats": [
+        76,
+        65,
+        45,
+        91,
+        92,
+        42
+    ],
+    "flags": [],
+    "name": "Chatot",
+    "species": "CHATOT",
+    "catchRate": 30,
+    "happiness": 35,
+    "baseExp": 144,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 441
+}

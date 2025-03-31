@@ -1,0 +1,157 @@
+{
+    "generation": 7,
+    "primaryType": "POISON",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            -1,
+            "BANEFULBUNKER"
+        ],
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "WIDEGUARD"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            15,
+            "VENOSHOCK"
+        ],
+        [
+            20,
+            "RECOVER"
+        ],
+        [
+            25,
+            "PINMISSILE"
+        ],
+        [
+            30,
+            "TOXICSPIKES"
+        ],
+        [
+            35,
+            "LIQUIDATION"
+        ],
+        [
+            42,
+            "VENOMDRENCH"
+        ],
+        [
+            42,
+            "ACIDSPRAY"
+        ],
+        [
+            49,
+            "POISONJAB"
+        ],
+        [
+            56,
+            "TOXIC"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BLIZZARD",
+        "BLOCK",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CROSSPOISON",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GUNKSHOT",
+        "HAIL",
+        "HEX",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "MAGICCOAT",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PINMISSILE",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "TOXICSPIKES",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "WATERPULSE"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 14.5,
+    "abilities": [
+        "MERCILESS",
+        "LIMBER"
+    ],
+    "hiddenAbilitie": [
+        "REGENERATOR"
+    ],
+    "baseTotal": 495,
+    "baseStats": [
+        50,
+        63,
+        152,
+        35,
+        53,
+        142
+    ],
+    "flags": [],
+    "name": "Toxapex",
+    "species": "TOXAPEX",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 173,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 748
+}

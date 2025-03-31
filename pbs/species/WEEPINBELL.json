@@ -1,0 +1,140 @@
+{
+    "generation": 1,
+    "primaryType": "GRASS",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "VINEWHIP"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            13,
+            "SLEEPPOWDER"
+        ],
+        [
+            15,
+            "POISONPOWDER"
+        ],
+        [
+            17,
+            "STUNSPORE"
+        ],
+        [
+            24,
+            "ACID"
+        ],
+        [
+            29,
+            "KNOCKOFF"
+        ],
+        [
+            32,
+            "SWEETSCENT"
+        ],
+        [
+            39,
+            "GASTROACID"
+        ],
+        [
+            44,
+            "RAZORLEAF"
+        ],
+        [
+            47,
+            "POISONJAB"
+        ],
+        [
+            54,
+            "SLAM"
+        ],
+        [
+            58,
+            "POWERWHIP"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BIND",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "KNOCKOFF",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POISONJAB",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THIEF",
+        "VENOSHOCK",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 6.4,
+    "abilities": [
+        "CHLOROPHYLL"
+    ],
+    "hiddenAbilitie": [
+        "GLUTTONY"
+    ],
+    "baseTotal": 390,
+    "baseStats": [
+        65,
+        90,
+        50,
+        55,
+        85,
+        45
+    ],
+    "flags": [],
+    "name": "Weepinbell",
+    "species": "WEEPINBELL",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 137,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 70
+}

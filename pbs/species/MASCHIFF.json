@@ -1,0 +1,138 @@
+{
+    "generation": 9,
+    "primaryType": "DARK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "SCARYFACE"
+        ],
+        [
+            4,
+            "LICK"
+        ],
+        [
+            7,
+            "SNARL"
+        ],
+        [
+            10,
+            "HONECLAWS"
+        ],
+        [
+            14,
+            "BITE"
+        ],
+        [
+            18,
+            "ROAR"
+        ],
+        [
+            22,
+            "HEADBUTT"
+        ],
+        [
+            26,
+            "PAYBACK"
+        ],
+        [
+            31,
+            "CRUNCH"
+        ],
+        [
+            35,
+            "SWAGGER"
+        ],
+        [
+            39,
+            "REVERSAL"
+        ],
+        [
+            43,
+            "JAWLOCK"
+        ],
+        [
+            49,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYSLAM",
+        "CHARM",
+        "CRUNCH",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREFANG",
+        "HELPINGHAND",
+        "ICEFANG",
+        "LASHOUT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "REVERSAL",
+        "ROAR",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SNARL",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "THUNDERFANG",
+        "TRAILBLAZE"
+    ],
+    "eggMoves": [
+        "DESTINYBOND",
+        "ENDEAVOR",
+        "PLAYROUGH",
+        "RETALIATE"
+    ],
+    "height": 0.5,
+    "weight": 16.0,
+    "abilities": [
+        "INTIMIDATE",
+        "RUNAWAY"
+    ],
+    "hiddenAbilitie": [
+        "STAKEOUT"
+    ],
+    "baseTotal": 340,
+    "baseStats": [
+        60,
+        78,
+        60,
+        51,
+        40,
+        51
+    ],
+    "flags": [],
+    "name": "Maschiff",
+    "species": "MASCHIFF",
+    "catchRate": 150,
+    "happiness": 50,
+    "baseExp": 68,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 942
+}

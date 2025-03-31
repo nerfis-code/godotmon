@@ -1,0 +1,143 @@
+{
+    "generation": 7,
+    "primaryType": "GRASS",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            4,
+            "CONFUSERAY"
+        ],
+        [
+            8,
+            "INGRAIN"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            16,
+            "SLEEPPOWDER"
+        ],
+        [
+            20,
+            "MOONLIGHT"
+        ],
+        [
+            25,
+            "STRENGTHSAP"
+        ],
+        [
+            28,
+            "GIGADRAIN"
+        ],
+        [
+            32,
+            "DAZZLINGGLEAM"
+        ],
+        [
+            36,
+            "SPORE"
+        ],
+        [
+            40,
+            "MOONBLAST"
+        ],
+        [
+            44,
+            "DREAMEATER"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AMNESIA",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DREAMEATER",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POLLENPUFF",
+        "PROTECT",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "THUNDERWAVE",
+        "TOXIC",
+        "WONDERROOM",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "GROWTH",
+        "LEECHSEED",
+        "POISONPOWDER",
+        "STUNSPORE"
+    ],
+    "height": 0.2,
+    "weight": 1.5,
+    "abilities": [
+        "ILLUMINATE",
+        "EFFECTSPORE"
+    ],
+    "hiddenAbilitie": [
+        "RAINDISH"
+    ],
+    "baseTotal": 285,
+    "baseStats": [
+        40,
+        35,
+        55,
+        15,
+        65,
+        75
+    ],
+    "flags": [],
+    "name": "Morelull",
+    "species": "MORELULL",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 57,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 755
+}

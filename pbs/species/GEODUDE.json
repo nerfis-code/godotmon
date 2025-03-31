@@ -1,0 +1,519 @@
+{
+    "generation": 1,
+    "primaryType": "ROCK",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            4,
+            "SANDSTORM"
+        ],
+        [
+            6,
+            "ROCKPOLISH"
+        ],
+        [
+            10,
+            "ROLLOUT"
+        ],
+        [
+            12,
+            "HARDEN"
+        ],
+        [
+            12,
+            "BULLDOZE"
+        ],
+        [
+            16,
+            "ROCKTHROW"
+        ],
+        [
+            18,
+            "SMACKDOWN"
+        ],
+        [
+            24,
+            "SELFDESTRUCT"
+        ],
+        [
+            28,
+            "STEALTHROCK"
+        ],
+        [
+            30,
+            "ROCKBLAST"
+        ],
+        [
+            34,
+            "EARTHQUAKE"
+        ],
+        [
+            36,
+            "EXPLOSION"
+        ],
+        [
+            40,
+            "DOUBLEEDGE"
+        ],
+        [
+            42,
+            "STONEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BLOCK",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GYROBALL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "THUNDERPUNCH"
+    ],
+    "eggMoves": [
+        "AUTOTOMIZE",
+        "BLOCK",
+        "CURSE",
+        "FLAIL",
+        "HAMMERARM",
+        "MEGAPUNCH",
+        "WIDEGUARD"
+    ],
+    "height": 0.4,
+    "weight": 20.0,
+    "abilities": [
+        "ROCKHEAD",
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "SANDVEIL"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        40,
+        80,
+        100,
+        20,
+        30,
+        30
+    ],
+    "flags": [],
+    "name": "Geodude",
+    "species": "GEODUDE",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "ROCK",
+            "secondaryType": "GROUND",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "DEFENSECURL"
+                ],
+                [
+                    4,
+                    "SANDSTORM"
+                ],
+                [
+                    6,
+                    "ROCKPOLISH"
+                ],
+                [
+                    10,
+                    "ROLLOUT"
+                ],
+                [
+                    12,
+                    "HARDEN"
+                ],
+                [
+                    12,
+                    "BULLDOZE"
+                ],
+                [
+                    16,
+                    "ROCKTHROW"
+                ],
+                [
+                    18,
+                    "SMACKDOWN"
+                ],
+                [
+                    24,
+                    "SELFDESTRUCT"
+                ],
+                [
+                    28,
+                    "STEALTHROCK"
+                ],
+                [
+                    30,
+                    "ROCKBLAST"
+                ],
+                [
+                    34,
+                    "EARTHQUAKE"
+                ],
+                [
+                    36,
+                    "EXPLOSION"
+                ],
+                [
+                    40,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    42,
+                    "STONEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ANCIENTPOWER",
+                "ATTRACT",
+                "BLOCK",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COUNTER",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DYNAMICPUNCH",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FIREBLAST",
+                "FIREPUNCH",
+                "FLAMETHROWER",
+                "FLING",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "GYROBALL",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "INCINERATE",
+                "IRONDEFENSE",
+                "MEGAPUNCH",
+                "METRONOME",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROCKCLIMB",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROLLOUT",
+                "ROUND",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNORE",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "THUNDERPUNCH"
+            ],
+            "eggMoves": [
+                "AUTOTOMIZE",
+                "BLOCK",
+                "CURSE",
+                "FLAIL",
+                "HAMMERARM",
+                "MEGAPUNCH",
+                "WIDEGUARD"
+            ],
+            "height": 0.4,
+            "weight": 20.0,
+            "abilities": [
+                "ROCKHEAD",
+                "STURDY"
+            ],
+            "hiddenAbilitie": [
+                "SANDVEIL"
+            ],
+            "baseTotal": 300,
+            "baseStats": [
+                40,
+                80,
+                100,
+                20,
+                30,
+                30
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Geodude"
+        },
+        {
+            "generation": 7,
+            "primaryType": "ROCK",
+            "secondaryType": "ELECTRIC",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "DEFENSECURL"
+                ],
+                [
+                    4,
+                    "CHARGE"
+                ],
+                [
+                    6,
+                    "ROCKPOLISH"
+                ],
+                [
+                    10,
+                    "ROLLOUT"
+                ],
+                [
+                    12,
+                    "SPARK"
+                ],
+                [
+                    16,
+                    "ROCKTHROW"
+                ],
+                [
+                    18,
+                    "SMACKDOWN"
+                ],
+                [
+                    22,
+                    "THUNDERPUNCH"
+                ],
+                [
+                    24,
+                    "SELFDESTRUCT"
+                ],
+                [
+                    28,
+                    "STEALTHROCK"
+                ],
+                [
+                    30,
+                    "ROCKBLAST"
+                ],
+                [
+                    34,
+                    "DISCHARGE"
+                ],
+                [
+                    36,
+                    "EXPLOSION"
+                ],
+                [
+                    40,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    42,
+                    "STONEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ANCIENTPOWER",
+                "ATTRACT",
+                "BLOCK",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "COUNTER",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DYNAMICPUNCH",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ELECTROWEB",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FIREBLAST",
+                "FIREPUNCH",
+                "FLAMETHROWER",
+                "FLING",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "GYROBALL",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "INCINERATE",
+                "IRONDEFENSE",
+                "MAGNETRISE",
+                "MEGAPUNCH",
+                "METRONOME",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROCKCLIMB",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROLLOUT",
+                "ROUND",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNORE",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "VOLTSWITCH"
+            ],
+            "eggMoves": [
+                "AUTOTOMIZE",
+                "BLOCK",
+                "COUNTER",
+                "CURSE",
+                "ENDURE",
+                "FLAIL",
+                "MAGNETRISE",
+                "ROCKCLIMB",
+                "SCREECH",
+                "WIDEGUARD"
+            ],
+            "height": 0.4,
+            "weight": 20.3,
+            "abilities": [
+                "MAGNETPULL",
+                "STURDY"
+            ],
+            "hiddenAbilitie": [
+                "GALVANIZE"
+            ],
+            "baseTotal": 300,
+            "baseStats": [
+                40,
+                80,
+                100,
+                20,
+                30,
+                30
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Alola"
+        }
+    ],
+    "internationalPokedex": 74
+}

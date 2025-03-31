@@ -1,0 +1,141 @@
+{
+    "generation": 5,
+    "primaryType": "GRASS",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            4,
+            "GROWTH"
+        ],
+        [
+            8,
+            "STUNSPORE"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            16,
+            "SYNTHESIS"
+        ],
+        [
+            20,
+            "CLEARSMOG"
+        ],
+        [
+            24,
+            "SWEETSCENT"
+        ],
+        [
+            28,
+            "GIGADRAIN"
+        ],
+        [
+            32,
+            "INGRAIN"
+        ],
+        [
+            36,
+            "TOXIC"
+        ],
+        [
+            40,
+            "RAGEPOWDER"
+        ],
+        [
+            44,
+            "SOLARBEAM"
+        ],
+        [
+            48,
+            "SPORE"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "POLLENPUFF",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "TOXIC",
+        "VENOSHOCK",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "DEFENSECURL",
+        "POISONPOWDER",
+        "ROLLOUT",
+        "WORRYSEED"
+    ],
+    "height": 0.2,
+    "weight": 1.0,
+    "abilities": [
+        "EFFECTSPORE"
+    ],
+    "hiddenAbilitie": [
+        "REGENERATOR"
+    ],
+    "baseTotal": 294,
+    "baseStats": [
+        69,
+        55,
+        45,
+        15,
+        55,
+        55
+    ],
+    "flags": [],
+    "name": "Foongus",
+    "species": "FOONGUS",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 59,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 590
+}

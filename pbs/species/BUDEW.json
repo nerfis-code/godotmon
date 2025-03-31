@@ -1,0 +1,118 @@
+{
+    "generation": 4,
+    "primaryType": "GRASS",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "STUNSPORE"
+        ],
+        [
+            1,
+            "WORRYSEED"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "HIDDENPOWER",
+        "LEAFSTORM",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PINMISSILE",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SPIKES",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "UPROAR",
+        "VENOSHOCK",
+        "WEATHERBALL",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "COTTONSPORE",
+        "EXTRASENSORY",
+        "LEAFSTORM",
+        "LIFEDEW",
+        "MINDREADER",
+        "PINMISSILE",
+        "POWERWHIP",
+        "RAZORLEAF",
+        "SEEDBOMB",
+        "SLEEPPOWDER",
+        "SPIKES",
+        "SYNTHESIS"
+    ],
+    "height": 0.2,
+    "weight": 1.2,
+    "abilities": [
+        "NATURALCURE",
+        "POISONPOINT"
+    ],
+    "hiddenAbilitie": [
+        "LEAFGUARD"
+    ],
+    "baseTotal": 280,
+    "baseStats": [
+        40,
+        30,
+        35,
+        55,
+        50,
+        70
+    ],
+    "flags": [],
+    "name": "Budew",
+    "species": "BUDEW",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 56,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 406
+}

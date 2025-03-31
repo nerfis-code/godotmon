@@ -1,0 +1,155 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "ELECTRIC",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            4,
+            "ELECTROBALL"
+        ],
+        [
+            8,
+            "THUNDERWAVE"
+        ],
+        [
+            12,
+            "BUBBLEBEAM"
+        ],
+        [
+            16,
+            "CONFUSERAY"
+        ],
+        [
+            20,
+            "SPARK"
+        ],
+        [
+            24,
+            "CHARGE"
+        ],
+        [
+            28,
+            "DISCHARGE"
+        ],
+        [
+            32,
+            "AQUARING"
+        ],
+        [
+            36,
+            "FLAIL"
+        ],
+        [
+            40,
+            "TAKEDOWN"
+        ],
+        [
+            44,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AMNESIA",
+        "ATTRACT",
+        "BLIZZARD",
+        "BOUNCE",
+        "BRINE",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "HAIL",
+        "HEALBELL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROUND",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SURF",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "VOLTSWITCH",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "AGILITY",
+        "AMNESIA",
+        "FLAIL",
+        "MIST",
+        "PSYBEAM",
+        "SCREECH",
+        "SOAK",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "height": 0.5,
+    "weight": 12.0,
+    "abilities": [
+        "VOLTABSORB",
+        "ILLUMINATE"
+    ],
+    "hiddenAbilitie": [
+        "WATERABSORB"
+    ],
+    "baseTotal": 330,
+    "baseStats": [
+        75,
+        38,
+        38,
+        67,
+        56,
+        56
+    ],
+    "flags": [],
+    "name": "Chinchou",
+    "species": "CHINCHOU",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 66,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 170
+}

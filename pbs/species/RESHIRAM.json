@@ -1,0 +1,178 @@
+{
+    "generation": 5,
+    "primaryType": "DRAGON",
+    "secondaryType": "FIRE",
+    "moves": [
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            1,
+            "NOBLEROAR"
+        ],
+        [
+            1,
+            "ANCIENTPOWER"
+        ],
+        [
+            1,
+            "FIREFANG"
+        ],
+        [
+            8,
+            "SLASH"
+        ],
+        [
+            16,
+            "CRUNCH"
+        ],
+        [
+            24,
+            "EXTRASENSORY"
+        ],
+        [
+            32,
+            "DRAGONPULSE"
+        ],
+        [
+            40,
+            "FLAMETHROWER"
+        ],
+        [
+            48,
+            "FUSIONFLARE"
+        ],
+        [
+            56,
+            "HYPERVOICE"
+        ],
+        [
+            64,
+            "FIREBLAST"
+        ],
+        [
+            72,
+            "IMPRISON"
+        ],
+        [
+            80,
+            "OUTRAGE"
+        ],
+        [
+            88,
+            "BLUEFLARE"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BREAKINGSWIPE",
+        "BRUTALSWING",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLING",
+        "FLY",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATCRASH",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IMPRISON",
+        "INCINERATE",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "OVERHEAT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALESHOT",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TOXIC",
+        "WEATHERBALL",
+        "WILLOWISP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 3.2,
+    "weight": 330.0,
+    "abilities": [
+        "TURBOBLAZE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 680,
+    "baseStats": [
+        100,
+        120,
+        100,
+        90,
+        150,
+        120
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Reshiram",
+    "species": "RESHIRAM",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 340,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 643
+}

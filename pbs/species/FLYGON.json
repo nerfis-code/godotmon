@@ -1,0 +1,233 @@
+{
+    "generation": 3,
+    "primaryType": "GROUND",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            -1,
+            "DRAGONCLAW"
+        ],
+        [
+            -1,
+            "DRAGONDANCE"
+        ],
+        [
+            -1,
+            "FEINT"
+        ],
+        [
+            -1,
+            "DIG"
+        ],
+        [
+            -1,
+            "CRUNCH"
+        ],
+        [
+            -1,
+            "SUPERPOWER"
+        ],
+        [
+            -1,
+            "FISSURE"
+        ],
+        [
+            -1,
+            "ASTONISH"
+        ],
+        [
+            -1,
+            "BITE"
+        ],
+        [
+            1,
+            "OUTRAGE"
+        ],
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            1,
+            "LASERFOCUS"
+        ],
+        [
+            1,
+            "BULLDOZE"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            12,
+            "MUDSLAP"
+        ],
+        [
+            16,
+            "SANDTOMB"
+        ],
+        [
+            20,
+            "DRAGONTAIL"
+        ],
+        [
+            24,
+            "SCREECH"
+        ],
+        [
+            28,
+            "BUGBUZZ"
+        ],
+        [
+            32,
+            "SANDSTORM"
+        ],
+        [
+            38,
+            "EARTHPOWER"
+        ],
+        [
+            44,
+            "EARTHQUAKE"
+        ],
+        [
+            52,
+            "UPROAR"
+        ],
+        [
+            60,
+            "DRAGONRUSH"
+        ],
+        [
+            68,
+            "BOOMBURST"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ATTRACT",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRUTALSWING",
+        "BUGBITE",
+        "BUGBUZZ",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DEFOG",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FIRESPIN",
+        "FLAMETHROWER",
+        "FLY",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "OUTRAGE",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCALESHOT",
+        "SCORCHINGSANDS",
+        "SCREECH",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "STONEEDGE",
+        "STRENGTH",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "TWISTER",
+        "UPROAR",
+        "UTURN"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 82.0,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 520,
+    "baseStats": [
+        80,
+        100,
+        80,
+        100,
+        80,
+        80
+    ],
+    "flags": [],
+    "name": "Flygon",
+    "species": "FLYGON",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 260,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 330
+}

@@ -1,0 +1,479 @@
+{
+    "generation": 5,
+    "primaryType": "GROUND",
+    "secondaryType": "ELECTRIC",
+    "moves": [
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            5,
+            "ENDURE"
+        ],
+        [
+            10,
+            "MUDSHOT"
+        ],
+        [
+            15,
+            "REVENGE"
+        ],
+        [
+            20,
+            "CHARGE"
+        ],
+        [
+            25,
+            "SUCKERPUNCH"
+        ],
+        [
+            30,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            35,
+            "BOUNCE"
+        ],
+        [
+            40,
+            "MUDDYWATER"
+        ],
+        [
+            45,
+            "DISCHARGE"
+        ],
+        [
+            50,
+            "FLAIL"
+        ],
+        [
+            55,
+            "FISSURE"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BOUNCE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROWEB",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "LASHOUT",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SCALD",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SPITE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UPROAR",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "ASTONISH",
+        "CURSE",
+        "PAINSPLIT",
+        "REFLECTTYPE",
+        "SPARK",
+        "SPITE",
+        "YAWN"
+    ],
+    "height": 0.7,
+    "weight": 11.0,
+    "abilities": [
+        "STATIC",
+        "LIMBER"
+    ],
+    "hiddenAbilitie": [
+        "SANDVEIL"
+    ],
+    "baseTotal": 471,
+    "baseStats": [
+        109,
+        66,
+        84,
+        32,
+        81,
+        99
+    ],
+    "flags": [],
+    "name": "Stunfisk",
+    "species": "STUNFISK",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 165,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "GROUND",
+            "secondaryType": "ELECTRIC",
+            "moves": [
+                [
+                    1,
+                    "MUDSLAP"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    5,
+                    "ENDURE"
+                ],
+                [
+                    10,
+                    "MUDSHOT"
+                ],
+                [
+                    15,
+                    "REVENGE"
+                ],
+                [
+                    20,
+                    "CHARGE"
+                ],
+                [
+                    25,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    30,
+                    "ELECTRICTERRAIN"
+                ],
+                [
+                    35,
+                    "BOUNCE"
+                ],
+                [
+                    40,
+                    "MUDDYWATER"
+                ],
+                [
+                    45,
+                    "DISCHARGE"
+                ],
+                [
+                    50,
+                    "FLAIL"
+                ],
+                [
+                    55,
+                    "FISSURE"
+                ]
+            ],
+            "tutorMoves": [
+                "AQUATAIL",
+                "ATTRACT",
+                "BOUNCE",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "EERIEIMPULSE",
+                "ELECTRICTERRAIN",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "HIDDENPOWER",
+                "INFESTATION",
+                "LASHOUT",
+                "MAGNETRISE",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "PAINSPLIT",
+                "PAYBACK",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SCALD",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNORE",
+                "SPITE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TOXIC",
+                "UPROAR",
+                "WATERPULSE"
+            ],
+            "eggMoves": [
+                "ASTONISH",
+                "CURSE",
+                "PAINSPLIT",
+                "REFLECTTYPE",
+                "SPARK",
+                "SPITE",
+                "YAWN"
+            ],
+            "height": 0.7,
+            "weight": 11.0,
+            "abilities": [
+                "STATIC",
+                "LIMBER"
+            ],
+            "hiddenAbilitie": [
+                "SANDVEIL"
+            ],
+            "baseTotal": 471,
+            "baseStats": [
+                109,
+                66,
+                84,
+                32,
+                81,
+                99
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Stunfisk"
+        },
+        {
+            "generation": 8,
+            "primaryType": "GROUND",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    1,
+                    "MUDSLAP"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "METALCLAW"
+                ],
+                [
+                    5,
+                    "ENDURE"
+                ],
+                [
+                    10,
+                    "MUDSHOT"
+                ],
+                [
+                    15,
+                    "REVENGE"
+                ],
+                [
+                    20,
+                    "METALSOUND"
+                ],
+                [
+                    25,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    30,
+                    "IRONDEFENSE"
+                ],
+                [
+                    35,
+                    "BOUNCE"
+                ],
+                [
+                    40,
+                    "MUDDYWATER"
+                ],
+                [
+                    45,
+                    "SNAPTRAP"
+                ],
+                [
+                    50,
+                    "FLAIL"
+                ],
+                [
+                    55,
+                    "FISSURE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BOUNCE",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "HIDDENPOWER",
+                "ICEFANG",
+                "IRONDEFENSE",
+                "LASHOUT",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SCALD",
+                "SCREECH",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNORE",
+                "STEALTHROCK",
+                "STEELBEAM",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "TERRAINPULSE",
+                "THUNDERWAVE",
+                "TOXIC",
+                "UPROAR"
+            ],
+            "eggMoves": [
+                "ASTONISH",
+                "BIND",
+                "COUNTER",
+                "CURSE",
+                "PAINSPLIT",
+                "REFLECTTYPE",
+                "SPITE",
+                "YAWN"
+            ],
+            "height": 0.7,
+            "weight": 20.5,
+            "abilities": [
+                "MIMICRY"
+            ],
+            "hiddenAbilitie": [
+                "MIMICRY"
+            ],
+            "baseTotal": 471,
+            "baseStats": [
+                109,
+                81,
+                99,
+                32,
+                66,
+                84
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Galar"
+        }
+    ],
+    "internationalPokedex": 618
+}

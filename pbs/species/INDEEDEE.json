@@ -1,0 +1,435 @@
+{
+    "generation": 8,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "NORMAL",
+    "moves": [
+        [
+            1,
+            "STOREDPOWER"
+        ],
+        [
+            1,
+            "PLAYNICE"
+        ],
+        [
+            5,
+            "ENCORE"
+        ],
+        [
+            10,
+            "DISARMINGVOICE"
+        ],
+        [
+            15,
+            "PSYBEAM"
+        ],
+        [
+            20,
+            "HELPINGHAND"
+        ],
+        [
+            25,
+            "AFTERYOU"
+        ],
+        [
+            30,
+            "AROMATHERAPY"
+        ],
+        [
+            30,
+            "HEALINGWISH"
+        ],
+        [
+            35,
+            "PSYCHIC"
+        ],
+        [
+            40,
+            "CALMMIND"
+        ],
+        [
+            45,
+            "POWERSPLIT"
+        ],
+        [
+            50,
+            "PSYCHICTERRAIN"
+        ],
+        [
+            55,
+            "LASTRESORT"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DRAINPUNCH",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "IMPRISON",
+        "MAGICALLEAF",
+        "MAGICROOM",
+        "METRONOME",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "PAYDAY",
+        "PLAYROUGH",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYSHOCK",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TERRAINPULSE",
+        "TOXIC",
+        "TRIATTACK",
+        "TRICK",
+        "TRICKROOM",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "EXTRASENSORY",
+        "FAKEOUT",
+        "PSYCHUP"
+    ],
+    "height": 0.9,
+    "weight": 28.0,
+    "abilities": [
+        "INNERFOCUS",
+        "SYNCHRONIZE"
+    ],
+    "hiddenAbilitie": [
+        "PSYCHICSURGE"
+    ],
+    "baseTotal": 475,
+    "baseStats": [
+        60,
+        65,
+        55,
+        95,
+        105,
+        95
+    ],
+    "flags": [],
+    "name": "Indeedee",
+    "species": "INDEEDEE",
+    "catchRate": 30,
+    "happiness": 140,
+    "baseExp": 166,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "NORMAL",
+            "moves": [
+                [
+                    1,
+                    "STOREDPOWER"
+                ],
+                [
+                    1,
+                    "PLAYNICE"
+                ],
+                [
+                    5,
+                    "ENCORE"
+                ],
+                [
+                    10,
+                    "DISARMINGVOICE"
+                ],
+                [
+                    15,
+                    "PSYBEAM"
+                ],
+                [
+                    20,
+                    "HELPINGHAND"
+                ],
+                [
+                    25,
+                    "AFTERYOU"
+                ],
+                [
+                    30,
+                    "AROMATHERAPY"
+                ],
+                [
+                    30,
+                    "HEALINGWISH"
+                ],
+                [
+                    35,
+                    "PSYCHIC"
+                ],
+                [
+                    40,
+                    "CALMMIND"
+                ],
+                [
+                    45,
+                    "POWERSPLIT"
+                ],
+                [
+                    50,
+                    "PSYCHICTERRAIN"
+                ],
+                [
+                    55,
+                    "LASTRESORT"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "ATTRACT",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "DRAINPUNCH",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IMPRISON",
+                "MAGICALLEAF",
+                "MAGICROOM",
+                "METRONOME",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "PAYDAY",
+                "PLAYROUGH",
+                "POWERSWAP",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHICTERRAIN",
+                "PSYSHOCK",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNORE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "TERRAINPULSE",
+                "TOXIC",
+                "TRIATTACK",
+                "TRICK",
+                "TRICKROOM",
+                "WONDERROOM",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "EXTRASENSORY",
+                "FAKEOUT",
+                "PSYCHUP"
+            ],
+            "height": 0.9,
+            "weight": 28.0,
+            "abilities": [
+                "INNERFOCUS",
+                "SYNCHRONIZE"
+            ],
+            "hiddenAbilitie": [
+                "PSYCHICSURGE"
+            ],
+            "baseTotal": 475,
+            "baseStats": [
+                60,
+                65,
+                55,
+                95,
+                105,
+                95
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Macho"
+        },
+        {
+            "generation": 8,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "NORMAL",
+            "moves": [
+                [
+                    1,
+                    "STOREDPOWER"
+                ],
+                [
+                    1,
+                    "PLAYNICE"
+                ],
+                [
+                    5,
+                    "BATONPASS"
+                ],
+                [
+                    10,
+                    "DISARMINGVOICE"
+                ],
+                [
+                    15,
+                    "PSYBEAM"
+                ],
+                [
+                    20,
+                    "HELPINGHAND"
+                ],
+                [
+                    25,
+                    "FOLLOWME"
+                ],
+                [
+                    30,
+                    "AROMATHERAPY"
+                ],
+                [
+                    35,
+                    "PSYCHIC"
+                ],
+                [
+                    40,
+                    "CALMMIND"
+                ],
+                [
+                    45,
+                    "GUARDSPLIT"
+                ],
+                [
+                    50,
+                    "PSYCHICTERRAIN"
+                ],
+                [
+                    55,
+                    "HEALINGWISH"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BATONPASS",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "DRAINPUNCH",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GUARDSWAP",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IMPRISON",
+                "LIGHTSCREEN",
+                "MAGICALLEAF",
+                "METRONOME",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "PAYDAY",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHICTERRAIN",
+                "PSYSHOCK",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNORE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "TERRAINPULSE",
+                "TOXIC",
+                "TRICK",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "FAKEOUT",
+                "HEALPULSE",
+                "PSYCHUP",
+                "PSYCHOSHIFT"
+            ],
+            "height": 0.9,
+            "weight": 28.0,
+            "abilities": [
+                "OWNTEMPO",
+                "SYNCHRONIZE"
+            ],
+            "hiddenAbilitie": [
+                "PSYCHICSURGE"
+            ],
+            "baseTotal": 475,
+            "baseStats": [
+                70,
+                55,
+                65,
+                85,
+                95,
+                105
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Hembra"
+        }
+    ],
+    "internationalPokedex": 876
+}

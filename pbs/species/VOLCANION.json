@@ -1,0 +1,183 @@
+{
+    "generation": 6,
+    "primaryType": "FIRE",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "FIRESPIN"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "STEAMERUPTION"
+        ],
+        [
+            6,
+            "LEER"
+        ],
+        [
+            12,
+            "WEATHERBALL"
+        ],
+        [
+            18,
+            "FLAMECHARGE"
+        ],
+        [
+            24,
+            "WATERPULSE"
+        ],
+        [
+            30,
+            "SCARYFACE"
+        ],
+        [
+            36,
+            "INCINERATE"
+        ],
+        [
+            42,
+            "STOMP"
+        ],
+        [
+            48,
+            "SCALD"
+        ],
+        [
+            54,
+            "TAKEDOWN"
+        ],
+        [
+            60,
+            "MIST"
+        ],
+        [
+            60,
+            "HAZE"
+        ],
+        [
+            66,
+            "HYDROPUMP"
+        ],
+        [
+            78,
+            "FLAREBLITZ"
+        ],
+        [
+            84,
+            "OVERHEAT"
+        ],
+        [
+            90,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CONFIDE",
+        "CUT",
+        "DEFOG",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLASHCANNON",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEATCRASH",
+        "HEATWAVE",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "INCINERATE",
+        "LIQUIDATION",
+        "MIMIC",
+        "MISTYTERRAIN",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROUND",
+        "SANDSTORM",
+        "SCALD",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "THUNDERFANG",
+        "TOXIC",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 195.0,
+    "abilities": [
+        "WATERABSORB"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        80,
+        110,
+        120,
+        70,
+        130,
+        90
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Volcanion",
+    "species": "VOLCANION",
+    "catchRate": 3,
+    "happiness": 100,
+    "baseExp": 300,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 721
+}

@@ -1,0 +1,448 @@
+{
+    "generation": 9,
+    "primaryType": "DRAGON",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            6,
+            "HARDEN"
+        ],
+        [
+            12,
+            "HELPINGHAND"
+        ],
+        [
+            17,
+            "WATERPULSE"
+        ],
+        [
+            23,
+            "SOAK"
+        ],
+        [
+            28,
+            "TAUNT"
+        ],
+        [
+            34,
+            "MEMENTO"
+        ],
+        [
+            39,
+            "MUDDYWATER"
+        ],
+        [
+            43,
+            "NASTYPLOT"
+        ],
+        [
+            47,
+            "MIRRORCOAT"
+        ],
+        [
+            52,
+            "DRAGONPULSE"
+        ]
+    ],
+    "tutorMoves": [
+        "BATONPASS",
+        "CHILLINGWATER",
+        "DRACOMETEOR",
+        "DRAGONCHEER",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICYWIND",
+        "LUNGE",
+        "MUDDYWATER",
+        "NASTYPLOT",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SURF",
+        "TAKEDOWN",
+        "TAUNT",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "BATONPASS",
+        "COUNTER",
+        "RAPIDSPIN"
+    ],
+    "height": 0.3,
+    "weight": 8.0,
+    "abilities": [
+        "COMMANDER"
+    ],
+    "hiddenAbilitie": [
+        "STORMDRAIN"
+    ],
+    "baseTotal": 475,
+    "baseStats": [
+        68,
+        50,
+        60,
+        82,
+        120,
+        95
+    ],
+    "flags": [],
+    "name": "Tatsugiri",
+    "species": "TATSUGIRI",
+    "catchRate": 100,
+    "happiness": 50,
+    "baseExp": 166,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 9,
+            "primaryType": "DRAGON",
+            "secondaryType": "WATER",
+            "moves": [
+                [
+                    1,
+                    "SPLASH"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    6,
+                    "HARDEN"
+                ],
+                [
+                    12,
+                    "HELPINGHAND"
+                ],
+                [
+                    17,
+                    "WATERPULSE"
+                ],
+                [
+                    23,
+                    "SOAK"
+                ],
+                [
+                    28,
+                    "TAUNT"
+                ],
+                [
+                    34,
+                    "MEMENTO"
+                ],
+                [
+                    39,
+                    "MUDDYWATER"
+                ],
+                [
+                    43,
+                    "NASTYPLOT"
+                ],
+                [
+                    47,
+                    "MIRRORCOAT"
+                ],
+                [
+                    52,
+                    "DRAGONPULSE"
+                ]
+            ],
+            "tutorMoves": [
+                "BATONPASS",
+                "CHILLINGWATER",
+                "DRACOMETEOR",
+                "DRAGONCHEER",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "ENDURE",
+                "FACADE",
+                "GIGAIMPACT",
+                "HELPINGHAND",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICYWIND",
+                "LUNGE",
+                "MUDDYWATER",
+                "NASTYPLOT",
+                "OUTRAGE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "SLEEPTALK",
+                "SUBSTITUTE",
+                "SURF",
+                "TAKEDOWN",
+                "TAUNT",
+                "WATERPULSE",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [
+                "BATONPASS",
+                "COUNTER",
+                "RAPIDSPIN"
+            ],
+            "height": 0.3,
+            "weight": 8.0,
+            "abilities": [
+                "COMMANDER"
+            ],
+            "hiddenAbilitie": [
+                "STORMDRAIN"
+            ],
+            "baseTotal": 475,
+            "baseStats": [
+                68,
+                50,
+                60,
+                82,
+                120,
+                95
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Curvada"
+        },
+        {
+            "generation": 9,
+            "primaryType": "DRAGON",
+            "secondaryType": "WATER",
+            "moves": [
+                [
+                    1,
+                    "SPLASH"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    6,
+                    "HARDEN"
+                ],
+                [
+                    12,
+                    "HELPINGHAND"
+                ],
+                [
+                    17,
+                    "WATERPULSE"
+                ],
+                [
+                    23,
+                    "SOAK"
+                ],
+                [
+                    28,
+                    "TAUNT"
+                ],
+                [
+                    34,
+                    "MEMENTO"
+                ],
+                [
+                    39,
+                    "MUDDYWATER"
+                ],
+                [
+                    43,
+                    "NASTYPLOT"
+                ],
+                [
+                    47,
+                    "MIRRORCOAT"
+                ],
+                [
+                    52,
+                    "DRAGONPULSE"
+                ]
+            ],
+            "tutorMoves": [
+                "BATONPASS",
+                "CHILLINGWATER",
+                "DRACOMETEOR",
+                "DRAGONCHEER",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "ENDURE",
+                "FACADE",
+                "GIGAIMPACT",
+                "HELPINGHAND",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICYWIND",
+                "LUNGE",
+                "MUDDYWATER",
+                "NASTYPLOT",
+                "OUTRAGE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "SLEEPTALK",
+                "SUBSTITUTE",
+                "SURF",
+                "TAKEDOWN",
+                "TAUNT",
+                "WATERPULSE",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [
+                "BATONPASS",
+                "COUNTER",
+                "RAPIDSPIN"
+            ],
+            "height": 0.3,
+            "weight": 8.0,
+            "abilities": [
+                "COMMANDER"
+            ],
+            "hiddenAbilitie": [
+                "STORMDRAIN"
+            ],
+            "baseTotal": 475,
+            "baseStats": [
+                68,
+                50,
+                60,
+                82,
+                120,
+                95
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Lánguida"
+        },
+        {
+            "generation": 9,
+            "primaryType": "DRAGON",
+            "secondaryType": "WATER",
+            "moves": [
+                [
+                    1,
+                    "SPLASH"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    6,
+                    "HARDEN"
+                ],
+                [
+                    12,
+                    "HELPINGHAND"
+                ],
+                [
+                    17,
+                    "WATERPULSE"
+                ],
+                [
+                    23,
+                    "SOAK"
+                ],
+                [
+                    28,
+                    "TAUNT"
+                ],
+                [
+                    34,
+                    "MEMENTO"
+                ],
+                [
+                    39,
+                    "MUDDYWATER"
+                ],
+                [
+                    43,
+                    "NASTYPLOT"
+                ],
+                [
+                    47,
+                    "MIRRORCOAT"
+                ],
+                [
+                    52,
+                    "DRAGONPULSE"
+                ]
+            ],
+            "tutorMoves": [
+                "BATONPASS",
+                "CHILLINGWATER",
+                "DRACOMETEOR",
+                "DRAGONCHEER",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "ENDURE",
+                "FACADE",
+                "GIGAIMPACT",
+                "HELPINGHAND",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICYWIND",
+                "LUNGE",
+                "MUDDYWATER",
+                "NASTYPLOT",
+                "OUTRAGE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "SLEEPTALK",
+                "SUBSTITUTE",
+                "SURF",
+                "TAKEDOWN",
+                "TAUNT",
+                "WATERPULSE",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [
+                "BATONPASS",
+                "COUNTER",
+                "RAPIDSPIN"
+            ],
+            "height": 0.3,
+            "weight": 8.0,
+            "abilities": [
+                "COMMANDER"
+            ],
+            "hiddenAbilitie": [
+                "STORMDRAIN"
+            ],
+            "baseTotal": 475,
+            "baseStats": [
+                68,
+                50,
+                60,
+                82,
+                120,
+                95
+            ],
+            "flags": [],
+            "form": 2,
+            "formName": "Forma Recta"
+        }
+    ],
+    "internationalPokedex": 978
+}

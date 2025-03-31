@@ -1,0 +1,503 @@
+{
+    "generation": 1,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "VISEGRIP"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            4,
+            "FOCUSENERGY"
+        ],
+        [
+            8,
+            "BIND"
+        ],
+        [
+            12,
+            "SEISMICTOSS"
+        ],
+        [
+            16,
+            "BUGBITE"
+        ],
+        [
+            20,
+            "STORMTHROW"
+        ],
+        [
+            24,
+            "DOUBLEHIT"
+        ],
+        [
+            28,
+            "VITALTHROW"
+        ],
+        [
+            32,
+            "XSCISSOR"
+        ],
+        [
+            36,
+            "STRENGTH"
+        ],
+        [
+            40,
+            "SWORDSDANCE"
+        ],
+        [
+            44,
+            "SUBMISSION"
+        ],
+        [
+            48,
+            "GUILLOTINE"
+        ],
+        [
+            52,
+            "SUPERPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BIND",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BUGBITE",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STRENGTH",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THIEF",
+        "THROATCHOP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "BUGBITE",
+        "CLOSECOMBAT",
+        "FEINT",
+        "FLAIL",
+        "FURYATTACK",
+        "QUICKATTACK",
+        "SUPERPOWER",
+        "THRASH"
+    ],
+    "height": 1.5,
+    "weight": 55.0,
+    "abilities": [
+        "HYPERCUTTER",
+        "MOLDBREAKER"
+    ],
+    "hiddenAbilitie": [
+        "MOXIE"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        65,
+        125,
+        100,
+        85,
+        55,
+        70
+    ],
+    "flags": [],
+    "name": "Pinsir",
+    "species": "PINSIR",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "BUG",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "VISEGRIP"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    4,
+                    "FOCUSENERGY"
+                ],
+                [
+                    8,
+                    "BIND"
+                ],
+                [
+                    12,
+                    "SEISMICTOSS"
+                ],
+                [
+                    16,
+                    "BUGBITE"
+                ],
+                [
+                    20,
+                    "STORMTHROW"
+                ],
+                [
+                    24,
+                    "DOUBLEHIT"
+                ],
+                [
+                    28,
+                    "VITALTHROW"
+                ],
+                [
+                    32,
+                    "XSCISSOR"
+                ],
+                [
+                    36,
+                    "STRENGTH"
+                ],
+                [
+                    40,
+                    "SWORDSDANCE"
+                ],
+                [
+                    44,
+                    "SUBMISSION"
+                ],
+                [
+                    48,
+                    "GUILLOTINE"
+                ],
+                [
+                    52,
+                    "SUPERPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BIND",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BUGBITE",
+                "BULKUP",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "CUT",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "KNOCKOFF",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROCKCLIMB",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNORE",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "STRENGTH",
+                "STRINGSHOT",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "THIEF",
+                "THROATCHOP",
+                "XSCISSOR"
+            ],
+            "eggMoves": [
+                "BUGBITE",
+                "CLOSECOMBAT",
+                "FEINT",
+                "FLAIL",
+                "FURYATTACK",
+                "QUICKATTACK",
+                "SUPERPOWER",
+                "THRASH"
+            ],
+            "height": 1.5,
+            "weight": 55.0,
+            "abilities": [
+                "HYPERCUTTER",
+                "MOLDBREAKER"
+            ],
+            "hiddenAbilitie": [
+                "MOXIE"
+            ],
+            "baseTotal": 500,
+            "baseStats": [
+                65,
+                125,
+                100,
+                85,
+                55,
+                70
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Pinsir"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "VISEGRIP"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    4,
+                    "FOCUSENERGY"
+                ],
+                [
+                    8,
+                    "BIND"
+                ],
+                [
+                    12,
+                    "SEISMICTOSS"
+                ],
+                [
+                    16,
+                    "BUGBITE"
+                ],
+                [
+                    20,
+                    "STORMTHROW"
+                ],
+                [
+                    24,
+                    "DOUBLEHIT"
+                ],
+                [
+                    28,
+                    "VITALTHROW"
+                ],
+                [
+                    32,
+                    "XSCISSOR"
+                ],
+                [
+                    36,
+                    "STRENGTH"
+                ],
+                [
+                    40,
+                    "SWORDSDANCE"
+                ],
+                [
+                    44,
+                    "SUBMISSION"
+                ],
+                [
+                    48,
+                    "GUILLOTINE"
+                ],
+                [
+                    52,
+                    "SUPERPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BIND",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BUGBITE",
+                "BULKUP",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "CUT",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "KNOCKOFF",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROCKCLIMB",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNORE",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "STRENGTH",
+                "STRINGSHOT",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "THIEF",
+                "THROATCHOP",
+                "XSCISSOR"
+            ],
+            "eggMoves": [
+                "BUGBITE",
+                "CLOSECOMBAT",
+                "FEINT",
+                "FLAIL",
+                "FURYATTACK",
+                "QUICKATTACK",
+                "SUPERPOWER",
+                "THRASH"
+            ],
+            "height": 1.7,
+            "weight": 59.0,
+            "abilities": [
+                "AERILATE"
+            ],
+            "hiddenAbilitie": [
+                "AERILATE"
+            ],
+            "baseTotal": 600,
+            "baseStats": [
+                65,
+                155,
+                120,
+                105,
+                65,
+                90
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Pinsir"
+        }
+    ],
+    "internationalPokedex": 127
+}

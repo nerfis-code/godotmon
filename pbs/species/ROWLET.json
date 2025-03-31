@@ -1,0 +1,432 @@
+{
+    "generation": 7,
+    "primaryType": "GRASS",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            3,
+            "LEAFAGE"
+        ],
+        [
+            6,
+            "ASTONISH"
+        ],
+        [
+            9,
+            "PECK"
+        ],
+        [
+            12,
+            "SHADOWSNEAK"
+        ],
+        [
+            15,
+            "RAZORLEAF"
+        ],
+        [
+            18,
+            "SYNTHESIS"
+        ],
+        [
+            21,
+            "PLUCK"
+        ],
+        [
+            24,
+            "NASTYPLOT"
+        ],
+        [
+            27,
+            "SUCKERPUNCH"
+        ],
+        [
+            30,
+            "LEAFBLADE"
+        ],
+        [
+            33,
+            "FEATHERDANCE"
+        ],
+        [
+            36,
+            "BRAVEBIRD"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BATONPASS",
+        "BRAVEBIRD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GRASSYGLIDE",
+        "HIDDENPOWER",
+        "LEAFBLADE",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWCLAW",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TOXIC",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "CONFUSERAY",
+        "DEFOG",
+        "DOUBLETEAM",
+        "KNOCKOFF"
+    ],
+    "height": 0.3,
+    "weight": 1.5,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "LONGREACH"
+    ],
+    "baseTotal": 320,
+    "baseStats": [
+        68,
+        55,
+        55,
+        42,
+        50,
+        50
+    ],
+    "flags": [],
+    "name": "Rowlet",
+    "species": "ROWLET",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 64,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [
+        {
+            "generation": 7,
+            "primaryType": "GRASS",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    3,
+                    "LEAFAGE"
+                ],
+                [
+                    6,
+                    "ASTONISH"
+                ],
+                [
+                    9,
+                    "PECK"
+                ],
+                [
+                    12,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    15,
+                    "RAZORLEAF"
+                ],
+                [
+                    18,
+                    "SYNTHESIS"
+                ],
+                [
+                    21,
+                    "PLUCK"
+                ],
+                [
+                    24,
+                    "NASTYPLOT"
+                ],
+                [
+                    27,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    30,
+                    "LEAFBLADE"
+                ],
+                [
+                    33,
+                    "FEATHERDANCE"
+                ],
+                [
+                    36,
+                    "BRAVEBIRD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BATONPASS",
+                "BRAVEBIRD",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "GRASSPLEDGE",
+                "GRASSYGLIDE",
+                "HIDDENPOWER",
+                "LEAFBLADE",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWCLAW",
+                "SKYATTACK",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "TOXIC",
+                "WORKUP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "CONFUSERAY",
+                "DEFOG",
+                "DOUBLETEAM",
+                "KNOCKOFF"
+            ],
+            "height": 0.3,
+            "weight": 1.5,
+            "abilities": [
+                "OVERGROW"
+            ],
+            "hiddenAbilitie": [
+                "LONGREACH"
+            ],
+            "baseTotal": 320,
+            "baseStats": [
+                68,
+                55,
+                55,
+                42,
+                50,
+                50
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Rowlet"
+        },
+        {
+            "generation": 8,
+            "primaryType": "GRASS",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    3,
+                    "LEAFAGE"
+                ],
+                [
+                    6,
+                    "ASTONISH"
+                ],
+                [
+                    9,
+                    "PECK"
+                ],
+                [
+                    12,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    15,
+                    "RAZORLEAF"
+                ],
+                [
+                    18,
+                    "SYNTHESIS"
+                ],
+                [
+                    21,
+                    "PLUCK"
+                ],
+                [
+                    24,
+                    "NASTYPLOT"
+                ],
+                [
+                    27,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    30,
+                    "LEAFBLADE"
+                ],
+                [
+                    33,
+                    "FEATHERDANCE"
+                ],
+                [
+                    36,
+                    "BRAVEBIRD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BATONPASS",
+                "BRAVEBIRD",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "GRASSPLEDGE",
+                "GRASSYGLIDE",
+                "HIDDENPOWER",
+                "LEAFBLADE",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWCLAW",
+                "SKYATTACK",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "TOXIC",
+                "WORKUP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "CONFUSERAY",
+                "DEFOG",
+                "DOUBLETEAM",
+                "KNOCKOFF"
+            ],
+            "height": 0.3,
+            "weight": 1.5,
+            "abilities": [
+                "OVERGROW"
+            ],
+            "hiddenAbilitie": [
+                "LONGREACH"
+            ],
+            "baseTotal": 320,
+            "baseStats": [
+                68,
+                55,
+                55,
+                42,
+                50,
+                50
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Rowlet"
+        }
+    ],
+    "internationalPokedex": 722
+}

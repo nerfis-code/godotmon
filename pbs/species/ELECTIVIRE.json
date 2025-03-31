@@ -1,0 +1,184 @@
+{
+    "generation": 4,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WILDCHARGE"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "CHARGE"
+        ],
+        [
+            12,
+            "SWIFT"
+        ],
+        [
+            16,
+            "SHOCKWAVE"
+        ],
+        [
+            20,
+            "THUNDERWAVE"
+        ],
+        [
+            24,
+            "SCREECH"
+        ],
+        [
+            28,
+            "THUNDERPUNCH"
+        ],
+        [
+            34,
+            "DISCHARGE"
+        ],
+        [
+            40,
+            "LOWKICK"
+        ],
+        [
+            46,
+            "THUNDERBOLT"
+        ],
+        [
+            52,
+            "LIGHTSCREEN"
+        ],
+        [
+            58,
+            "THUNDER"
+        ],
+        [
+            64,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DARKESTLARIAT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MAGNETRISE",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TORMENT",
+        "UPROAR",
+        "VOLTSWITCH",
+        "WEATHERBALL",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 138.6,
+    "abilities": [
+        "MOTORDRIVE"
+    ],
+    "hiddenAbilitie": [
+        "VITALSPIRIT"
+    ],
+    "baseTotal": 540,
+    "baseStats": [
+        75,
+        123,
+        67,
+        95,
+        95,
+        85
+    ],
+    "flags": [],
+    "name": "Electivire",
+    "species": "ELECTIVIRE",
+    "catchRate": 30,
+    "happiness": 50,
+    "baseExp": 270,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 25,
+    "forms": [],
+    "internationalPokedex": 466
+}

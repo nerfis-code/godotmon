@@ -1,0 +1,209 @@
+{
+    "generation": 8,
+    "primaryType": "DARK",
+    "secondaryType": "NORMAL",
+    "moves": [
+        [
+            1,
+            "OBSTRUCT"
+        ],
+        [
+            1,
+            "CROSSCHOP"
+        ],
+        [
+            1,
+            "SUBMISSION"
+        ],
+        [
+            1,
+            "NIGHTSLASH"
+        ],
+        [
+            1,
+            "SWITCHEROO"
+        ],
+        [
+            1,
+            "PINMISSILE"
+        ],
+        [
+            1,
+            "BABYDOLLEYES"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "LICK"
+        ],
+        [
+            9,
+            "SNARL"
+        ],
+        [
+            12,
+            "HEADBUTT"
+        ],
+        [
+            15,
+            "HONECLAWS"
+        ],
+        [
+            18,
+            "FURYSWIPES"
+        ],
+        [
+            23,
+            "REST"
+        ],
+        [
+            28,
+            "TAKEDOWN"
+        ],
+        [
+            35,
+            "SCARYFACE"
+        ],
+        [
+            42,
+            "COUNTER"
+        ],
+        [
+            49,
+            "TAUNT"
+        ],
+        [
+            56,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CROSSPOISON",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "IRONTAIL",
+        "LASHOUT",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PINMISSILE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROUND",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TRICK",
+        "WHIRLPOOL",
+        "WORKUP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "KNOCKOFF",
+        "PARTINGSHOT",
+        "QUICKGUARD"
+    ],
+    "height": 1.6,
+    "weight": 46.0,
+    "abilities": [
+        "RECKLESS",
+        "GUTS"
+    ],
+    "hiddenAbilitie": [
+        "DEFIANT"
+    ],
+    "baseTotal": 520,
+    "baseStats": [
+        93,
+        90,
+        101,
+        95,
+        60,
+        81
+    ],
+    "flags": [
+        "DefaultForm_1",
+        "InheritFormWithEverStone"
+    ],
+    "name": "Obstagoon",
+    "species": "OBSTAGOON",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 260,
+    "evs": [
+        "DEFENSE",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 862
+}

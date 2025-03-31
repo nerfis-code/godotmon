@@ -1,0 +1,178 @@
+{
+    "generation": 5,
+    "primaryType": "WATER",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "DRAINPUNCH"
+        ],
+        [
+            1,
+            "GASTROACID"
+        ],
+        [
+            1,
+            "ECHOEDVOICE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "ACID"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            12,
+            "MUDSHOT"
+        ],
+        [
+            16,
+            "ROUND"
+        ],
+        [
+            20,
+            "BUBBLEBEAM"
+        ],
+        [
+            24,
+            "FLAIL"
+        ],
+        [
+            30,
+            "UPROAR"
+        ],
+        [
+            39,
+            "AQUARING"
+        ],
+        [
+            46,
+            "HYPERVOICE"
+        ],
+        [
+            54,
+            "MUDDYWATER"
+        ],
+        [
+            62,
+            "RAINDANCE"
+        ],
+        [
+            70,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INFESTATION",
+        "KNOCKOFF",
+        "LIQUIDATION",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "POWERWHIP",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "UPROAR",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "WATERPULSE",
+        "WEATHERBALL"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 62.0,
+    "abilities": [
+        "SWIFTSWIM",
+        "POISONTOUCH"
+    ],
+    "hiddenAbilitie": [
+        "WATERABSORB"
+    ],
+    "baseTotal": 509,
+    "baseStats": [
+        105,
+        95,
+        75,
+        74,
+        85,
+        75
+    ],
+    "flags": [],
+    "name": "Seismitoad",
+    "species": "SEISMITOAD",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 255,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 537
+}

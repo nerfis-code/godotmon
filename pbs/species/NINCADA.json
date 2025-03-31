@@ -1,0 +1,126 @@
+{
+    "generation": 3,
+    "primaryType": "BUG",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            5,
+            "HARDEN"
+        ],
+        [
+            10,
+            "FALSESWIPE"
+        ],
+        [
+            15,
+            "MUDSLAP"
+        ],
+        [
+            21,
+            "ABSORB"
+        ],
+        [
+            25,
+            "METALCLAW"
+        ],
+        [
+            30,
+            "FURYSWIPES"
+        ],
+        [
+            35,
+            "MINDREADER"
+        ],
+        [
+            40,
+            "DIG"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "LEECHLIFE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "BUGBITE",
+        "FINALGAMBIT",
+        "FLAIL",
+        "GUST",
+        "NIGHTSLASH"
+    ],
+    "height": 0.5,
+    "weight": 5.5,
+    "abilities": [
+        "COMPOUNDEYES"
+    ],
+    "hiddenAbilitie": [
+        "RUNAWAY"
+    ],
+    "baseTotal": 266,
+    "baseStats": [
+        31,
+        45,
+        90,
+        40,
+        30,
+        30
+    ],
+    "flags": [],
+    "name": "Nincada",
+    "species": "NINCADA",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 53,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 290
+}

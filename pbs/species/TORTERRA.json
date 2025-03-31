@@ -1,0 +1,172 @@
+{
+    "generation": 4,
+    "primaryType": "GRASS",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            -1,
+            "EARTHQUAKE"
+        ],
+        [
+            1,
+            "WOODHAMMER"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "RAZORLEAF"
+        ],
+        [
+            6,
+            "LEAFAGE"
+        ],
+        [
+            10,
+            "GROWTH"
+        ],
+        [
+            17,
+            "CURSE"
+        ],
+        [
+            22,
+            "BITE"
+        ],
+        [
+            27,
+            "MEGADRAIN"
+        ],
+        [
+            33,
+            "LEECHSEED"
+        ],
+        [
+            39,
+            "SYNTHESIS"
+        ],
+        [
+            45,
+            "CRUNCH"
+        ],
+        [
+            51,
+            "GIGADRAIN"
+        ],
+        [
+            57,
+            "LEAFSTORM"
+        ],
+        [
+            63,
+            "HEADLONGRUSH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLOCK",
+        "BULLDOZE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRENZYPLANT",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OUTRAGE",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 2.2,
+    "weight": 310.0,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "SHELLARMOR"
+    ],
+    "baseTotal": 525,
+    "baseStats": [
+        95,
+        109,
+        105,
+        56,
+        75,
+        85
+    ],
+    "flags": [],
+    "name": "Torterra",
+    "species": "TORTERRA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 263,
+    "evs": [
+        "ATTACK",
+        2,
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 389
+}

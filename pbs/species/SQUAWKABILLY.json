@@ -1,0 +1,682 @@
+{
+    "generation": 9,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "MIMIC"
+        ],
+        [
+            6,
+            "QUICKATTACK"
+        ],
+        [
+            10,
+            "TORMENT"
+        ],
+        [
+            13,
+            "AERIALACE"
+        ],
+        [
+            17,
+            "FURYATTACK"
+        ],
+        [
+            20,
+            "TAUNT"
+        ],
+        [
+            24,
+            "UPROAR"
+        ],
+        [
+            27,
+            "COPYCAT"
+        ],
+        [
+            30,
+            "FLY"
+        ],
+        [
+            34,
+            "FACADE"
+        ],
+        [
+            38,
+            "SWAGGER"
+        ],
+        [
+            42,
+            "BRAVEBIRD"
+        ],
+        [
+            47,
+            "ROOST"
+        ],
+        [
+            52,
+            "REVERSAL"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "BRAVEBIRD",
+        "DOUBLEEDGE",
+        "DUALWINGBEAT",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FEATHERDANCE",
+        "FLY",
+        "FOULPLAY",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HURRICANE",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "LASHOUT",
+        "POUNCE",
+        "PROTECT",
+        "REST",
+        "REVERSAL",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAILWIND",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "UPROAR",
+        "UTURN"
+    ],
+    "eggMoves": [
+        "DOUBLEEDGE",
+        "FINALGAMBIT",
+        "FLATTER",
+        "PARTINGSHOT"
+    ],
+    "height": 0.6,
+    "weight": 2.4,
+    "abilities": [
+        "INTIMIDATE",
+        "HUSTLE"
+    ],
+    "hiddenAbilitie": [
+        "GUTS"
+    ],
+    "baseTotal": 417,
+    "baseStats": [
+        82,
+        96,
+        51,
+        92,
+        45,
+        51
+    ],
+    "flags": [],
+    "name": "Squawkabilly",
+    "species": "SQUAWKABILLY",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 146,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 9,
+            "primaryType": "NORMAL",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "MIMIC"
+                ],
+                [
+                    6,
+                    "QUICKATTACK"
+                ],
+                [
+                    10,
+                    "TORMENT"
+                ],
+                [
+                    13,
+                    "AERIALACE"
+                ],
+                [
+                    17,
+                    "FURYATTACK"
+                ],
+                [
+                    20,
+                    "TAUNT"
+                ],
+                [
+                    24,
+                    "UPROAR"
+                ],
+                [
+                    27,
+                    "COPYCAT"
+                ],
+                [
+                    30,
+                    "FLY"
+                ],
+                [
+                    34,
+                    "FACADE"
+                ],
+                [
+                    38,
+                    "SWAGGER"
+                ],
+                [
+                    42,
+                    "BRAVEBIRD"
+                ],
+                [
+                    47,
+                    "ROOST"
+                ],
+                [
+                    52,
+                    "REVERSAL"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRCUTTER",
+                "AIRSLASH",
+                "BRAVEBIRD",
+                "DOUBLEEDGE",
+                "DUALWINGBEAT",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FEATHERDANCE",
+                "FLY",
+                "FOULPLAY",
+                "GIGAIMPACT",
+                "HEATWAVE",
+                "HELPINGHAND",
+                "HURRICANE",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "LASHOUT",
+                "POUNCE",
+                "PROTECT",
+                "REST",
+                "REVERSAL",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAILWIND",
+                "TAKEDOWN",
+                "TAUNT",
+                "THIEF",
+                "UPROAR",
+                "UTURN"
+            ],
+            "eggMoves": [
+                "DOUBLEEDGE",
+                "FINALGAMBIT",
+                "FLATTER",
+                "PARTINGSHOT"
+            ],
+            "height": 0.6,
+            "weight": 2.4,
+            "abilities": [
+                "INTIMIDATE",
+                "HUSTLE"
+            ],
+            "hiddenAbilitie": [
+                "GUTS"
+            ],
+            "baseTotal": 417,
+            "baseStats": [
+                82,
+                96,
+                51,
+                92,
+                45,
+                51
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Plumaje Verde"
+        },
+        {
+            "generation": 9,
+            "primaryType": "NORMAL",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "MIMIC"
+                ],
+                [
+                    6,
+                    "QUICKATTACK"
+                ],
+                [
+                    10,
+                    "TORMENT"
+                ],
+                [
+                    13,
+                    "AERIALACE"
+                ],
+                [
+                    17,
+                    "FURYATTACK"
+                ],
+                [
+                    20,
+                    "TAUNT"
+                ],
+                [
+                    24,
+                    "UPROAR"
+                ],
+                [
+                    27,
+                    "COPYCAT"
+                ],
+                [
+                    30,
+                    "FLY"
+                ],
+                [
+                    34,
+                    "FACADE"
+                ],
+                [
+                    38,
+                    "SWAGGER"
+                ],
+                [
+                    42,
+                    "BRAVEBIRD"
+                ],
+                [
+                    47,
+                    "ROOST"
+                ],
+                [
+                    52,
+                    "REVERSAL"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRCUTTER",
+                "AIRSLASH",
+                "BRAVEBIRD",
+                "DOUBLEEDGE",
+                "DUALWINGBEAT",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FEATHERDANCE",
+                "FLY",
+                "FOULPLAY",
+                "GIGAIMPACT",
+                "HEATWAVE",
+                "HELPINGHAND",
+                "HURRICANE",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "LASHOUT",
+                "POUNCE",
+                "PROTECT",
+                "REST",
+                "REVERSAL",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAILWIND",
+                "TAKEDOWN",
+                "TAUNT",
+                "THIEF",
+                "UPROAR",
+                "UTURN"
+            ],
+            "eggMoves": [
+                "DOUBLEEDGE",
+                "FINALGAMBIT",
+                "FLATTER",
+                "PARTINGSHOT"
+            ],
+            "height": 0.6,
+            "weight": 2.4,
+            "abilities": [
+                "INTIMIDATE",
+                "HUSTLE"
+            ],
+            "hiddenAbilitie": [
+                "GUTS"
+            ],
+            "baseTotal": 417,
+            "baseStats": [
+                82,
+                96,
+                51,
+                92,
+                45,
+                51
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Plumaje Azul"
+        },
+        {
+            "generation": 9,
+            "primaryType": "NORMAL",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "MIMIC"
+                ],
+                [
+                    6,
+                    "QUICKATTACK"
+                ],
+                [
+                    10,
+                    "TORMENT"
+                ],
+                [
+                    13,
+                    "AERIALACE"
+                ],
+                [
+                    17,
+                    "FURYATTACK"
+                ],
+                [
+                    20,
+                    "TAUNT"
+                ],
+                [
+                    24,
+                    "UPROAR"
+                ],
+                [
+                    27,
+                    "COPYCAT"
+                ],
+                [
+                    30,
+                    "FLY"
+                ],
+                [
+                    34,
+                    "FACADE"
+                ],
+                [
+                    38,
+                    "SWAGGER"
+                ],
+                [
+                    42,
+                    "BRAVEBIRD"
+                ],
+                [
+                    47,
+                    "ROOST"
+                ],
+                [
+                    52,
+                    "REVERSAL"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRCUTTER",
+                "AIRSLASH",
+                "BRAVEBIRD",
+                "DOUBLEEDGE",
+                "DUALWINGBEAT",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FEATHERDANCE",
+                "FLY",
+                "FOULPLAY",
+                "GIGAIMPACT",
+                "HEATWAVE",
+                "HELPINGHAND",
+                "HURRICANE",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "LASHOUT",
+                "POUNCE",
+                "PROTECT",
+                "REST",
+                "REVERSAL",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAILWIND",
+                "TAKEDOWN",
+                "TAUNT",
+                "THIEF",
+                "UPROAR",
+                "UTURN"
+            ],
+            "eggMoves": [
+                "DOUBLEEDGE",
+                "FINALGAMBIT",
+                "FLATTER",
+                "PARTINGSHOT"
+            ],
+            "height": 0.6,
+            "weight": 2.4,
+            "abilities": [
+                "INTIMIDATE",
+                "HUSTLE"
+            ],
+            "hiddenAbilitie": [
+                "SHEERFORCE"
+            ],
+            "baseTotal": 417,
+            "baseStats": [
+                82,
+                96,
+                51,
+                92,
+                45,
+                51
+            ],
+            "flags": [],
+            "form": 2,
+            "formName": "Plumaje Amarillo"
+        },
+        {
+            "generation": 9,
+            "primaryType": "NORMAL",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "MIMIC"
+                ],
+                [
+                    6,
+                    "QUICKATTACK"
+                ],
+                [
+                    10,
+                    "TORMENT"
+                ],
+                [
+                    13,
+                    "AERIALACE"
+                ],
+                [
+                    17,
+                    "FURYATTACK"
+                ],
+                [
+                    20,
+                    "TAUNT"
+                ],
+                [
+                    24,
+                    "UPROAR"
+                ],
+                [
+                    27,
+                    "COPYCAT"
+                ],
+                [
+                    30,
+                    "FLY"
+                ],
+                [
+                    34,
+                    "FACADE"
+                ],
+                [
+                    38,
+                    "SWAGGER"
+                ],
+                [
+                    42,
+                    "BRAVEBIRD"
+                ],
+                [
+                    47,
+                    "ROOST"
+                ],
+                [
+                    52,
+                    "REVERSAL"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRCUTTER",
+                "AIRSLASH",
+                "BRAVEBIRD",
+                "DOUBLEEDGE",
+                "DUALWINGBEAT",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FEATHERDANCE",
+                "FLY",
+                "FOULPLAY",
+                "GIGAIMPACT",
+                "HEATWAVE",
+                "HELPINGHAND",
+                "HURRICANE",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "LASHOUT",
+                "POUNCE",
+                "PROTECT",
+                "REST",
+                "REVERSAL",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAILWIND",
+                "TAKEDOWN",
+                "TAUNT",
+                "THIEF",
+                "UPROAR",
+                "UTURN"
+            ],
+            "eggMoves": [
+                "DOUBLEEDGE",
+                "FINALGAMBIT",
+                "FLATTER",
+                "PARTINGSHOT"
+            ],
+            "height": 0.6,
+            "weight": 2.4,
+            "abilities": [
+                "INTIMIDATE",
+                "HUSTLE"
+            ],
+            "hiddenAbilitie": [
+                "SHEERFORCE"
+            ],
+            "baseTotal": 417,
+            "baseStats": [
+                82,
+                96,
+                51,
+                92,
+                45,
+                51
+            ],
+            "flags": [],
+            "form": 3,
+            "formName": "Plumaje Blanco"
+        }
+    ],
+    "internationalPokedex": 931
+}

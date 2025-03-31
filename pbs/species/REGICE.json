@@ -1,0 +1,176 @@
+{
+    "generation": 3,
+    "primaryType": "ICE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "CHARGEBEAM"
+        ],
+        [
+            1,
+            "ICYWIND"
+        ],
+        [
+            6,
+            "BULLDOZE"
+        ],
+        [
+            12,
+            "ANCIENTPOWER"
+        ],
+        [
+            18,
+            "STOMP"
+        ],
+        [
+            24,
+            "ICEBEAM"
+        ],
+        [
+            30,
+            "CURSE"
+        ],
+        [
+            36,
+            "AMNESIA"
+        ],
+        [
+            42,
+            "HAMMERARM"
+        ],
+        [
+            48,
+            "BLIZZARD"
+        ],
+        [
+            54,
+            "SUPERPOWER"
+        ],
+        [
+            60,
+            "LOCKON"
+        ],
+        [
+            66,
+            "ZAPCANNON"
+        ],
+        [
+            72,
+            "HYPERBEAM"
+        ],
+        [
+            78,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "AURORAVEIL",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASHCANNON",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HAIL",
+        "HEADBUTT",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONHEAD",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SELFDESTRUCT",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 175.0,
+    "abilities": [
+        "CLEARBODY"
+    ],
+    "hiddenAbilitie": [
+        "ICEBODY"
+    ],
+    "baseTotal": 580,
+    "baseStats": [
+        80,
+        50,
+        100,
+        50,
+        100,
+        200
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Regice",
+    "species": "REGICE",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 378
+}

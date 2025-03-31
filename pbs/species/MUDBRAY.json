@@ -1,0 +1,141 @@
+{
+    "generation": 7,
+    "primaryType": "GROUND",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "ROCKSMASH"
+        ],
+        [
+            4,
+            "IRONDEFENSE"
+        ],
+        [
+            8,
+            "DOUBLEKICK"
+        ],
+        [
+            12,
+            "BULLDOZE"
+        ],
+        [
+            16,
+            "STOMP"
+        ],
+        [
+            20,
+            "STRENGTH"
+        ],
+        [
+            24,
+            "COUNTER"
+        ],
+        [
+            28,
+            "HIGHHORSEPOWER"
+        ],
+        [
+            32,
+            "HEAVYSLAM"
+        ],
+        [
+            36,
+            "EARTHQUAKE"
+        ],
+        [
+            40,
+            "MEGAKICK"
+        ],
+        [
+            44,
+            "SUPERPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TOXIC"
+    ],
+    "eggMoves": [
+        "DOUBLEEDGE",
+        "FISSURE",
+        "ROAR",
+        "SMACKDOWN"
+    ],
+    "height": 1.0,
+    "weight": 110.0,
+    "abilities": [
+        "OWNTEMPO",
+        "STAMINA"
+    ],
+    "hiddenAbilitie": [
+        "INNERFOCUS"
+    ],
+    "baseTotal": 385,
+    "baseStats": [
+        70,
+        100,
+        70,
+        45,
+        45,
+        55
+    ],
+    "flags": [],
+    "name": "Mudbray",
+    "species": "MUDBRAY",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 77,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 749
+}

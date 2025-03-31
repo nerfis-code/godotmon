@@ -1,0 +1,154 @@
+{
+    "generation": 3,
+    "primaryType": "DRAGON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            5,
+            "BITE"
+        ],
+        [
+            10,
+            "DRAGONBREATH"
+        ],
+        [
+            15,
+            "HEADBUTT"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            25,
+            "CRUNCH"
+        ],
+        [
+            31,
+            "DRAGONCLAW"
+        ],
+        [
+            35,
+            "ZENHEADBUTT"
+        ],
+        [
+            40,
+            "FOCUSENERGY"
+        ],
+        [
+            45,
+            "FLAMETHROWER"
+        ],
+        [
+            50,
+            "OUTRAGE"
+        ],
+        [
+            55,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FLAMETHROWER",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYDROPUMP",
+        "HYPERVOICE",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TWISTER",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "DEFENSECURL",
+        "DRAGONDANCE",
+        "DRAGONRUSH",
+        "FIREFANG",
+        "HYDROPUMP",
+        "THRASH",
+        "TWISTER"
+    ],
+    "height": 0.6,
+    "weight": 42.1,
+    "abilities": [
+        "ROCKHEAD"
+    ],
+    "hiddenAbilitie": [
+        "SHEERFORCE"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        45,
+        75,
+        60,
+        50,
+        40,
+        30
+    ],
+    "flags": [],
+    "name": "Bagon",
+    "species": "BAGON",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 60,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 371
+}

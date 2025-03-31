@@ -1,0 +1,147 @@
+{
+    "generation": 5,
+    "primaryType": "ICE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            4,
+            "TAUNT"
+        ],
+        [
+            8,
+            "MIST"
+        ],
+        [
+            12,
+            "ICYWIND"
+        ],
+        [
+            16,
+            "AVALANCHE"
+        ],
+        [
+            20,
+            "HAIL"
+        ],
+        [
+            24,
+            "ICICLESPEAR"
+        ],
+        [
+            28,
+            "UPROAR"
+        ],
+        [
+            32,
+            "ACIDARMOR"
+        ],
+        [
+            36,
+            "MIRRORCOAT"
+        ],
+        [
+            40,
+            "ICEBEAM"
+        ],
+        [
+            44,
+            "BLIZZARD"
+        ],
+        [
+            48,
+            "SHEERCOLD"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASHCANNON",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TAUNT",
+        "TOXIC",
+        "UPROAR",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "AURORAVEIL",
+        "AUTOTOMIZE",
+        "EXPLOSION",
+        "ICESHARD",
+        "ICICLECRASH",
+        "MAGNETRISE"
+    ],
+    "height": 0.4,
+    "weight": 5.7,
+    "abilities": [
+        "ICEBODY",
+        "SNOWCLOAK"
+    ],
+    "hiddenAbilitie": [
+        "WEAKARMOR"
+    ],
+    "baseTotal": 305,
+    "baseStats": [
+        36,
+        50,
+        50,
+        44,
+        65,
+        60
+    ],
+    "flags": [],
+    "name": "Vanillite",
+    "species": "VANILLITE",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 582
+}

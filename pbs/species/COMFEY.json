@@ -1,0 +1,192 @@
+{
+    "generation": 7,
+    "primaryType": "FAIRY",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            3,
+            "VINEWHIP"
+        ],
+        [
+            6,
+            "HELPINGHAND"
+        ],
+        [
+            9,
+            "DRAININGKISS"
+        ],
+        [
+            12,
+            "FLOWERSHIELD"
+        ],
+        [
+            12,
+            "CHARM"
+        ],
+        [
+            15,
+            "MAGICALLEAF"
+        ],
+        [
+            18,
+            "SYNTHESIS"
+        ],
+        [
+            21,
+            "LEECHSEED"
+        ],
+        [
+            24,
+            "GRASSKNOT"
+        ],
+        [
+            27,
+            "SWEETKISS"
+        ],
+        [
+            30,
+            "FLORALHEALING"
+        ],
+        [
+            33,
+            "PETALBLIZZARD"
+        ],
+        [
+            36,
+            "AROMATHERAPY"
+        ],
+        [
+            36,
+            "BIND"
+        ],
+        [
+            39,
+            "PLAYROUGH"
+        ],
+        [
+            42,
+            "SWEETSCENT"
+        ],
+        [
+            45,
+            "PETALDANCE"
+        ],
+        [
+            48,
+            "GRASSYTERRAIN"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AFTERYOU",
+        "ALLYSWITCH",
+        "AMNESIA",
+        "ATTRACT",
+        "BIND",
+        "BULLETSEED",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MAGICCOAT",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAINSPLIT",
+        "PLAYROUGH",
+        "POLLENPUFF",
+        "PROTECT",
+        "PSYCHUP",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "TAILWIND",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "UTURN",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "AFTERYOU",
+        "LEAFTORNADO",
+        "WORRYSEED"
+    ],
+    "height": 0.1,
+    "weight": 0.3,
+    "abilities": [
+        "FLOWERVEIL",
+        "TRIAGE"
+    ],
+    "hiddenAbilitie": [
+        "NATURALCURE"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        51,
+        52,
+        90,
+        100,
+        82,
+        110
+    ],
+    "flags": [],
+    "name": "Comfey",
+    "species": "COMFEY",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 764
+}

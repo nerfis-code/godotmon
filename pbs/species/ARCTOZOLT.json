@@ -1,0 +1,147 @@
+{
+    "generation": 8,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            7,
+            "CHARGE"
+        ],
+        [
+            14,
+            "ECHOEDVOICE"
+        ],
+        [
+            21,
+            "ANCIENTPOWER"
+        ],
+        [
+            28,
+            "PLUCK"
+        ],
+        [
+            35,
+            "AVALANCHE"
+        ],
+        [
+            42,
+            "FREEZEDRY"
+        ],
+        [
+            49,
+            "SLAM"
+        ],
+        [
+            56,
+            "DISCHARGE"
+        ],
+        [
+            63,
+            "BOLTBEAK"
+        ],
+        [
+            70,
+            "ICICLECRASH"
+        ],
+        [
+            77,
+            "BLIZZARD"
+        ]
+    ],
+    "tutorMoves": [
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONTAIL",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TOXIC",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 2.3,
+    "weight": 150.0,
+    "abilities": [
+        "VOLTABSORB",
+        "STATIC"
+    ],
+    "hiddenAbilitie": [
+        "SLUSHRUSH"
+    ],
+    "baseTotal": 505,
+    "baseStats": [
+        90,
+        100,
+        90,
+        55,
+        90,
+        80
+    ],
+    "flags": [],
+    "name": "Arctozolt",
+    "species": "ARCTOZOLT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 177,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 881
+}

@@ -1,0 +1,522 @@
+{
+    "generation": 8,
+    "primaryType": "DARK",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            -1,
+            "SPIRITBREAK"
+        ],
+        [
+            1,
+            "FALSESURRENDER"
+        ],
+        [
+            1,
+            "BULKUP"
+        ],
+        [
+            1,
+            "POWERUPPUNCH"
+        ],
+        [
+            1,
+            "FAKEOUT"
+        ],
+        [
+            1,
+            "CONFIDE"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "FLATTER"
+        ],
+        [
+            12,
+            "FAKETEARS"
+        ],
+        [
+            16,
+            "ASSURANCE"
+        ],
+        [
+            20,
+            "SWAGGER"
+        ],
+        [
+            24,
+            "SUCKERPUNCH"
+        ],
+        [
+            28,
+            "TORMENT"
+        ],
+        [
+            35,
+            "DARKPULSE"
+        ],
+        [
+            40,
+            "NASTYPLOT"
+        ],
+        [
+            48,
+            "PLAYROUGH"
+        ],
+        [
+            56,
+            "FOULPLAY"
+        ],
+        [
+            64,
+            "HAMMERARM"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BURNINGJEALOUSY",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKESTLARIAT",
+        "DARKPULSE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DRAINPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREPUNCH",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "LASHOUT",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "POWERSWAP",
+        "POWERWHIP",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRICK",
+        "UPROAR",
+        "WONDERROOM"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 61.0,
+    "abilities": [
+        "PRANKSTER",
+        "FRISK"
+    ],
+    "hiddenAbilitie": [
+        "PICKPOCKET"
+    ],
+    "baseTotal": 510,
+    "baseStats": [
+        95,
+        120,
+        65,
+        60,
+        95,
+        75
+    ],
+    "flags": [],
+    "name": "Grimmsnarl",
+    "species": "GRIMMSNARL",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 255,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 0,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "DARK",
+            "secondaryType": "FAIRY",
+            "moves": [
+                [
+                    -1,
+                    "SPIRITBREAK"
+                ],
+                [
+                    1,
+                    "FALSESURRENDER"
+                ],
+                [
+                    1,
+                    "BULKUP"
+                ],
+                [
+                    1,
+                    "POWERUPPUNCH"
+                ],
+                [
+                    1,
+                    "FAKEOUT"
+                ],
+                [
+                    1,
+                    "CONFIDE"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    1,
+                    "FLATTER"
+                ],
+                [
+                    12,
+                    "FAKETEARS"
+                ],
+                [
+                    16,
+                    "ASSURANCE"
+                ],
+                [
+                    20,
+                    "SWAGGER"
+                ],
+                [
+                    24,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    28,
+                    "TORMENT"
+                ],
+                [
+                    35,
+                    "DARKPULSE"
+                ],
+                [
+                    40,
+                    "NASTYPLOT"
+                ],
+                [
+                    48,
+                    "PLAYROUGH"
+                ],
+                [
+                    56,
+                    "FOULPLAY"
+                ],
+                [
+                    64,
+                    "HAMMERARM"
+                ]
+            ],
+            "tutorMoves": [
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULKUP",
+                "BURNINGJEALOUSY",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DARKESTLARIAT",
+                "DARKPULSE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "DRAINPUNCH",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FIREPUNCH",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEPUNCH",
+                "LASHOUT",
+                "LEECHLIFE",
+                "LIGHTSCREEN",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "METRONOME",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PLAYROUGH",
+                "POWERSWAP",
+                "POWERWHIP",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SWAGGER",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "TOXIC",
+                "TRICK",
+                "UPROAR",
+                "WONDERROOM"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 61.0,
+            "abilities": [
+                "PRANKSTER",
+                "FRISK"
+            ],
+            "hiddenAbilitie": [
+                "PICKPOCKET"
+            ],
+            "baseTotal": 510,
+            "baseStats": [
+                95,
+                120,
+                65,
+                60,
+                95,
+                75
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Grimmsnarl"
+        },
+        {
+            "generation": 8,
+            "primaryType": "DARK",
+            "secondaryType": "FAIRY",
+            "moves": [
+                [
+                    -1,
+                    "SPIRITBREAK"
+                ],
+                [
+                    1,
+                    "FALSESURRENDER"
+                ],
+                [
+                    1,
+                    "BULKUP"
+                ],
+                [
+                    1,
+                    "POWERUPPUNCH"
+                ],
+                [
+                    1,
+                    "FAKEOUT"
+                ],
+                [
+                    1,
+                    "CONFIDE"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    1,
+                    "FLATTER"
+                ],
+                [
+                    12,
+                    "FAKETEARS"
+                ],
+                [
+                    16,
+                    "ASSURANCE"
+                ],
+                [
+                    20,
+                    "SWAGGER"
+                ],
+                [
+                    24,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    28,
+                    "TORMENT"
+                ],
+                [
+                    35,
+                    "DARKPULSE"
+                ],
+                [
+                    40,
+                    "NASTYPLOT"
+                ],
+                [
+                    48,
+                    "PLAYROUGH"
+                ],
+                [
+                    56,
+                    "FOULPLAY"
+                ],
+                [
+                    64,
+                    "HAMMERARM"
+                ]
+            ],
+            "tutorMoves": [
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULKUP",
+                "BURNINGJEALOUSY",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DARKESTLARIAT",
+                "DARKPULSE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "DRAINPUNCH",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FIREPUNCH",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEPUNCH",
+                "LASHOUT",
+                "LEECHLIFE",
+                "LIGHTSCREEN",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "METRONOME",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PLAYROUGH",
+                "POWERSWAP",
+                "POWERWHIP",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SWAGGER",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "TOXIC",
+                "TRICK",
+                "UPROAR",
+                "WONDERROOM"
+            ],
+            "eggMoves": [],
+            "height": 32.0,
+            "weight": 61.0,
+            "abilities": [
+                "PRANKSTER",
+                "FRISK"
+            ],
+            "hiddenAbilitie": [
+                "PICKPOCKET"
+            ],
+            "baseTotal": 510,
+            "baseStats": [
+                95,
+                120,
+                65,
+                60,
+                95,
+                75
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 861
+}

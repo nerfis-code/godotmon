@@ -1,0 +1,48 @@
+{
+    "generation": 7,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "TELEPORT"
+        ]
+    ],
+    "tutorMoves": [],
+    "eggMoves": [],
+    "height": 0.2,
+    "weight": 0.1,
+    "abilities": [
+        "UNAWARE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 200,
+    "baseStats": [
+        43,
+        29,
+        31,
+        37,
+        29,
+        31
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Cosmog",
+    "species": "COSMOG",
+    "catchRate": 45,
+    "happiness": 0,
+    "baseExp": 40,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 789
+}

@@ -1,0 +1,143 @@
+{
+    "generation": 5,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "CRUNCH"
+        ],
+        [
+            1,
+            "HEADBUTT"
+        ],
+        [
+            1,
+            "THUNDERWAVE"
+        ],
+        [
+            1,
+            "SPARK"
+        ],
+        [
+            1,
+            "CHARGEBEAM"
+        ],
+        [
+            9,
+            "BIND"
+        ],
+        [
+            19,
+            "ACID"
+        ],
+        [
+            29,
+            "DISCHARGE"
+        ],
+        [
+            44,
+            "THUNDERBOLT"
+        ],
+        [
+            49,
+            "ACIDSPRAY"
+        ],
+        [
+            54,
+            "COIL"
+        ],
+        [
+            59,
+            "WILDCHARGE"
+        ],
+        [
+            64,
+            "GASTROACID"
+        ],
+        [
+            69,
+            "ZAPCANNON"
+        ],
+        [
+            74,
+            "THRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AQUATAIL",
+        "ATTRACT",
+        "BIND",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUPERFANG",
+        "SWAGGER",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UTURN",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 22.0,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 405,
+    "baseStats": [
+        65,
+        85,
+        70,
+        40,
+        75,
+        70
+    ],
+    "flags": [],
+    "name": "Eelektrik",
+    "species": "EELEKTRIK",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 142,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 603
+}

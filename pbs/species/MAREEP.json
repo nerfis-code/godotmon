@@ -1,0 +1,158 @@
+{
+    "generation": 2,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "THUNDERWAVE"
+        ],
+        [
+            8,
+            "THUNDERSHOCK"
+        ],
+        [
+            11,
+            "COTTONSPORE"
+        ],
+        [
+            15,
+            "CHARGE"
+        ],
+        [
+            18,
+            "TAKEDOWN"
+        ],
+        [
+            22,
+            "ELECTROBALL"
+        ],
+        [
+            25,
+            "CONFUSERAY"
+        ],
+        [
+            29,
+            "POWERGEM"
+        ],
+        [
+            32,
+            "DISCHARGE"
+        ],
+        [
+            36,
+            "COTTONGUARD"
+        ],
+        [
+            39,
+            "CHARGEBEAM"
+        ],
+        [
+            39,
+            "DAZZLINGGLEAM"
+        ],
+        [
+            43,
+            "LIGHTSCREEN"
+        ],
+        [
+            46,
+            "THUNDER"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HEALBELL",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "AFTERYOU",
+        "AGILITY",
+        "BODYSLAM",
+        "CHARGE",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "FLATTER",
+        "SANDATTACK",
+        "SCREECH",
+        "TAKEDOWN"
+    ],
+    "height": 0.6,
+    "weight": 7.8,
+    "abilities": [
+        "STATIC"
+    ],
+    "hiddenAbilitie": [
+        "PLUS"
+    ],
+    "baseTotal": 280,
+    "baseStats": [
+        55,
+        40,
+        40,
+        35,
+        65,
+        45
+    ],
+    "flags": [],
+    "name": "Mareep",
+    "species": "MAREEP",
+    "catchRate": 235,
+    "happiness": 50,
+    "baseExp": 56,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 179
+}

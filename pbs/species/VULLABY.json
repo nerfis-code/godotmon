@@ -1,0 +1,161 @@
+{
+    "generation": 5,
+    "primaryType": "DARK",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            6,
+            "FLATTER"
+        ],
+        [
+            12,
+            "PLUCK"
+        ],
+        [
+            18,
+            "TAILWIND"
+        ],
+        [
+            24,
+            "KNOCKOFF"
+        ],
+        [
+            30,
+            "IRONDEFENSE"
+        ],
+        [
+            36,
+            "WHIRLWIND"
+        ],
+        [
+            42,
+            "AIRSLASH"
+        ],
+        [
+            48,
+            "DARKPULSE"
+        ],
+        [
+            54,
+            "NASTYPLOT"
+        ],
+        [
+            60,
+            "DEFOG"
+        ],
+        [
+            66,
+            "ATTRACT"
+        ],
+        [
+            72,
+            "BRAVEBIRD"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRSLASH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BLOCK",
+        "BRAVEBIRD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FLY",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LASHOUT",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PLUCK",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "UTURN"
+    ],
+    "eggMoves": [
+        "MEANLOOK",
+        "ROOST",
+        "TOXIC"
+    ],
+    "height": 0.5,
+    "weight": 9.0,
+    "abilities": [
+        "BIGPECKS",
+        "OVERCOAT"
+    ],
+    "hiddenAbilitie": [
+        "WEAKARMOR"
+    ],
+    "baseTotal": 370,
+    "baseStats": [
+        70,
+        55,
+        75,
+        60,
+        45,
+        65
+    ],
+    "flags": [],
+    "name": "Vullaby",
+    "species": "VULLABY",
+    "catchRate": 190,
+    "happiness": 35,
+    "baseExp": 74,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 629
+}

@@ -1,0 +1,150 @@
+{
+    "generation": 4,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TAILGLOW"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "HEARTSWAP"
+        ],
+        [
+            9,
+            "CHARM"
+        ],
+        [
+            16,
+            "SUPERSONIC"
+        ],
+        [
+            24,
+            "BUBBLEBEAM"
+        ],
+        [
+            31,
+            "ACIDARMOR"
+        ],
+        [
+            39,
+            "WHIRLPOOL"
+        ],
+        [
+            46,
+            "WATERPULSE"
+        ],
+        [
+            54,
+            "AQUARING"
+        ],
+        [
+            61,
+            "DIVE"
+        ],
+        [
+            69,
+            "RAINDANCE"
+        ],
+        [
+            76,
+            "TAKEHEART"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "BLIZZARD",
+        "BOUNCE",
+        "BRINE",
+        "CALMMIND",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HAIL",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "UPROAR",
+        "UTURN",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 1.4,
+    "abilities": [
+        "HYDRATION"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Manaphy",
+    "species": "MANAPHY",
+    "catchRate": 3,
+    "happiness": 50,
+    "baseExp": 300,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 490
+}

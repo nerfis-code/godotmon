@@ -1,0 +1,53 @@
+{
+    "generation": 6,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "PROTECT"
+        ],
+        [
+            1,
+            "HARDEN"
+        ]
+    ],
+    "tutorMoves": [
+        "BUGBITE",
+        "ELECTROWEB",
+        "IRONDEFENSE",
+        "PROTECT"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 8.4,
+    "abilities": [
+        "SHEDSKIN"
+    ],
+    "hiddenAbilitie": [
+        "FRIENDGUARD"
+    ],
+    "baseTotal": 213,
+    "baseStats": [
+        45,
+        22,
+        60,
+        29,
+        27,
+        30
+    ],
+    "flags": [],
+    "name": "Spewpa",
+    "species": "SPEWPA",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 75,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 665
+}

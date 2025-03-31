@@ -1,0 +1,536 @@
+{
+    "generation": 1,
+    "primaryType": "ROCK",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "ANCIENTPOWER"
+        ],
+        [
+            5,
+            "SUPERSONIC"
+        ],
+        [
+            10,
+            "WINGATTACK"
+        ],
+        [
+            15,
+            "SCARYFACE"
+        ],
+        [
+            20,
+            "ROCKSLIDE"
+        ],
+        [
+            25,
+            "ROAR"
+        ],
+        [
+            30,
+            "CRUNCH"
+        ],
+        [
+            35,
+            "IRONHEAD"
+        ],
+        [
+            40,
+            "TAKEDOWN"
+        ],
+        [
+            45,
+            "STONEEDGE"
+        ],
+        [
+            50,
+            "AGILITY"
+        ],
+        [
+            55,
+            "HYPERBEAM"
+        ],
+        [
+            60,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FLAMETHROWER",
+        "FLY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HURRICANE",
+        "HYPERBEAM",
+        "ICEFANG",
+        "INCINERATE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELWING",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "THUNDERFANG",
+        "TORMENT",
+        "TWISTER"
+    ],
+    "eggMoves": [
+        "ASSURANCE",
+        "CURSE",
+        "DRAGONBREATH",
+        "ROOST",
+        "TAILWIND",
+        "WHIRLWIND",
+        "WIDEGUARD"
+    ],
+    "height": 1.8,
+    "weight": 59.0,
+    "abilities": [
+        "ROCKHEAD",
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [
+        "UNNERVE"
+    ],
+    "baseTotal": 515,
+    "baseStats": [
+        80,
+        105,
+        65,
+        130,
+        60,
+        75
+    ],
+    "flags": [],
+    "name": "Aerodactyl",
+    "species": "AERODACTYL",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 180,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 12.5,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "ROCK",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    1,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    5,
+                    "SUPERSONIC"
+                ],
+                [
+                    10,
+                    "WINGATTACK"
+                ],
+                [
+                    15,
+                    "SCARYFACE"
+                ],
+                [
+                    20,
+                    "ROCKSLIDE"
+                ],
+                [
+                    25,
+                    "ROAR"
+                ],
+                [
+                    30,
+                    "CRUNCH"
+                ],
+                [
+                    35,
+                    "IRONHEAD"
+                ],
+                [
+                    40,
+                    "TAKEDOWN"
+                ],
+                [
+                    45,
+                    "STONEEDGE"
+                ],
+                [
+                    50,
+                    "AGILITY"
+                ],
+                [
+                    55,
+                    "HYPERBEAM"
+                ],
+                [
+                    60,
+                    "GIGAIMPACT"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "AIRCUTTER",
+                "ANCIENTPOWER",
+                "AQUATAIL",
+                "ASSURANCE",
+                "ATTRACT",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAGONCLAW",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DUALWINGBEAT",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FLAMETHROWER",
+                "FLY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HURRICANE",
+                "HYPERBEAM",
+                "ICEFANG",
+                "INCINERATE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "METEORBEAM",
+                "MIMIC",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKBLAST",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROOST",
+                "ROUND",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SKYATTACK",
+                "SKYDROP",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNORE",
+                "STEALTHROCK",
+                "STEELWING",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "TAUNT",
+                "THIEF",
+                "THUNDERFANG",
+                "TORMENT",
+                "TWISTER"
+            ],
+            "eggMoves": [
+                "ASSURANCE",
+                "CURSE",
+                "DRAGONBREATH",
+                "ROOST",
+                "TAILWIND",
+                "WHIRLWIND",
+                "WIDEGUARD"
+            ],
+            "height": 1.8,
+            "weight": 59.0,
+            "abilities": [
+                "ROCKHEAD",
+                "PRESSURE"
+            ],
+            "hiddenAbilitie": [
+                "UNNERVE"
+            ],
+            "baseTotal": 515,
+            "baseStats": [
+                80,
+                105,
+                65,
+                130,
+                60,
+                75
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Aerodactyl"
+        },
+        {
+            "generation": 6,
+            "primaryType": "ROCK",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    1,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    5,
+                    "SUPERSONIC"
+                ],
+                [
+                    10,
+                    "WINGATTACK"
+                ],
+                [
+                    15,
+                    "SCARYFACE"
+                ],
+                [
+                    20,
+                    "ROCKSLIDE"
+                ],
+                [
+                    25,
+                    "ROAR"
+                ],
+                [
+                    30,
+                    "CRUNCH"
+                ],
+                [
+                    35,
+                    "IRONHEAD"
+                ],
+                [
+                    40,
+                    "TAKEDOWN"
+                ],
+                [
+                    45,
+                    "STONEEDGE"
+                ],
+                [
+                    50,
+                    "AGILITY"
+                ],
+                [
+                    55,
+                    "HYPERBEAM"
+                ],
+                [
+                    60,
+                    "GIGAIMPACT"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "AIRCUTTER",
+                "ANCIENTPOWER",
+                "AQUATAIL",
+                "ASSURANCE",
+                "ATTRACT",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAGONCLAW",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DUALWINGBEAT",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FLAMETHROWER",
+                "FLY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HURRICANE",
+                "HYPERBEAM",
+                "ICEFANG",
+                "INCINERATE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "METEORBEAM",
+                "MIMIC",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKBLAST",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROOST",
+                "ROUND",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SKYATTACK",
+                "SKYDROP",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNORE",
+                "STEALTHROCK",
+                "STEELWING",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "TAUNT",
+                "THIEF",
+                "THUNDERFANG",
+                "TORMENT",
+                "TWISTER"
+            ],
+            "eggMoves": [
+                "ASSURANCE",
+                "CURSE",
+                "DRAGONBREATH",
+                "ROOST",
+                "TAILWIND",
+                "WHIRLWIND",
+                "WIDEGUARD"
+            ],
+            "height": 2.1,
+            "weight": 79.0,
+            "abilities": [
+                "TOUGHCLAWS"
+            ],
+            "hiddenAbilitie": [
+                "TOUGHCLAWS"
+            ],
+            "baseTotal": 615,
+            "baseStats": [
+                80,
+                135,
+                85,
+                150,
+                70,
+                95
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Aerodactyl"
+        }
+    ],
+    "internationalPokedex": 142
+}

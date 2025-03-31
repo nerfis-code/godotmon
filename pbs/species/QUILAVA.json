@@ -1,0 +1,452 @@
+{
+    "generation": 2,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "SMOKESCREEN"
+        ],
+        [
+            10,
+            "EMBER"
+        ],
+        [
+            13,
+            "QUICKATTACK"
+        ],
+        [
+            20,
+            "FLAMEWHEEL"
+        ],
+        [
+            24,
+            "DEFENSECURL"
+        ],
+        [
+            31,
+            "SWIFT"
+        ],
+        [
+            35,
+            "FLAMECHARGE"
+        ],
+        [
+            42,
+            "LAVAPLUME"
+        ],
+        [
+            46,
+            "FLAMETHROWER"
+        ],
+        [
+            53,
+            "INFERNO"
+        ],
+        [
+            57,
+            "ROLLOUT"
+        ],
+        [
+            64,
+            "DOUBLEEDGE"
+        ],
+        [
+            68,
+            "BURNUP"
+        ],
+        [
+            68,
+            "OVERHEAT"
+        ],
+        [
+            75,
+            "ERUPTION"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPLEDGE",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "INCINERATE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "WILDCHARGE",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 19.0,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "FLASHFIRE"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        58,
+        64,
+        58,
+        80,
+        80,
+        65
+    ],
+    "flags": [],
+    "name": "Quilava",
+    "species": "QUILAVA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 142,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1,
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [
+        {
+            "generation": 2,
+            "primaryType": "FIRE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "SMOKESCREEN"
+                ],
+                [
+                    10,
+                    "EMBER"
+                ],
+                [
+                    13,
+                    "QUICKATTACK"
+                ],
+                [
+                    20,
+                    "FLAMEWHEEL"
+                ],
+                [
+                    24,
+                    "DEFENSECURL"
+                ],
+                [
+                    31,
+                    "SWIFT"
+                ],
+                [
+                    35,
+                    "FLAMECHARGE"
+                ],
+                [
+                    42,
+                    "LAVAPLUME"
+                ],
+                [
+                    46,
+                    "FLAMETHROWER"
+                ],
+                [
+                    53,
+                    "INFERNO"
+                ],
+                [
+                    57,
+                    "ROLLOUT"
+                ],
+                [
+                    64,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    68,
+                    "BURNUP"
+                ],
+                [
+                    68,
+                    "OVERHEAT"
+                ],
+                [
+                    75,
+                    "ERUPTION"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREPLEDGE",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "INCINERATE",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "OVERHEAT",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROLLOUT",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "WILDCHARGE",
+                "WILLOWISP",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 0.9,
+            "weight": 19.0,
+            "abilities": [
+                "BLAZE"
+            ],
+            "hiddenAbilitie": [
+                "FLASHFIRE"
+            ],
+            "baseTotal": 405,
+            "baseStats": [
+                58,
+                64,
+                58,
+                80,
+                80,
+                65
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Quilava"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FIRE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "SMOKESCREEN"
+                ],
+                [
+                    10,
+                    "EMBER"
+                ],
+                [
+                    13,
+                    "QUICKATTACK"
+                ],
+                [
+                    20,
+                    "FLAMEWHEEL"
+                ],
+                [
+                    24,
+                    "DEFENSECURL"
+                ],
+                [
+                    31,
+                    "SWIFT"
+                ],
+                [
+                    35,
+                    "FLAMECHARGE"
+                ],
+                [
+                    42,
+                    "LAVAPLUME"
+                ],
+                [
+                    46,
+                    "FLAMETHROWER"
+                ],
+                [
+                    53,
+                    "INFERNO"
+                ],
+                [
+                    57,
+                    "ROLLOUT"
+                ],
+                [
+                    64,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    68,
+                    "BURNUP"
+                ],
+                [
+                    68,
+                    "OVERHEAT"
+                ],
+                [
+                    75,
+                    "ERUPTION"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREPLEDGE",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "INCINERATE",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "OVERHEAT",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROLLOUT",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "WILDCHARGE",
+                "WILLOWISP",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 0.9,
+            "weight": 19.0,
+            "abilities": [
+                "BLAZE"
+            ],
+            "hiddenAbilitie": [
+                "FLASHFIRE"
+            ],
+            "baseTotal": 405,
+            "baseStats": [
+                58,
+                64,
+                58,
+                80,
+                80,
+                65
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Quilava"
+        }
+    ],
+    "internationalPokedex": 156
+}

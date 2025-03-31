@@ -1,0 +1,149 @@
+{
+    "generation": 9,
+    "primaryType": "STEEL",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            7,
+            "SMARTSTRIKE"
+        ],
+        [
+            14,
+            "SLASH"
+        ],
+        [
+            21,
+            "IRONDEFENSE"
+        ],
+        [
+            28,
+            "PSYSHOCK"
+        ],
+        [
+            35,
+            "PSYCHOCUT"
+        ],
+        [
+            42,
+            "FLASHCANNON"
+        ],
+        [
+            49,
+            "SACREDSWORD"
+        ],
+        [
+            56,
+            "TACHYONCUTTER"
+        ],
+        [
+            63,
+            "FUTURESIGHT"
+        ],
+        [
+            70,
+            "VOLTSWITCH"
+        ],
+        [
+            77,
+            "QUICKGUARD"
+        ],
+        [
+            84,
+            "METALBURST"
+        ],
+        [
+            91,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AIRSLASH",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CALMMIND",
+        "DOUBLEEDGE",
+        "ELECTRICTERRAIN",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FLASHCANNON",
+        "FOCUSBLAST",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HEAVYSLAM",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "METALCLAW",
+        "METALSOUND",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICNOISE",
+        "PSYSHOCK",
+        "REST",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SOLARBLADE",
+        "STEELBEAM",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUPERCELLSLAM",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "VOLTSWITCH",
+        "XSCISSOR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 156.0,
+    "abilities": [
+        "QUARKDRIVE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 590,
+    "baseStats": [
+        90,
+        72,
+        100,
+        98,
+        122,
+        108
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Ferrotesta",
+    "species": "IRONCROWN",
+    "catchRate": 10,
+    "happiness": 0,
+    "baseExp": 295,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 1023
+}

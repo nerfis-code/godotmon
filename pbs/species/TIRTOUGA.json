@@ -1,0 +1,176 @@
+{
+    "generation": 5,
+    "primaryType": "WATER",
+    "secondaryType": "ROCK",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            3,
+            "PROTECT"
+        ],
+        [
+            6,
+            "AQUAJET"
+        ],
+        [
+            9,
+            "SMACKDOWN"
+        ],
+        [
+            12,
+            "ANCIENTPOWER"
+        ],
+        [
+            15,
+            "BITE"
+        ],
+        [
+            18,
+            "WIDEGUARD"
+        ],
+        [
+            21,
+            "BRINE"
+        ],
+        [
+            24,
+            "ROCKSLIDE"
+        ],
+        [
+            27,
+            "CRUNCH"
+        ],
+        [
+            30,
+            "CURSE"
+        ],
+        [
+            33,
+            "IRONDEFENSE"
+        ],
+        [
+            36,
+            "AQUATAIL"
+        ],
+        [
+            39,
+            "RAINDANCE"
+        ],
+        [
+            42,
+            "HYDROPUMP"
+        ],
+        [
+            45,
+            "SHELLSMASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYSLAM",
+        "BRINE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GUARDSWAP",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LIQUIDATION",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "BLOCK",
+        "KNOCKOFF",
+        "ROCKTHROW",
+        "ROLLOUT",
+        "SLAM",
+        "WATERPULSE"
+    ],
+    "height": 0.7,
+    "weight": 16.5,
+    "abilities": [
+        "SOLIDROCK",
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "SWIFTSWIM"
+    ],
+    "baseTotal": 355,
+    "baseStats": [
+        54,
+        78,
+        103,
+        22,
+        53,
+        45
+    ],
+    "flags": [],
+    "name": "Tirtouga",
+    "species": "TIRTOUGA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 71,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 564
+}

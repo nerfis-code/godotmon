@@ -1,0 +1,169 @@
+{
+    "generation": 3,
+    "primaryType": "FIRE",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "EMBER"
+        ],
+        [
+            8,
+            "FOCUSENERGY"
+        ],
+        [
+            12,
+            "BULLDOZE"
+        ],
+        [
+            15,
+            "FLAMEWHEEL"
+        ],
+        [
+            15,
+            "INCINERATE"
+        ],
+        [
+            19,
+            "AMNESIA"
+        ],
+        [
+            22,
+            "LAVAPLUME"
+        ],
+        [
+            26,
+            "EARTHPOWER"
+        ],
+        [
+            29,
+            "CURSE"
+        ],
+        [
+            31,
+            "TAKEDOWN"
+        ],
+        [
+            36,
+            "YAWN"
+        ],
+        [
+            40,
+            "EARTHQUAKE"
+        ],
+        [
+            43,
+            "FLAMETHROWER"
+        ],
+        [
+            47,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "INCINERATE",
+        "IRONHEAD",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "WILLOWISP"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "BODYSLAM",
+        "DEFENSECURL",
+        "GROWTH",
+        "HEATWAVE",
+        "HEAVYSLAM",
+        "HOWL",
+        "IRONHEAD",
+        "ROLLOUT",
+        "SCARYFACE",
+        "SPITUP",
+        "STOCKPILE",
+        "STOMP",
+        "SWALLOW",
+        "YAWN"
+    ],
+    "height": 0.7,
+    "weight": 24.0,
+    "abilities": [
+        "OBLIVIOUS",
+        "SIMPLE"
+    ],
+    "hiddenAbilitie": [
+        "OWNTEMPO"
+    ],
+    "baseTotal": 305,
+    "baseStats": [
+        60,
+        60,
+        40,
+        35,
+        65,
+        45
+    ],
+    "flags": [],
+    "name": "Numel",
+    "species": "NUMEL",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 322
+}

@@ -1,0 +1,148 @@
+{
+    "generation": 9,
+    "primaryType": "POISON",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "DOUBLEKICK"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "POISONGAS"
+        ],
+        [
+            1,
+            "DISARMINGVOICE"
+        ],
+        [
+            8,
+            "QUICKATTACK"
+        ],
+        [
+            16,
+            "ATTRACT"
+        ],
+        [
+            24,
+            "WINGATTACK"
+        ],
+        [
+            32,
+            "CROSSPOISON"
+        ],
+        [
+            40,
+            "TAILSLAP"
+        ],
+        [
+            48,
+            "BEATUP"
+        ],
+        [
+            56,
+            "FLATTER"
+        ],
+        [
+            56,
+            "SWAGGER"
+        ],
+        [
+            64,
+            "ROOST"
+        ],
+        [
+            72,
+            "MOONBLAST"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ALLURINGVOICE",
+        "BRAVEBIRD",
+        "CALMMIND",
+        "CHARM",
+        "DARKPULSE",
+        "DAZZLINGGLEAM",
+        "DISARMINGVOICE",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HEATWAVE",
+        "HEX",
+        "HURRICANE",
+        "HYPERBEAM",
+        "ICYWIND",
+        "LASHOUT",
+        "LIGHTSCREEN",
+        "NASTYPLOT",
+        "PLAYROUGH",
+        "POISONJAB",
+        "POISONTAIL",
+        "PROTECT",
+        "PSYCHUP",
+        "REST",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SPITE",
+        "SUBSTITUTE",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAILWIND",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 30.1,
+    "abilities": [
+        "TOXICCHAIN"
+    ],
+    "hiddenAbilitie": [
+        "TECHNICIAN"
+    ],
+    "baseTotal": 555,
+    "baseStats": [
+        88,
+        91,
+        82,
+        99,
+        70,
+        125
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Fezandipiti",
+    "species": "FEZANDIPITI",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 278,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 0,
+    "forms": [],
+    "internationalPokedex": 1016
+}

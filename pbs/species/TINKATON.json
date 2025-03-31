@@ -1,0 +1,147 @@
+{
+    "generation": 9,
+    "primaryType": "FAIRY",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            -1,
+            "GIGATONHAMMER"
+        ],
+        [
+            1,
+            "FAIRYWIND"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            5,
+            "BABYDOLLEYES"
+        ],
+        [
+            8,
+            "METALCLAW"
+        ],
+        [
+            11,
+            "COVET"
+        ],
+        [
+            14,
+            "ROCKSMASH"
+        ],
+        [
+            17,
+            "DRAININGKISS"
+        ],
+        [
+            21,
+            "SWEETKISS"
+        ],
+        [
+            24,
+            "BRUTALSWING"
+        ],
+        [
+            27,
+            "SLAM"
+        ],
+        [
+            31,
+            "FLASHCANNON"
+        ],
+        [
+            35,
+            "PLAYROUGH"
+        ],
+        [
+            39,
+            "FAKEOUT"
+        ],
+        [
+            43,
+            "FLATTER"
+        ],
+        [
+            47,
+            "SKITTERSMACK"
+        ],
+        [
+            52,
+            "KNOCKOFF"
+        ]
+    ],
+    "tutorMoves": [
+        "BRICKBREAK",
+        "BULLDOZE",
+        "DRAININGKISS",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FLASHCANNON",
+        "FLING",
+        "FOULPLAY",
+        "HARDPRESS",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "METALCLAW",
+        "METALSOUND",
+        "METRONOME",
+        "PLAYROUGH",
+        "POUNCE",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SKILLSWAP",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWORDSDANCE",
+        "THIEF",
+        "THUNDERWAVE"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 112.8,
+    "abilities": [
+        "MOLDBREAKER",
+        "OWNTEMPO"
+    ],
+    "hiddenAbilitie": [
+        "PICKPOCKET"
+    ],
+    "baseTotal": 506,
+    "baseStats": [
+        85,
+        75,
+        77,
+        94,
+        70,
+        105
+    ],
+    "flags": [],
+    "name": "Tinkaton",
+    "species": "TINKATON",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 253,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 959
+}

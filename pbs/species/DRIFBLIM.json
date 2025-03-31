@@ -1,0 +1,183 @@
+{
+    "generation": 4,
+    "primaryType": "GHOST",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            -1,
+            "PHANTOMFORCE"
+        ],
+        [
+            1,
+            "STRENGTHSAP"
+        ],
+        [
+            1,
+            "MINIMIZE"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            12,
+            "PAYBACK"
+        ],
+        [
+            16,
+            "HEX"
+        ],
+        [
+            20,
+            "SHADOWBALL"
+        ],
+        [
+            24,
+            "STOCKPILE"
+        ],
+        [
+            24,
+            "SWALLOW"
+        ],
+        [
+            24,
+            "SPITUP"
+        ],
+        [
+            31,
+            "SELFDESTRUCT"
+        ],
+        [
+            36,
+            "DESTINYBOND"
+        ],
+        [
+            42,
+            "BATONPASS"
+        ],
+        [
+            48,
+            "TAILWIND"
+        ],
+        [
+            54,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AIRCUTTER",
+        "ALLYSWITCH",
+        "AMNESIA",
+        "ATTRACT",
+        "BATONPASS",
+        "BIND",
+        "BODYSLAM",
+        "BRUTALSWING",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CUT",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FLY",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICYWIND",
+        "IMPRISON",
+        "KNOCKOFF",
+        "MAGICCOAT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PHANTOMFORCE",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SILVERWIND",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRICK",
+        "WEATHERBALL",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 15.0,
+    "abilities": [
+        "AFTERMATH",
+        "UNBURDEN"
+    ],
+    "hiddenAbilitie": [
+        "FLAREBOOST"
+    ],
+    "baseTotal": 498,
+    "baseStats": [
+        150,
+        80,
+        44,
+        80,
+        90,
+        54
+    ],
+    "flags": [],
+    "name": "Drifblim",
+    "species": "DRIFBLIM",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 174,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "FLUCTUATING",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 426
+}

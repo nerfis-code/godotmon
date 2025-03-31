@@ -1,0 +1,129 @@
+{
+    "generation": 7,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            4,
+            "PLAYNICE"
+        ],
+        [
+            8,
+            "RAPIDSPIN"
+        ],
+        [
+            12,
+            "RAZORLEAF"
+        ],
+        [
+            16,
+            "SWEETSCENT"
+        ],
+        [
+            20,
+            "MAGICALLEAF"
+        ],
+        [
+            24,
+            "FLAIL"
+        ],
+        [
+            28,
+            "TEETERDANCE"
+        ],
+        [
+            32,
+            "AROMATICMIST"
+        ],
+        [
+            36,
+            "AROMATHERAPY"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PLAYROUGH",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "TOXIC",
+        "WORRYSEED",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "ACUPRESSURE",
+        "ENDEAVOR",
+        "SYNTHESIS"
+    ],
+    "height": 0.3,
+    "weight": 3.2,
+    "abilities": [
+        "LEAFGUARD",
+        "OBLIVIOUS"
+    ],
+    "hiddenAbilitie": [
+        "SWEETVEIL"
+    ],
+    "baseTotal": 210,
+    "baseStats": [
+        42,
+        30,
+        38,
+        32,
+        30,
+        38
+    ],
+    "flags": [],
+    "name": "Bounsweet",
+    "species": "BOUNSWEET",
+    "catchRate": 235,
+    "happiness": 50,
+    "baseExp": 42,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 761
+}

@@ -1,0 +1,549 @@
+{
+    "generation": 2,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "THUNDERPUNCH"
+        ],
+        [
+            1,
+            "ZAPCANNON"
+        ],
+        [
+            1,
+            "MAGNETICFLUX"
+        ],
+        [
+            1,
+            "DRAGONPULSE"
+        ],
+        [
+            1,
+            "FIREPUNCH"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "THUNDERWAVE"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            11,
+            "COTTONSPORE"
+        ],
+        [
+            16,
+            "CHARGE"
+        ],
+        [
+            20,
+            "TAKEDOWN"
+        ],
+        [
+            25,
+            "ELECTROBALL"
+        ],
+        [
+            29,
+            "CONFUSERAY"
+        ],
+        [
+            35,
+            "POWERGEM"
+        ],
+        [
+            40,
+            "DISCHARGE"
+        ],
+        [
+            46,
+            "COTTONGUARD"
+        ],
+        [
+            51,
+            "CHARGEBEAM"
+        ],
+        [
+            51,
+            "DAZZLINGGLEAM"
+        ],
+        [
+            57,
+            "LIGHTSCREEN"
+        ],
+        [
+            62,
+            "THUNDER"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "DYNAMICPUNCH",
+        "ECHOEDVOICE",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEALBELL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSMASH",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 61.5,
+    "abilities": [
+        "STATIC"
+    ],
+    "hiddenAbilitie": [
+        "PLUS"
+    ],
+    "baseTotal": 510,
+    "baseStats": [
+        90,
+        75,
+        85,
+        55,
+        115,
+        90
+    ],
+    "flags": [],
+    "name": "Ampharos",
+    "species": "AMPHAROS",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 255,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 2,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "THUNDERPUNCH"
+                ],
+                [
+                    1,
+                    "ZAPCANNON"
+                ],
+                [
+                    1,
+                    "MAGNETICFLUX"
+                ],
+                [
+                    1,
+                    "DRAGONPULSE"
+                ],
+                [
+                    1,
+                    "FIREPUNCH"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "THUNDERWAVE"
+                ],
+                [
+                    1,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    11,
+                    "COTTONSPORE"
+                ],
+                [
+                    16,
+                    "CHARGE"
+                ],
+                [
+                    20,
+                    "TAKEDOWN"
+                ],
+                [
+                    25,
+                    "ELECTROBALL"
+                ],
+                [
+                    29,
+                    "CONFUSERAY"
+                ],
+                [
+                    35,
+                    "POWERGEM"
+                ],
+                [
+                    40,
+                    "DISCHARGE"
+                ],
+                [
+                    46,
+                    "COTTONGUARD"
+                ],
+                [
+                    51,
+                    "CHARGEBEAM"
+                ],
+                [
+                    51,
+                    "DAZZLINGGLEAM"
+                ],
+                [
+                    57,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    62,
+                    "THUNDER"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "COUNTER",
+                "DEFENSECURL",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAGONPULSE",
+                "DYNAMICPUNCH",
+                "ECHOEDVOICE",
+                "ELECTROWEB",
+                "ENDURE",
+                "FACADE",
+                "FIREPUNCH",
+                "FLASH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HEALBELL",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKCLIMB",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "VOLTSWITCH",
+                "WILDCHARGE"
+            ],
+            "eggMoves": [],
+            "height": 1.4,
+            "weight": 61.5,
+            "abilities": [
+                "STATIC"
+            ],
+            "hiddenAbilitie": [
+                "PLUS"
+            ],
+            "baseTotal": 510,
+            "baseStats": [
+                90,
+                75,
+                85,
+                55,
+                115,
+                90
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Ampharos"
+        },
+        {
+            "generation": 6,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    -1,
+                    "THUNDERPUNCH"
+                ],
+                [
+                    1,
+                    "ZAPCANNON"
+                ],
+                [
+                    1,
+                    "MAGNETICFLUX"
+                ],
+                [
+                    1,
+                    "DRAGONPULSE"
+                ],
+                [
+                    1,
+                    "FIREPUNCH"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "THUNDERWAVE"
+                ],
+                [
+                    1,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    11,
+                    "COTTONSPORE"
+                ],
+                [
+                    16,
+                    "CHARGE"
+                ],
+                [
+                    20,
+                    "TAKEDOWN"
+                ],
+                [
+                    25,
+                    "ELECTROBALL"
+                ],
+                [
+                    29,
+                    "CONFUSERAY"
+                ],
+                [
+                    35,
+                    "POWERGEM"
+                ],
+                [
+                    40,
+                    "DISCHARGE"
+                ],
+                [
+                    46,
+                    "COTTONGUARD"
+                ],
+                [
+                    51,
+                    "CHARGEBEAM"
+                ],
+                [
+                    51,
+                    "DAZZLINGGLEAM"
+                ],
+                [
+                    57,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    62,
+                    "THUNDER"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "COUNTER",
+                "DEFENSECURL",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRAGONPULSE",
+                "DYNAMICPUNCH",
+                "ECHOEDVOICE",
+                "ELECTROWEB",
+                "ENDURE",
+                "FACADE",
+                "FIREPUNCH",
+                "FLASH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HEALBELL",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKCLIMB",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "VOLTSWITCH",
+                "WILDCHARGE"
+            ],
+            "eggMoves": [],
+            "height": 1.4,
+            "weight": 61.5,
+            "abilities": [
+                "MOLDBREAKER"
+            ],
+            "hiddenAbilitie": [
+                "MOLDBREAKER"
+            ],
+            "baseTotal": 610,
+            "baseStats": [
+                90,
+                95,
+                105,
+                45,
+                165,
+                110
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Ampharos"
+        }
+    ],
+    "internationalPokedex": 181
+}

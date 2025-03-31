@@ -1,0 +1,1975 @@
+{
+    "generation": 9,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "HORNLEECH"
+        ],
+        [
+            -1,
+            "DOUBLEKICK"
+        ],
+        [
+            -1,
+            "COUNTER"
+        ],
+        [
+            -1,
+            "RETALIATE"
+        ],
+        [
+            1,
+            "VINEWHIP"
+        ],
+        [
+            1,
+            "LEECHSEED"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "FOLLOWME"
+        ],
+        [
+            6,
+            "FOCUSENERGY"
+        ],
+        [
+            12,
+            "GROWTH"
+        ],
+        [
+            18,
+            "SLAM"
+        ],
+        [
+            24,
+            "LOWSWEEP"
+        ],
+        [
+            30,
+            "IVYCUDGEL"
+        ],
+        [
+            36,
+            "THROATCHOP"
+        ],
+        [
+            42,
+            "SYNTHESIS"
+        ],
+        [
+            48,
+            "SPIKYSHIELD"
+        ],
+        [
+            54,
+            "POWERWHIP"
+        ],
+        [
+            60,
+            "SUPERPOWER"
+        ],
+        [
+            66,
+            "WOODHAMMER"
+        ]
+    ],
+    "tutorMoves": [
+        "BRICKBREAK",
+        "BULLETSEED",
+        "CHARM",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LEAFSTORM",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MAGICALLEAF",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "REVERSAL",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "SPIKES",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "TAUNT",
+        "THROATCHOP",
+        "TRAILBLAZE",
+        "UTURN",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 39.8,
+    "abilities": [
+        "DEFIANT"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 550,
+    "baseStats": [
+        80,
+        120,
+        84,
+        110,
+        60,
+        96
+    ],
+    "flags": [
+        "Legendary",
+        "TeraType_GRASS"
+    ],
+    "name": "Ogerpon",
+    "species": "OGERPON",
+    "catchRate": 5,
+    "happiness": 50,
+    "baseExp": 275,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 100,
+    "forms": [
+        {
+            "generation": 9,
+            "primaryType": "GRASS",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "HORNLEECH"
+                ],
+                [
+                    -1,
+                    "DOUBLEKICK"
+                ],
+                [
+                    -1,
+                    "COUNTER"
+                ],
+                [
+                    -1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    1,
+                    "LEECHSEED"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "FOLLOWME"
+                ],
+                [
+                    6,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "GROWTH"
+                ],
+                [
+                    18,
+                    "SLAM"
+                ],
+                [
+                    24,
+                    "LOWSWEEP"
+                ],
+                [
+                    30,
+                    "IVYCUDGEL"
+                ],
+                [
+                    36,
+                    "THROATCHOP"
+                ],
+                [
+                    42,
+                    "SYNTHESIS"
+                ],
+                [
+                    48,
+                    "SPIKYSHIELD"
+                ],
+                [
+                    54,
+                    "POWERWHIP"
+                ],
+                [
+                    60,
+                    "SUPERPOWER"
+                ],
+                [
+                    66,
+                    "WOODHAMMER"
+                ]
+            ],
+            "tutorMoves": [
+                "BRICKBREAK",
+                "BULLETSEED",
+                "CHARM",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HELPINGHAND",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LEAFSTORM",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MAGICALLEAF",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "SPIKES",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THROATCHOP",
+                "TRAILBLAZE",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 39.8,
+            "abilities": [
+                "DEFIANT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                80,
+                120,
+                84,
+                110,
+                60,
+                96
+            ],
+            "flags": [
+                "Legendary",
+                "TeraType_GRASS"
+            ],
+            "form": 0,
+            "formName": "Forma Máscara Turquesa"
+        },
+        {
+            "generation": 9,
+            "primaryType": "GRASS",
+            "secondaryType": "WATER",
+            "moves": [
+                [
+                    -1,
+                    "HORNLEECH"
+                ],
+                [
+                    -1,
+                    "DOUBLEKICK"
+                ],
+                [
+                    -1,
+                    "COUNTER"
+                ],
+                [
+                    -1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    1,
+                    "LEECHSEED"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "FOLLOWME"
+                ],
+                [
+                    6,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "GROWTH"
+                ],
+                [
+                    18,
+                    "SLAM"
+                ],
+                [
+                    24,
+                    "LOWSWEEP"
+                ],
+                [
+                    30,
+                    "IVYCUDGEL"
+                ],
+                [
+                    36,
+                    "THROATCHOP"
+                ],
+                [
+                    42,
+                    "SYNTHESIS"
+                ],
+                [
+                    48,
+                    "SPIKYSHIELD"
+                ],
+                [
+                    54,
+                    "POWERWHIP"
+                ],
+                [
+                    60,
+                    "SUPERPOWER"
+                ],
+                [
+                    66,
+                    "WOODHAMMER"
+                ]
+            ],
+            "tutorMoves": [
+                "BRICKBREAK",
+                "BULLETSEED",
+                "CHARM",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HELPINGHAND",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LEAFSTORM",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MAGICALLEAF",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "SPIKES",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THROATCHOP",
+                "TRAILBLAZE",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 39.8,
+            "abilities": [
+                "WATERABSORB"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                80,
+                120,
+                84,
+                110,
+                60,
+                96
+            ],
+            "flags": [
+                "Legendary",
+                "TeraType_WATER"
+            ],
+            "form": 1,
+            "formName": "Máscara Fuente"
+        },
+        {
+            "generation": 9,
+            "primaryType": "GRASS",
+            "secondaryType": "FIRE",
+            "moves": [
+                [
+                    -1,
+                    "HORNLEECH"
+                ],
+                [
+                    -1,
+                    "DOUBLEKICK"
+                ],
+                [
+                    -1,
+                    "COUNTER"
+                ],
+                [
+                    -1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    1,
+                    "LEECHSEED"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "FOLLOWME"
+                ],
+                [
+                    6,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "GROWTH"
+                ],
+                [
+                    18,
+                    "SLAM"
+                ],
+                [
+                    24,
+                    "LOWSWEEP"
+                ],
+                [
+                    30,
+                    "IVYCUDGEL"
+                ],
+                [
+                    36,
+                    "THROATCHOP"
+                ],
+                [
+                    42,
+                    "SYNTHESIS"
+                ],
+                [
+                    48,
+                    "SPIKYSHIELD"
+                ],
+                [
+                    54,
+                    "POWERWHIP"
+                ],
+                [
+                    60,
+                    "SUPERPOWER"
+                ],
+                [
+                    66,
+                    "WOODHAMMER"
+                ]
+            ],
+            "tutorMoves": [
+                "BRICKBREAK",
+                "BULLETSEED",
+                "CHARM",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HELPINGHAND",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LEAFSTORM",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MAGICALLEAF",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "SPIKES",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THROATCHOP",
+                "TRAILBLAZE",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 39.8,
+            "abilities": [
+                "MOLDBREAKER"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                80,
+                120,
+                84,
+                110,
+                60,
+                96
+            ],
+            "flags": [
+                "Legendary",
+                "TeraType_FIRE"
+            ],
+            "form": 2,
+            "formName": "Máscara Horno"
+        },
+        {
+            "generation": 9,
+            "primaryType": "GRASS",
+            "secondaryType": "ROCK",
+            "moves": [
+                [
+                    -1,
+                    "HORNLEECH"
+                ],
+                [
+                    -1,
+                    "DOUBLEKICK"
+                ],
+                [
+                    -1,
+                    "COUNTER"
+                ],
+                [
+                    -1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    1,
+                    "LEECHSEED"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "FOLLOWME"
+                ],
+                [
+                    6,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "GROWTH"
+                ],
+                [
+                    18,
+                    "SLAM"
+                ],
+                [
+                    24,
+                    "LOWSWEEP"
+                ],
+                [
+                    30,
+                    "IVYCUDGEL"
+                ],
+                [
+                    36,
+                    "THROATCHOP"
+                ],
+                [
+                    42,
+                    "SYNTHESIS"
+                ],
+                [
+                    48,
+                    "SPIKYSHIELD"
+                ],
+                [
+                    54,
+                    "POWERWHIP"
+                ],
+                [
+                    60,
+                    "SUPERPOWER"
+                ],
+                [
+                    66,
+                    "WOODHAMMER"
+                ]
+            ],
+            "tutorMoves": [
+                "BRICKBREAK",
+                "BULLETSEED",
+                "CHARM",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HELPINGHAND",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LEAFSTORM",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MAGICALLEAF",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "SPIKES",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THROATCHOP",
+                "TRAILBLAZE",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 39.8,
+            "abilities": [
+                "STURDY"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                80,
+                120,
+                84,
+                110,
+                60,
+                96
+            ],
+            "flags": [
+                "Legendary",
+                "TeraType_ROCK"
+            ],
+            "form": 3,
+            "formName": "Máscara Cimiento"
+        },
+        {
+            "generation": 9,
+            "primaryType": "GRASS",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "HORNLEECH"
+                ],
+                [
+                    -1,
+                    "DOUBLEKICK"
+                ],
+                [
+                    -1,
+                    "COUNTER"
+                ],
+                [
+                    -1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    1,
+                    "LEECHSEED"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "FOLLOWME"
+                ],
+                [
+                    6,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "GROWTH"
+                ],
+                [
+                    18,
+                    "SLAM"
+                ],
+                [
+                    24,
+                    "LOWSWEEP"
+                ],
+                [
+                    30,
+                    "IVYCUDGEL"
+                ],
+                [
+                    36,
+                    "THROATCHOP"
+                ],
+                [
+                    42,
+                    "SYNTHESIS"
+                ],
+                [
+                    48,
+                    "SPIKYSHIELD"
+                ],
+                [
+                    54,
+                    "POWERWHIP"
+                ],
+                [
+                    60,
+                    "SUPERPOWER"
+                ],
+                [
+                    66,
+                    "WOODHAMMER"
+                ]
+            ],
+            "tutorMoves": [
+                "BRICKBREAK",
+                "BULLETSEED",
+                "CHARM",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HELPINGHAND",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LEAFSTORM",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MAGICALLEAF",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "SPIKES",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THROATCHOP",
+                "TRAILBLAZE",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 39.8,
+            "abilities": [
+                "DEFIANT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                80,
+                120,
+                84,
+                110,
+                60,
+                96
+            ],
+            "flags": [
+                "Legendary",
+                "TeraType_GRASS"
+            ],
+            "form": 4,
+            "formName": "Forma Máscara Turquesa"
+        },
+        {
+            "generation": 9,
+            "primaryType": "GRASS",
+            "secondaryType": "WATER",
+            "moves": [
+                [
+                    -1,
+                    "HORNLEECH"
+                ],
+                [
+                    -1,
+                    "DOUBLEKICK"
+                ],
+                [
+                    -1,
+                    "COUNTER"
+                ],
+                [
+                    -1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    1,
+                    "LEECHSEED"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "FOLLOWME"
+                ],
+                [
+                    6,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "GROWTH"
+                ],
+                [
+                    18,
+                    "SLAM"
+                ],
+                [
+                    24,
+                    "LOWSWEEP"
+                ],
+                [
+                    30,
+                    "IVYCUDGEL"
+                ],
+                [
+                    36,
+                    "THROATCHOP"
+                ],
+                [
+                    42,
+                    "SYNTHESIS"
+                ],
+                [
+                    48,
+                    "SPIKYSHIELD"
+                ],
+                [
+                    54,
+                    "POWERWHIP"
+                ],
+                [
+                    60,
+                    "SUPERPOWER"
+                ],
+                [
+                    66,
+                    "WOODHAMMER"
+                ]
+            ],
+            "tutorMoves": [
+                "BRICKBREAK",
+                "BULLETSEED",
+                "CHARM",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HELPINGHAND",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LEAFSTORM",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MAGICALLEAF",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "SPIKES",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THROATCHOP",
+                "TRAILBLAZE",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 39.8,
+            "abilities": [
+                "WATERABSORB"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                80,
+                120,
+                84,
+                110,
+                60,
+                96
+            ],
+            "flags": [
+                "Legendary",
+                "TeraType_WATER"
+            ],
+            "form": 5,
+            "formName": "Máscara Fuente"
+        },
+        {
+            "generation": 9,
+            "primaryType": "GRASS",
+            "secondaryType": "FIRE",
+            "moves": [
+                [
+                    -1,
+                    "HORNLEECH"
+                ],
+                [
+                    -1,
+                    "DOUBLEKICK"
+                ],
+                [
+                    -1,
+                    "COUNTER"
+                ],
+                [
+                    -1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    1,
+                    "LEECHSEED"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "FOLLOWME"
+                ],
+                [
+                    6,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "GROWTH"
+                ],
+                [
+                    18,
+                    "SLAM"
+                ],
+                [
+                    24,
+                    "LOWSWEEP"
+                ],
+                [
+                    30,
+                    "IVYCUDGEL"
+                ],
+                [
+                    36,
+                    "THROATCHOP"
+                ],
+                [
+                    42,
+                    "SYNTHESIS"
+                ],
+                [
+                    48,
+                    "SPIKYSHIELD"
+                ],
+                [
+                    54,
+                    "POWERWHIP"
+                ],
+                [
+                    60,
+                    "SUPERPOWER"
+                ],
+                [
+                    66,
+                    "WOODHAMMER"
+                ]
+            ],
+            "tutorMoves": [
+                "BRICKBREAK",
+                "BULLETSEED",
+                "CHARM",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HELPINGHAND",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LEAFSTORM",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MAGICALLEAF",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "SPIKES",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THROATCHOP",
+                "TRAILBLAZE",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 39.8,
+            "abilities": [
+                "MOLDBREAKER"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                80,
+                120,
+                84,
+                110,
+                60,
+                96
+            ],
+            "flags": [
+                "Legendary",
+                "TeraType_FIRE"
+            ],
+            "form": 6,
+            "formName": "Máscara Horno"
+        },
+        {
+            "generation": 9,
+            "primaryType": "GRASS",
+            "secondaryType": "ROCK",
+            "moves": [
+                [
+                    -1,
+                    "HORNLEECH"
+                ],
+                [
+                    -1,
+                    "DOUBLEKICK"
+                ],
+                [
+                    -1,
+                    "COUNTER"
+                ],
+                [
+                    -1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    1,
+                    "LEECHSEED"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "FOLLOWME"
+                ],
+                [
+                    6,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "GROWTH"
+                ],
+                [
+                    18,
+                    "SLAM"
+                ],
+                [
+                    24,
+                    "LOWSWEEP"
+                ],
+                [
+                    30,
+                    "IVYCUDGEL"
+                ],
+                [
+                    36,
+                    "THROATCHOP"
+                ],
+                [
+                    42,
+                    "SYNTHESIS"
+                ],
+                [
+                    48,
+                    "SPIKYSHIELD"
+                ],
+                [
+                    54,
+                    "POWERWHIP"
+                ],
+                [
+                    60,
+                    "SUPERPOWER"
+                ],
+                [
+                    66,
+                    "WOODHAMMER"
+                ]
+            ],
+            "tutorMoves": [
+                "BRICKBREAK",
+                "BULLETSEED",
+                "CHARM",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HELPINGHAND",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LEAFSTORM",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MAGICALLEAF",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "SPIKES",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THROATCHOP",
+                "TRAILBLAZE",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 39.8,
+            "abilities": [
+                "STURDY"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                80,
+                120,
+                84,
+                110,
+                60,
+                96
+            ],
+            "flags": [
+                "Legendary",
+                "TeraType_ROCK"
+            ],
+            "form": 7,
+            "formName": "Máscara Cimiento"
+        },
+        {
+            "generation": 9,
+            "primaryType": "GRASS",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "HORNLEECH"
+                ],
+                [
+                    -1,
+                    "DOUBLEKICK"
+                ],
+                [
+                    -1,
+                    "COUNTER"
+                ],
+                [
+                    -1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    1,
+                    "LEECHSEED"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "FOLLOWME"
+                ],
+                [
+                    6,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "GROWTH"
+                ],
+                [
+                    18,
+                    "SLAM"
+                ],
+                [
+                    24,
+                    "LOWSWEEP"
+                ],
+                [
+                    30,
+                    "IVYCUDGEL"
+                ],
+                [
+                    36,
+                    "THROATCHOP"
+                ],
+                [
+                    42,
+                    "SYNTHESIS"
+                ],
+                [
+                    48,
+                    "SPIKYSHIELD"
+                ],
+                [
+                    54,
+                    "POWERWHIP"
+                ],
+                [
+                    60,
+                    "SUPERPOWER"
+                ],
+                [
+                    66,
+                    "WOODHAMMER"
+                ]
+            ],
+            "tutorMoves": [
+                "BRICKBREAK",
+                "BULLETSEED",
+                "CHARM",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HELPINGHAND",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LEAFSTORM",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MAGICALLEAF",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "SPIKES",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THROATCHOP",
+                "TRAILBLAZE",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 39.8,
+            "abilities": [
+                "EMBODYASPECT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                80,
+                120,
+                84,
+                110,
+                60,
+                96
+            ],
+            "flags": [
+                "Legendary",
+                "TeraType_GRASS"
+            ],
+            "form": 8,
+            "formName": "Máscara Turquesa teracristalizado"
+        },
+        {
+            "generation": 9,
+            "primaryType": "GRASS",
+            "secondaryType": "WATER",
+            "moves": [
+                [
+                    -1,
+                    "HORNLEECH"
+                ],
+                [
+                    -1,
+                    "DOUBLEKICK"
+                ],
+                [
+                    -1,
+                    "COUNTER"
+                ],
+                [
+                    -1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    1,
+                    "LEECHSEED"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "FOLLOWME"
+                ],
+                [
+                    6,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "GROWTH"
+                ],
+                [
+                    18,
+                    "SLAM"
+                ],
+                [
+                    24,
+                    "LOWSWEEP"
+                ],
+                [
+                    30,
+                    "IVYCUDGEL"
+                ],
+                [
+                    36,
+                    "THROATCHOP"
+                ],
+                [
+                    42,
+                    "SYNTHESIS"
+                ],
+                [
+                    48,
+                    "SPIKYSHIELD"
+                ],
+                [
+                    54,
+                    "POWERWHIP"
+                ],
+                [
+                    60,
+                    "SUPERPOWER"
+                ],
+                [
+                    66,
+                    "WOODHAMMER"
+                ]
+            ],
+            "tutorMoves": [
+                "BRICKBREAK",
+                "BULLETSEED",
+                "CHARM",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HELPINGHAND",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LEAFSTORM",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MAGICALLEAF",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "SPIKES",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THROATCHOP",
+                "TRAILBLAZE",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 39.8,
+            "abilities": [
+                "EMBODYASPECT_1"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                80,
+                120,
+                84,
+                110,
+                60,
+                96
+            ],
+            "flags": [
+                "Legendary",
+                "TeraType_WATER"
+            ],
+            "form": 9,
+            "formName": "Máscara Fuente teracristalizado"
+        },
+        {
+            "generation": 9,
+            "primaryType": "GRASS",
+            "secondaryType": "FIRE",
+            "moves": [
+                [
+                    -1,
+                    "HORNLEECH"
+                ],
+                [
+                    -1,
+                    "DOUBLEKICK"
+                ],
+                [
+                    -1,
+                    "COUNTER"
+                ],
+                [
+                    -1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    1,
+                    "LEECHSEED"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "FOLLOWME"
+                ],
+                [
+                    6,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "GROWTH"
+                ],
+                [
+                    18,
+                    "SLAM"
+                ],
+                [
+                    24,
+                    "LOWSWEEP"
+                ],
+                [
+                    30,
+                    "IVYCUDGEL"
+                ],
+                [
+                    36,
+                    "THROATCHOP"
+                ],
+                [
+                    42,
+                    "SYNTHESIS"
+                ],
+                [
+                    48,
+                    "SPIKYSHIELD"
+                ],
+                [
+                    54,
+                    "POWERWHIP"
+                ],
+                [
+                    60,
+                    "SUPERPOWER"
+                ],
+                [
+                    66,
+                    "WOODHAMMER"
+                ]
+            ],
+            "tutorMoves": [
+                "BRICKBREAK",
+                "BULLETSEED",
+                "CHARM",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HELPINGHAND",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LEAFSTORM",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MAGICALLEAF",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "SPIKES",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THROATCHOP",
+                "TRAILBLAZE",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 39.8,
+            "abilities": [
+                "EMBODYASPECT_2"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                80,
+                120,
+                84,
+                110,
+                60,
+                96
+            ],
+            "flags": [
+                "Legendary",
+                "TeraType_FIRE"
+            ],
+            "form": 10,
+            "formName": "Máscara Horno teracristalizado"
+        },
+        {
+            "generation": 9,
+            "primaryType": "GRASS",
+            "secondaryType": "ROCK",
+            "moves": [
+                [
+                    -1,
+                    "HORNLEECH"
+                ],
+                [
+                    -1,
+                    "DOUBLEKICK"
+                ],
+                [
+                    -1,
+                    "COUNTER"
+                ],
+                [
+                    -1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    1,
+                    "LEECHSEED"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "FOLLOWME"
+                ],
+                [
+                    6,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "GROWTH"
+                ],
+                [
+                    18,
+                    "SLAM"
+                ],
+                [
+                    24,
+                    "LOWSWEEP"
+                ],
+                [
+                    30,
+                    "IVYCUDGEL"
+                ],
+                [
+                    36,
+                    "THROATCHOP"
+                ],
+                [
+                    42,
+                    "SYNTHESIS"
+                ],
+                [
+                    48,
+                    "SPIKYSHIELD"
+                ],
+                [
+                    54,
+                    "POWERWHIP"
+                ],
+                [
+                    60,
+                    "SUPERPOWER"
+                ],
+                [
+                    66,
+                    "WOODHAMMER"
+                ]
+            ],
+            "tutorMoves": [
+                "BRICKBREAK",
+                "BULLETSEED",
+                "CHARM",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HELPINGHAND",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LEAFSTORM",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MAGICALLEAF",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "SPIKES",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THROATCHOP",
+                "TRAILBLAZE",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 39.8,
+            "abilities": [
+                "EMBODYASPECT_3"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 550,
+            "baseStats": [
+                80,
+                120,
+                84,
+                110,
+                60,
+                96
+            ],
+            "flags": [
+                "Legendary",
+                "TeraType_ROCK"
+            ],
+            "form": 11,
+            "formName": "Máscara Cimiento teracristalizado"
+        }
+    ],
+    "internationalPokedex": 1017
+}

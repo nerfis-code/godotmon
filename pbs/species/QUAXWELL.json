@@ -1,0 +1,133 @@
+{
+    "generation": 9,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "DOUBLEHIT"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            7,
+            "WORKUP"
+        ],
+        [
+            10,
+            "WINGATTACK"
+        ],
+        [
+            13,
+            "AQUAJET"
+        ],
+        [
+            17,
+            "WATERPULSE"
+        ],
+        [
+            19,
+            "LOWSWEEP"
+        ],
+        [
+            23,
+            "AQUACUTTER"
+        ],
+        [
+            27,
+            "AIRSLASH"
+        ],
+        [
+            32,
+            "FOCUSENERGY"
+        ],
+        [
+            38,
+            "ACROBATICS"
+        ],
+        [
+            43,
+            "LIQUIDATION"
+        ],
+        [
+            48,
+            "FEATHERDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "BATONPASS",
+        "BRAVEBIRD",
+        "CHILLINGWATER",
+        "DISARMINGVOICE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FEATHERDANCE",
+        "FLIPTURN",
+        "HELPINGHAND",
+        "HYDROPUMP",
+        "LIQUIDATION",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MISTYTERRAIN",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SURF",
+        "SWIFT",
+        "TAKEDOWN",
+        "TRIPLEAXEL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 21.5,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "MOXIE"
+    ],
+    "baseTotal": 410,
+    "baseStats": [
+        70,
+        85,
+        65,
+        65,
+        65,
+        60
+    ],
+    "flags": [],
+    "name": "Quaxwell",
+    "species": "QUAXWELL",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 144,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 913
+}

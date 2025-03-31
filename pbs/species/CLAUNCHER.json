@@ -1,0 +1,141 @@
+{
+    "generation": 6,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            5,
+            "VISEGRIP"
+        ],
+        [
+            10,
+            "FLAIL"
+        ],
+        [
+            15,
+            "AQUAJET"
+        ],
+        [
+            20,
+            "SMACKDOWN"
+        ],
+        [
+            25,
+            "HONECLAWS"
+        ],
+        [
+            30,
+            "WATERPULSE"
+        ],
+        [
+            35,
+            "SWORDSDANCE"
+        ],
+        [
+            40,
+            "AURASPHERE"
+        ],
+        [
+            45,
+            "BOUNCE"
+        ],
+        [
+            50,
+            "MUDDYWATER"
+        ],
+        [
+            55,
+            "CRABHAMMER"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "AURASPHERE",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FLIPTURN",
+        "FRUSTRATION",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDDYWATER",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TERRAINPULSE",
+        "TOXIC",
+        "UTURN",
+        "VENOSHOCK",
+        "WATERFALL",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "AQUATAIL",
+        "BUBBLEBEAM",
+        "ENTRAINMENT"
+    ],
+    "height": 0.5,
+    "weight": 8.3,
+    "abilities": [
+        "MEGALAUNCHER"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 330,
+    "baseStats": [
+        50,
+        53,
+        62,
+        44,
+        58,
+        63
+    ],
+    "flags": [],
+    "name": "Clauncher",
+    "species": "CLAUNCHER",
+    "catchRate": 225,
+    "happiness": 50,
+    "baseExp": 66,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 692
+}

@@ -1,0 +1,184 @@
+{
+    "generation": 3,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SMOG"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            4,
+            "WITHDRAW"
+        ],
+        [
+            8,
+            "RAPIDSPIN"
+        ],
+        [
+            12,
+            "SMOKESCREEN"
+        ],
+        [
+            16,
+            "CLEARSMOG"
+        ],
+        [
+            20,
+            "FLAMEWHEEL"
+        ],
+        [
+            24,
+            "PROTECT"
+        ],
+        [
+            28,
+            "LAVAPLUME"
+        ],
+        [
+            32,
+            "BODYSLAM"
+        ],
+        [
+            36,
+            "IRONDEFENSE"
+        ],
+        [
+            40,
+            "FLAMETHROWER"
+        ],
+        [
+            44,
+            "CURSE"
+        ],
+        [
+            48,
+            "HEATWAVE"
+        ],
+        [
+            52,
+            "AMNESIA"
+        ],
+        [
+            56,
+            "INFERNO"
+        ],
+        [
+            60,
+            "SHELLSMASH"
+        ],
+        [
+            64,
+            "ERUPTION"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AMNESIA",
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "BURNINGJEALOUSY",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEADBUTT",
+        "HEATCRASH",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "WEATHERBALL",
+        "WILLOWISP"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "CLEARSMOG",
+        "ERUPTION",
+        "FISSURE",
+        "FLAIL",
+        "SKULLBASH",
+        "SUPERPOWER",
+        "YAWN"
+    ],
+    "height": 0.5,
+    "weight": 80.4,
+    "abilities": [
+        "WHITESMOKE",
+        "DROUGHT"
+    ],
+    "hiddenAbilitie": [
+        "SHELLARMOR"
+    ],
+    "baseTotal": 470,
+    "baseStats": [
+        70,
+        85,
+        140,
+        20,
+        85,
+        70
+    ],
+    "flags": [],
+    "name": "Torkoal",
+    "species": "TORKOAL",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 165,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 324
+}

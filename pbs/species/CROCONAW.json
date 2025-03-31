@@ -1,0 +1,174 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            8,
+            "MUDSLAP"
+        ],
+        [
+            13,
+            "BITE"
+        ],
+        [
+            15,
+            "SCARYFACE"
+        ],
+        [
+            21,
+            "ICEFANG"
+        ],
+        [
+            24,
+            "FLAIL"
+        ],
+        [
+            30,
+            "CRUNCH"
+        ],
+        [
+            33,
+            "LOWKICK"
+        ],
+        [
+            34,
+            "SLASH"
+        ],
+        [
+            37,
+            "SCREECH"
+        ],
+        [
+            42,
+            "THRASH"
+        ],
+        [
+            47,
+            "AQUATAIL"
+        ],
+        [
+            50,
+            "SUPERPOWER"
+        ],
+        [
+            55,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DYNAMICPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONTAIL",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 25.0,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "SHEERFORCE"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        65,
+        80,
+        80,
+        58,
+        59,
+        63
+    ],
+    "flags": [],
+    "name": "Croconaw",
+    "species": "CROCONAW",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 142,
+    "evs": [
+        "ATTACK",
+        1,
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 159
+}

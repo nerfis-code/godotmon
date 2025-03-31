@@ -1,0 +1,186 @@
+{
+    "generation": 5,
+    "primaryType": "DRAGON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            3,
+            "BITE"
+        ],
+        [
+            6,
+            "FALSESWIPE"
+        ],
+        [
+            9,
+            "ASSURANCE"
+        ],
+        [
+            12,
+            "TAUNT"
+        ],
+        [
+            15,
+            "SLASH"
+        ],
+        [
+            18,
+            "DRAGONCLAW"
+        ],
+        [
+            21,
+            "SCARYFACE"
+        ],
+        [
+            24,
+            "CRUNCH"
+        ],
+        [
+            27,
+            "DRAGONDANCE"
+        ],
+        [
+            30,
+            "DUALCHOP"
+        ],
+        [
+            30,
+            "BREAKINGSWIPE"
+        ],
+        [
+            33,
+            "LASERFOCUS"
+        ],
+        [
+            33,
+            "FOCUSENERGY"
+        ],
+        [
+            36,
+            "DRAGONPULSE"
+        ],
+        [
+            39,
+            "SWORDSDANCE"
+        ],
+        [
+            42,
+            "OUTRAGE"
+        ],
+        [
+            45,
+            "GUILLOTINE"
+        ],
+        [
+            48,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BREAKINGSWIPE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DUALCHOP",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "INCINERATE",
+        "IRONTAIL",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROAR",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TOXIC",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "COUNTER",
+        "ENDEAVOR",
+        "FIRSTIMPRESSION",
+        "HARDEN",
+        "NIGHTSLASH"
+    ],
+    "height": 0.6,
+    "weight": 18.0,
+    "abilities": [
+        "RIVALRY",
+        "MOLDBREAKER"
+    ],
+    "hiddenAbilitie": [
+        "UNNERVE"
+    ],
+    "baseTotal": 320,
+    "baseStats": [
+        46,
+        87,
+        60,
+        57,
+        30,
+        40
+    ],
+    "flags": [],
+    "name": "Axew",
+    "species": "AXEW",
+    "catchRate": 75,
+    "happiness": 35,
+    "baseExp": 64,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 610
+}

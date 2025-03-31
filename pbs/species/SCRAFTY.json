@@ -1,0 +1,192 @@
+{
+    "generation": 5,
+    "primaryType": "DARK",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            1,
+            "LOWKICK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "PAYBACK"
+        ],
+        [
+            1,
+            "HEADBUTT"
+        ],
+        [
+            12,
+            "SANDATTACK"
+        ],
+        [
+            16,
+            "FACADE"
+        ],
+        [
+            20,
+            "PROTECT"
+        ],
+        [
+            20,
+            "TORMENT"
+        ],
+        [
+            24,
+            "BEATUP"
+        ],
+        [
+            28,
+            "SCARYFACE"
+        ],
+        [
+            32,
+            "BRICKBREAK"
+        ],
+        [
+            36,
+            "SWAGGER"
+        ],
+        [
+            42,
+            "CRUNCH"
+        ],
+        [
+            48,
+            "HIGHJUMPKICK"
+        ],
+        [
+            54,
+            "FOCUSPUNCH"
+        ],
+        [
+            60,
+            "HEADSMASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BRICKBREAK",
+        "BULKUP",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SMACKDOWN",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "TOXIC",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 30.0,
+    "abilities": [
+        "SHEDSKIN",
+        "MOXIE"
+    ],
+    "hiddenAbilitie": [
+        "INTIMIDATE"
+    ],
+    "baseTotal": 488,
+    "baseStats": [
+        65,
+        90,
+        115,
+        58,
+        45,
+        115
+    ],
+    "flags": [],
+    "name": "Scrafty",
+    "species": "SCRAFTY",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 171,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 560
+}

@@ -1,0 +1,194 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "ROLLOUT"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            6,
+            "BUBBLEBEAM"
+        ],
+        [
+            9,
+            "CHARM"
+        ],
+        [
+            12,
+            "SLAM"
+        ],
+        [
+            15,
+            "BOUNCE"
+        ],
+        [
+            21,
+            "AQUATAIL"
+        ],
+        [
+            25,
+            "PLAYROUGH"
+        ],
+        [
+            30,
+            "AQUARING"
+        ],
+        [
+            35,
+            "RAINDANCE"
+        ],
+        [
+            40,
+            "HYDROPUMP"
+        ],
+        [
+            45,
+            "DOUBLEEDGE"
+        ],
+        [
+            50,
+            "SUPERPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DEFENSECURL",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DYNAMICPUNCH",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HAIL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "MISTYTERRAIN",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELROLLER",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 28.5,
+    "abilities": [
+        "THICKFAT",
+        "HUGEPOWER"
+    ],
+    "hiddenAbilitie": [
+        "SAPSIPPER"
+    ],
+    "baseTotal": 420,
+    "baseStats": [
+        100,
+        50,
+        80,
+        50,
+        60,
+        80
+    ],
+    "flags": [],
+    "name": "Azumarill",
+    "species": "AZUMARILL",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 210,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 184
+}

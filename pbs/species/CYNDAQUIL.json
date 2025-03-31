@@ -1,0 +1,471 @@
+{
+    "generation": 2,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            6,
+            "SMOKESCREEN"
+        ],
+        [
+            10,
+            "EMBER"
+        ],
+        [
+            13,
+            "QUICKATTACK"
+        ],
+        [
+            19,
+            "FLAMEWHEEL"
+        ],
+        [
+            22,
+            "DEFENSECURL"
+        ],
+        [
+            28,
+            "FLAMECHARGE"
+        ],
+        [
+            31,
+            "SWIFT"
+        ],
+        [
+            37,
+            "LAVAPLUME"
+        ],
+        [
+            40,
+            "FLAMETHROWER"
+        ],
+        [
+            46,
+            "INFERNO"
+        ],
+        [
+            49,
+            "ROLLOUT"
+        ],
+        [
+            55,
+            "DOUBLEEDGE"
+        ],
+        [
+            58,
+            "BURNUP"
+        ],
+        [
+            58,
+            "OVERHEAT"
+        ],
+        [
+            64,
+            "ERUPTION"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPLEDGE",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "INCINERATE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "WILDCHARGE",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "COVET",
+        "CRUSHCLAW",
+        "DOUBLEEDGE",
+        "DOUBLEKICK",
+        "EXTRASENSORY",
+        "FLAREBLITZ",
+        "FURYSWIPES",
+        "HOWL",
+        "NATUREPOWER",
+        "QUICKATTACK",
+        "REVERSAL",
+        "THRASH"
+    ],
+    "height": 0.5,
+    "weight": 7.9,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "FLASHFIRE"
+    ],
+    "baseTotal": 309,
+    "baseStats": [
+        39,
+        52,
+        43,
+        65,
+        60,
+        50
+    ],
+    "flags": [],
+    "name": "Cyndaquil",
+    "species": "CYNDAQUIL",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [
+        {
+            "generation": 2,
+            "primaryType": "FIRE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    6,
+                    "SMOKESCREEN"
+                ],
+                [
+                    10,
+                    "EMBER"
+                ],
+                [
+                    13,
+                    "QUICKATTACK"
+                ],
+                [
+                    19,
+                    "FLAMEWHEEL"
+                ],
+                [
+                    22,
+                    "DEFENSECURL"
+                ],
+                [
+                    28,
+                    "FLAMECHARGE"
+                ],
+                [
+                    31,
+                    "SWIFT"
+                ],
+                [
+                    37,
+                    "LAVAPLUME"
+                ],
+                [
+                    40,
+                    "FLAMETHROWER"
+                ],
+                [
+                    46,
+                    "INFERNO"
+                ],
+                [
+                    49,
+                    "ROLLOUT"
+                ],
+                [
+                    55,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    58,
+                    "BURNUP"
+                ],
+                [
+                    58,
+                    "OVERHEAT"
+                ],
+                [
+                    64,
+                    "ERUPTION"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ATTRACT",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREPLEDGE",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FRUSTRATION",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "INCINERATE",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "OVERHEAT",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROLLOUT",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "WILDCHARGE",
+                "WILLOWISP",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "COVET",
+                "CRUSHCLAW",
+                "DOUBLEEDGE",
+                "DOUBLEKICK",
+                "EXTRASENSORY",
+                "FLAREBLITZ",
+                "FURYSWIPES",
+                "HOWL",
+                "NATUREPOWER",
+                "QUICKATTACK",
+                "REVERSAL",
+                "THRASH"
+            ],
+            "height": 0.5,
+            "weight": 7.9,
+            "abilities": [
+                "BLAZE"
+            ],
+            "hiddenAbilitie": [
+                "FLASHFIRE"
+            ],
+            "baseTotal": 309,
+            "baseStats": [
+                39,
+                52,
+                43,
+                65,
+                60,
+                50
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Cyndaquil"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FIRE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    6,
+                    "SMOKESCREEN"
+                ],
+                [
+                    10,
+                    "EMBER"
+                ],
+                [
+                    13,
+                    "QUICKATTACK"
+                ],
+                [
+                    19,
+                    "FLAMEWHEEL"
+                ],
+                [
+                    22,
+                    "DEFENSECURL"
+                ],
+                [
+                    28,
+                    "FLAMECHARGE"
+                ],
+                [
+                    31,
+                    "SWIFT"
+                ],
+                [
+                    37,
+                    "LAVAPLUME"
+                ],
+                [
+                    40,
+                    "FLAMETHROWER"
+                ],
+                [
+                    46,
+                    "INFERNO"
+                ],
+                [
+                    49,
+                    "ROLLOUT"
+                ],
+                [
+                    55,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    58,
+                    "BURNUP"
+                ],
+                [
+                    58,
+                    "OVERHEAT"
+                ],
+                [
+                    64,
+                    "ERUPTION"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ATTRACT",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREPLEDGE",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FRUSTRATION",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "INCINERATE",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "OVERHEAT",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROLLOUT",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "WILDCHARGE",
+                "WILLOWISP",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "COVET",
+                "CRUSHCLAW",
+                "DOUBLEEDGE",
+                "DOUBLEKICK",
+                "EXTRASENSORY",
+                "FLAREBLITZ",
+                "FURYSWIPES",
+                "HOWL",
+                "NATUREPOWER",
+                "QUICKATTACK",
+                "REVERSAL",
+                "THRASH"
+            ],
+            "height": 0.5,
+            "weight": 7.9,
+            "abilities": [
+                "BLAZE"
+            ],
+            "hiddenAbilitie": [
+                "FLASHFIRE"
+            ],
+            "baseTotal": 309,
+            "baseStats": [
+                39,
+                52,
+                43,
+                65,
+                60,
+                50
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Cyndaquil"
+        }
+    ],
+    "internationalPokedex": 155
+}

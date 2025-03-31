@@ -1,0 +1,164 @@
+{
+    "generation": 2,
+    "primaryType": "FIRE",
+    "secondaryType": "ROCK",
+    "moves": [
+        [
+            -1,
+            "SHELLSMASH"
+        ],
+        [
+            1,
+            "EARTHPOWER"
+        ],
+        [
+            1,
+            "YAWN"
+        ],
+        [
+            1,
+            "SMOG"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "ROCKTHROW"
+        ],
+        [
+            13,
+            "HARDEN"
+        ],
+        [
+            20,
+            "CLEARSMOG"
+        ],
+        [
+            22,
+            "ANCIENTPOWER"
+        ],
+        [
+            27,
+            "INCINERATE"
+        ],
+        [
+            29,
+            "ROCKSLIDE"
+        ],
+        [
+            34,
+            "LAVAPLUME"
+        ],
+        [
+            36,
+            "AMNESIA"
+        ],
+        [
+            43,
+            "BODYSLAM"
+        ],
+        [
+            47,
+            "RECOVER"
+        ],
+        [
+            54,
+            "FLAMETHROWER"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OVERHEAT",
+        "PAINSPLIT",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 55.0,
+    "abilities": [
+        "MAGMAARMOR",
+        "FLAMEBODY"
+    ],
+    "hiddenAbilitie": [
+        "WEAKARMOR"
+    ],
+    "baseTotal": 430,
+    "baseStats": [
+        60,
+        50,
+        120,
+        30,
+        90,
+        80
+    ],
+    "flags": [],
+    "name": "Magcargo",
+    "species": "MAGCARGO",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 151,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 219
+}

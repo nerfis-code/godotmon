@@ -1,0 +1,154 @@
+{
+    "generation": 1,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            -1,
+            "TRIATTACK"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            8,
+            "LEER"
+        ],
+        [
+            12,
+            "FURYATTACK"
+        ],
+        [
+            15,
+            "WINGATTACK"
+        ],
+        [
+            15,
+            "PLUCK"
+        ],
+        [
+            19,
+            "DOUBLEHIT"
+        ],
+        [
+            23,
+            "AGILITY"
+        ],
+        [
+            26,
+            "UPROAR"
+        ],
+        [
+            30,
+            "ACUPRESSURE"
+        ],
+        [
+            34,
+            "SWORDSDANCE"
+        ],
+        [
+            38,
+            "DRILLPECK"
+        ],
+        [
+            43,
+            "LUNGE"
+        ],
+        [
+            43,
+            "ENDEAVOR"
+        ],
+        [
+            50,
+            "THRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "KNOCKOFF",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PLUCK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "UPROAR",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 85.2,
+    "abilities": [
+        "RUNAWAY",
+        "EARLYBIRD"
+    ],
+    "hiddenAbilitie": [
+        "TANGLEDFEET"
+    ],
+    "baseTotal": 470,
+    "baseStats": [
+        60,
+        110,
+        70,
+        110,
+        60,
+        60
+    ],
+    "flags": [],
+    "name": "Dodrio",
+    "species": "DODRIO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 165,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 85
+}

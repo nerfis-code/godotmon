@@ -1,0 +1,175 @@
+{
+    "generation": 3,
+    "primaryType": "GHOST",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            4,
+            "SCREECH"
+        ],
+        [
+            7,
+            "NIGHTSHADE"
+        ],
+        [
+            10,
+            "SPITE"
+        ],
+        [
+            16,
+            "WILLOWISP"
+        ],
+        [
+            19,
+            "SHADOWSNEAK"
+        ],
+        [
+            19,
+            "PAINSPLIT"
+        ],
+        [
+            22,
+            "HEX"
+        ],
+        [
+            26,
+            "CURSE"
+        ],
+        [
+            30,
+            "SHADOWBALL"
+        ],
+        [
+            34,
+            "ROLEPLAY"
+        ],
+        [
+            38,
+            "SUCKERPUNCH"
+        ],
+        [
+            42,
+            "KNOCKOFF"
+        ],
+        [
+            42,
+            "TRICK"
+        ],
+        [
+            46,
+            "GRUDGE"
+        ],
+        [
+            48,
+            "PHANTOMFORCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BODYSLAM",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DARKPULSE",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICYWIND",
+        "KNOCKOFF",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRICK",
+        "TRICKROOM",
+        "WILLOWISP"
+    ],
+    "eggMoves": [
+        "ASTONISH",
+        "CONFUSERAY",
+        "DESTINYBOND",
+        "DISABLE",
+        "GUNKSHOT",
+        "IMPRISON",
+        "PHANTOMFORCE",
+        "SHADOWSNEAK"
+    ],
+    "height": 0.6,
+    "weight": 2.3,
+    "abilities": [
+        "INSOMNIA",
+        "FRISK"
+    ],
+    "hiddenAbilitie": [
+        "CURSEDBODY"
+    ],
+    "baseTotal": 295,
+    "baseStats": [
+        44,
+        75,
+        35,
+        45,
+        63,
+        33
+    ],
+    "flags": [],
+    "name": "Shuppet",
+    "species": "SHUPPET",
+    "catchRate": 225,
+    "happiness": 35,
+    "baseExp": 59,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 353
+}

@@ -1,0 +1,160 @@
+{
+    "generation": 3,
+    "primaryType": "BUG",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            1,
+            "SHADOWCLAW"
+        ],
+        [
+            1,
+            "GRUDGE"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            1,
+            "DIG"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "FALSESWIPE"
+        ],
+        [
+            15,
+            "CONFUSERAY"
+        ],
+        [
+            23,
+            "ABSORB"
+        ],
+        [
+            29,
+            "SHADOWSNEAK"
+        ],
+        [
+            36,
+            "FURYSWIPES"
+        ],
+        [
+            43,
+            "MINDREADER"
+        ],
+        [
+            50,
+            "SHADOWBALL"
+        ],
+        [
+            57,
+            "SPITE"
+        ],
+        [
+            64,
+            "PHANTOMFORCE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "ALLYSWITCH",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HEX",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "LEECHLIFE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PHANTOMFORCE",
+        "POLTERGEIST",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THIEF",
+        "TRICK",
+        "WILLOWISP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 1.2,
+    "abilities": [
+        "WONDERGUARD"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 236,
+    "baseStats": [
+        1,
+        90,
+        45,
+        40,
+        30,
+        30
+    ],
+    "flags": [],
+    "name": "Shedinja",
+    "species": "SHEDINJA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 83,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 292
+}

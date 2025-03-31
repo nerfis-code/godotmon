@@ -1,0 +1,522 @@
+{
+    "generation": 4,
+    "primaryType": "WATER",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "SCARYFACE"
+        ],
+        [
+            1,
+            "WATERPULSE"
+        ],
+        [
+            8,
+            "DRAGONBREATH"
+        ],
+        [
+            16,
+            "ANCIENTPOWER"
+        ],
+        [
+            24,
+            "SLASH"
+        ],
+        [
+            32,
+            "AQUARING"
+        ],
+        [
+            48,
+            "DRAGONCLAW"
+        ],
+        [
+            48,
+            "AURASPHERE"
+        ],
+        [
+            56,
+            "POWERGEM"
+        ],
+        [
+            64,
+            "AQUATAIL"
+        ],
+        [
+            72,
+            "EARTHPOWER"
+        ],
+        [
+            80,
+            "SPACIALREND"
+        ],
+        [
+            88,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "AURASPHERE",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "BRINE",
+        "BULKUP",
+        "BULLDOZE",
+        "CONFIDE",
+        "CUT",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HAIL",
+        "HEADBUTT",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "INCINERATE",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "POWERGEM",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRICKROOM",
+        "TWISTER",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 4.2,
+    "weight": 336.0,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 680,
+    "baseStats": [
+        90,
+        120,
+        100,
+        100,
+        150,
+        120
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Palkia",
+    "species": "PALKIA",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 340,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 4,
+            "primaryType": "WATER",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    1,
+                    "SCARYFACE"
+                ],
+                [
+                    1,
+                    "WATERPULSE"
+                ],
+                [
+                    8,
+                    "DRAGONBREATH"
+                ],
+                [
+                    16,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    24,
+                    "SLASH"
+                ],
+                [
+                    32,
+                    "AQUARING"
+                ],
+                [
+                    48,
+                    "DRAGONCLAW"
+                ],
+                [
+                    48,
+                    "AURASPHERE"
+                ],
+                [
+                    56,
+                    "POWERGEM"
+                ],
+                [
+                    64,
+                    "AQUATAIL"
+                ],
+                [
+                    72,
+                    "EARTHPOWER"
+                ],
+                [
+                    80,
+                    "SPACIALREND"
+                ],
+                [
+                    88,
+                    "HYDROPUMP"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ANCIENTPOWER",
+                "AQUATAIL",
+                "AURASPHERE",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRICKBREAK",
+                "BRINE",
+                "BULKUP",
+                "BULLDOZE",
+                "CONFIDE",
+                "CUT",
+                "DIVE",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "DUALWINGBEAT",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMETHROWER",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "HAIL",
+                "HEADBUTT",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "INCINERATE",
+                "LIQUIDATION",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "POWERGEM",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRICKROOM",
+                "TWISTER",
+                "WATERPULSE",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [],
+            "height": 4.2,
+            "weight": 336.0,
+            "abilities": [
+                "PRESSURE"
+            ],
+            "hiddenAbilitie": [
+                "TELEPATHY"
+            ],
+            "baseTotal": 680,
+            "baseStats": [
+                90,
+                120,
+                100,
+                100,
+                150,
+                120
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 0,
+            "formName": "Palkia"
+        },
+        {
+            "generation": 4,
+            "primaryType": "WATER",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    1,
+                    "SCARYFACE"
+                ],
+                [
+                    1,
+                    "WATERPULSE"
+                ],
+                [
+                    8,
+                    "DRAGONBREATH"
+                ],
+                [
+                    16,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    24,
+                    "SLASH"
+                ],
+                [
+                    32,
+                    "AQUARING"
+                ],
+                [
+                    48,
+                    "DRAGONCLAW"
+                ],
+                [
+                    48,
+                    "AURASPHERE"
+                ],
+                [
+                    56,
+                    "POWERGEM"
+                ],
+                [
+                    64,
+                    "AQUATAIL"
+                ],
+                [
+                    72,
+                    "EARTHPOWER"
+                ],
+                [
+                    80,
+                    "SPACIALREND"
+                ],
+                [
+                    88,
+                    "HYDROPUMP"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ANCIENTPOWER",
+                "AQUATAIL",
+                "AURASPHERE",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRICKBREAK",
+                "BRINE",
+                "BULKUP",
+                "BULLDOZE",
+                "CONFIDE",
+                "CUT",
+                "DIVE",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "DUALWINGBEAT",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMETHROWER",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "HAIL",
+                "HEADBUTT",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "INCINERATE",
+                "LIQUIDATION",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "POWERGEM",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRICKROOM",
+                "TWISTER",
+                "WATERPULSE",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [],
+            "height": 6.3,
+            "weight": 659.0,
+            "abilities": [
+                "PRESSURE"
+            ],
+            "hiddenAbilitie": [
+                "TELEPATHY"
+            ],
+            "baseTotal": 680,
+            "baseStats": [
+                90,
+                100,
+                100,
+                120,
+                150,
+                120
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 1,
+            "formName": "Forma Origen"
+        }
+    ],
+    "internationalPokedex": 484
+}

@@ -1,0 +1,186 @@
+{
+    "generation": 2,
+    "primaryType": "DARK",
+    "secondaryType": "FIRE",
+    "moves": [
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            4,
+            "HOWL"
+        ],
+        [
+            8,
+            "SMOG"
+        ],
+        [
+            13,
+            "ROAR"
+        ],
+        [
+            16,
+            "BITE"
+        ],
+        [
+            20,
+            "TAUNT"
+        ],
+        [
+            20,
+            "INCINERATE"
+        ],
+        [
+            25,
+            "BEATUP"
+        ],
+        [
+            28,
+            "FIREFANG"
+        ],
+        [
+            32,
+            "PAYBACK"
+        ],
+        [
+            32,
+            "TORMENT"
+        ],
+        [
+            37,
+            "FLAMECHARGE"
+        ],
+        [
+            37,
+            "COMEUPPANCE"
+        ],
+        [
+            40,
+            "FOULPLAY"
+        ],
+        [
+            44,
+            "FLAMETHROWER"
+        ],
+        [
+            49,
+            "CRUNCH"
+        ],
+        [
+            52,
+            "NASTYPLOT"
+        ],
+        [
+            56,
+            "INFERNO"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DARKPULSE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "INCINERATE",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "UPROAR",
+        "WILLOWISP"
+    ],
+    "eggMoves": [
+        "BEATUP",
+        "COUNTER",
+        "DESTINYBOND",
+        "FEINT",
+        "FIREFANG",
+        "FIRESPIN",
+        "REVERSAL",
+        "SPITE",
+        "SUCKERPUNCH",
+        "THUNDERFANG"
+    ],
+    "height": 0.6,
+    "weight": 10.8,
+    "abilities": [
+        "EARLYBIRD",
+        "FLASHFIRE"
+    ],
+    "hiddenAbilitie": [
+        "UNNERVE"
+    ],
+    "baseTotal": 330,
+    "baseStats": [
+        45,
+        60,
+        30,
+        65,
+        80,
+        50
+    ],
+    "flags": [],
+    "name": "Houndour",
+    "species": "HOUNDOUR",
+    "catchRate": 120,
+    "happiness": 35,
+    "baseExp": 66,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 228
+}

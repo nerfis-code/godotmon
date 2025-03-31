@@ -1,0 +1,162 @@
+{
+    "generation": 5,
+    "primaryType": "GRASS",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            1,
+            "POWERWHIP"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            1,
+            "PINMISSILE"
+        ],
+        [
+            15,
+            "INGRAIN"
+        ],
+        [
+            20,
+            "FLASHCANNON"
+        ],
+        [
+            25,
+            "IRONHEAD"
+        ],
+        [
+            30,
+            "SELFDESTRUCT"
+        ],
+        [
+            35,
+            "IRONDEFENSE"
+        ],
+        [
+            43,
+            "CURSE"
+        ],
+        [
+            49,
+            "GYROBALL"
+        ],
+        [
+            56,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ASSURANCE",
+        "ATTRACT",
+        "BLOCK",
+        "BODYPRESS",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GYROBALL",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "PINMISSILE",
+        "POISONJAB",
+        "POWERWHIP",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROCKPOLISH",
+        "ROCKSMASH",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SELFDESTRUCT",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPIKES",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STEELROLLER",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 110.0,
+    "abilities": [
+        "IRONBARBS"
+    ],
+    "hiddenAbilitie": [
+        "ANTICIPATION"
+    ],
+    "baseTotal": 489,
+    "baseStats": [
+        74,
+        94,
+        131,
+        20,
+        54,
+        116
+    ],
+    "flags": [],
+    "name": "Ferrothorn",
+    "species": "FERROTHORN",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 171,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 598
+}

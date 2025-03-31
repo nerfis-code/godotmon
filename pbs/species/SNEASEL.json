@@ -1,0 +1,502 @@
+{
+    "generation": 2,
+    "primaryType": "DARK",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            6,
+            "TAUNT"
+        ],
+        [
+            12,
+            "QUICKATTACK"
+        ],
+        [
+            18,
+            "METALCLAW"
+        ],
+        [
+            24,
+            "ICYWIND"
+        ],
+        [
+            30,
+            "FURYSWIPES"
+        ],
+        [
+            36,
+            "HONECLAWS"
+        ],
+        [
+            42,
+            "BEATUP"
+        ],
+        [
+            48,
+            "AGILITY"
+        ],
+        [
+            54,
+            "SCREECH"
+        ],
+        [
+            60,
+            "SLASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "ATTRACT",
+        "AVALANCHE",
+        "BEATUP",
+        "BLIZZARD",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DARKPULSE",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TORMENT",
+        "TRIPLEAXEL",
+        "WHIRLPOOL",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "BITE",
+        "COUNTER",
+        "CRUSHCLAW",
+        "DOUBLEHIT",
+        "FAKEOUT",
+        "FEINT",
+        "ICEPUNCH",
+        "ICESHARD",
+        "ICICLECRASH",
+        "SPITE",
+        "THROATCHOP"
+    ],
+    "height": 0.9,
+    "weight": 28.0,
+    "abilities": [
+        "INNERFOCUS",
+        "KEENEYE"
+    ],
+    "hiddenAbilitie": [
+        "PICKPOCKET"
+    ],
+    "baseTotal": 430,
+    "baseStats": [
+        55,
+        95,
+        55,
+        115,
+        35,
+        75
+    ],
+    "flags": [],
+    "name": "Sneasel",
+    "species": "SNEASEL",
+    "catchRate": 60,
+    "happiness": 35,
+    "baseExp": 86,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 2,
+            "primaryType": "DARK",
+            "secondaryType": "ICE",
+            "moves": [
+                [
+                    1,
+                    "SCRATCH"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    6,
+                    "TAUNT"
+                ],
+                [
+                    12,
+                    "QUICKATTACK"
+                ],
+                [
+                    18,
+                    "METALCLAW"
+                ],
+                [
+                    24,
+                    "ICYWIND"
+                ],
+                [
+                    30,
+                    "FURYSWIPES"
+                ],
+                [
+                    36,
+                    "HONECLAWS"
+                ],
+                [
+                    42,
+                    "BEATUP"
+                ],
+                [
+                    48,
+                    "AGILITY"
+                ],
+                [
+                    54,
+                    "SCREECH"
+                ],
+                [
+                    60,
+                    "SLASH"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "ATTRACT",
+                "AVALANCHE",
+                "BEATUP",
+                "BLIZZARD",
+                "BRICKBREAK",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COUNTER",
+                "CUT",
+                "DARKPULSE",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "DYNAMICPUNCH",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FALSESWIPE",
+                "FLING",
+                "FOCUSPUNCH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "HAIL",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "ICEBEAM",
+                "ICEPUNCH",
+                "ICYWIND",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LASERFOCUS",
+                "LASHOUT",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PAYBACK",
+                "POISONJAB",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "PSYCHOCUT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROCKSMASH",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SNARL",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "TORMENT",
+                "TRIPLEAXEL",
+                "WHIRLPOOL",
+                "XSCISSOR"
+            ],
+            "eggMoves": [
+                "BITE",
+                "COUNTER",
+                "CRUSHCLAW",
+                "DOUBLEHIT",
+                "FAKEOUT",
+                "FEINT",
+                "ICEPUNCH",
+                "ICESHARD",
+                "ICICLECRASH",
+                "SPITE",
+                "THROATCHOP"
+            ],
+            "height": 0.9,
+            "weight": 28.0,
+            "abilities": [
+                "INNERFOCUS",
+                "KEENEYE"
+            ],
+            "hiddenAbilitie": [
+                "PICKPOCKET"
+            ],
+            "baseTotal": 430,
+            "baseStats": [
+                55,
+                95,
+                55,
+                115,
+                35,
+                75
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Sneasel"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FIGHTING",
+            "secondaryType": "POISON",
+            "moves": [
+                [
+                    1,
+                    "SCRATCH"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "ROCKSMASH"
+                ],
+                [
+                    6,
+                    "TAUNT"
+                ],
+                [
+                    12,
+                    "QUICKATTACK"
+                ],
+                [
+                    18,
+                    "METALCLAW"
+                ],
+                [
+                    24,
+                    "POISONJAB"
+                ],
+                [
+                    30,
+                    "BRICKBREAK"
+                ],
+                [
+                    36,
+                    "HONECLAWS"
+                ],
+                [
+                    42,
+                    "SLASH"
+                ],
+                [
+                    48,
+                    "AGILITY"
+                ],
+                [
+                    54,
+                    "SCREECH"
+                ],
+                [
+                    60,
+                    "CLOSECOMBAT"
+                ]
+            ],
+            "tutorMoves": [
+                "ACIDSPRAY",
+                "AERIALACE",
+                "AGILITY",
+                "BRICKBREAK",
+                "BULKUP",
+                "CALMMIND",
+                "CLOSECOMBAT",
+                "COACHING",
+                "DIG",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GUNKSHOT",
+                "LASHOUT",
+                "LOWKICK",
+                "LOWSWEEP",
+                "METALCLAW",
+                "NASTYPLOT",
+                "POISONJAB",
+                "POISONTAIL",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SPITE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "TOXIC",
+                "TOXICSPIKES",
+                "TRAILBLAZE",
+                "VACUUMWAVE",
+                "VENOSHOCK",
+                "XSCISSOR"
+            ],
+            "eggMoves": [
+                "COUNTER",
+                "DOUBLEHIT",
+                "FAKEOUT",
+                "FEINT",
+                "NIGHTSLASH",
+                "QUICKGUARD",
+                "SWITCHEROO"
+            ],
+            "height": 0.9,
+            "weight": 27.0,
+            "abilities": [
+                "INNERFOCUS",
+                "KEENEYE"
+            ],
+            "hiddenAbilitie": [
+                "PICKPOCKET"
+            ],
+            "baseTotal": 430,
+            "baseStats": [
+                55,
+                95,
+                55,
+                115,
+                35,
+                75
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Hisui"
+        }
+    ],
+    "internationalPokedex": 215
+}

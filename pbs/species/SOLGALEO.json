@@ -1,0 +1,186 @@
+{
+    "generation": 7,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            -1,
+            "SUNSTEELSTRIKE"
+        ],
+        [
+            1,
+            "COSMICPOWER"
+        ],
+        [
+            1,
+            "TELEPORT"
+        ],
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            1,
+            "NOBLEROAR"
+        ],
+        [
+            7,
+            "IRONHEAD"
+        ],
+        [
+            14,
+            "METALSOUND"
+        ],
+        [
+            21,
+            "ZENHEADBUTT"
+        ],
+        [
+            28,
+            "FLASHCANNON"
+        ],
+        [
+            35,
+            "MORNINGSUN"
+        ],
+        [
+            42,
+            "CRUNCH"
+        ],
+        [
+            49,
+            "METALBURST"
+        ],
+        [
+            56,
+            "WILDCHARGE"
+        ],
+        [
+            63,
+            "SOLARBEAM"
+        ],
+        [
+            70,
+            "FLAREBLITZ"
+        ],
+        [
+            77,
+            "WIDEGUARD"
+        ],
+        [
+            84,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "BULLDOZE",
+        "CALMMIND",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "COSMICPOWER",
+        "CRUNCH",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLASHCANNON",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEATCRASH",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "METEORBEAM",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICFANGS",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELBEAM",
+        "STEELROLLER",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRICKROOM",
+        "WILDCHARGE",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 3.4,
+    "weight": 230.0,
+    "abilities": [
+        "FULLMETALBODY"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 680,
+    "baseStats": [
+        137,
+        137,
+        107,
+        97,
+        113,
+        89
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Solgaleo",
+    "species": "SOLGALEO",
+    "catchRate": 45,
+    "happiness": 0,
+    "baseExp": 340,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 791
+}

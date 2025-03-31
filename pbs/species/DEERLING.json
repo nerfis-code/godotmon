@@ -1,0 +1,767 @@
+{
+    "generation": 5,
+    "primaryType": "NORMAL",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "CAMOUFLAGE"
+        ],
+        [
+            4,
+            "GROWL"
+        ],
+        [
+            7,
+            "SANDATTACK"
+        ],
+        [
+            10,
+            "DOUBLEKICK"
+        ],
+        [
+            13,
+            "LEECHSEED"
+        ],
+        [
+            16,
+            "FEINTATTACK"
+        ],
+        [
+            16,
+            "BULLETSEED"
+        ],
+        [
+            20,
+            "TAKEDOWN"
+        ],
+        [
+            24,
+            "JUMPKICK"
+        ],
+        [
+            24,
+            "ZENHEADBUTT"
+        ],
+        [
+            28,
+            "AROMATHERAPY"
+        ],
+        [
+            28,
+            "ENERGYBALL"
+        ],
+        [
+            32,
+            "CHARM"
+        ],
+        [
+            41,
+            "NATUREPOWER"
+        ],
+        [
+            42,
+            "SOLARBEAM"
+        ],
+        [
+            46,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "THUNDERWAVE",
+        "TOXIC",
+        "WILDCHARGE",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "AGILITY",
+        "BATONPASS",
+        "FAKETEARS",
+        "GRASSWHISTLE",
+        "HEADBUTT",
+        "NATURALGIFT",
+        "ODORSLEUTH",
+        "SLEEPTALK",
+        "SYNTHESIS",
+        "WORRYSEED"
+    ],
+    "height": 0.6,
+    "weight": 19.5,
+    "abilities": [
+        "CHLOROPHYLL",
+        "SAPSIPPER"
+    ],
+    "hiddenAbilitie": [
+        "SERENEGRACE"
+    ],
+    "baseTotal": 335,
+    "baseStats": [
+        60,
+        60,
+        50,
+        75,
+        40,
+        50
+    ],
+    "flags": [],
+    "name": "Deerling",
+    "species": "DEERLING",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 67,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "NORMAL",
+            "secondaryType": "GRASS",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "CAMOUFLAGE"
+                ],
+                [
+                    4,
+                    "GROWL"
+                ],
+                [
+                    7,
+                    "SANDATTACK"
+                ],
+                [
+                    10,
+                    "DOUBLEKICK"
+                ],
+                [
+                    13,
+                    "LEECHSEED"
+                ],
+                [
+                    16,
+                    "FEINTATTACK"
+                ],
+                [
+                    16,
+                    "BULLETSEED"
+                ],
+                [
+                    20,
+                    "TAKEDOWN"
+                ],
+                [
+                    24,
+                    "JUMPKICK"
+                ],
+                [
+                    24,
+                    "ZENHEADBUTT"
+                ],
+                [
+                    28,
+                    "AROMATHERAPY"
+                ],
+                [
+                    28,
+                    "ENERGYBALL"
+                ],
+                [
+                    32,
+                    "CHARM"
+                ],
+                [
+                    41,
+                    "NATUREPOWER"
+                ],
+                [
+                    42,
+                    "SOLARBEAM"
+                ],
+                [
+                    46,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BOUNCE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "HIDDENPOWER",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "THUNDERWAVE",
+                "TOXIC",
+                "WILDCHARGE",
+                "WORKUP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "AGILITY",
+                "BATONPASS",
+                "FAKETEARS",
+                "GRASSWHISTLE",
+                "HEADBUTT",
+                "NATURALGIFT",
+                "ODORSLEUTH",
+                "SLEEPTALK",
+                "SYNTHESIS",
+                "WORRYSEED"
+            ],
+            "height": 0.6,
+            "weight": 19.5,
+            "abilities": [
+                "CHLOROPHYLL",
+                "SAPSIPPER"
+            ],
+            "hiddenAbilitie": [
+                "SERENEGRACE"
+            ],
+            "baseTotal": 335,
+            "baseStats": [
+                60,
+                60,
+                50,
+                75,
+                40,
+                50
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Primavera"
+        },
+        {
+            "generation": 5,
+            "primaryType": "NORMAL",
+            "secondaryType": "GRASS",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "CAMOUFLAGE"
+                ],
+                [
+                    4,
+                    "GROWL"
+                ],
+                [
+                    7,
+                    "SANDATTACK"
+                ],
+                [
+                    10,
+                    "DOUBLEKICK"
+                ],
+                [
+                    13,
+                    "LEECHSEED"
+                ],
+                [
+                    16,
+                    "FEINTATTACK"
+                ],
+                [
+                    16,
+                    "BULLETSEED"
+                ],
+                [
+                    20,
+                    "TAKEDOWN"
+                ],
+                [
+                    24,
+                    "JUMPKICK"
+                ],
+                [
+                    24,
+                    "ZENHEADBUTT"
+                ],
+                [
+                    28,
+                    "AROMATHERAPY"
+                ],
+                [
+                    28,
+                    "ENERGYBALL"
+                ],
+                [
+                    32,
+                    "CHARM"
+                ],
+                [
+                    41,
+                    "NATUREPOWER"
+                ],
+                [
+                    42,
+                    "SOLARBEAM"
+                ],
+                [
+                    46,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BOUNCE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "HIDDENPOWER",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "THUNDERWAVE",
+                "TOXIC",
+                "WILDCHARGE",
+                "WORKUP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "AGILITY",
+                "BATONPASS",
+                "FAKETEARS",
+                "GRASSWHISTLE",
+                "HEADBUTT",
+                "NATURALGIFT",
+                "ODORSLEUTH",
+                "SLEEPTALK",
+                "SYNTHESIS",
+                "WORRYSEED"
+            ],
+            "height": 0.6,
+            "weight": 19.5,
+            "abilities": [
+                "CHLOROPHYLL",
+                "SAPSIPPER"
+            ],
+            "hiddenAbilitie": [
+                "SERENEGRACE"
+            ],
+            "baseTotal": 335,
+            "baseStats": [
+                60,
+                60,
+                50,
+                75,
+                40,
+                50
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Verano"
+        },
+        {
+            "generation": 5,
+            "primaryType": "NORMAL",
+            "secondaryType": "GRASS",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "CAMOUFLAGE"
+                ],
+                [
+                    4,
+                    "GROWL"
+                ],
+                [
+                    7,
+                    "SANDATTACK"
+                ],
+                [
+                    10,
+                    "DOUBLEKICK"
+                ],
+                [
+                    13,
+                    "LEECHSEED"
+                ],
+                [
+                    16,
+                    "FEINTATTACK"
+                ],
+                [
+                    16,
+                    "BULLETSEED"
+                ],
+                [
+                    20,
+                    "TAKEDOWN"
+                ],
+                [
+                    24,
+                    "JUMPKICK"
+                ],
+                [
+                    24,
+                    "ZENHEADBUTT"
+                ],
+                [
+                    28,
+                    "AROMATHERAPY"
+                ],
+                [
+                    28,
+                    "ENERGYBALL"
+                ],
+                [
+                    32,
+                    "CHARM"
+                ],
+                [
+                    41,
+                    "NATUREPOWER"
+                ],
+                [
+                    42,
+                    "SOLARBEAM"
+                ],
+                [
+                    46,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BOUNCE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "HIDDENPOWER",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "THUNDERWAVE",
+                "TOXIC",
+                "WILDCHARGE",
+                "WORKUP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "AGILITY",
+                "BATONPASS",
+                "FAKETEARS",
+                "GRASSWHISTLE",
+                "HEADBUTT",
+                "NATURALGIFT",
+                "ODORSLEUTH",
+                "SLEEPTALK",
+                "SYNTHESIS",
+                "WORRYSEED"
+            ],
+            "height": 0.6,
+            "weight": 19.5,
+            "abilities": [
+                "CHLOROPHYLL",
+                "SAPSIPPER"
+            ],
+            "hiddenAbilitie": [
+                "SERENEGRACE"
+            ],
+            "baseTotal": 335,
+            "baseStats": [
+                60,
+                60,
+                50,
+                75,
+                40,
+                50
+            ],
+            "flags": [],
+            "form": 2,
+            "formName": "Forma Otoño"
+        },
+        {
+            "generation": 5,
+            "primaryType": "NORMAL",
+            "secondaryType": "GRASS",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "CAMOUFLAGE"
+                ],
+                [
+                    4,
+                    "GROWL"
+                ],
+                [
+                    7,
+                    "SANDATTACK"
+                ],
+                [
+                    10,
+                    "DOUBLEKICK"
+                ],
+                [
+                    13,
+                    "LEECHSEED"
+                ],
+                [
+                    16,
+                    "FEINTATTACK"
+                ],
+                [
+                    16,
+                    "BULLETSEED"
+                ],
+                [
+                    20,
+                    "TAKEDOWN"
+                ],
+                [
+                    24,
+                    "JUMPKICK"
+                ],
+                [
+                    24,
+                    "ZENHEADBUTT"
+                ],
+                [
+                    28,
+                    "AROMATHERAPY"
+                ],
+                [
+                    28,
+                    "ENERGYBALL"
+                ],
+                [
+                    32,
+                    "CHARM"
+                ],
+                [
+                    41,
+                    "NATUREPOWER"
+                ],
+                [
+                    42,
+                    "SOLARBEAM"
+                ],
+                [
+                    46,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BOUNCE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "HIDDENPOWER",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "THUNDERWAVE",
+                "TOXIC",
+                "WILDCHARGE",
+                "WORKUP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "AGILITY",
+                "BATONPASS",
+                "FAKETEARS",
+                "GRASSWHISTLE",
+                "HEADBUTT",
+                "NATURALGIFT",
+                "ODORSLEUTH",
+                "SLEEPTALK",
+                "SYNTHESIS",
+                "WORRYSEED"
+            ],
+            "height": 0.6,
+            "weight": 19.5,
+            "abilities": [
+                "CHLOROPHYLL",
+                "SAPSIPPER"
+            ],
+            "hiddenAbilitie": [
+                "SERENEGRACE"
+            ],
+            "baseTotal": 335,
+            "baseStats": [
+                60,
+                60,
+                50,
+                75,
+                40,
+                50
+            ],
+            "flags": [],
+            "form": 3,
+            "formName": "Forma Invierno"
+        }
+    ],
+    "internationalPokedex": 585
+}

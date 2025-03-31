@@ -1,0 +1,161 @@
+{
+    "generation": 2,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            6,
+            "SELFDESTRUCT"
+        ],
+        [
+            9,
+            "BUGBITE"
+        ],
+        [
+            12,
+            "TAKEDOWN"
+        ],
+        [
+            17,
+            "RAPIDSPIN"
+        ],
+        [
+            20,
+            "AUTOTOMIZE"
+        ],
+        [
+            20,
+            "ROLLOUT"
+        ],
+        [
+            23,
+            "CURSE"
+        ],
+        [
+            28,
+            "SPIKES"
+        ],
+        [
+            31,
+            "PAYBACK"
+        ],
+        [
+            34,
+            "EXPLOSION"
+        ],
+        [
+            39,
+            "IRONDEFENSE"
+        ],
+        [
+            42,
+            "GYROBALL"
+        ],
+        [
+            45,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BUGBITE",
+        "BUGBUZZ",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRAVITY",
+        "GYROBALL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [
+        "COUNTER",
+        "DOUBLEEDGE",
+        "FLAIL",
+        "PINMISSILE",
+        "POWERTRICK",
+        "REVENGE",
+        "SANDTOMB",
+        "SWIFT",
+        "TOXICSPIKES"
+    ],
+    "height": 0.6,
+    "weight": 7.2,
+    "abilities": [
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "OVERCOAT"
+    ],
+    "baseTotal": 290,
+    "baseStats": [
+        50,
+        65,
+        90,
+        15,
+        35,
+        35
+    ],
+    "flags": [],
+    "name": "Pineco",
+    "species": "PINECO",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 58,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 204
+}

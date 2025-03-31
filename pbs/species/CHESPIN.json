@@ -1,0 +1,174 @@
+{
+    "generation": 6,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "VINEWHIP"
+        ],
+        [
+            8,
+            "ROLLOUT"
+        ],
+        [
+            11,
+            "BITE"
+        ],
+        [
+            15,
+            "LEECHSEED"
+        ],
+        [
+            18,
+            "PINMISSILE"
+        ],
+        [
+            27,
+            "TAKEDOWN"
+        ],
+        [
+            32,
+            "SEEDBOMB"
+        ],
+        [
+            35,
+            "MUDSHOT"
+        ],
+        [
+            39,
+            "BULKUP"
+        ],
+        [
+            42,
+            "BODYSLAM"
+        ],
+        [
+            45,
+            "PAINSPLIT"
+        ],
+        [
+            48,
+            "WOODHAMMER"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GYROBALL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAINSPLIT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WORKUP",
+        "WORRYSEED",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "BELLYDRUM",
+        "CURSE",
+        "DEFENSECURL",
+        "POWERUPPUNCH",
+        "QUICKGUARD",
+        "ROLLOUT",
+        "SPIKES",
+        "SYNTHESIS"
+    ],
+    "height": 0.4,
+    "weight": 9.0,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "BULLETPROOF"
+    ],
+    "baseTotal": 313,
+    "baseStats": [
+        56,
+        61,
+        65,
+        38,
+        48,
+        45
+    ],
+    "flags": [],
+    "name": "Chespin",
+    "species": "CHESPIN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 63,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 650
+}

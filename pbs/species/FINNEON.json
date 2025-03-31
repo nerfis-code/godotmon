@@ -1,0 +1,156 @@
+{
+    "generation": 4,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            6,
+            "WATERGUN"
+        ],
+        [
+            13,
+            "RAINDANCE"
+        ],
+        [
+            17,
+            "GUST"
+        ],
+        [
+            22,
+            "WATERPULSE"
+        ],
+        [
+            26,
+            "ATTRACT"
+        ],
+        [
+            26,
+            "FLAIL"
+        ],
+        [
+            29,
+            "SAFEGUARD"
+        ],
+        [
+            33,
+            "AQUARING"
+        ],
+        [
+            38,
+            "WHIRLPOOL"
+        ],
+        [
+            42,
+            "UTURN"
+        ],
+        [
+            45,
+            "BOUNCE"
+        ],
+        [
+            49,
+            "TAILWIND"
+        ],
+        [
+            54,
+            "SOAK"
+        ]
+    ],
+    "tutorMoves": [
+        "AIRCUTTER",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BOUNCE",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "HAIL",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OMINOUSWIND",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TWISTER",
+        "UTURN",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "AGILITY",
+        "AQUATAIL",
+        "AURORABEAM",
+        "CHARM",
+        "CONFUSERAY",
+        "FLAIL",
+        "PSYBEAM",
+        "SPLASH",
+        "SWEETKISS",
+        "TICKLE"
+    ],
+    "height": 0.4,
+    "weight": 7.0,
+    "abilities": [
+        "SWIFTSWIM",
+        "STORMDRAIN"
+    ],
+    "hiddenAbilitie": [
+        "WATERVEIL"
+    ],
+    "baseTotal": 330,
+    "baseStats": [
+        49,
+        49,
+        56,
+        66,
+        49,
+        61
+    ],
+    "flags": [],
+    "name": "Finneon",
+    "species": "FINNEON",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 66,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 456
+}

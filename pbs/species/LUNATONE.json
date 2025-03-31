@@ -1,0 +1,187 @@
+{
+    "generation": 3,
+    "primaryType": "ROCK",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "MOONBLAST"
+        ],
+        [
+            1,
+            "MOONLIGHT"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "ROCKTHROW"
+        ],
+        [
+            5,
+            "HYPNOSIS"
+        ],
+        [
+            10,
+            "ROCKPOLISH"
+        ],
+        [
+            15,
+            "ROCKSLIDE"
+        ],
+        [
+            20,
+            "PSYSHOCK"
+        ],
+        [
+            25,
+            "COSMICPOWER"
+        ],
+        [
+            30,
+            "PSYCHIC"
+        ],
+        [
+            35,
+            "STONEEDGE"
+        ],
+        [
+            40,
+            "FUTURESIGHT"
+        ],
+        [
+            45,
+            "MAGICROOM"
+        ],
+        [
+            50,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ALLYSWITCH",
+        "ANCIENTPOWER",
+        "BATONPASS",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COSMICPOWER",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "EMBARGO",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GYROBALL",
+        "HAIL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONHEAD",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "METEORBEAM",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POWERGEM",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TELEKINESIS",
+        "TRICKROOM",
+        "WEATHERBALL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 168.0,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 460,
+    "baseStats": [
+        90,
+        55,
+        65,
+        70,
+        95,
+        85
+    ],
+    "flags": [],
+    "name": "Lunatone",
+    "species": "LUNATONE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 161,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 337
+}

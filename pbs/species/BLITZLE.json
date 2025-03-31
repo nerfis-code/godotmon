@@ -1,0 +1,142 @@
+{
+    "generation": 5,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            4,
+            "TAILWHIP"
+        ],
+        [
+            8,
+            "CHARGE"
+        ],
+        [
+            11,
+            "SHOCKWAVE"
+        ],
+        [
+            15,
+            "THUNDERWAVE"
+        ],
+        [
+            18,
+            "FLAMECHARGE"
+        ],
+        [
+            22,
+            "PURSUIT"
+        ],
+        [
+            22,
+            "SPARK"
+        ],
+        [
+            25,
+            "STOMP"
+        ],
+        [
+            29,
+            "DISCHARGE"
+        ],
+        [
+            33,
+            "AGILITY"
+        ],
+        [
+            35,
+            "WILDCHARGE"
+        ],
+        [
+            40,
+            "THRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLAMECHARGE",
+        "FLASH",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "DOUBLEEDGE",
+        "DOUBLEKICK",
+        "ENDURE",
+        "FEINT",
+        "MEFIRST",
+        "RAGE",
+        "SANDATTACK",
+        "SCREECH",
+        "SHOCKWAVE",
+        "SNATCH",
+        "TAKEDOWN"
+    ],
+    "height": 0.8,
+    "weight": 29.8,
+    "abilities": [
+        "LIGHTNINGROD",
+        "MOTORDRIVE"
+    ],
+    "hiddenAbilitie": [
+        "SAPSIPPER"
+    ],
+    "baseTotal": 295,
+    "baseStats": [
+        45,
+        60,
+        32,
+        76,
+        50,
+        32
+    ],
+    "flags": [],
+    "name": "Blitzle",
+    "species": "BLITZLE",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 59,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 522
+}

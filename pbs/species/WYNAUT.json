@@ -1,0 +1,77 @@
+{
+    "generation": 3,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "COUNTER"
+        ],
+        [
+            1,
+            "MIRRORCOAT"
+        ],
+        [
+            1,
+            "SAFEGUARD"
+        ],
+        [
+            1,
+            "DESTINYBOND"
+        ],
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "ENCORE"
+        ],
+        [
+            1,
+            "AMNESIA"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "CHARM",
+        "ENCORE",
+        "SAFEGUARD"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 14.0,
+    "abilities": [
+        "SHADOWTAG"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 260,
+    "baseStats": [
+        95,
+        23,
+        48,
+        23,
+        23,
+        48
+    ],
+    "flags": [],
+    "name": "Wynaut",
+    "species": "WYNAUT",
+    "catchRate": 125,
+    "happiness": 50,
+    "baseExp": 52,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 360
+}

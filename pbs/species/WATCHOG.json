@@ -1,0 +1,187 @@
+{
+    "generation": 5,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "CONFUSERAY"
+        ],
+        [
+            1,
+            "ROTOTILLER"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LOWKICK"
+        ],
+        [
+            3,
+            "LEER"
+        ],
+        [
+            6,
+            "BITE"
+        ],
+        [
+            8,
+            "BIDE"
+        ],
+        [
+            11,
+            "DETECT"
+        ],
+        [
+            13,
+            "SANDATTACK"
+        ],
+        [
+            16,
+            "CRUNCH"
+        ],
+        [
+            18,
+            "HYPNOSIS"
+        ],
+        [
+            22,
+            "SUPERFANG"
+        ],
+        [
+            25,
+            "AFTERYOU"
+        ],
+        [
+            29,
+            "FOCUSENERGY"
+        ],
+        [
+            32,
+            "PSYCHUP"
+        ],
+        [
+            36,
+            "HYPERFANG"
+        ],
+        [
+            39,
+            "NASTYPLOT"
+        ],
+        [
+            43,
+            "MEANLOOK"
+        ],
+        [
+            46,
+            "BATONPASS"
+        ],
+        [
+            50,
+            "SLAM"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AQUATAIL",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "MIMIC",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TOXIC",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 27.0,
+    "abilities": [
+        "ILLUMINATE",
+        "KEENEYE"
+    ],
+    "hiddenAbilitie": [
+        "ANALYTIC"
+    ],
+    "baseTotal": 420,
+    "baseStats": [
+        60,
+        85,
+        69,
+        77,
+        60,
+        69
+    ],
+    "flags": [],
+    "name": "Watchog",
+    "species": "WATCHOG",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 147,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 505
+}

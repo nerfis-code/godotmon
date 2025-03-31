@@ -1,0 +1,459 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERPULSE"
+        ],
+        [
+            1,
+            "ANCIENTPOWER"
+        ],
+        [
+            1,
+            "BODYSLAM"
+        ],
+        [
+            1,
+            "SCARYFACE"
+        ],
+        [
+            1,
+            "ORIGINPULSE"
+        ],
+        [
+            9,
+            "AQUATAIL"
+        ],
+        [
+            18,
+            "CALMMIND"
+        ],
+        [
+            27,
+            "MUDDYWATER"
+        ],
+        [
+            36,
+            "ICEBEAM"
+        ],
+        [
+            45,
+            "SHEERCOLD"
+        ],
+        [
+            54,
+            "AQUARING"
+        ],
+        [
+            72,
+            "HYDROPUMP"
+        ],
+        [
+            81,
+            "DOUBLEEDGE"
+        ],
+        [
+            90,
+            "WATERSPOUT"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRINE",
+        "BULLDOZE",
+        "CALMMIND",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONHEAD",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 4.5,
+    "weight": 352.0,
+    "abilities": [
+        "DRIZZLE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 670,
+    "baseStats": [
+        100,
+        100,
+        90,
+        90,
+        150,
+        140
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Kyogre",
+    "species": "KYOGRE",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 335,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 3,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WATERPULSE"
+                ],
+                [
+                    1,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    1,
+                    "BODYSLAM"
+                ],
+                [
+                    1,
+                    "SCARYFACE"
+                ],
+                [
+                    1,
+                    "ORIGINPULSE"
+                ],
+                [
+                    9,
+                    "AQUATAIL"
+                ],
+                [
+                    18,
+                    "CALMMIND"
+                ],
+                [
+                    27,
+                    "MUDDYWATER"
+                ],
+                [
+                    36,
+                    "ICEBEAM"
+                ],
+                [
+                    45,
+                    "SHEERCOLD"
+                ],
+                [
+                    54,
+                    "AQUARING"
+                ],
+                [
+                    72,
+                    "HYDROPUMP"
+                ],
+                [
+                    81,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    90,
+                    "WATERSPOUT"
+                ]
+            ],
+            "tutorMoves": [
+                "ANCIENTPOWER",
+                "AQUATAIL",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BLOCK",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRINE",
+                "BULLDOZE",
+                "CALMMIND",
+                "CONFIDE",
+                "DEFENSECURL",
+                "DIVE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HAIL",
+                "HEADBUTT",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONHEAD",
+                "LIQUIDATION",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SCALD",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "UPROAR",
+                "WATERFALL",
+                "WATERPULSE",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [],
+            "height": 4.5,
+            "weight": 352.0,
+            "abilities": [
+                "DRIZZLE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 670,
+            "baseStats": [
+                100,
+                100,
+                90,
+                90,
+                150,
+                140
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 0,
+            "formName": "Kyogre"
+        },
+        {
+            "generation": 6,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WATERPULSE"
+                ],
+                [
+                    1,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    1,
+                    "BODYSLAM"
+                ],
+                [
+                    1,
+                    "SCARYFACE"
+                ],
+                [
+                    1,
+                    "ORIGINPULSE"
+                ],
+                [
+                    9,
+                    "AQUATAIL"
+                ],
+                [
+                    18,
+                    "CALMMIND"
+                ],
+                [
+                    27,
+                    "MUDDYWATER"
+                ],
+                [
+                    36,
+                    "ICEBEAM"
+                ],
+                [
+                    45,
+                    "SHEERCOLD"
+                ],
+                [
+                    54,
+                    "AQUARING"
+                ],
+                [
+                    72,
+                    "HYDROPUMP"
+                ],
+                [
+                    81,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    90,
+                    "WATERSPOUT"
+                ]
+            ],
+            "tutorMoves": [
+                "ANCIENTPOWER",
+                "AQUATAIL",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BLOCK",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRINE",
+                "BULLDOZE",
+                "CALMMIND",
+                "CONFIDE",
+                "DEFENSECURL",
+                "DIVE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HAIL",
+                "HEADBUTT",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONHEAD",
+                "LIQUIDATION",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SCALD",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "UPROAR",
+                "WATERFALL",
+                "WATERPULSE",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [],
+            "height": 9.8,
+            "weight": 430.0,
+            "abilities": [
+                "PRIMORDIALSEA"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 770,
+            "baseStats": [
+                100,
+                150,
+                90,
+                90,
+                180,
+                160
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 1,
+            "formName": "Forma Primigenia"
+        }
+    ],
+    "internationalPokedex": 382
+}

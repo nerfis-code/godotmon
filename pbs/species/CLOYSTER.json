@@ -1,0 +1,171 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            -1,
+            "ICICLESPEAR"
+        ],
+        [
+            1,
+            "ICICLECRASH"
+        ],
+        [
+            1,
+            "TOXICSPIKES"
+        ],
+        [
+            1,
+            "SPIKES"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "WHIRLPOOL"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            1,
+            "AURORABEAM"
+        ],
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            1,
+            "IRONDEFENSE"
+        ],
+        [
+            1,
+            "ICEBEAM"
+        ],
+        [
+            1,
+            "SHELLSMASH"
+        ],
+        [
+            1,
+            "HYDROPUMP"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            1,
+            "ICESHARD"
+        ],
+        [
+            5,
+            "RAZORSHELL"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PINMISSILE",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "RAZORSHELL",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SPIKES",
+        "STEELROLLER",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TORMENT",
+        "TOXICSPIKES",
+        "TRIATTACK",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 132.5,
+    "abilities": [
+        "SHELLARMOR",
+        "SKILLLINK"
+    ],
+    "hiddenAbilitie": [
+        "OVERCOAT"
+    ],
+    "baseTotal": 525,
+    "baseStats": [
+        50,
+        95,
+        180,
+        70,
+        85,
+        45
+    ],
+    "flags": [],
+    "name": "Cloyster",
+    "species": "CLOYSTER",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 184,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 91
+}

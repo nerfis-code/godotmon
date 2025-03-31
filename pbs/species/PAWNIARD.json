@@ -1,0 +1,178 @@
+{
+    "generation": 5,
+    "primaryType": "DARK",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            5,
+            "FURYCUTTER"
+        ],
+        [
+            10,
+            "METALCLAW"
+        ],
+        [
+            15,
+            "TORMENT"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            25,
+            "ASSURANCE"
+        ],
+        [
+            30,
+            "METALSOUND"
+        ],
+        [
+            35,
+            "SLASH"
+        ],
+        [
+            40,
+            "NIGHTSLASH"
+        ],
+        [
+            45,
+            "IRONDEFENSE"
+        ],
+        [
+            50,
+            "LASERFOCUS"
+        ],
+        [
+            50,
+            "RETALIATE"
+        ],
+        [
+            55,
+            "IRONHEAD"
+        ],
+        [
+            60,
+            "SWORDSDANCE"
+        ],
+        [
+            65,
+            "GUILLOTINE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHOCUT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROCKPOLISH",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "HEADBUTT",
+        "MEANLOOK",
+        "QUICKGUARD",
+        "SUCKERPUNCH"
+    ],
+    "height": 0.5,
+    "weight": 10.2,
+    "abilities": [
+        "DEFIANT",
+        "INNERFOCUS"
+    ],
+    "hiddenAbilitie": [
+        "PRESSURE"
+    ],
+    "baseTotal": 340,
+    "baseStats": [
+        45,
+        85,
+        70,
+        60,
+        40,
+        40
+    ],
+    "flags": [],
+    "name": "Pawniard",
+    "species": "PAWNIARD",
+    "catchRate": 120,
+    "happiness": 35,
+    "baseExp": 68,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 624
+}

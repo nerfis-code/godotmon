@@ -1,0 +1,193 @@
+{
+    "generation": 3,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "DISARMINGVOICE"
+        ],
+        [
+            3,
+            "DOUBLETEAM"
+        ],
+        [
+            6,
+            "CONFUSION"
+        ],
+        [
+            9,
+            "HYPNOSIS"
+        ],
+        [
+            12,
+            "DRAININGKISS"
+        ],
+        [
+            15,
+            "TELEPORT"
+        ],
+        [
+            18,
+            "PSYBEAM"
+        ],
+        [
+            21,
+            "LIFEDEW"
+        ],
+        [
+            24,
+            "CHARM"
+        ],
+        [
+            27,
+            "CALMMIND"
+        ],
+        [
+            30,
+            "PSYCHIC"
+        ],
+        [
+            33,
+            "HEALPULSE"
+        ],
+        [
+            36,
+            "DREAMEATER"
+        ],
+        [
+            39,
+            "FUTURESIGHT"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BODYSLAM",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IMPRISON",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MISTYTERRAIN",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRICK",
+        "TRICKROOM",
+        "WILLOWISP",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "ALLYSWITCH",
+        "CONFUSERAY",
+        "DESTINYBOND",
+        "DISABLE",
+        "ENCORE",
+        "GRUDGE",
+        "KNOCKOFF",
+        "MEANLOOK",
+        "MEMENTO",
+        "MISTYTERRAIN",
+        "SHADOWSNEAK"
+    ],
+    "height": 0.4,
+    "weight": 6.6,
+    "abilities": [
+        "SYNCHRONIZE",
+        "TRACE"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 198,
+    "baseStats": [
+        28,
+        25,
+        25,
+        40,
+        45,
+        35
+    ],
+    "flags": [],
+    "name": "Ralts",
+    "species": "RALTS",
+    "catchRate": 235,
+    "happiness": 35,
+    "baseExp": 40,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 280
+}

@@ -1,0 +1,184 @@
+{
+    "generation": 2,
+    "primaryType": "STEEL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            4,
+            "SANDATTACK"
+        ],
+        [
+            8,
+            "FURYATTACK"
+        ],
+        [
+            12,
+            "METALCLAW"
+        ],
+        [
+            16,
+            "AGILITY"
+        ],
+        [
+            20,
+            "WINGATTACK"
+        ],
+        [
+            24,
+            "SLASH"
+        ],
+        [
+            28,
+            "STEELWING"
+        ],
+        [
+            32,
+            "AUTOTOMIZE"
+        ],
+        [
+            32,
+            "PAYBACK"
+        ],
+        [
+            36,
+            "DRILLPECK"
+        ],
+        [
+            40,
+            "METALSOUND"
+        ],
+        [
+            44,
+            "SPIKES"
+        ],
+        [
+            48,
+            "IRONDEFENSE"
+        ],
+        [
+            52,
+            "BRAVEBIRD"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYPRESS",
+        "BRAVEBIRD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DARKPULSE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FLY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GUARDSWAP",
+        "HIDDENPOWER",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAYBACK",
+        "PLUCK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SNORE",
+        "SPIKES",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TWISTER",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "AIRCUTTER",
+        "ASSURANCE",
+        "BRAVEBIRD",
+        "CURSE",
+        "DRILLPECK",
+        "FEINT",
+        "GUARDSWAP",
+        "NIGHTSLASH",
+        "ROOST",
+        "SKYATTACK",
+        "WHIRLWIND"
+    ],
+    "height": 1.7,
+    "weight": 50.5,
+    "abilities": [
+        "KEENEYE",
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "WEAKARMOR"
+    ],
+    "baseTotal": 465,
+    "baseStats": [
+        65,
+        80,
+        140,
+        70,
+        40,
+        70
+    ],
+    "flags": [],
+    "name": "Skarmory",
+    "species": "SKARMORY",
+    "catchRate": 25,
+    "happiness": 50,
+    "baseExp": 163,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 227
+}

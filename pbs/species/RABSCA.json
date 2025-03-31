@@ -1,0 +1,173 @@
+{
+    "generation": 9,
+    "primaryType": "BUG",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            -1,
+            "SAFEGUARD"
+        ],
+        [
+            -1,
+            "PSYCHUP"
+        ],
+        [
+            -1,
+            "REVIVALBLESSING"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            4,
+            "SANDATTACK"
+        ],
+        [
+            7,
+            "STRUGGLEBUG"
+        ],
+        [
+            11,
+            "ROLLOUT"
+        ],
+        [
+            15,
+            "PSYBEAM"
+        ],
+        [
+            20,
+            "BUGBITE"
+        ],
+        [
+            24,
+            "TAKEDOWN"
+        ],
+        [
+            29,
+            "EXTRASENSORY"
+        ],
+        [
+            35,
+            "LUNGE"
+        ],
+        [
+            40,
+            "POWERSWAP"
+        ],
+        [
+            40,
+            "SPEEDSWAP"
+        ],
+        [
+            40,
+            "GUARDSWAP"
+        ],
+        [
+            45,
+            "BUGBUZZ"
+        ],
+        [
+            50,
+            "PSYCHIC"
+        ]
+    ],
+    "tutorMoves": [
+        "BUGBITE",
+        "BUGBUZZ",
+        "CALMMIND",
+        "CONFUSERAY",
+        "DAZZLINGGLEAM",
+        "DIG",
+        "EARTHPOWER",
+        "ELECTROBALL",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FLING",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "GUNKSHOT",
+        "HYPERBEAM",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "LUNGE",
+        "MUDSHOT",
+        "MUDSLAP",
+        "POLTERGEIST",
+        "POUNCE",
+        "POWERGEM",
+        "PROTECT",
+        "PSYBEAM",
+        "PSYCHIC",
+        "PSYCHICNOISE",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SHADOWBALL",
+        "SKILLSWAP",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "STOREDPOWER",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "THIEF",
+        "TRICK",
+        "TRICKROOM",
+        "WEATHERBALL",
+        "XSCISSOR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 3.5,
+    "abilities": [
+        "SYNCHRONIZE"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 470,
+    "baseStats": [
+        75,
+        50,
+        85,
+        45,
+        115,
+        100
+    ],
+    "flags": [],
+    "name": "Rabsca",
+    "species": "RABSCA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 165,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 954
+}

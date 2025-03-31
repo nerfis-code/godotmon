@@ -1,0 +1,184 @@
+{
+    "generation": 4,
+    "primaryType": "DARK",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "NIGHTSLASH"
+        ],
+        [
+            1,
+            "SUCKERPUNCH"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "HAZE"
+        ],
+        [
+            1,
+            "WINGATTACK"
+        ],
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "NIGHTSHADE"
+        ],
+        [
+            1,
+            "ASSURANCE"
+        ],
+        [
+            1,
+            "TAUNT"
+        ],
+        [
+            1,
+            "AIRCUTTER"
+        ],
+        [
+            1,
+            "MEANLOOK"
+        ],
+        [
+            1,
+            "TAILWIND"
+        ],
+        [
+            1,
+            "TORMENT"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "QUASH"
+        ],
+        [
+            25,
+            "SWAGGER"
+        ],
+        [
+            35,
+            "NASTYPLOT"
+        ],
+        [
+            45,
+            "FOULPLAY"
+        ],
+        [
+            55,
+            "DARKPULSE"
+        ],
+        [
+            65,
+            "COMEUPPANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICYWIND",
+        "INCINERATE",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAYBACK",
+        "PLUCK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "QUASH",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TWISTER",
+        "UPROAR"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 27.3,
+    "abilities": [
+        "INSOMNIA",
+        "SUPERLUCK"
+    ],
+    "hiddenAbilitie": [
+        "MOXIE"
+    ],
+    "baseTotal": 505,
+    "baseStats": [
+        100,
+        125,
+        52,
+        71,
+        105,
+        52
+    ],
+    "flags": [],
+    "name": "Honchkrow",
+    "species": "HONCHKROW",
+    "catchRate": 30,
+    "happiness": 35,
+    "baseExp": 177,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 430
+}

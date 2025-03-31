@@ -1,0 +1,184 @@
+{
+    "generation": 5,
+    "primaryType": "DRAGON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "FALSESWIPE"
+        ],
+        [
+            9,
+            "ASSURANCE"
+        ],
+        [
+            12,
+            "TAUNT"
+        ],
+        [
+            15,
+            "SLASH"
+        ],
+        [
+            18,
+            "DRAGONCLAW"
+        ],
+        [
+            21,
+            "SCARYFACE"
+        ],
+        [
+            24,
+            "CRUNCH"
+        ],
+        [
+            27,
+            "DRAGONDANCE"
+        ],
+        [
+            30,
+            "DUALCHOP"
+        ],
+        [
+            30,
+            "BREAKINGSWIPE"
+        ],
+        [
+            33,
+            "LASERFOCUS"
+        ],
+        [
+            33,
+            "FOCUSENERGY"
+        ],
+        [
+            36,
+            "DRAGONPULSE"
+        ],
+        [
+            41,
+            "SWORDSDANCE"
+        ],
+        [
+            46,
+            "OUTRAGE"
+        ],
+        [
+            51,
+            "GUILLOTINE"
+        ],
+        [
+            56,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BREAKINGSWIPE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DUALCHOP",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "INCINERATE",
+        "IRONTAIL",
+        "LOWKICK",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROAR",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TOXIC",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 36.0,
+    "abilities": [
+        "RIVALRY",
+        "MOLDBREAKER"
+    ],
+    "hiddenAbilitie": [
+        "UNNERVE"
+    ],
+    "baseTotal": 410,
+    "baseStats": [
+        66,
+        117,
+        70,
+        67,
+        40,
+        50
+    ],
+    "flags": [],
+    "name": "Fraxure",
+    "species": "FRAXURE",
+    "catchRate": 60,
+    "happiness": 35,
+    "baseExp": 144,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 611
+}

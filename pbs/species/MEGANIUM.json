@@ -1,0 +1,174 @@
+{
+    "generation": 2,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "PETALDANCE"
+        ],
+        [
+            1,
+            "PETALBLIZZARD"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "RAZORLEAF"
+        ],
+        [
+            1,
+            "POISONPOWDER"
+        ],
+        [
+            12,
+            "SYNTHESIS"
+        ],
+        [
+            18,
+            "REFLECT"
+        ],
+        [
+            22,
+            "MAGICALLEAF"
+        ],
+        [
+            26,
+            "NATUREPOWER"
+        ],
+        [
+            26,
+            "LEECHSEED"
+        ],
+        [
+            34,
+            "SWEETSCENT"
+        ],
+        [
+            40,
+            "LIGHTSCREEN"
+        ],
+        [
+            46,
+            "BODYSLAM"
+        ],
+        [
+            54,
+            "SAFEGUARD"
+        ],
+        [
+            60,
+            "AROMATHERAPY"
+        ],
+        [
+            60,
+            "GIGADRAIN"
+        ],
+        [
+            65,
+            "SOLARBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLDOZE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONTAIL",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRENZYPLANT",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OUTRAGE",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSMASH",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 100.5,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "LEAFGUARD"
+    ],
+    "baseTotal": 525,
+    "baseStats": [
+        80,
+        82,
+        100,
+        80,
+        83,
+        100
+    ],
+    "flags": [],
+    "name": "Meganium",
+    "species": "MEGANIUM",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 263,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 154
+}

@@ -1,0 +1,174 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "HEADBUTT"
+        ],
+        [
+            3,
+            "GROWL"
+        ],
+        [
+            7,
+            "WATERGUN"
+        ],
+        [
+            7,
+            "CHARM"
+        ],
+        [
+            11,
+            "ICYWIND"
+        ],
+        [
+            13,
+            "ENCORE"
+        ],
+        [
+            17,
+            "ICESHARD"
+        ],
+        [
+            21,
+            "REST"
+        ],
+        [
+            23,
+            "AQUARING"
+        ],
+        [
+            27,
+            "AURORABEAM"
+        ],
+        [
+            31,
+            "AQUAJET"
+        ],
+        [
+            33,
+            "BRINE"
+        ],
+        [
+            37,
+            "TAKEDOWN"
+        ],
+        [
+            41,
+            "DIVE"
+        ],
+        [
+            43,
+            "AQUATAIL"
+        ],
+        [
+            47,
+            "ICEBEAM"
+        ],
+        [
+            51,
+            "SAFEGUARD"
+        ],
+        [
+            53,
+            "HAIL"
+        ],
+        [
+            53,
+            "SNOWSCAPE"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "THIEF",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "BELCH",
+        "DISABLE",
+        "ENCORE",
+        "ENTRAINMENT",
+        "FAKEOUT",
+        "HORNDRILL",
+        "ICICLESPEAR",
+        "LICK",
+        "PERISHSONG",
+        "SLAM",
+        "SPITUP",
+        "STOCKPILE",
+        "SWALLOW"
+    ],
+    "height": 1.1,
+    "weight": 90.0,
+    "abilities": [
+        "THICKFAT",
+        "HYDRATION"
+    ],
+    "hiddenAbilitie": [
+        "ICEBODY"
+    ],
+    "baseTotal": 325,
+    "baseStats": [
+        65,
+        45,
+        55,
+        45,
+        45,
+        70
+    ],
+    "flags": [],
+    "name": "Seel",
+    "species": "SEEL",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 65,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 86
+}

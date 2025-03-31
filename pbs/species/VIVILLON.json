@@ -1,0 +1,2935 @@
+{
+    "generation": 6,
+    "primaryType": "BUG",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            -1,
+            "GUST"
+        ],
+        [
+            1,
+            "SLEEPPOWDER"
+        ],
+        [
+            1,
+            "POISONPOWDER"
+        ],
+        [
+            1,
+            "STUNSPORE"
+        ],
+        [
+            1,
+            "STRUGGLEBUG"
+        ],
+        [
+            12,
+            "LIGHTSCREEN"
+        ],
+        [
+            17,
+            "PSYBEAM"
+        ],
+        [
+            21,
+            "SUPERSONIC"
+        ],
+        [
+            25,
+            "DRAININGKISS"
+        ],
+        [
+            31,
+            "AROMATHERAPY"
+        ],
+        [
+            31,
+            "SAFEGUARD"
+        ],
+        [
+            35,
+            "BUGBUZZ"
+        ],
+        [
+            45,
+            "QUIVERDANCE"
+        ],
+        [
+            50,
+            "HURRICANE"
+        ],
+        [
+            55,
+            "POWDER"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "ATTRACT",
+        "BUGBITE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ELECTROWEB",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAILWIND",
+        "THIEF",
+        "TOXIC",
+        "UTURN"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 17.0,
+    "abilities": [
+        "SHIELDDUST",
+        "COMPOUNDEYES"
+    ],
+    "hiddenAbilitie": [
+        "FRIENDGUARD"
+    ],
+    "baseTotal": 411,
+    "baseStats": [
+        80,
+        52,
+        50,
+        89,
+        90,
+        50
+    ],
+    "flags": [],
+    "name": "Vivillon",
+    "species": "VIVILLON",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 206,
+    "evs": [
+        "HP",
+        1,
+        "SPECIAL_ATTACK",
+        1,
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Motivo Floral"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Motivo Isleño"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 2,
+            "formName": "Motivo Continental"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 3,
+            "formName": "Motivo Oriental"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 4,
+            "formName": "Motivo Vergel"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 5,
+            "formName": "Motivo Estepa"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 6,
+            "formName": "Motivo Polar"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 7,
+            "formName": "Motivo Jungla"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 8,
+            "formName": "Motivo Marino"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 9,
+            "formName": "Motivo Moderno"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 10,
+            "formName": "Motivo Monzón"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 11,
+            "formName": "Motivo Océano"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 12,
+            "formName": "Motivo Taiga"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 13,
+            "formName": "Motivo Oasis"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 14,
+            "formName": "Motivo Desierto"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 15,
+            "formName": "Motivo Pantano"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 16,
+            "formName": "Motivo Solar"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 17,
+            "formName": "Motivo Tundra"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 18,
+            "formName": "Motivo Fantasía"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "GUST"
+                ],
+                [
+                    1,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    1,
+                    "POISONPOWDER"
+                ],
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "STRUGGLEBUG"
+                ],
+                [
+                    12,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    17,
+                    "PSYBEAM"
+                ],
+                [
+                    21,
+                    "SUPERSONIC"
+                ],
+                [
+                    25,
+                    "DRAININGKISS"
+                ],
+                [
+                    31,
+                    "AROMATHERAPY"
+                ],
+                [
+                    31,
+                    "SAFEGUARD"
+                ],
+                [
+                    35,
+                    "BUGBUZZ"
+                ],
+                [
+                    45,
+                    "QUIVERDANCE"
+                ],
+                [
+                    50,
+                    "HURRICANE"
+                ],
+                [
+                    55,
+                    "POWDER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "ATTRACT",
+                "BUGBITE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ELECTROWEB",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAILWIND",
+                "THIEF",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 17.0,
+            "abilities": [
+                "SHIELDDUST",
+                "COMPOUNDEYES"
+            ],
+            "hiddenAbilitie": [
+                "FRIENDGUARD"
+            ],
+            "baseTotal": 411,
+            "baseStats": [
+                80,
+                52,
+                50,
+                89,
+                90,
+                50
+            ],
+            "flags": [],
+            "form": 19,
+            "formName": "Motivo Poké Ball"
+        }
+    ],
+    "internationalPokedex": 666
+}

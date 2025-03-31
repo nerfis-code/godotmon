@@ -1,0 +1,399 @@
+{
+    "generation": 8,
+    "primaryType": "ICE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            6,
+            "MIST"
+        ],
+        [
+            12,
+            "WEATHERBALL"
+        ],
+        [
+            18,
+            "ICYWIND"
+        ],
+        [
+            24,
+            "HEADBUTT"
+        ],
+        [
+            30,
+            "AMNESIA"
+        ],
+        [
+            36,
+            "FREEZEDRY"
+        ],
+        [
+            42,
+            "HAIL"
+        ],
+        [
+            42,
+            "SNOWSCAPE"
+        ],
+        [
+            48,
+            "AURORAVEIL"
+        ],
+        [
+            54,
+            "SURF"
+        ],
+        [
+            60,
+            "BLIZZARD"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AMNESIA",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LIQUIDATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "WATERFALL",
+        "WEATHERBALL",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "AQUARING",
+        "BELLYDRUM",
+        "DOUBLEEDGE",
+        "HEADSMASH",
+        "ICICLECRASH",
+        "SOAK"
+    ],
+    "height": 1.4,
+    "weight": 89.0,
+    "abilities": [
+        "ICEFACE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 470,
+    "baseStats": [
+        75,
+        80,
+        110,
+        50,
+        65,
+        90
+    ],
+    "flags": [],
+    "name": "Eiscue",
+    "species": "EISCUE",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 165,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "ICE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "POWDERSNOW"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    6,
+                    "MIST"
+                ],
+                [
+                    12,
+                    "WEATHERBALL"
+                ],
+                [
+                    18,
+                    "ICYWIND"
+                ],
+                [
+                    24,
+                    "HEADBUTT"
+                ],
+                [
+                    30,
+                    "AMNESIA"
+                ],
+                [
+                    36,
+                    "FREEZEDRY"
+                ],
+                [
+                    42,
+                    "HAIL"
+                ],
+                [
+                    42,
+                    "SNOWSCAPE"
+                ],
+                [
+                    48,
+                    "AURORAVEIL"
+                ],
+                [
+                    54,
+                    "SURF"
+                ],
+                [
+                    60,
+                    "BLIZZARD"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "AMNESIA",
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BRINE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIVE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FRUSTRATION",
+                "HAIL",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "ICEPUNCH",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LIQUIDATION",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "TOXIC",
+                "WATERFALL",
+                "WEATHERBALL",
+                "WHIRLPOOL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "AQUARING",
+                "BELLYDRUM",
+                "DOUBLEEDGE",
+                "HEADSMASH",
+                "ICICLECRASH",
+                "SOAK"
+            ],
+            "height": 1.4,
+            "weight": 89.0,
+            "abilities": [
+                "ICEFACE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 470,
+            "baseStats": [
+                75,
+                80,
+                110,
+                50,
+                65,
+                90
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Cara de Hielo"
+        },
+        {
+            "generation": 8,
+            "primaryType": "ICE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "POWDERSNOW"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    6,
+                    "MIST"
+                ],
+                [
+                    12,
+                    "WEATHERBALL"
+                ],
+                [
+                    18,
+                    "ICYWIND"
+                ],
+                [
+                    24,
+                    "HEADBUTT"
+                ],
+                [
+                    30,
+                    "AMNESIA"
+                ],
+                [
+                    36,
+                    "FREEZEDRY"
+                ],
+                [
+                    42,
+                    "HAIL"
+                ],
+                [
+                    42,
+                    "SNOWSCAPE"
+                ],
+                [
+                    48,
+                    "AURORAVEIL"
+                ],
+                [
+                    54,
+                    "SURF"
+                ],
+                [
+                    60,
+                    "BLIZZARD"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "AMNESIA",
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BRINE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIVE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FRUSTRATION",
+                "HAIL",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "ICEPUNCH",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LIQUIDATION",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "TOXIC",
+                "WATERFALL",
+                "WEATHERBALL",
+                "WHIRLPOOL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "AQUARING",
+                "BELLYDRUM",
+                "DOUBLEEDGE",
+                "HEADSMASH",
+                "ICICLECRASH",
+                "SOAK"
+            ],
+            "height": 1.4,
+            "weight": 89.0,
+            "abilities": [
+                "ICEFACE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 470,
+            "baseStats": [
+                75,
+                80,
+                70,
+                130,
+                65,
+                50
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Cara Deshielo"
+        }
+    ],
+    "internationalPokedex": 875
+}

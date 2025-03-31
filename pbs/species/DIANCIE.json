@@ -1,0 +1,505 @@
+{
+    "generation": 6,
+    "primaryType": "ROCK",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "DIAMONDSTORM"
+        ],
+        [
+            7,
+            "GUARDSPLIT"
+        ],
+        [
+            14,
+            "SMACKDOWN"
+        ],
+        [
+            21,
+            "FLAIL"
+        ],
+        [
+            28,
+            "ANCIENTPOWER"
+        ],
+        [
+            35,
+            "ROCKPOLISH"
+        ],
+        [
+            42,
+            "LIGHTSCREEN"
+        ],
+        [
+            49,
+            "ROCKSLIDE"
+        ],
+        [
+            56,
+            "SKILLSWAP"
+        ],
+        [
+            63,
+            "POWERGEM"
+        ],
+        [
+            70,
+            "STEALTHROCK"
+        ],
+        [
+            77,
+            "MOONBLAST"
+        ],
+        [
+            84,
+            "STONEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ALLYSWITCH",
+        "AMNESIA",
+        "BATONPASS",
+        "BODYPRESS",
+        "CALMMIND",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "EARTHPOWER",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FAKETEARS",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "GYROBALL",
+        "HAIL",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "METEORBEAM",
+        "METRONOME",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PLAYROUGH",
+        "POWERGEM",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SECRETPOWER",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "TERRAINPULSE",
+        "TOXIC",
+        "TRICKROOM",
+        "WONDERROOM"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 8.8,
+    "abilities": [
+        "CLEARBODY"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        50,
+        100,
+        150,
+        50,
+        100,
+        150
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Diancie",
+    "species": "DIANCIE",
+    "catchRate": 3,
+    "happiness": 50,
+    "baseExp": 300,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 6,
+            "primaryType": "ROCK",
+            "secondaryType": "FAIRY",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    1,
+                    "DIAMONDSTORM"
+                ],
+                [
+                    7,
+                    "GUARDSPLIT"
+                ],
+                [
+                    14,
+                    "SMACKDOWN"
+                ],
+                [
+                    21,
+                    "FLAIL"
+                ],
+                [
+                    28,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    35,
+                    "ROCKPOLISH"
+                ],
+                [
+                    42,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    49,
+                    "ROCKSLIDE"
+                ],
+                [
+                    56,
+                    "SKILLSWAP"
+                ],
+                [
+                    63,
+                    "POWERGEM"
+                ],
+                [
+                    70,
+                    "STEALTHROCK"
+                ],
+                [
+                    77,
+                    "MOONBLAST"
+                ],
+                [
+                    84,
+                    "STONEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ALLYSWITCH",
+                "AMNESIA",
+                "BATONPASS",
+                "BODYPRESS",
+                "CALMMIND",
+                "CHARM",
+                "CONFIDE",
+                "COVET",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "EARTHPOWER",
+                "ENCORE",
+                "ENDEAVOR",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FAKETEARS",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GUARDSWAP",
+                "GYROBALL",
+                "HAIL",
+                "HEALBELL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "METEORBEAM",
+                "METRONOME",
+                "MIMIC",
+                "MISTYEXPLOSION",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PLAYROUGH",
+                "POWERGEM",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SANDTOMB",
+                "SECRETPOWER",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNORE",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TELEKINESIS",
+                "TERRAINPULSE",
+                "TOXIC",
+                "TRICKROOM",
+                "WONDERROOM"
+            ],
+            "eggMoves": [],
+            "height": 0.7,
+            "weight": 8.8,
+            "abilities": [
+                "CLEARBODY"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                50,
+                100,
+                150,
+                50,
+                100,
+                150
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 0,
+            "formName": "Diancie"
+        },
+        {
+            "generation": 6,
+            "primaryType": "ROCK",
+            "secondaryType": "FAIRY",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    1,
+                    "DIAMONDSTORM"
+                ],
+                [
+                    7,
+                    "GUARDSPLIT"
+                ],
+                [
+                    14,
+                    "SMACKDOWN"
+                ],
+                [
+                    21,
+                    "FLAIL"
+                ],
+                [
+                    28,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    35,
+                    "ROCKPOLISH"
+                ],
+                [
+                    42,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    49,
+                    "ROCKSLIDE"
+                ],
+                [
+                    56,
+                    "SKILLSWAP"
+                ],
+                [
+                    63,
+                    "POWERGEM"
+                ],
+                [
+                    70,
+                    "STEALTHROCK"
+                ],
+                [
+                    77,
+                    "MOONBLAST"
+                ],
+                [
+                    84,
+                    "STONEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ALLYSWITCH",
+                "AMNESIA",
+                "BATONPASS",
+                "BODYPRESS",
+                "CALMMIND",
+                "CHARM",
+                "CONFIDE",
+                "COVET",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "EARTHPOWER",
+                "ENCORE",
+                "ENDEAVOR",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FAKETEARS",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GUARDSWAP",
+                "GYROBALL",
+                "HAIL",
+                "HEALBELL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "METEORBEAM",
+                "METRONOME",
+                "MIMIC",
+                "MISTYEXPLOSION",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PLAYROUGH",
+                "POWERGEM",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SANDTOMB",
+                "SECRETPOWER",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNORE",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TELEKINESIS",
+                "TERRAINPULSE",
+                "TOXIC",
+                "TRICKROOM",
+                "WONDERROOM"
+            ],
+            "eggMoves": [],
+            "height": 1.1,
+            "weight": 27.8,
+            "abilities": [
+                "MAGICBOUNCE"
+            ],
+            "hiddenAbilitie": [
+                "MAGICBOUNCE"
+            ],
+            "baseTotal": 700,
+            "baseStats": [
+                50,
+                160,
+                110,
+                110,
+                160,
+                110
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 1,
+            "formName": "Mega Diancie"
+        }
+    ],
+    "internationalPokedex": 719
+}

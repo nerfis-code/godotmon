@@ -1,0 +1,506 @@
+{
+    "generation": 3,
+    "primaryType": "ICE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            0,
+            "FREEZEDRY"
+        ],
+        [
+            1,
+            "SHEERCOLD"
+        ],
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "DOUBLETEAM"
+        ],
+        [
+            1,
+            "HEADBUTT"
+        ],
+        [
+            15,
+            "ICESHARD"
+        ],
+        [
+            20,
+            "PROTECT"
+        ],
+        [
+            25,
+            "ICYWIND"
+        ],
+        [
+            30,
+            "FROSTBREATH"
+        ],
+        [
+            35,
+            "BITE"
+        ],
+        [
+            40,
+            "ICEFANG"
+        ],
+        [
+            47,
+            "HAIL"
+        ],
+        [
+            47,
+            "SNOWSCAPE"
+        ],
+        [
+            54,
+            "WEATHERBALL"
+        ],
+        [
+            61,
+            "CRUNCH"
+        ],
+        [
+            68,
+            "BLIZZARD"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FAKETEARS",
+        "FLASH",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HAIL",
+        "HEADBUTT",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONHEAD",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SPIKES",
+        "SPITE",
+        "STEELROLLER",
+        "SUBSTITUTE",
+        "SUPERFANG",
+        "SWAGGER",
+        "TAUNT",
+        "TORMENT",
+        "WATERPULSE",
+        "WEATHERBALL"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 256.5,
+    "abilities": [
+        "INNERFOCUS",
+        "ICEBODY"
+    ],
+    "hiddenAbilitie": [
+        "MOODY"
+    ],
+    "baseTotal": 480,
+    "baseStats": [
+        80,
+        80,
+        80,
+        80,
+        80,
+        80
+    ],
+    "flags": [],
+    "name": "Glalie",
+    "species": "GLALIE",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 168,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 3,
+            "primaryType": "ICE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    0,
+                    "FREEZEDRY"
+                ],
+                [
+                    1,
+                    "SHEERCOLD"
+                ],
+                [
+                    1,
+                    "POWDERSNOW"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "DOUBLETEAM"
+                ],
+                [
+                    1,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "ICESHARD"
+                ],
+                [
+                    20,
+                    "PROTECT"
+                ],
+                [
+                    25,
+                    "ICYWIND"
+                ],
+                [
+                    30,
+                    "FROSTBREATH"
+                ],
+                [
+                    35,
+                    "BITE"
+                ],
+                [
+                    40,
+                    "ICEFANG"
+                ],
+                [
+                    47,
+                    "HAIL"
+                ],
+                [
+                    47,
+                    "SNOWSCAPE"
+                ],
+                [
+                    54,
+                    "WEATHERBALL"
+                ],
+                [
+                    61,
+                    "CRUNCH"
+                ],
+                [
+                    68,
+                    "BLIZZARD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BLOCK",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DARKPULSE",
+                "DEFENSECURL",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FAKETEARS",
+                "FLASH",
+                "FROSTBREATH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HAIL",
+                "HEADBUTT",
+                "HEX",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICEFANG",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IRONHEAD",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROLLOUT",
+                "ROUND",
+                "SAFEGUARD",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SHADOWBALL",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SPIKES",
+                "SPITE",
+                "STEELROLLER",
+                "SUBSTITUTE",
+                "SUPERFANG",
+                "SWAGGER",
+                "TAUNT",
+                "TORMENT",
+                "WATERPULSE",
+                "WEATHERBALL"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 256.5,
+            "abilities": [
+                "INNERFOCUS",
+                "ICEBODY"
+            ],
+            "hiddenAbilitie": [
+                "MOODY"
+            ],
+            "baseTotal": 480,
+            "baseStats": [
+                80,
+                80,
+                80,
+                80,
+                80,
+                80
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Glalie"
+        },
+        {
+            "generation": 6,
+            "primaryType": "ICE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    0,
+                    "FREEZEDRY"
+                ],
+                [
+                    1,
+                    "SHEERCOLD"
+                ],
+                [
+                    1,
+                    "POWDERSNOW"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "DOUBLETEAM"
+                ],
+                [
+                    1,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "ICESHARD"
+                ],
+                [
+                    20,
+                    "PROTECT"
+                ],
+                [
+                    25,
+                    "ICYWIND"
+                ],
+                [
+                    30,
+                    "FROSTBREATH"
+                ],
+                [
+                    35,
+                    "BITE"
+                ],
+                [
+                    40,
+                    "ICEFANG"
+                ],
+                [
+                    47,
+                    "HAIL"
+                ],
+                [
+                    47,
+                    "SNOWSCAPE"
+                ],
+                [
+                    54,
+                    "WEATHERBALL"
+                ],
+                [
+                    61,
+                    "CRUNCH"
+                ],
+                [
+                    68,
+                    "BLIZZARD"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BLOCK",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DARKPULSE",
+                "DEFENSECURL",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FAKETEARS",
+                "FLASH",
+                "FROSTBREATH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HAIL",
+                "HEADBUTT",
+                "HEX",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICEFANG",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IRONHEAD",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROLLOUT",
+                "ROUND",
+                "SAFEGUARD",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SHADOWBALL",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SPIKES",
+                "SPITE",
+                "STEELROLLER",
+                "SUBSTITUTE",
+                "SUPERFANG",
+                "SWAGGER",
+                "TAUNT",
+                "TORMENT",
+                "WATERPULSE",
+                "WEATHERBALL"
+            ],
+            "eggMoves": [],
+            "height": 2.1,
+            "weight": 350.2,
+            "abilities": [
+                "REFRIGERATE"
+            ],
+            "hiddenAbilitie": [
+                "REFRIGERATE"
+            ],
+            "baseTotal": 580,
+            "baseStats": [
+                80,
+                120,
+                80,
+                100,
+                120,
+                80
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Glalie"
+        }
+    ],
+    "internationalPokedex": 362
+}

@@ -1,0 +1,157 @@
+{
+    "generation": 7,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            3,
+            "LEER"
+        ],
+        [
+            7,
+            "PURSUIT"
+        ],
+        [
+            7,
+            "PAYBACK"
+        ],
+        [
+            10,
+            "SANDATTACK"
+        ],
+        [
+            13,
+            "ODORSLEUTH"
+        ],
+        [
+            13,
+            "WORKUP"
+        ],
+        [
+            16,
+            "BIDE"
+        ],
+        [
+            19,
+            "BITE"
+        ],
+        [
+            22,
+            "MUDSLAP"
+        ],
+        [
+            25,
+            "SUPERFANG"
+        ],
+        [
+            28,
+            "TAKEDOWN"
+        ],
+        [
+            31,
+            "SCARYFACE"
+        ],
+        [
+            34,
+            "CRUNCH"
+        ],
+        [
+            37,
+            "HYPERFANG"
+        ],
+        [
+            37,
+            "YAWN"
+        ],
+        [
+            40,
+            "THRASH"
+        ],
+        [
+            43,
+            "REST"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "LASTRESORT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUPERFANG",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "FIREFANG",
+        "ICEFANG",
+        "LASTRESORT",
+        "REVENGE",
+        "THUNDERFANG"
+    ],
+    "height": 0.4,
+    "weight": 6.0,
+    "abilities": [
+        "STAKEOUT",
+        "STRONGJAW"
+    ],
+    "hiddenAbilitie": [
+        "ADAPTABILITY"
+    ],
+    "baseTotal": 253,
+    "baseStats": [
+        48,
+        70,
+        30,
+        45,
+        30,
+        30
+    ],
+    "flags": [],
+    "name": "Yungoos",
+    "species": "YUNGOOS",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 51,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 734
+}

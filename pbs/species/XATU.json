@@ -1,0 +1,177 @@
+{
+    "generation": 2,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "AIRSLASH"
+        ],
+        [
+            1,
+            "TAILWIND"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "STOREDPOWER"
+        ],
+        [
+            1,
+            "TELEPORT"
+        ],
+        [
+            15,
+            "CONFUSERAY"
+        ],
+        [
+            20,
+            "NIGHTSHADE"
+        ],
+        [
+            28,
+            "PSYCHOSHIFT"
+        ],
+        [
+            34,
+            "POWERSWAP"
+        ],
+        [
+            34,
+            "GUARDSWAP"
+        ],
+        [
+            41,
+            "PSYCHIC"
+        ],
+        [
+            48,
+            "WISH"
+        ],
+        [
+            55,
+            "FUTURESIGHT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BATONPASS",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COSMICPOWER",
+        "DAZZLINGGLEAM",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FLASH",
+        "FLY",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUARDSWAP",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAINSPLIT",
+        "PLUCK",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SILVERWIND",
+        "SKILLSWAP",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERWAVE",
+        "TRICK",
+        "TRICKROOM",
+        "TWISTER",
+        "UTURN",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 15.0,
+    "abilities": [
+        "SYNCHRONIZE",
+        "EARLYBIRD"
+    ],
+    "hiddenAbilitie": [
+        "MAGICBOUNCE"
+    ],
+    "baseTotal": 470,
+    "baseStats": [
+        65,
+        75,
+        70,
+        95,
+        95,
+        70
+    ],
+    "flags": [],
+    "name": "Xatu",
+    "species": "XATU",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 165,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1,
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 178
+}

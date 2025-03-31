@@ -1,0 +1,143 @@
+{
+    "generation": 1,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "SANDATTACK"
+        ],
+        [
+            9,
+            "GUST"
+        ],
+        [
+            13,
+            "QUICKATTACK"
+        ],
+        [
+            17,
+            "WHIRLWIND"
+        ],
+        [
+            21,
+            "TWISTER"
+        ],
+        [
+            25,
+            "FEATHERDANCE"
+        ],
+        [
+            29,
+            "AGILITY"
+        ],
+        [
+            33,
+            "WINGATTACK"
+        ],
+        [
+            37,
+            "ROOST"
+        ],
+        [
+            41,
+            "TAILWIND"
+        ],
+        [
+            45,
+            "AERIALACE"
+        ],
+        [
+            49,
+            "AIRSLASH"
+        ],
+        [
+            53,
+            "HURRICANE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TWISTER",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "AIRCUTTER",
+        "AIRSLASH",
+        "BRAVEBIRD",
+        "UPROAR"
+    ],
+    "height": 0.3,
+    "weight": 1.8,
+    "abilities": [
+        "KEENEYE",
+        "TANGLEDFEET"
+    ],
+    "hiddenAbilitie": [
+        "BIGPECKS"
+    ],
+    "baseTotal": 251,
+    "baseStats": [
+        40,
+        45,
+        40,
+        56,
+        35,
+        35
+    ],
+    "flags": [],
+    "name": "Pidgey",
+    "species": "PIDGEY",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 50,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 16
+}

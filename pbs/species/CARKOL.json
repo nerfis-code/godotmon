@@ -1,0 +1,142 @@
+{
+    "generation": 8,
+    "primaryType": "ROCK",
+    "secondaryType": "FIRE",
+    "moves": [
+        [
+            -1,
+            "FLAMECHARGE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "SMOKESCREEN"
+        ],
+        [
+            1,
+            "RAPIDSPIN"
+        ],
+        [
+            1,
+            "SMACKDOWN"
+        ],
+        [
+            15,
+            "ROCKPOLISH"
+        ],
+        [
+            20,
+            "ANCIENTPOWER"
+        ],
+        [
+            27,
+            "INCINERATE"
+        ],
+        [
+            35,
+            "STEALTHROCK"
+        ],
+        [
+            41,
+            "HEATCRASH"
+        ],
+        [
+            48,
+            "ROCKBLAST"
+        ],
+        [
+            55,
+            "BURNUP"
+        ],
+        [
+            55,
+            "STONEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYPRESS",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FRUSTRATION",
+        "GYROBALL",
+        "HEATCRASH",
+        "HEATWAVE",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCALD",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SNORE",
+        "SPIKES",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 78.0,
+    "abilities": [
+        "STEAMENGINE",
+        "FLAMEBODY"
+    ],
+    "hiddenAbilitie": [
+        "FLASHFIRE"
+    ],
+    "baseTotal": 410,
+    "baseStats": [
+        80,
+        60,
+        90,
+        50,
+        60,
+        70
+    ],
+    "flags": [],
+    "name": "Carkol",
+    "species": "CARKOL",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 144,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 838
+}

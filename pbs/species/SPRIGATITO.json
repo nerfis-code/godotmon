@@ -1,0 +1,132 @@
+{
+    "generation": 9,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "LEAFAGE"
+        ],
+        [
+            7,
+            "BITE"
+        ],
+        [
+            10,
+            "HONECLAWS"
+        ],
+        [
+            13,
+            "MAGICALLEAF"
+        ],
+        [
+            15,
+            "QUICKATTACK"
+        ],
+        [
+            17,
+            "SEEDBOMB"
+        ],
+        [
+            21,
+            "UTURN"
+        ],
+        [
+            25,
+            "WORRYSEED"
+        ],
+        [
+            28,
+            "SLASH"
+        ],
+        [
+            32,
+            "ENERGYBALL"
+        ],
+        [
+            36,
+            "PLAYROUGH"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AGILITY",
+        "BULLETSEED",
+        "CHARM",
+        "DISARMINGVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FAKETEARS",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "LEAFSTORM",
+        "MAGICALLEAF",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "PETALBLIZZARD",
+        "PLAYROUGH",
+        "PROTECT",
+        "REST",
+        "SEEDBOMB",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SWIFT",
+        "TAKEDOWN",
+        "TAUNT",
+        "TRAILBLAZE",
+        "UTURN"
+    ],
+    "eggMoves": [
+        "ALLYSWITCH",
+        "COPYCAT",
+        "LEECHSEED",
+        "PETALBLIZZARD",
+        "SUCKERPUNCH"
+    ],
+    "height": 0.4,
+    "weight": 4.1,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "PROTEAN"
+    ],
+    "baseTotal": 310,
+    "baseStats": [
+        40,
+        61,
+        54,
+        65,
+        45,
+        45
+    ],
+    "flags": [],
+    "name": "Sprigatito",
+    "species": "SPRIGATITO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 906
+}

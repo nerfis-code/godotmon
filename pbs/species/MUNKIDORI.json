@@ -1,0 +1,144 @@
+{
+    "generation": 9,
+    "primaryType": "POISON",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "FAKEOUT"
+        ],
+        [
+            1,
+            "FLATTER"
+        ],
+        [
+            8,
+            "HELPINGHAND"
+        ],
+        [
+            16,
+            "PSYBEAM"
+        ],
+        [
+            24,
+            "CLEARSMOG"
+        ],
+        [
+            32,
+            "POISONJAB"
+        ],
+        [
+            40,
+            "PSYCHIC"
+        ],
+        [
+            48,
+            "SLUDGEWAVE"
+        ],
+        [
+            56,
+            "NASTYPLOT"
+        ],
+        [
+            64,
+            "FUTURESIGHT"
+        ],
+        [
+            72,
+            "PARTINGSHOT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "BATONPASS",
+        "CALMMIND",
+        "CONFUSERAY",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HELPINGHAND",
+        "HEX",
+        "HYPERBEAM",
+        "IMPRISON",
+        "LASHOUT",
+        "LIGHTSCREEN",
+        "METRONOME",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NIGHTSHADE",
+        "POISONJAB",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYBEAM",
+        "PSYCHIC",
+        "PSYCHICNOISE",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "REST",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SPITE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "TOXIC",
+        "TRAILBLAZE",
+        "TRICK",
+        "UPROAR",
+        "UTURN",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 12.2,
+    "abilities": [
+        "TOXICCHAIN"
+    ],
+    "hiddenAbilitie": [
+        "FRISK"
+    ],
+    "baseTotal": 555,
+    "baseStats": [
+        88,
+        75,
+        66,
+        106,
+        130,
+        90
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Munkidori",
+    "species": "MUNKIDORI",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 278,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 0,
+    "forms": [],
+    "internationalPokedex": 1015
+}

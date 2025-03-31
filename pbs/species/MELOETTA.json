@@ -1,0 +1,556 @@
+{
+    "generation": 5,
+    "primaryType": "NORMAL",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "ROUND"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "SING"
+        ],
+        [
+            21,
+            "TEETERDANCE"
+        ],
+        [
+            26,
+            "ACROBATICS"
+        ],
+        [
+            31,
+            "PSYBEAM"
+        ],
+        [
+            36,
+            "ECHOEDVOICE"
+        ],
+        [
+            43,
+            "UTURN"
+        ],
+        [
+            50,
+            "WAKEUPSLAP"
+        ],
+        [
+            50,
+            "RELICSONG"
+        ],
+        [
+            57,
+            "PSYCHIC"
+        ],
+        [
+            64,
+            "HYPERVOICE"
+        ],
+        [
+            71,
+            "ROLEPLAY"
+        ],
+        [
+            78,
+            "CLOSECOMBAT"
+        ],
+        [
+            85,
+            "PERISHSONG"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ALLYSWITCH",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "DUALCHOP",
+        "ECHOEDVOICE",
+        "EMBARGO",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEPUNCH",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "RELICSONG",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "UTURN",
+        "WONDERROOM",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 6.5,
+    "abilities": [
+        "SERENEGRACE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        100,
+        77,
+        77,
+        90,
+        128,
+        128
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Meloetta",
+    "species": "MELOETTA",
+    "catchRate": 3,
+    "happiness": 100,
+    "baseExp": 300,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1,
+        "SPECIAL_DEFENSE",
+        1,
+        "SPEED",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "NORMAL",
+            "secondaryType": "PSYCHIC",
+            "moves": [
+                [
+                    1,
+                    "ROUND"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "CONFUSION"
+                ],
+                [
+                    1,
+                    "SING"
+                ],
+                [
+                    21,
+                    "TEETERDANCE"
+                ],
+                [
+                    26,
+                    "ACROBATICS"
+                ],
+                [
+                    31,
+                    "PSYBEAM"
+                ],
+                [
+                    36,
+                    "ECHOEDVOICE"
+                ],
+                [
+                    43,
+                    "UTURN"
+                ],
+                [
+                    50,
+                    "WAKEUPSLAP"
+                ],
+                [
+                    50,
+                    "RELICSONG"
+                ],
+                [
+                    57,
+                    "PSYCHIC"
+                ],
+                [
+                    64,
+                    "HYPERVOICE"
+                ],
+                [
+                    71,
+                    "ROLEPLAY"
+                ],
+                [
+                    78,
+                    "CLOSECOMBAT"
+                ],
+                [
+                    85,
+                    "PERISHSONG"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "ALLYSWITCH",
+                "BRICKBREAK",
+                "CALMMIND",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "COVET",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "DRAINPUNCH",
+                "DREAMEATER",
+                "DUALCHOP",
+                "ECHOEDVOICE",
+                "EMBARGO",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FIREPUNCH",
+                "FLASH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRAVITY",
+                "HEALBELL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEPUNCH",
+                "KNOCKOFF",
+                "LASERFOCUS",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MAGICCOAT",
+                "MAGICROOM",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAYBACK",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "RAINDANCE",
+                "RECYCLE",
+                "RELICSONG",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TELEKINESIS",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "TOXIC",
+                "TRICK",
+                "TRICKROOM",
+                "UPROAR",
+                "UTURN",
+                "WONDERROOM",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.6,
+            "weight": 6.5,
+            "abilities": [
+                "SERENEGRACE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                100,
+                77,
+                77,
+                90,
+                128,
+                128
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 0,
+            "formName": "Forma Lírica"
+        },
+        {
+            "generation": 5,
+            "primaryType": "NORMAL",
+            "secondaryType": "FIGHTING",
+            "moves": [
+                [
+                    1,
+                    "ROUND"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "CONFUSION"
+                ],
+                [
+                    1,
+                    "SING"
+                ],
+                [
+                    21,
+                    "TEETERDANCE"
+                ],
+                [
+                    26,
+                    "ACROBATICS"
+                ],
+                [
+                    31,
+                    "PSYBEAM"
+                ],
+                [
+                    36,
+                    "ECHOEDVOICE"
+                ],
+                [
+                    43,
+                    "UTURN"
+                ],
+                [
+                    50,
+                    "WAKEUPSLAP"
+                ],
+                [
+                    50,
+                    "RELICSONG"
+                ],
+                [
+                    57,
+                    "PSYCHIC"
+                ],
+                [
+                    64,
+                    "HYPERVOICE"
+                ],
+                [
+                    71,
+                    "ROLEPLAY"
+                ],
+                [
+                    78,
+                    "CLOSECOMBAT"
+                ],
+                [
+                    85,
+                    "PERISHSONG"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "ALLYSWITCH",
+                "BRICKBREAK",
+                "CALMMIND",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "COVET",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "DRAINPUNCH",
+                "DREAMEATER",
+                "DUALCHOP",
+                "ECHOEDVOICE",
+                "EMBARGO",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FIREPUNCH",
+                "FLASH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRAVITY",
+                "HEALBELL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEPUNCH",
+                "KNOCKOFF",
+                "LASERFOCUS",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MAGICCOAT",
+                "MAGICROOM",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAYBACK",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "RAINDANCE",
+                "RECYCLE",
+                "RELICSONG",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TELEKINESIS",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "TOXIC",
+                "TRICK",
+                "TRICKROOM",
+                "UPROAR",
+                "UTURN",
+                "WONDERROOM",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.6,
+            "weight": 6.5,
+            "abilities": [
+                "SERENEGRACE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                100,
+                128,
+                90,
+                128,
+                77,
+                77
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 1,
+            "formName": "Forma Danza"
+        }
+    ],
+    "internationalPokedex": 648
+}

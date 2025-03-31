@@ -1,0 +1,169 @@
+{
+    "generation": 1,
+    "primaryType": "ROCK",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "BIND"
+        ],
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            5,
+            "ROLLOUT"
+        ],
+        [
+            10,
+            "SANDATTACK"
+        ],
+        [
+            15,
+            "WATERGUN"
+        ],
+        [
+            20,
+            "LEER"
+        ],
+        [
+            25,
+            "MUDSHOT"
+        ],
+        [
+            30,
+            "ANCIENTPOWER"
+        ],
+        [
+            35,
+            "BRINE"
+        ],
+        [
+            41,
+            "PROTECT"
+        ],
+        [
+            45,
+            "ROCKBLAST"
+        ],
+        [
+            50,
+            "SURF"
+        ],
+        [
+            55,
+            "SHELLSMASH"
+        ],
+        [
+            60,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BIND",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GYROBALL",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SPIKES",
+        "STEALTHROCK",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "THIEF",
+        "TOXICSPIKES",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "AURORABEAM",
+        "BITE",
+        "BUBBLEBEAM",
+        "HAZE",
+        "KNOCKOFF",
+        "MUDDYWATER",
+        "REFLECTTYPE",
+        "SLAM",
+        "SPIKES",
+        "SUPERSONIC",
+        "TICKLE",
+        "TOXICSPIKES",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "height": 0.4,
+    "weight": 7.5,
+    "abilities": [
+        "SWIFTSWIM",
+        "SHELLARMOR"
+    ],
+    "hiddenAbilitie": [
+        "WEAKARMOR"
+    ],
+    "baseTotal": 355,
+    "baseStats": [
+        35,
+        40,
+        100,
+        35,
+        90,
+        55
+    ],
+    "flags": [],
+    "name": "Omanyte",
+    "species": "OMANYTE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 71,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 138
+}

@@ -1,0 +1,150 @@
+{
+    "generation": 4,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "CHARGE"
+        ],
+        [
+            12,
+            "BITE"
+        ],
+        [
+            18,
+            "SPARK"
+        ],
+        [
+            24,
+            "ROAR"
+        ],
+        [
+            31,
+            "VOLTSWITCH"
+        ],
+        [
+            36,
+            "SCARYFACE"
+        ],
+        [
+            42,
+            "THUNDERWAVE"
+        ],
+        [
+            48,
+            "CRUNCH"
+        ],
+        [
+            54,
+            "DISCHARGE"
+        ],
+        [
+            60,
+            "SWAGGER"
+        ],
+        [
+            68,
+            "WILDCHARGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CRUNCH",
+        "DOUBLETEAM",
+        "EERIEIMPULSE",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREFANG",
+        "FLASH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEFANG",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROAR",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 30.5,
+    "abilities": [
+        "RIVALRY",
+        "INTIMIDATE"
+    ],
+    "hiddenAbilitie": [
+        "GUTS"
+    ],
+    "baseTotal": 363,
+    "baseStats": [
+        60,
+        85,
+        49,
+        60,
+        60,
+        49
+    ],
+    "flags": [],
+    "name": "Luxio",
+    "species": "LUXIO",
+    "catchRate": 120,
+    "happiness": 100,
+    "baseExp": 127,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 404
+}

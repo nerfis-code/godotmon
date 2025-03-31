@@ -1,0 +1,149 @@
+{
+    "generation": 8,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "OCTOLOCK"
+        ],
+        [
+            1,
+            "OCTAZOOKA"
+        ],
+        [
+            1,
+            "ROCKSMASH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "FEINT"
+        ],
+        [
+            1,
+            "BIND"
+        ],
+        [
+            15,
+            "DETECT"
+        ],
+        [
+            20,
+            "BRICKBREAK"
+        ],
+        [
+            25,
+            "BULKUP"
+        ],
+        [
+            30,
+            "SUBMISSION"
+        ],
+        [
+            35,
+            "TAUNT"
+        ],
+        [
+            40,
+            "REVERSAL"
+        ],
+        [
+            45,
+            "SUPERPOWER"
+        ],
+        [
+            50,
+            "TOPSYTURVY"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRINE",
+        "BRUTALSWING",
+        "BULKUP",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "LIQUIDATION",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "TAUNT",
+        "TOXIC",
+        "WATERFALL",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 39.0,
+    "abilities": [
+        "LIMBER"
+    ],
+    "hiddenAbilitie": [
+        "TECHNICIAN"
+    ],
+    "baseTotal": 480,
+    "baseStats": [
+        80,
+        118,
+        90,
+        42,
+        70,
+        80
+    ],
+    "flags": [],
+    "name": "Grapploct",
+    "species": "GRAPPLOCT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 168,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 853
+}

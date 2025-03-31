@@ -1,0 +1,172 @@
+{
+    "generation": 2,
+    "primaryType": "DARK",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            5,
+            "GUST"
+        ],
+        [
+            11,
+            "HAZE"
+        ],
+        [
+            15,
+            "WINGATTACK"
+        ],
+        [
+            21,
+            "NIGHTSHADE"
+        ],
+        [
+            25,
+            "ASSURANCE"
+        ],
+        [
+            31,
+            "TAUNT"
+        ],
+        [
+            35,
+            "AIRCUTTER"
+        ],
+        [
+            35,
+            "MEANLOOK"
+        ],
+        [
+            40,
+            "FOULPLAY"
+        ],
+        [
+            50,
+            "TAILWIND"
+        ],
+        [
+            50,
+            "SUCKERPUNCH"
+        ],
+        [
+            55,
+            "TORMENT"
+        ],
+        [
+            60,
+            "QUASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "ICYWIND",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAYBACK",
+        "PLUCK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "QUASH",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TWISTER",
+        "UPROAR"
+    ],
+    "eggMoves": [
+        "ASSURANCE",
+        "BRAVEBIRD",
+        "CONFUSERAY",
+        "DRILLPECK",
+        "FEATHERDANCE",
+        "FLATTER",
+        "PERISHSONG",
+        "PSYCHOSHIFT",
+        "SCREECH",
+        "SKYATTACK",
+        "WHIRLWIND",
+        "WINGATTACK"
+    ],
+    "height": 0.5,
+    "weight": 2.1,
+    "abilities": [
+        "INSOMNIA",
+        "SUPERLUCK"
+    ],
+    "hiddenAbilitie": [
+        "PRANKSTER"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        60,
+        85,
+        42,
+        91,
+        85,
+        42
+    ],
+    "flags": [],
+    "name": "Murkrow",
+    "species": "MURKROW",
+    "catchRate": 30,
+    "happiness": 35,
+    "baseExp": 81,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 198
+}

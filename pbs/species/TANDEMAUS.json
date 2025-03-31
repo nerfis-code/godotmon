@@ -1,0 +1,141 @@
+{
+    "generation": 9,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "BABYDOLLEYES"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            5,
+            "ECHOEDVOICE"
+        ],
+        [
+            8,
+            "HELPINGHAND"
+        ],
+        [
+            11,
+            "SUPERFANG"
+        ],
+        [
+            14,
+            "DOUBLEHIT"
+        ],
+        [
+            18,
+            "BULLETSEED"
+        ],
+        [
+            22,
+            "ENCORE"
+        ],
+        [
+            26,
+            "PLAYROUGH"
+        ],
+        [
+            30,
+            "HYPERVOICE"
+        ],
+        [
+            33,
+            "CHARM"
+        ],
+        [
+            37,
+            "BEATUP"
+        ],
+        [
+            41,
+            "COPYCAT"
+        ],
+        [
+            46,
+            "POPULATIONBOMB"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "BATONPASS",
+        "BULLETSEED",
+        "CHARM",
+        "CRUNCH",
+        "DIG",
+        "DOUBLEEDGE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HYPERVOICE",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SEEDBOMB",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWIFT",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "THUNDERWAVE",
+        "UTURN",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "AFTERYOU",
+        "BATONPASS",
+        "BITE",
+        "FEINT",
+        "SWITCHEROO",
+        "TICKLE"
+    ],
+    "height": 0.3,
+    "weight": 1.8,
+    "abilities": [
+        "RUNAWAY",
+        "PICKUP"
+    ],
+    "hiddenAbilitie": [
+        "OWNTEMPO"
+    ],
+    "baseTotal": 305,
+    "baseStats": [
+        50,
+        50,
+        45,
+        75,
+        40,
+        45
+    ],
+    "flags": [],
+    "name": "Tandemaus",
+    "species": "TANDEMAUS",
+    "catchRate": 150,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 924
+}

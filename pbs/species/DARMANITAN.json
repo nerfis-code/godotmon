@@ -1,0 +1,855 @@
+{
+    "generation": 5,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "HAMMERARM"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAUNT"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            12,
+            "INCINERATE"
+        ],
+        [
+            16,
+            "WORKUP"
+        ],
+        [
+            20,
+            "FIREFANG"
+        ],
+        [
+            24,
+            "HEADBUTT"
+        ],
+        [
+            28,
+            "FIREPUNCH"
+        ],
+        [
+            32,
+            "UPROAR"
+        ],
+        [
+            38,
+            "BELLYDRUM"
+        ],
+        [
+            44,
+            "FLAREBLITZ"
+        ],
+        [
+            50,
+            "THRASH"
+        ],
+        [
+            56,
+            "SUPERPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "BURNINGJEALOUSY",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIREPUNCH",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUARDSWAP",
+        "GYROBALL",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LASERFOCUS",
+        "LASHOUT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PAYBACK",
+        "POWERSWAP",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "TRICK",
+        "UPROAR",
+        "UTURN",
+        "WILLOWISP",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 92.9,
+    "abilities": [
+        "SHEERFORCE"
+    ],
+    "hiddenAbilitie": [
+        "ZENMODE"
+    ],
+    "baseTotal": 480,
+    "baseStats": [
+        105,
+        140,
+        55,
+        95,
+        30,
+        55
+    ],
+    "flags": [],
+    "name": "Darmanitan",
+    "species": "DARMANITAN",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 168,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "FIRE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HAMMERARM"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "TAUNT"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    12,
+                    "INCINERATE"
+                ],
+                [
+                    16,
+                    "WORKUP"
+                ],
+                [
+                    20,
+                    "FIREFANG"
+                ],
+                [
+                    24,
+                    "HEADBUTT"
+                ],
+                [
+                    28,
+                    "FIREPUNCH"
+                ],
+                [
+                    32,
+                    "UPROAR"
+                ],
+                [
+                    38,
+                    "BELLYDRUM"
+                ],
+                [
+                    44,
+                    "FLAREBLITZ"
+                ],
+                [
+                    50,
+                    "THRASH"
+                ],
+                [
+                    56,
+                    "SUPERPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULKUP",
+                "BULLDOZE",
+                "BURNINGJEALOUSY",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENCORE",
+                "ENDEAVOR",
+                "ENDURE",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FIREPUNCH",
+                "FIRESPIN",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GUARDSWAP",
+                "GYROBALL",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INCINERATE",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASERFOCUS",
+                "LASHOUT",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "PAYBACK",
+                "POWERSWAP",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "PSYCHIC",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROAR",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNATCH",
+                "SNORE",
+                "SOLARBEAM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "TAUNT",
+                "THIEF",
+                "TORMENT",
+                "TOXIC",
+                "TRICK",
+                "UPROAR",
+                "UTURN",
+                "WILLOWISP",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.3,
+            "weight": 92.9,
+            "abilities": [
+                "SHEERFORCE"
+            ],
+            "hiddenAbilitie": [
+                "ZENMODE"
+            ],
+            "baseTotal": 480,
+            "baseStats": [
+                105,
+                140,
+                55,
+                95,
+                30,
+                55
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Modo Normal"
+        },
+        {
+            "generation": 5,
+            "primaryType": "FIRE",
+            "secondaryType": "PSYCHIC",
+            "moves": [
+                [
+                    1,
+                    "HAMMERARM"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "TAUNT"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    12,
+                    "INCINERATE"
+                ],
+                [
+                    16,
+                    "WORKUP"
+                ],
+                [
+                    20,
+                    "FIREFANG"
+                ],
+                [
+                    24,
+                    "HEADBUTT"
+                ],
+                [
+                    28,
+                    "FIREPUNCH"
+                ],
+                [
+                    32,
+                    "UPROAR"
+                ],
+                [
+                    38,
+                    "BELLYDRUM"
+                ],
+                [
+                    44,
+                    "FLAREBLITZ"
+                ],
+                [
+                    50,
+                    "THRASH"
+                ],
+                [
+                    56,
+                    "SUPERPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULKUP",
+                "BULLDOZE",
+                "BURNINGJEALOUSY",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENCORE",
+                "ENDEAVOR",
+                "ENDURE",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FIREPUNCH",
+                "FIRESPIN",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GUARDSWAP",
+                "GYROBALL",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INCINERATE",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASERFOCUS",
+                "LASHOUT",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "PAYBACK",
+                "POWERSWAP",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "PSYCHIC",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROAR",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNATCH",
+                "SNORE",
+                "SOLARBEAM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "TAUNT",
+                "THIEF",
+                "TORMENT",
+                "TOXIC",
+                "TRICK",
+                "UPROAR",
+                "UTURN",
+                "WILLOWISP",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.3,
+            "weight": 92.9,
+            "abilities": [
+                "SHEERFORCE"
+            ],
+            "hiddenAbilitie": [
+                "ZENMODE"
+            ],
+            "baseTotal": 540,
+            "baseStats": [
+                105,
+                30,
+                105,
+                55,
+                140,
+                105
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Daruma"
+        },
+        {
+            "generation": 8,
+            "primaryType": "ICE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    0,
+                    "ICICLECRASH"
+                ],
+                [
+                    1,
+                    "POWDERSNOW"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "TAUNT"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    12,
+                    "AVALANCHE"
+                ],
+                [
+                    16,
+                    "WORKUP"
+                ],
+                [
+                    20,
+                    "ICEFANG"
+                ],
+                [
+                    24,
+                    "HEADBUTT"
+                ],
+                [
+                    28,
+                    "ICEPUNCH"
+                ],
+                [
+                    32,
+                    "UPROAR"
+                ],
+                [
+                    38,
+                    "BELLYDRUM"
+                ],
+                [
+                    44,
+                    "BLIZZARD"
+                ],
+                [
+                    50,
+                    "THRASH"
+                ],
+                [
+                    56,
+                    "SUPERPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULKUP",
+                "BULLDOZE",
+                "BURNINGJEALOUSY",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENCORE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FIREPUNCH",
+                "FIRESPIN",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GYROBALL",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICEFANG",
+                "ICEPUNCH",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASHOUT",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHIC",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "TAUNT",
+                "THIEF",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WILLOWISP",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.7,
+            "weight": 120.0,
+            "abilities": [
+                "GORILLATACTICS"
+            ],
+            "hiddenAbilitie": [
+                "ZENMODE"
+            ],
+            "baseTotal": 480,
+            "baseStats": [
+                105,
+                140,
+                55,
+                95,
+                30,
+                55
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 2,
+            "formName": "Forma Galar"
+        },
+        {
+            "generation": 8,
+            "primaryType": "ICE",
+            "secondaryType": "FIRE",
+            "moves": [
+                [
+                    0,
+                    "ICICLECRASH"
+                ],
+                [
+                    1,
+                    "POWDERSNOW"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "TAUNT"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    12,
+                    "AVALANCHE"
+                ],
+                [
+                    16,
+                    "WORKUP"
+                ],
+                [
+                    20,
+                    "ICEFANG"
+                ],
+                [
+                    24,
+                    "HEADBUTT"
+                ],
+                [
+                    28,
+                    "ICEPUNCH"
+                ],
+                [
+                    32,
+                    "UPROAR"
+                ],
+                [
+                    38,
+                    "BELLYDRUM"
+                ],
+                [
+                    44,
+                    "BLIZZARD"
+                ],
+                [
+                    50,
+                    "THRASH"
+                ],
+                [
+                    56,
+                    "SUPERPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULKUP",
+                "BULLDOZE",
+                "BURNINGJEALOUSY",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENCORE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FIREPUNCH",
+                "FIRESPIN",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GYROBALL",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICEFANG",
+                "ICEPUNCH",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASHOUT",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHIC",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "TAUNT",
+                "THIEF",
+                "TOXIC",
+                "UPROAR",
+                "UTURN",
+                "WILLOWISP",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.7,
+            "weight": 120.0,
+            "abilities": [
+                "GORILLATACTICS"
+            ],
+            "hiddenAbilitie": [
+                "ZENMODE"
+            ],
+            "baseTotal": 540,
+            "baseStats": [
+                105,
+                160,
+                55,
+                135,
+                30,
+                55
+            ],
+            "flags": [],
+            "form": 3,
+            "formName": "Forma Daruma de Galar"
+        }
+    ],
+    "internationalPokedex": 555
+}

@@ -1,0 +1,156 @@
+{
+    "generation": 6,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            5,
+            "BUBBLE"
+        ],
+        [
+            8,
+            "QUICKATTACK"
+        ],
+        [
+            10,
+            "LICK"
+        ],
+        [
+            14,
+            "WATERPULSE"
+        ],
+        [
+            19,
+            "SMOKESCREEN"
+        ],
+        [
+            23,
+            "ROUND"
+        ],
+        [
+            28,
+            "FLING"
+        ],
+        [
+            33,
+            "SMACKDOWN"
+        ],
+        [
+            40,
+            "SUBSTITUTE"
+        ],
+        [
+            45,
+            "BOUNCE"
+        ],
+        [
+            50,
+            "DOUBLETEAM"
+        ],
+        [
+            56,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "ATTRACT",
+        "BLIZZARD",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "LOWKICK",
+        "MIMIC",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "TOXIC",
+        "UTURN",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 10.9,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "PROTEAN"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        54,
+        63,
+        52,
+        97,
+        83,
+        56
+    ],
+    "flags": [],
+    "name": "Frogadier",
+    "species": "FROGADIER",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 142,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 657
+}

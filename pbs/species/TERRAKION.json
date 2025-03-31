@@ -1,0 +1,162 @@
+{
+    "generation": 5,
+    "primaryType": "ROCK",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "WORKUP"
+        ],
+        [
+            7,
+            "SMACKDOWN"
+        ],
+        [
+            14,
+            "QUICKGUARD"
+        ],
+        [
+            21,
+            "DOUBLEKICK"
+        ],
+        [
+            28,
+            "RETALIATE"
+        ],
+        [
+            35,
+            "ROCKSLIDE"
+        ],
+        [
+            42,
+            "TAKEDOWN"
+        ],
+        [
+            49,
+            "SACREDSWORD"
+        ],
+        [
+            56,
+            "SWORDSDANCE"
+        ],
+        [
+            63,
+            "STONEEDGE"
+        ],
+        [
+            70,
+            "CLOSECOMBAT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRSLASH",
+        "BLOCK",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CALMMIND",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONHEAD",
+        "LASERFOCUS",
+        "MEGAHORN",
+        "MIMIC",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROAR",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SMARTSTRIKE",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TOXIC",
+        "WORKUP",
+        "XSCISSOR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 260.0,
+    "abilities": [
+        "JUSTIFIED"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 580,
+    "baseStats": [
+        91,
+        129,
+        90,
+        108,
+        72,
+        90
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Terrakion",
+    "species": "TERRAKION",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 639
+}

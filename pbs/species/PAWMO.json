@@ -1,0 +1,147 @@
+{
+    "generation": 9,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            -1,
+            "ARMTHRUST"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            3,
+            "THUNDERSHOCK"
+        ],
+        [
+            6,
+            "QUICKATTACK"
+        ],
+        [
+            8,
+            "CHARGE"
+        ],
+        [
+            12,
+            "NUZZLE"
+        ],
+        [
+            15,
+            "DIG"
+        ],
+        [
+            19,
+            "BITE"
+        ],
+        [
+            23,
+            "SPARK"
+        ],
+        [
+            27,
+            "THUNDERWAVE"
+        ],
+        [
+            32,
+            "SLAM"
+        ],
+        [
+            38,
+            "ENTRAINMENT"
+        ],
+        [
+            42,
+            "DISCHARGE"
+        ],
+        [
+            46,
+            "AGILITY"
+        ],
+        [
+            52,
+            "WILDCHARGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "BATONPASS",
+        "CHARGE",
+        "CHARGEBEAM",
+        "CHARM",
+        "COACHING",
+        "CRUNCH",
+        "DIG",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSPUNCH",
+        "HELPINGHAND",
+        "KNOCKOFF",
+        "LOWKICK",
+        "LOWSWEEP",
+        "METALCLAW",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWIFT",
+        "TAKEDOWN",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "UPPERHAND",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 0.4,
+    "weight": 6.5,
+    "abilities": [
+        "VOLTABSORB",
+        "NATURALCURE"
+    ],
+    "hiddenAbilitie": [
+        "IRONFIST"
+    ],
+    "baseTotal": 350,
+    "baseStats": [
+        60,
+        75,
+        40,
+        85,
+        50,
+        40
+    ],
+    "flags": [],
+    "name": "Pawmo",
+    "species": "PAWMO",
+    "catchRate": 80,
+    "happiness": 50,
+    "baseExp": 123,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 922
+}

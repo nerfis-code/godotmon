@@ -1,0 +1,177 @@
+{
+    "generation": 2,
+    "primaryType": "GRASS",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            4,
+            "TAILWHIP"
+        ],
+        [
+            6,
+            "ABSORB"
+        ],
+        [
+            8,
+            "FAIRYWIND"
+        ],
+        [
+            10,
+            "POISONPOWDER"
+        ],
+        [
+            10,
+            "STUNSPORE"
+        ],
+        [
+            10,
+            "SLEEPPOWDER"
+        ],
+        [
+            12,
+            "BULLETSEED"
+        ],
+        [
+            15,
+            "SYNTHESIS"
+        ],
+        [
+            19,
+            "LEECHSEED"
+        ],
+        [
+            22,
+            "MEGADRAIN"
+        ],
+        [
+            24,
+            "ACROBATICS"
+        ],
+        [
+            27,
+            "COTTONSPORE"
+        ],
+        [
+            31,
+            "RAGEPOWDER"
+        ],
+        [
+            32,
+            "GIGADRAIN"
+        ],
+        [
+            35,
+            "BOUNCE"
+        ],
+        [
+            37,
+            "UTURN"
+        ],
+        [
+            38,
+            "MEMENTO"
+        ],
+        [
+            40,
+            "WORRYSEED"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "ATTRACT",
+        "BOUNCE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "UTURN",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "AROMATHERAPY",
+        "CONFUSION",
+        "COTTONGUARD",
+        "DOUBLEEDGE",
+        "ENCORE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "SEEDBOMB",
+        "STRENGTHSAP",
+        "WORRYSEED"
+    ],
+    "height": 0.4,
+    "weight": 0.5,
+    "abilities": [
+        "CHLOROPHYLL",
+        "LEAFGUARD"
+    ],
+    "hiddenAbilitie": [
+        "INFILTRATOR"
+    ],
+    "baseTotal": 250,
+    "baseStats": [
+        35,
+        35,
+        40,
+        50,
+        35,
+        55
+    ],
+    "flags": [],
+    "name": "Hoppip",
+    "species": "HOPPIP",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 50,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 187
+}

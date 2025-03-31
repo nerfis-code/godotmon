@@ -1,0 +1,450 @@
+{
+    "generation": 8,
+    "primaryType": "GRASS",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            -1,
+            "HEADBUTT"
+        ],
+        [
+            1,
+            "RECYCLE"
+        ],
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            4,
+            "CURSE"
+        ],
+        [
+            8,
+            "STOMP"
+        ],
+        [
+            12,
+            "LEECHSEED"
+        ],
+        [
+            16,
+            "PROTECT"
+        ],
+        [
+            20,
+            "BULLETSEED"
+        ],
+        [
+            24,
+            "RECOVER"
+        ],
+        [
+            28,
+            "APPLEACID"
+        ],
+        [
+            32,
+            "BODYSLAM"
+        ],
+        [
+            36,
+            "IRONDEFENSE"
+        ],
+        [
+            40,
+            "DRAGONPULSE"
+        ],
+        [
+            44,
+            "ENERGYBALL"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONPULSE",
+        "EARTHQUAKE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GYROBALL",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TOXIC"
+    ],
+    "eggMoves": [],
+    "height": 0.4,
+    "weight": 13.0,
+    "abilities": [
+        "RIPEN",
+        "GLUTTONY"
+    ],
+    "hiddenAbilitie": [
+        "THICKFAT"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        110,
+        85,
+        80,
+        30,
+        100,
+        80
+    ],
+    "flags": [],
+    "name": "Appletun",
+    "species": "APPLETUN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "GRASS",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    -1,
+                    "HEADBUTT"
+                ],
+                [
+                    1,
+                    "RECYCLE"
+                ],
+                [
+                    1,
+                    "WITHDRAW"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "GROWTH"
+                ],
+                [
+                    1,
+                    "SWEETSCENT"
+                ],
+                [
+                    4,
+                    "CURSE"
+                ],
+                [
+                    8,
+                    "STOMP"
+                ],
+                [
+                    12,
+                    "LEECHSEED"
+                ],
+                [
+                    16,
+                    "PROTECT"
+                ],
+                [
+                    20,
+                    "BULLETSEED"
+                ],
+                [
+                    24,
+                    "RECOVER"
+                ],
+                [
+                    28,
+                    "APPLEACID"
+                ],
+                [
+                    32,
+                    "BODYSLAM"
+                ],
+                [
+                    36,
+                    "IRONDEFENSE"
+                ],
+                [
+                    40,
+                    "DRAGONPULSE"
+                ],
+                [
+                    44,
+                    "ENERGYBALL"
+                ]
+            ],
+            "tutorMoves": [
+                "AMNESIA",
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BULLDOZE",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONPULSE",
+                "EARTHQUAKE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GYROBALL",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAYBACK",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "TOXIC"
+            ],
+            "eggMoves": [],
+            "height": 0.4,
+            "weight": 13.0,
+            "abilities": [
+                "RIPEN",
+                "GLUTTONY"
+            ],
+            "hiddenAbilitie": [
+                "THICKFAT"
+            ],
+            "baseTotal": 485,
+            "baseStats": [
+                110,
+                85,
+                80,
+                30,
+                100,
+                80
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Appletun"
+        },
+        {
+            "generation": 8,
+            "primaryType": "GRASS",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    -1,
+                    "HEADBUTT"
+                ],
+                [
+                    1,
+                    "RECYCLE"
+                ],
+                [
+                    1,
+                    "WITHDRAW"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "GROWTH"
+                ],
+                [
+                    1,
+                    "SWEETSCENT"
+                ],
+                [
+                    4,
+                    "CURSE"
+                ],
+                [
+                    8,
+                    "STOMP"
+                ],
+                [
+                    12,
+                    "LEECHSEED"
+                ],
+                [
+                    16,
+                    "PROTECT"
+                ],
+                [
+                    20,
+                    "BULLETSEED"
+                ],
+                [
+                    24,
+                    "RECOVER"
+                ],
+                [
+                    28,
+                    "APPLEACID"
+                ],
+                [
+                    32,
+                    "BODYSLAM"
+                ],
+                [
+                    36,
+                    "IRONDEFENSE"
+                ],
+                [
+                    40,
+                    "DRAGONPULSE"
+                ],
+                [
+                    44,
+                    "ENERGYBALL"
+                ]
+            ],
+            "tutorMoves": [
+                "AMNESIA",
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BULLDOZE",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONPULSE",
+                "EARTHQUAKE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GYROBALL",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAYBACK",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "TOXIC"
+            ],
+            "eggMoves": [],
+            "height": 24.0,
+            "weight": 13.0,
+            "abilities": [
+                "RIPEN",
+                "GLUTTONY"
+            ],
+            "hiddenAbilitie": [
+                "THICKFAT"
+            ],
+            "baseTotal": 485,
+            "baseStats": [
+                110,
+                85,
+                80,
+                30,
+                100,
+                80
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 842
+}

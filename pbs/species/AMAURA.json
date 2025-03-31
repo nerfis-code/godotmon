@@ -1,0 +1,180 @@
+{
+    "generation": 6,
+    "primaryType": "ROCK",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "ENCORE"
+        ],
+        [
+            8,
+            "ANCIENTPOWER"
+        ],
+        [
+            12,
+            "ICYWIND"
+        ],
+        [
+            16,
+            "ROUND"
+        ],
+        [
+            20,
+            "MIST"
+        ],
+        [
+            24,
+            "AURORABEAM"
+        ],
+        [
+            28,
+            "THUNDERWAVE"
+        ],
+        [
+            32,
+            "NATUREPOWER"
+        ],
+        [
+            36,
+            "FREEZEDRY"
+        ],
+        [
+            40,
+            "ICEBEAM"
+        ],
+        [
+            44,
+            "LIGHTSCREEN"
+        ],
+        [
+            48,
+            "HAIL"
+        ],
+        [
+            52,
+            "BLIZZARD"
+        ],
+        [
+            56,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DRAGONTAIL",
+        "DREAMEATER",
+        "EARTHPOWER",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OUTRAGE",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "AURORAVEIL",
+        "DISCHARGE",
+        "HAZE",
+        "MIRRORCOAT",
+        "ROCKTHROW",
+        "TAKEDOWN"
+    ],
+    "height": 1.3,
+    "weight": 25.2,
+    "abilities": [
+        "REFRIGERATE"
+    ],
+    "hiddenAbilitie": [
+        "SNOWWARNING"
+    ],
+    "baseTotal": 362,
+    "baseStats": [
+        77,
+        59,
+        50,
+        46,
+        67,
+        63
+    ],
+    "flags": [],
+    "name": "Amaura",
+    "species": "AMAURA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 72,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 698
+}

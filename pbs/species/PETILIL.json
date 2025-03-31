@@ -1,0 +1,456 @@
+{
+    "generation": 5,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            3,
+            "HELPINGHAND"
+        ],
+        [
+            6,
+            "STUNSPORE"
+        ],
+        [
+            9,
+            "MEGADRAIN"
+        ],
+        [
+            12,
+            "AROMATHERAPY"
+        ],
+        [
+            12,
+            "CHARM"
+        ],
+        [
+            15,
+            "MAGICALLEAF"
+        ],
+        [
+            18,
+            "SLEEPPOWDER"
+        ],
+        [
+            21,
+            "GIGADRAIN"
+        ],
+        [
+            24,
+            "LEECHSEED"
+        ],
+        [
+            27,
+            "AFTERYOU"
+        ],
+        [
+            30,
+            "ENERGYBALL"
+        ],
+        [
+            33,
+            "SYNTHESIS"
+        ],
+        [
+            36,
+            "SUNNYDAY"
+        ],
+        [
+            39,
+            "ENTRAINMENT"
+        ],
+        [
+            42,
+            "LEAFSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "LASERFOCUS",
+        "LEAFSTORM",
+        "MAGICALLEAF",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POLLENPUFF",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "TOXIC",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "HEALINGWISH",
+        "INGRAIN",
+        "SWEETSCENT",
+        "WORRYSEED"
+    ],
+    "height": 0.5,
+    "weight": 6.6,
+    "abilities": [
+        "CHLOROPHYLL",
+        "OWNTEMPO"
+    ],
+    "hiddenAbilitie": [
+        "LEAFGUARD"
+    ],
+    "baseTotal": 280,
+    "baseStats": [
+        45,
+        35,
+        50,
+        30,
+        70,
+        50
+    ],
+    "flags": [],
+    "name": "Petilil",
+    "species": "PETILIL",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 56,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 100,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "GRASS",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "ABSORB"
+                ],
+                [
+                    1,
+                    "GROWTH"
+                ],
+                [
+                    3,
+                    "HELPINGHAND"
+                ],
+                [
+                    6,
+                    "STUNSPORE"
+                ],
+                [
+                    9,
+                    "MEGADRAIN"
+                ],
+                [
+                    12,
+                    "AROMATHERAPY"
+                ],
+                [
+                    12,
+                    "CHARM"
+                ],
+                [
+                    15,
+                    "MAGICALLEAF"
+                ],
+                [
+                    18,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    21,
+                    "GIGADRAIN"
+                ],
+                [
+                    24,
+                    "LEECHSEED"
+                ],
+                [
+                    27,
+                    "AFTERYOU"
+                ],
+                [
+                    30,
+                    "ENERGYBALL"
+                ],
+                [
+                    33,
+                    "SYNTHESIS"
+                ],
+                [
+                    36,
+                    "SUNNYDAY"
+                ],
+                [
+                    39,
+                    "ENTRAINMENT"
+                ],
+                [
+                    42,
+                    "LEAFSTORM"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ATTRACT",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "HEALBELL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "LASERFOCUS",
+                "LEAFSTORM",
+                "MAGICALLEAF",
+                "MIMIC",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "POLLENPUFF",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "TOXIC",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "HEALINGWISH",
+                "INGRAIN",
+                "SWEETSCENT",
+                "WORRYSEED"
+            ],
+            "height": 0.5,
+            "weight": 6.6,
+            "abilities": [
+                "CHLOROPHYLL",
+                "OWNTEMPO"
+            ],
+            "hiddenAbilitie": [
+                "LEAFGUARD"
+            ],
+            "baseTotal": 280,
+            "baseStats": [
+                45,
+                35,
+                50,
+                30,
+                70,
+                50
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Petilil"
+        },
+        {
+            "generation": 8,
+            "primaryType": "GRASS",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "ABSORB"
+                ],
+                [
+                    1,
+                    "GROWTH"
+                ],
+                [
+                    3,
+                    "HELPINGHAND"
+                ],
+                [
+                    6,
+                    "STUNSPORE"
+                ],
+                [
+                    9,
+                    "MEGADRAIN"
+                ],
+                [
+                    12,
+                    "AROMATHERAPY"
+                ],
+                [
+                    12,
+                    "CHARM"
+                ],
+                [
+                    15,
+                    "MAGICALLEAF"
+                ],
+                [
+                    18,
+                    "SLEEPPOWDER"
+                ],
+                [
+                    21,
+                    "GIGADRAIN"
+                ],
+                [
+                    24,
+                    "LEECHSEED"
+                ],
+                [
+                    27,
+                    "AFTERYOU"
+                ],
+                [
+                    30,
+                    "ENERGYBALL"
+                ],
+                [
+                    33,
+                    "SYNTHESIS"
+                ],
+                [
+                    36,
+                    "SUNNYDAY"
+                ],
+                [
+                    39,
+                    "ENTRAINMENT"
+                ],
+                [
+                    42,
+                    "LEAFSTORM"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ATTRACT",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ENCORE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "HEALBELL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "LASERFOCUS",
+                "LEAFSTORM",
+                "MAGICALLEAF",
+                "MIMIC",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "POLLENPUFF",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "TOXIC",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "HEALINGWISH",
+                "INGRAIN",
+                "SWEETSCENT",
+                "WORRYSEED"
+            ],
+            "height": 0.5,
+            "weight": 6.6,
+            "abilities": [
+                "CHLOROPHYLL",
+                "OWNTEMPO"
+            ],
+            "hiddenAbilitie": [
+                "LEAFGUARD"
+            ],
+            "baseTotal": 280,
+            "baseStats": [
+                45,
+                35,
+                50,
+                30,
+                70,
+                50
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Petilil"
+        }
+    ],
+    "internationalPokedex": 548
+}

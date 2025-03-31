@@ -1,0 +1,168 @@
+{
+    "generation": 5,
+    "primaryType": "DARK",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "DOUBLEHIT"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            12,
+            "ROAR"
+        ],
+        [
+            16,
+            "ASSURANCE"
+        ],
+        [
+            20,
+            "HEADBUTT"
+        ],
+        [
+            24,
+            "WORKUP"
+        ],
+        [
+            28,
+            "SLAM"
+        ],
+        [
+            32,
+            "CRUNCH"
+        ],
+        [
+            36,
+            "SCARYFACE"
+        ],
+        [
+            40,
+            "DRAGONPULSE"
+        ],
+        [
+            44,
+            "BODYSLAM"
+        ],
+        [
+            48,
+            "HYPERVOICE"
+        ],
+        [
+            54,
+            "DRAGONRUSH"
+        ],
+        [
+            60,
+            "NASTYPLOT"
+        ],
+        [
+            66,
+            "OUTRAGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHPOWER",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEFANG",
+        "INCINERATE",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROUND",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 50.0,
+    "abilities": [
+        "HUSTLE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 420,
+    "baseStats": [
+        72,
+        85,
+        70,
+        58,
+        65,
+        70
+    ],
+    "flags": [],
+    "name": "Zweilous",
+    "species": "ZWEILOUS",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 147,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 634
+}

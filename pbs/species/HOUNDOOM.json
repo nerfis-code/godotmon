@@ -1,0 +1,530 @@
+{
+    "generation": 2,
+    "primaryType": "DARK",
+    "secondaryType": "FIRE",
+    "moves": [
+        [
+            1,
+            "NASTYPLOT"
+        ],
+        [
+            1,
+            "THUNDERFANG"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "HOWL"
+        ],
+        [
+            1,
+            "SMOG"
+        ],
+        [
+            13,
+            "ROAR"
+        ],
+        [
+            16,
+            "BITE"
+        ],
+        [
+            20,
+            "TAUNT"
+        ],
+        [
+            20,
+            "INCINERATE"
+        ],
+        [
+            26,
+            "BEATUP"
+        ],
+        [
+            30,
+            "FIREFANG"
+        ],
+        [
+            35,
+            "PAYBACK"
+        ],
+        [
+            35,
+            "TORMENT"
+        ],
+        [
+            41,
+            "FLAMECHARGE"
+        ],
+        [
+            41,
+            "COMEUPPANCE"
+        ],
+        [
+            45,
+            "FOULPLAY"
+        ],
+        [
+            50,
+            "FLAMETHROWER"
+        ],
+        [
+            56,
+            "CRUNCH"
+        ],
+        [
+            62,
+            "INFERNO"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DARKPULSE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "INCINERATE",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TORMENT",
+        "UPROAR",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 35.0,
+    "abilities": [
+        "EARLYBIRD",
+        "FLASHFIRE"
+    ],
+    "hiddenAbilitie": [
+        "UNNERVE"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        75,
+        90,
+        50,
+        95,
+        110,
+        80
+    ],
+    "flags": [],
+    "name": "Houndoom",
+    "species": "HOUNDOOM",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 175,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 2,
+            "primaryType": "DARK",
+            "secondaryType": "FIRE",
+            "moves": [
+                [
+                    1,
+                    "NASTYPLOT"
+                ],
+                [
+                    1,
+                    "THUNDERFANG"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    1,
+                    "HOWL"
+                ],
+                [
+                    1,
+                    "SMOG"
+                ],
+                [
+                    13,
+                    "ROAR"
+                ],
+                [
+                    16,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "TAUNT"
+                ],
+                [
+                    20,
+                    "INCINERATE"
+                ],
+                [
+                    26,
+                    "BEATUP"
+                ],
+                [
+                    30,
+                    "FIREFANG"
+                ],
+                [
+                    35,
+                    "PAYBACK"
+                ],
+                [
+                    35,
+                    "TORMENT"
+                ],
+                [
+                    41,
+                    "FLAMECHARGE"
+                ],
+                [
+                    41,
+                    "COMEUPPANCE"
+                ],
+                [
+                    45,
+                    "FOULPLAY"
+                ],
+                [
+                    50,
+                    "FLAMETHROWER"
+                ],
+                [
+                    56,
+                    "CRUNCH"
+                ],
+                [
+                    62,
+                    "INFERNO"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COUNTER",
+                "DARKPULSE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "INCINERATE",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "PAYBACK",
+                "PROTECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNARL",
+                "SNATCH",
+                "SNORE",
+                "SOLARBEAM",
+                "SPITE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SUPERFANG",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "TORMENT",
+                "UPROAR",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 1.4,
+            "weight": 35.0,
+            "abilities": [
+                "EARLYBIRD",
+                "FLASHFIRE"
+            ],
+            "hiddenAbilitie": [
+                "UNNERVE"
+            ],
+            "baseTotal": 500,
+            "baseStats": [
+                75,
+                90,
+                50,
+                95,
+                110,
+                80
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Houndoom"
+        },
+        {
+            "generation": 6,
+            "primaryType": "DARK",
+            "secondaryType": "FIRE",
+            "moves": [
+                [
+                    1,
+                    "NASTYPLOT"
+                ],
+                [
+                    1,
+                    "THUNDERFANG"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    1,
+                    "HOWL"
+                ],
+                [
+                    1,
+                    "SMOG"
+                ],
+                [
+                    13,
+                    "ROAR"
+                ],
+                [
+                    16,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "TAUNT"
+                ],
+                [
+                    20,
+                    "INCINERATE"
+                ],
+                [
+                    26,
+                    "BEATUP"
+                ],
+                [
+                    30,
+                    "FIREFANG"
+                ],
+                [
+                    35,
+                    "PAYBACK"
+                ],
+                [
+                    35,
+                    "TORMENT"
+                ],
+                [
+                    41,
+                    "FLAMECHARGE"
+                ],
+                [
+                    41,
+                    "COMEUPPANCE"
+                ],
+                [
+                    45,
+                    "FOULPLAY"
+                ],
+                [
+                    50,
+                    "FLAMETHROWER"
+                ],
+                [
+                    56,
+                    "CRUNCH"
+                ],
+                [
+                    62,
+                    "INFERNO"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COUNTER",
+                "DARKPULSE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "INCINERATE",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "PAYBACK",
+                "PROTECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNARL",
+                "SNATCH",
+                "SNORE",
+                "SOLARBEAM",
+                "SPITE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SUPERFANG",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "TORMENT",
+                "UPROAR",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 1.9,
+            "weight": 49.5,
+            "abilities": [
+                "SOLARPOWER"
+            ],
+            "hiddenAbilitie": [
+                "SOLARPOWER"
+            ],
+            "baseTotal": 600,
+            "baseStats": [
+                75,
+                90,
+                90,
+                115,
+                140,
+                90
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Houndoom"
+        }
+    ],
+    "internationalPokedex": 229
+}

@@ -1,0 +1,187 @@
+{
+    "generation": 2,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            5,
+            "ROLLOUT"
+        ],
+        [
+            10,
+            "DEFENSECURL"
+        ],
+        [
+            15,
+            "STOMP"
+        ],
+        [
+            20,
+            "HEALBELL"
+        ],
+        [
+            25,
+            "HEADBUTT"
+        ],
+        [
+            30,
+            "ZENHEADBUTT"
+        ],
+        [
+            35,
+            "MILKDRINK"
+        ],
+        [
+            40,
+            "BODYSLAM"
+        ],
+        [
+            45,
+            "PLAYROUGH"
+        ],
+        [
+            50,
+            "CHARM"
+        ],
+        [
+            55,
+            "HIGHHORSEPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEADBUTT",
+        "HEALBELL",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONHEAD",
+        "IRONTAIL",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STEELROLLER",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "BELCH",
+        "CURSE",
+        "DOUBLEEDGE",
+        "FOCUSPUNCH",
+        "HAMMERARM",
+        "HELPINGHAND",
+        "PRESENT",
+        "REVERSAL",
+        "SEISMICTOSS"
+    ],
+    "height": 1.2,
+    "weight": 75.5,
+    "abilities": [
+        "THICKFAT",
+        "SCRAPPY"
+    ],
+    "hiddenAbilitie": [
+        "SAPSIPPER"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        95,
+        80,
+        105,
+        100,
+        40,
+        70
+    ],
+    "flags": [],
+    "name": "Miltank",
+    "species": "MILTANK",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 172,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 241
+}

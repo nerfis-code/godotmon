@@ -1,0 +1,147 @@
+{
+    "generation": 9,
+    "primaryType": "ROCK",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            -1,
+            "MORTALSPIN"
+        ],
+        [
+            1,
+            "SMACKDOWN"
+        ],
+        [
+            1,
+            "SPIKYSHIELD"
+        ],
+        [
+            1,
+            "ROCKTHROW"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "TOXICSPIKES"
+        ],
+        [
+            7,
+            "ACIDSPRAY"
+        ],
+        [
+            11,
+            "ANCIENTPOWER"
+        ],
+        [
+            15,
+            "ROCKPOLISH"
+        ],
+        [
+            18,
+            "STEALTHROCK"
+        ],
+        [
+            22,
+            "VENOSHOCK"
+        ],
+        [
+            26,
+            "SANDSTORM"
+        ],
+        [
+            29,
+            "SELFDESTRUCT"
+        ],
+        [
+            33,
+            "ROCKSLIDE"
+        ],
+        [
+            39,
+            "POWERGEM"
+        ],
+        [
+            44,
+            "ACIDARMOR"
+        ],
+        [
+            50,
+            "SLUDGEWAVE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "CONFUSERAY",
+        "DAZZLINGGLEAM",
+        "EARTHPOWER",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASHCANNON",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "METEORBEAM",
+        "MUDSHOT",
+        "POWERGEM",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SOLARBEAM",
+        "SPIKES",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TOXIC",
+        "TOXICSPIKES",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 45.0,
+    "abilities": [
+        "TOXICDEBRIS"
+    ],
+    "hiddenAbilitie": [
+        "CORROSION"
+    ],
+    "baseTotal": 525,
+    "baseStats": [
+        83,
+        55,
+        90,
+        86,
+        130,
+        81
+    ],
+    "flags": [],
+    "name": "Glimmora",
+    "species": "GLIMMORA",
+    "catchRate": 25,
+    "happiness": 50,
+    "baseExp": 184,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 970
+}

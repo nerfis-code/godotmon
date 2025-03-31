@@ -1,0 +1,151 @@
+{
+    "generation": 1,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            5,
+            "QUICKATTACK"
+        ],
+        [
+            8,
+            "LEER"
+        ],
+        [
+            9,
+            "FURYATTACK"
+        ],
+        [
+            14,
+            "PLUCK"
+        ],
+        [
+            15,
+            "WINGATTACK"
+        ],
+        [
+            19,
+            "DOUBLEHIT"
+        ],
+        [
+            23,
+            "AGILITY"
+        ],
+        [
+            27,
+            "UPROAR"
+        ],
+        [
+            30,
+            "ACUPRESSURE"
+        ],
+        [
+            33,
+            "SWORDSDANCE"
+        ],
+        [
+            36,
+            "DRILLPECK"
+        ],
+        [
+            39,
+            "ENDEAVOR"
+        ],
+        [
+            40,
+            "LUNGE"
+        ],
+        [
+            43,
+            "THRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "KNOCKOFF",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PLUCK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "THIEF",
+        "UPROAR",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "ASSURANCE",
+        "BRAVEBIRD",
+        "ENDEAVOR",
+        "FLAIL",
+        "HAZE",
+        "QUICKATTACK",
+        "SUPERSONIC"
+    ],
+    "height": 1.4,
+    "weight": 39.2,
+    "abilities": [
+        "RUNAWAY",
+        "EARLYBIRD"
+    ],
+    "hiddenAbilitie": [
+        "TANGLEDFEET"
+    ],
+    "baseTotal": 310,
+    "baseStats": [
+        35,
+        85,
+        45,
+        75,
+        35,
+        35
+    ],
+    "flags": [],
+    "name": "Doduo",
+    "species": "DODUO",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 84
+}

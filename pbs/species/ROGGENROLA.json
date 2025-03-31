@@ -1,0 +1,143 @@
+{
+    "generation": 5,
+    "primaryType": "ROCK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            4,
+            "HARDEN"
+        ],
+        [
+            8,
+            "STEALTHROCK"
+        ],
+        [
+            12,
+            "MUDSLAP"
+        ],
+        [
+            16,
+            "SMACKDOWN"
+        ],
+        [
+            20,
+            "IRONDEFENSE"
+        ],
+        [
+            24,
+            "HEADBUTT"
+        ],
+        [
+            28,
+            "ROCKSLIDE"
+        ],
+        [
+            32,
+            "ROCKBLAST"
+        ],
+        [
+            36,
+            "SANDSTORM"
+        ],
+        [
+            40,
+            "STONEEDGE"
+        ],
+        [
+            44,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLOCK",
+        "BODYPRESS",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GRAVITY",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "IRONDEFENSE",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC"
+    ],
+    "eggMoves": [
+        "AUTOTOMIZE",
+        "CURSE",
+        "GRAVITY",
+        "TAKEDOWN",
+        "WIDEGUARD"
+    ],
+    "height": 0.4,
+    "weight": 18.0,
+    "abilities": [
+        "STURDY",
+        "WEAKARMOR"
+    ],
+    "hiddenAbilitie": [
+        "SANDFORCE"
+    ],
+    "baseTotal": 280,
+    "baseStats": [
+        55,
+        75,
+        85,
+        15,
+        25,
+        25
+    ],
+    "flags": [],
+    "name": "Roggenrola",
+    "species": "ROGGENROLA",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 56,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 524
+}

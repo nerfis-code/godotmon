@@ -1,0 +1,157 @@
+{
+    "generation": 6,
+    "primaryType": "STEEL",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            4,
+            "TACKLE"
+        ],
+        [
+            8,
+            "FAIRYWIND"
+        ],
+        [
+            12,
+            "TORMENT"
+        ],
+        [
+            16,
+            "FAIRYLOCK"
+        ],
+        [
+            16,
+            "CRAFTYSHIELD"
+        ],
+        [
+            20,
+            "METALSOUND"
+        ],
+        [
+            24,
+            "DRAININGKISS"
+        ],
+        [
+            28,
+            "RECYCLE"
+        ],
+        [
+            32,
+            "IMPRISON"
+        ],
+        [
+            36,
+            "FLASHCANNON"
+        ],
+        [
+            40,
+            "PLAYROUGH"
+        ],
+        [
+            44,
+            "MAGICROOM"
+        ],
+        [
+            48,
+            "FOULPLAY"
+        ],
+        [
+            52,
+            "LASTRESORT"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DAZZLINGGLEAM",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MAGNETRISE",
+        "MIMIC",
+        "MISTYTERRAIN",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SPIKES",
+        "STEELBEAM",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THIEF",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC"
+    ],
+    "eggMoves": [
+        "MAGNETRISE",
+        "SWITCHEROO"
+    ],
+    "height": 0.2,
+    "weight": 3.0,
+    "abilities": [
+        "PRANKSTER"
+    ],
+    "hiddenAbilitie": [
+        "MAGICIAN"
+    ],
+    "baseTotal": 470,
+    "baseStats": [
+        57,
+        80,
+        91,
+        75,
+        80,
+        87
+    ],
+    "flags": [],
+    "name": "Klefki",
+    "species": "KLEFKI",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 165,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 707
+}

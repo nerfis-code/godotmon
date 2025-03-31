@@ -1,0 +1,178 @@
+{
+    "generation": 6,
+    "primaryType": "ROCK",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "ENCORE"
+        ],
+        [
+            1,
+            "ANCIENTPOWER"
+        ],
+        [
+            12,
+            "ICYWIND"
+        ],
+        [
+            16,
+            "ROUND"
+        ],
+        [
+            20,
+            "MIST"
+        ],
+        [
+            24,
+            "AURORABEAM"
+        ],
+        [
+            28,
+            "THUNDERWAVE"
+        ],
+        [
+            32,
+            "NATUREPOWER"
+        ],
+        [
+            36,
+            "FREEZEDRY"
+        ],
+        [
+            42,
+            "ICEBEAM"
+        ],
+        [
+            48,
+            "LIGHTSCREEN"
+        ],
+        [
+            54,
+            "HAIL"
+        ],
+        [
+            60,
+            "BLIZZARD"
+        ],
+        [
+            66,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DRAGONTAIL",
+        "DREAMEATER",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OUTRAGE",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.7,
+    "weight": 225.0,
+    "abilities": [
+        "REFRIGERATE"
+    ],
+    "hiddenAbilitie": [
+        "SNOWWARNING"
+    ],
+    "baseTotal": 521,
+    "baseStats": [
+        123,
+        77,
+        72,
+        58,
+        99,
+        92
+    ],
+    "flags": [],
+    "name": "Aurorus",
+    "species": "AURORUS",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 104,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 699
+}

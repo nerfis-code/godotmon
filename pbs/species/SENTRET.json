@@ -1,0 +1,178 @@
+{
+    "generation": 2,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "DEFENSECURL"
+        ],
+        [
+            7,
+            "QUICKATTACK"
+        ],
+        [
+            13,
+            "FURYSWIPES"
+        ],
+        [
+            16,
+            "HELPINGHAND"
+        ],
+        [
+            19,
+            "FOLLOWME"
+        ],
+        [
+            25,
+            "SLAM"
+        ],
+        [
+            28,
+            "REST"
+        ],
+        [
+            31,
+            "SUCKERPUNCH"
+        ],
+        [
+            36,
+            "AMNESIA"
+        ],
+        [
+            39,
+            "BATONPASS"
+        ],
+        [
+            42,
+            "REVERSAL"
+        ],
+        [
+            47,
+            "HYPERVOICE"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "TRICK",
+        "UPROAR",
+        "UTURN",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "BABYDOLLEYES",
+        "CHARM",
+        "COVET",
+        "DOUBLEEDGE",
+        "FOCUSENERGY",
+        "LASTRESORT",
+        "REVERSAL",
+        "SLASH",
+        "TRICK"
+    ],
+    "height": 0.8,
+    "weight": 6.0,
+    "abilities": [
+        "RUNAWAY",
+        "KEENEYE"
+    ],
+    "hiddenAbilitie": [
+        "FRISK"
+    ],
+    "baseTotal": 215,
+    "baseStats": [
+        35,
+        46,
+        34,
+        20,
+        35,
+        45
+    ],
+    "flags": [],
+    "name": "Sentret",
+    "species": "SENTRET",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 43,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 161
+}

@@ -1,0 +1,122 @@
+{
+    "generation": 8,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "DEFENSECURL"
+        ],
+        [
+            8,
+            "COPYCAT"
+        ],
+        [
+            12,
+            "GUARDSPLIT"
+        ],
+        [
+            16,
+            "DOUBLEKICK"
+        ],
+        [
+            21,
+            "HEADBUTT"
+        ],
+        [
+            25,
+            "TAKEDOWN"
+        ],
+        [
+            28,
+            "GUARDSWAP"
+        ],
+        [
+            32,
+            "REVERSAL"
+        ],
+        [
+            36,
+            "COTTONGUARD"
+        ],
+        [
+            40,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GRASSYGLIDE",
+        "GUARDSWAP",
+        "HIDDENPOWER",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "THUNDERWAVE",
+        "TOXIC",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "COUNTER",
+        "STOMP",
+        "SWAGGER"
+    ],
+    "height": 0.6,
+    "weight": 6.0,
+    "abilities": [
+        "FLUFFY",
+        "RUNAWAY"
+    ],
+    "hiddenAbilitie": [
+        "BULLETPROOF"
+    ],
+    "baseTotal": 270,
+    "baseStats": [
+        42,
+        40,
+        55,
+        48,
+        40,
+        45
+    ],
+    "flags": [],
+    "name": "Wooloo",
+    "species": "WOOLOO",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 122,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 831
+}

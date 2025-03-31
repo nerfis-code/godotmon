@@ -1,0 +1,136 @@
+{
+    "generation": 9,
+    "primaryType": "ICE",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            -1,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            1,
+            "PRESENT"
+        ],
+        [
+            7,
+            "POWDERSNOW"
+        ],
+        [
+            14,
+            "WHIRLPOOL"
+        ],
+        [
+            21,
+            "TAKEDOWN"
+        ],
+        [
+            28,
+            "DRILLPECK"
+        ],
+        [
+            35,
+            "HELPINGHAND"
+        ],
+        [
+            42,
+            "FREEZEDRY"
+        ],
+        [
+            49,
+            "FLIPTURN"
+        ],
+        [
+            56,
+            "ICEBEAM"
+        ],
+        [
+            63,
+            "AGILITY"
+        ],
+        [
+            70,
+            "SNOWSCAPE"
+        ],
+        [
+            77,
+            "HYDROPUMP"
+        ],
+        [
+            84,
+            "AURORAVEIL"
+        ],
+        [
+            91,
+            "BLIZZARD"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AGILITY",
+        "AIRCUTTER",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "CHILLINGWATER",
+        "ELECTRICTERRAIN",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FLIPTURN",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICESPINNER",
+        "ICYWIND",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SLEEPTALK",
+        "SNOWSCAPE",
+        "SUBSTITUTE",
+        "SWIFT",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "UTURN",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 11.0,
+    "abilities": [
+        "QUARKDRIVE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        56,
+        80,
+        114,
+        136,
+        124,
+        60
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Ferrosaco",
+    "species": "IRONBUNDLE",
+    "catchRate": 50,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 991
+}

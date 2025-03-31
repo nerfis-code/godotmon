@@ -1,0 +1,163 @@
+{
+    "generation": 5,
+    "primaryType": "GRASS",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            3,
+            "FAIRYWIND"
+        ],
+        [
+            6,
+            "STUNSPORE"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            15,
+            "RAZORLEAF"
+        ],
+        [
+            18,
+            "GROWTH"
+        ],
+        [
+            21,
+            "POISONPOWDER"
+        ],
+        [
+            24,
+            "GIGADRAIN"
+        ],
+        [
+            27,
+            "CHARM"
+        ],
+        [
+            30,
+            "LEECHSEED"
+        ],
+        [
+            33,
+            "COTTONSPORE"
+        ],
+        [
+            36,
+            "ENERGYBALL"
+        ],
+        [
+            39,
+            "SUNNYDAY"
+        ],
+        [
+            42,
+            "ENDEAVOR"
+        ],
+        [
+            45,
+            "COTTONGUARD"
+        ],
+        [
+            48,
+            "SOLARBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BEATUP",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FAKETEARS",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "KNOCKOFF",
+        "MIMIC",
+        "MISTYTERRAIN",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "TOXIC",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "MEMENTO",
+        "NATUREPOWER",
+        "SWITCHEROO",
+        "TICKLE",
+        "WORRYSEED"
+    ],
+    "height": 0.3,
+    "weight": 0.6,
+    "abilities": [
+        "PRANKSTER",
+        "INFILTRATOR"
+    ],
+    "hiddenAbilitie": [
+        "CHLOROPHYLL"
+    ],
+    "baseTotal": 280,
+    "baseStats": [
+        40,
+        27,
+        60,
+        66,
+        37,
+        50
+    ],
+    "flags": [],
+    "name": "Cottonee",
+    "species": "COTTONEE",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 56,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 546
+}

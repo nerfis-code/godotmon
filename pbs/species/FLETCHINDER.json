@@ -1,0 +1,142 @@
+{
+    "generation": 6,
+    "primaryType": "FIRE",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            -1,
+            "FLAMECHARGE"
+        ],
+        [
+            1,
+            "FEINT"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            15,
+            "FLAIL"
+        ],
+        [
+            22,
+            "ACROBATICS"
+        ],
+        [
+            29,
+            "AGILITY"
+        ],
+        [
+            36,
+            "AERIALACE"
+        ],
+        [
+            43,
+            "TAILWIND"
+        ],
+        [
+            50,
+            "STEELWING"
+        ],
+        [
+            57,
+            "ROOST"
+        ],
+        [
+            64,
+            "FLY"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLY",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "INCINERATE",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "TOXIC",
+        "UTURN",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 16.0,
+    "abilities": [
+        "FLAMEBODY"
+    ],
+    "hiddenAbilitie": [
+        "GALEWINGS"
+    ],
+    "baseTotal": 382,
+    "baseStats": [
+        62,
+        73,
+        55,
+        84,
+        56,
+        52
+    ],
+    "flags": [],
+    "name": "Fletchinder",
+    "species": "FLETCHINDER",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 134,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 662
+}

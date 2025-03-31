@@ -1,0 +1,432 @@
+{
+    "generation": 5,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            6,
+            "HONECLAWS"
+        ],
+        [
+            12,
+            "WINGATTACK"
+        ],
+        [
+            18,
+            "TAILWIND"
+        ],
+        [
+            24,
+            "SCARYFACE"
+        ],
+        [
+            30,
+            "AERIALACE"
+        ],
+        [
+            36,
+            "SLASH"
+        ],
+        [
+            42,
+            "WHIRLWIND"
+        ],
+        [
+            48,
+            "CRUSHCLAW"
+        ],
+        [
+            55,
+            "AIRSLASH"
+        ],
+        [
+            60,
+            "DEFOG"
+        ],
+        [
+            66,
+            "THRASH"
+        ],
+        [
+            72,
+            "BRAVEBIRD"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AIRSLASH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BRAVEBIRD",
+        "BULKUP",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CUT",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HURRICANE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TOXIC",
+        "UTURN",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.5,
+    "weight": 10.5,
+    "abilities": [
+        "KEENEYE",
+        "SHEERFORCE"
+    ],
+    "hiddenAbilitie": [
+        "HUSTLE"
+    ],
+    "baseTotal": 350,
+    "baseStats": [
+        70,
+        83,
+        50,
+        60,
+        37,
+        50
+    ],
+    "flags": [],
+    "name": "Rufflet",
+    "species": "RUFFLET",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 70,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 0,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "NORMAL",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    6,
+                    "HONECLAWS"
+                ],
+                [
+                    12,
+                    "WINGATTACK"
+                ],
+                [
+                    18,
+                    "TAILWIND"
+                ],
+                [
+                    24,
+                    "SCARYFACE"
+                ],
+                [
+                    30,
+                    "AERIALACE"
+                ],
+                [
+                    36,
+                    "SLASH"
+                ],
+                [
+                    42,
+                    "WHIRLWIND"
+                ],
+                [
+                    48,
+                    "CRUSHCLAW"
+                ],
+                [
+                    55,
+                    "AIRSLASH"
+                ],
+                [
+                    60,
+                    "DEFOG"
+                ],
+                [
+                    66,
+                    "THRASH"
+                ],
+                [
+                    72,
+                    "BRAVEBIRD"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "AIRSLASH",
+                "ASSURANCE",
+                "ATTRACT",
+                "BRAVEBIRD",
+                "BULKUP",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "CUT",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FRUSTRATION",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HURRICANE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PLUCK",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROOST",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SKYDROP",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "TOXIC",
+                "UTURN",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 10.5,
+            "abilities": [
+                "KEENEYE",
+                "SHEERFORCE"
+            ],
+            "hiddenAbilitie": [
+                "HUSTLE"
+            ],
+            "baseTotal": 350,
+            "baseStats": [
+                70,
+                83,
+                50,
+                60,
+                37,
+                50
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Rufflet"
+        },
+        {
+            "generation": 8,
+            "primaryType": "NORMAL",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    6,
+                    "HONECLAWS"
+                ],
+                [
+                    12,
+                    "WINGATTACK"
+                ],
+                [
+                    18,
+                    "TAILWIND"
+                ],
+                [
+                    24,
+                    "SCARYFACE"
+                ],
+                [
+                    30,
+                    "AERIALACE"
+                ],
+                [
+                    36,
+                    "SLASH"
+                ],
+                [
+                    42,
+                    "WHIRLWIND"
+                ],
+                [
+                    48,
+                    "CRUSHCLAW"
+                ],
+                [
+                    55,
+                    "AIRSLASH"
+                ],
+                [
+                    60,
+                    "DEFOG"
+                ],
+                [
+                    66,
+                    "THRASH"
+                ],
+                [
+                    72,
+                    "BRAVEBIRD"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "AIRSLASH",
+                "ASSURANCE",
+                "ATTRACT",
+                "BRAVEBIRD",
+                "BULKUP",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "CUT",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FRUSTRATION",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HURRICANE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PLUCK",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROOST",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SKYDROP",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "TOXIC",
+                "UTURN",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 10.5,
+            "abilities": [
+                "KEENEYE",
+                "SHEERFORCE"
+            ],
+            "hiddenAbilitie": [
+                "HUSTLE"
+            ],
+            "baseTotal": 350,
+            "baseStats": [
+                70,
+                83,
+                50,
+                60,
+                37,
+                50
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Rufflet"
+        }
+    ],
+    "internationalPokedex": 627
+}

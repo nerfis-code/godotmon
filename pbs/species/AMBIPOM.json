@@ -1,0 +1,184 @@
+{
+    "generation": 4,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "DUALCHOP"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            11,
+            "BATONPASS"
+        ],
+        [
+            15,
+            "TICKLE"
+        ],
+        [
+            18,
+            "FURYSWIPES"
+        ],
+        [
+            22,
+            "SWIFT"
+        ],
+        [
+            25,
+            "SCREECH"
+        ],
+        [
+            29,
+            "AGILITY"
+        ],
+        [
+            32,
+            "DOUBLEHIT"
+        ],
+        [
+            36,
+            "FLING"
+        ],
+        [
+            39,
+            "NASTYPLOT"
+        ],
+        [
+            43,
+            "LASTRESORT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "UPROAR",
+        "UTURN",
+        "WATERPULSE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 20.3,
+    "abilities": [
+        "TECHNICIAN",
+        "PICKUP"
+    ],
+    "hiddenAbilitie": [
+        "SKILLLINK"
+    ],
+    "baseTotal": 482,
+    "baseStats": [
+        75,
+        100,
+        66,
+        115,
+        60,
+        66
+    ],
+    "flags": [],
+    "name": "Ambipom",
+    "species": "AMBIPOM",
+    "catchRate": 45,
+    "happiness": 100,
+    "baseExp": 169,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 424
+}

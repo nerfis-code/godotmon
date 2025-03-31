@@ -1,0 +1,167 @@
+{
+    "generation": 9,
+    "primaryType": "FIRE",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            -1,
+            "DOUBLEKICK"
+        ],
+        [
+            -1,
+            "ANCIENTPOWER"
+        ],
+        [
+            -1,
+            "NOBLEROAR"
+        ],
+        [
+            1,
+            "STOMP"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "INCINERATE"
+        ],
+        [
+            1,
+            "SUNNYDAY"
+        ],
+        [
+            7,
+            "FIREFANG"
+        ],
+        [
+            14,
+            "HOWL"
+        ],
+        [
+            21,
+            "BITE"
+        ],
+        [
+            28,
+            "DRAGONCLAW"
+        ],
+        [
+            35,
+            "CRUSHCLAW"
+        ],
+        [
+            42,
+            "MORNINGSUN"
+        ],
+        [
+            49,
+            "BURNINGBULWARK"
+        ],
+        [
+            56,
+            "DRAGONRUSH"
+        ],
+        [
+            63,
+            "FIREBLAST"
+        ],
+        [
+            70,
+            "LAVAPLUME"
+        ],
+        [
+            77,
+            "OUTRAGE"
+        ],
+        [
+            84,
+            "FLAREBLITZ"
+        ],
+        [
+            91,
+            "RAGINGFURY"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BULLDOZE",
+        "CRUNCH",
+        "DOUBLEEDGE",
+        "DRACOMETEOR",
+        "DRAGONCHEER",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "GIGAIMPACT",
+        "HEATCRASH",
+        "HEATWAVE",
+        "HYPERBEAM",
+        "IRONHEAD",
+        "OUTRAGE",
+        "OVERHEAT",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "REST",
+        "REVERSAL",
+        "ROAR",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNARL",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "TEMPERFLARE",
+        "THUNDERFANG",
+        "WEATHERBALL"
+    ],
+    "eggMoves": [],
+    "height": 3.5,
+    "weight": 590.0,
+    "abilities": [
+        "PROTOSYNTHESIS"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 590,
+    "baseStats": [
+        105,
+        115,
+        121,
+        91,
+        65,
+        93
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Flamariete",
+    "species": "GOUGINGFIRE",
+    "catchRate": 10,
+    "happiness": 0,
+    "baseExp": 295,
+    "evs": [
+        "DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 1020
+}

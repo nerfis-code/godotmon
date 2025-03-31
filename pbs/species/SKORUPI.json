@@ -1,0 +1,186 @@
+{
+    "generation": 4,
+    "primaryType": "POISON",
+    "secondaryType": "BUG",
+    "moves": [
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            3,
+            "HONECLAWS"
+        ],
+        [
+            6,
+            "FELLSTINGER"
+        ],
+        [
+            9,
+            "POISONFANG"
+        ],
+        [
+            12,
+            "BITE"
+        ],
+        [
+            15,
+            "TOXICSPIKES"
+        ],
+        [
+            18,
+            "BUGBITE"
+        ],
+        [
+            21,
+            "VENOSHOCK"
+        ],
+        [
+            24,
+            "KNOCKOFF"
+        ],
+        [
+            27,
+            "SCARYFACE"
+        ],
+        [
+            30,
+            "PINMISSILE"
+        ],
+        [
+            33,
+            "TOXIC"
+        ],
+        [
+            36,
+            "NIGHTSLASH"
+        ],
+        [
+            39,
+            "CROSSPOISON"
+        ],
+        [
+            42,
+            "XSCISSOR"
+        ],
+        [
+            45,
+            "ACUPRESSURE"
+        ],
+        [
+            48,
+            "CRUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CROSSPOISON",
+        "CRUNCH",
+        "CUT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "INFESTATION",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PINMISSILE",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "STRENGTH",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "TOXICSPIKES",
+        "VENOSHOCK",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "AGILITY",
+        "CONFUSERAY",
+        "NIGHTSLASH",
+        "POISONTAIL",
+        "SANDATTACK",
+        "SCREECH",
+        "SLASH",
+        "WHIRLWIND"
+    ],
+    "height": 0.8,
+    "weight": 12.0,
+    "abilities": [
+        "BATTLEARMOR",
+        "SNIPER"
+    ],
+    "hiddenAbilitie": [
+        "KEENEYE"
+    ],
+    "baseTotal": 330,
+    "baseStats": [
+        40,
+        50,
+        90,
+        65,
+        30,
+        55
+    ],
+    "flags": [],
+    "name": "Skorupi",
+    "species": "SKORUPI",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 66,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 451
+}

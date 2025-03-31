@@ -1,0 +1,176 @@
+{
+    "generation": 8,
+    "primaryType": "DARK",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "BIND"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            6,
+            "LEER"
+        ],
+        [
+            12,
+            "VINEWHIP"
+        ],
+        [
+            18,
+            "GROWTH"
+        ],
+        [
+            24,
+            "FURYSWIPES"
+        ],
+        [
+            30,
+            "SCARYFACE"
+        ],
+        [
+            36,
+            "GRASSKNOT"
+        ],
+        [
+            42,
+            "BITE"
+        ],
+        [
+            48,
+            "UTURN"
+        ],
+        [
+            54,
+            "SWAGGER"
+        ],
+        [
+            60,
+            "ENERGYBALL"
+        ],
+        [
+            66,
+            "SYNTHESIS"
+        ],
+        [
+            72,
+            "HAMMERARM"
+        ],
+        [
+            78,
+            "THRASH"
+        ],
+        [
+            84,
+            "POWERWHIP"
+        ],
+        [
+            90,
+            "JUNGLEHEALING"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ASSURANCE",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "BULLETSEED",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKESTLARIAT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "LASHOUT",
+        "LOWKICK",
+        "MAGICALLEAF",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSHOT",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERWHIP",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TOXIC",
+        "UTURN"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 70.0,
+    "abilities": [
+        "LEAFGUARD"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        105,
+        120,
+        105,
+        105,
+        70,
+        95
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Zarude",
+    "species": "ZARUDE",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 300,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 893
+}

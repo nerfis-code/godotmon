@@ -1,0 +1,168 @@
+{
+    "generation": 1,
+    "primaryType": "ROCK",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            5,
+            "SCRATCH"
+        ],
+        [
+            10,
+            "SANDATTACK"
+        ],
+        [
+            15,
+            "AQUAJET"
+        ],
+        [
+            20,
+            "LEER"
+        ],
+        [
+            25,
+            "MUDSHOT"
+        ],
+        [
+            30,
+            "ANCIENTPOWER"
+        ],
+        [
+            35,
+            "BRINE"
+        ],
+        [
+            41,
+            "PROTECT"
+        ],
+        [
+            45,
+            "LEECHLIFE"
+        ],
+        [
+            50,
+            "LIQUIDATION"
+        ],
+        [
+            55,
+            "METALSOUND"
+        ],
+        [
+            60,
+            "STONEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "HAIL",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LEECHLIFE",
+        "LIQUIDATION",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "THIEF",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "AURORABEAM",
+        "BUBBLEBEAM",
+        "CONFUSERAY",
+        "FLAIL",
+        "ICYWIND",
+        "KNOCKOFF",
+        "MEGADRAIN",
+        "MUDSHOT",
+        "RAPIDSPIN",
+        "SCREECH",
+        "TAKEDOWN"
+    ],
+    "height": 0.5,
+    "weight": 11.5,
+    "abilities": [
+        "SWIFTSWIM",
+        "BATTLEARMOR"
+    ],
+    "hiddenAbilitie": [
+        "WEAKARMOR"
+    ],
+    "baseTotal": 355,
+    "baseStats": [
+        30,
+        80,
+        90,
+        55,
+        55,
+        45
+    ],
+    "flags": [],
+    "name": "Kabuto",
+    "species": "KABUTO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 71,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 140
+}

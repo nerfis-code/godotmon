@@ -1,0 +1,164 @@
+{
+    "generation": 5,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            4,
+            "LOWKICK"
+        ],
+        [
+            8,
+            "ROCKTHROW"
+        ],
+        [
+            12,
+            "FOCUSENERGY"
+        ],
+        [
+            16,
+            "BULKUP"
+        ],
+        [
+            20,
+            "ROCKSLIDE"
+        ],
+        [
+            24,
+            "SLAM"
+        ],
+        [
+            28,
+            "SCARYFACE"
+        ],
+        [
+            32,
+            "DYNAMICPUNCH"
+        ],
+        [
+            36,
+            "HAMMERARM"
+        ],
+        [
+            40,
+            "STONEEDGE"
+        ],
+        [
+            44,
+            "SUPERPOWER"
+        ],
+        [
+            48,
+            "FOCUSPUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLOCK",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "CAPTIVATE",
+        "COACHING",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "KNOCKOFF",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "COUNTER",
+        "DEFOG",
+        "DETECT",
+        "MACHPUNCH",
+        "POWERUPPUNCH",
+        "WIDEGUARD"
+    ],
+    "height": 0.6,
+    "weight": 12.5,
+    "abilities": [
+        "GUTS",
+        "SHEERFORCE"
+    ],
+    "hiddenAbilitie": [
+        "IRONFIST"
+    ],
+    "baseTotal": 305,
+    "baseStats": [
+        75,
+        80,
+        55,
+        35,
+        25,
+        35
+    ],
+    "flags": [],
+    "name": "Timburr",
+    "species": "TIMBURR",
+    "catchRate": 180,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 25,
+    "forms": [],
+    "internationalPokedex": 532
+}

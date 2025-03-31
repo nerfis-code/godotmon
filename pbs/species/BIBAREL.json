@@ -1,0 +1,174 @@
+{
+    "generation": 4,
+    "primaryType": "NORMAL",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "AQUAJET"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            5,
+            "DEFENSECURL"
+        ],
+        [
+            9,
+            "ROLLOUT"
+        ],
+        [
+            13,
+            "HEADBUTT"
+        ],
+        [
+            18,
+            "TAUNT"
+        ],
+        [
+            23,
+            "YAWN"
+        ],
+        [
+            28,
+            "CRUNCH"
+        ],
+        [
+            33,
+            "TAKEDOWN"
+        ],
+        [
+            38,
+            "SUPERFANG"
+        ],
+        [
+            43,
+            "SWORDSDANCE"
+        ],
+        [
+            48,
+            "AMNESIA"
+        ],
+        [
+            53,
+            "SUPERPOWER"
+        ],
+        [
+            58,
+            "CURSE"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "LASTRESORT",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 31.5,
+    "abilities": [
+        "SIMPLE",
+        "UNAWARE"
+    ],
+    "hiddenAbilitie": [
+        "MOODY"
+    ],
+    "baseTotal": 410,
+    "baseStats": [
+        79,
+        85,
+        60,
+        71,
+        55,
+        60
+    ],
+    "flags": [],
+    "name": "Bibarel",
+    "species": "BIBAREL",
+    "catchRate": 127,
+    "happiness": 50,
+    "baseExp": 144,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 400
+}

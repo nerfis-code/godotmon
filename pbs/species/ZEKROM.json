@@ -1,0 +1,179 @@
+{
+    "generation": 5,
+    "primaryType": "DRAGON",
+    "secondaryType": "ELECTRIC",
+    "moves": [
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            1,
+            "NOBLEROAR"
+        ],
+        [
+            1,
+            "ANCIENTPOWER"
+        ],
+        [
+            1,
+            "THUNDERFANG"
+        ],
+        [
+            8,
+            "SLASH"
+        ],
+        [
+            16,
+            "CRUNCH"
+        ],
+        [
+            24,
+            "ZENHEADBUTT"
+        ],
+        [
+            32,
+            "DRAGONCLAW"
+        ],
+        [
+            40,
+            "THUNDERBOLT"
+        ],
+        [
+            48,
+            "FUSIONBOLT"
+        ],
+        [
+            56,
+            "HYPERVOICE"
+        ],
+        [
+            64,
+            "THUNDER"
+        ],
+        [
+            72,
+            "IMPRISON"
+        ],
+        [
+            80,
+            "OUTRAGE"
+        ],
+        [
+            88,
+            "BOLTSTRIKE"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BREAKINGSWIPE",
+        "BRUTALSWING",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "ECHOEDVOICE",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FLING",
+        "FLY",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IMPRISON",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TOXIC",
+        "VOLTSWITCH",
+        "WEATHERBALL",
+        "WILDCHARGE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.9,
+    "weight": 345.0,
+    "abilities": [
+        "TERAVOLT"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 680,
+    "baseStats": [
+        100,
+        150,
+        120,
+        90,
+        120,
+        100
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Zekrom",
+    "species": "ZEKROM",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 340,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 644
+}

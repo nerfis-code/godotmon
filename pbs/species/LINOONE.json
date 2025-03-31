@@ -1,0 +1,530 @@
+{
+    "generation": 3,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SLASH"
+        ],
+        [
+            1,
+            "SWITCHEROO"
+        ],
+        [
+            1,
+            "PINMISSILE"
+        ],
+        [
+            1,
+            "BABYDOLLEYES"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            9,
+            "COVET"
+        ],
+        [
+            12,
+            "HEADBUTT"
+        ],
+        [
+            15,
+            "HONECLAWS"
+        ],
+        [
+            18,
+            "FURYSWIPES"
+        ],
+        [
+            23,
+            "REST"
+        ],
+        [
+            28,
+            "TAKEDOWN"
+        ],
+        [
+            33,
+            "FLING"
+        ],
+        [
+            38,
+            "FLAIL"
+        ],
+        [
+            43,
+            "BELLYDRUM"
+        ],
+        [
+            48,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "LASHOUT",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PINMISSILE",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TAILSLAP",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRICK",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.5,
+    "weight": 32.5,
+    "abilities": [
+        "PICKUP",
+        "GLUTTONY"
+    ],
+    "hiddenAbilitie": [
+        "QUICKFEET"
+    ],
+    "baseTotal": 420,
+    "baseStats": [
+        78,
+        70,
+        61,
+        100,
+        50,
+        61
+    ],
+    "flags": [],
+    "name": "Linoone",
+    "species": "LINOONE",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 147,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 3,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "SLASH"
+                ],
+                [
+                    1,
+                    "SWITCHEROO"
+                ],
+                [
+                    1,
+                    "PINMISSILE"
+                ],
+                [
+                    1,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "SANDATTACK"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    9,
+                    "COVET"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "HONECLAWS"
+                ],
+                [
+                    18,
+                    "FURYSWIPES"
+                ],
+                [
+                    23,
+                    "REST"
+                ],
+                [
+                    28,
+                    "TAKEDOWN"
+                ],
+                [
+                    33,
+                    "FLING"
+                ],
+                [
+                    38,
+                    "FLAIL"
+                ],
+                [
+                    43,
+                    "BELLYDRUM"
+                ],
+                [
+                    48,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CHARM",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FLING",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GUNKSHOT",
+                "HEADBUTT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONTAIL",
+                "LASHOUT",
+                "LASTRESORT",
+                "MIMIC",
+                "MUDSHOT",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PINMISSILE",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROLLOUT",
+                "ROUND",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERFANG",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "TAILSLAP",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRICK",
+                "WATERPULSE",
+                "WHIRLPOOL",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 32.5,
+            "abilities": [
+                "PICKUP",
+                "GLUTTONY"
+            ],
+            "hiddenAbilitie": [
+                "QUICKFEET"
+            ],
+            "baseTotal": 420,
+            "baseStats": [
+                78,
+                70,
+                61,
+                100,
+                50,
+                61
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Linoone"
+        },
+        {
+            "generation": 8,
+            "primaryType": "DARK",
+            "secondaryType": "NORMAL",
+            "moves": [
+                [
+                    0,
+                    "NIGHTSLASH"
+                ],
+                [
+                    1,
+                    "SWITCHEROO"
+                ],
+                [
+                    1,
+                    "PINMISSILE"
+                ],
+                [
+                    1,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "SANDATTACK"
+                ],
+                [
+                    1,
+                    "LICK"
+                ],
+                [
+                    9,
+                    "SNARL"
+                ],
+                [
+                    12,
+                    "HEADBUTT"
+                ],
+                [
+                    15,
+                    "HONECLAWS"
+                ],
+                [
+                    18,
+                    "FURYSWIPES"
+                ],
+                [
+                    23,
+                    "REST"
+                ],
+                [
+                    28,
+                    "TAKEDOWN"
+                ],
+                [
+                    33,
+                    "SCARYFACE"
+                ],
+                [
+                    38,
+                    "COUNTER"
+                ],
+                [
+                    43,
+                    "TAUNT"
+                ],
+                [
+                    48,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ASSURANCE",
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYPRESS",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FLING",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GUNKSHOT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONTAIL",
+                "LASHOUT",
+                "MIMIC",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PINMISSILE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROUND",
+                "SCARYFACE",
+                "SCREECH",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRICK",
+                "WHIRLPOOL",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 32.5,
+            "abilities": [
+                "PICKUP",
+                "GLUTTONY"
+            ],
+            "hiddenAbilitie": [
+                "QUICKFEET"
+            ],
+            "baseTotal": 420,
+            "baseStats": [
+                78,
+                70,
+                61,
+                100,
+                50,
+                61
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Galar"
+        }
+    ],
+    "internationalPokedex": 264
+}

@@ -1,0 +1,162 @@
+{
+    "generation": 4,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "FAKEOUT"
+        ],
+        [
+            5,
+            "SCRATCH"
+        ],
+        [
+            8,
+            "GROWL"
+        ],
+        [
+            13,
+            "HYPNOSIS"
+        ],
+        [
+            17,
+            "AERIALACE"
+        ],
+        [
+            20,
+            "FURYSWIPES"
+        ],
+        [
+            25,
+            "CHARM"
+        ],
+        [
+            29,
+            "TAUNT"
+        ],
+        [
+            32,
+            "RETALIATE"
+        ],
+        [
+            37,
+            "SLASH"
+        ],
+        [
+            41,
+            "SUCKERPUNCH"
+        ],
+        [
+            44,
+            "ATTRACT"
+        ],
+        [
+            48,
+            "HONECLAWS"
+        ],
+        [
+            50,
+            "PLAYROUGH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "TORMENT",
+        "UTURN",
+        "WATERPULSE",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "ASSURANCE",
+        "BITE",
+        "FAKETEARS",
+        "FLAIL",
+        "LASTRESORT",
+        "QUICKATTACK",
+        "SANDATTACK",
+        "TAILWHIP"
+    ],
+    "height": 0.5,
+    "weight": 3.9,
+    "abilities": [
+        "LIMBER",
+        "OWNTEMPO"
+    ],
+    "hiddenAbilitie": [
+        "KEENEYE"
+    ],
+    "baseTotal": 310,
+    "baseStats": [
+        49,
+        55,
+        42,
+        85,
+        42,
+        37
+    ],
+    "flags": [],
+    "name": "Glameow",
+    "species": "GLAMEOW",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 431
+}

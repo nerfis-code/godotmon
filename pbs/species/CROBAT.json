@@ -1,0 +1,176 @@
+{
+    "generation": 2,
+    "primaryType": "POISON",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "CROSSPOISON"
+        ],
+        [
+            1,
+            "TAILWIND"
+        ],
+        [
+            1,
+            "TOXIC"
+        ],
+        [
+            1,
+            "SCREECH"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "MEANLOOK"
+        ],
+        [
+            15,
+            "POISONFANG"
+        ],
+        [
+            20,
+            "QUICKGUARD"
+        ],
+        [
+            27,
+            "AIRCUTTER"
+        ],
+        [
+            34,
+            "BITE"
+        ],
+        [
+            41,
+            "HAZE"
+        ],
+        [
+            48,
+            "VENOSHOCK"
+        ],
+        [
+            55,
+            "CONFUSERAY"
+        ],
+        [
+            62,
+            "AIRSLASH"
+        ],
+        [
+            69,
+            "LEECHLIFE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BRAVEBIRD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CROSSPOISON",
+        "CRUNCH",
+        "DARKPULSE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HEX",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYPERBEAM",
+        "LEECHLIFE",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAYBACK",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNATCH",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "TWISTER",
+        "UPROAR",
+        "UTURN",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "XSCISSOR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 75.0,
+    "abilities": [
+        "INNERFOCUS"
+    ],
+    "hiddenAbilitie": [
+        "INFILTRATOR"
+    ],
+    "baseTotal": 535,
+    "baseStats": [
+        85,
+        90,
+        80,
+        130,
+        70,
+        80
+    ],
+    "flags": [],
+    "name": "Crobat",
+    "species": "CROBAT",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 268,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 169
+}

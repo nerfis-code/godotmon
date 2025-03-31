@@ -1,0 +1,165 @@
+{
+    "generation": 5,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "LOWKICK"
+        ],
+        [
+            1,
+            "ROCKTHROW"
+        ],
+        [
+            12,
+            "FOCUSENERGY"
+        ],
+        [
+            16,
+            "BULKUP"
+        ],
+        [
+            20,
+            "ROCKSLIDE"
+        ],
+        [
+            24,
+            "SLAM"
+        ],
+        [
+            30,
+            "SCARYFACE"
+        ],
+        [
+            36,
+            "DYNAMICPUNCH"
+        ],
+        [
+            42,
+            "HAMMERARM"
+        ],
+        [
+            48,
+            "STONEEDGE"
+        ],
+        [
+            54,
+            "SUPERPOWER"
+        ],
+        [
+            60,
+            "FOCUSPUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLOCK",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "KNOCKOFF",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 87.0,
+    "abilities": [
+        "GUTS",
+        "SHEERFORCE"
+    ],
+    "hiddenAbilitie": [
+        "IRONFIST"
+    ],
+    "baseTotal": 505,
+    "baseStats": [
+        105,
+        140,
+        95,
+        45,
+        55,
+        65
+    ],
+    "flags": [],
+    "name": "Conkeldurr",
+    "species": "CONKELDURR",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 253,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 25,
+    "forms": [],
+    "internationalPokedex": 534
+}

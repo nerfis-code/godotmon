@@ -1,0 +1,143 @@
+{
+    "generation": 5,
+    "primaryType": "WATER",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "DEFOG"
+        ],
+        [
+            1,
+            "WINGATTACK"
+        ],
+        [
+            3,
+            "WATERSPORT"
+        ],
+        [
+            13,
+            "WATERPULSE"
+        ],
+        [
+            15,
+            "AERIALACE"
+        ],
+        [
+            19,
+            "BUBBLEBEAM"
+        ],
+        [
+            21,
+            "FEATHERDANCE"
+        ],
+        [
+            24,
+            "AQUARING"
+        ],
+        [
+            27,
+            "AIRSLASH"
+        ],
+        [
+            30,
+            "ROOST"
+        ],
+        [
+            34,
+            "RAINDANCE"
+        ],
+        [
+            40,
+            "TAILWIND"
+        ],
+        [
+            47,
+            "BRAVEBIRD"
+        ],
+        [
+            55,
+            "HURRICANE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "LIQUIDATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TAILWIND",
+        "TOXIC",
+        "UPROAR",
+        "WATERPULSE"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 24.2,
+    "abilities": [
+        "KEENEYE",
+        "BIGPECKS"
+    ],
+    "hiddenAbilitie": [
+        "HYDRATION"
+    ],
+    "baseTotal": 473,
+    "baseStats": [
+        75,
+        87,
+        63,
+        98,
+        87,
+        63
+    ],
+    "flags": [],
+    "name": "Swanna",
+    "species": "SWANNA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 166,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 581
+}

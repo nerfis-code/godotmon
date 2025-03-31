@@ -1,0 +1,188 @@
+{
+    "generation": 1,
+    "primaryType": "ROCK",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "SLASH"
+        ],
+        [
+            1,
+            "NIGHTSLASH"
+        ],
+        [
+            1,
+            "FEINT"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            15,
+            "AQUAJET"
+        ],
+        [
+            20,
+            "LEER"
+        ],
+        [
+            25,
+            "MUDSHOT"
+        ],
+        [
+            30,
+            "ANCIENTPOWER"
+        ],
+        [
+            35,
+            "BRINE"
+        ],
+        [
+            43,
+            "PROTECT"
+        ],
+        [
+            49,
+            "LEECHLIFE"
+        ],
+        [
+            56,
+            "LIQUIDATION"
+        ],
+        [
+            63,
+            "METALSOUND"
+        ],
+        [
+            70,
+            "STONEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CROSSPOISON",
+        "CUT",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENDURE",
+        "FACADE",
+        "FLIPTURN",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LEECHLIFE",
+        "LIQUIDATION",
+        "LOWKICK",
+        "MEGAKICK",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "PSYCHOCUT",
+        "RAINDANCE",
+        "RAZORSHELL",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKCLIMB",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THIEF",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 40.5,
+    "abilities": [
+        "SWIFTSWIM",
+        "BATTLEARMOR"
+    ],
+    "hiddenAbilitie": [
+        "WEAKARMOR"
+    ],
+    "baseTotal": 495,
+    "baseStats": [
+        60,
+        115,
+        105,
+        80,
+        65,
+        70
+    ],
+    "flags": [],
+    "name": "Kabutops",
+    "species": "KABUTOPS",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 173,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 141
+}

@@ -1,0 +1,67 @@
+{
+    "generation": 4,
+    "primaryType": "BUG",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "STRUGGLEBUG"
+        ],
+        [
+            1,
+            "BUGBITE"
+        ]
+    ],
+    "tutorMoves": [
+        "AIRCUTTER",
+        "BUGBITE",
+        "BUGBUZZ",
+        "DUALWINGBEAT",
+        "ENDEAVOR",
+        "MUDSLAP",
+        "OMINOUSWIND",
+        "SNORE",
+        "STRINGSHOT",
+        "TAILWIND"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 5.5,
+    "abilities": [
+        "HONEYGATHER"
+    ],
+    "hiddenAbilitie": [
+        "HUSTLE"
+    ],
+    "baseTotal": 244,
+    "baseStats": [
+        30,
+        30,
+        42,
+        70,
+        30,
+        42
+    ],
+    "flags": [],
+    "name": "Combee",
+    "species": "COMBEE",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 49,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 415
+}

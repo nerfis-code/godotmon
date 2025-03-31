@@ -1,0 +1,533 @@
+{
+    "generation": 2,
+    "primaryType": "BUG",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            -1,
+            "BULLETPUNCH"
+        ],
+        [
+            1,
+            "WINGATTACK"
+        ],
+        [
+            1,
+            "AGILITY"
+        ],
+        [
+            1,
+            "AIRSLASH"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "FALSESWIPE"
+        ],
+        [
+            12,
+            "METALCLAW"
+        ],
+        [
+            16,
+            "DOUBLETEAM"
+        ],
+        [
+            20,
+            "DOUBLEHIT"
+        ],
+        [
+            24,
+            "SLASH"
+        ],
+        [
+            28,
+            "FOCUSENERGY"
+        ],
+        [
+            32,
+            "IRONDEFENSE"
+        ],
+        [
+            36,
+            "IRONHEAD"
+        ],
+        [
+            40,
+            "XSCISSOR"
+        ],
+        [
+            44,
+            "LASERFOCUS"
+        ],
+        [
+            44,
+            "SWORDSDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRSLASH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CROSSPOISON",
+        "CUT",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASHCANNON",
+        "FLING",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PROTECT",
+        "PSYCHOCUT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROCKSMASH",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SECRETPOWER",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELBEAM",
+        "STEELWING",
+        "STRENGTH",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAILWIND",
+        "THIEF",
+        "UTURN",
+        "VENOSHOCK",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 118.0,
+    "abilities": [
+        "SWARM",
+        "TECHNICIAN"
+    ],
+    "hiddenAbilitie": [
+        "LIGHTMETAL"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        70,
+        130,
+        100,
+        65,
+        55,
+        80
+    ],
+    "flags": [],
+    "name": "Scizor",
+    "species": "SCIZOR",
+    "catchRate": 25,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 2,
+            "primaryType": "BUG",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    -1,
+                    "BULLETPUNCH"
+                ],
+                [
+                    1,
+                    "WINGATTACK"
+                ],
+                [
+                    1,
+                    "AGILITY"
+                ],
+                [
+                    1,
+                    "AIRSLASH"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "FURYCUTTER"
+                ],
+                [
+                    1,
+                    "FALSESWIPE"
+                ],
+                [
+                    12,
+                    "METALCLAW"
+                ],
+                [
+                    16,
+                    "DOUBLETEAM"
+                ],
+                [
+                    20,
+                    "DOUBLEHIT"
+                ],
+                [
+                    24,
+                    "SLASH"
+                ],
+                [
+                    28,
+                    "FOCUSENERGY"
+                ],
+                [
+                    32,
+                    "IRONDEFENSE"
+                ],
+                [
+                    36,
+                    "IRONHEAD"
+                ],
+                [
+                    40,
+                    "XSCISSOR"
+                ],
+                [
+                    44,
+                    "LASERFOCUS"
+                ],
+                [
+                    44,
+                    "SWORDSDANCE"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "AGILITY",
+                "AIRSLASH",
+                "ASSURANCE",
+                "ATTRACT",
+                "BATONPASS",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BUGBITE",
+                "BUGBUZZ",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COUNTER",
+                "CROSSPOISON",
+                "CUT",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLASHCANNON",
+                "FLING",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "KNOCKOFF",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PROTECT",
+                "PSYCHOCUT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROCKSMASH",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SANDTOMB",
+                "SECRETPOWER",
+                "SILVERWIND",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELBEAM",
+                "STEELWING",
+                "STRENGTH",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAILWIND",
+                "THIEF",
+                "UTURN",
+                "VENOSHOCK",
+                "XSCISSOR"
+            ],
+            "eggMoves": [],
+            "height": 1.8,
+            "weight": 118.0,
+            "abilities": [
+                "SWARM",
+                "TECHNICIAN"
+            ],
+            "hiddenAbilitie": [
+                "LIGHTMETAL"
+            ],
+            "baseTotal": 500,
+            "baseStats": [
+                70,
+                130,
+                100,
+                65,
+                55,
+                80
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Scizor"
+        },
+        {
+            "generation": 6,
+            "primaryType": "BUG",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    -1,
+                    "BULLETPUNCH"
+                ],
+                [
+                    1,
+                    "WINGATTACK"
+                ],
+                [
+                    1,
+                    "AGILITY"
+                ],
+                [
+                    1,
+                    "AIRSLASH"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "FURYCUTTER"
+                ],
+                [
+                    1,
+                    "FALSESWIPE"
+                ],
+                [
+                    12,
+                    "METALCLAW"
+                ],
+                [
+                    16,
+                    "DOUBLETEAM"
+                ],
+                [
+                    20,
+                    "DOUBLEHIT"
+                ],
+                [
+                    24,
+                    "SLASH"
+                ],
+                [
+                    28,
+                    "FOCUSENERGY"
+                ],
+                [
+                    32,
+                    "IRONDEFENSE"
+                ],
+                [
+                    36,
+                    "IRONHEAD"
+                ],
+                [
+                    40,
+                    "XSCISSOR"
+                ],
+                [
+                    44,
+                    "LASERFOCUS"
+                ],
+                [
+                    44,
+                    "SWORDSDANCE"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "AGILITY",
+                "AIRSLASH",
+                "ASSURANCE",
+                "ATTRACT",
+                "BATONPASS",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BUGBITE",
+                "BUGBUZZ",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COUNTER",
+                "CROSSPOISON",
+                "CUT",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLASHCANNON",
+                "FLING",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "KNOCKOFF",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PROTECT",
+                "PSYCHOCUT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROCKSMASH",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SANDTOMB",
+                "SECRETPOWER",
+                "SILVERWIND",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELBEAM",
+                "STEELWING",
+                "STRENGTH",
+                "STRUGGLEBUG",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAILWIND",
+                "THIEF",
+                "UTURN",
+                "VENOSHOCK",
+                "XSCISSOR"
+            ],
+            "eggMoves": [],
+            "height": 2.0,
+            "weight": 125.0,
+            "abilities": [
+                "TECHNICIAN"
+            ],
+            "hiddenAbilitie": [
+                "TECHNICIAN"
+            ],
+            "baseTotal": 600,
+            "baseStats": [
+                70,
+                150,
+                140,
+                65,
+                100,
+                75
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Scizor"
+        }
+    ],
+    "internationalPokedex": 212
+}

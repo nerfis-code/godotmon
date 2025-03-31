@@ -1,0 +1,197 @@
+{
+    "generation": 5,
+    "primaryType": "DRAGON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "FALSESWIPE"
+        ],
+        [
+            9,
+            "ASSURANCE"
+        ],
+        [
+            12,
+            "TAUNT"
+        ],
+        [
+            15,
+            "SLASH"
+        ],
+        [
+            18,
+            "DRAGONCLAW"
+        ],
+        [
+            21,
+            "SCARYFACE"
+        ],
+        [
+            24,
+            "CRUNCH"
+        ],
+        [
+            27,
+            "DRAGONDANCE"
+        ],
+        [
+            30,
+            "DUALCHOP"
+        ],
+        [
+            30,
+            "BREAKINGSWIPE"
+        ],
+        [
+            33,
+            "LASERFOCUS"
+        ],
+        [
+            33,
+            "FOCUSENERGY"
+        ],
+        [
+            36,
+            "DRAGONPULSE"
+        ],
+        [
+            41,
+            "SWORDSDANCE"
+        ],
+        [
+            46,
+            "OUTRAGE"
+        ],
+        [
+            53,
+            "GUILLOTINE"
+        ],
+        [
+            60,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LOWKICK",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "PSYCHOCUT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TOXIC",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 105.5,
+    "abilities": [
+        "RIVALRY",
+        "MOLDBREAKER"
+    ],
+    "hiddenAbilitie": [
+        "UNNERVE"
+    ],
+    "baseTotal": 540,
+    "baseStats": [
+        76,
+        147,
+        90,
+        97,
+        60,
+        70
+    ],
+    "flags": [],
+    "name": "Haxorus",
+    "species": "HAXORUS",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 270,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 612
+}

@@ -1,0 +1,161 @@
+{
+    "generation": 1,
+    "primaryType": "POISON",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            5,
+            "ASTONISH"
+        ],
+        [
+            10,
+            "MEANLOOK"
+        ],
+        [
+            15,
+            "POISONFANG"
+        ],
+        [
+            20,
+            "QUICKGUARD"
+        ],
+        [
+            25,
+            "AIRCUTTER"
+        ],
+        [
+            30,
+            "BITE"
+        ],
+        [
+            35,
+            "HAZE"
+        ],
+        [
+            40,
+            "VENOSHOCK"
+        ],
+        [
+            45,
+            "CONFUSERAY"
+        ],
+        [
+            50,
+            "AIRSLASH"
+        ],
+        [
+            55,
+            "LEECHLIFE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BRAVEBIRD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "LEECHLIFE",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAYBACK",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNATCH",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TWISTER",
+        "UPROAR",
+        "UTURN",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "BRAVEBIRD",
+        "CURSE",
+        "DEFOG",
+        "GUST",
+        "HYPNOSIS",
+        "QUICKATTACK",
+        "VENOMDRENCH",
+        "WHIRLWIND",
+        "WINGATTACK",
+        "ZENHEADBUTT"
+    ],
+    "height": 0.8,
+    "weight": 7.5,
+    "abilities": [
+        "INNERFOCUS"
+    ],
+    "hiddenAbilitie": [
+        "INFILTRATOR"
+    ],
+    "baseTotal": 245,
+    "baseStats": [
+        40,
+        45,
+        35,
+        55,
+        30,
+        40
+    ],
+    "flags": [],
+    "name": "Zubat",
+    "species": "ZUBAT",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 49,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 41
+}

@@ -1,0 +1,133 @@
+{
+    "generation": 9,
+    "primaryType": "ROCK",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "ROCKTHROW"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "SMACKDOWN"
+        ],
+        [
+            7,
+            "ACIDSPRAY"
+        ],
+        [
+            11,
+            "ANCIENTPOWER"
+        ],
+        [
+            15,
+            "ROCKPOLISH"
+        ],
+        [
+            18,
+            "STEALTHROCK"
+        ],
+        [
+            22,
+            "VENOSHOCK"
+        ],
+        [
+            26,
+            "SANDSTORM"
+        ],
+        [
+            29,
+            "SELFDESTRUCT"
+        ],
+        [
+            33,
+            "ROCKSLIDE"
+        ],
+        [
+            37,
+            "POWERGEM"
+        ],
+        [
+            41,
+            "ACIDARMOR"
+        ],
+        [
+            46,
+            "SLUDGEWAVE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "CONFUSERAY",
+        "DAZZLINGGLEAM",
+        "ENDURE",
+        "FACADE",
+        "GUNKSHOT",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "METEORBEAM",
+        "MUDSHOT",
+        "POWERGEM",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SPIKES",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TOXIC",
+        "TOXICSPIKES",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [
+        "EXPLOSION",
+        "MEMENTO",
+        "TOXIC"
+    ],
+    "height": 0.7,
+    "weight": 8.0,
+    "abilities": [
+        "TOXICDEBRIS"
+    ],
+    "hiddenAbilitie": [
+        "CORROSION"
+    ],
+    "baseTotal": 350,
+    "baseStats": [
+        48,
+        35,
+        42,
+        60,
+        105,
+        60
+    ],
+    "flags": [],
+    "name": "Glimmet",
+    "species": "GLIMMET",
+    "catchRate": 70,
+    "happiness": 50,
+    "baseExp": 70,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 969
+}

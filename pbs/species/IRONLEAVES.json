@@ -1,0 +1,161 @@
+{
+    "generation": 9,
+    "primaryType": "GRASS",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            -1,
+            "QUASH"
+        ],
+        [
+            -1,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            1,
+            "WORKUP"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            7,
+            "MAGICALLEAF"
+        ],
+        [
+            14,
+            "RETALIATE"
+        ],
+        [
+            21,
+            "QUICKGUARD"
+        ],
+        [
+            28,
+            "NIGHTSLASH"
+        ],
+        [
+            35,
+            "SWORDSDANCE"
+        ],
+        [
+            42,
+            "SACREDSWORD"
+        ],
+        [
+            49,
+            "LEAFBLADE"
+        ],
+        [
+            56,
+            "PSYBLADE"
+        ],
+        [
+            63,
+            "CLOSECOMBAT"
+        ],
+        [
+            70,
+            "IMPRISON"
+        ],
+        [
+            77,
+            "MEGAHORN"
+        ],
+        [
+            84,
+            "ALLYSWITCH"
+        ],
+        [
+            91,
+            "SOLARBLADE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AIRSLASH",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CLOSECOMBAT",
+        "COACHING",
+        "DOUBLEEDGE",
+        "ELECTRICTERRAIN",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FOCUSBLAST",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYTERRAIN",
+        "GRAVITY",
+        "HELPINGHAND",
+        "HYPERBEAM",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "LEAFSTORM",
+        "MAGICALLEAF",
+        "METALSOUND",
+        "PROTECT",
+        "PSYCHICTERRAIN",
+        "REST",
+        "REVERSAL",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "SUBSTITUTE",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "TAUNT",
+        "THROATCHOP",
+        "TRAILBLAZE",
+        "WILDCHARGE",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 125.0,
+    "abilities": [
+        "QUARKDRIVE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 590,
+    "baseStats": [
+        90,
+        130,
+        88,
+        104,
+        70,
+        108
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Ferroverdor",
+    "species": "IRONLEAVES",
+    "catchRate": 5,
+    "happiness": 0,
+    "baseExp": 295,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 1010
+}

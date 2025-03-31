@@ -1,0 +1,157 @@
+{
+    "generation": 2,
+    "primaryType": "NORMAL",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "SING"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "COPYCAT"
+        ],
+        [
+            4,
+            "DEFENSECURL"
+        ],
+        [
+            8,
+            "SWEETKISS"
+        ],
+        [
+            12,
+            "DISARMINGVOICE"
+        ],
+        [
+            16,
+            "DISABLE"
+        ],
+        [
+            20,
+            "CHARM"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GRAVITY",
+        "HEADBUTT",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICYWIND",
+        "INCINERATE",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MISTYTERRAIN",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THUNDERWAVE",
+        "UPROAR",
+        "WATERPULSE",
+        "WILDCHARGE",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "COVET",
+        "FAKETEARS",
+        "GRAVITY",
+        "HEALPULSE",
+        "LASTRESORT",
+        "MISTYTERRAIN",
+        "PERISHSONG",
+        "PRESENT",
+        "ROLLOUT",
+        "WISH"
+    ],
+    "height": 0.3,
+    "weight": 1.0,
+    "abilities": [
+        "CUTECHARM",
+        "COMPETITIVE"
+    ],
+    "hiddenAbilitie": [
+        "FRIENDGUARD"
+    ],
+    "baseTotal": 210,
+    "baseStats": [
+        90,
+        30,
+        15,
+        15,
+        40,
+        20
+    ],
+    "flags": [],
+    "name": "Igglybuff",
+    "species": "IGGLYBUFF",
+    "catchRate": 170,
+    "happiness": 50,
+    "baseExp": 42,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 174
+}

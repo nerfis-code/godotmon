@@ -1,0 +1,563 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "CURSE"
+        ],
+        [
+            3,
+            "GROWL"
+        ],
+        [
+            6,
+            "WATERGUN"
+        ],
+        [
+            9,
+            "YAWN"
+        ],
+        [
+            12,
+            "CONFUSION"
+        ],
+        [
+            15,
+            "DISABLE"
+        ],
+        [
+            18,
+            "WATERPULSE"
+        ],
+        [
+            21,
+            "HEADBUTT"
+        ],
+        [
+            24,
+            "ZENHEADBUTT"
+        ],
+        [
+            27,
+            "AMNESIA"
+        ],
+        [
+            30,
+            "SURF"
+        ],
+        [
+            33,
+            "SLACKOFF"
+        ],
+        [
+            36,
+            "PSYCHIC"
+        ],
+        [
+            39,
+            "PSYCHUP"
+        ],
+        [
+            42,
+            "RAINDANCE"
+        ],
+        [
+            45,
+            "HEALPULSE"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AMNESIA",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYSLAM",
+        "BRINE",
+        "BULLDOZE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLASH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GRASSKNOT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "IMPRISON",
+        "INCINERATE",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "MAGICCOAT",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYDAY",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "STOREDPOWER",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TELEKINESIS",
+        "THUNDERWAVE",
+        "TRIATTACK",
+        "TRICK",
+        "TRICKROOM",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WHIRLPOOL",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "BELCH",
+        "BELLYDRUM",
+        "BLOCK",
+        "FUTURESIGHT",
+        "SNORE",
+        "STOMP",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "height": 1.2,
+    "weight": 36.0,
+    "abilities": [
+        "OBLIVIOUS",
+        "OWNTEMPO"
+    ],
+    "hiddenAbilitie": [
+        "REGENERATOR"
+    ],
+    "baseTotal": 315,
+    "baseStats": [
+        90,
+        65,
+        65,
+        15,
+        40,
+        40
+    ],
+    "flags": [],
+    "name": "Slowpoke",
+    "species": "SLOWPOKE",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 63,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "WATER",
+            "secondaryType": "PSYCHIC",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "CURSE"
+                ],
+                [
+                    3,
+                    "GROWL"
+                ],
+                [
+                    6,
+                    "WATERGUN"
+                ],
+                [
+                    9,
+                    "YAWN"
+                ],
+                [
+                    12,
+                    "CONFUSION"
+                ],
+                [
+                    15,
+                    "DISABLE"
+                ],
+                [
+                    18,
+                    "WATERPULSE"
+                ],
+                [
+                    21,
+                    "HEADBUTT"
+                ],
+                [
+                    24,
+                    "ZENHEADBUTT"
+                ],
+                [
+                    27,
+                    "AMNESIA"
+                ],
+                [
+                    30,
+                    "SURF"
+                ],
+                [
+                    33,
+                    "SLACKOFF"
+                ],
+                [
+                    36,
+                    "PSYCHIC"
+                ],
+                [
+                    39,
+                    "PSYCHUP"
+                ],
+                [
+                    42,
+                    "RAINDANCE"
+                ],
+                [
+                    45,
+                    "HEALPULSE"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "AMNESIA",
+                "AQUATAIL",
+                "ATTRACT",
+                "BLIZZARD",
+                "BLOCK",
+                "BODYSLAM",
+                "BRINE",
+                "BULLDOZE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DIVE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMETHROWER",
+                "FLASH",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GRASSKNOT",
+                "HAIL",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "ICYWIND",
+                "IMPRISON",
+                "INCINERATE",
+                "IRONTAIL",
+                "LIGHTSCREEN",
+                "LIQUIDATION",
+                "MAGICCOAT",
+                "MIMIC",
+                "MUDSHOT",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PAYDAY",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHICTERRAIN",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "RAINDANCE",
+                "RECYCLE",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SCALD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SIGNALBEAM",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNORE",
+                "STOREDPOWER",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "TELEKINESIS",
+                "THUNDERWAVE",
+                "TRIATTACK",
+                "TRICK",
+                "TRICKROOM",
+                "WATERPULSE",
+                "WEATHERBALL",
+                "WHIRLPOOL",
+                "WONDERROOM",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "BELCH",
+                "BELLYDRUM",
+                "BLOCK",
+                "FUTURESIGHT",
+                "SNORE",
+                "STOMP",
+                "WONDERROOM",
+                "ZENHEADBUTT"
+            ],
+            "height": 1.2,
+            "weight": 36.0,
+            "abilities": [
+                "OBLIVIOUS",
+                "OWNTEMPO"
+            ],
+            "hiddenAbilitie": [
+                "REGENERATOR"
+            ],
+            "baseTotal": 315,
+            "baseStats": [
+                90,
+                65,
+                65,
+                15,
+                40,
+                40
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Slowpoke"
+        },
+        {
+            "generation": 8,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "CURSE"
+                ],
+                [
+                    3,
+                    "GROWL"
+                ],
+                [
+                    6,
+                    "ACID"
+                ],
+                [
+                    9,
+                    "YAWN"
+                ],
+                [
+                    12,
+                    "CONFUSION"
+                ],
+                [
+                    15,
+                    "DISABLE"
+                ],
+                [
+                    18,
+                    "WATERPULSE"
+                ],
+                [
+                    21,
+                    "HEADBUTT"
+                ],
+                [
+                    24,
+                    "ZENHEADBUTT"
+                ],
+                [
+                    27,
+                    "AMNESIA"
+                ],
+                [
+                    30,
+                    "SURF"
+                ],
+                [
+                    33,
+                    "SLACKOFF"
+                ],
+                [
+                    36,
+                    "PSYCHIC"
+                ],
+                [
+                    39,
+                    "PSYCHUP"
+                ],
+                [
+                    42,
+                    "RAINDANCE"
+                ],
+                [
+                    45,
+                    "HEALPULSE"
+                ]
+            ],
+            "tutorMoves": [
+                "AMNESIA",
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BRINE",
+                "BULLDOZE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DIVE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDURE",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMETHROWER",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "GRASSKNOT",
+                "HAIL",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "ICYWIND",
+                "IMPRISON",
+                "IRONTAIL",
+                "LIGHTSCREEN",
+                "LIQUIDATION",
+                "MIMIC",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "PAYDAY",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHICTERRAIN",
+                "PSYSHOCK",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SCALD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNORE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "THUNDERWAVE",
+                "TRIATTACK",
+                "TRICK",
+                "TRICKROOM",
+                "WEATHERBALL",
+                "WHIRLPOOL",
+                "WONDERROOM",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "BELCH",
+                "BELLYDRUM",
+                "BLOCK",
+                "FUTURESIGHT",
+                "SNORE",
+                "STOMP",
+                "WONDERROOM",
+                "ZENHEADBUTT"
+            ],
+            "height": 1.2,
+            "weight": 36.0,
+            "abilities": [
+                "GLUTTONY",
+                "OWNTEMPO"
+            ],
+            "hiddenAbilitie": [
+                "REGENERATOR"
+            ],
+            "baseTotal": 315,
+            "baseStats": [
+                90,
+                65,
+                65,
+                15,
+                40,
+                40
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Galar"
+        }
+    ],
+    "internationalPokedex": 79
+}

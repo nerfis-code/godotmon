@@ -1,0 +1,156 @@
+{
+    "generation": 1,
+    "primaryType": "DRAGON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "TWISTER"
+        ],
+        [
+            1,
+            "THUNDERWAVE"
+        ],
+        [
+            15,
+            "DRAGONTAIL"
+        ],
+        [
+            20,
+            "AGILITY"
+        ],
+        [
+            25,
+            "SLAM"
+        ],
+        [
+            33,
+            "AQUATAIL"
+        ],
+        [
+            39,
+            "DRAGONRUSH"
+        ],
+        [
+            46,
+            "SAFEGUARD"
+        ],
+        [
+            53,
+            "RAINDANCE"
+        ],
+        [
+            60,
+            "DRAGONDANCE"
+        ],
+        [
+            67,
+            "OUTRAGE"
+        ],
+        [
+            74,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AQUATAIL",
+        "ATTRACT",
+        "BIND",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRUTALSWING",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "INCINERATE",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TWISTER",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 4.0,
+    "weight": 16.5,
+    "abilities": [
+        "SHEDSKIN"
+    ],
+    "hiddenAbilitie": [
+        "MARVELSCALE"
+    ],
+    "baseTotal": 420,
+    "baseStats": [
+        61,
+        84,
+        65,
+        70,
+        70,
+        70
+    ],
+    "flags": [],
+    "name": "Dragonair",
+    "species": "DRAGONAIR",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 147,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 148
+}

@@ -1,0 +1,187 @@
+{
+    "generation": 2,
+    "primaryType": "BUG",
+    "secondaryType": "ROCK",
+    "moves": [
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            5,
+            "ROLLOUT"
+        ],
+        [
+            10,
+            "STRUGGLEBUG"
+        ],
+        [
+            15,
+            "ROCKTHROW"
+        ],
+        [
+            20,
+            "SAFEGUARD"
+        ],
+        [
+            25,
+            "REST"
+        ],
+        [
+            30,
+            "BUGBITE"
+        ],
+        [
+            35,
+            "POWERSPLIT"
+        ],
+        [
+            35,
+            "GUARDSPLIT"
+        ],
+        [
+            40,
+            "ROCKSLIDE"
+        ],
+        [
+            45,
+            "GASTROACID"
+        ],
+        [
+            50,
+            "STICKYWEB"
+        ],
+        [
+            55,
+            "POWERTRICK"
+        ],
+        [
+            60,
+            "STONEEDGE"
+        ],
+        [
+            65,
+            "SHELLSMASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BIND",
+        "BODYSLAM",
+        "BUGBITE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GYROBALL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SECRETPOWER",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELROLLER",
+        "STONEEDGE",
+        "STRENGTH",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TOXIC",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [
+        "ACID",
+        "ACUPRESSURE",
+        "COVET",
+        "DEFENSECURL",
+        "FINALGAMBIT",
+        "HELPINGHAND",
+        "INFESTATION",
+        "KNOCKOFF",
+        "MUDSLAP",
+        "ROCKBLAST",
+        "SANDTOMB",
+        "SWEETSCENT",
+        "TOXIC"
+    ],
+    "height": 0.6,
+    "weight": 20.5,
+    "abilities": [
+        "STURDY",
+        "GLUTTONY"
+    ],
+    "hiddenAbilitie": [
+        "CONTRARY"
+    ],
+    "baseTotal": 505,
+    "baseStats": [
+        20,
+        10,
+        230,
+        5,
+        10,
+        230
+    ],
+    "flags": [],
+    "name": "Shuckle",
+    "species": "SHUCKLE",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 177,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 213
+}

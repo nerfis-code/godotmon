@@ -1,0 +1,186 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "SHEERCOLD"
+        ],
+        [
+            -1,
+            "EXTREMESPEED"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "MIST"
+        ],
+        [
+            6,
+            "WATERPULSE"
+        ],
+        [
+            12,
+            "BITE"
+        ],
+        [
+            18,
+            "CALMMIND"
+        ],
+        [
+            24,
+            "ROAR"
+        ],
+        [
+            30,
+            "ICEFANG"
+        ],
+        [
+            36,
+            "TAILWIND"
+        ],
+        [
+            42,
+            "CRUNCH"
+        ],
+        [
+            48,
+            "EXTRASENSORY"
+        ],
+        [
+            54,
+            "SURF"
+        ],
+        [
+            60,
+            "MIRRORCOAT"
+        ],
+        [
+            66,
+            "RAINDANCE"
+        ],
+        [
+            72,
+            "HYDROPUMP"
+        ],
+        [
+            78,
+            "BLIZZARD"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AIRSLASH",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRINE",
+        "BULLDOZE",
+        "CALMMIND",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICYWIND",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PROTECT",
+        "PSYCHUP",
+        "QUASH",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSMASH",
+        "ROUND",
+        "SANDSTORM",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "WATERFALL",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 187.0,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [
+        "INNERFOCUS"
+    ],
+    "baseTotal": 580,
+    "baseStats": [
+        100,
+        75,
+        115,
+        85,
+        90,
+        115
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Suicune",
+    "species": "SUICUNE",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 245
+}

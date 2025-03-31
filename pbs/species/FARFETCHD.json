@@ -1,0 +1,506 @@
+{
+    "generation": 1,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            5,
+            "LEER"
+        ],
+        [
+            10,
+            "FURYCUTTER"
+        ],
+        [
+            15,
+            "CUT"
+        ],
+        [
+            20,
+            "AERIALACE"
+        ],
+        [
+            25,
+            "AIRCUTTER"
+        ],
+        [
+            30,
+            "KNOCKOFF"
+        ],
+        [
+            35,
+            "FALSESWIPE"
+        ],
+        [
+            40,
+            "SLASH"
+        ],
+        [
+            45,
+            "SWORDSDANCE"
+        ],
+        [
+            50,
+            "AIRSLASH"
+        ],
+        [
+            55,
+            "LEAFBLADE"
+        ],
+        [
+            60,
+            "AGILITY"
+        ],
+        [
+            65,
+            "BRAVEBIRD"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ATTRACT",
+        "BATONPASS",
+        "BODYSLAM",
+        "BRAVEBIRD",
+        "BRUTALSWING",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLY",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LEAFBLADE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PLUCK",
+        "POISONJAB",
+        "PROTECT",
+        "PSYCHUP",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBLADE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAILWIND",
+        "THIEF",
+        "THROATCHOP",
+        "TWISTER",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "COVET",
+        "CURSE",
+        "FEATHERDANCE",
+        "FEINT",
+        "FINALGAMBIT",
+        "FIRSTIMPRESSION",
+        "FLAIL",
+        "GUST",
+        "LEAFBLADE",
+        "MUDSLAP",
+        "NIGHTSLASH",
+        "QUICKATTACK",
+        "REVENGE",
+        "ROOST",
+        "SIMPLEBEAM",
+        "SKYATTACK"
+    ],
+    "height": 0.8,
+    "weight": 15.0,
+    "abilities": [
+        "KEENEYE",
+        "INNERFOCUS"
+    ],
+    "hiddenAbilitie": [
+        "DEFIANT"
+    ],
+    "baseTotal": 377,
+    "baseStats": [
+        52,
+        90,
+        55,
+        60,
+        58,
+        62
+    ],
+    "flags": [],
+    "name": "Farfetch'd",
+    "species": "FARFETCHD",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 132,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "NORMAL",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "SANDATTACK"
+                ],
+                [
+                    5,
+                    "LEER"
+                ],
+                [
+                    10,
+                    "FURYCUTTER"
+                ],
+                [
+                    15,
+                    "CUT"
+                ],
+                [
+                    20,
+                    "AERIALACE"
+                ],
+                [
+                    25,
+                    "AIRCUTTER"
+                ],
+                [
+                    30,
+                    "KNOCKOFF"
+                ],
+                [
+                    35,
+                    "FALSESWIPE"
+                ],
+                [
+                    40,
+                    "SLASH"
+                ],
+                [
+                    45,
+                    "SWORDSDANCE"
+                ],
+                [
+                    50,
+                    "AIRSLASH"
+                ],
+                [
+                    55,
+                    "LEAFBLADE"
+                ],
+                [
+                    60,
+                    "AGILITY"
+                ],
+                [
+                    65,
+                    "BRAVEBIRD"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "AGILITY",
+                "AIRCUTTER",
+                "AIRSLASH",
+                "ATTRACT",
+                "BATONPASS",
+                "BODYSLAM",
+                "BRAVEBIRD",
+                "BRUTALSWING",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLY",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LASERFOCUS",
+                "LASTRESORT",
+                "LEAFBLADE",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PLUCK",
+                "POISONJAB",
+                "PROTECT",
+                "PSYCHUP",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "ROOST",
+                "ROUND",
+                "SECRETPOWER",
+                "SKYATTACK",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBLADE",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAILWIND",
+                "THIEF",
+                "THROATCHOP",
+                "TWISTER",
+                "UPROAR",
+                "UTURN",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "COVET",
+                "CURSE",
+                "FEATHERDANCE",
+                "FEINT",
+                "FINALGAMBIT",
+                "FIRSTIMPRESSION",
+                "FLAIL",
+                "GUST",
+                "LEAFBLADE",
+                "MUDSLAP",
+                "NIGHTSLASH",
+                "QUICKATTACK",
+                "REVENGE",
+                "ROOST",
+                "SIMPLEBEAM",
+                "SKYATTACK"
+            ],
+            "height": 0.8,
+            "weight": 15.0,
+            "abilities": [
+                "KEENEYE",
+                "INNERFOCUS"
+            ],
+            "hiddenAbilitie": [
+                "DEFIANT"
+            ],
+            "baseTotal": 377,
+            "baseStats": [
+                52,
+                90,
+                55,
+                60,
+                58,
+                62
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Farfetch'd"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FIGHTING",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "SANDATTACK"
+                ],
+                [
+                    5,
+                    "LEER"
+                ],
+                [
+                    10,
+                    "FURYCUTTER"
+                ],
+                [
+                    15,
+                    "ROCKSMASH"
+                ],
+                [
+                    20,
+                    "BRUTALSWING"
+                ],
+                [
+                    25,
+                    "DETECT"
+                ],
+                [
+                    30,
+                    "KNOCKOFF"
+                ],
+                [
+                    35,
+                    "DEFOG"
+                ],
+                [
+                    40,
+                    "BRICKBREAK"
+                ],
+                [
+                    45,
+                    "SWORDSDANCE"
+                ],
+                [
+                    50,
+                    "SLAM"
+                ],
+                [
+                    55,
+                    "LEAFBLADE"
+                ],
+                [
+                    60,
+                    "FINALGAMBIT"
+                ],
+                [
+                    65,
+                    "BRAVEBIRD"
+                ]
+            ],
+            "tutorMoves": [
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRAVEBIRD",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "FACADE",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "LEAFBLADE",
+                "MIMIC",
+                "NATURALGIFT",
+                "POISONJAB",
+                "PROTECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBLADE",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "THROATCHOP",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "COUNTER",
+                "COVET",
+                "CURSE",
+                "DOUBLEEDGE",
+                "FEINT",
+                "FLAIL",
+                "NIGHTSLASH",
+                "QUICKATTACK",
+                "QUICKGUARD",
+                "SIMPLEBEAM",
+                "SKYATTACK"
+            ],
+            "height": 0.8,
+            "weight": 42.0,
+            "abilities": [
+                "STEADFAST"
+            ],
+            "hiddenAbilitie": [
+                "SCRAPPY"
+            ],
+            "baseTotal": 377,
+            "baseStats": [
+                52,
+                95,
+                55,
+                55,
+                58,
+                62
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Galar"
+        }
+    ],
+    "internationalPokedex": 83
+}

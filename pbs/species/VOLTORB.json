@@ -1,0 +1,430 @@
+{
+    "generation": 1,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "CHARGE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            4,
+            "THUNDERSHOCK"
+        ],
+        [
+            6,
+            "EERIEIMPULSE"
+        ],
+        [
+            9,
+            "SPARK"
+        ],
+        [
+            11,
+            "ROLLOUT"
+        ],
+        [
+            13,
+            "SCREECH"
+        ],
+        [
+            16,
+            "CHARGEBEAM"
+        ],
+        [
+            20,
+            "SWIFT"
+        ],
+        [
+            22,
+            "ELECTROBALL"
+        ],
+        [
+            26,
+            "SELFDESTRUCT"
+        ],
+        [
+            29,
+            "LIGHTSCREEN"
+        ],
+        [
+            34,
+            "MAGNETRISE"
+        ],
+        [
+            37,
+            "DISCHARGE"
+        ],
+        [
+            41,
+            "EXPLOSION"
+        ],
+        [
+            46,
+            "GYROBALL"
+        ],
+        [
+            50,
+            "MIRRORCOAT"
+        ]
+    ],
+    "tutorMoves": [
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GYROBALL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TORMENT",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 0.5,
+    "weight": 10.4,
+    "abilities": [
+        "SOUNDPROOF",
+        "STATIC"
+    ],
+    "hiddenAbilitie": [
+        "AFTERMATH"
+    ],
+    "baseTotal": 330,
+    "baseStats": [
+        40,
+        30,
+        50,
+        100,
+        55,
+        55
+    ],
+    "flags": [],
+    "name": "Voltorb",
+    "species": "VOLTORB",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 66,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "CHARGE"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    4,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    6,
+                    "EERIEIMPULSE"
+                ],
+                [
+                    9,
+                    "SPARK"
+                ],
+                [
+                    11,
+                    "ROLLOUT"
+                ],
+                [
+                    13,
+                    "SCREECH"
+                ],
+                [
+                    16,
+                    "CHARGEBEAM"
+                ],
+                [
+                    20,
+                    "SWIFT"
+                ],
+                [
+                    22,
+                    "ELECTROBALL"
+                ],
+                [
+                    26,
+                    "SELFDESTRUCT"
+                ],
+                [
+                    29,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    34,
+                    "MAGNETRISE"
+                ],
+                [
+                    37,
+                    "DISCHARGE"
+                ],
+                [
+                    41,
+                    "EXPLOSION"
+                ],
+                [
+                    46,
+                    "GYROBALL"
+                ],
+                [
+                    50,
+                    "MIRRORCOAT"
+                ]
+            ],
+            "tutorMoves": [
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FLASH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GYROBALL",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROLLOUT",
+                "ROUND",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TORMENT",
+                "VOLTSWITCH",
+                "WILDCHARGE"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 10.4,
+            "abilities": [
+                "SOUNDPROOF",
+                "STATIC"
+            ],
+            "hiddenAbilitie": [
+                "AFTERMATH"
+            ],
+            "baseTotal": 330,
+            "baseStats": [
+                40,
+                30,
+                50,
+                100,
+                55,
+                55
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Voltorb"
+        },
+        {
+            "generation": 8,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "GRASS",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "CHARGE"
+                ],
+                [
+                    4,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    6,
+                    "STUNSPORE"
+                ],
+                [
+                    9,
+                    "BULLETSEED"
+                ],
+                [
+                    11,
+                    "ROLLOUT"
+                ],
+                [
+                    13,
+                    "SCREECH"
+                ],
+                [
+                    16,
+                    "CHARGEBEAM"
+                ],
+                [
+                    20,
+                    "SWIFT"
+                ],
+                [
+                    22,
+                    "ELECTROBALL"
+                ],
+                [
+                    26,
+                    "SELFDESTRUCT"
+                ],
+                [
+                    29,
+                    "ENERGYBALL"
+                ],
+                [
+                    34,
+                    "DISCHARGE"
+                ],
+                [
+                    34,
+                    "SEEDBOMB"
+                ],
+                [
+                    41,
+                    "EXPLOSION"
+                ],
+                [
+                    46,
+                    "GYROBALL"
+                ],
+                [
+                    50,
+                    "GRASSYTERRAIN"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "BULLETSEED",
+                "CHARGE",
+                "CHARGEBEAM",
+                "DOUBLEEDGE",
+                "ELECTRICTERRAIN",
+                "ELECTROBALL",
+                "ELECTROWEB",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FOULPLAY",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "GYROBALL",
+                "LEAFSTORM",
+                "PROTECT",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SWIFT",
+                "TAKEDOWN",
+                "TAUNT",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "VOLTSWITCH",
+                "WILDCHARGE"
+            ],
+            "eggMoves": [
+                "LEECHSEED",
+                "RECYCLE",
+                "WORRYSEED"
+            ],
+            "height": 0.5,
+            "weight": 13.0,
+            "abilities": [
+                "SOUNDPROOF",
+                "STATIC"
+            ],
+            "hiddenAbilitie": [
+                "AFTERMATH"
+            ],
+            "baseTotal": 330,
+            "baseStats": [
+                40,
+                30,
+                50,
+                100,
+                55,
+                55
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Hisui"
+        }
+    ],
+    "internationalPokedex": 100
+}

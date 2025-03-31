@@ -1,0 +1,180 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            6,
+            "WATERGUN"
+        ],
+        [
+            8,
+            "MUDSLAP"
+        ],
+        [
+            9,
+            "BITE"
+        ],
+        [
+            13,
+            "SCARYFACE"
+        ],
+        [
+            19,
+            "ICEFANG"
+        ],
+        [
+            22,
+            "FLAIL"
+        ],
+        [
+            27,
+            "CRUNCH"
+        ],
+        [
+            29,
+            "LOWKICK"
+        ],
+        [
+            30,
+            "SLASH"
+        ],
+        [
+            33,
+            "SCREECH"
+        ],
+        [
+            37,
+            "THRASH"
+        ],
+        [
+            41,
+            "AQUATAIL"
+        ],
+        [
+            45,
+            "SUPERPOWER"
+        ],
+        [
+            50,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DYNAMICPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONTAIL",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "AQUAJET",
+        "BLOCK",
+        "CRUNCH",
+        "DRAGONDANCE",
+        "FAKETEARS",
+        "FLATTER",
+        "HYDROPUMP",
+        "ICEPUNCH",
+        "METALCLAW",
+        "THRASH"
+    ],
+    "height": 0.6,
+    "weight": 9.5,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "SHEERFORCE"
+    ],
+    "baseTotal": 314,
+    "baseStats": [
+        50,
+        65,
+        64,
+        43,
+        44,
+        48
+    ],
+    "flags": [],
+    "name": "Totodile",
+    "species": "TOTODILE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 63,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 158
+}

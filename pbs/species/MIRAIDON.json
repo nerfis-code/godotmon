@@ -1,0 +1,154 @@
+{
+    "generation": 9,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            1,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            7,
+            "SHOCKWAVE"
+        ],
+        [
+            14,
+            "CHARGE"
+        ],
+        [
+            21,
+            "PARABOLICCHARGE"
+        ],
+        [
+            28,
+            "DISCHARGE"
+        ],
+        [
+            35,
+            "AGILITY"
+        ],
+        [
+            42,
+            "DRAGONPULSE"
+        ],
+        [
+            56,
+            "ELECTRODRIFT"
+        ],
+        [
+            63,
+            "METALSOUND"
+        ],
+        [
+            70,
+            "MIRRORCOAT"
+        ],
+        [
+            77,
+            "OUTRAGE"
+        ],
+        [
+            84,
+            "THUNDER"
+        ],
+        [
+            91,
+            "OVERHEAT"
+        ],
+        [
+            98,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AGILITY",
+        "BODYSLAM",
+        "CALMMIND",
+        "CHARGE",
+        "CHARGEBEAM",
+        "CONFUSERAY",
+        "CRUNCH",
+        "DAZZLINGGLEAM",
+        "DRACOMETEOR",
+        "DRAGONCHEER",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "GIGAIMPACT",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HYPERBEAM",
+        "LIGHTSCREEN",
+        "METALSOUND",
+        "OUTRAGE",
+        "OVERHEAT",
+        "POWERGEM",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SNARL",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUPERCELLSLAM",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "TAUNT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "UTURN",
+        "VOLTSWITCH",
+        "WILDCHARGE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 3.5,
+    "weight": 240.0,
+    "abilities": [
+        "HADRONENGINE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 670,
+    "baseStats": [
+        100,
+        85,
+        100,
+        135,
+        135,
+        115
+    ],
+    "flags": [
+        "Paradox",
+        "Legendary"
+    ],
+    "name": "Miraidon",
+    "species": "MIRAIDON",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 335,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 1008
+}

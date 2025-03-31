@@ -1,0 +1,182 @@
+{
+    "generation": 2,
+    "primaryType": "BUG",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            -1,
+            "HEAVYSLAM"
+        ],
+        [
+            0,
+            "AUTOTOMIZE"
+        ],
+        [
+            1,
+            "ZAPCANNON"
+        ],
+        [
+            1,
+            "MAGNETRISE"
+        ],
+        [
+            1,
+            "TOXICSPIKES"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            1,
+            "BUGBITE"
+        ],
+        [
+            6,
+            "SELFDESTRUCT"
+        ],
+        [
+            12,
+            "TAKEDOWN"
+        ],
+        [
+            17,
+            "RAPIDSPIN"
+        ],
+        [
+            20,
+            "REFLECT"
+        ],
+        [
+            20,
+            "ROLLOUT"
+        ],
+        [
+            23,
+            "CURSE"
+        ],
+        [
+            28,
+            "SPIKES"
+        ],
+        [
+            32,
+            "PAYBACK"
+        ],
+        [
+            36,
+            "EXPLOSION"
+        ],
+        [
+            42,
+            "IRONDEFENSE"
+        ],
+        [
+            46,
+            "GYROBALL"
+        ],
+        [
+            50,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BLOCK",
+        "BODYSLAM",
+        "BUGBITE",
+        "BUGBUZZ",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "GYROBALL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "VENOSHOCK",
+        "VOLTSWITCH"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 125.8,
+    "abilities": [
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "OVERCOAT"
+    ],
+    "baseTotal": 465,
+    "baseStats": [
+        75,
+        90,
+        140,
+        40,
+        60,
+        60
+    ],
+    "flags": [],
+    "name": "Forretress",
+    "species": "FORRETRESS",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 163,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 205
+}

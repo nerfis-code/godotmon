@@ -1,0 +1,158 @@
+{
+    "generation": 5,
+    "primaryType": "GROUND",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            -1,
+            "HORNDRILL"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "RAPIDSPIN"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "HONECLAWS"
+        ],
+        [
+            12,
+            "FURYSWIPES"
+        ],
+        [
+            16,
+            "METALCLAW"
+        ],
+        [
+            20,
+            "SANDSTORM"
+        ],
+        [
+            24,
+            "CRUSHCLAW"
+        ],
+        [
+            28,
+            "ROCKSLIDE"
+        ],
+        [
+            34,
+            "DIG"
+        ],
+        [
+            40,
+            "SWORDSDANCE"
+        ],
+        [
+            46,
+            "DRILLRUN"
+        ],
+        [
+            52,
+            "EARTHQUAKE"
+        ],
+        [
+            58,
+            "FISSURE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SMARTSTRIKE",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TOXIC",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 40.4,
+    "abilities": [
+        "SANDRUSH",
+        "SANDFORCE"
+    ],
+    "hiddenAbilitie": [
+        "MOLDBREAKER"
+    ],
+    "baseTotal": 508,
+    "baseStats": [
+        110,
+        135,
+        60,
+        88,
+        50,
+        65
+    ],
+    "flags": [],
+    "name": "Excadrill",
+    "species": "EXCADRILL",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 178,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 530
+}

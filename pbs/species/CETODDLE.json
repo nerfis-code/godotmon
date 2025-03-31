@@ -1,0 +1,143 @@
+{
+    "generation": 9,
+    "primaryType": "ICE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            6,
+            "GROWL"
+        ],
+        [
+            9,
+            "ECHOEDVOICE"
+        ],
+        [
+            12,
+            "ICESHARD"
+        ],
+        [
+            15,
+            "REST"
+        ],
+        [
+            19,
+            "TAKEDOWN"
+        ],
+        [
+            25,
+            "FLAIL"
+        ],
+        [
+            27,
+            "AVALANCHE"
+        ],
+        [
+            31,
+            "BOUNCE"
+        ],
+        [
+            36,
+            "BODYSLAM"
+        ],
+        [
+            40,
+            "AMNESIA"
+        ],
+        [
+            44,
+            "ICESPINNER"
+        ],
+        [
+            49,
+            "DOUBLEEDGE"
+        ],
+        [
+            53,
+            "BLIZZARD"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CHARM",
+        "CHILLINGWATER",
+        "CURSE",
+        "DOUBLEEDGE",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICESPINNER",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "KNOCKOFF",
+        "LIQUIDATION",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SLEEPTALK",
+        "SNOWSCAPE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "TAKEDOWN",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "BELLYDRUM",
+        "ENTRAINMENT",
+        "ICICLECRASH",
+        "SUPERPOWER",
+        "YAWN"
+    ],
+    "height": 1.2,
+    "weight": 45.0,
+    "abilities": [
+        "THICKFAT",
+        "SNOWCLOAK"
+    ],
+    "hiddenAbilitie": [
+        "SHEERFORCE"
+    ],
+    "baseTotal": 334,
+    "baseStats": [
+        108,
+        68,
+        45,
+        43,
+        30,
+        40
+    ],
+    "flags": [],
+    "name": "Cetoddle",
+    "species": "CETODDLE",
+    "catchRate": 150,
+    "happiness": 50,
+    "baseExp": 67,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 974
+}

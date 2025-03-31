@@ -1,0 +1,175 @@
+{
+    "generation": 8,
+    "primaryType": "GHOST",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "PERISHSONG"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "DISABLE"
+        ],
+        [
+            15,
+            "SPITE"
+        ],
+        [
+            20,
+            "ANCIENTPOWER"
+        ],
+        [
+            25,
+            "HEX"
+        ],
+        [
+            30,
+            "CURSE"
+        ],
+        [
+            35,
+            "STRENGTHSAP"
+        ],
+        [
+            40,
+            "POWERGEM"
+        ],
+        [
+            45,
+            "NIGHTSHADE"
+        ],
+        [
+            50,
+            "GRUDGE"
+        ],
+        [
+            55,
+            "MIRRORCOAT"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRINE",
+        "BULLDOZE",
+        "BURNINGJEALOUSY",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEX",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PINMISSILE",
+        "POLTERGEIST",
+        "POWERGEM",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "THROATCHOP",
+        "WHIRLPOOL",
+        "WILLOWISP"
+    ],
+    "eggMoves": [
+        "CONFUSERAY",
+        "DESTINYBOND",
+        "HAZE",
+        "HEADSMASH",
+        "NATUREPOWER",
+        "WATERPULSE"
+    ],
+    "height": 1.0,
+    "weight": 0.4,
+    "abilities": [
+        "WEAKARMOR"
+    ],
+    "hiddenAbilitie": [
+        "PERISHBODY"
+    ],
+    "baseTotal": 510,
+    "baseStats": [
+        60,
+        95,
+        50,
+        30,
+        145,
+        130
+    ],
+    "flags": [
+        "DefaultForm_1",
+        "InheritFormWithEverStone"
+    ],
+    "name": "Cursola",
+    "species": "CURSOLA",
+    "catchRate": 30,
+    "happiness": 50,
+    "baseExp": 179,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 864
+}

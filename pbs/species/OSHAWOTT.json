@@ -1,0 +1,477 @@
+{
+    "generation": 5,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "TAILWHIP"
+        ],
+        [
+            7,
+            "WATERGUN"
+        ],
+        [
+            11,
+            "WATERSPORT"
+        ],
+        [
+            11,
+            "SOAK"
+        ],
+        [
+            13,
+            "FOCUSENERGY"
+        ],
+        [
+            17,
+            "RAZORSHELL"
+        ],
+        [
+            19,
+            "FURYCUTTER"
+        ],
+        [
+            23,
+            "WATERPULSE"
+        ],
+        [
+            25,
+            "REVENGE"
+        ],
+        [
+            25,
+            "AERIALACE"
+        ],
+        [
+            29,
+            "AQUAJET"
+        ],
+        [
+            31,
+            "ENCORE"
+        ],
+        [
+            35,
+            "AQUATAIL"
+        ],
+        [
+            37,
+            "RETALIATE"
+        ],
+        [
+            41,
+            "SWORDSDANCE"
+        ],
+        [
+            43,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HAIL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TOXIC",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WORKUP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "AIRSLASH",
+        "ASSURANCE",
+        "BRINE",
+        "COPYCAT",
+        "DETECT",
+        "NIGHTSLASH",
+        "SACREDSWORD",
+        "SCREECH",
+        "TRUMPCARD"
+    ],
+    "height": 0.5,
+    "weight": 5.9,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "SHELLARMOR"
+    ],
+    "baseTotal": 308,
+    "baseStats": [
+        55,
+        55,
+        45,
+        45,
+        63,
+        45
+    ],
+    "flags": [],
+    "name": "Oshawott",
+    "species": "OSHAWOTT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    5,
+                    "TAILWHIP"
+                ],
+                [
+                    7,
+                    "WATERGUN"
+                ],
+                [
+                    11,
+                    "WATERSPORT"
+                ],
+                [
+                    11,
+                    "SOAK"
+                ],
+                [
+                    13,
+                    "FOCUSENERGY"
+                ],
+                [
+                    17,
+                    "RAZORSHELL"
+                ],
+                [
+                    19,
+                    "FURYCUTTER"
+                ],
+                [
+                    23,
+                    "WATERPULSE"
+                ],
+                [
+                    25,
+                    "REVENGE"
+                ],
+                [
+                    25,
+                    "AERIALACE"
+                ],
+                [
+                    29,
+                    "AQUAJET"
+                ],
+                [
+                    31,
+                    "ENCORE"
+                ],
+                [
+                    35,
+                    "AQUATAIL"
+                ],
+                [
+                    37,
+                    "RETALIATE"
+                ],
+                [
+                    41,
+                    "SWORDSDANCE"
+                ],
+                [
+                    43,
+                    "HYDROPUMP"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AQUATAIL",
+                "ATTRACT",
+                "BLIZZARD",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DIG",
+                "DIVE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "FRUSTRATION",
+                "GRASSKNOT",
+                "HAIL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONTAIL",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROCKSMASH",
+                "ROUND",
+                "SCALD",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAUNT",
+                "TOXIC",
+                "WATERFALL",
+                "WATERPLEDGE",
+                "WATERPULSE",
+                "WORKUP",
+                "XSCISSOR"
+            ],
+            "eggMoves": [
+                "AIRSLASH",
+                "ASSURANCE",
+                "BRINE",
+                "COPYCAT",
+                "DETECT",
+                "NIGHTSLASH",
+                "SACREDSWORD",
+                "SCREECH",
+                "TRUMPCARD"
+            ],
+            "height": 0.5,
+            "weight": 5.9,
+            "abilities": [
+                "TORRENT"
+            ],
+            "hiddenAbilitie": [
+                "SHELLARMOR"
+            ],
+            "baseTotal": 308,
+            "baseStats": [
+                55,
+                55,
+                45,
+                45,
+                63,
+                45
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Oshawott"
+        },
+        {
+            "generation": 8,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    5,
+                    "TAILWHIP"
+                ],
+                [
+                    7,
+                    "WATERGUN"
+                ],
+                [
+                    11,
+                    "WATERSPORT"
+                ],
+                [
+                    11,
+                    "SOAK"
+                ],
+                [
+                    13,
+                    "FOCUSENERGY"
+                ],
+                [
+                    17,
+                    "RAZORSHELL"
+                ],
+                [
+                    19,
+                    "FURYCUTTER"
+                ],
+                [
+                    23,
+                    "WATERPULSE"
+                ],
+                [
+                    25,
+                    "REVENGE"
+                ],
+                [
+                    25,
+                    "AERIALACE"
+                ],
+                [
+                    29,
+                    "AQUAJET"
+                ],
+                [
+                    31,
+                    "ENCORE"
+                ],
+                [
+                    35,
+                    "AQUATAIL"
+                ],
+                [
+                    37,
+                    "RETALIATE"
+                ],
+                [
+                    41,
+                    "SWORDSDANCE"
+                ],
+                [
+                    43,
+                    "HYDROPUMP"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AQUATAIL",
+                "ATTRACT",
+                "BLIZZARD",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DIG",
+                "DIVE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "FRUSTRATION",
+                "GRASSKNOT",
+                "HAIL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONTAIL",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROCKSMASH",
+                "ROUND",
+                "SCALD",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAUNT",
+                "TOXIC",
+                "WATERFALL",
+                "WATERPLEDGE",
+                "WATERPULSE",
+                "WORKUP",
+                "XSCISSOR"
+            ],
+            "eggMoves": [
+                "AIRSLASH",
+                "ASSURANCE",
+                "BRINE",
+                "COPYCAT",
+                "DETECT",
+                "NIGHTSLASH",
+                "SACREDSWORD",
+                "SCREECH",
+                "TRUMPCARD"
+            ],
+            "height": 0.5,
+            "weight": 5.9,
+            "abilities": [
+                "TORRENT"
+            ],
+            "hiddenAbilitie": [
+                "SHELLARMOR"
+            ],
+            "baseTotal": 308,
+            "baseStats": [
+                55,
+                55,
+                45,
+                45,
+                63,
+                45
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Oshawott"
+        }
+    ],
+    "internationalPokedex": 501
+}

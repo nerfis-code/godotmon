@@ -1,0 +1,77 @@
+{
+    "generation": 8,
+    "primaryType": "ICE",
+    "secondaryType": "BUG",
+    "moves": [
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "STRUGGLEBUG"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC"
+    ],
+    "eggMoves": [
+        "BUGBITE",
+        "FAIRYWIND",
+        "MIRRORCOAT"
+    ],
+    "height": 0.3,
+    "weight": 3.8,
+    "abilities": [
+        "SHIELDDUST"
+    ],
+    "hiddenAbilitie": [
+        "ICESCALES"
+    ],
+    "baseTotal": 185,
+    "baseStats": [
+        30,
+        25,
+        35,
+        20,
+        45,
+        30
+    ],
+    "flags": [],
+    "name": "Snom",
+    "species": "SNOM",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 37,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 872
+}

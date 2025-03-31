@@ -1,0 +1,781 @@
+{
+    "generation": 6,
+    "primaryType": "GHOST",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            4,
+            "SHADOWSNEAK"
+        ],
+        [
+            8,
+            "CONFUSERAY"
+        ],
+        [
+            12,
+            "RAZORLEAF"
+        ],
+        [
+            16,
+            "LEECHSEED"
+        ],
+        [
+            20,
+            "BULLETSEED"
+        ],
+        [
+            24,
+            "SCARYFACE"
+        ],
+        [
+            28,
+            "WORRYSEED"
+        ],
+        [
+            32,
+            "SEEDBOMB"
+        ],
+        [
+            36,
+            "TRICKORTREAT"
+        ],
+        [
+            36,
+            "SHADOWBALL"
+        ],
+        [
+            40,
+            "TRICK"
+        ],
+        [
+            44,
+            "PAINSPLIT"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GYROBALL",
+        "HEX",
+        "HIDDENPOWER",
+        "IMPRISON",
+        "INCINERATE",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAINSPLIT",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SKILLSWAP",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "TELEKINESIS",
+        "THIEF",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "WILLOWISP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "CURSE",
+        "DESTINYBOND",
+        "DISABLE"
+    ],
+    "height": 0.3,
+    "weight": 3.5,
+    "abilities": [
+        "PICKUP",
+        "FRISK"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 335,
+    "baseStats": [
+        44,
+        66,
+        70,
+        56,
+        44,
+        55
+    ],
+    "flags": [
+        "InheritFormFromMother"
+    ],
+    "name": "Pumpkaboo",
+    "species": "PUMPKABOO",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 67,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 6,
+            "primaryType": "GHOST",
+            "secondaryType": "GRASS",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    4,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    8,
+                    "CONFUSERAY"
+                ],
+                [
+                    12,
+                    "RAZORLEAF"
+                ],
+                [
+                    16,
+                    "LEECHSEED"
+                ],
+                [
+                    20,
+                    "BULLETSEED"
+                ],
+                [
+                    24,
+                    "SCARYFACE"
+                ],
+                [
+                    28,
+                    "WORRYSEED"
+                ],
+                [
+                    32,
+                    "SEEDBOMB"
+                ],
+                [
+                    36,
+                    "TRICKORTREAT"
+                ],
+                [
+                    36,
+                    "SHADOWBALL"
+                ],
+                [
+                    40,
+                    "TRICK"
+                ],
+                [
+                    44,
+                    "PAINSPLIT"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPLOSION",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLASH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GYROBALL",
+                "HEX",
+                "HIDDENPOWER",
+                "IMPRISON",
+                "INCINERATE",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PAINSPLIT",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHIC",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SAFEGUARD",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SKILLSWAP",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNORE",
+                "SOLARBEAM",
+                "SPITE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "TELEKINESIS",
+                "THIEF",
+                "TOXIC",
+                "TRICK",
+                "TRICKROOM",
+                "WILLOWISP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "CURSE",
+                "DESTINYBOND",
+                "DISABLE"
+            ],
+            "height": 0.3,
+            "weight": 3.5,
+            "abilities": [
+                "PICKUP",
+                "FRISK"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 335,
+            "baseStats": [
+                44,
+                66,
+                70,
+                56,
+                44,
+                55
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 0,
+            "formName": "Tamaño Pequeño"
+        },
+        {
+            "generation": 6,
+            "primaryType": "GHOST",
+            "secondaryType": "GRASS",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    4,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    8,
+                    "CONFUSERAY"
+                ],
+                [
+                    12,
+                    "RAZORLEAF"
+                ],
+                [
+                    16,
+                    "LEECHSEED"
+                ],
+                [
+                    20,
+                    "BULLETSEED"
+                ],
+                [
+                    24,
+                    "SCARYFACE"
+                ],
+                [
+                    28,
+                    "WORRYSEED"
+                ],
+                [
+                    32,
+                    "SEEDBOMB"
+                ],
+                [
+                    36,
+                    "TRICKORTREAT"
+                ],
+                [
+                    36,
+                    "SHADOWBALL"
+                ],
+                [
+                    40,
+                    "TRICK"
+                ],
+                [
+                    44,
+                    "PAINSPLIT"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPLOSION",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLASH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GYROBALL",
+                "HEX",
+                "HIDDENPOWER",
+                "IMPRISON",
+                "INCINERATE",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PAINSPLIT",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHIC",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SAFEGUARD",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SKILLSWAP",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNORE",
+                "SOLARBEAM",
+                "SPITE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "TELEKINESIS",
+                "THIEF",
+                "TOXIC",
+                "TRICK",
+                "TRICKROOM",
+                "WILLOWISP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "CURSE",
+                "DESTINYBOND",
+                "DISABLE"
+            ],
+            "height": 0.4,
+            "weight": 5.0,
+            "abilities": [
+                "PICKUP",
+                "FRISK"
+            ],
+            "hiddenAbilitie": [
+                "INSOMNIA"
+            ],
+            "baseTotal": 335,
+            "baseStats": [
+                49,
+                66,
+                70,
+                51,
+                44,
+                55
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 1,
+            "formName": "Tamaño Normal"
+        },
+        {
+            "generation": 6,
+            "primaryType": "GHOST",
+            "secondaryType": "GRASS",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    4,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    8,
+                    "CONFUSERAY"
+                ],
+                [
+                    12,
+                    "RAZORLEAF"
+                ],
+                [
+                    16,
+                    "LEECHSEED"
+                ],
+                [
+                    20,
+                    "BULLETSEED"
+                ],
+                [
+                    24,
+                    "SCARYFACE"
+                ],
+                [
+                    28,
+                    "WORRYSEED"
+                ],
+                [
+                    32,
+                    "SEEDBOMB"
+                ],
+                [
+                    36,
+                    "TRICKORTREAT"
+                ],
+                [
+                    36,
+                    "SHADOWBALL"
+                ],
+                [
+                    40,
+                    "TRICK"
+                ],
+                [
+                    44,
+                    "PAINSPLIT"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPLOSION",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLASH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GYROBALL",
+                "HEX",
+                "HIDDENPOWER",
+                "IMPRISON",
+                "INCINERATE",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PAINSPLIT",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHIC",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SAFEGUARD",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SKILLSWAP",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNORE",
+                "SOLARBEAM",
+                "SPITE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "TELEKINESIS",
+                "THIEF",
+                "TOXIC",
+                "TRICK",
+                "TRICKROOM",
+                "WILLOWISP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "CURSE",
+                "DESTINYBOND",
+                "DISABLE"
+            ],
+            "height": 0.5,
+            "weight": 7.5,
+            "abilities": [
+                "PICKUP",
+                "FRISK"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 335,
+            "baseStats": [
+                54,
+                66,
+                70,
+                46,
+                44,
+                55
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 2,
+            "formName": "Tamaño Grande"
+        },
+        {
+            "generation": 6,
+            "primaryType": "GHOST",
+            "secondaryType": "GRASS",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    4,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    8,
+                    "CONFUSERAY"
+                ],
+                [
+                    12,
+                    "RAZORLEAF"
+                ],
+                [
+                    16,
+                    "LEECHSEED"
+                ],
+                [
+                    20,
+                    "BULLETSEED"
+                ],
+                [
+                    24,
+                    "SCARYFACE"
+                ],
+                [
+                    28,
+                    "WORRYSEED"
+                ],
+                [
+                    32,
+                    "SEEDBOMB"
+                ],
+                [
+                    36,
+                    "TRICKORTREAT"
+                ],
+                [
+                    36,
+                    "SHADOWBALL"
+                ],
+                [
+                    40,
+                    "TRICK"
+                ],
+                [
+                    44,
+                    "PAINSPLIT"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "ENDURE",
+                "ENERGYBALL",
+                "EXPLOSION",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLASH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "GYROBALL",
+                "HEX",
+                "HIDDENPOWER",
+                "IMPRISON",
+                "INCINERATE",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PAINSPLIT",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHIC",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROLEPLAY",
+                "ROUND",
+                "SAFEGUARD",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SKILLSWAP",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNORE",
+                "SOLARBEAM",
+                "SPITE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "TELEKINESIS",
+                "THIEF",
+                "TOXIC",
+                "TRICK",
+                "TRICKROOM",
+                "WILLOWISP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "CURSE",
+                "DESTINYBOND",
+                "DISABLE"
+            ],
+            "height": 0.8,
+            "weight": 15.0,
+            "abilities": [
+                "PICKUP",
+                "FRISK"
+            ],
+            "hiddenAbilitie": [
+                "INSOMNIA"
+            ],
+            "baseTotal": 335,
+            "baseStats": [
+                59,
+                66,
+                70,
+                41,
+                44,
+                55
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 3,
+            "formName": "Tamaño Extragrande"
+        }
+    ],
+    "internationalPokedex": 710
+}

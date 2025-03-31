@@ -1,0 +1,135 @@
+{
+    "generation": 8,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "THROATCHOP"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "AQUAJET"
+        ],
+        [
+            1,
+            "FURYATTACK"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            18,
+            "AGILITY"
+        ],
+        [
+            24,
+            "DIVE"
+        ],
+        [
+            32,
+            "LASERFOCUS"
+        ],
+        [
+            32,
+            "FOCUSENERGY"
+        ],
+        [
+            40,
+            "CRUNCH"
+        ],
+        [
+            48,
+            "LIQUIDATION"
+        ],
+        [
+            56,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ASSURANCE",
+        "ATTRACT",
+        "BOUNCE",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CRUNCH",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "ENDURE",
+        "FACADE",
+        "FLIPTURN",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEFANG",
+        "LIQUIDATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "THROATCHOP",
+        "TOXIC",
+        "WATERFALL",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 30.0,
+    "abilities": [
+        "SWIFTSWIM"
+    ],
+    "hiddenAbilitie": [
+        "PROPELLERTAIL"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        61,
+        123,
+        60,
+        136,
+        60,
+        50
+    ],
+    "flags": [],
+    "name": "Barraskewda",
+    "species": "BARRASKEWDA",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 172,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 847
+}

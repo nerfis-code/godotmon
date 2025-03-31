@@ -1,0 +1,159 @@
+{
+    "generation": 4,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            5,
+            "DEFENSECURL"
+        ],
+        [
+            9,
+            "ROLLOUT"
+        ],
+        [
+            13,
+            "HEADBUTT"
+        ],
+        [
+            17,
+            "TAUNT"
+        ],
+        [
+            21,
+            "YAWN"
+        ],
+        [
+            25,
+            "CRUNCH"
+        ],
+        [
+            29,
+            "TAKEDOWN"
+        ],
+        [
+            33,
+            "SUPERFANG"
+        ],
+        [
+            37,
+            "SWORDSDANCE"
+        ],
+        [
+            41,
+            "AMNESIA"
+        ],
+        [
+            45,
+            "SUPERPOWER"
+        ],
+        [
+            49,
+            "CURSE"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "AQUATAIL",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "FURYSWIPES",
+        "QUICKATTACK",
+        "ROLLOUT",
+        "SKULLBASH"
+    ],
+    "height": 0.5,
+    "weight": 20.0,
+    "abilities": [
+        "SIMPLE",
+        "UNAWARE"
+    ],
+    "hiddenAbilitie": [
+        "MOODY"
+    ],
+    "baseTotal": 250,
+    "baseStats": [
+        59,
+        45,
+        40,
+        31,
+        35,
+        40
+    ],
+    "flags": [],
+    "name": "Bidoof",
+    "species": "BIDOOF",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 50,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 399
+}

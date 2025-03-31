@@ -1,0 +1,138 @@
+{
+    "generation": 4,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            5,
+            "QUICKATTACK"
+        ],
+        [
+            9,
+            "WINGATTACK"
+        ],
+        [
+            13,
+            "DOUBLETEAM"
+        ],
+        [
+            17,
+            "ENDEAVOR"
+        ],
+        [
+            21,
+            "WHIRLWIND"
+        ],
+        [
+            25,
+            "AERIALACE"
+        ],
+        [
+            29,
+            "TAKEDOWN"
+        ],
+        [
+            33,
+            "AGILITY"
+        ],
+        [
+            37,
+            "BRAVEBIRD"
+        ],
+        [
+            41,
+            "FINALGAMBIT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TWISTER",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "ASTONISH",
+        "DETECT",
+        "DOUBLEEDGE",
+        "FEATHERDANCE",
+        "FURYATTACK",
+        "REVENGE",
+        "SANDATTACK",
+        "UPROAR"
+    ],
+    "height": 0.3,
+    "weight": 2.0,
+    "abilities": [
+        "KEENEYE"
+    ],
+    "hiddenAbilitie": [
+        "RECKLESS"
+    ],
+    "baseTotal": 245,
+    "baseStats": [
+        40,
+        55,
+        30,
+        60,
+        30,
+        30
+    ],
+    "flags": [],
+    "name": "Starly",
+    "species": "STARLY",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 49,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 396
+}

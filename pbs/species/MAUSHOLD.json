@@ -1,0 +1,417 @@
+{
+    "generation": 9,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TIDYUP"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "FOLLOWME"
+        ],
+        [
+            1,
+            "BABYDOLLEYES"
+        ],
+        [
+            5,
+            "ECHOEDVOICE"
+        ],
+        [
+            8,
+            "HELPINGHAND"
+        ],
+        [
+            11,
+            "SUPERFANG"
+        ],
+        [
+            14,
+            "DOUBLEHIT"
+        ],
+        [
+            18,
+            "BULLETSEED"
+        ],
+        [
+            22,
+            "ENCORE"
+        ],
+        [
+            29,
+            "PLAYROUGH"
+        ],
+        [
+            33,
+            "HYPERVOICE"
+        ],
+        [
+            37,
+            "CHARM"
+        ],
+        [
+            41,
+            "BEATUP"
+        ],
+        [
+            46,
+            "COPYCAT"
+        ],
+        [
+            53,
+            "POPULATIONBOMB"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "BATONPASS",
+        "BULLETSEED",
+        "CHARM",
+        "CHILLINGWATER",
+        "CRUNCH",
+        "DIG",
+        "DOUBLEEDGE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SEEDBOMB",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWIFT",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "THUNDERWAVE",
+        "TRAILBLAZE",
+        "UTURN",
+        "WATERPULSE"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 2.8,
+    "abilities": [
+        "FRIENDGUARD",
+        "CHEEKPOUCH"
+    ],
+    "hiddenAbilitie": [
+        "TECHNICIAN"
+    ],
+    "baseTotal": 470,
+    "baseStats": [
+        74,
+        75,
+        70,
+        111,
+        65,
+        75
+    ],
+    "flags": [],
+    "name": "Maushold",
+    "species": "MAUSHOLD",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 165,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 9,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TIDYUP"
+                ],
+                [
+                    1,
+                    "POUND"
+                ],
+                [
+                    1,
+                    "FOLLOWME"
+                ],
+                [
+                    1,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    5,
+                    "ECHOEDVOICE"
+                ],
+                [
+                    8,
+                    "HELPINGHAND"
+                ],
+                [
+                    11,
+                    "SUPERFANG"
+                ],
+                [
+                    14,
+                    "DOUBLEHIT"
+                ],
+                [
+                    18,
+                    "BULLETSEED"
+                ],
+                [
+                    22,
+                    "ENCORE"
+                ],
+                [
+                    29,
+                    "PLAYROUGH"
+                ],
+                [
+                    33,
+                    "HYPERVOICE"
+                ],
+                [
+                    37,
+                    "CHARM"
+                ],
+                [
+                    41,
+                    "BEATUP"
+                ],
+                [
+                    46,
+                    "COPYCAT"
+                ],
+                [
+                    53,
+                    "POPULATIONBOMB"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "BATONPASS",
+                "BULLETSEED",
+                "CHARM",
+                "CHILLINGWATER",
+                "CRUNCH",
+                "DIG",
+                "DOUBLEEDGE",
+                "ENCORE",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HELPINGHAND",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MUDSHOT",
+                "MUDSLAP",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "SEEDBOMB",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERFANG",
+                "SWIFT",
+                "TAKEDOWN",
+                "TAUNT",
+                "THIEF",
+                "THUNDERWAVE",
+                "TRAILBLAZE",
+                "UTURN",
+                "WATERPULSE"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 2.8,
+            "abilities": [
+                "FRIENDGUARD",
+                "CHEEKPOUCH"
+            ],
+            "hiddenAbilitie": [
+                "TECHNICIAN"
+            ],
+            "baseTotal": 470,
+            "baseStats": [
+                74,
+                75,
+                70,
+                111,
+                65,
+                75
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Familia de Cuatro"
+        },
+        {
+            "generation": 9,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TIDYUP"
+                ],
+                [
+                    1,
+                    "POUND"
+                ],
+                [
+                    1,
+                    "FOLLOWME"
+                ],
+                [
+                    1,
+                    "BABYDOLLEYES"
+                ],
+                [
+                    5,
+                    "ECHOEDVOICE"
+                ],
+                [
+                    8,
+                    "HELPINGHAND"
+                ],
+                [
+                    11,
+                    "SUPERFANG"
+                ],
+                [
+                    14,
+                    "DOUBLEHIT"
+                ],
+                [
+                    18,
+                    "BULLETSEED"
+                ],
+                [
+                    22,
+                    "ENCORE"
+                ],
+                [
+                    29,
+                    "PLAYROUGH"
+                ],
+                [
+                    33,
+                    "HYPERVOICE"
+                ],
+                [
+                    37,
+                    "CHARM"
+                ],
+                [
+                    41,
+                    "BEATUP"
+                ],
+                [
+                    46,
+                    "COPYCAT"
+                ],
+                [
+                    53,
+                    "POPULATIONBOMB"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "BATONPASS",
+                "BULLETSEED",
+                "CHARM",
+                "CHILLINGWATER",
+                "CRUNCH",
+                "DIG",
+                "DOUBLEEDGE",
+                "ENCORE",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HELPINGHAND",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MUDSHOT",
+                "MUDSLAP",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "SEEDBOMB",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERFANG",
+                "SWIFT",
+                "TAKEDOWN",
+                "TAUNT",
+                "THIEF",
+                "THUNDERWAVE",
+                "TRAILBLAZE",
+                "UTURN",
+                "WATERPULSE"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 2.3,
+            "abilities": [
+                "FRIENDGUARD",
+                "CHEEKPOUCH"
+            ],
+            "hiddenAbilitie": [
+                "TECHNICIAN"
+            ],
+            "baseTotal": 470,
+            "baseStats": [
+                74,
+                75,
+                70,
+                111,
+                65,
+                75
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Familia de Tres"
+        }
+    ],
+    "internationalPokedex": 925
+}

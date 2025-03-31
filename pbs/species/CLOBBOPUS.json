@@ -1,0 +1,133 @@
+{
+    "generation": 8,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ROCKSMASH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            5,
+            "FEINT"
+        ],
+        [
+            10,
+            "BIND"
+        ],
+        [
+            15,
+            "DETECT"
+        ],
+        [
+            20,
+            "BRICKBREAK"
+        ],
+        [
+            25,
+            "BULKUP"
+        ],
+        [
+            30,
+            "SUBMISSION"
+        ],
+        [
+            35,
+            "TAUNT"
+        ],
+        [
+            40,
+            "REVERSAL"
+        ],
+        [
+            45,
+            "SUPERPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRINE",
+        "BULKUP",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "LIQUIDATION",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "TOXIC",
+        "WATERFALL",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "CIRCLETHROW",
+        "PAINSPLIT",
+        "POWERUPPUNCH",
+        "SEISMICTOSS",
+        "SOAK",
+        "SUCKERPUNCH"
+    ],
+    "height": 0.6,
+    "weight": 4.0,
+    "abilities": [
+        "LIMBER"
+    ],
+    "hiddenAbilitie": [
+        "TECHNICIAN"
+    ],
+    "baseTotal": 310,
+    "baseStats": [
+        50,
+        68,
+        60,
+        32,
+        50,
+        50
+    ],
+    "flags": [],
+    "name": "Clobbopus",
+    "species": "CLOBBOPUS",
+    "catchRate": 180,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 852
+}

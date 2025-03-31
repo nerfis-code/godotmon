@@ -1,0 +1,179 @@
+{
+    "generation": 1,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SWITCHEROO"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "HYPNOSIS"
+        ],
+        [
+            1,
+            "DISABLE"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            13,
+            "HEADBUTT"
+        ],
+        [
+            17,
+            "POISONGAS"
+        ],
+        [
+            21,
+            "PSYBEAM"
+        ],
+        [
+            25,
+            "PSYCHUP"
+        ],
+        [
+            29,
+            "MINDREADER"
+        ],
+        [
+            32,
+            "ZENHEADBUTT"
+        ],
+        [
+            37,
+            "SWAGGER"
+        ],
+        [
+            42,
+            "PSYCHIC"
+        ],
+        [
+            47,
+            "NASTYPLOT"
+        ],
+        [
+            51,
+            "PSYSHOCK"
+        ],
+        [
+            56,
+            "FUTURESIGHT"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRICK",
+        "TRICKROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 75.6,
+    "abilities": [
+        "INSOMNIA",
+        "FOREWARN"
+    ],
+    "hiddenAbilitie": [
+        "INNERFOCUS"
+    ],
+    "baseTotal": 483,
+    "baseStats": [
+        85,
+        73,
+        70,
+        67,
+        73,
+        115
+    ],
+    "flags": [],
+    "name": "Hypno",
+    "species": "HYPNO",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 169,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 97
+}

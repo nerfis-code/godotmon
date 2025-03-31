@@ -1,0 +1,170 @@
+{
+    "generation": 2,
+    "primaryType": "FAIRY",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "COPYCAT"
+        ],
+        [
+            4,
+            "SING"
+        ],
+        [
+            8,
+            "SWEETKISS"
+        ],
+        [
+            12,
+            "DISARMINGVOICE"
+        ],
+        [
+            16,
+            "ENCORE"
+        ],
+        [
+            20,
+            "CHARM"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AMNESIA",
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GRAVITY",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICYWIND",
+        "INCINERATE",
+        "IRONTAIL",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MAGICCOAT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MISTYTERRAIN",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOFTBOILED",
+        "SOLARBEAM",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THUNDERWAVE",
+        "TRICK",
+        "UPROAR",
+        "WATERPULSE",
+        "WONDERROOM",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "AROMATHERAPY",
+        "BELLYDRUM",
+        "COVET",
+        "FAKETEARS",
+        "HEALPULSE",
+        "METRONOME",
+        "MIMIC",
+        "MISTYTERRAIN",
+        "PRESENT",
+        "SPLASH",
+        "STOREDPOWER",
+        "TICKLE",
+        "WISH"
+    ],
+    "height": 0.3,
+    "weight": 3.0,
+    "abilities": [
+        "CUTECHARM",
+        "MAGICGUARD"
+    ],
+    "hiddenAbilitie": [
+        "FRIENDGUARD"
+    ],
+    "baseTotal": 218,
+    "baseStats": [
+        50,
+        25,
+        28,
+        15,
+        45,
+        55
+    ],
+    "flags": [],
+    "name": "Cleffa",
+    "species": "CLEFFA",
+    "catchRate": 150,
+    "happiness": 140,
+    "baseExp": 44,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 173
+}

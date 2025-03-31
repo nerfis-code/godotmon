@@ -1,0 +1,174 @@
+{
+    "generation": 5,
+    "primaryType": "GROUND",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            4,
+            "DEFENSECURL"
+        ],
+        [
+            8,
+            "POUND"
+        ],
+        [
+            12,
+            "SHADOWPUNCH"
+        ],
+        [
+            16,
+            "CURSE"
+        ],
+        [
+            20,
+            "NIGHTSHADE"
+        ],
+        [
+            24,
+            "STOMPINGTANTRUM"
+        ],
+        [
+            28,
+            "IRONDEFENSE"
+        ],
+        [
+            32,
+            "MEGAPUNCH"
+        ],
+        [
+            36,
+            "SHADOWBALL"
+        ],
+        [
+            40,
+            "HEAVYSLAM"
+        ],
+        [
+            44,
+            "PHANTOMFORCE"
+        ],
+        [
+            48,
+            "HAMMERARM"
+        ],
+        [
+            52,
+            "EARTHQUAKE"
+        ],
+        [
+            56,
+            "DYNAMICPUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "BLOCK",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GYROBALL",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MAGICCOAT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PHANTOMFORCE",
+        "POLTERGEIST",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERPUNCH",
+        "TOXIC"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 92.0,
+    "abilities": [
+        "IRONFIST",
+        "KLUTZ"
+    ],
+    "hiddenAbilitie": [
+        "NOGUARD"
+    ],
+    "baseTotal": 303,
+    "baseStats": [
+        59,
+        74,
+        50,
+        35,
+        35,
+        50
+    ],
+    "flags": [],
+    "name": "Golett",
+    "species": "GOLETT",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 622
+}

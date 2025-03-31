@@ -1,0 +1,1306 @@
+{
+    "generation": 7,
+    "primaryType": "ROCK",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            3,
+            "DEFENSECURL"
+        ],
+        [
+            8,
+            "ROLLOUT"
+        ],
+        [
+            10,
+            "CONFUSERAY"
+        ],
+        [
+            15,
+            "SWIFT"
+        ],
+        [
+            17,
+            "ANCIENTPOWER"
+        ],
+        [
+            22,
+            "SELFDESTRUCT"
+        ],
+        [
+            24,
+            "STEALTHROCK"
+        ],
+        [
+            29,
+            "TAKEDOWN"
+        ],
+        [
+            31,
+            "AUTOTOMIZE"
+        ],
+        [
+            31,
+            "ROCKPOLISH"
+        ],
+        [
+            36,
+            "COSMICPOWER"
+        ],
+        [
+            38,
+            "POWERGEM"
+        ],
+        [
+            43,
+            "DOUBLEEDGE"
+        ],
+        [
+            45,
+            "SHELLSMASH"
+        ],
+        [
+            50,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ATTRACT",
+        "BULLDOZE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "GYROBALL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONHEAD",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TELEKINESIS",
+        "TOXIC",
+        "UTURN",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 40.0,
+    "abilities": [
+        "SHIELDSDOWN"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 440,
+    "baseStats": [
+        60,
+        60,
+        100,
+        60,
+        60,
+        100
+    ],
+    "flags": [],
+    "name": "Minior",
+    "species": "MINIOR",
+    "catchRate": 30,
+    "happiness": 50,
+    "baseExp": 154,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 7,
+            "primaryType": "ROCK",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    3,
+                    "DEFENSECURL"
+                ],
+                [
+                    8,
+                    "ROLLOUT"
+                ],
+                [
+                    10,
+                    "CONFUSERAY"
+                ],
+                [
+                    15,
+                    "SWIFT"
+                ],
+                [
+                    17,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    22,
+                    "SELFDESTRUCT"
+                ],
+                [
+                    24,
+                    "STEALTHROCK"
+                ],
+                [
+                    29,
+                    "TAKEDOWN"
+                ],
+                [
+                    31,
+                    "AUTOTOMIZE"
+                ],
+                [
+                    31,
+                    "ROCKPOLISH"
+                ],
+                [
+                    36,
+                    "COSMICPOWER"
+                ],
+                [
+                    38,
+                    "POWERGEM"
+                ],
+                [
+                    43,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    45,
+                    "SHELLSMASH"
+                ],
+                [
+                    50,
+                    "EXPLOSION"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "ATTRACT",
+                "BULLDOZE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GYROBALL",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONHEAD",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TELEKINESIS",
+                "TOXIC",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 40.0,
+            "abilities": [
+                "SHIELDSDOWN"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 440,
+            "baseStats": [
+                60,
+                60,
+                100,
+                60,
+                60,
+                100
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Meteorito"
+        },
+        {
+            "generation": 7,
+            "primaryType": "ROCK",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    3,
+                    "DEFENSECURL"
+                ],
+                [
+                    8,
+                    "ROLLOUT"
+                ],
+                [
+                    10,
+                    "CONFUSERAY"
+                ],
+                [
+                    15,
+                    "SWIFT"
+                ],
+                [
+                    17,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    22,
+                    "SELFDESTRUCT"
+                ],
+                [
+                    24,
+                    "STEALTHROCK"
+                ],
+                [
+                    29,
+                    "TAKEDOWN"
+                ],
+                [
+                    31,
+                    "AUTOTOMIZE"
+                ],
+                [
+                    31,
+                    "ROCKPOLISH"
+                ],
+                [
+                    36,
+                    "COSMICPOWER"
+                ],
+                [
+                    38,
+                    "POWERGEM"
+                ],
+                [
+                    43,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    45,
+                    "SHELLSMASH"
+                ],
+                [
+                    50,
+                    "EXPLOSION"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "ATTRACT",
+                "BULLDOZE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GYROBALL",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONHEAD",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TELEKINESIS",
+                "TOXIC",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 0.3,
+            "abilities": [
+                "SHIELDSDOWN"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 500,
+            "baseStats": [
+                60,
+                100,
+                60,
+                120,
+                100,
+                60
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 7,
+            "formName": "Forma Núcleo Rojo"
+        },
+        {
+            "generation": 7,
+            "primaryType": "ROCK",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    3,
+                    "DEFENSECURL"
+                ],
+                [
+                    8,
+                    "ROLLOUT"
+                ],
+                [
+                    10,
+                    "CONFUSERAY"
+                ],
+                [
+                    15,
+                    "SWIFT"
+                ],
+                [
+                    17,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    22,
+                    "SELFDESTRUCT"
+                ],
+                [
+                    24,
+                    "STEALTHROCK"
+                ],
+                [
+                    29,
+                    "TAKEDOWN"
+                ],
+                [
+                    31,
+                    "AUTOTOMIZE"
+                ],
+                [
+                    31,
+                    "ROCKPOLISH"
+                ],
+                [
+                    36,
+                    "COSMICPOWER"
+                ],
+                [
+                    38,
+                    "POWERGEM"
+                ],
+                [
+                    43,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    45,
+                    "SHELLSMASH"
+                ],
+                [
+                    50,
+                    "EXPLOSION"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "ATTRACT",
+                "BULLDOZE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GYROBALL",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONHEAD",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TELEKINESIS",
+                "TOXIC",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 0.3,
+            "abilities": [
+                "SHIELDSDOWN"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 500,
+            "baseStats": [
+                60,
+                100,
+                60,
+                120,
+                100,
+                60
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 8,
+            "formName": "Forma Núcleo Naranja"
+        },
+        {
+            "generation": 7,
+            "primaryType": "ROCK",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    3,
+                    "DEFENSECURL"
+                ],
+                [
+                    8,
+                    "ROLLOUT"
+                ],
+                [
+                    10,
+                    "CONFUSERAY"
+                ],
+                [
+                    15,
+                    "SWIFT"
+                ],
+                [
+                    17,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    22,
+                    "SELFDESTRUCT"
+                ],
+                [
+                    24,
+                    "STEALTHROCK"
+                ],
+                [
+                    29,
+                    "TAKEDOWN"
+                ],
+                [
+                    31,
+                    "AUTOTOMIZE"
+                ],
+                [
+                    31,
+                    "ROCKPOLISH"
+                ],
+                [
+                    36,
+                    "COSMICPOWER"
+                ],
+                [
+                    38,
+                    "POWERGEM"
+                ],
+                [
+                    43,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    45,
+                    "SHELLSMASH"
+                ],
+                [
+                    50,
+                    "EXPLOSION"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "ATTRACT",
+                "BULLDOZE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GYROBALL",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONHEAD",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TELEKINESIS",
+                "TOXIC",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 0.3,
+            "abilities": [
+                "SHIELDSDOWN"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 500,
+            "baseStats": [
+                60,
+                100,
+                60,
+                120,
+                100,
+                60
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 9,
+            "formName": "Forma Núcleo Amarillo"
+        },
+        {
+            "generation": 7,
+            "primaryType": "ROCK",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    3,
+                    "DEFENSECURL"
+                ],
+                [
+                    8,
+                    "ROLLOUT"
+                ],
+                [
+                    10,
+                    "CONFUSERAY"
+                ],
+                [
+                    15,
+                    "SWIFT"
+                ],
+                [
+                    17,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    22,
+                    "SELFDESTRUCT"
+                ],
+                [
+                    24,
+                    "STEALTHROCK"
+                ],
+                [
+                    29,
+                    "TAKEDOWN"
+                ],
+                [
+                    31,
+                    "AUTOTOMIZE"
+                ],
+                [
+                    31,
+                    "ROCKPOLISH"
+                ],
+                [
+                    36,
+                    "COSMICPOWER"
+                ],
+                [
+                    38,
+                    "POWERGEM"
+                ],
+                [
+                    43,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    45,
+                    "SHELLSMASH"
+                ],
+                [
+                    50,
+                    "EXPLOSION"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "ATTRACT",
+                "BULLDOZE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GYROBALL",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONHEAD",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TELEKINESIS",
+                "TOXIC",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 0.3,
+            "abilities": [
+                "SHIELDSDOWN"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 500,
+            "baseStats": [
+                60,
+                100,
+                60,
+                120,
+                100,
+                60
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 10,
+            "formName": "Forma Núcleo Verde"
+        },
+        {
+            "generation": 7,
+            "primaryType": "ROCK",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    3,
+                    "DEFENSECURL"
+                ],
+                [
+                    8,
+                    "ROLLOUT"
+                ],
+                [
+                    10,
+                    "CONFUSERAY"
+                ],
+                [
+                    15,
+                    "SWIFT"
+                ],
+                [
+                    17,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    22,
+                    "SELFDESTRUCT"
+                ],
+                [
+                    24,
+                    "STEALTHROCK"
+                ],
+                [
+                    29,
+                    "TAKEDOWN"
+                ],
+                [
+                    31,
+                    "AUTOTOMIZE"
+                ],
+                [
+                    31,
+                    "ROCKPOLISH"
+                ],
+                [
+                    36,
+                    "COSMICPOWER"
+                ],
+                [
+                    38,
+                    "POWERGEM"
+                ],
+                [
+                    43,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    45,
+                    "SHELLSMASH"
+                ],
+                [
+                    50,
+                    "EXPLOSION"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "ATTRACT",
+                "BULLDOZE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GYROBALL",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONHEAD",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TELEKINESIS",
+                "TOXIC",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 0.3,
+            "abilities": [
+                "SHIELDSDOWN"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 500,
+            "baseStats": [
+                60,
+                100,
+                60,
+                120,
+                100,
+                60
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 11,
+            "formName": "Forma Núcleo Azul"
+        },
+        {
+            "generation": 7,
+            "primaryType": "ROCK",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    3,
+                    "DEFENSECURL"
+                ],
+                [
+                    8,
+                    "ROLLOUT"
+                ],
+                [
+                    10,
+                    "CONFUSERAY"
+                ],
+                [
+                    15,
+                    "SWIFT"
+                ],
+                [
+                    17,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    22,
+                    "SELFDESTRUCT"
+                ],
+                [
+                    24,
+                    "STEALTHROCK"
+                ],
+                [
+                    29,
+                    "TAKEDOWN"
+                ],
+                [
+                    31,
+                    "AUTOTOMIZE"
+                ],
+                [
+                    31,
+                    "ROCKPOLISH"
+                ],
+                [
+                    36,
+                    "COSMICPOWER"
+                ],
+                [
+                    38,
+                    "POWERGEM"
+                ],
+                [
+                    43,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    45,
+                    "SHELLSMASH"
+                ],
+                [
+                    50,
+                    "EXPLOSION"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "ATTRACT",
+                "BULLDOZE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GYROBALL",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONHEAD",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TELEKINESIS",
+                "TOXIC",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 0.3,
+            "abilities": [
+                "SHIELDSDOWN"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 500,
+            "baseStats": [
+                60,
+                100,
+                60,
+                120,
+                100,
+                60
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 12,
+            "formName": "Forma Núcleo Añil"
+        },
+        {
+            "generation": 7,
+            "primaryType": "ROCK",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    3,
+                    "DEFENSECURL"
+                ],
+                [
+                    8,
+                    "ROLLOUT"
+                ],
+                [
+                    10,
+                    "CONFUSERAY"
+                ],
+                [
+                    15,
+                    "SWIFT"
+                ],
+                [
+                    17,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    22,
+                    "SELFDESTRUCT"
+                ],
+                [
+                    24,
+                    "STEALTHROCK"
+                ],
+                [
+                    29,
+                    "TAKEDOWN"
+                ],
+                [
+                    31,
+                    "AUTOTOMIZE"
+                ],
+                [
+                    31,
+                    "ROCKPOLISH"
+                ],
+                [
+                    36,
+                    "COSMICPOWER"
+                ],
+                [
+                    38,
+                    "POWERGEM"
+                ],
+                [
+                    43,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    45,
+                    "SHELLSMASH"
+                ],
+                [
+                    50,
+                    "EXPLOSION"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "ATTRACT",
+                "BULLDOZE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GYROBALL",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONHEAD",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TELEKINESIS",
+                "TOXIC",
+                "UTURN",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 0.3,
+            "abilities": [
+                "SHIELDSDOWN"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 500,
+            "baseStats": [
+                60,
+                100,
+                60,
+                120,
+                100,
+                60
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 13,
+            "formName": "Forma Núcleo Violeta"
+        }
+    ],
+    "internationalPokedex": 774
+}

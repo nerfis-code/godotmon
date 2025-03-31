@@ -1,0 +1,189 @@
+{
+    "generation": 6,
+    "primaryType": "ROCK",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "SKULLBASH"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            12,
+            "FURYCUTTER"
+        ],
+        [
+            16,
+            "FURYSWIPES"
+        ],
+        [
+            20,
+            "ANCIENTPOWER"
+        ],
+        [
+            24,
+            "ROCKPOLISH"
+        ],
+        [
+            28,
+            "SLASH"
+        ],
+        [
+            32,
+            "HONECLAWS"
+        ],
+        [
+            36,
+            "RAZORSHELL"
+        ],
+        [
+            42,
+            "SHELLSMASH"
+        ],
+        [
+            48,
+            "CROSSCHOP"
+        ],
+        [
+            54,
+            "STONEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BLIZZARD",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DUALCHOP",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "EMBARGO",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "LASERFOCUS",
+        "LIQUIDATION",
+        "LOWKICK",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "RAZORSHELL",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 96.0,
+    "abilities": [
+        "TOUGHCLAWS",
+        "SNIPER"
+    ],
+    "hiddenAbilitie": [
+        "PICKPOCKET"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        72,
+        105,
+        115,
+        68,
+        54,
+        86
+    ],
+    "flags": [],
+    "name": "Barbaracle",
+    "species": "BARBARACLE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 689
+}

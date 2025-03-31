@@ -1,0 +1,153 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            4,
+            "WITHDRAW"
+        ],
+        [
+            8,
+            "ICESHARD"
+        ],
+        [
+            12,
+            "LEER"
+        ],
+        [
+            16,
+            "WHIRLPOOL"
+        ],
+        [
+            20,
+            "SUPERSONIC"
+        ],
+        [
+            24,
+            "AURORABEAM"
+        ],
+        [
+            28,
+            "PROTECT"
+        ],
+        [
+            32,
+            "RAZORSHELL"
+        ],
+        [
+            36,
+            "IRONDEFENSE"
+        ],
+        [
+            40,
+            "ICEBEAM"
+        ],
+        [
+            44,
+            "SHELLSMASH"
+        ],
+        [
+            48,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FRUSTRATION",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "RAZORSHELL",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TRIATTACK",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "AQUARING",
+        "BUBBLEBEAM",
+        "ICICLESPEAR",
+        "LIFEDEW",
+        "MUDSHOT",
+        "RAPIDSPIN",
+        "ROCKBLAST",
+        "SCREECH",
+        "TAKEDOWN",
+        "WATERPULSE"
+    ],
+    "height": 0.3,
+    "weight": 4.0,
+    "abilities": [
+        "SHELLARMOR",
+        "SKILLLINK"
+    ],
+    "hiddenAbilitie": [
+        "OVERCOAT"
+    ],
+    "baseTotal": 305,
+    "baseStats": [
+        30,
+        65,
+        100,
+        40,
+        45,
+        25
+    ],
+    "flags": [],
+    "name": "Shellder",
+    "species": "SHELLDER",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 90
+}

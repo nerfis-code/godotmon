@@ -1,0 +1,502 @@
+{
+    "generation": 3,
+    "primaryType": "FIRE",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            -1,
+            "ROCKSLIDE"
+        ],
+        [
+            1,
+            "FISSURE"
+        ],
+        [
+            1,
+            "ERUPTION"
+        ],
+        [
+            1,
+            "FLAMETHROWER"
+        ],
+        [
+            1,
+            "DOUBLEEDGE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            12,
+            "BULLDOZE"
+        ],
+        [
+            15,
+            "FLAMEWHEEL"
+        ],
+        [
+            15,
+            "INCINERATE"
+        ],
+        [
+            19,
+            "AMNESIA"
+        ],
+        [
+            22,
+            "LAVAPLUME"
+        ],
+        [
+            26,
+            "EARTHPOWER"
+        ],
+        [
+            29,
+            "CURSE"
+        ],
+        [
+            31,
+            "TAKEDOWN"
+        ],
+        [
+            39,
+            "YAWN"
+        ],
+        [
+            46,
+            "EARTHQUAKE"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONHEAD",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 220.0,
+    "abilities": [
+        "MAGMAARMOR",
+        "SOLIDROCK"
+    ],
+    "hiddenAbilitie": [
+        "ANGERPOINT"
+    ],
+    "baseTotal": 460,
+    "baseStats": [
+        70,
+        100,
+        70,
+        40,
+        105,
+        75
+    ],
+    "flags": [],
+    "name": "Camerupt",
+    "species": "CAMERUPT",
+    "catchRate": 150,
+    "happiness": 50,
+    "baseExp": 161,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 3,
+            "primaryType": "FIRE",
+            "secondaryType": "GROUND",
+            "moves": [
+                [
+                    -1,
+                    "ROCKSLIDE"
+                ],
+                [
+                    1,
+                    "FISSURE"
+                ],
+                [
+                    1,
+                    "ERUPTION"
+                ],
+                [
+                    1,
+                    "FLAMETHROWER"
+                ],
+                [
+                    1,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    1,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "BULLDOZE"
+                ],
+                [
+                    15,
+                    "FLAMEWHEEL"
+                ],
+                [
+                    15,
+                    "INCINERATE"
+                ],
+                [
+                    19,
+                    "AMNESIA"
+                ],
+                [
+                    22,
+                    "LAVAPLUME"
+                ],
+                [
+                    26,
+                    "EARTHPOWER"
+                ],
+                [
+                    29,
+                    "CURSE"
+                ],
+                [
+                    31,
+                    "TAKEDOWN"
+                ],
+                [
+                    39,
+                    "YAWN"
+                ],
+                [
+                    46,
+                    "EARTHQUAKE"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ATTRACT",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLASHCANNON",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INCINERATE",
+                "IRONHEAD",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "OVERHEAT",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROLLOUT",
+                "ROUND",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 1.9,
+            "weight": 220.0,
+            "abilities": [
+                "MAGMAARMOR",
+                "SOLIDROCK"
+            ],
+            "hiddenAbilitie": [
+                "ANGERPOINT"
+            ],
+            "baseTotal": 460,
+            "baseStats": [
+                70,
+                100,
+                70,
+                40,
+                105,
+                75
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Camerupt"
+        },
+        {
+            "generation": 6,
+            "primaryType": "FIRE",
+            "secondaryType": "GROUND",
+            "moves": [
+                [
+                    -1,
+                    "ROCKSLIDE"
+                ],
+                [
+                    1,
+                    "FISSURE"
+                ],
+                [
+                    1,
+                    "ERUPTION"
+                ],
+                [
+                    1,
+                    "FLAMETHROWER"
+                ],
+                [
+                    1,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    1,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "BULLDOZE"
+                ],
+                [
+                    15,
+                    "FLAMEWHEEL"
+                ],
+                [
+                    15,
+                    "INCINERATE"
+                ],
+                [
+                    19,
+                    "AMNESIA"
+                ],
+                [
+                    22,
+                    "LAVAPLUME"
+                ],
+                [
+                    26,
+                    "EARTHPOWER"
+                ],
+                [
+                    29,
+                    "CURSE"
+                ],
+                [
+                    31,
+                    "TAKEDOWN"
+                ],
+                [
+                    39,
+                    "YAWN"
+                ],
+                [
+                    46,
+                    "EARTHQUAKE"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ATTRACT",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLASHCANNON",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INCINERATE",
+                "IRONHEAD",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "OVERHEAT",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROLLOUT",
+                "ROUND",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 2.5,
+            "weight": 320.5,
+            "abilities": [
+                "SHEERFORCE"
+            ],
+            "hiddenAbilitie": [
+                "SHEERFORCE"
+            ],
+            "baseTotal": 560,
+            "baseStats": [
+                70,
+                120,
+                100,
+                20,
+                145,
+                105
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Camerupt"
+        }
+    ],
+    "internationalPokedex": 323
+}

@@ -1,0 +1,179 @@
+{
+    "generation": 3,
+    "primaryType": "BUG",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "DOUBLETEAM"
+        ],
+        [
+            1,
+            "SCREECH"
+        ],
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "BATONPASS"
+        ],
+        [
+            1,
+            "AERIALACE"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            1,
+            "DIG"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "FALSESWIPE"
+        ],
+        [
+            15,
+            "AGILITY"
+        ],
+        [
+            23,
+            "ABSORB"
+        ],
+        [
+            29,
+            "BUGBITE"
+        ],
+        [
+            36,
+            "FURYSWIPES"
+        ],
+        [
+            43,
+            "MINDREADER"
+        ],
+        [
+            50,
+            "SLASH"
+        ],
+        [
+            57,
+            "SWORDSDANCE"
+        ],
+        [
+            64,
+            "XSCISSOR"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "BATONPASS",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CONFIDE",
+        "CUT",
+        "DEFOG",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "LASERFOCUS",
+        "LEECHLIFE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SANDSTORM",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SILVERWIND",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "THIEF",
+        "UPROAR",
+        "UTURN",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 12.0,
+    "abilities": [
+        "SPEEDBOOST"
+    ],
+    "hiddenAbilitie": [
+        "INFILTRATOR"
+    ],
+    "baseTotal": 456,
+    "baseStats": [
+        61,
+        90,
+        45,
+        160,
+        50,
+        50
+    ],
+    "flags": [],
+    "name": "Ninjask",
+    "species": "NINJASK",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 160,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 291
+}

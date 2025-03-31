@@ -1,0 +1,151 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "SMOKESCREEN"
+        ],
+        [
+            1,
+            "TWISTER"
+        ],
+        [
+            15,
+            "FOCUSENERGY"
+        ],
+        [
+            20,
+            "DRAGONBREATH"
+        ],
+        [
+            25,
+            "BUBBLEBEAM"
+        ],
+        [
+            30,
+            "AGILITY"
+        ],
+        [
+            37,
+            "LASERFOCUS"
+        ],
+        [
+            37,
+            "WATERPULSE"
+        ],
+        [
+            44,
+            "DRAGONPULSE"
+        ],
+        [
+            51,
+            "HYDROPUMP"
+        ],
+        [
+            58,
+            "DRAGONDANCE"
+        ],
+        [
+            65,
+            "RAINDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "BLIZZARD",
+        "BOUNCE",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FLIPTURN",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "LASERFOCUS",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TWISTER",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 25.0,
+    "abilities": [
+        "POISONPOINT",
+        "SNIPER"
+    ],
+    "hiddenAbilitie": [
+        "DAMP"
+    ],
+    "baseTotal": 440,
+    "baseStats": [
+        55,
+        65,
+        95,
+        85,
+        95,
+        45
+    ],
+    "flags": [],
+    "name": "Seadra",
+    "species": "SEADRA",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 154,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 117
+}

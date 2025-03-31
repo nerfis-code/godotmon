@@ -1,0 +1,490 @@
+{
+    "generation": 8,
+    "primaryType": "GROUND",
+    "secondaryType": "NORMAL",
+    "moves": [
+        [
+            -1,
+            "HEADLONGRUSH"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "LICK"
+        ],
+        [
+            1,
+            "FAKETEARS"
+        ],
+        [
+            1,
+            "COVET"
+        ],
+        [
+            8,
+            "FURYSWIPES"
+        ],
+        [
+            13,
+            "PAYBACK"
+        ],
+        [
+            17,
+            "SWEETSCENT"
+        ],
+        [
+            22,
+            "SLASH"
+        ],
+        [
+            25,
+            "PLAYNICE"
+        ],
+        [
+            29,
+            "PLAYROUGH"
+        ],
+        [
+            35,
+            "SCARYFACE"
+        ],
+        [
+            41,
+            "REST"
+        ],
+        [
+            41,
+            "SNORE"
+        ],
+        [
+            48,
+            "HIGHHORSEPOWER"
+        ],
+        [
+            56,
+            "THRASH"
+        ],
+        [
+            64,
+            "HAMMERARM"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AVALANCHE",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CHARM",
+        "CLOSECOMBAT",
+        "CRUNCH",
+        "CURSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DRAINPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSPUNCH",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HARDPRESS",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEPUNCH",
+        "LOWKICK",
+        "METALCLAW",
+        "METRONOME",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SCARYFACE",
+        "SEEDBOMB",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERCELLSLAM",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "TRAILBLAZE",
+        "UPROAR"
+    ],
+    "eggMoves": [],
+    "height": 2.4,
+    "weight": 290.0,
+    "abilities": [
+        "GUTS",
+        "BULLETPROOF"
+    ],
+    "hiddenAbilitie": [
+        "UNNERVE"
+    ],
+    "baseTotal": 550,
+    "baseStats": [
+        130,
+        140,
+        105,
+        50,
+        45,
+        80
+    ],
+    "flags": [],
+    "name": "Ursaluna",
+    "species": "URSALUNA",
+    "catchRate": 20,
+    "happiness": 70,
+    "baseExp": 275,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "GROUND",
+            "secondaryType": "NORMAL",
+            "moves": [
+                [
+                    -1,
+                    "HEADLONGRUSH"
+                ],
+                [
+                    1,
+                    "SCRATCH"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "LICK"
+                ],
+                [
+                    1,
+                    "FAKETEARS"
+                ],
+                [
+                    1,
+                    "COVET"
+                ],
+                [
+                    8,
+                    "FURYSWIPES"
+                ],
+                [
+                    13,
+                    "PAYBACK"
+                ],
+                [
+                    17,
+                    "SWEETSCENT"
+                ],
+                [
+                    22,
+                    "SLASH"
+                ],
+                [
+                    25,
+                    "PLAYNICE"
+                ],
+                [
+                    29,
+                    "PLAYROUGH"
+                ],
+                [
+                    35,
+                    "SCARYFACE"
+                ],
+                [
+                    41,
+                    "REST"
+                ],
+                [
+                    41,
+                    "SNORE"
+                ],
+                [
+                    48,
+                    "HIGHHORSEPOWER"
+                ],
+                [
+                    56,
+                    "THRASH"
+                ],
+                [
+                    64,
+                    "HAMMERARM"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AVALANCHE",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULKUP",
+                "BULLDOZE",
+                "CHARM",
+                "CLOSECOMBAT",
+                "CRUNCH",
+                "CURSE",
+                "DIG",
+                "DOUBLEEDGE",
+                "DRAINPUNCH",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FIREPUNCH",
+                "FLING",
+                "FOCUSPUNCH",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "HARDPRESS",
+                "HEAVYSLAM",
+                "HELPINGHAND",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEPUNCH",
+                "LOWKICK",
+                "METALCLAW",
+                "METRONOME",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "ROAR",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "SCARYFACE",
+                "SEEDBOMB",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERCELLSLAM",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDERPUNCH",
+                "TRAILBLAZE",
+                "UPROAR"
+            ],
+            "eggMoves": [],
+            "height": 2.4,
+            "weight": 290.0,
+            "abilities": [
+                "GUTS",
+                "BULLETPROOF"
+            ],
+            "hiddenAbilitie": [
+                "UNNERVE"
+            ],
+            "baseTotal": 550,
+            "baseStats": [
+                130,
+                140,
+                105,
+                50,
+                45,
+                80
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Ursaluna"
+        },
+        {
+            "generation": 9,
+            "primaryType": "GROUND",
+            "secondaryType": "NORMAL",
+            "moves": [
+                [
+                    -1,
+                    "MOONLIGHT"
+                ],
+                [
+                    1,
+                    "HEADLONGRUSH"
+                ],
+                [
+                    1,
+                    "SCRATCH"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "LICK"
+                ],
+                [
+                    8,
+                    "FURYSWIPES"
+                ],
+                [
+                    13,
+                    "PAYBACK"
+                ],
+                [
+                    17,
+                    "HARDEN"
+                ],
+                [
+                    22,
+                    "SLASH"
+                ],
+                [
+                    25,
+                    "PLAYNICE"
+                ],
+                [
+                    35,
+                    "SCARYFACE"
+                ],
+                [
+                    41,
+                    "SNORE"
+                ],
+                [
+                    41,
+                    "REST"
+                ],
+                [
+                    48,
+                    "EARTHPOWER"
+                ],
+                [
+                    56,
+                    "MOONBLAST"
+                ],
+                [
+                    64,
+                    "HAMMERARM"
+                ],
+                [
+                    70,
+                    "BLOODMOON"
+                ]
+            ],
+            "tutorMoves": [
+                "AVALANCHE",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULLDOZE",
+                "CALMMIND",
+                "CRUNCH",
+                "DIG",
+                "DOUBLEEDGE",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FIREPUNCH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "HARDPRESS",
+                "HEAVYSLAM",
+                "HELPINGHAND",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEPUNCH",
+                "LOWKICK",
+                "METALCLAW",
+                "MUDSHOT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "ROAR",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "SCARYFACE",
+                "SEEDBOMB",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNARL",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THIEF",
+                "THUNDERPUNCH",
+                "TRAILBLAZE",
+                "UPROAR",
+                "VACUUMWAVE"
+            ],
+            "eggMoves": [],
+            "height": 2.7,
+            "weight": 333.0,
+            "abilities": [
+                "MINDSEYE"
+            ],
+            "hiddenAbilitie": [
+                "UNNERVE"
+            ],
+            "baseTotal": 555,
+            "baseStats": [
+                113,
+                70,
+                120,
+                52,
+                135,
+                65
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Luna Carmesí"
+        }
+    ],
+    "internationalPokedex": 901
+}

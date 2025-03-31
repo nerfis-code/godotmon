@@ -1,0 +1,147 @@
+{
+    "generation": 4,
+    "primaryType": "GRASS",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            5,
+            "LEAFAGE"
+        ],
+        [
+            10,
+            "MIST"
+        ],
+        [
+            15,
+            "ICESHARD"
+        ],
+        [
+            20,
+            "RAZORLEAF"
+        ],
+        [
+            25,
+            "ICYWIND"
+        ],
+        [
+            30,
+            "SWAGGER"
+        ],
+        [
+            35,
+            "INGRAIN"
+        ],
+        [
+            41,
+            "WOODHAMMER"
+        ],
+        [
+            45,
+            "BLIZZARD"
+        ],
+        [
+            50,
+            "SHEERCOLD"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "DOUBLEEDGE",
+        "GROWTH",
+        "LEECHSEED",
+        "MAGICALLEAF",
+        "MIST",
+        "SEEDBOMB",
+        "SKULLBASH",
+        "STOMP"
+    ],
+    "height": 1.0,
+    "weight": 50.5,
+    "abilities": [
+        "SNOWWARNING"
+    ],
+    "hiddenAbilitie": [
+        "SOUNDPROOF"
+    ],
+    "baseTotal": 334,
+    "baseStats": [
+        60,
+        62,
+        50,
+        40,
+        62,
+        60
+    ],
+    "flags": [],
+    "name": "Snover",
+    "species": "SNOVER",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 67,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 459
+}

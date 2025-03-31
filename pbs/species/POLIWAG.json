@@ -1,0 +1,141 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "HYPNOSIS"
+        ],
+        [
+            6,
+            "POUND"
+        ],
+        [
+            12,
+            "MUDSHOT"
+        ],
+        [
+            18,
+            "BUBBLEBEAM"
+        ],
+        [
+            24,
+            "RAINDANCE"
+        ],
+        [
+            30,
+            "BODYSLAM"
+        ],
+        [
+            36,
+            "EARTHPOWER"
+        ],
+        [
+            42,
+            "HYDROPUMP"
+        ],
+        [
+            48,
+            "BELLYDRUM"
+        ],
+        [
+            54,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HAIL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "THIEF",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "BUBBLEBEAM",
+        "ENCORE",
+        "ENDEAVOR",
+        "HAZE",
+        "MINDREADER",
+        "MIST",
+        "MUDSHOT",
+        "SPLASH",
+        "WATERPULSE"
+    ],
+    "height": 0.6,
+    "weight": 12.4,
+    "abilities": [
+        "WATERABSORB",
+        "DAMP"
+    ],
+    "hiddenAbilitie": [
+        "SWIFTSWIM"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        40,
+        50,
+        40,
+        90,
+        40,
+        40
+    ],
+    "flags": [],
+    "name": "Poliwag",
+    "species": "POLIWAG",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 60
+}

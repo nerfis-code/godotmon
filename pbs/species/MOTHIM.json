@@ -1,0 +1,159 @@
+{
+    "generation": 4,
+    "primaryType": "BUG",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "QUIVERDANCE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            10,
+            "PROTECT"
+        ],
+        [
+            15,
+            "BUGBITE"
+        ],
+        [
+            20,
+            "STRINGSHOT"
+        ],
+        [
+            23,
+            "CONFUSION"
+        ],
+        [
+            26,
+            "GUST"
+        ],
+        [
+            29,
+            "POISONPOWDER"
+        ],
+        [
+            32,
+            "PSYBEAM"
+        ],
+        [
+            35,
+            "ROOST"
+        ],
+        [
+            38,
+            "STRUGGLEBUG"
+        ],
+        [
+            41,
+            "AIRSLASH"
+        ],
+        [
+            44,
+            "PSYCHIC"
+        ],
+        [
+            47,
+            "LUNGE"
+        ],
+        [
+            50,
+            "BUGBUZZ"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ELECTROWEB",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SILVERWIND",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TWISTER",
+        "UTURN",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 23.3,
+    "abilities": [
+        "SWARM"
+    ],
+    "hiddenAbilitie": [
+        "TINTEDLENS"
+    ],
+    "baseTotal": 424,
+    "baseStats": [
+        70,
+        94,
+        50,
+        66,
+        94,
+        50
+    ],
+    "flags": [
+        "DefaultForm_0"
+    ],
+    "name": "Mothim",
+    "species": "MOTHIM",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 148,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 0,
+    "forms": [],
+    "internationalPokedex": 414
+}

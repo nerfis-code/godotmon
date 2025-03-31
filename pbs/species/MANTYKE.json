@@ -1,0 +1,156 @@
+{
+    "generation": 4,
+    "primaryType": "WATER",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            4,
+            "SUPERSONIC"
+        ],
+        [
+            8,
+            "WINGATTACK"
+        ],
+        [
+            12,
+            "WATERPULSE"
+        ],
+        [
+            16,
+            "WIDEGUARD"
+        ],
+        [
+            20,
+            "AGILITY"
+        ],
+        [
+            24,
+            "BUBBLEBEAM"
+        ],
+        [
+            28,
+            "HEADBUTT"
+        ],
+        [
+            32,
+            "AIRSLASH"
+        ],
+        [
+            36,
+            "AQUARING"
+        ],
+        [
+            40,
+            "BOUNCE"
+        ],
+        [
+            44,
+            "TAKEDOWN"
+        ],
+        [
+            48,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "AMNESIA",
+        "ATTRACT",
+        "BLIZZARD",
+        "BOUNCE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HAIL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "CONFUSERAY",
+        "HAZE",
+        "HYDROPUMP",
+        "MIRRORCOAT",
+        "SLAM",
+        "SPLASH",
+        "TAILWIND",
+        "TWISTER",
+        "WIDEGUARD"
+    ],
+    "height": 1.0,
+    "weight": 65.0,
+    "abilities": [
+        "SWIFTSWIM",
+        "WATERABSORB"
+    ],
+    "hiddenAbilitie": [
+        "WATERVEIL"
+    ],
+    "baseTotal": 345,
+    "baseStats": [
+        45,
+        20,
+        50,
+        50,
+        60,
+        120
+    ],
+    "flags": [],
+    "name": "Mantyke",
+    "species": "MANTYKE",
+    "catchRate": 25,
+    "happiness": 50,
+    "baseExp": 69,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 458
+}

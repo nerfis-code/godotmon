@@ -1,0 +1,160 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            4,
+            "WATERGUN"
+        ],
+        [
+            8,
+            "CONFUSERAY"
+        ],
+        [
+            12,
+            "RAPIDSPIN"
+        ],
+        [
+            16,
+            "MINIMIZE"
+        ],
+        [
+            20,
+            "SWIFT"
+        ],
+        [
+            24,
+            "PSYBEAM"
+        ],
+        [
+            28,
+            "BRINE"
+        ],
+        [
+            32,
+            "LIGHTSCREEN"
+        ],
+        [
+            36,
+            "POWERGEM"
+        ],
+        [
+            40,
+            "PSYCHIC"
+        ],
+        [
+            44,
+            "SURF"
+        ],
+        [
+            48,
+            "RECOVER"
+        ],
+        [
+            52,
+            "COSMICPOWER"
+        ],
+        [
+            56,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "BLIZZARD",
+        "BRINE",
+        "CONFIDE",
+        "COSMICPOWER",
+        "DAZZLINGGLEAM",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FLIPTURN",
+        "FRUSTRATION",
+        "GRAVITY",
+        "GYROBALL",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POWERGEM",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRIATTACK",
+        "TWISTER",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 34.5,
+    "abilities": [
+        "ILLUMINATE",
+        "NATURALCURE"
+    ],
+    "hiddenAbilitie": [
+        "ANALYTIC"
+    ],
+    "baseTotal": 340,
+    "baseStats": [
+        30,
+        45,
+        55,
+        85,
+        70,
+        55
+    ],
+    "flags": [],
+    "name": "Staryu",
+    "species": "STARYU",
+    "catchRate": 225,
+    "happiness": 50,
+    "baseExp": 68,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 120
+}

@@ -1,0 +1,162 @@
+{
+    "generation": 3,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            3,
+            "ABSORB"
+        ],
+        [
+            6,
+            "ASTONISH"
+        ],
+        [
+            9,
+            "GROWTH"
+        ],
+        [
+            12,
+            "ROLLOUT"
+        ],
+        [
+            15,
+            "MEGADRAIN"
+        ],
+        [
+            18,
+            "PAYBACK"
+        ],
+        [
+            21,
+            "NATUREPOWER"
+        ],
+        [
+            21,
+            "HEADBUTT"
+        ],
+        [
+            24,
+            "SUNNYDAY"
+        ],
+        [
+            27,
+            "SYNTHESIS"
+        ],
+        [
+            30,
+            "SUCKERPUNCH"
+        ],
+        [
+            33,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ATTRACT",
+        "BEATUP",
+        "BODYSLAM",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPLOSION",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "POWERSWAP",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "BEATUP",
+        "DEFOG",
+        "FOULPLAY",
+        "GRASSYTERRAIN",
+        "LEECHSEED",
+        "NIGHTSLASH",
+        "POWERSWAP",
+        "QUICKATTACK",
+        "TAKEDOWN",
+        "WORRYSEED"
+    ],
+    "height": 0.5,
+    "weight": 4.0,
+    "abilities": [
+        "CHLOROPHYLL",
+        "EARLYBIRD"
+    ],
+    "hiddenAbilitie": [
+        "PICKPOCKET"
+    ],
+    "baseTotal": 220,
+    "baseStats": [
+        40,
+        40,
+        50,
+        30,
+        30,
+        30
+    ],
+    "flags": [],
+    "name": "Seedot",
+    "species": "SEEDOT",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 44,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 273
+}

@@ -1,0 +1,876 @@
+{
+    "generation": 6,
+    "primaryType": "FAIRY",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "VINEWHIP"
+        ],
+        [
+            6,
+            "FAIRYWIND"
+        ],
+        [
+            10,
+            "LUCKYCHANT"
+        ],
+        [
+            10,
+            "SAFEGUARD"
+        ],
+        [
+            15,
+            "RAZORLEAF"
+        ],
+        [
+            20,
+            "WISH"
+        ],
+        [
+            22,
+            "MAGICALLEAF"
+        ],
+        [
+            24,
+            "GRASSYTERRAIN"
+        ],
+        [
+            28,
+            "PETALBLIZZARD"
+        ],
+        [
+            33,
+            "AROMATHERAPY"
+        ],
+        [
+            33,
+            "SYNTHESIS"
+        ],
+        [
+            37,
+            "MISTYTERRAIN"
+        ],
+        [
+            41,
+            "MOONBLAST"
+        ],
+        [
+            45,
+            "PETALDANCE"
+        ],
+        [
+            48,
+            "SOLARBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "MAGICCOAT",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "TOXIC",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "CAMOUFLAGE",
+        "CAPTIVATE",
+        "COPYCAT",
+        "TEARFULLOOK"
+    ],
+    "height": 0.1,
+    "weight": 0.1,
+    "abilities": [
+        "FLOWERVEIL"
+    ],
+    "hiddenAbilitie": [
+        "SYMBIOSIS"
+    ],
+    "baseTotal": 303,
+    "baseStats": [
+        44,
+        38,
+        39,
+        42,
+        61,
+        79
+    ],
+    "flags": [
+        "InheritFormFromMother"
+    ],
+    "name": "Flabébé",
+    "species": "FLABEBE",
+    "catchRate": 225,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 100,
+    "forms": [
+        {
+            "generation": 6,
+            "primaryType": "FAIRY",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    6,
+                    "FAIRYWIND"
+                ],
+                [
+                    10,
+                    "LUCKYCHANT"
+                ],
+                [
+                    10,
+                    "SAFEGUARD"
+                ],
+                [
+                    15,
+                    "RAZORLEAF"
+                ],
+                [
+                    20,
+                    "WISH"
+                ],
+                [
+                    22,
+                    "MAGICALLEAF"
+                ],
+                [
+                    24,
+                    "GRASSYTERRAIN"
+                ],
+                [
+                    28,
+                    "PETALBLIZZARD"
+                ],
+                [
+                    33,
+                    "AROMATHERAPY"
+                ],
+                [
+                    33,
+                    "SYNTHESIS"
+                ],
+                [
+                    37,
+                    "MISTYTERRAIN"
+                ],
+                [
+                    41,
+                    "MOONBLAST"
+                ],
+                [
+                    45,
+                    "PETALDANCE"
+                ],
+                [
+                    48,
+                    "SOLARBEAM"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ALLYSWITCH",
+                "ATTRACT",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "HEALBELL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "MAGICCOAT",
+                "MIMIC",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "TOXIC",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "CAMOUFLAGE",
+                "CAPTIVATE",
+                "COPYCAT",
+                "TEARFULLOOK"
+            ],
+            "height": 0.1,
+            "weight": 0.1,
+            "abilities": [
+                "FLOWERVEIL"
+            ],
+            "hiddenAbilitie": [
+                "SYMBIOSIS"
+            ],
+            "baseTotal": 303,
+            "baseStats": [
+                44,
+                38,
+                39,
+                42,
+                61,
+                79
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 0,
+            "formName": "Forma Flor Roja"
+        },
+        {
+            "generation": 6,
+            "primaryType": "FAIRY",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    6,
+                    "FAIRYWIND"
+                ],
+                [
+                    10,
+                    "LUCKYCHANT"
+                ],
+                [
+                    10,
+                    "SAFEGUARD"
+                ],
+                [
+                    15,
+                    "RAZORLEAF"
+                ],
+                [
+                    20,
+                    "WISH"
+                ],
+                [
+                    22,
+                    "MAGICALLEAF"
+                ],
+                [
+                    24,
+                    "GRASSYTERRAIN"
+                ],
+                [
+                    28,
+                    "PETALBLIZZARD"
+                ],
+                [
+                    33,
+                    "AROMATHERAPY"
+                ],
+                [
+                    33,
+                    "SYNTHESIS"
+                ],
+                [
+                    37,
+                    "MISTYTERRAIN"
+                ],
+                [
+                    41,
+                    "MOONBLAST"
+                ],
+                [
+                    45,
+                    "PETALDANCE"
+                ],
+                [
+                    48,
+                    "SOLARBEAM"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ALLYSWITCH",
+                "ATTRACT",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "HEALBELL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "MAGICCOAT",
+                "MIMIC",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "TOXIC",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "CAMOUFLAGE",
+                "CAPTIVATE",
+                "COPYCAT",
+                "TEARFULLOOK"
+            ],
+            "height": 0.1,
+            "weight": 0.1,
+            "abilities": [
+                "FLOWERVEIL"
+            ],
+            "hiddenAbilitie": [
+                "SYMBIOSIS"
+            ],
+            "baseTotal": 303,
+            "baseStats": [
+                44,
+                38,
+                39,
+                42,
+                61,
+                79
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 1,
+            "formName": "Forma Flor Amarilla"
+        },
+        {
+            "generation": 6,
+            "primaryType": "FAIRY",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    6,
+                    "FAIRYWIND"
+                ],
+                [
+                    10,
+                    "LUCKYCHANT"
+                ],
+                [
+                    10,
+                    "SAFEGUARD"
+                ],
+                [
+                    15,
+                    "RAZORLEAF"
+                ],
+                [
+                    20,
+                    "WISH"
+                ],
+                [
+                    22,
+                    "MAGICALLEAF"
+                ],
+                [
+                    24,
+                    "GRASSYTERRAIN"
+                ],
+                [
+                    28,
+                    "PETALBLIZZARD"
+                ],
+                [
+                    33,
+                    "AROMATHERAPY"
+                ],
+                [
+                    33,
+                    "SYNTHESIS"
+                ],
+                [
+                    37,
+                    "MISTYTERRAIN"
+                ],
+                [
+                    41,
+                    "MOONBLAST"
+                ],
+                [
+                    45,
+                    "PETALDANCE"
+                ],
+                [
+                    48,
+                    "SOLARBEAM"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ALLYSWITCH",
+                "ATTRACT",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "HEALBELL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "MAGICCOAT",
+                "MIMIC",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "TOXIC",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "CAMOUFLAGE",
+                "CAPTIVATE",
+                "COPYCAT",
+                "TEARFULLOOK"
+            ],
+            "height": 0.1,
+            "weight": 0.1,
+            "abilities": [
+                "FLOWERVEIL"
+            ],
+            "hiddenAbilitie": [
+                "SYMBIOSIS"
+            ],
+            "baseTotal": 303,
+            "baseStats": [
+                44,
+                38,
+                39,
+                42,
+                61,
+                79
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 2,
+            "formName": "Forma Flor Naranja"
+        },
+        {
+            "generation": 6,
+            "primaryType": "FAIRY",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    6,
+                    "FAIRYWIND"
+                ],
+                [
+                    10,
+                    "LUCKYCHANT"
+                ],
+                [
+                    10,
+                    "SAFEGUARD"
+                ],
+                [
+                    15,
+                    "RAZORLEAF"
+                ],
+                [
+                    20,
+                    "WISH"
+                ],
+                [
+                    22,
+                    "MAGICALLEAF"
+                ],
+                [
+                    24,
+                    "GRASSYTERRAIN"
+                ],
+                [
+                    28,
+                    "PETALBLIZZARD"
+                ],
+                [
+                    33,
+                    "AROMATHERAPY"
+                ],
+                [
+                    33,
+                    "SYNTHESIS"
+                ],
+                [
+                    37,
+                    "MISTYTERRAIN"
+                ],
+                [
+                    41,
+                    "MOONBLAST"
+                ],
+                [
+                    45,
+                    "PETALDANCE"
+                ],
+                [
+                    48,
+                    "SOLARBEAM"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ALLYSWITCH",
+                "ATTRACT",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "HEALBELL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "MAGICCOAT",
+                "MIMIC",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "TOXIC",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "CAMOUFLAGE",
+                "CAPTIVATE",
+                "COPYCAT",
+                "TEARFULLOOK"
+            ],
+            "height": 0.1,
+            "weight": 0.1,
+            "abilities": [
+                "FLOWERVEIL"
+            ],
+            "hiddenAbilitie": [
+                "SYMBIOSIS"
+            ],
+            "baseTotal": 303,
+            "baseStats": [
+                44,
+                38,
+                39,
+                42,
+                61,
+                79
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 3,
+            "formName": "Forma Flor Azul"
+        },
+        {
+            "generation": 6,
+            "primaryType": "FAIRY",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "VINEWHIP"
+                ],
+                [
+                    6,
+                    "FAIRYWIND"
+                ],
+                [
+                    10,
+                    "LUCKYCHANT"
+                ],
+                [
+                    10,
+                    "SAFEGUARD"
+                ],
+                [
+                    15,
+                    "RAZORLEAF"
+                ],
+                [
+                    20,
+                    "WISH"
+                ],
+                [
+                    22,
+                    "MAGICALLEAF"
+                ],
+                [
+                    24,
+                    "GRASSYTERRAIN"
+                ],
+                [
+                    28,
+                    "PETALBLIZZARD"
+                ],
+                [
+                    33,
+                    "AROMATHERAPY"
+                ],
+                [
+                    33,
+                    "SYNTHESIS"
+                ],
+                [
+                    37,
+                    "MISTYTERRAIN"
+                ],
+                [
+                    41,
+                    "MOONBLAST"
+                ],
+                [
+                    45,
+                    "PETALDANCE"
+                ],
+                [
+                    48,
+                    "SOLARBEAM"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ALLYSWITCH",
+                "ATTRACT",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GRASSKNOT",
+                "HEALBELL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "MAGICCOAT",
+                "MIMIC",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SYNTHESIS",
+                "TOXIC",
+                "WORRYSEED"
+            ],
+            "eggMoves": [
+                "CAMOUFLAGE",
+                "CAPTIVATE",
+                "COPYCAT",
+                "TEARFULLOOK"
+            ],
+            "height": 0.1,
+            "weight": 0.1,
+            "abilities": [
+                "FLOWERVEIL"
+            ],
+            "hiddenAbilitie": [
+                "SYMBIOSIS"
+            ],
+            "baseTotal": 303,
+            "baseStats": [
+                44,
+                38,
+                39,
+                42,
+                61,
+                79
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 4,
+            "formName": "Forma Flor Blanca"
+        }
+    ],
+    "internationalPokedex": 669
+}

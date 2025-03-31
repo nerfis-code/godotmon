@@ -1,0 +1,447 @@
+{
+    "generation": 5,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "SOAK"
+        ],
+        [
+            11,
+            "WATERSPORT"
+        ],
+        [
+            13,
+            "FOCUSENERGY"
+        ],
+        [
+            18,
+            "RAZORSHELL"
+        ],
+        [
+            21,
+            "FURYCUTTER"
+        ],
+        [
+            26,
+            "WATERPULSE"
+        ],
+        [
+            29,
+            "REVENGE"
+        ],
+        [
+            29,
+            "AERIALACE"
+        ],
+        [
+            34,
+            "AQUAJET"
+        ],
+        [
+            37,
+            "ENCORE"
+        ],
+        [
+            42,
+            "AQUATAIL"
+        ],
+        [
+            45,
+            "RETALIATE"
+        ],
+        [
+            50,
+            "SWORDSDANCE"
+        ],
+        [
+            53,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HAIL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TOXIC",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WORKUP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 24.5,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "SHELLARMOR"
+    ],
+    "baseTotal": 413,
+    "baseStats": [
+        75,
+        75,
+        60,
+        60,
+        83,
+        60
+    ],
+    "flags": [],
+    "name": "Dewott",
+    "species": "DEWOTT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 145,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "SOAK"
+                ],
+                [
+                    11,
+                    "WATERSPORT"
+                ],
+                [
+                    13,
+                    "FOCUSENERGY"
+                ],
+                [
+                    18,
+                    "RAZORSHELL"
+                ],
+                [
+                    21,
+                    "FURYCUTTER"
+                ],
+                [
+                    26,
+                    "WATERPULSE"
+                ],
+                [
+                    29,
+                    "REVENGE"
+                ],
+                [
+                    29,
+                    "AERIALACE"
+                ],
+                [
+                    34,
+                    "AQUAJET"
+                ],
+                [
+                    37,
+                    "ENCORE"
+                ],
+                [
+                    42,
+                    "AQUATAIL"
+                ],
+                [
+                    45,
+                    "RETALIATE"
+                ],
+                [
+                    50,
+                    "SWORDSDANCE"
+                ],
+                [
+                    53,
+                    "HYDROPUMP"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AQUATAIL",
+                "ATTRACT",
+                "BLIZZARD",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DIG",
+                "DIVE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "FRUSTRATION",
+                "GRASSKNOT",
+                "HAIL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONTAIL",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROCKSMASH",
+                "ROUND",
+                "SCALD",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAUNT",
+                "TOXIC",
+                "WATERFALL",
+                "WATERPLEDGE",
+                "WATERPULSE",
+                "WORKUP",
+                "XSCISSOR"
+            ],
+            "eggMoves": [],
+            "height": 0.8,
+            "weight": 24.5,
+            "abilities": [
+                "TORRENT"
+            ],
+            "hiddenAbilitie": [
+                "SHELLARMOR"
+            ],
+            "baseTotal": 413,
+            "baseStats": [
+                75,
+                75,
+                60,
+                60,
+                83,
+                60
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Dewott"
+        },
+        {
+            "generation": 8,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "SOAK"
+                ],
+                [
+                    11,
+                    "WATERSPORT"
+                ],
+                [
+                    13,
+                    "FOCUSENERGY"
+                ],
+                [
+                    18,
+                    "RAZORSHELL"
+                ],
+                [
+                    21,
+                    "FURYCUTTER"
+                ],
+                [
+                    26,
+                    "WATERPULSE"
+                ],
+                [
+                    29,
+                    "REVENGE"
+                ],
+                [
+                    29,
+                    "AERIALACE"
+                ],
+                [
+                    34,
+                    "AQUAJET"
+                ],
+                [
+                    37,
+                    "ENCORE"
+                ],
+                [
+                    42,
+                    "AQUATAIL"
+                ],
+                [
+                    45,
+                    "RETALIATE"
+                ],
+                [
+                    50,
+                    "SWORDSDANCE"
+                ],
+                [
+                    53,
+                    "HYDROPUMP"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AQUATAIL",
+                "ATTRACT",
+                "BLIZZARD",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DIG",
+                "DIVE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLING",
+                "FRUSTRATION",
+                "GRASSKNOT",
+                "HAIL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONTAIL",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROCKSMASH",
+                "ROUND",
+                "SCALD",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAUNT",
+                "TOXIC",
+                "WATERFALL",
+                "WATERPLEDGE",
+                "WATERPULSE",
+                "WORKUP",
+                "XSCISSOR"
+            ],
+            "eggMoves": [],
+            "height": 0.8,
+            "weight": 24.5,
+            "abilities": [
+                "TORRENT"
+            ],
+            "hiddenAbilitie": [
+                "SHELLARMOR"
+            ],
+            "baseTotal": 413,
+            "baseStats": [
+                75,
+                75,
+                60,
+                60,
+                83,
+                60
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Dewott"
+        }
+    ],
+    "internationalPokedex": 502
+}

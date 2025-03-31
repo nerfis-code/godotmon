@@ -1,0 +1,157 @@
+{
+    "generation": 9,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            -1,
+            "SUNNYDAY"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "THUNDERWAVE"
+        ],
+        [
+            1,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            7,
+            "SPARK"
+        ],
+        [
+            14,
+            "BULLDOZE"
+        ],
+        [
+            21,
+            "CHARGEBEAM"
+        ],
+        [
+            28,
+            "TRIATTACK"
+        ],
+        [
+            35,
+            "SCREECH"
+        ],
+        [
+            42,
+            "HEAVYSLAM"
+        ],
+        [
+            49,
+            "METALSOUND"
+        ],
+        [
+            56,
+            "DISCHARGE"
+        ],
+        [
+            63,
+            "EARTHPOWER"
+        ],
+        [
+            70,
+            "MIRRORCOAT"
+        ],
+        [
+            77,
+            "GRAVITY"
+        ],
+        [
+            84,
+            "ZAPCANNON"
+        ],
+        [
+            91,
+            "MAGNETICFLUX"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CHARGE",
+        "CHARGEBEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HEAVYSLAM",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "METALSOUND",
+        "MUDSHOT",
+        "POWERGEM",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCORCHINGSANDS",
+        "SLEEPTALK",
+        "SPIKES",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERCELLSLAM",
+        "SWIFT",
+        "TAKEDOWN",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 2.3,
+    "weight": 60.0,
+    "abilities": [
+        "PROTOSYNTHESIS"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        85,
+        81,
+        97,
+        101,
+        121,
+        85
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Pelarena",
+    "species": "SANDYSHOCKS",
+    "catchRate": 30,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 989
+}

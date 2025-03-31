@@ -1,0 +1,170 @@
+{
+    "generation": 3,
+    "primaryType": "ROCK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            4,
+            "HARDEN"
+        ],
+        [
+            7,
+            "BLOCK"
+        ],
+        [
+            10,
+            "ROCKTHROW"
+        ],
+        [
+            13,
+            "THUNDERWAVE"
+        ],
+        [
+            16,
+            "REST"
+        ],
+        [
+            19,
+            "SPARK"
+        ],
+        [
+            22,
+            "ROCKSLIDE"
+        ],
+        [
+            25,
+            "POWERGEM"
+        ],
+        [
+            28,
+            "ROCKBLAST"
+        ],
+        [
+            31,
+            "DISCHARGE"
+        ],
+        [
+            34,
+            "SANDSTORM"
+        ],
+        [
+            37,
+            "EARTHPOWER"
+        ],
+        [
+            40,
+            "STONEEDGE"
+        ],
+        [
+            43,
+            "LOCKON"
+        ],
+        [
+            43,
+            "ZAPCANNON"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BLOCK",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREPUNCH",
+        "FRUSTRATION",
+        "GRAVITY",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "IRONDEFENSE",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TORMENT",
+        "VOLTSWITCH"
+    ],
+    "eggMoves": [
+        "BLOCK",
+        "DOUBLEEDGE",
+        "ROLLOUT",
+        "WIDEGUARD"
+    ],
+    "height": 1.0,
+    "weight": 97.0,
+    "abilities": [
+        "STURDY",
+        "MAGNETPULL"
+    ],
+    "hiddenAbilitie": [
+        "SANDFORCE"
+    ],
+    "baseTotal": 375,
+    "baseStats": [
+        30,
+        45,
+        135,
+        30,
+        45,
+        90
+    ],
+    "flags": [],
+    "name": "Nosepass",
+    "species": "NOSEPASS",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 75,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 299
+}

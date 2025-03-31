@@ -1,0 +1,140 @@
+{
+    "generation": 8,
+    "primaryType": "GHOST",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            6,
+            "DOUBLEKICK"
+        ],
+        [
+            12,
+            "HEX"
+        ],
+        [
+            18,
+            "STOMP"
+        ],
+        [
+            24,
+            "CONFUSERAY"
+        ],
+        [
+            30,
+            "HAZE"
+        ],
+        [
+            36,
+            "SHADOWBALL"
+        ],
+        [
+            42,
+            "TAKEDOWN"
+        ],
+        [
+            48,
+            "AGILITY"
+        ],
+        [
+            54,
+            "THRASH"
+        ],
+        [
+            60,
+            "DISABLE"
+        ],
+        [
+            66,
+            "DOUBLEEDGE"
+        ],
+        [
+            72,
+            "NASTYPLOT"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ASSURANCE",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CALMMIND",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LASHOUT",
+        "MIMIC",
+        "MUDSHOT",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PHANTOMFORCE",
+        "PROTECT",
+        "PSYCHOCUT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TOXIC",
+        "UPROAR",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 44.5,
+    "abilities": [
+        "GRIMNEIGH"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 580,
+    "baseStats": [
+        100,
+        65,
+        60,
+        130,
+        145,
+        80
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Spectrier",
+    "species": "SPECTRIER",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 897
+}

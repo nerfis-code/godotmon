@@ -1,0 +1,197 @@
+{
+    "generation": 4,
+    "primaryType": "GROUND",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "THUNDERFANG"
+        ],
+        [
+            1,
+            "ICEFANG"
+        ],
+        [
+            1,
+            "FIREFANG"
+        ],
+        [
+            1,
+            "POISONJAB"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "SLASH"
+        ],
+        [
+            13,
+            "QUICKATTACK"
+        ],
+        [
+            16,
+            "FURYCUTTER"
+        ],
+        [
+            19,
+            "KNOCKOFF"
+        ],
+        [
+            19,
+            "MUDSLAP"
+        ],
+        [
+            22,
+            "ACROBATICS"
+        ],
+        [
+            27,
+            "NIGHTSLASH"
+        ],
+        [
+            30,
+            "UTURN"
+        ],
+        [
+            35,
+            "SCREECH"
+        ],
+        [
+            40,
+            "XSCISSOR"
+        ],
+        [
+            45,
+            "EARTHQUAKE"
+        ],
+        [
+            45,
+            "CRABHAMMER"
+        ],
+        [
+            50,
+            "SWORDSDANCE"
+        ],
+        [
+            55,
+            "GUILLOTINE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AQUATAIL",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BUGBITE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DARKPULSE",
+        "DEFOG",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELWING",
+        "STONEEDGE",
+        "STRENGTH",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TORMENT",
+        "UTURN",
+        "VENOSHOCK",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 42.5,
+    "abilities": [
+        "HYPERCUTTER",
+        "SANDVEIL"
+    ],
+    "hiddenAbilitie": [
+        "POISONHEAL"
+    ],
+    "baseTotal": 510,
+    "baseStats": [
+        75,
+        95,
+        125,
+        95,
+        45,
+        75
+    ],
+    "flags": [],
+    "name": "Gliscor",
+    "species": "GLISCOR",
+    "catchRate": 30,
+    "happiness": 50,
+    "baseExp": 179,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 472
+}

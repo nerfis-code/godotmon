@@ -1,0 +1,144 @@
+{
+    "generation": 1,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "PLUCK"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "LEER"
+        ],
+        [
+            8,
+            "ASSURANCE"
+        ],
+        [
+            11,
+            "FURYATTACK"
+        ],
+        [
+            15,
+            "AERIALACE"
+        ],
+        [
+            18,
+            "WINGATTACK"
+        ],
+        [
+            23,
+            "TAKEDOWN"
+        ],
+        [
+            27,
+            "AGILITY"
+        ],
+        [
+            32,
+            "FOCUSENERGY"
+        ],
+        [
+            36,
+            "ROOST"
+        ],
+        [
+            41,
+            "DRILLPECK"
+        ],
+        [
+            45,
+            "DRILLRUN"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LASERFOCUS",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "THROATCHOP",
+        "TWISTER",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 38.0,
+    "abilities": [
+        "KEENEYE"
+    ],
+    "hiddenAbilitie": [
+        "SNIPER"
+    ],
+    "baseTotal": 442,
+    "baseStats": [
+        65,
+        90,
+        65,
+        100,
+        61,
+        61
+    ],
+    "flags": [],
+    "name": "Fearow",
+    "species": "FEAROW",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 155,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 22
+}

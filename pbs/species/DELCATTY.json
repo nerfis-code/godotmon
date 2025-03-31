@@ -1,0 +1,179 @@
+{
+    "generation": 3,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "FAKEOUT"
+        ],
+        [
+            1,
+            "SING"
+        ],
+        [
+            1,
+            "DISARMINGVOICE"
+        ],
+        [
+            1,
+            "FURYSWIPES"
+        ],
+        [
+            1,
+            "COPYCAT"
+        ],
+        [
+            1,
+            "PAYBACK"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "FACADE"
+        ],
+        [
+            1,
+            "COVET"
+        ],
+        [
+            1,
+            "HEALBELL"
+        ],
+        [
+            1,
+            "DOUBLEEDGE"
+        ],
+        [
+            1,
+            "BABYDOLLEYES"
+        ],
+        [
+            1,
+            "PLAYROUGH"
+        ],
+        [
+            1,
+            "ATTRACT"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "TACKLE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COVET",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "UPROAR",
+        "WATERPULSE",
+        "WILDCHARGE",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 32.6,
+    "abilities": [
+        "CUTECHARM",
+        "NORMALIZE"
+    ],
+    "hiddenAbilitie": [
+        "WONDERSKIN"
+    ],
+    "baseTotal": 400,
+    "baseStats": [
+        70,
+        65,
+        65,
+        90,
+        55,
+        55
+    ],
+    "flags": [],
+    "name": "Delcatty",
+    "species": "DELCATTY",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 140,
+    "evs": [
+        "HP",
+        1,
+        "SPEED",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 301
+}

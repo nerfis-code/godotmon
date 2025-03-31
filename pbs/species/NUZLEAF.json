@@ -1,0 +1,198 @@
+{
+    "generation": 3,
+    "primaryType": "GRASS",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            -1,
+            "RAZORLEAF"
+        ],
+        [
+            1,
+            "AIRCUTTER"
+        ],
+        [
+            1,
+            "TORMENT"
+        ],
+        [
+            1,
+            "FAKEOUT"
+        ],
+        [
+            1,
+            "SWAGGER"
+        ],
+        [
+            1,
+            "EXPLOSION"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            9,
+            "GROWTH"
+        ],
+        [
+            12,
+            "ROLLOUT"
+        ],
+        [
+            18,
+            "MEGADRAIN"
+        ],
+        [
+            24,
+            "PAYBACK"
+        ],
+        [
+            30,
+            "SYNTHESIS"
+        ],
+        [
+            30,
+            "NATUREPOWER"
+        ],
+        [
+            36,
+            "SUNNYDAY"
+        ],
+        [
+            43,
+            "EXTRASENSORY"
+        ],
+        [
+            50,
+            "SUCKERPUNCH"
+        ],
+        [
+            57,
+            "LEAFBLADE"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EMBARGO",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPLOSION",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FLING",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LASHOUT",
+        "LEAFBLADE",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "POWERSWAP",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHUP",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THIEF",
+        "TORMENT",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 28.0,
+    "abilities": [
+        "CHLOROPHYLL",
+        "EARLYBIRD"
+    ],
+    "hiddenAbilitie": [
+        "PICKPOCKET"
+    ],
+    "baseTotal": 340,
+    "baseStats": [
+        70,
+        70,
+        40,
+        60,
+        60,
+        40
+    ],
+    "flags": [],
+    "name": "Nuzleaf",
+    "species": "NUZLEAF",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 119,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 274
+}

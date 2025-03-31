@@ -1,0 +1,456 @@
+{
+    "generation": 8,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "PYROBALL"
+        ],
+        [
+            1,
+            "FEINT"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            12,
+            "DOUBLEKICK"
+        ],
+        [
+            19,
+            "FLAMECHARGE"
+        ],
+        [
+            24,
+            "AGILITY"
+        ],
+        [
+            30,
+            "HEADBUTT"
+        ],
+        [
+            38,
+            "COUNTER"
+        ],
+        [
+            46,
+            "BOUNCE"
+        ],
+        [
+            54,
+            "DOUBLEEDGE"
+        ],
+        [
+            62,
+            "COURTCHANGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AGILITY",
+        "ALLYSWITCH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "BLASTBURN",
+        "BLAZEKICK",
+        "BOUNCE",
+        "BULKUP",
+        "CAPTIVATE",
+        "COACHING",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIREPLEDGE",
+        "FIREPUNCH",
+        "FIRESPIN",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONHEAD",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROUND",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TOXIC",
+        "UTURN",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 33.0,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "LIBERO"
+    ],
+    "baseTotal": 530,
+    "baseStats": [
+        80,
+        116,
+        75,
+        119,
+        65,
+        75
+    ],
+    "flags": [],
+    "name": "Cinderace",
+    "species": "CINDERACE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 265,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "FIRE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "PYROBALL"
+                ],
+                [
+                    1,
+                    "FEINT"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    12,
+                    "DOUBLEKICK"
+                ],
+                [
+                    19,
+                    "FLAMECHARGE"
+                ],
+                [
+                    24,
+                    "AGILITY"
+                ],
+                [
+                    30,
+                    "HEADBUTT"
+                ],
+                [
+                    38,
+                    "COUNTER"
+                ],
+                [
+                    46,
+                    "BOUNCE"
+                ],
+                [
+                    54,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    62,
+                    "COURTCHANGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AGILITY",
+                "ALLYSWITCH",
+                "ASSURANCE",
+                "ATTRACT",
+                "BATONPASS",
+                "BLASTBURN",
+                "BLAZEKICK",
+                "BOUNCE",
+                "BULKUP",
+                "CAPTIVATE",
+                "COACHING",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "ELECTROBALL",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FIREPLEDGE",
+                "FIREPUNCH",
+                "FIRESPIN",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "HEATWAVE",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONHEAD",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MEGAKICK",
+                "MIMIC",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROUND",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "TOXIC",
+                "UTURN",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.4,
+            "weight": 33.0,
+            "abilities": [
+                "BLAZE"
+            ],
+            "hiddenAbilitie": [
+                "LIBERO"
+            ],
+            "baseTotal": 530,
+            "baseStats": [
+                80,
+                116,
+                75,
+                119,
+                65,
+                75
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Cinderace"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FIRE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "PYROBALL"
+                ],
+                [
+                    1,
+                    "FEINT"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    12,
+                    "DOUBLEKICK"
+                ],
+                [
+                    19,
+                    "FLAMECHARGE"
+                ],
+                [
+                    24,
+                    "AGILITY"
+                ],
+                [
+                    30,
+                    "HEADBUTT"
+                ],
+                [
+                    38,
+                    "COUNTER"
+                ],
+                [
+                    46,
+                    "BOUNCE"
+                ],
+                [
+                    54,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    62,
+                    "COURTCHANGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AGILITY",
+                "ALLYSWITCH",
+                "ASSURANCE",
+                "ATTRACT",
+                "BATONPASS",
+                "BLASTBURN",
+                "BLAZEKICK",
+                "BOUNCE",
+                "BULKUP",
+                "CAPTIVATE",
+                "COACHING",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "ELECTROBALL",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FIREPLEDGE",
+                "FIREPUNCH",
+                "FIRESPIN",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "HEATWAVE",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONHEAD",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MEGAKICK",
+                "MIMIC",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROUND",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "TOXIC",
+                "UTURN",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 27.0,
+            "weight": 33.0,
+            "abilities": [
+                "BLAZE"
+            ],
+            "hiddenAbilitie": [
+                "LIBERO"
+            ],
+            "baseTotal": 530,
+            "baseStats": [
+                80,
+                116,
+                75,
+                119,
+                65,
+                75
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 815
+}

@@ -1,0 +1,165 @@
+{
+    "generation": 7,
+    "primaryType": "DRAGON",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            1,
+            "AUTOTOMIZE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            1,
+            "DRAGONTAIL"
+        ],
+        [
+            12,
+            "SCARYFACE"
+        ],
+        [
+            16,
+            "HEADBUTT"
+        ],
+        [
+            20,
+            "WORKUP"
+        ],
+        [
+            24,
+            "SCREECH"
+        ],
+        [
+            28,
+            "IRONDEFENSE"
+        ],
+        [
+            32,
+            "DRAGONCLAW"
+        ],
+        [
+            38,
+            "NOBLEROAR"
+        ],
+        [
+            44,
+            "DRAGONDANCE"
+        ],
+        [
+            50,
+            "OUTRAGE"
+        ],
+        [
+            56,
+            "CLOSECOMBAT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TOXIC",
+        "UPROAR",
+        "WORKUP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 47.0,
+    "abilities": [
+        "BULLETPROOF",
+        "SOUNDPROOF"
+    ],
+    "hiddenAbilitie": [
+        "OVERCOAT"
+    ],
+    "baseTotal": 420,
+    "baseStats": [
+        55,
+        75,
+        90,
+        65,
+        65,
+        70
+    ],
+    "flags": [],
+    "name": "Hakamo-o",
+    "species": "HAKAMOO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 147,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 783
+}

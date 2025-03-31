@@ -1,0 +1,161 @@
+{
+    "generation": 6,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            3,
+            "TACKLE"
+        ],
+        [
+            6,
+            "LASERFOCUS"
+        ],
+        [
+            9,
+            "QUICKATTACK"
+        ],
+        [
+            12,
+            "MUDSHOT"
+        ],
+        [
+            15,
+            "FLAIL"
+        ],
+        [
+            18,
+            "DOUBLEKICK"
+        ],
+        [
+            21,
+            "BULLDOZE"
+        ],
+        [
+            24,
+            "DIG"
+        ],
+        [
+            27,
+            "BOUNCE"
+        ],
+        [
+            30,
+            "TAKEDOWN"
+        ],
+        [
+            33,
+            "SWORDSDANCE"
+        ],
+        [
+            36,
+            "EARTHQUAKE"
+        ],
+        [
+            39,
+            "SUPERFANG"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SMACKDOWN",
+        "SNORE",
+        "SPIKES",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERFANG",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "UTURN",
+        "WILDCHARGE",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "DEFENSECURL",
+        "ROLLOUT"
+    ],
+    "height": 0.4,
+    "weight": 5.0,
+    "abilities": [
+        "PICKUP",
+        "CHEEKPOUCH"
+    ],
+    "hiddenAbilitie": [
+        "HUGEPOWER"
+    ],
+    "baseTotal": 237,
+    "baseStats": [
+        38,
+        36,
+        38,
+        57,
+        32,
+        36
+    ],
+    "flags": [],
+    "name": "Bunnelby",
+    "species": "BUNNELBY",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 47,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 659
+}

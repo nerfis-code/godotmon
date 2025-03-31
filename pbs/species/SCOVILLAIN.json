@@ -1,0 +1,148 @@
+{
+    "generation": 9,
+    "primaryType": "GRASS",
+    "secondaryType": "FIRE",
+    "moves": [
+        [
+            -1,
+            "SPICYEXTRACT"
+        ],
+        [
+            -1,
+            "FLAMETHROWER"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "FIREFANG"
+        ],
+        [
+            1,
+            "LEAFAGE"
+        ],
+        [
+            4,
+            "BITE"
+        ],
+        [
+            10,
+            "GROWTH"
+        ],
+        [
+            13,
+            "RAZORLEAF"
+        ],
+        [
+            17,
+            "SUNNYDAY"
+        ],
+        [
+            21,
+            "BULLETSEED"
+        ],
+        [
+            24,
+            "HEADBUTT"
+        ],
+        [
+            28,
+            "ZENHEADBUTT"
+        ],
+        [
+            33,
+            "WORRYSEED"
+        ],
+        [
+            38,
+            "CRUNCH"
+        ],
+        [
+            44,
+            "SEEDBOMB"
+        ],
+        [
+            48,
+            "SOLARBEAM"
+        ],
+        [
+            48,
+            "OVERHEAT"
+        ]
+    ],
+    "tutorMoves": [
+        "BULLETSEED",
+        "BURNINGJEALOUSY",
+        "CRUNCH",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FLAMETHROWER",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "HYPERBEAM",
+        "LASHOUT",
+        "LEAFSTORM",
+        "MAGICALLEAF",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "TAKEDOWN",
+        "TEMPERFLARE",
+        "THIEF",
+        "TRAILBLAZE",
+        "WILLOWISP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 15.0,
+    "abilities": [
+        "CHLOROPHYLL",
+        "INSOMNIA"
+    ],
+    "hiddenAbilitie": [
+        "MOODY"
+    ],
+    "baseTotal": 486,
+    "baseStats": [
+        65,
+        108,
+        65,
+        75,
+        108,
+        65
+    ],
+    "flags": [],
+    "name": "Scovillain",
+    "species": "SCOVILLAIN",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 952
+}

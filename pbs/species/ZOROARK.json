@@ -1,0 +1,507 @@
+{
+    "generation": 5,
+    "primaryType": "DARK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "NIGHTSLASH"
+        ],
+        [
+            1,
+            "UTURN"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "TORMENT"
+        ],
+        [
+            1,
+            "HONECLAWS"
+        ],
+        [
+            12,
+            "FURYSWIPES"
+        ],
+        [
+            16,
+            "SCARYFACE"
+        ],
+        [
+            20,
+            "TAUNT"
+        ],
+        [
+            24,
+            "KNOCKOFF"
+        ],
+        [
+            28,
+            "FAKETEARS"
+        ],
+        [
+            34,
+            "AGILITY"
+        ],
+        [
+            40,
+            "IMPRISON"
+        ],
+        [
+            46,
+            "NIGHTDAZE"
+        ],
+        [
+            52,
+            "NASTYPLOT"
+        ],
+        [
+            58,
+            "FOULPLAY"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "ASSURANCE",
+        "ATTRACT",
+        "BOUNCE",
+        "BURNINGJEALOUSY",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "EMBARGO",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEX",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IMPRISON",
+        "INCINERATE",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROAR",
+        "ROCKSMASH",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TORMENT",
+        "TOXIC",
+        "TRICK",
+        "UPROAR",
+        "UTURN"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 81.1,
+    "abilities": [
+        "ILLUSION"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 510,
+    "baseStats": [
+        60,
+        105,
+        60,
+        105,
+        120,
+        60
+    ],
+    "flags": [],
+    "name": "Zoroark",
+    "species": "ZOROARK",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 179,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "DARK",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "NIGHTSLASH"
+                ],
+                [
+                    1,
+                    "UTURN"
+                ],
+                [
+                    1,
+                    "SCRATCH"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "TORMENT"
+                ],
+                [
+                    1,
+                    "HONECLAWS"
+                ],
+                [
+                    12,
+                    "FURYSWIPES"
+                ],
+                [
+                    16,
+                    "SCARYFACE"
+                ],
+                [
+                    20,
+                    "TAUNT"
+                ],
+                [
+                    24,
+                    "KNOCKOFF"
+                ],
+                [
+                    28,
+                    "FAKETEARS"
+                ],
+                [
+                    34,
+                    "AGILITY"
+                ],
+                [
+                    40,
+                    "IMPRISON"
+                ],
+                [
+                    46,
+                    "NIGHTDAZE"
+                ],
+                [
+                    52,
+                    "NASTYPLOT"
+                ],
+                [
+                    58,
+                    "FOULPLAY"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "ASSURANCE",
+                "ATTRACT",
+                "BOUNCE",
+                "BURNINGJEALOUSY",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "CUT",
+                "DARKPULSE",
+                "DIG",
+                "DOUBLETEAM",
+                "EMBARGO",
+                "ENCORE",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FLAMETHROWER",
+                "FLING",
+                "FOCUSBLAST",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HEX",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "IMPRISON",
+                "INCINERATE",
+                "KNOCKOFF",
+                "LASERFOCUS",
+                "LASHOUT",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "ROAR",
+                "ROCKSMASH",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNARL",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "TORMENT",
+                "TOXIC",
+                "TRICK",
+                "UPROAR",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.6,
+            "weight": 81.1,
+            "abilities": [
+                "ILLUSION"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 510,
+            "baseStats": [
+                60,
+                105,
+                60,
+                105,
+                120,
+                60
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Zoroark"
+        },
+        {
+            "generation": 8,
+            "primaryType": "NORMAL",
+            "secondaryType": "GHOST",
+            "moves": [
+                [
+                    0,
+                    "SHADOWCLAW"
+                ],
+                [
+                    1,
+                    "UTURN"
+                ],
+                [
+                    1,
+                    "HONECLAWS"
+                ],
+                [
+                    1,
+                    "SCRATCH"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "TORMENT"
+                ],
+                [
+                    12,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    16,
+                    "CURSE"
+                ],
+                [
+                    20,
+                    "TAUNT"
+                ],
+                [
+                    24,
+                    "KNOCKOFF"
+                ],
+                [
+                    28,
+                    "SPITE"
+                ],
+                [
+                    34,
+                    "AGILITY"
+                ],
+                [
+                    40,
+                    "SHADOWBALL"
+                ],
+                [
+                    46,
+                    "BITTERMALICE"
+                ],
+                [
+                    52,
+                    "NASTYPLOT"
+                ],
+                [
+                    58,
+                    "FOULPLAY"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BURNINGJEALOUSY",
+                "CALMMIND",
+                "CONFUSERAY",
+                "CRUNCH",
+                "CURSE",
+                "DARKPULSE",
+                "DIG",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FLAMETHROWER",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FOULPLAY",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HELPINGHAND",
+                "HEX",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICYWIND",
+                "IMPRISON",
+                "KNOCKOFF",
+                "LASHOUT",
+                "LOWKICK",
+                "LOWSWEEP",
+                "NASTYPLOT",
+                "NIGHTSHADE",
+                "PAINSPLIT",
+                "PHANTOMFORCE",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "ROAR",
+                "SCARYFACE",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNARL",
+                "SNOWSCAPE",
+                "SPITE",
+                "SUBSTITUTE",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "TRICK",
+                "UTURN",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 1.6,
+            "weight": 73.0,
+            "abilities": [
+                "ILLUSION"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 510,
+            "baseStats": [
+                55,
+                100,
+                60,
+                110,
+                125,
+                60
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Hisui"
+        }
+    ],
+    "internationalPokedex": 571
+}

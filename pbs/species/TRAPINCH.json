@@ -1,0 +1,155 @@
+{
+    "generation": 3,
+    "primaryType": "GROUND",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            4,
+            "LASERFOCUS"
+        ],
+        [
+            8,
+            "BITE"
+        ],
+        [
+            12,
+            "MUDSLAP"
+        ],
+        [
+            16,
+            "SANDTOMB"
+        ],
+        [
+            20,
+            "BULLDOZE"
+        ],
+        [
+            24,
+            "DIG"
+        ],
+        [
+            28,
+            "CRUNCH"
+        ],
+        [
+            32,
+            "SANDSTORM"
+        ],
+        [
+            36,
+            "EARTHPOWER"
+        ],
+        [
+            40,
+            "EARTHQUAKE"
+        ],
+        [
+            44,
+            "SUPERPOWER"
+        ],
+        [
+            48,
+            "FISSURE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BUGBITE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER"
+    ],
+    "eggMoves": [
+        "BUGBITE",
+        "EARTHPOWER",
+        "FEINT",
+        "FIRSTIMPRESSION",
+        "FLAIL",
+        "FOCUSENERGY",
+        "FURYCUTTER",
+        "GUST",
+        "MUDSHOT",
+        "QUICKATTACK"
+    ],
+    "height": 0.7,
+    "weight": 15.0,
+    "abilities": [
+        "HYPERCUTTER",
+        "ARENATRAP"
+    ],
+    "hiddenAbilitie": [
+        "SHEERFORCE"
+    ],
+    "baseTotal": 290,
+    "baseStats": [
+        45,
+        100,
+        45,
+        10,
+        45,
+        45
+    ],
+    "flags": [],
+    "name": "Trapinch",
+    "species": "TRAPINCH",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 58,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 328
+}

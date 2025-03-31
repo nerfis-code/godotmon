@@ -1,0 +1,152 @@
+{
+    "generation": 2,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            4,
+            "INGRAIN"
+        ],
+        [
+            7,
+            "ABSORB"
+        ],
+        [
+            10,
+            "MEGADRAIN"
+        ],
+        [
+            13,
+            "LEECHSEED"
+        ],
+        [
+            16,
+            "RAZORLEAF"
+        ],
+        [
+            19,
+            "WORRYSEED"
+        ],
+        [
+            22,
+            "GIGADRAIN"
+        ],
+        [
+            25,
+            "ENDEAVOR"
+        ],
+        [
+            28,
+            "SYNTHESIS"
+        ],
+        [
+            31,
+            "SOLARBEAM"
+        ],
+        [
+            36,
+            "SUNNYDAY"
+        ],
+        [
+            37,
+            "DOUBLEEDGE"
+        ],
+        [
+            39,
+            "SEEDBOMB"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SYNTHESIS",
+        "UPROAR",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "CURSE",
+        "ENCORE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "INGRAIN",
+        "LEECHSEED",
+        "MORNINGSUN",
+        "NATUREPOWER",
+        "SWEETSCENT"
+    ],
+    "height": 0.3,
+    "weight": 1.8,
+    "abilities": [
+        "CHLOROPHYLL",
+        "SOLARPOWER"
+    ],
+    "hiddenAbilitie": [
+        "EARLYBIRD"
+    ],
+    "baseTotal": 180,
+    "baseStats": [
+        30,
+        30,
+        30,
+        30,
+        30,
+        30
+    ],
+    "flags": [],
+    "name": "Sunkern",
+    "species": "SUNKERN",
+    "catchRate": 235,
+    "happiness": 50,
+    "baseExp": 36,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 191
+}

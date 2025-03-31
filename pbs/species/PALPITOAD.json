@@ -1,0 +1,146 @@
+{
+    "generation": 5,
+    "primaryType": "WATER",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "ECHOEDVOICE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "ACID"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            12,
+            "MUDSHOT"
+        ],
+        [
+            16,
+            "ROUND"
+        ],
+        [
+            20,
+            "BUBBLEBEAM"
+        ],
+        [
+            24,
+            "FLAIL"
+        ],
+        [
+            30,
+            "UPROAR"
+        ],
+        [
+            37,
+            "AQUARING"
+        ],
+        [
+            42,
+            "HYPERVOICE"
+        ],
+        [
+            48,
+            "MUDDYWATER"
+        ],
+        [
+            54,
+            "RAINDANCE"
+        ],
+        [
+            60,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BOUNCE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERVOICE",
+        "ICYWIND",
+        "INFESTATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "POWERWHIP",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "STEALTHROCK",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "UPROAR",
+        "VENOMDRENCH",
+        "WATERPULSE",
+        "WEATHERBALL"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 17.0,
+    "abilities": [
+        "SWIFTSWIM",
+        "HYDRATION"
+    ],
+    "hiddenAbilitie": [
+        "WATERABSORB"
+    ],
+    "baseTotal": 384,
+    "baseStats": [
+        75,
+        65,
+        55,
+        69,
+        65,
+        55
+    ],
+    "flags": [],
+    "name": "Palpitoad",
+    "species": "PALPITOAD",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 134,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 536
+}

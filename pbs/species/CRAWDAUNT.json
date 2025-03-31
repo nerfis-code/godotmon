@@ -1,0 +1,183 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            -1,
+            "SWIFT"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "TAUNT"
+        ],
+        [
+            12,
+            "BUBBLEBEAM"
+        ],
+        [
+            16,
+            "KNOCKOFF"
+        ],
+        [
+            20,
+            "DOUBLEHIT"
+        ],
+        [
+            24,
+            "PROTECT"
+        ],
+        [
+            28,
+            "NIGHTSLASH"
+        ],
+        [
+            34,
+            "RAZORSHELL"
+        ],
+        [
+            40,
+            "SWORDSDANCE"
+        ],
+        [
+            46,
+            "CRUNCH"
+        ],
+        [
+            52,
+            "CRABHAMMER"
+        ],
+        [
+            58,
+            "ENDEAVOR"
+        ],
+        [
+            64,
+            "GUILLOTINE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "COUNTER",
+        "CRUNCH",
+        "CUT",
+        "DARKPULSE",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONDANCE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "RAZORSHELL",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNARL",
+        "SNORE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 32.8,
+    "abilities": [
+        "HYPERCUTTER",
+        "SHELLARMOR"
+    ],
+    "hiddenAbilitie": [
+        "ADAPTABILITY"
+    ],
+    "baseTotal": 468,
+    "baseStats": [
+        63,
+        120,
+        85,
+        55,
+        90,
+        55
+    ],
+    "flags": [],
+    "name": "Crawdaunt",
+    "species": "CRAWDAUNT",
+    "catchRate": 155,
+    "happiness": 50,
+    "baseExp": 164,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "FLUCTUATING",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 342
+}

@@ -1,0 +1,158 @@
+{
+    "generation": 6,
+    "primaryType": "FIRE",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "FLAMECHARGE"
+        ],
+        [
+            1,
+            "FLAREBLITZ"
+        ],
+        [
+            1,
+            "FEINT"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            15,
+            "FLAIL"
+        ],
+        [
+            22,
+            "ACROBATICS"
+        ],
+        [
+            29,
+            "AGILITY"
+        ],
+        [
+            38,
+            "AERIALACE"
+        ],
+        [
+            47,
+            "TAILWIND"
+        ],
+        [
+            56,
+            "STEELWING"
+        ],
+        [
+            65,
+            "ROOST"
+        ],
+        [
+            74,
+            "FLY"
+        ],
+        [
+            83,
+            "BRAVEBIRD"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "ATTRACT",
+        "BRAVEBIRD",
+        "BULKUP",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HURRICANE",
+        "HYPERBEAM",
+        "INCINERATE",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "TOXIC",
+        "UTURN",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 24.5,
+    "abilities": [
+        "FLAMEBODY"
+    ],
+    "hiddenAbilitie": [
+        "GALEWINGS"
+    ],
+    "baseTotal": 499,
+    "baseStats": [
+        78,
+        81,
+        71,
+        126,
+        74,
+        69
+    ],
+    "flags": [],
+    "name": "Talonflame",
+    "species": "TALONFLAME",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 663
+}

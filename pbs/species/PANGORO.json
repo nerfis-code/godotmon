@@ -1,0 +1,207 @@
+{
+    "generation": 6,
+    "primaryType": "FIGHTING",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            1,
+            "NIGHTSLASH"
+        ],
+        [
+            1,
+            "BULLETPUNCH"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "ARMTHRUST"
+        ],
+        [
+            1,
+            "TAUNT"
+        ],
+        [
+            12,
+            "CIRCLETHROW"
+        ],
+        [
+            16,
+            "LOWSWEEP"
+        ],
+        [
+            20,
+            "WORKUP"
+        ],
+        [
+            24,
+            "SLASH"
+        ],
+        [
+            28,
+            "VITALTHROW"
+        ],
+        [
+            35,
+            "CRUNCH"
+        ],
+        [
+            40,
+            "BODYSLAM"
+        ],
+        [
+            46,
+            "PARTINGSHOT"
+        ],
+        [
+            52,
+            "ENTRAINMENT"
+        ],
+        [
+            58,
+            "HAMMERARM"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BEATUP",
+        "BLOCK",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "COVET",
+        "CRUNCH",
+        "CUT",
+        "DARKESTLARIAT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "EMBARGO",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEPUNCH",
+        "INFESTATION",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "QUASH",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "WORKUP",
+        "XSCISSOR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.1,
+    "weight": 136.0,
+    "abilities": [
+        "IRONFIST",
+        "MOLDBREAKER"
+    ],
+    "hiddenAbilitie": [
+        "SCRAPPY"
+    ],
+    "baseTotal": 495,
+    "baseStats": [
+        95,
+        124,
+        78,
+        58,
+        69,
+        71
+    ],
+    "flags": [],
+    "name": "Pangoro",
+    "species": "PANGORO",
+    "catchRate": 65,
+    "happiness": 50,
+    "baseExp": 173,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 675
+}

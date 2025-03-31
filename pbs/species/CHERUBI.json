@@ -1,0 +1,138 @@
+{
+    "generation": 4,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "MORNINGSUN"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "LEAFAGE"
+        ],
+        [
+            10,
+            "GROWTH"
+        ],
+        [
+            15,
+            "HELPINGHAND"
+        ],
+        [
+            20,
+            "MAGICALLEAF"
+        ],
+        [
+            26,
+            "LEECHSEED"
+        ],
+        [
+            30,
+            "TAKEDOWN"
+        ],
+        [
+            35,
+            "PETALBLIZZARD"
+        ],
+        [
+            40,
+            "WORRYSEED"
+        ],
+        [
+            45,
+            "SOLARBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "MAGICALLEAF",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POLLENPUFF",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "WEATHERBALL",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "AROMATHERAPY",
+        "DEFENSECURL",
+        "FLOWERSHIELD",
+        "GRASSYTERRAIN",
+        "HEALINGWISH",
+        "HEALPULSE",
+        "NATUREPOWER",
+        "RAZORLEAF",
+        "ROLLOUT",
+        "SEEDBOMB",
+        "SWEETSCENT",
+        "TICKLE",
+        "WEATHERBALL"
+    ],
+    "height": 0.4,
+    "weight": 3.3,
+    "abilities": [
+        "CHLOROPHYLL"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 275,
+    "baseStats": [
+        45,
+        35,
+        45,
+        35,
+        62,
+        53
+    ],
+    "flags": [],
+    "name": "Cherubi",
+    "species": "CHERUBI",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 55,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 420
+}

@@ -1,0 +1,123 @@
+{
+    "generation": 9,
+    "primaryType": "DRAGON",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "DRAGONTAIL"
+        ],
+        [
+            6,
+            "ICYWIND"
+        ],
+        [
+            12,
+            "DRAGONBREATH"
+        ],
+        [
+            18,
+            "FOCUSENERGY"
+        ],
+        [
+            24,
+            "BITE"
+        ],
+        [
+            29,
+            "ICEFANG"
+        ],
+        [
+            32,
+            "DRAGONCLAW"
+        ],
+        [
+            36,
+            "TAKEDOWN"
+        ],
+        [
+            40,
+            "ICEBEAM"
+        ],
+        [
+            44,
+            "CRUNCH"
+        ],
+        [
+            48,
+            "ICICLECRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "CRUNCH",
+        "DIG",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "ENDURE",
+        "FACADE",
+        "HELPINGHAND",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SLEEPTALK",
+        "SNOWSCAPE",
+        "SUBSTITUTE",
+        "SWORDSDANCE",
+        "TAKEDOWN"
+    ],
+    "eggMoves": [
+        "AQUATAIL",
+        "DRAGONRUSH",
+        "FREEZEDRY",
+        "ICICLESPEAR"
+    ],
+    "height": 0.5,
+    "weight": 17.0,
+    "abilities": [
+        "THERMALEXCHANGE"
+    ],
+    "hiddenAbilitie": [
+        "ICEBODY"
+    ],
+    "baseTotal": 320,
+    "baseStats": [
+        65,
+        75,
+        45,
+        55,
+        35,
+        45
+    ],
+    "flags": [],
+    "name": "Frigibax",
+    "species": "FRIGIBAX",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 64,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 996
+}

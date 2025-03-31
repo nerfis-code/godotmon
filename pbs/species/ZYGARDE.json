@@ -1,0 +1,834 @@
+{
+    "generation": 6,
+    "primaryType": "DRAGON",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "THOUSANDARROWS"
+        ],
+        [
+            1,
+            "THOUSANDWAVES"
+        ],
+        [
+            1,
+            "COREENFORCER"
+        ],
+        [
+            1,
+            "BIND"
+        ],
+        [
+            1,
+            "BULLDOZE"
+        ],
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            8,
+            "HAZE"
+        ],
+        [
+            16,
+            "DIG"
+        ],
+        [
+            24,
+            "SAFEGUARD"
+        ],
+        [
+            32,
+            "CRUNCH"
+        ],
+        [
+            40,
+            "DRAGONPULSE"
+        ],
+        [
+            48,
+            "LANDSWRATH"
+        ],
+        [
+            56,
+            "GLARE"
+        ],
+        [
+            64,
+            "SANDSTORM"
+        ],
+        [
+            72,
+            "COIL"
+        ],
+        [
+            80,
+            "EARTHQUAKE"
+        ],
+        [
+            88,
+            "OUTRAGE"
+        ]
+    ],
+    "tutorMoves": [
+        "BIND",
+        "BLOCK",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CONFIDE",
+        "CRUNCH",
+        "DIG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCALESHOT",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SPITE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "TOXIC",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 5.0,
+    "weight": 305.0,
+    "abilities": [
+        "AURABREAK",
+        "POWERCONSTRUCT"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        108,
+        100,
+        121,
+        95,
+        81,
+        95
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Zygarde",
+    "species": "ZYGARDE",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 300,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 6,
+            "primaryType": "DRAGON",
+            "secondaryType": "GROUND",
+            "moves": [
+                [
+                    1,
+                    "THOUSANDARROWS"
+                ],
+                [
+                    1,
+                    "THOUSANDWAVES"
+                ],
+                [
+                    1,
+                    "COREENFORCER"
+                ],
+                [
+                    1,
+                    "BIND"
+                ],
+                [
+                    1,
+                    "BULLDOZE"
+                ],
+                [
+                    1,
+                    "DRAGONBREATH"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    8,
+                    "HAZE"
+                ],
+                [
+                    16,
+                    "DIG"
+                ],
+                [
+                    24,
+                    "SAFEGUARD"
+                ],
+                [
+                    32,
+                    "CRUNCH"
+                ],
+                [
+                    40,
+                    "DRAGONPULSE"
+                ],
+                [
+                    48,
+                    "LANDSWRATH"
+                ],
+                [
+                    56,
+                    "GLARE"
+                ],
+                [
+                    64,
+                    "SANDSTORM"
+                ],
+                [
+                    72,
+                    "COIL"
+                ],
+                [
+                    80,
+                    "EARTHQUAKE"
+                ],
+                [
+                    88,
+                    "OUTRAGE"
+                ]
+            ],
+            "tutorMoves": [
+                "BIND",
+                "BLOCK",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRICKBREAK",
+                "BULLDOZE",
+                "CONFIDE",
+                "CRUNCH",
+                "DIG",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "IRONTAIL",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAINSPLIT",
+                "PAYBACK",
+                "PROTECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SCALESHOT",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEWAVE",
+                "SNORE",
+                "SPITE",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWIFT",
+                "TOXIC",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 5.0,
+            "weight": 305.0,
+            "abilities": [
+                "AURABREAK",
+                "POWERCONSTRUCT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                108,
+                100,
+                121,
+                95,
+                81,
+                95
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 0,
+            "formName": "Forma 50%"
+        },
+        {
+            "generation": 7,
+            "primaryType": "DRAGON",
+            "secondaryType": "GROUND",
+            "moves": [
+                [
+                    1,
+                    "THOUSANDARROWS"
+                ],
+                [
+                    1,
+                    "THOUSANDWAVES"
+                ],
+                [
+                    1,
+                    "COREENFORCER"
+                ],
+                [
+                    1,
+                    "BIND"
+                ],
+                [
+                    1,
+                    "BULLDOZE"
+                ],
+                [
+                    1,
+                    "DRAGONBREATH"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    8,
+                    "HAZE"
+                ],
+                [
+                    16,
+                    "DIG"
+                ],
+                [
+                    24,
+                    "SAFEGUARD"
+                ],
+                [
+                    32,
+                    "CRUNCH"
+                ],
+                [
+                    40,
+                    "DRAGONPULSE"
+                ],
+                [
+                    48,
+                    "LANDSWRATH"
+                ],
+                [
+                    56,
+                    "GLARE"
+                ],
+                [
+                    64,
+                    "SANDSTORM"
+                ],
+                [
+                    72,
+                    "COIL"
+                ],
+                [
+                    80,
+                    "EARTHQUAKE"
+                ],
+                [
+                    88,
+                    "OUTRAGE"
+                ]
+            ],
+            "tutorMoves": [
+                "BIND",
+                "BLOCK",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRICKBREAK",
+                "BULLDOZE",
+                "CONFIDE",
+                "CRUNCH",
+                "DIG",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "IRONTAIL",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAINSPLIT",
+                "PAYBACK",
+                "PROTECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SCALESHOT",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEWAVE",
+                "SNORE",
+                "SPITE",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWIFT",
+                "TOXIC",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 33.5,
+            "abilities": [
+                "AURABREAK",
+                "POWERCONSTRUCT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 486,
+            "baseStats": [
+                54,
+                100,
+                71,
+                115,
+                61,
+                85
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 1,
+            "formName": "Forma 10%"
+        },
+        {
+            "generation": 7,
+            "primaryType": "DRAGON",
+            "secondaryType": "GROUND",
+            "moves": [
+                [
+                    1,
+                    "THOUSANDARROWS"
+                ],
+                [
+                    1,
+                    "THOUSANDWAVES"
+                ],
+                [
+                    1,
+                    "COREENFORCER"
+                ],
+                [
+                    1,
+                    "BIND"
+                ],
+                [
+                    1,
+                    "BULLDOZE"
+                ],
+                [
+                    1,
+                    "DRAGONBREATH"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    8,
+                    "HAZE"
+                ],
+                [
+                    16,
+                    "DIG"
+                ],
+                [
+                    24,
+                    "SAFEGUARD"
+                ],
+                [
+                    32,
+                    "CRUNCH"
+                ],
+                [
+                    40,
+                    "DRAGONPULSE"
+                ],
+                [
+                    48,
+                    "LANDSWRATH"
+                ],
+                [
+                    56,
+                    "GLARE"
+                ],
+                [
+                    64,
+                    "SANDSTORM"
+                ],
+                [
+                    72,
+                    "COIL"
+                ],
+                [
+                    80,
+                    "EARTHQUAKE"
+                ],
+                [
+                    88,
+                    "OUTRAGE"
+                ]
+            ],
+            "tutorMoves": [
+                "BIND",
+                "BLOCK",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRICKBREAK",
+                "BULLDOZE",
+                "CONFIDE",
+                "CRUNCH",
+                "DIG",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "IRONTAIL",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAINSPLIT",
+                "PAYBACK",
+                "PROTECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SCALESHOT",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEWAVE",
+                "SNORE",
+                "SPITE",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWIFT",
+                "TOXIC",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 4.5,
+            "weight": 610.0,
+            "abilities": [
+                "POWERCONSTRUCT"
+            ],
+            "hiddenAbilitie": [
+                "POWERCONSTRUCT"
+            ],
+            "baseTotal": 708,
+            "baseStats": [
+                216,
+                100,
+                121,
+                85,
+                91,
+                95
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 2,
+            "formName": "Forma Completa"
+        },
+        {
+            "generation": 6,
+            "primaryType": "DRAGON",
+            "secondaryType": "GROUND",
+            "moves": [
+                [
+                    1,
+                    "THOUSANDARROWS"
+                ],
+                [
+                    1,
+                    "THOUSANDWAVES"
+                ],
+                [
+                    1,
+                    "COREENFORCER"
+                ],
+                [
+                    1,
+                    "BIND"
+                ],
+                [
+                    1,
+                    "BULLDOZE"
+                ],
+                [
+                    1,
+                    "DRAGONBREATH"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    8,
+                    "HAZE"
+                ],
+                [
+                    16,
+                    "DIG"
+                ],
+                [
+                    24,
+                    "SAFEGUARD"
+                ],
+                [
+                    32,
+                    "CRUNCH"
+                ],
+                [
+                    40,
+                    "DRAGONPULSE"
+                ],
+                [
+                    48,
+                    "LANDSWRATH"
+                ],
+                [
+                    56,
+                    "GLARE"
+                ],
+                [
+                    64,
+                    "SANDSTORM"
+                ],
+                [
+                    72,
+                    "COIL"
+                ],
+                [
+                    80,
+                    "EARTHQUAKE"
+                ],
+                [
+                    88,
+                    "OUTRAGE"
+                ]
+            ],
+            "tutorMoves": [
+                "BIND",
+                "BLOCK",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRICKBREAK",
+                "BULLDOZE",
+                "CONFIDE",
+                "CRUNCH",
+                "DIG",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "IRONTAIL",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAINSPLIT",
+                "PAYBACK",
+                "PROTECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SCALESHOT",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEWAVE",
+                "SNORE",
+                "SPITE",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWIFT",
+                "TOXIC",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 4.5,
+            "weight": 610.0,
+            "abilities": [
+                "POWERCONSTRUCT"
+            ],
+            "hiddenAbilitie": [
+                "POWERCONSTRUCT"
+            ],
+            "baseTotal": 708,
+            "baseStats": [
+                216,
+                100,
+                121,
+                85,
+                91,
+                95
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 3,
+            "formName": "Forma 50%"
+        }
+    ],
+    "internationalPokedex": 718
+}

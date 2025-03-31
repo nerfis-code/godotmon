@@ -1,0 +1,132 @@
+{
+    "generation": 4,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            9,
+            "CHARM"
+        ],
+        [
+            16,
+            "SUPERSONIC"
+        ],
+        [
+            24,
+            "BUBBLEBEAM"
+        ],
+        [
+            31,
+            "ACIDARMOR"
+        ],
+        [
+            39,
+            "WHIRLPOOL"
+        ],
+        [
+            46,
+            "WATERPULSE"
+        ],
+        [
+            54,
+            "AQUARING"
+        ],
+        [
+            61,
+            "DIVE"
+        ],
+        [
+            69,
+            "RAINDANCE"
+        ],
+        [
+            75,
+            "TAKEHEART"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "BLIZZARD",
+        "BOUNCE",
+        "BRINE",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HAIL",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "UPROAR",
+        "UTURN",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 0.4,
+    "weight": 3.1,
+    "abilities": [
+        "HYDRATION"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 480,
+    "baseStats": [
+        80,
+        80,
+        80,
+        80,
+        80,
+        80
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Phione",
+    "species": "PHIONE",
+    "catchRate": 30,
+    "happiness": 50,
+    "baseExp": 240,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 489
+}

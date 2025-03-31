@@ -1,0 +1,212 @@
+{
+    "generation": 1,
+    "primaryType": "GROUND",
+    "secondaryType": "ROCK",
+    "moves": [
+        [
+            -1,
+            "HAMMERARM"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "SMACKDOWN"
+        ],
+        [
+            1,
+            "BULLDOZE"
+        ],
+        [
+            15,
+            "HORNATTACK"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            25,
+            "STOMP"
+        ],
+        [
+            30,
+            "ROCKBLAST"
+        ],
+        [
+            35,
+            "DRILLRUN"
+        ],
+        [
+            40,
+            "TAKEDOWN"
+        ],
+        [
+            47,
+            "EARTHQUAKE"
+        ],
+        [
+            54,
+            "STONEEDGE"
+        ],
+        [
+            61,
+            "MEGAHORN"
+        ],
+        [
+            68,
+            "HORNDRILL"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CRUNCH",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DRILLRUN",
+        "DYNAMICPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEATCRASH",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "IRONTAIL",
+        "MEGAHORN",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "PAYDAY",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROAR",
+        "ROCKBLAST",
+        "ROCKCLIMB",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SPITE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERPUNCH",
+        "UPROAR",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 120.0,
+    "abilities": [
+        "LIGHTNINGROD",
+        "ROCKHEAD"
+    ],
+    "hiddenAbilitie": [
+        "RECKLESS"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        105,
+        130,
+        120,
+        40,
+        45,
+        45
+    ],
+    "flags": [],
+    "name": "Rhydon",
+    "species": "RHYDON",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 112
+}

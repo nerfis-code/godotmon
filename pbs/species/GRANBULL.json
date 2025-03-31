@@ -1,0 +1,199 @@
+{
+    "generation": 2,
+    "primaryType": "FAIRY",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "OUTRAGE"
+        ],
+        [
+            1,
+            "ICEFANG"
+        ],
+        [
+            1,
+            "FIREFANG"
+        ],
+        [
+            1,
+            "THUNDERFANG"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "SCARYFACE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            7,
+            "BITE"
+        ],
+        [
+            13,
+            "LICK"
+        ],
+        [
+            19,
+            "HEADBUTT"
+        ],
+        [
+            27,
+            "ROAR"
+        ],
+        [
+            35,
+            "TAUNT"
+        ],
+        [
+            35,
+            "LASTRESORT"
+        ],
+        [
+            43,
+            "PLAYROUGH"
+        ],
+        [
+            51,
+            "PAYBACK"
+        ],
+        [
+            59,
+            "CRUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEALBELL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEPUNCH",
+        "INCINERATE",
+        "IRONTAIL",
+        "LASTRESORT",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "OVERHEAT",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNARL",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TORMENT",
+        "WATERPULSE",
+        "WILDCHARGE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 48.7,
+    "abilities": [
+        "INTIMIDATE",
+        "QUICKFEET"
+    ],
+    "hiddenAbilitie": [
+        "RATTLED"
+    ],
+    "baseTotal": 450,
+    "baseStats": [
+        90,
+        120,
+        75,
+        45,
+        60,
+        60
+    ],
+    "flags": [],
+    "name": "Granbull",
+    "species": "GRANBULL",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 158,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 210
+}

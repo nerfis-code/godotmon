@@ -1,0 +1,189 @@
+{
+    "generation": 1,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "LICK"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            6,
+            "ROLLOUT"
+        ],
+        [
+            12,
+            "SUPERSONIC"
+        ],
+        [
+            18,
+            "WRAP"
+        ],
+        [
+            24,
+            "DISABLE"
+        ],
+        [
+            30,
+            "STOMP"
+        ],
+        [
+            36,
+            "KNOCKOFF"
+        ],
+        [
+            42,
+            "SCREECH"
+        ],
+        [
+            48,
+            "SLAM"
+        ],
+        [
+            54,
+            "POWERWHIP"
+        ],
+        [
+            60,
+            "BELLYDRUM"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "AQUATAIL",
+        "ATTRACT",
+        "BIND",
+        "BLIZZARD",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONTAIL",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "POWERWHIP",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELROLLER",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TERRAINPULSE",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "BELCH",
+        "BELLYDRUM",
+        "BODYSLAM",
+        "CURSE",
+        "HAMMERARM",
+        "MUDDYWATER",
+        "SNORE",
+        "THRASH",
+        "ZENHEADBUTT"
+    ],
+    "height": 1.2,
+    "weight": 65.5,
+    "abilities": [
+        "OWNTEMPO",
+        "OBLIVIOUS"
+    ],
+    "hiddenAbilitie": [
+        "CLOUDNINE"
+    ],
+    "baseTotal": 385,
+    "baseStats": [
+        90,
+        55,
+        75,
+        30,
+        60,
+        75
+    ],
+    "flags": [],
+    "name": "Lickitung",
+    "species": "LICKITUNG",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 77,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 108
+}

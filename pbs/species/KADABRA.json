@@ -1,0 +1,181 @@
+{
+    "generation": 1,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "KINESIS"
+        ],
+        [
+            1,
+            "DISABLE"
+        ],
+        [
+            1,
+            "TELEPORT"
+        ],
+        [
+            5,
+            "PSYBEAM"
+        ],
+        [
+            10,
+            "REFLECT"
+        ],
+        [
+            15,
+            "ALLYSWITCH"
+        ],
+        [
+            20,
+            "PSYCHOCUT"
+        ],
+        [
+            25,
+            "RECOVER"
+        ],
+        [
+            30,
+            "PSYSHOCK"
+        ],
+        [
+            35,
+            "PSYCHIC"
+        ],
+        [
+            40,
+            "ROLEPLAY"
+        ],
+        [
+            45,
+            "FUTURESIGHT"
+        ],
+        [
+            50,
+            "CALMMIND"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BODYSLAM",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COUNTER",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "EMBARGO",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "NATURALGIFT",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SPEEDSWAP",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRIATTACK",
+        "TRICK",
+        "TRICKROOM",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 56.5,
+    "abilities": [
+        "SYNCHRONIZE",
+        "INNERFOCUS"
+    ],
+    "hiddenAbilitie": [
+        "MAGICGUARD"
+    ],
+    "baseTotal": 400,
+    "baseStats": [
+        40,
+        35,
+        30,
+        105,
+        120,
+        70
+    ],
+    "flags": [],
+    "name": "Kadabra",
+    "species": "KADABRA",
+    "catchRate": 100,
+    "happiness": 50,
+    "baseExp": 140,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 25,
+    "forms": [],
+    "internationalPokedex": 64
+}

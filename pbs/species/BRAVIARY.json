@@ -1,0 +1,472 @@
+{
+    "generation": 5,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            -1,
+            "SUPERPOWER"
+        ],
+        [
+            1,
+            "SKYATTACK"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "HONECLAWS"
+        ],
+        [
+            1,
+            "WINGATTACK"
+        ],
+        [
+            18,
+            "TAILWIND"
+        ],
+        [
+            24,
+            "SCARYFACE"
+        ],
+        [
+            30,
+            "AERIALACE"
+        ],
+        [
+            36,
+            "SLASH"
+        ],
+        [
+            42,
+            "WHIRLWIND"
+        ],
+        [
+            48,
+            "CRUSHCLAW"
+        ],
+        [
+            57,
+            "AIRSLASH"
+        ],
+        [
+            64,
+            "DEFOG"
+        ],
+        [
+            72,
+            "THRASH"
+        ],
+        [
+            80,
+            "BRAVEBIRD"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AIRSLASH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BRAVEBIRD",
+        "BULKUP",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CUT",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HURRICANE",
+        "HYPERBEAM",
+        "IRONHEAD",
+        "LASERFOCUS",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SKYATTACK",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TOXIC",
+        "UTURN",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 41.0,
+    "abilities": [
+        "KEENEYE",
+        "SHEERFORCE"
+    ],
+    "hiddenAbilitie": [
+        "DEFIANT"
+    ],
+    "baseTotal": 510,
+    "baseStats": [
+        100,
+        123,
+        75,
+        80,
+        57,
+        75
+    ],
+    "flags": [],
+    "name": "Braviary",
+    "species": "BRAVIARY",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 179,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 0,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "NORMAL",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    -1,
+                    "SUPERPOWER"
+                ],
+                [
+                    1,
+                    "SKYATTACK"
+                ],
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "HONECLAWS"
+                ],
+                [
+                    1,
+                    "WINGATTACK"
+                ],
+                [
+                    18,
+                    "TAILWIND"
+                ],
+                [
+                    24,
+                    "SCARYFACE"
+                ],
+                [
+                    30,
+                    "AERIALACE"
+                ],
+                [
+                    36,
+                    "SLASH"
+                ],
+                [
+                    42,
+                    "WHIRLWIND"
+                ],
+                [
+                    48,
+                    "CRUSHCLAW"
+                ],
+                [
+                    57,
+                    "AIRSLASH"
+                ],
+                [
+                    64,
+                    "DEFOG"
+                ],
+                [
+                    72,
+                    "THRASH"
+                ],
+                [
+                    80,
+                    "BRAVEBIRD"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "AIRSLASH",
+                "ASSURANCE",
+                "ATTRACT",
+                "BRAVEBIRD",
+                "BULKUP",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "CUT",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HURRICANE",
+                "HYPERBEAM",
+                "IRONHEAD",
+                "LASERFOCUS",
+                "MIMIC",
+                "NATURALGIFT",
+                "PLUCK",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROOST",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SKYATTACK",
+                "SKYDROP",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "TOXIC",
+                "UTURN",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 41.0,
+            "abilities": [
+                "KEENEYE",
+                "SHEERFORCE"
+            ],
+            "hiddenAbilitie": [
+                "DEFIANT"
+            ],
+            "baseTotal": 510,
+            "baseStats": [
+                100,
+                123,
+                75,
+                80,
+                57,
+                75
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Braviary"
+        },
+        {
+            "generation": 8,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    0,
+                    "ESPERWING"
+                ],
+                [
+                    1,
+                    "SUPERPOWER"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "WINGATTACK"
+                ],
+                [
+                    1,
+                    "HONECLAWS"
+                ],
+                [
+                    1,
+                    "SKYATTACK"
+                ],
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    18,
+                    "TAILWIND"
+                ],
+                [
+                    24,
+                    "SCARYFACE"
+                ],
+                [
+                    30,
+                    "AERIALACE"
+                ],
+                [
+                    36,
+                    "SLASH"
+                ],
+                [
+                    42,
+                    "WHIRLWIND"
+                ],
+                [
+                    48,
+                    "CRUSHCLAW"
+                ],
+                [
+                    57,
+                    "AIRSLASH"
+                ],
+                [
+                    64,
+                    "DEFOG"
+                ],
+                [
+                    72,
+                    "THRASH"
+                ],
+                [
+                    80,
+                    "HURRICANE"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AERIALACE",
+                "AGILITY",
+                "AIRCUTTER",
+                "AIRSLASH",
+                "BODYSLAM",
+                "BRAVEBIRD",
+                "BULKUP",
+                "CALMMIND",
+                "CLOSECOMBAT",
+                "CONFUSERAY",
+                "DAZZLINGGLEAM",
+                "DOUBLEEDGE",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FEATHERDANCE",
+                "FLY",
+                "FUTURESIGHT",
+                "GIGAIMPACT",
+                "HEATWAVE",
+                "HELPINGHAND",
+                "HURRICANE",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICYWIND",
+                "METALCLAW",
+                "NIGHTSHADE",
+                "PROTECT",
+                "PSYBEAM",
+                "PSYCHIC",
+                "PSYCHICNOISE",
+                "PSYCHICTERRAIN",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "SCARYFACE",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SNARL",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWIFT",
+                "TAILWIND",
+                "TAKEDOWN",
+                "UTURN",
+                "VACUUMWAVE",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.7,
+            "weight": 43.4,
+            "abilities": [
+                "KEENEYE",
+                "SHEERFORCE"
+            ],
+            "hiddenAbilitie": [
+                "TINTEDLENS"
+            ],
+            "baseTotal": 510,
+            "baseStats": [
+                110,
+                83,
+                70,
+                65,
+                112,
+                70
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Hisui"
+        }
+    ],
+    "internationalPokedex": 628
+}

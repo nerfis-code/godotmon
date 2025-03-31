@@ -1,0 +1,210 @@
+{
+    "generation": 4,
+    "primaryType": "FIRE",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            -1,
+            "CLOSECOMBAT"
+        ],
+        [
+            -1,
+            "SLACKOFF"
+        ],
+        [
+            -1,
+            "TAUNT"
+        ],
+        [
+            1,
+            "MACHPUNCH"
+        ],
+        [
+            1,
+            "NASTYPLOT"
+        ],
+        [
+            1,
+            "FACADE"
+        ],
+        [
+            1,
+            "FLAMETHROWER"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            12,
+            "POWERUPPUNCH"
+        ],
+        [
+            16,
+            "FURYSWIPES"
+        ],
+        [
+            19,
+            "FLAMEWHEEL"
+        ],
+        [
+            26,
+            "FEINT"
+        ],
+        [
+            29,
+            "TORMENT"
+        ],
+        [
+            29,
+            "UTURN"
+        ],
+        [
+            42,
+            "FIRESPIN"
+        ],
+        [
+            47,
+            "FLAREBLITZ"
+        ],
+        [
+            52,
+            "ACROBATICS"
+        ],
+        [
+            58,
+            "CALMMIND"
+        ],
+        [
+            65,
+            "RAGINGFURY"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "ATTRACT",
+        "BLASTBURN",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPLEDGE",
+        "FIREPUNCH",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "UTURN",
+        "VACUUMWAVE",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 55.0,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "IRONFIST"
+    ],
+    "baseTotal": 534,
+    "baseStats": [
+        76,
+        104,
+        71,
+        108,
+        104,
+        71
+    ],
+    "flags": [],
+    "name": "Infernape",
+    "species": "INFERNAPE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 267,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPECIAL_ATTACK",
+        1,
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 392
+}

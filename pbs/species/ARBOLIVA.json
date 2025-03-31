@@ -1,0 +1,145 @@
+{
+    "generation": 9,
+    "primaryType": "GRASS",
+    "secondaryType": "NORMAL",
+    "moves": [
+        [
+            1,
+            "MIRRORCOAT"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "SAFEGUARD"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            5,
+            "ABSORB"
+        ],
+        [
+            7,
+            "GROWTH"
+        ],
+        [
+            10,
+            "RAZORLEAF"
+        ],
+        [
+            13,
+            "HELPINGHAND"
+        ],
+        [
+            16,
+            "FLAIL"
+        ],
+        [
+            20,
+            "MEGADRAIN"
+        ],
+        [
+            23,
+            "GRASSYTERRAIN"
+        ],
+        [
+            29,
+            "SEEDBOMB"
+        ],
+        [
+            34,
+            "ENERGYBALL"
+        ],
+        [
+            39,
+            "LEECHSEED"
+        ],
+        [
+            46,
+            "TERRAINPULSE"
+        ],
+        [
+            52,
+            "PETALBLIZZARD"
+        ],
+        [
+            58,
+            "PETALDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLURINGVOICE",
+        "BULLETSEED",
+        "CHARM",
+        "DAZZLINGGLEAM",
+        "EARTHPOWER",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLING",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "LEAFSTORM",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "METRONOME",
+        "PETALBLIZZARD",
+        "POLLENPUFF",
+        "PROTECT",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWIFT",
+        "TRAILBLAZE",
+        "WEATHERBALL"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 48.2,
+    "abilities": [
+        "SEEDSOWER"
+    ],
+    "hiddenAbilitie": [
+        "HARVEST"
+    ],
+    "baseTotal": 510,
+    "baseStats": [
+        78,
+        69,
+        90,
+        39,
+        125,
+        109
+    ],
+    "flags": [],
+    "name": "Arboliva",
+    "species": "ARBOLIVA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 255,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 930
+}

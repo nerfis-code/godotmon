@@ -1,0 +1,184 @@
+{
+    "generation": 3,
+    "primaryType": "GRASS",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "LEAFSTORM"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "RAZORLEAF"
+        ],
+        [
+            6,
+            "SWEETSCENT"
+        ],
+        [
+            10,
+            "STOMP"
+        ],
+        [
+            16,
+            "MAGICALLEAF"
+        ],
+        [
+            21,
+            "WHIRLWIND"
+        ],
+        [
+            26,
+            "LEAFTORNADO"
+        ],
+        [
+            30,
+            "DRAGONDANCE"
+        ],
+        [
+            30,
+            "WIDEGUARD"
+        ],
+        [
+            36,
+            "AIRSLASH"
+        ],
+        [
+            41,
+            "BODYSLAM"
+        ],
+        [
+            46,
+            "DRAGONHAMMER"
+        ],
+        [
+            46,
+            "OUTRAGE"
+        ],
+        [
+            50,
+            "SYNTHESIS"
+        ],
+        [
+            56,
+            "SOLARBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "EARTHQUAKE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FLY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OMINOUSWIND",
+        "OUTRAGE",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TAILWIND",
+        "TWISTER",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "CURSE",
+        "DRAGONDANCE",
+        "DRAGONHAMMER",
+        "HEADBUTT",
+        "LEAFBLADE",
+        "LEAFSTORM",
+        "LEECHSEED",
+        "NATUREPOWER",
+        "SLAM",
+        "SYNTHESIS"
+    ],
+    "height": 2.0,
+    "weight": 100.0,
+    "abilities": [
+        "CHLOROPHYLL",
+        "SOLARPOWER"
+    ],
+    "hiddenAbilitie": [
+        "HARVEST"
+    ],
+    "baseTotal": 460,
+    "baseStats": [
+        99,
+        68,
+        83,
+        51,
+        72,
+        87
+    ],
+    "flags": [],
+    "name": "Tropius",
+    "species": "TROPIUS",
+    "catchRate": 200,
+    "happiness": 50,
+    "baseExp": 161,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 357
+}

@@ -1,0 +1,165 @@
+{
+    "generation": 9,
+    "primaryType": "GHOST",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "TACKLE"
+        ]
+    ],
+    "tutorMoves": [
+        "CONFUSERAY",
+        "ENDURE",
+        "HEX",
+        "LIGHTSCREEN",
+        "NASTYPLOT",
+        "NIGHTSHADE",
+        "POWERGEM",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "TAKEDOWN",
+        "THIEF"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 5.0,
+    "abilities": [
+        "RATTLED"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 300,
+    "baseStats": [
+        45,
+        30,
+        70,
+        10,
+        75,
+        70
+    ],
+    "flags": [],
+    "name": "Gimmighoul",
+    "species": "GIMMIGHOUL",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 9,
+            "primaryType": "GHOST",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ]
+            ],
+            "tutorMoves": [
+                "CONFUSERAY",
+                "ENDURE",
+                "HEX",
+                "LIGHTSCREEN",
+                "NASTYPLOT",
+                "NIGHTSHADE",
+                "POWERGEM",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SUBSTITUTE",
+                "TAKEDOWN",
+                "THIEF"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 5.0,
+            "abilities": [
+                "RATTLED"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 300,
+            "baseStats": [
+                45,
+                30,
+                70,
+                10,
+                75,
+                70
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Cofre"
+        },
+        {
+            "generation": 9,
+            "primaryType": "GHOST",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ]
+            ],
+            "tutorMoves": [
+                "CONFUSERAY",
+                "ENDURE",
+                "HEX",
+                "LIGHTSCREEN",
+                "NASTYPLOT",
+                "NIGHTSHADE",
+                "POWERGEM",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SUBSTITUTE",
+                "TAKEDOWN",
+                "THIEF"
+            ],
+            "eggMoves": [],
+            "height": 0.1,
+            "weight": 0.1,
+            "abilities": [
+                "RUNAWAY"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 300,
+            "baseStats": [
+                45,
+                30,
+                70,
+                10,
+                75,
+                70
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Andante"
+        }
+    ],
+    "internationalPokedex": 999
+}

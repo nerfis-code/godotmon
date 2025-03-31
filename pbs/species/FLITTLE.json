@@ -1,0 +1,121 @@
+{
+    "generation": 9,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            5,
+            "CONFUSION"
+        ],
+        [
+            8,
+            "BABYDOLLEYES"
+        ],
+        [
+            11,
+            "DISARMINGVOICE"
+        ],
+        [
+            15,
+            "QUICKATTACK"
+        ],
+        [
+            19,
+            "PSYBEAM"
+        ],
+        [
+            24,
+            "PLUCK"
+        ],
+        [
+            29,
+            "AGILITY"
+        ],
+        [
+            34,
+            "UPROAR"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "BATONPASS",
+        "CALMMIND",
+        "CONFUSERAY",
+        "DISARMINGVOICE",
+        "ENDURE",
+        "FACADE",
+        "FOULPLAY",
+        "HELPINGHAND",
+        "LIGHTSCREEN",
+        "MUDSLAP",
+        "POUNCE",
+        "PROTECT",
+        "PSYBEAM",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "SANDSTORM",
+        "SEEDBOMB",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWIFT",
+        "TAKEDOWN",
+        "THIEF",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "UTURN",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "ALLYSWITCH",
+        "HYPNOSIS",
+        "ROOST"
+    ],
+    "height": 0.2,
+    "weight": 1.5,
+    "abilities": [
+        "ANTICIPATION",
+        "FRISK"
+    ],
+    "hiddenAbilitie": [
+        "SPEEDBOOST"
+    ],
+    "baseTotal": 255,
+    "baseStats": [
+        30,
+        35,
+        30,
+        75,
+        55,
+        30
+    ],
+    "flags": [],
+    "name": "Flittle",
+    "species": "FLITTLE",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 51,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 955
+}

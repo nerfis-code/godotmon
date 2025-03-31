@@ -1,0 +1,125 @@
+{
+    "generation": 8,
+    "primaryType": "FLYING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "POWERTRIP"
+        ],
+        [
+            1,
+            "HONECLAWS"
+        ],
+        [
+            12,
+            "FURYATTACK"
+        ],
+        [
+            16,
+            "PLUCK"
+        ],
+        [
+            22,
+            "TAUNT"
+        ],
+        [
+            28,
+            "SCARYFACE"
+        ],
+        [
+            34,
+            "DRILLPECK"
+        ],
+        [
+            40,
+            "SWAGGER"
+        ],
+        [
+            46,
+            "BRAVEBIRD"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AIRSLASH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BRAVEBIRD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FLY",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "TOXIC",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 16.0,
+    "abilities": [
+        "KEENEYE",
+        "UNNERVE"
+    ],
+    "hiddenAbilitie": [
+        "BIGPECKS"
+    ],
+    "baseTotal": 365,
+    "baseStats": [
+        68,
+        67,
+        55,
+        77,
+        43,
+        55
+    ],
+    "flags": [],
+    "name": "Corvisquire",
+    "species": "CORVISQUIRE",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 128,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 822
+}

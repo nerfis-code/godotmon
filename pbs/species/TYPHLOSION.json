@@ -1,0 +1,520 @@
+{
+    "generation": 2,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ERUPTION"
+        ],
+        [
+            1,
+            "GYROBALL"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "SMOKESCREEN"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            13,
+            "QUICKATTACK"
+        ],
+        [
+            20,
+            "FLAMEWHEEL"
+        ],
+        [
+            24,
+            "DEFENSECURL"
+        ],
+        [
+            31,
+            "SWIFT"
+        ],
+        [
+            35,
+            "FLAMECHARGE"
+        ],
+        [
+            43,
+            "LAVAPLUME"
+        ],
+        [
+            48,
+            "FLAMETHROWER"
+        ],
+        [
+            56,
+            "INFERNO"
+        ],
+        [
+            61,
+            "ROLLOUT"
+        ],
+        [
+            69,
+            "DOUBLEEDGE"
+        ],
+        [
+            74,
+            "BURNUP"
+        ],
+        [
+            74,
+            "OVERHEAT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BLASTBURN",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPLEDGE",
+        "FIREPUNCH",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "LASERFOCUS",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OVERHEAT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "WILDCHARGE",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 79.5,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "FLASHFIRE"
+    ],
+    "baseTotal": 534,
+    "baseStats": [
+        78,
+        84,
+        78,
+        100,
+        109,
+        85
+    ],
+    "flags": [],
+    "name": "Typhlosion",
+    "species": "TYPHLOSION",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 267,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [
+        {
+            "generation": 2,
+            "primaryType": "FIRE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "ERUPTION"
+                ],
+                [
+                    1,
+                    "GYROBALL"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "SMOKESCREEN"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    13,
+                    "QUICKATTACK"
+                ],
+                [
+                    20,
+                    "FLAMEWHEEL"
+                ],
+                [
+                    24,
+                    "DEFENSECURL"
+                ],
+                [
+                    31,
+                    "SWIFT"
+                ],
+                [
+                    35,
+                    "FLAMECHARGE"
+                ],
+                [
+                    43,
+                    "LAVAPLUME"
+                ],
+                [
+                    48,
+                    "FLAMETHROWER"
+                ],
+                [
+                    56,
+                    "INFERNO"
+                ],
+                [
+                    61,
+                    "ROLLOUT"
+                ],
+                [
+                    69,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    74,
+                    "BURNUP"
+                ],
+                [
+                    74,
+                    "OVERHEAT"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ATTRACT",
+                "BLASTBURN",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COUNTER",
+                "COVET",
+                "CUT",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DYNAMICPUNCH",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREPLEDGE",
+                "FIREPUNCH",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INCINERATE",
+                "LASERFOCUS",
+                "LOWKICK",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "OVERHEAT",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKCLIMB",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROLLOUT",
+                "ROUND",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "THROATCHOP",
+                "THUNDERPUNCH",
+                "WILDCHARGE",
+                "WILLOWISP",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 1.7,
+            "weight": 79.5,
+            "abilities": [
+                "BLAZE"
+            ],
+            "hiddenAbilitie": [
+                "FLASHFIRE"
+            ],
+            "baseTotal": 534,
+            "baseStats": [
+                78,
+                84,
+                78,
+                100,
+                109,
+                85
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Typhlosion"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FIRE",
+            "secondaryType": "GHOST",
+            "moves": [
+                [
+                    0,
+                    "INFERNALPARADE"
+                ],
+                [
+                    1,
+                    "GYROBALL"
+                ],
+                [
+                    1,
+                    "ERUPTION"
+                ],
+                [
+                    1,
+                    "SMOKESCREEN"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "EMBER"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    13,
+                    "QUICKATTACK"
+                ],
+                [
+                    20,
+                    "FLAMEWHEEL"
+                ],
+                [
+                    24,
+                    "DEFENSECURL"
+                ],
+                [
+                    31,
+                    "SWIFT"
+                ],
+                [
+                    35,
+                    "FLAMECHARGE"
+                ],
+                [
+                    43,
+                    "LAVAPLUME"
+                ],
+                [
+                    48,
+                    "FLAMETHROWER"
+                ],
+                [
+                    56,
+                    "INFERNO"
+                ],
+                [
+                    61,
+                    "ROLLOUT"
+                ],
+                [
+                    74,
+                    "OVERHEAT"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "BLASTBURN",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULLDOZE",
+                "BURNINGJEALOUSY",
+                "CALMMIND",
+                "CONFUSERAY",
+                "CURSE",
+                "DIG",
+                "DOUBLEEDGE",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FIREPLEDGE",
+                "FIREPUNCH",
+                "FIRESPIN",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HEATWAVE",
+                "HEX",
+                "HYPERBEAM",
+                "IRONHEAD",
+                "LOWKICK",
+                "NIGHTSHADE",
+                "OVERHEAT",
+                "PLAYROUGH",
+                "POLTERGEIST",
+                "PROTECT",
+                "REST",
+                "REVERSAL",
+                "ROAR",
+                "ROCKSLIDE",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SPITE",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWIFT",
+                "TAKEDOWN",
+                "TEMPERFLARE",
+                "THUNDERPUNCH",
+                "WILDCHARGE",
+                "WILLOWISP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.6,
+            "weight": 69.7,
+            "abilities": [
+                "BLAZE"
+            ],
+            "hiddenAbilitie": [
+                "FRISK"
+            ],
+            "baseTotal": 534,
+            "baseStats": [
+                73,
+                84,
+                78,
+                95,
+                119,
+                85
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Hisui"
+        }
+    ],
+    "internationalPokedex": 157
+}

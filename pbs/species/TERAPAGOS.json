@@ -1,0 +1,536 @@
+{
+    "generation": 9,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            1,
+            "TRIATTACK"
+        ],
+        [
+            1,
+            "RAPIDSPIN"
+        ],
+        [
+            10,
+            "ANCIENTPOWER"
+        ],
+        [
+            20,
+            "HEADBUTT"
+        ],
+        [
+            30,
+            "PROTECT"
+        ],
+        [
+            40,
+            "EARTHPOWER"
+        ],
+        [
+            50,
+            "HEAVYSLAM"
+        ],
+        [
+            60,
+            "TERASTARSTORM"
+        ],
+        [
+            70,
+            "DOUBLEEDGE"
+        ],
+        [
+            80,
+            "ROCKPOLISH"
+        ],
+        [
+            90,
+            "GYROBALL"
+        ]
+    ],
+    "tutorMoves": [
+        "AURASPHERE",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BUGBUZZ",
+        "CALMMIND",
+        "CRUNCH",
+        "DARKPULSE",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DRAGONPULSE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLASHCANNON",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "GYROBALL",
+        "HEATCRASH",
+        "HEAVYSLAM",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICESPINNER",
+        "IRONHEAD",
+        "METEORBEAM",
+        "POWERGEM",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "ROAR",
+        "ROCKSLIDE",
+        "SCORCHINGSANDS",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERCELLSLAM",
+        "SURF",
+        "TAKEDOWN",
+        "THUNDER",
+        "THUNDERBOLT",
+        "TOXIC",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WILDCHARGE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.2,
+    "weight": 6.5,
+    "abilities": [
+        "TERASHIFT"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 450,
+    "baseStats": [
+        90,
+        65,
+        85,
+        60,
+        65,
+        85
+    ],
+    "flags": [
+        "Legendary",
+        "TeraType_STELLAR"
+    ],
+    "name": "Terapagos",
+    "species": "TERAPAGOS",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 90,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 9,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WITHDRAW"
+                ],
+                [
+                    1,
+                    "TRIATTACK"
+                ],
+                [
+                    1,
+                    "RAPIDSPIN"
+                ],
+                [
+                    10,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    20,
+                    "HEADBUTT"
+                ],
+                [
+                    30,
+                    "PROTECT"
+                ],
+                [
+                    40,
+                    "EARTHPOWER"
+                ],
+                [
+                    50,
+                    "HEAVYSLAM"
+                ],
+                [
+                    60,
+                    "TERASTARSTORM"
+                ],
+                [
+                    70,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    80,
+                    "ROCKPOLISH"
+                ],
+                [
+                    90,
+                    "GYROBALL"
+                ]
+            ],
+            "tutorMoves": [
+                "AURASPHERE",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BUGBUZZ",
+                "CALMMIND",
+                "CRUNCH",
+                "DARKPULSE",
+                "DAZZLINGGLEAM",
+                "DOUBLEEDGE",
+                "DRAGONPULSE",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FLASHCANNON",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GYROBALL",
+                "HEATCRASH",
+                "HEAVYSLAM",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICESPINNER",
+                "IRONHEAD",
+                "METEORBEAM",
+                "POWERGEM",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "ROAR",
+                "ROCKSLIDE",
+                "SCORCHINGSANDS",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERCELLSLAM",
+                "SURF",
+                "TAKEDOWN",
+                "THUNDER",
+                "THUNDERBOLT",
+                "TOXIC",
+                "WATERPULSE",
+                "WEATHERBALL",
+                "WILDCHARGE",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.2,
+            "weight": 6.5,
+            "abilities": [
+                "TERASHIFT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 450,
+            "baseStats": [
+                90,
+                65,
+                85,
+                60,
+                65,
+                85
+            ],
+            "flags": [
+                "Legendary",
+                "TeraType_STELLAR"
+            ],
+            "form": 0,
+            "formName": "Forma Normal"
+        },
+        {
+            "generation": 9,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WITHDRAW"
+                ],
+                [
+                    1,
+                    "TRIATTACK"
+                ],
+                [
+                    1,
+                    "RAPIDSPIN"
+                ],
+                [
+                    10,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    20,
+                    "HEADBUTT"
+                ],
+                [
+                    30,
+                    "PROTECT"
+                ],
+                [
+                    40,
+                    "EARTHPOWER"
+                ],
+                [
+                    50,
+                    "HEAVYSLAM"
+                ],
+                [
+                    60,
+                    "TERASTARSTORM"
+                ],
+                [
+                    70,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    80,
+                    "ROCKPOLISH"
+                ],
+                [
+                    90,
+                    "GYROBALL"
+                ]
+            ],
+            "tutorMoves": [
+                "AURASPHERE",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BUGBUZZ",
+                "CALMMIND",
+                "CRUNCH",
+                "DARKPULSE",
+                "DAZZLINGGLEAM",
+                "DOUBLEEDGE",
+                "DRAGONPULSE",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FLASHCANNON",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GYROBALL",
+                "HEATCRASH",
+                "HEAVYSLAM",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICESPINNER",
+                "IRONHEAD",
+                "METEORBEAM",
+                "POWERGEM",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "ROAR",
+                "ROCKSLIDE",
+                "SCORCHINGSANDS",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERCELLSLAM",
+                "SURF",
+                "TAKEDOWN",
+                "THUNDER",
+                "THUNDERBOLT",
+                "TOXIC",
+                "WATERPULSE",
+                "WEATHERBALL",
+                "WILDCHARGE",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 16.0,
+            "abilities": [
+                "TERASHELL"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                95,
+                95,
+                110,
+                85,
+                105,
+                110
+            ],
+            "flags": [
+                "Legendary",
+                "TeraType_STELLAR"
+            ],
+            "form": 1,
+            "formName": "Forma Teracristal"
+        },
+        {
+            "generation": 9,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WITHDRAW"
+                ],
+                [
+                    1,
+                    "TRIATTACK"
+                ],
+                [
+                    1,
+                    "RAPIDSPIN"
+                ],
+                [
+                    10,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    20,
+                    "HEADBUTT"
+                ],
+                [
+                    30,
+                    "PROTECT"
+                ],
+                [
+                    40,
+                    "EARTHPOWER"
+                ],
+                [
+                    50,
+                    "HEAVYSLAM"
+                ],
+                [
+                    60,
+                    "TERASTARSTORM"
+                ],
+                [
+                    70,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    80,
+                    "ROCKPOLISH"
+                ],
+                [
+                    90,
+                    "GYROBALL"
+                ]
+            ],
+            "tutorMoves": [
+                "AURASPHERE",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BUGBUZZ",
+                "CALMMIND",
+                "CRUNCH",
+                "DARKPULSE",
+                "DAZZLINGGLEAM",
+                "DOUBLEEDGE",
+                "DRAGONPULSE",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FLASHCANNON",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "GYROBALL",
+                "HEATCRASH",
+                "HEAVYSLAM",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICESPINNER",
+                "IRONHEAD",
+                "METEORBEAM",
+                "POWERGEM",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "ROAR",
+                "ROCKSLIDE",
+                "SCORCHINGSANDS",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERCELLSLAM",
+                "SURF",
+                "TAKEDOWN",
+                "THUNDER",
+                "THUNDERBOLT",
+                "TOXIC",
+                "WATERPULSE",
+                "WEATHERBALL",
+                "WILDCHARGE",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.7,
+            "weight": 77.0,
+            "abilities": [
+                "TERAFORMZERO"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 700,
+            "baseStats": [
+                160,
+                105,
+                110,
+                85,
+                130,
+                110
+            ],
+            "flags": [
+                "Legendary",
+                "TeraType_STELLAR"
+            ],
+            "form": 2,
+            "formName": "Forma Astral"
+        }
+    ],
+    "internationalPokedex": 1024
+}

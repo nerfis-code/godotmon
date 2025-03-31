@@ -1,0 +1,130 @@
+{
+    "generation": 9,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "DISARMINGVOICE"
+        ],
+        [
+            8,
+            "ECHOEDVOICE"
+        ],
+        [
+            12,
+            "MUDSHOT"
+        ],
+        [
+            15,
+            "COVET"
+        ],
+        [
+            17,
+            "DIG"
+        ],
+        [
+            21,
+            "HEADBUTT"
+        ],
+        [
+            24,
+            "YAWN"
+        ],
+        [
+            27,
+            "TAKEDOWN"
+        ],
+        [
+            30,
+            "WORKUP"
+        ],
+        [
+            32,
+            "UPROAR"
+        ],
+        [
+            35,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYSLAM",
+        "BULLDOZE",
+        "BULLETSEED",
+        "CHILLINGWATER",
+        "CURSE",
+        "DIG",
+        "DISARMINGVOICE",
+        "DOUBLEEDGE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "HELPINGHAND",
+        "HYPERVOICE",
+        "IRONHEAD",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "TAKEDOWN",
+        "THIEF",
+        "TRAILBLAZE",
+        "UPROAR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "ENDEAVOR",
+        "SPITUP",
+        "STOCKPILE",
+        "STUFFCHEEKS",
+        "SWALLOW"
+    ],
+    "height": 0.5,
+    "weight": 10.2,
+    "abilities": [
+        "AROMAVEIL",
+        "GLUTTONY"
+    ],
+    "hiddenAbilitie": [
+        "THICKFAT"
+    ],
+    "baseTotal": 254,
+    "baseStats": [
+        54,
+        45,
+        40,
+        35,
+        35,
+        45
+    ],
+    "flags": [],
+    "name": "Lechonk",
+    "species": "LECHONK",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 51,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 915
+}

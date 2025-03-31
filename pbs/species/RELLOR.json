@@ -1,0 +1,111 @@
+{
+    "generation": 9,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            4,
+            "SANDATTACK"
+        ],
+        [
+            7,
+            "STRUGGLEBUG"
+        ],
+        [
+            11,
+            "ROLLOUT"
+        ],
+        [
+            15,
+            "MUDSHOT"
+        ],
+        [
+            20,
+            "BUGBITE"
+        ],
+        [
+            24,
+            "TAKEDOWN"
+        ],
+        [
+            29,
+            "DIG"
+        ],
+        [
+            35,
+            "LUNGE"
+        ]
+    ],
+    "tutorMoves": [
+        "BUGBITE",
+        "BUGBUZZ",
+        "DIG",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "GUNKSHOT",
+        "IRONDEFENSE",
+        "LEECHLIFE",
+        "LUNGE",
+        "MUDSHOT",
+        "MUDSLAP",
+        "POUNCE",
+        "PROTECT",
+        "REST",
+        "ROCKTOMB",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "TAKEDOWN",
+        "THIEF",
+        "WEATHERBALL",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "COSMICPOWER",
+        "MEMENTO",
+        "RECOVER",
+        "WEATHERBALL"
+    ],
+    "height": 0.2,
+    "weight": 1.0,
+    "abilities": [
+        "COMPOUNDEYES"
+    ],
+    "hiddenAbilitie": [
+        "SHEDSKIN"
+    ],
+    "baseTotal": 270,
+    "baseStats": [
+        41,
+        50,
+        60,
+        30,
+        31,
+        58
+    ],
+    "flags": [],
+    "name": "Rellor",
+    "species": "RELLOR",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 54,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 953
+}

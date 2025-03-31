@@ -1,0 +1,194 @@
+{
+    "generation": 1,
+    "primaryType": "ICE",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "SWEETKISS"
+        ],
+        [
+            1,
+            "LICK"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "COPYCAT"
+        ],
+        [
+            12,
+            "CONFUSION"
+        ],
+        [
+            16,
+            "COVET"
+        ],
+        [
+            20,
+            "SING"
+        ],
+        [
+            24,
+            "FAKETEARS"
+        ],
+        [
+            28,
+            "ICEPUNCH"
+        ],
+        [
+            34,
+            "PSYCHIC"
+        ],
+        [
+            40,
+            "LOVELYKISS"
+        ],
+        [
+            46,
+            "MEANLOOK"
+        ],
+        [
+            52,
+            "PERISHSONG"
+        ],
+        [
+            58,
+            "BLIZZARD"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "AURORAVEIL",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FAKETEARS",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HAIL",
+        "HEADBUTT",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "TORMENT",
+        "TRICK",
+        "TRICKROOM",
+        "TRIPLEAXEL",
+        "UPROAR",
+        "WATERPULSE",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 40.6,
+    "abilities": [
+        "OBLIVIOUS",
+        "FOREWARN"
+    ],
+    "hiddenAbilitie": [
+        "DRYSKIN"
+    ],
+    "baseTotal": 455,
+    "baseStats": [
+        65,
+        50,
+        35,
+        95,
+        115,
+        95
+    ],
+    "flags": [],
+    "name": "Jynx",
+    "species": "JYNX",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 159,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 124
+}

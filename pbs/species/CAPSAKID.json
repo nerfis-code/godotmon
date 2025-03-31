@@ -1,0 +1,123 @@
+{
+    "generation": 9,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "LEAFAGE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            4,
+            "BITE"
+        ],
+        [
+            10,
+            "GROWTH"
+        ],
+        [
+            13,
+            "RAZORLEAF"
+        ],
+        [
+            17,
+            "SUNNYDAY"
+        ],
+        [
+            21,
+            "BULLETSEED"
+        ],
+        [
+            24,
+            "HEADBUTT"
+        ],
+        [
+            28,
+            "ZENHEADBUTT"
+        ],
+        [
+            38,
+            "CRUNCH"
+        ],
+        [
+            44,
+            "SEEDBOMB"
+        ],
+        [
+            48,
+            "SOLARBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "BULLETSEED",
+        "CRUNCH",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "LEAFSTORM",
+        "MAGICALLEAF",
+        "PROTECT",
+        "REST",
+        "SANDSTORM",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "TAKEDOWN",
+        "THIEF",
+        "TRAILBLAZE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "INGRAIN",
+        "LEECHSEED",
+        "RAGEPOWDER",
+        "ROLLOUT",
+        "WORRYSEED"
+    ],
+    "height": 0.3,
+    "weight": 3.0,
+    "abilities": [
+        "CHLOROPHYLL",
+        "INSOMNIA"
+    ],
+    "hiddenAbilitie": [
+        "KLUTZ"
+    ],
+    "baseTotal": 304,
+    "baseStats": [
+        50,
+        62,
+        40,
+        50,
+        62,
+        40
+    ],
+    "flags": [],
+    "name": "Capsakid",
+    "species": "CAPSAKID",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 951
+}

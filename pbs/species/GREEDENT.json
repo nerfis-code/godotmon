@@ -1,0 +1,146 @@
+{
+    "generation": 8,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "COVET"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "STUFFCHEEKS"
+        ],
+        [
+            15,
+            "STOCKPILE"
+        ],
+        [
+            15,
+            "SWALLOW"
+        ],
+        [
+            15,
+            "SPITUP"
+        ],
+        [
+            20,
+            "BODYSLAM"
+        ],
+        [
+            27,
+            "REST"
+        ],
+        [
+            34,
+            "COUNTER"
+        ],
+        [
+            41,
+            "BULLETSEED"
+        ],
+        [
+            48,
+            "SUPERFANG"
+        ],
+        [
+            55,
+            "BELCH"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRUTALSWING",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FLING",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEFANG",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAILSLAP",
+        "THIEF",
+        "THUNDERFANG",
+        "TOXIC",
+        "UPROAR",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 6.0,
+    "abilities": [
+        "CHEEKPOUCH"
+    ],
+    "hiddenAbilitie": [
+        "GLUTTONY"
+    ],
+    "baseTotal": 460,
+    "baseStats": [
+        120,
+        95,
+        95,
+        20,
+        55,
+        75
+    ],
+    "flags": [],
+    "name": "Greedent",
+    "species": "GREEDENT",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 161,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 820
+}

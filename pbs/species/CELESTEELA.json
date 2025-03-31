@@ -1,0 +1,166 @@
+{
+    "generation": 7,
+    "primaryType": "STEEL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "HARDEN"
+        ],
+        [
+            10,
+            "WIDEGUARD"
+        ],
+        [
+            15,
+            "MEGADRAIN"
+        ],
+        [
+            20,
+            "SMACKDOWN"
+        ],
+        [
+            25,
+            "INGRAIN"
+        ],
+        [
+            30,
+            "AUTOTOMIZE"
+        ],
+        [
+            35,
+            "GIGADRAIN"
+        ],
+        [
+            40,
+            "FLASHCANNON"
+        ],
+        [
+            45,
+            "METALSOUND"
+        ],
+        [
+            50,
+            "IRONDEFENSE"
+        ],
+        [
+            55,
+            "LEECHSEED"
+        ],
+        [
+            60,
+            "HEAVYSLAM"
+        ],
+        [
+            65,
+            "DOUBLEEDGE"
+        ],
+        [
+            70,
+            "SKULLBASH"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AIRSLASH",
+        "BLOCK",
+        "BODYSLAM",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLASHCANNON",
+        "FLY",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GYROBALL",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MAGNETRISE",
+        "MEGAHORN",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SELFDESTRUCT",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELBEAM",
+        "STEELROLLER",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TOXIC",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 9.2,
+    "weight": 999.9,
+    "abilities": [
+        "BEASTBOOST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        97,
+        101,
+        103,
+        61,
+        107,
+        101
+    ],
+    "flags": [
+        "UltraBeast"
+    ],
+    "name": "Celesteela",
+    "species": "CELESTEELA",
+    "catchRate": 45,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "ATTACK",
+        1,
+        "DEFENSE",
+        1,
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 797
+}

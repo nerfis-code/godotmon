@@ -1,0 +1,140 @@
+{
+    "generation": 5,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "CHARGE"
+        ],
+        [
+            1,
+            "THUNDERWAVE"
+        ],
+        [
+            11,
+            "SHOCKWAVE"
+        ],
+        [
+            18,
+            "FLAMECHARGE"
+        ],
+        [
+            22,
+            "PURSUIT"
+        ],
+        [
+            25,
+            "SPARK"
+        ],
+        [
+            31,
+            "STOMP"
+        ],
+        [
+            36,
+            "DISCHARGE"
+        ],
+        [
+            42,
+            "AGILITY"
+        ],
+        [
+            47,
+            "WILDCHARGE"
+        ],
+        [
+            53,
+            "THRASH"
+        ],
+        [
+            58,
+            "IONDELUGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLAMECHARGE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 79.5,
+    "abilities": [
+        "LIGHTNINGROD",
+        "MOTORDRIVE"
+    ],
+    "hiddenAbilitie": [
+        "SAPSIPPER"
+    ],
+    "baseTotal": 497,
+    "baseStats": [
+        75,
+        100,
+        63,
+        116,
+        80,
+        63
+    ],
+    "flags": [],
+    "name": "Zebstrika",
+    "species": "ZEBSTRIKA",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 174,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 523
+}

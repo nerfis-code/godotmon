@@ -1,0 +1,139 @@
+{
+    "generation": 8,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ELECTRIFY"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "NUZZLE"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            15,
+            "ROAR"
+        ],
+        [
+            20,
+            "SPARK"
+        ],
+        [
+            28,
+            "CHARM"
+        ],
+        [
+            34,
+            "CRUNCH"
+        ],
+        [
+            41,
+            "CHARGE"
+        ],
+        [
+            48,
+            "WILDCHARGE"
+        ],
+        [
+            55,
+            "PLAYROUGH"
+        ],
+        [
+            62,
+            "ELECTRICTERRAIN"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "BULKUP",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "CRUNCH",
+        "DIG",
+        "DOUBLETEAM",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UPROAR",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 34.0,
+    "abilities": [
+        "STRONGJAW"
+    ],
+    "hiddenAbilitie": [
+        "COMPETITIVE"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        69,
+        90,
+        60,
+        121,
+        90,
+        60
+    ],
+    "flags": [],
+    "name": "Boltund",
+    "species": "BOLTUND",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 172,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 836
+}

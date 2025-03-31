@@ -1,0 +1,168 @@
+{
+    "generation": 6,
+    "primaryType": "GHOST",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            4,
+            "BRANCHPOKE"
+        ],
+        [
+            8,
+            "LEECHSEED"
+        ],
+        [
+            12,
+            "CONFUSERAY"
+        ],
+        [
+            16,
+            "WILLOWISP"
+        ],
+        [
+            20,
+            "HEX"
+        ],
+        [
+            24,
+            "GROWTH"
+        ],
+        [
+            28,
+            "HORNLEECH"
+        ],
+        [
+            32,
+            "CURSE"
+        ],
+        [
+            36,
+            "PHANTOMFORCE"
+        ],
+        [
+            40,
+            "INGRAIN"
+        ],
+        [
+            44,
+            "WOODHAMMER"
+        ],
+        [
+            48,
+            "DESTINYBOND"
+        ],
+        [
+            52,
+            "FORESTSCURSE"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "HEX",
+        "HIDDENPOWER",
+        "IMPRISON",
+        "MAGICALLEAF",
+        "MAGICCOAT",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAINSPLIT",
+        "PHANTOMFORCE",
+        "POISONJAB",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHIC",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SKILLSWAP",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THIEF",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "VENOMDRENCH",
+        "WILLOWISP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "DISABLE",
+        "GRUDGE",
+        "SUCKERPUNCH"
+    ],
+    "height": 0.4,
+    "weight": 7.0,
+    "abilities": [
+        "NATURALCURE",
+        "FRISK"
+    ],
+    "hiddenAbilitie": [
+        "HARVEST"
+    ],
+    "baseTotal": 309,
+    "baseStats": [
+        43,
+        70,
+        48,
+        38,
+        50,
+        60
+    ],
+    "flags": [],
+    "name": "Phantump",
+    "species": "PHANTUMP",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 708
+}

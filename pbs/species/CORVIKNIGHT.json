@@ -1,0 +1,447 @@
+{
+    "generation": 8,
+    "primaryType": "FLYING",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            -1,
+            "STEELWING"
+        ],
+        [
+            1,
+            "IRONDEFENSE"
+        ],
+        [
+            1,
+            "METALSOUND"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "POWERTRIP"
+        ],
+        [
+            1,
+            "HONECLAWS"
+        ],
+        [
+            1,
+            "SCREECH"
+        ],
+        [
+            12,
+            "FURYATTACK"
+        ],
+        [
+            16,
+            "PLUCK"
+        ],
+        [
+            22,
+            "TAUNT"
+        ],
+        [
+            28,
+            "SCARYFACE"
+        ],
+        [
+            34,
+            "DRILLPECK"
+        ],
+        [
+            42,
+            "SWAGGER"
+        ],
+        [
+            50,
+            "BRAVEBIRD"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AIRSLASH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRAVEBIRD",
+        "BULKUP",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FLASHCANNON",
+        "FLY",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROUND",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELBEAM",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "TOXIC",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 2.2,
+    "weight": 75.0,
+    "abilities": [
+        "PRESSURE",
+        "UNNERVE"
+    ],
+    "hiddenAbilitie": [
+        "MIRRORARMOR"
+    ],
+    "baseTotal": 495,
+    "baseStats": [
+        98,
+        87,
+        105,
+        67,
+        53,
+        85
+    ],
+    "flags": [],
+    "name": "Corviknight",
+    "species": "CORVIKNIGHT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 248,
+    "evs": [
+        "DEFENSE",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "FLYING",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    -1,
+                    "STEELWING"
+                ],
+                [
+                    1,
+                    "IRONDEFENSE"
+                ],
+                [
+                    1,
+                    "METALSOUND"
+                ],
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "POWERTRIP"
+                ],
+                [
+                    1,
+                    "HONECLAWS"
+                ],
+                [
+                    1,
+                    "SCREECH"
+                ],
+                [
+                    12,
+                    "FURYATTACK"
+                ],
+                [
+                    16,
+                    "PLUCK"
+                ],
+                [
+                    22,
+                    "TAUNT"
+                ],
+                [
+                    28,
+                    "SCARYFACE"
+                ],
+                [
+                    34,
+                    "DRILLPECK"
+                ],
+                [
+                    42,
+                    "SWAGGER"
+                ],
+                [
+                    50,
+                    "BRAVEBIRD"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "AIRSLASH",
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRAVEBIRD",
+                "BULKUP",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FLASHCANNON",
+                "FLY",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HURRICANE",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROUND",
+                "SCARYFACE",
+                "SCREECH",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELBEAM",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THIEF",
+                "TOXIC",
+                "UTURN",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 2.2,
+            "weight": 75.0,
+            "abilities": [
+                "PRESSURE",
+                "UNNERVE"
+            ],
+            "hiddenAbilitie": [
+                "MIRRORARMOR"
+            ],
+            "baseTotal": 495,
+            "baseStats": [
+                98,
+                87,
+                105,
+                67,
+                53,
+                85
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Corviknight"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FLYING",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    -1,
+                    "STEELWING"
+                ],
+                [
+                    1,
+                    "IRONDEFENSE"
+                ],
+                [
+                    1,
+                    "METALSOUND"
+                ],
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "POWERTRIP"
+                ],
+                [
+                    1,
+                    "HONECLAWS"
+                ],
+                [
+                    1,
+                    "SCREECH"
+                ],
+                [
+                    12,
+                    "FURYATTACK"
+                ],
+                [
+                    16,
+                    "PLUCK"
+                ],
+                [
+                    22,
+                    "TAUNT"
+                ],
+                [
+                    28,
+                    "SCARYFACE"
+                ],
+                [
+                    34,
+                    "DRILLPECK"
+                ],
+                [
+                    42,
+                    "SWAGGER"
+                ],
+                [
+                    50,
+                    "BRAVEBIRD"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "AIRSLASH",
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRAVEBIRD",
+                "BULKUP",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "FACADE",
+                "FAKETEARS",
+                "FLASHCANNON",
+                "FLY",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HURRICANE",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROUND",
+                "SCARYFACE",
+                "SCREECH",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELBEAM",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THIEF",
+                "TOXIC",
+                "UTURN",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 14.0,
+            "weight": 75.0,
+            "abilities": [
+                "PRESSURE",
+                "UNNERVE"
+            ],
+            "hiddenAbilitie": [
+                "MIRRORARMOR"
+            ],
+            "baseTotal": 495,
+            "baseStats": [
+                98,
+                87,
+                105,
+                67,
+                53,
+                85
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 823
+}

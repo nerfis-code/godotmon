@@ -1,0 +1,127 @@
+{
+    "generation": 9,
+    "primaryType": "POISON",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            -1,
+            "DEFENSECURL"
+        ],
+        [
+            -1,
+            "ROLLOUT"
+        ],
+        [
+            -1,
+            "MEANLOOK"
+        ],
+        [
+            1,
+            "SMOG"
+        ],
+        [
+            1,
+            "POISONGAS"
+        ],
+        [
+            1,
+            "MEMENTO"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            8,
+            "WITHDRAW"
+        ],
+        [
+            16,
+            "DESTINYBOND"
+        ],
+        [
+            24,
+            "FAKETEARS"
+        ],
+        [
+            32,
+            "PARTINGSHOT"
+        ],
+        [
+            40,
+            "SHADOWBALL"
+        ],
+        [
+            48,
+            "MALIGNANTCHAIN"
+        ],
+        [
+            56,
+            "TOXIC"
+        ],
+        [
+            64,
+            "NASTYPLOT"
+        ],
+        [
+            72,
+            "RECOVER"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "CURSE",
+        "ENDURE",
+        "FAKETEARS",
+        "FOULPLAY",
+        "GUNKSHOT",
+        "HEX",
+        "IMPRISON",
+        "NASTYPLOT",
+        "NIGHTSHADE",
+        "PHANTOMFORCE",
+        "POLTERGEIST",
+        "PROTECT",
+        "REST",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SPITE",
+        "SUBSTITUTE",
+        "TOXIC",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 0.3,
+    "abilities": [
+        "POISONPUPPETEER"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        88,
+        88,
+        160,
+        88,
+        88,
+        88
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Pecharunt",
+    "species": "PECHARUNT",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 300,
+    "evs": [
+        "DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 1025
+}

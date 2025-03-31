@@ -1,0 +1,167 @@
+{
+    "generation": 1,
+    "primaryType": "GRASS",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            -1,
+            "STOCKPILE"
+        ],
+        [
+            -1,
+            "SWALLOW"
+        ],
+        [
+            -1,
+            "SPITUP"
+        ],
+        [
+            -1,
+            "GASTROACID"
+        ],
+        [
+            -1,
+            "LEAFSTORM"
+        ],
+        [
+            -1,
+            "POWERWHIP"
+        ],
+        [
+            0,
+            "LEAFTORNADO"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "POISONPOWDER"
+        ],
+        [
+            1,
+            "STUNSPORE"
+        ],
+        [
+            1,
+            "ACID"
+        ],
+        [
+            1,
+            "KNOCKOFF"
+        ],
+        [
+            1,
+            "POISONJAB"
+        ],
+        [
+            1,
+            "SLAM"
+        ],
+        [
+            1,
+            "VINEWHIP"
+        ],
+        [
+            1,
+            "SLEEPPOWDER"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            1,
+            "RAZORLEAF"
+        ],
+        [
+            44,
+            "LEAFBLADE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BIND",
+        "BODYSLAM",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "KNOCKOFF",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POISONJAB",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THIEF",
+        "VENOSHOCK",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 15.5,
+    "abilities": [
+        "CHLOROPHYLL"
+    ],
+    "hiddenAbilitie": [
+        "GLUTTONY"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        80,
+        105,
+        65,
+        70,
+        100,
+        70
+    ],
+    "flags": [],
+    "name": "Victreebel",
+    "species": "VICTREEBEL",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 245,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 71
+}

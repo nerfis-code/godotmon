@@ -1,0 +1,177 @@
+{
+    "generation": 5,
+    "primaryType": "GROUND",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            1,
+            "POWERTRIP"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "HONECLAWS"
+        ],
+        [
+            9,
+            "SANDTOMB"
+        ],
+        [
+            12,
+            "SCARYFACE"
+        ],
+        [
+            15,
+            "BITE"
+        ],
+        [
+            18,
+            "TORMENT"
+        ],
+        [
+            21,
+            "DIG"
+        ],
+        [
+            24,
+            "SWAGGER"
+        ],
+        [
+            27,
+            "CRUNCH"
+        ],
+        [
+            32,
+            "SANDSTORM"
+        ],
+        [
+            35,
+            "FOULPLAY"
+        ],
+        [
+            42,
+            "EARTHQUAKE"
+        ],
+        [
+            47,
+            "THRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FLING",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "INCINERATE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THUNDERFANG",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 33.4,
+    "abilities": [
+        "INTIMIDATE",
+        "MOXIE"
+    ],
+    "hiddenAbilitie": [
+        "ANGERPOINT"
+    ],
+    "baseTotal": 351,
+    "baseStats": [
+        60,
+        82,
+        45,
+        74,
+        45,
+        45
+    ],
+    "flags": [],
+    "name": "Krokorok",
+    "species": "KROKOROK",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 123,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 552
+}

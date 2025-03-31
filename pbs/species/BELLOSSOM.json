@@ -1,0 +1,161 @@
+{
+    "generation": 2,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "PETALBLIZZARD"
+        ],
+        [
+            1,
+            "QUIVERDANCE"
+        ],
+        [
+            1,
+            "MEGADRAIN"
+        ],
+        [
+            1,
+            "POISONPOWDER"
+        ],
+        [
+            1,
+            "STUNSPORE"
+        ],
+        [
+            1,
+            "SLEEPPOWDER"
+        ],
+        [
+            1,
+            "GIGADRAIN"
+        ],
+        [
+            1,
+            "TOXIC"
+        ],
+        [
+            1,
+            "MOONBLAST"
+        ],
+        [
+            1,
+            "GRASSYTERRAIN"
+        ],
+        [
+            1,
+            "MOONLIGHT"
+        ],
+        [
+            1,
+            "PETALDANCE"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "ACID"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BATONPASS",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "CUT",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "LASERFOCUS",
+        "LEAFBLADE",
+        "LEAFSTORM",
+        "MAGICALLEAF",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PLAYROUGH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TOXIC",
+        "UPROAR",
+        "VENOSHOCK",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 0.4,
+    "weight": 5.8,
+    "abilities": [
+        "CHLOROPHYLL"
+    ],
+    "hiddenAbilitie": [
+        "HEALER"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        75,
+        80,
+        95,
+        50,
+        90,
+        100
+    ],
+    "flags": [],
+    "name": "Bellossom",
+    "species": "BELLOSSOM",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 245,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 182
+}

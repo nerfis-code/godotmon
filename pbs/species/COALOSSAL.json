@@ -1,0 +1,447 @@
+{
+    "generation": 8,
+    "primaryType": "ROCK",
+    "secondaryType": "FIRE",
+    "moves": [
+        [
+            -1,
+            "TARSHOT"
+        ],
+        [
+            1,
+            "FLAMECHARGE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "SMOKESCREEN"
+        ],
+        [
+            1,
+            "RAPIDSPIN"
+        ],
+        [
+            1,
+            "SMACKDOWN"
+        ],
+        [
+            15,
+            "ROCKPOLISH"
+        ],
+        [
+            20,
+            "ANCIENTPOWER"
+        ],
+        [
+            27,
+            "INCINERATE"
+        ],
+        [
+            37,
+            "STEALTHROCK"
+        ],
+        [
+            45,
+            "HEATCRASH"
+        ],
+        [
+            54,
+            "ROCKBLAST"
+        ],
+        [
+            63,
+            "BURNUP"
+        ],
+        [
+            63,
+            "STONEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FIRESPIN",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEATCRASH",
+        "HEATWAVE",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCALD",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPIKES",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 2.8,
+    "weight": 310.5,
+    "abilities": [
+        "STEAMENGINE",
+        "FLAMEBODY"
+    ],
+    "hiddenAbilitie": [
+        "FLASHFIRE"
+    ],
+    "baseTotal": 510,
+    "baseStats": [
+        110,
+        80,
+        120,
+        30,
+        80,
+        90
+    ],
+    "flags": [],
+    "name": "Coalossal",
+    "species": "COALOSSAL",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 255,
+    "evs": [
+        "DEFENSE",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "ROCK",
+            "secondaryType": "FIRE",
+            "moves": [
+                [
+                    -1,
+                    "TARSHOT"
+                ],
+                [
+                    1,
+                    "FLAMECHARGE"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "SMOKESCREEN"
+                ],
+                [
+                    1,
+                    "RAPIDSPIN"
+                ],
+                [
+                    1,
+                    "SMACKDOWN"
+                ],
+                [
+                    15,
+                    "ROCKPOLISH"
+                ],
+                [
+                    20,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    27,
+                    "INCINERATE"
+                ],
+                [
+                    37,
+                    "STEALTHROCK"
+                ],
+                [
+                    45,
+                    "HEATCRASH"
+                ],
+                [
+                    54,
+                    "ROCKBLAST"
+                ],
+                [
+                    63,
+                    "BURNUP"
+                ],
+                [
+                    63,
+                    "STONEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREPUNCH",
+                "FIRESPIN",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HEATCRASH",
+                "HEATWAVE",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "METEORBEAM",
+                "MIMIC",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKBLAST",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SANDTOMB",
+                "SCALD",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SPIKES",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TOXIC",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 2.8,
+            "weight": 310.5,
+            "abilities": [
+                "STEAMENGINE",
+                "FLAMEBODY"
+            ],
+            "hiddenAbilitie": [
+                "FLASHFIRE"
+            ],
+            "baseTotal": 510,
+            "baseStats": [
+                110,
+                80,
+                120,
+                30,
+                80,
+                90
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Coalossal"
+        },
+        {
+            "generation": 8,
+            "primaryType": "ROCK",
+            "secondaryType": "FIRE",
+            "moves": [
+                [
+                    -1,
+                    "TARSHOT"
+                ],
+                [
+                    1,
+                    "FLAMECHARGE"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "SMOKESCREEN"
+                ],
+                [
+                    1,
+                    "RAPIDSPIN"
+                ],
+                [
+                    1,
+                    "SMACKDOWN"
+                ],
+                [
+                    15,
+                    "ROCKPOLISH"
+                ],
+                [
+                    20,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    27,
+                    "INCINERATE"
+                ],
+                [
+                    37,
+                    "STEALTHROCK"
+                ],
+                [
+                    45,
+                    "HEATCRASH"
+                ],
+                [
+                    54,
+                    "ROCKBLAST"
+                ],
+                [
+                    63,
+                    "BURNUP"
+                ],
+                [
+                    63,
+                    "STONEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREPUNCH",
+                "FIRESPIN",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HEATCRASH",
+                "HEATWAVE",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "METEORBEAM",
+                "MIMIC",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKBLAST",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SANDTOMB",
+                "SCALD",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SPIKES",
+                "STEALTHROCK",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TOXIC",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 42.0,
+            "weight": 310.5,
+            "abilities": [
+                "STEAMENGINE",
+                "FLAMEBODY"
+            ],
+            "hiddenAbilitie": [
+                "FLASHFIRE"
+            ],
+            "baseTotal": 510,
+            "baseStats": [
+                110,
+                80,
+                120,
+                30,
+                80,
+                90
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 839
+}

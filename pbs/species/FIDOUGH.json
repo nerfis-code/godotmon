@@ -1,0 +1,140 @@
+{
+    "generation": 9,
+    "primaryType": "FAIRY",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            3,
+            "LICK"
+        ],
+        [
+            6,
+            "TAILWHIP"
+        ],
+        [
+            8,
+            "COVET"
+        ],
+        [
+            11,
+            "BITE"
+        ],
+        [
+            15,
+            "BABYDOLLEYES"
+        ],
+        [
+            18,
+            "PLAYROUGH"
+        ],
+        [
+            22,
+            "WORKUP"
+        ],
+        [
+            26,
+            "BATONPASS"
+        ],
+        [
+            30,
+            "ROAR"
+        ],
+        [
+            33,
+            "DOUBLEEDGE"
+        ],
+        [
+            36,
+            "CHARM"
+        ],
+        [
+            40,
+            "CRUNCH"
+        ],
+        [
+            45,
+            "LASTRESORT"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ALLURINGVOICE",
+        "BATONPASS",
+        "BODYSLAM",
+        "CHARM",
+        "CRUNCH",
+        "DAZZLINGGLEAM",
+        "DIG",
+        "DOUBLEEDGE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "HELPINGHAND",
+        "ICEFANG",
+        "MISTYTERRAIN",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "ROAR",
+        "SLEEPTALK",
+        "SNARL",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "THUNDERFANG",
+        "TRAILBLAZE"
+    ],
+    "eggMoves": [
+        "COPYCAT",
+        "HOWL",
+        "SWEETSCENT",
+        "WISH",
+        "YAWN"
+    ],
+    "height": 0.3,
+    "weight": 10.9,
+    "abilities": [
+        "OWNTEMPO"
+    ],
+    "hiddenAbilitie": [
+        "KLUTZ"
+    ],
+    "baseTotal": 312,
+    "baseStats": [
+        37,
+        55,
+        70,
+        65,
+        30,
+        55
+    ],
+    "flags": [],
+    "name": "Fidough",
+    "species": "FIDOUGH",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 926
+}

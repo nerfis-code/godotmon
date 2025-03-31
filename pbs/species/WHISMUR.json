@@ -1,0 +1,156 @@
+{
+    "generation": 3,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            5,
+            "ECHOEDVOICE"
+        ],
+        [
+            10,
+            "HOWL"
+        ],
+        [
+            15,
+            "REST"
+        ],
+        [
+            15,
+            "SLEEPTALK"
+        ],
+        [
+            21,
+            "STOMP"
+        ],
+        [
+            25,
+            "ROAR"
+        ],
+        [
+            30,
+            "SUPERSONIC"
+        ],
+        [
+            35,
+            "UPROAR"
+        ],
+        [
+            40,
+            "SCREECH"
+        ],
+        [
+            45,
+            "HYPERVOICE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROLLOUT",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THUNDERPUNCH",
+        "UPROAR",
+        "WATERPULSE",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "CIRCLETHROW",
+        "DISARMINGVOICE",
+        "ENDEAVOR",
+        "EXTRASENSORY",
+        "FAKETEARS",
+        "HAMMERARM",
+        "SMOKESCREEN",
+        "SNORE",
+        "TAKEDOWN",
+        "WHIRLWIND"
+    ],
+    "height": 0.6,
+    "weight": 16.3,
+    "abilities": [
+        "SOUNDPROOF"
+    ],
+    "hiddenAbilitie": [
+        "RATTLED"
+    ],
+    "baseTotal": 240,
+    "baseStats": [
+        64,
+        51,
+        23,
+        28,
+        51,
+        23
+    ],
+    "flags": [],
+    "name": "Whismur",
+    "species": "WHISMUR",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 48,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 293
+}

@@ -1,0 +1,189 @@
+{
+    "generation": 4,
+    "primaryType": "BUG",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            -1,
+            "SLASH"
+        ],
+        [
+            1,
+            "STRUGGLEBUG"
+        ],
+        [
+            1,
+            "BUGBITE"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "CONFUSERAY"
+        ],
+        [
+            4,
+            "FURYCUTTER"
+        ],
+        [
+            8,
+            "AROMATICMIST"
+        ],
+        [
+            12,
+            "FELLSTINGER"
+        ],
+        [
+            16,
+            "FURYSWIPES"
+        ],
+        [
+            20,
+            "SWAGGER"
+        ],
+        [
+            24,
+            "AROMATHERAPY"
+        ],
+        [
+            24,
+            "ROOST"
+        ],
+        [
+            28,
+            "AIRSLASH"
+        ],
+        [
+            32,
+            "POWERGEM"
+        ],
+        [
+            36,
+            "TOXIC"
+        ],
+        [
+            40,
+            "ATTACKORDER"
+        ],
+        [
+            40,
+            "DEFENDORDER"
+        ],
+        [
+            44,
+            "DESTINYBOND"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CROSSPOISON",
+        "CUT",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEX",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "INFESTATION",
+        "LASERFOCUS",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PINMISSILE",
+        "POWERGEM",
+        "PROTECT",
+        "QUASH",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROOST",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TOXIC",
+        "TOXICSPIKES",
+        "UPROAR",
+        "UTURN",
+        "VENOSHOCK",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 38.5,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [
+        "UNNERVE"
+    ],
+    "baseTotal": 474,
+    "baseStats": [
+        70,
+        80,
+        102,
+        40,
+        80,
+        102
+    ],
+    "flags": [],
+    "name": "Vespiquen",
+    "species": "VESPIQUEN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 166,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 416
+}

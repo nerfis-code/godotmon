@@ -1,0 +1,142 @@
+{
+    "generation": 9,
+    "primaryType": "GRASS",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            -1,
+            "SUNNYDAY"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            7,
+            "STUNSPORE"
+        ],
+        [
+            14,
+            "MEGADRAIN"
+        ],
+        [
+            21,
+            "SYNTHESIS"
+        ],
+        [
+            28,
+            "CLEARSMOG"
+        ],
+        [
+            35,
+            "PAYBACK"
+        ],
+        [
+            42,
+            "THRASH"
+        ],
+        [
+            49,
+            "GIGADRAIN"
+        ],
+        [
+            56,
+            "SUCKERPUNCH"
+        ],
+        [
+            63,
+            "SPORE"
+        ],
+        [
+            70,
+            "INGRAIN"
+        ],
+        [
+            77,
+            "RAGEPOWDER"
+        ],
+        [
+            91,
+            "SOLARBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLETSEED",
+        "CLOSECOMBAT",
+        "CONFUSERAY",
+        "CRUNCH",
+        "DARKPULSE",
+        "DOUBLEEDGE",
+        "EARTHPOWER",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYTERRAIN",
+        "HEX",
+        "HYPERBEAM",
+        "LASHOUT",
+        "LEAFSTORM",
+        "MAGICALLEAF",
+        "OUTRAGE",
+        "POLLENPUFF",
+        "PROTECT",
+        "REST",
+        "SCARYFACE",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAUNT",
+        "THIEF",
+        "TRAILBLAZE",
+        "VENOSHOCK",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 21.0,
+    "abilities": [
+        "PROTOSYNTHESIS"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        111,
+        127,
+        99,
+        55,
+        79,
+        99
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Furioseta",
+    "species": "BRUTEBONNET",
+    "catchRate": 50,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 986
+}

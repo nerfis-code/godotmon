@@ -1,0 +1,151 @@
+{
+    "generation": 5,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "WORKUP"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            12,
+            "RETALIATE"
+        ],
+        [
+            19,
+            "BABYDOLLEYES"
+        ],
+        [
+            24,
+            "PLAYROUGH"
+        ],
+        [
+            30,
+            "CRUNCH"
+        ],
+        [
+            36,
+            "TAKEDOWN"
+        ],
+        [
+            42,
+            "HELPINGHAND"
+        ],
+        [
+            48,
+            "REVERSAL"
+        ],
+        [
+            54,
+            "ROAR"
+        ],
+        [
+            60,
+            "LASTRESORT"
+        ],
+        [
+            66,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AFTERYOU",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "CRUNCH",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEFANG",
+        "LASTRESORT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVERSAL",
+        "ROAR",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UPROAR",
+        "WILDCHARGE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 14.7,
+    "abilities": [
+        "INTIMIDATE",
+        "SANDRUSH"
+    ],
+    "hiddenAbilitie": [
+        "SCRAPPY"
+    ],
+    "baseTotal": 370,
+    "baseStats": [
+        65,
+        80,
+        65,
+        60,
+        35,
+        65
+    ],
+    "flags": [],
+    "name": "Herdier",
+    "species": "HERDIER",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 130,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 507
+}

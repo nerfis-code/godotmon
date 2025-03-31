@@ -1,0 +1,61 @@
+{
+    "generation": 3,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            5,
+            "POISONSTING"
+        ],
+        [
+            15,
+            "BUGBITE"
+        ]
+    ],
+    "tutorMoves": [
+        "BUGBITE",
+        "ELECTROWEB",
+        "SNORE",
+        "STRINGSHOT"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 3.6,
+    "abilities": [
+        "SHIELDDUST"
+    ],
+    "hiddenAbilitie": [
+        "RUNAWAY"
+    ],
+    "baseTotal": 195,
+    "baseStats": [
+        45,
+        45,
+        35,
+        20,
+        20,
+        30
+    ],
+    "flags": [],
+    "name": "Wurmple",
+    "species": "WURMPLE",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 56,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 265
+}

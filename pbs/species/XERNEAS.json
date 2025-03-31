@@ -1,0 +1,513 @@
+{
+    "generation": 6,
+    "primaryType": "FAIRY",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GRAVITY"
+        ],
+        [
+            5,
+            "LIGHTSCREEN"
+        ],
+        [
+            10,
+            "AURORABEAM"
+        ],
+        [
+            15,
+            "NATUREPOWER"
+        ],
+        [
+            20,
+            "NIGHTSLASH"
+        ],
+        [
+            25,
+            "AROMATHERAPY"
+        ],
+        [
+            30,
+            "PSYCHUP"
+        ],
+        [
+            35,
+            "HORNLEECH"
+        ],
+        [
+            40,
+            "MISTYTERRAIN"
+        ],
+        [
+            45,
+            "INGRAIN"
+        ],
+        [
+            50,
+            "TAKEDOWN"
+        ],
+        [
+            55,
+            "GEOMANCY"
+        ],
+        [
+            60,
+            "MOONBLAST"
+        ],
+        [
+            65,
+            "HEALPULSE"
+        ],
+        [
+            70,
+            "MEGAHORN"
+        ],
+        [
+            75,
+            "CLOSECOMBAT"
+        ],
+        [
+            80,
+            "OUTRAGE"
+        ],
+        [
+            85,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "BLOCK",
+        "BODYSLAM",
+        "CALMMIND",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CUT",
+        "DAZZLINGGLEAM",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MEGAHORN",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "MISTYTERRAIN",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OUTRAGE",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TERRAINPULSE",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 3.0,
+    "weight": 215.0,
+    "abilities": [
+        "FAIRYAURA"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 680,
+    "baseStats": [
+        126,
+        131,
+        95,
+        99,
+        131,
+        98
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Xerneas",
+    "species": "XERNEAS",
+    "catchRate": 45,
+    "happiness": 0,
+    "baseExp": 340,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 6,
+            "primaryType": "FAIRY",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GRAVITY"
+                ],
+                [
+                    5,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    10,
+                    "AURORABEAM"
+                ],
+                [
+                    15,
+                    "NATUREPOWER"
+                ],
+                [
+                    20,
+                    "NIGHTSLASH"
+                ],
+                [
+                    25,
+                    "AROMATHERAPY"
+                ],
+                [
+                    30,
+                    "PSYCHUP"
+                ],
+                [
+                    35,
+                    "HORNLEECH"
+                ],
+                [
+                    40,
+                    "MISTYTERRAIN"
+                ],
+                [
+                    45,
+                    "INGRAIN"
+                ],
+                [
+                    50,
+                    "TAKEDOWN"
+                ],
+                [
+                    55,
+                    "GEOMANCY"
+                ],
+                [
+                    60,
+                    "MOONBLAST"
+                ],
+                [
+                    65,
+                    "HEALPULSE"
+                ],
+                [
+                    70,
+                    "MEGAHORN"
+                ],
+                [
+                    75,
+                    "CLOSECOMBAT"
+                ],
+                [
+                    80,
+                    "OUTRAGE"
+                ],
+                [
+                    85,
+                    "GIGAIMPACT"
+                ]
+            ],
+            "tutorMoves": [
+                "BLOCK",
+                "BODYSLAM",
+                "CALMMIND",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "CUT",
+                "DAZZLINGGLEAM",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FLASHCANNON",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRAVITY",
+                "HAIL",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MEGAHORN",
+                "MIMIC",
+                "MISTYEXPLOSION",
+                "MISTYTERRAIN",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "OUTRAGE",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKSLIDE",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TERRAINPULSE",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TOXIC",
+                "WONDERROOM",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 3.0,
+            "weight": 215.0,
+            "abilities": [
+                "FAIRYAURA"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 680,
+            "baseStats": [
+                126,
+                131,
+                95,
+                99,
+                131,
+                98
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 0,
+            "formName": "Modo Relajado"
+        },
+        {
+            "generation": 6,
+            "primaryType": "FAIRY",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GRAVITY"
+                ],
+                [
+                    5,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    10,
+                    "AURORABEAM"
+                ],
+                [
+                    15,
+                    "NATUREPOWER"
+                ],
+                [
+                    20,
+                    "NIGHTSLASH"
+                ],
+                [
+                    25,
+                    "AROMATHERAPY"
+                ],
+                [
+                    30,
+                    "PSYCHUP"
+                ],
+                [
+                    35,
+                    "HORNLEECH"
+                ],
+                [
+                    40,
+                    "MISTYTERRAIN"
+                ],
+                [
+                    45,
+                    "INGRAIN"
+                ],
+                [
+                    50,
+                    "TAKEDOWN"
+                ],
+                [
+                    55,
+                    "GEOMANCY"
+                ],
+                [
+                    60,
+                    "MOONBLAST"
+                ],
+                [
+                    65,
+                    "HEALPULSE"
+                ],
+                [
+                    70,
+                    "MEGAHORN"
+                ],
+                [
+                    75,
+                    "CLOSECOMBAT"
+                ],
+                [
+                    80,
+                    "OUTRAGE"
+                ],
+                [
+                    85,
+                    "GIGAIMPACT"
+                ]
+            ],
+            "tutorMoves": [
+                "BLOCK",
+                "BODYSLAM",
+                "CALMMIND",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "CUT",
+                "DAZZLINGGLEAM",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DRAININGKISS",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FLASHCANNON",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRAVITY",
+                "HAIL",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MEGAHORN",
+                "MIMIC",
+                "MISTYEXPLOSION",
+                "MISTYTERRAIN",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "OUTRAGE",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKSLIDE",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SMARTSTRIKE",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TERRAINPULSE",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TOXIC",
+                "WONDERROOM",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 3.0,
+            "weight": 215.0,
+            "abilities": [
+                "FAIRYAURA"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 680,
+            "baseStats": [
+                126,
+                131,
+                95,
+                99,
+                131,
+                98
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 1,
+            "formName": "Modo Activo"
+        }
+    ],
+    "internationalPokedex": 716
+}

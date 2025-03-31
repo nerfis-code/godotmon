@@ -1,0 +1,517 @@
+{
+    "generation": 7,
+    "primaryType": "GRASS",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            -1,
+            "SPIRITSHACKLE"
+        ],
+        [
+            1,
+            "PHANTOMFORCE"
+        ],
+        [
+            1,
+            "LEAFSTORM"
+        ],
+        [
+            1,
+            "UTURN"
+        ],
+        [
+            1,
+            "SPITE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "LEAFAGE"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            9,
+            "PECK"
+        ],
+        [
+            12,
+            "SHADOWSNEAK"
+        ],
+        [
+            15,
+            "RAZORLEAF"
+        ],
+        [
+            20,
+            "SYNTHESIS"
+        ],
+        [
+            25,
+            "PLUCK"
+        ],
+        [
+            30,
+            "NASTYPLOT"
+        ],
+        [
+            37,
+            "SUCKERPUNCH"
+        ],
+        [
+            44,
+            "LEAFBLADE"
+        ],
+        [
+            51,
+            "FEATHERDANCE"
+        ],
+        [
+            58,
+            "BRAVEBIRD"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AIRSLASH",
+        "ATTRACT",
+        "BATONPASS",
+        "BRAVEBIRD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FRENZYPLANT",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GRASSYGLIDE",
+        "HEX",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYPERBEAM",
+        "IMPRISON",
+        "LASERFOCUS",
+        "LEAFBLADE",
+        "LEAFSTORM",
+        "LIGHTSCREEN",
+        "LOWSWEEP",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PHANTOMFORCE",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHOCUT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "SPITE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TAILWIND",
+        "TOXIC",
+        "UTURN",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 36.6,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "LONGREACH"
+    ],
+    "baseTotal": 530,
+    "baseStats": [
+        78,
+        107,
+        75,
+        70,
+        100,
+        100
+    ],
+    "flags": [],
+    "name": "Decidueye",
+    "species": "DECIDUEYE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 265,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [
+        {
+            "generation": 7,
+            "primaryType": "GRASS",
+            "secondaryType": "GHOST",
+            "moves": [
+                [
+                    -1,
+                    "SPIRITSHACKLE"
+                ],
+                [
+                    1,
+                    "PHANTOMFORCE"
+                ],
+                [
+                    1,
+                    "LEAFSTORM"
+                ],
+                [
+                    1,
+                    "UTURN"
+                ],
+                [
+                    1,
+                    "SPITE"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "LEAFAGE"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    9,
+                    "PECK"
+                ],
+                [
+                    12,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    15,
+                    "RAZORLEAF"
+                ],
+                [
+                    20,
+                    "SYNTHESIS"
+                ],
+                [
+                    25,
+                    "PLUCK"
+                ],
+                [
+                    30,
+                    "NASTYPLOT"
+                ],
+                [
+                    37,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    44,
+                    "LEAFBLADE"
+                ],
+                [
+                    51,
+                    "FEATHERDANCE"
+                ],
+                [
+                    58,
+                    "BRAVEBIRD"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AIRSLASH",
+                "ATTRACT",
+                "BATONPASS",
+                "BRAVEBIRD",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COVET",
+                "DEFOG",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FRENZYPLANT",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSPLEDGE",
+                "GRASSYGLIDE",
+                "HEX",
+                "HIDDENPOWER",
+                "HURRICANE",
+                "HYPERBEAM",
+                "IMPRISON",
+                "LASERFOCUS",
+                "LEAFBLADE",
+                "LEAFSTORM",
+                "LIGHTSCREEN",
+                "LOWSWEEP",
+                "MIMIC",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "PHANTOMFORCE",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHOCUT",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SKITTERSMACK",
+                "SKYATTACK",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNORE",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "SPITE",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "SYNTHESIS",
+                "TAILWIND",
+                "TOXIC",
+                "UTURN",
+                "WORKUP",
+                "WORRYSEED"
+            ],
+            "eggMoves": [],
+            "height": 1.6,
+            "weight": 36.6,
+            "abilities": [
+                "OVERGROW"
+            ],
+            "hiddenAbilitie": [
+                "LONGREACH"
+            ],
+            "baseTotal": 530,
+            "baseStats": [
+                78,
+                107,
+                75,
+                70,
+                100,
+                100
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Decidueye"
+        },
+        {
+            "generation": 8,
+            "primaryType": "GRASS",
+            "secondaryType": "FIGHTING",
+            "moves": [
+                [
+                    0,
+                    "TRIPLEARROWS"
+                ],
+                [
+                    1,
+                    "LEAFSTORM"
+                ],
+                [
+                    1,
+                    "LEAFAGE"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    1,
+                    "UTURN"
+                ],
+                [
+                    9,
+                    "PECK"
+                ],
+                [
+                    12,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    15,
+                    "RAZORLEAF"
+                ],
+                [
+                    20,
+                    "SYNTHESIS"
+                ],
+                [
+                    25,
+                    "PLUCK"
+                ],
+                [
+                    30,
+                    "BULKUP"
+                ],
+                [
+                    37,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    44,
+                    "LEAFBLADE"
+                ],
+                [
+                    51,
+                    "FEATHERDANCE"
+                ],
+                [
+                    58,
+                    "BRAVEBIRD"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRCUTTER",
+                "AIRSLASH",
+                "AURASPHERE",
+                "BATONPASS",
+                "BRAVEBIRD",
+                "BRICKBREAK",
+                "BULKUP",
+                "BULLETSEED",
+                "CLOSECOMBAT",
+                "COACHING",
+                "CONFUSERAY",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FALSESWIPE",
+                "FEATHERDANCE",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FRENZYPLANT",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSPLEDGE",
+                "GRASSYGLIDE",
+                "GRASSYTERRAIN",
+                "HAZE",
+                "HELPINGHAND",
+                "HYPERBEAM",
+                "KNOCKOFF",
+                "LEAFSTORM",
+                "LIGHTSCREEN",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MAGICALLEAF",
+                "NASTYPLOT",
+                "NIGHTSHADE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "ROCKTOMB",
+                "SCARYFACE",
+                "SEEDBOMB",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAILWIND",
+                "TAKEDOWN",
+                "TAUNT",
+                "TRAILBLAZE",
+                "UPPERHAND",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.6,
+            "weight": 37.0,
+            "abilities": [
+                "OVERGROW"
+            ],
+            "hiddenAbilitie": [
+                "SCRAPPY"
+            ],
+            "baseTotal": 530,
+            "baseStats": [
+                88,
+                112,
+                80,
+                60,
+                95,
+                95
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Hisui"
+        }
+    ],
+    "internationalPokedex": 724
+}

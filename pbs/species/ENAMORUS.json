@@ -1,0 +1,432 @@
+{
+    "generation": 8,
+    "primaryType": "FAIRY",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "FAIRYWIND"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            5,
+            "TORMENT"
+        ],
+        [
+            10,
+            "FLATTER"
+        ],
+        [
+            15,
+            "TWISTER"
+        ],
+        [
+            20,
+            "DRAININGKISS"
+        ],
+        [
+            25,
+            "IRONDEFENSE"
+        ],
+        [
+            30,
+            "IMPRISON"
+        ],
+        [
+            35,
+            "MYSTICALFIRE"
+        ],
+        [
+            40,
+            "DAZZLINGGLEAM"
+        ],
+        [
+            45,
+            "EXTRASENSORY"
+        ],
+        [
+            50,
+            "UPROAR"
+        ],
+        [
+            55,
+            "SUPERPOWER"
+        ],
+        [
+            60,
+            "HEALINGWISH"
+        ],
+        [
+            65,
+            "MOONBLAST"
+        ],
+        [
+            70,
+            "OUTRAGE"
+        ],
+        [
+            75,
+            "SPRINGTIDESTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ALLURINGVOICE",
+        "BODYSLAM",
+        "CALMMIND",
+        "DAZZLINGGLEAM",
+        "DISARMINGVOICE",
+        "DRAININGKISS",
+        "EARTHPOWER",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FOCUSBLAST",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYTERRAIN",
+        "HYPERBEAM",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MISTYEXPLOSION",
+        "MISTYTERRAIN",
+        "OUTRAGE",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAILWIND",
+        "TAKEDOWN",
+        "TAUNT",
+        "UPROAR",
+        "WEATHERBALL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 48.0,
+    "abilities": [
+        "CUTECHARM"
+    ],
+    "hiddenAbilitie": [
+        "CONTRARY"
+    ],
+    "baseTotal": 580,
+    "baseStats": [
+        74,
+        115,
+        70,
+        106,
+        135,
+        80
+    ],
+    "flags": [
+        "Legendary",
+        "ForcesOfNature"
+    ],
+    "name": "Enamorus",
+    "species": "ENAMORUS",
+    "catchRate": 3,
+    "happiness": 90,
+    "baseExp": 116,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 100,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "FAIRY",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "FAIRYWIND"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    5,
+                    "TORMENT"
+                ],
+                [
+                    10,
+                    "FLATTER"
+                ],
+                [
+                    15,
+                    "TWISTER"
+                ],
+                [
+                    20,
+                    "DRAININGKISS"
+                ],
+                [
+                    25,
+                    "IRONDEFENSE"
+                ],
+                [
+                    30,
+                    "IMPRISON"
+                ],
+                [
+                    35,
+                    "MYSTICALFIRE"
+                ],
+                [
+                    40,
+                    "DAZZLINGGLEAM"
+                ],
+                [
+                    45,
+                    "EXTRASENSORY"
+                ],
+                [
+                    50,
+                    "UPROAR"
+                ],
+                [
+                    55,
+                    "SUPERPOWER"
+                ],
+                [
+                    60,
+                    "HEALINGWISH"
+                ],
+                [
+                    65,
+                    "MOONBLAST"
+                ],
+                [
+                    70,
+                    "OUTRAGE"
+                ],
+                [
+                    75,
+                    "SPRINGTIDESTORM"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ALLURINGVOICE",
+                "BODYSLAM",
+                "CALMMIND",
+                "DAZZLINGGLEAM",
+                "DISARMINGVOICE",
+                "DRAININGKISS",
+                "EARTHPOWER",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FOCUSBLAST",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYTERRAIN",
+                "HYPERBEAM",
+                "IMPRISON",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "MISTYEXPLOSION",
+                "MISTYTERRAIN",
+                "OUTRAGE",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAILWIND",
+                "TAKEDOWN",
+                "TAUNT",
+                "UPROAR",
+                "WEATHERBALL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.8,
+            "weight": 48.0,
+            "abilities": [
+                "CUTECHARM"
+            ],
+            "hiddenAbilitie": [
+                "CONTRARY"
+            ],
+            "baseTotal": 580,
+            "baseStats": [
+                74,
+                115,
+                70,
+                106,
+                135,
+                80
+            ],
+            "flags": [
+                "Legendary",
+                "ForcesOfNature"
+            ],
+            "form": 0,
+            "formName": "Forma Avatar"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FAIRY",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "FAIRYWIND"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    5,
+                    "TORMENT"
+                ],
+                [
+                    10,
+                    "FLATTER"
+                ],
+                [
+                    15,
+                    "TWISTER"
+                ],
+                [
+                    20,
+                    "DRAININGKISS"
+                ],
+                [
+                    25,
+                    "IRONDEFENSE"
+                ],
+                [
+                    30,
+                    "IMPRISON"
+                ],
+                [
+                    35,
+                    "MYSTICALFIRE"
+                ],
+                [
+                    40,
+                    "DAZZLINGGLEAM"
+                ],
+                [
+                    45,
+                    "EXTRASENSORY"
+                ],
+                [
+                    50,
+                    "UPROAR"
+                ],
+                [
+                    55,
+                    "SUPERPOWER"
+                ],
+                [
+                    60,
+                    "HEALINGWISH"
+                ],
+                [
+                    65,
+                    "MOONBLAST"
+                ],
+                [
+                    70,
+                    "OUTRAGE"
+                ],
+                [
+                    75,
+                    "SPRINGTIDESTORM"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ALLURINGVOICE",
+                "BODYSLAM",
+                "CALMMIND",
+                "DAZZLINGGLEAM",
+                "DISARMINGVOICE",
+                "DRAININGKISS",
+                "EARTHPOWER",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FOCUSBLAST",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYTERRAIN",
+                "HYPERBEAM",
+                "IMPRISON",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "MISTYEXPLOSION",
+                "MISTYTERRAIN",
+                "OUTRAGE",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAILWIND",
+                "TAKEDOWN",
+                "TAUNT",
+                "UPROAR",
+                "WEATHERBALL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.8,
+            "weight": 48.0,
+            "abilities": [
+                "OVERCOAT"
+            ],
+            "hiddenAbilitie": [
+                "CONTRARY"
+            ],
+            "baseTotal": 580,
+            "baseStats": [
+                74,
+                115,
+                110,
+                46,
+                135,
+                100
+            ],
+            "flags": [
+                "Legendary",
+                "ForcesOfNature"
+            ],
+            "form": 1,
+            "formName": "Forma Tótem"
+        }
+    ],
+    "internationalPokedex": 905
+}

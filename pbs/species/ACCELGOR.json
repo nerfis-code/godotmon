@@ -1,0 +1,183 @@
+{
+    "generation": 5,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERSHURIKEN"
+        ],
+        [
+            1,
+            "ACID"
+        ],
+        [
+            1,
+            "CURSE"
+        ],
+        [
+            1,
+            "YAWN"
+        ],
+        [
+            1,
+            "ACIDARMOR"
+        ],
+        [
+            1,
+            "GUARDSWAP"
+        ],
+        [
+            1,
+            "BODYSLAM"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "DOUBLETEAM"
+        ],
+        [
+            1,
+            "ACIDSPRAY"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            16,
+            "STRUGGLEBUG"
+        ],
+        [
+            20,
+            "SWIFT"
+        ],
+        [
+            24,
+            "AGILITY"
+        ],
+        [
+            28,
+            "GIGADRAIN"
+        ],
+        [
+            32,
+            "POWERSWAP"
+        ],
+        [
+            36,
+            "UTURN"
+        ],
+        [
+            40,
+            "RECOVER"
+        ],
+        [
+            44,
+            "BUGBUZZ"
+        ],
+        [
+            48,
+            "FINALGAMBIT"
+        ],
+        [
+            52,
+            "TOXIC"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "BATONPASS",
+        "BODYSLAM",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GUARDSWAP",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LEECHLIFE",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "POWERSWAP",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SPIKES",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TOXIC",
+        "TOXICSPIKES",
+        "UTURN",
+        "VENOMDRENCH",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 25.3,
+    "abilities": [
+        "HYDRATION",
+        "STICKYHOLD"
+    ],
+    "hiddenAbilitie": [
+        "UNBURDEN"
+    ],
+    "baseTotal": 495,
+    "baseStats": [
+        80,
+        70,
+        40,
+        145,
+        100,
+        60
+    ],
+    "flags": [],
+    "name": "Accelgor",
+    "species": "ACCELGOR",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 173,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 617
+}

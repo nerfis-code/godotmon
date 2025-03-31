@@ -1,0 +1,195 @@
+{
+    "generation": 4,
+    "primaryType": "POISON",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            4,
+            "ASTONISH"
+        ],
+        [
+            8,
+            "TAUNT"
+        ],
+        [
+            12,
+            "FLATTER"
+        ],
+        [
+            16,
+            "REVENGE"
+        ],
+        [
+            16,
+            "LOWKICK"
+        ],
+        [
+            20,
+            "VENOSHOCK"
+        ],
+        [
+            24,
+            "SUCKERPUNCH"
+        ],
+        [
+            28,
+            "SWAGGER"
+        ],
+        [
+            32,
+            "POISONJAB"
+        ],
+        [
+            36,
+            "TOXIC"
+        ],
+        [
+            40,
+            "NASTYPLOT"
+        ],
+        [
+            44,
+            "SLUDGEBOMB"
+        ],
+        [
+            48,
+            "BELCH"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "COACHING",
+        "CONFIDE",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "EMBARGO",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "ICYWIND",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "TOXIC",
+        "VACUUMWAVE",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "WORKUP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "ACUPRESSURE",
+        "BULLETPUNCH",
+        "COUNTER",
+        "CROSSCHOP",
+        "DYNAMICPUNCH",
+        "FAKEOUT",
+        "FEINT",
+        "HEADBUTT",
+        "QUICKGUARD",
+        "VACUUMWAVE"
+    ],
+    "height": 0.7,
+    "weight": 23.0,
+    "abilities": [
+        "ANTICIPATION",
+        "DRYSKIN"
+    ],
+    "hiddenAbilitie": [
+        "POISONTOUCH"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        48,
+        61,
+        40,
+        50,
+        61,
+        40
+    ],
+    "flags": [],
+    "name": "Croagunk",
+    "species": "CROAGUNK",
+    "catchRate": 140,
+    "happiness": 100,
+    "baseExp": 60,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 453
+}

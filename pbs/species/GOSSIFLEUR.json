@@ -1,0 +1,128 @@
+{
+    "generation": 8,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "LEAFAGE"
+        ],
+        [
+            1,
+            "SING"
+        ],
+        [
+            4,
+            "RAPIDSPIN"
+        ],
+        [
+            8,
+            "SWEETSCENT"
+        ],
+        [
+            12,
+            "RAZORLEAF"
+        ],
+        [
+            16,
+            "ROUND"
+        ],
+        [
+            21,
+            "LEAFTORNADO"
+        ],
+        [
+            24,
+            "SYNTHESIS"
+        ],
+        [
+            28,
+            "HYPERVOICE"
+        ],
+        [
+            32,
+            "AROMATHERAPY"
+        ],
+        [
+            36,
+            "LEAFSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "LEAFSTORM",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MIMIC",
+        "NATURALGIFT",
+        "POLLENPUFF",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TOXIC"
+    ],
+    "eggMoves": [
+        "GROWTH",
+        "LEECHSEED",
+        "POISONPOWDER",
+        "SLEEPPOWDER",
+        "STUNSPORE",
+        "WORRYSEED"
+    ],
+    "height": 0.4,
+    "weight": 2.2,
+    "abilities": [
+        "COTTONDOWN",
+        "REGENERATOR"
+    ],
+    "hiddenAbilitie": [
+        "EFFECTSPORE"
+    ],
+    "baseTotal": 250,
+    "baseStats": [
+        40,
+        40,
+        60,
+        10,
+        40,
+        60
+    ],
+    "flags": [],
+    "name": "Gossifleur",
+    "species": "GOSSIFLEUR",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 50,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 829
+}

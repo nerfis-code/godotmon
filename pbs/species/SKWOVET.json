@@ -1,0 +1,135 @@
+{
+    "generation": 8,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            5,
+            "BITE"
+        ],
+        [
+            10,
+            "STUFFCHEEKS"
+        ],
+        [
+            15,
+            "STOCKPILE"
+        ],
+        [
+            15,
+            "SWALLOW"
+        ],
+        [
+            15,
+            "SPITUP"
+        ],
+        [
+            20,
+            "BODYSLAM"
+        ],
+        [
+            25,
+            "REST"
+        ],
+        [
+            30,
+            "COUNTER"
+        ],
+        [
+            35,
+            "BULLETSEED"
+        ],
+        [
+            40,
+            "SUPERFANG"
+        ],
+        [
+            45,
+            "BELCH"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRUTALSWING",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "GYROBALL",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TAILSLAP",
+        "THIEF",
+        "TOXIC",
+        "UPROAR"
+    ],
+    "eggMoves": [
+        "BELLYDRUM",
+        "DEFENSECURL",
+        "LASTRESORT",
+        "ROLLOUT"
+    ],
+    "height": 0.3,
+    "weight": 2.5,
+    "abilities": [
+        "CHEEKPOUCH"
+    ],
+    "hiddenAbilitie": [
+        "GLUTTONY"
+    ],
+    "baseTotal": 275,
+    "baseStats": [
+        70,
+        55,
+        55,
+        25,
+        35,
+        35
+    ],
+    "flags": [],
+    "name": "Skwovet",
+    "species": "SKWOVET",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 55,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 819
+}

@@ -1,0 +1,236 @@
+{
+    "generation": 3,
+    "primaryType": "GRASS",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            -1,
+            "RAZORLEAF"
+        ],
+        [
+            -1,
+            "TORMENT"
+        ],
+        [
+            -1,
+            "FAKEOUT"
+        ],
+        [
+            -1,
+            "SWAGGER"
+        ],
+        [
+            -1,
+            "WHIRLWIND"
+        ],
+        [
+            -1,
+            "SYNTHESIS"
+        ],
+        [
+            -1,
+            "EXPLOSION"
+        ],
+        [
+            -1,
+            "GROWTH"
+        ],
+        [
+            -1,
+            "ROLLOUT"
+        ],
+        [
+            -1,
+            "MEGADRAIN"
+        ],
+        [
+            -1,
+            "EXTRASENSORY"
+        ],
+        [
+            -1,
+            "SUCKERPUNCH"
+        ],
+        [
+            -1,
+            "LEAFBLADE"
+        ],
+        [
+            -1,
+            "TACKLE"
+        ],
+        [
+            -1,
+            "HARDEN"
+        ],
+        [
+            -1,
+            "ABSORB"
+        ],
+        [
+            -1,
+            "ASTONISH"
+        ],
+        [
+            -1,
+            "BEATUP"
+        ],
+        [
+            0,
+            "LEAFTORNADO"
+        ],
+        [
+            1,
+            "AIRCUTTER"
+        ],
+        [
+            1,
+            "HURRICANE"
+        ],
+        [
+            1,
+            "PAYBACK"
+        ],
+        [
+            1,
+            "NATUREPOWER"
+        ],
+        [
+            1,
+            "SUNNYDAY"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "AMNESIA",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DEFENSECURL",
+        "DEFOG",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EMBARGO",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPLOSION",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYPERBEAM",
+        "ICYWIND",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LEAFBLADE",
+        "LEAFSTORM",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "OMINOUSWIND",
+        "PAYBACK",
+        "POWERSWAP",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHUP",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TAILWIND",
+        "THIEF",
+        "THROATCHOP",
+        "TORMENT",
+        "TWISTER",
+        "WORRYSEED",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 59.6,
+    "abilities": [
+        "CHLOROPHYLL",
+        "WINDRIDER"
+    ],
+    "hiddenAbilitie": [
+        "PICKPOCKET"
+    ],
+    "baseTotal": 480,
+    "baseStats": [
+        90,
+        100,
+        60,
+        80,
+        90,
+        60
+    ],
+    "flags": [],
+    "name": "Shiftry",
+    "species": "SHIFTRY",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 240,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 275
+}

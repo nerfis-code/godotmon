@@ -1,0 +1,435 @@
+{
+    "generation": 1,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            5,
+            "TAILWHIP"
+        ],
+        [
+            10,
+            "EMBER"
+        ],
+        [
+            15,
+            "FLAMECHARGE"
+        ],
+        [
+            20,
+            "AGILITY"
+        ],
+        [
+            25,
+            "FLAMEWHEEL"
+        ],
+        [
+            30,
+            "STOMP"
+        ],
+        [
+            35,
+            "FIRESPIN"
+        ],
+        [
+            41,
+            "TAKEDOWN"
+        ],
+        [
+            45,
+            "INFERNO"
+        ],
+        [
+            50,
+            "FIREBLAST"
+        ],
+        [
+            55,
+            "FLAREBLITZ"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BODYSLAM",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "INCINERATE",
+        "IRONTAIL",
+        "LOWKICK",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PLAYROUGH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "WILDCHARGE",
+        "WILLOWISP"
+    ],
+    "eggMoves": [
+        "ALLYSWITCH",
+        "CHARM",
+        "DOUBLEEDGE",
+        "DOUBLEKICK",
+        "FLAMEWHEEL",
+        "HIGHHORSEPOWER",
+        "HORNDRILL",
+        "HYPNOSIS",
+        "LOWKICK",
+        "MORNINGSUN",
+        "THRASH"
+    ],
+    "height": 1.0,
+    "weight": 30.0,
+    "abilities": [
+        "RUNAWAY",
+        "FLASHFIRE"
+    ],
+    "hiddenAbilitie": [
+        "FLAMEBODY"
+    ],
+    "baseTotal": 410,
+    "baseStats": [
+        50,
+        85,
+        55,
+        90,
+        65,
+        65
+    ],
+    "flags": [],
+    "name": "Ponyta",
+    "species": "PONYTA",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 82,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "FIRE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    5,
+                    "TAILWHIP"
+                ],
+                [
+                    10,
+                    "EMBER"
+                ],
+                [
+                    15,
+                    "FLAMECHARGE"
+                ],
+                [
+                    20,
+                    "AGILITY"
+                ],
+                [
+                    25,
+                    "FLAMEWHEEL"
+                ],
+                [
+                    30,
+                    "STOMP"
+                ],
+                [
+                    35,
+                    "FIRESPIN"
+                ],
+                [
+                    41,
+                    "TAKEDOWN"
+                ],
+                [
+                    45,
+                    "INFERNO"
+                ],
+                [
+                    50,
+                    "FIREBLAST"
+                ],
+                [
+                    55,
+                    "FLAREBLITZ"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BODYSLAM",
+                "BOUNCE",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FIREBLAST",
+                "FIRESPIN",
+                "FLAMECHARGE",
+                "FLAMETHROWER",
+                "FLAREBLITZ",
+                "FRUSTRATION",
+                "HEADBUTT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "INCINERATE",
+                "IRONTAIL",
+                "LOWKICK",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "PLAYROUGH",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SOLARBLADE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "WILDCHARGE",
+                "WILLOWISP"
+            ],
+            "eggMoves": [
+                "ALLYSWITCH",
+                "CHARM",
+                "DOUBLEEDGE",
+                "DOUBLEKICK",
+                "FLAMEWHEEL",
+                "HIGHHORSEPOWER",
+                "HORNDRILL",
+                "HYPNOSIS",
+                "LOWKICK",
+                "MORNINGSUN",
+                "THRASH"
+            ],
+            "height": 1.0,
+            "weight": 30.0,
+            "abilities": [
+                "RUNAWAY",
+                "FLASHFIRE"
+            ],
+            "hiddenAbilitie": [
+                "FLAMEBODY"
+            ],
+            "baseTotal": 410,
+            "baseStats": [
+                50,
+                85,
+                55,
+                90,
+                65,
+                65
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Ponyta"
+        },
+        {
+            "generation": 8,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "GROWL"
+                ],
+                [
+                    5,
+                    "TAILWHIP"
+                ],
+                [
+                    10,
+                    "CONFUSION"
+                ],
+                [
+                    15,
+                    "FAIRYWIND"
+                ],
+                [
+                    20,
+                    "AGILITY"
+                ],
+                [
+                    25,
+                    "PSYBEAM"
+                ],
+                [
+                    30,
+                    "STOMP"
+                ],
+                [
+                    35,
+                    "HEALPULSE"
+                ],
+                [
+                    41,
+                    "TAKEDOWN"
+                ],
+                [
+                    45,
+                    "DAZZLINGGLEAM"
+                ],
+                [
+                    50,
+                    "PSYCHIC"
+                ],
+                [
+                    55,
+                    "HEALINGWISH"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BODYSLAM",
+                "BOUNCE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARM",
+                "CONFIDE",
+                "DAZZLINGGLEAM",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "EXPANDINGFORCE",
+                "FACADE",
+                "FRUSTRATION",
+                "FUTURESIGHT",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "IMPRISON",
+                "IRONTAIL",
+                "LOWKICK",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHIC",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "WILDCHARGE",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "ALLYSWITCH",
+                "CHARM",
+                "DOUBLEEDGE",
+                "DOUBLEKICK",
+                "FLAMEWHEEL",
+                "HIGHHORSEPOWER",
+                "HORNDRILL",
+                "HYPNOSIS",
+                "LOWKICK",
+                "MORNINGSUN",
+                "THRASH"
+            ],
+            "height": 0.8,
+            "weight": 24.0,
+            "abilities": [
+                "RUNAWAY",
+                "PASTELVEIL"
+            ],
+            "hiddenAbilitie": [
+                "ANTICIPATION"
+            ],
+            "baseTotal": 410,
+            "baseStats": [
+                50,
+                85,
+                55,
+                90,
+                65,
+                65
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Galar"
+        }
+    ],
+    "internationalPokedex": 77
+}

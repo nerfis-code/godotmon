@@ -1,0 +1,188 @@
+{
+    "generation": 2,
+    "primaryType": "NORMAL",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "POWERSWAP"
+        ],
+        [
+            1,
+            "GUARDSWAP"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            5,
+            "CONFUSION"
+        ],
+        [
+            10,
+            "ASSURANCE"
+        ],
+        [
+            14,
+            "STOMP"
+        ],
+        [
+            19,
+            "PSYBEAM"
+        ],
+        [
+            23,
+            "AGILITY"
+        ],
+        [
+            28,
+            "DOUBLEHIT"
+        ],
+        [
+            32,
+            "ZENHEADBUTT"
+        ],
+        [
+            32,
+            "TWINBEAM"
+        ],
+        [
+            37,
+            "CRUNCH"
+        ],
+        [
+            41,
+            "BATONPASS"
+        ],
+        [
+            46,
+            "NASTYPLOT"
+        ],
+        [
+            50,
+            "PSYCHIC"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GRAVITY",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "BEATUP",
+        "DOUBLEKICK",
+        "FUTURESIGHT",
+        "MAGICCOAT",
+        "MEANLOOK",
+        "MIRRORCOAT",
+        "TAKEDOWN",
+        "WISH"
+    ],
+    "height": 1.5,
+    "weight": 41.5,
+    "abilities": [
+        "INNERFOCUS",
+        "EARLYBIRD"
+    ],
+    "hiddenAbilitie": [
+        "SAPSIPPER"
+    ],
+    "baseTotal": 455,
+    "baseStats": [
+        70,
+        80,
+        65,
+        85,
+        90,
+        65
+    ],
+    "flags": [],
+    "name": "Girafarig",
+    "species": "GIRAFARIG",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 159,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 203
+}

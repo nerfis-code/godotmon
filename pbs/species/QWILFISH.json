@@ -1,0 +1,539 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            4,
+            "HARDEN"
+        ],
+        [
+            8,
+            "WATERGUN"
+        ],
+        [
+            12,
+            "FELLSTINGER"
+        ],
+        [
+            16,
+            "MINIMIZE"
+        ],
+        [
+            20,
+            "SPIKES"
+        ],
+        [
+            24,
+            "BRINE"
+        ],
+        [
+            28,
+            "REVENGE"
+        ],
+        [
+            28,
+            "POISONJAB"
+        ],
+        [
+            32,
+            "PINMISSILE"
+        ],
+        [
+            36,
+            "TOXICSPIKES"
+        ],
+        [
+            40,
+            "STOCKPILE"
+        ],
+        [
+            40,
+            "SPITUP"
+        ],
+        [
+            44,
+            "TOXIC"
+        ],
+        [
+            48,
+            "TAKEDOWN"
+        ],
+        [
+            48,
+            "AQUATAIL"
+        ],
+        [
+            52,
+            "ACUPRESSURE"
+        ],
+        [
+            56,
+            "DESTINYBOND"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BLIZZARD",
+        "BOUNCE",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FRUSTRATION",
+        "GYROBALL",
+        "HAIL",
+        "HEADBUTT",
+        "HEX",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "LIQUIDATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PINMISSILE",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROLLOUT",
+        "ROUND",
+        "SCALD",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SPIKES",
+        "STEELROLLER",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THROATCHOP",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TOXICSPIKES",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "ACIDSPRAY",
+        "AQUAJET",
+        "ASTONISH",
+        "BUBBLEBEAM",
+        "FLAIL",
+        "HAZE",
+        "SUPERSONIC",
+        "WATERPULSE"
+    ],
+    "height": 0.5,
+    "weight": 3.9,
+    "abilities": [
+        "POISONPOINT",
+        "SWIFTSWIM"
+    ],
+    "hiddenAbilitie": [
+        "INTIMIDATE"
+    ],
+    "baseTotal": 440,
+    "baseStats": [
+        65,
+        95,
+        85,
+        85,
+        55,
+        55
+    ],
+    "flags": [],
+    "name": "Qwilfish",
+    "species": "QWILFISH",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 88,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 2,
+            "primaryType": "WATER",
+            "secondaryType": "POISON",
+            "moves": [
+                [
+                    1,
+                    "POISONSTING"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    4,
+                    "HARDEN"
+                ],
+                [
+                    8,
+                    "WATERGUN"
+                ],
+                [
+                    12,
+                    "FELLSTINGER"
+                ],
+                [
+                    16,
+                    "MINIMIZE"
+                ],
+                [
+                    20,
+                    "SPIKES"
+                ],
+                [
+                    24,
+                    "BRINE"
+                ],
+                [
+                    28,
+                    "REVENGE"
+                ],
+                [
+                    28,
+                    "POISONJAB"
+                ],
+                [
+                    32,
+                    "PINMISSILE"
+                ],
+                [
+                    36,
+                    "TOXICSPIKES"
+                ],
+                [
+                    40,
+                    "STOCKPILE"
+                ],
+                [
+                    40,
+                    "SPITUP"
+                ],
+                [
+                    44,
+                    "TOXIC"
+                ],
+                [
+                    48,
+                    "TAKEDOWN"
+                ],
+                [
+                    48,
+                    "AQUATAIL"
+                ],
+                [
+                    52,
+                    "ACUPRESSURE"
+                ],
+                [
+                    56,
+                    "DESTINYBOND"
+                ]
+            ],
+            "tutorMoves": [
+                "AQUATAIL",
+                "ASSURANCE",
+                "ATTRACT",
+                "BLIZZARD",
+                "BOUNCE",
+                "BRINE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFENSECURL",
+                "DIVE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FRUSTRATION",
+                "GYROBALL",
+                "HAIL",
+                "HEADBUTT",
+                "HEX",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "ICYWIND",
+                "LIQUIDATION",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAINSPLIT",
+                "PAYBACK",
+                "PINMISSILE",
+                "POISONJAB",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROLLOUT",
+                "ROUND",
+                "SCALD",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNORE",
+                "SPIKES",
+                "STEELROLLER",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAUNT",
+                "THROATCHOP",
+                "THUNDERWAVE",
+                "TOXIC",
+                "TOXICSPIKES",
+                "VENOMDRENCH",
+                "VENOSHOCK",
+                "WATERFALL",
+                "WATERPULSE",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [
+                "ACIDSPRAY",
+                "AQUAJET",
+                "ASTONISH",
+                "BUBBLEBEAM",
+                "FLAIL",
+                "HAZE",
+                "SUPERSONIC",
+                "WATERPULSE"
+            ],
+            "height": 0.5,
+            "weight": 3.9,
+            "abilities": [
+                "POISONPOINT",
+                "SWIFTSWIM"
+            ],
+            "hiddenAbilitie": [
+                "INTIMIDATE"
+            ],
+            "baseTotal": 440,
+            "baseStats": [
+                65,
+                95,
+                85,
+                85,
+                55,
+                55
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Qwilfish"
+        },
+        {
+            "generation": 8,
+            "primaryType": "DARK",
+            "secondaryType": "POISON",
+            "moves": [
+                [
+                    1,
+                    "POISONSTING"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    4,
+                    "HARDEN"
+                ],
+                [
+                    8,
+                    "BITE"
+                ],
+                [
+                    12,
+                    "FELLSTINGER"
+                ],
+                [
+                    16,
+                    "MINIMIZE"
+                ],
+                [
+                    20,
+                    "SPIKES"
+                ],
+                [
+                    24,
+                    "BRINE"
+                ],
+                [
+                    28,
+                    "BARBBARRAGE"
+                ],
+                [
+                    32,
+                    "PINMISSILE"
+                ],
+                [
+                    36,
+                    "TOXICSPIKES"
+                ],
+                [
+                    40,
+                    "SPITUP"
+                ],
+                [
+                    40,
+                    "STOCKPILE"
+                ],
+                [
+                    44,
+                    "TOXIC"
+                ],
+                [
+                    48,
+                    "CRUNCH"
+                ],
+                [
+                    52,
+                    "ACUPRESSURE"
+                ],
+                [
+                    56,
+                    "DESTINYBOND"
+                ]
+            ],
+            "tutorMoves": [
+                "ACIDSPRAY",
+                "AGILITY",
+                "BLIZZARD",
+                "CHILLINGWATER",
+                "CRUNCH",
+                "CURSE",
+                "DARKPULSE",
+                "DOUBLEEDGE",
+                "ENDURE",
+                "FACADE",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "GYROBALL",
+                "HAZE",
+                "HEX",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "ICYWIND",
+                "LASHOUT",
+                "LIQUIDATION",
+                "MUDSHOT",
+                "PAINSPLIT",
+                "POISONJAB",
+                "POISONTAIL",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "REVERSAL",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SPIKES",
+                "SPITE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAKEDOWN",
+                "TAUNT",
+                "THROATCHOP",
+                "TOXIC",
+                "TOXICSPIKES",
+                "VENOSHOCK",
+                "WATERFALL",
+                "WATERPULSE"
+            ],
+            "eggMoves": [
+                "ACIDSPRAY",
+                "AQUAJET",
+                "AQUATAIL",
+                "ASTONISH",
+                "BUBBLEBEAM",
+                "FLAIL",
+                "HAZE",
+                "SELFDESTRUCT",
+                "SUPERSONIC",
+                "WATERPULSE"
+            ],
+            "height": 0.5,
+            "weight": 3.9,
+            "abilities": [
+                "POISONPOINT",
+                "SWIFTSWIM"
+            ],
+            "hiddenAbilitie": [
+                "INTIMIDATE"
+            ],
+            "baseTotal": 440,
+            "baseStats": [
+                65,
+                95,
+                85,
+                85,
+                55,
+                55
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Hisui"
+        }
+    ],
+    "internationalPokedex": 211
+}

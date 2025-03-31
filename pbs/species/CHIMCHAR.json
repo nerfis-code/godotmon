@@ -1,0 +1,177 @@
+{
+    "generation": 4,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            7,
+            "EMBER"
+        ],
+        [
+            9,
+            "TAUNT"
+        ],
+        [
+            12,
+            "POWERUPPUNCH"
+        ],
+        [
+            15,
+            "FURYSWIPES"
+        ],
+        [
+            17,
+            "FLAMEWHEEL"
+        ],
+        [
+            23,
+            "NASTYPLOT"
+        ],
+        [
+            25,
+            "TORMENT"
+        ],
+        [
+            31,
+            "FACADE"
+        ],
+        [
+            33,
+            "FIRESPIN"
+        ],
+        [
+            39,
+            "ACROBATICS"
+        ],
+        [
+            41,
+            "SLACKOFF"
+        ],
+        [
+            47,
+            "FLAMETHROWER"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BULKUP",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPLEDGE",
+        "FIREPUNCH",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "INCINERATE",
+        "IRONTAIL",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "UPROAR",
+        "UTURN",
+        "VACUUMWAVE",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "BLAZEKICK",
+        "COUNTER",
+        "DOUBLEKICK",
+        "ENCORE",
+        "FAKEOUT",
+        "FIREPUNCH",
+        "FOCUSENERGY",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "POWERUPPUNCH",
+        "QUICKGUARD",
+        "SUBMISSION",
+        "THUNDERPUNCH"
+    ],
+    "height": 0.5,
+    "weight": 6.2,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "IRONFIST"
+    ],
+    "baseTotal": 309,
+    "baseStats": [
+        44,
+        58,
+        44,
+        61,
+        58,
+        44
+    ],
+    "flags": [],
+    "name": "Chimchar",
+    "species": "CHIMCHAR",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 390
+}

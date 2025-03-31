@@ -1,0 +1,475 @@
+{
+    "generation": 1,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "THUNDERWAVE"
+        ],
+        [
+            5,
+            "THUNDERSHOCK"
+        ],
+        [
+            10,
+            "LIGHTSCREEN"
+        ],
+        [
+            15,
+            "PLUCK"
+        ],
+        [
+            20,
+            "AGILITY"
+        ],
+        [
+            25,
+            "ANCIENTPOWER"
+        ],
+        [
+            30,
+            "CHARGE"
+        ],
+        [
+            35,
+            "DRILLPECK"
+        ],
+        [
+            40,
+            "ROOST"
+        ],
+        [
+            45,
+            "DISCHARGE"
+        ],
+        [
+            50,
+            "RAINDANCE"
+        ],
+        [
+            55,
+            "THUNDER"
+        ],
+        [
+            60,
+            "DETECT"
+        ],
+        [
+            65,
+            "MAGNETICFLUX"
+        ],
+        [
+            70,
+            "ZAPCANNON"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "ANCIENTPOWER",
+        "BATONPASS",
+        "BRAVEBIRD",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "EERIEIMPULSE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYPERBEAM",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROAR",
+        "ROCKSMASH",
+        "ROOST",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKYATTACK",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TWISTER",
+        "UTURN",
+        "VOLTSWITCH",
+        "WEATHERBALL",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 52.6,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [
+        "STATIC"
+    ],
+    "baseTotal": 580,
+    "baseStats": [
+        90,
+        90,
+        85,
+        100,
+        125,
+        90
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Zapdos",
+    "species": "ZAPDOS",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "THUNDERWAVE"
+                ],
+                [
+                    5,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    10,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    15,
+                    "PLUCK"
+                ],
+                [
+                    20,
+                    "AGILITY"
+                ],
+                [
+                    25,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    30,
+                    "CHARGE"
+                ],
+                [
+                    35,
+                    "DRILLPECK"
+                ],
+                [
+                    40,
+                    "ROOST"
+                ],
+                [
+                    45,
+                    "DISCHARGE"
+                ],
+                [
+                    50,
+                    "RAINDANCE"
+                ],
+                [
+                    55,
+                    "THUNDER"
+                ],
+                [
+                    60,
+                    "DETECT"
+                ],
+                [
+                    65,
+                    "MAGNETICFLUX"
+                ],
+                [
+                    70,
+                    "ZAPCANNON"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "AIRCUTTER",
+                "ANCIENTPOWER",
+                "BATONPASS",
+                "BRAVEBIRD",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "EERIEIMPULSE",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FLY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HAIL",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HURRICANE",
+                "HYPERBEAM",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PLUCK",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "RISINGVOLTAGE",
+                "ROAR",
+                "ROCKSMASH",
+                "ROOST",
+                "ROUND",
+                "SANDSTORM",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SKYATTACK",
+                "SKYDROP",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TWISTER",
+                "UTURN",
+                "VOLTSWITCH",
+                "WEATHERBALL",
+                "WILDCHARGE"
+            ],
+            "eggMoves": [],
+            "height": 1.6,
+            "weight": 52.6,
+            "abilities": [
+                "PRESSURE"
+            ],
+            "hiddenAbilitie": [
+                "STATIC"
+            ],
+            "baseTotal": 580,
+            "baseStats": [
+                90,
+                90,
+                85,
+                100,
+                125,
+                90
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 0,
+            "formName": "Zapdos"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FIGHTING",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "PECK"
+                ],
+                [
+                    1,
+                    "FOCUSENERGY"
+                ],
+                [
+                    5,
+                    "ROCKSMASH"
+                ],
+                [
+                    10,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    15,
+                    "PLUCK"
+                ],
+                [
+                    20,
+                    "AGILITY"
+                ],
+                [
+                    25,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    30,
+                    "BRICKBREAK"
+                ],
+                [
+                    35,
+                    "DRILLPECK"
+                ],
+                [
+                    40,
+                    "QUICKGUARD"
+                ],
+                [
+                    45,
+                    "THUNDEROUSKICK"
+                ],
+                [
+                    50,
+                    "BULKUP"
+                ],
+                [
+                    55,
+                    "COUNTER"
+                ],
+                [
+                    60,
+                    "DETECT"
+                ],
+                [
+                    65,
+                    "CLOSECOMBAT"
+                ],
+                [
+                    70,
+                    "REVERSAL"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AGILITY",
+                "ASSURANCE",
+                "BLAZEKICK",
+                "BOUNCE",
+                "BRAVEBIRD",
+                "BRICKBREAK",
+                "BULKUP",
+                "CLOSECOMBAT",
+                "COACHING",
+                "CONFIDE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HURRICANE",
+                "HYPERBEAM",
+                "LIGHTSCREEN",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MEGAKICK",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAYBACK",
+                "PROTECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROUND",
+                "SCARYFACE",
+                "SCREECH",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THROATCHOP",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 1.6,
+            "weight": 58.2,
+            "abilities": [
+                "DEFIANT"
+            ],
+            "hiddenAbilitie": [
+                "DEFIANT"
+            ],
+            "baseTotal": 580,
+            "baseStats": [
+                90,
+                125,
+                90,
+                100,
+                85,
+                90
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 1,
+            "formName": "Forma Galar"
+        }
+    ],
+    "internationalPokedex": 145
+}

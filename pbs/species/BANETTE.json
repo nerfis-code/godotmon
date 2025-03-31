@@ -1,0 +1,488 @@
+{
+    "generation": 3,
+    "primaryType": "GHOST",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "KNOCKOFF"
+        ],
+        [
+            1,
+            "SCREECH"
+        ],
+        [
+            1,
+            "NIGHTSHADE"
+        ],
+        [
+            1,
+            "SPITE"
+        ],
+        [
+            16,
+            "WILLOWISP"
+        ],
+        [
+            19,
+            "SHADOWSNEAK"
+        ],
+        [
+            19,
+            "PAINSPLIT"
+        ],
+        [
+            22,
+            "HEX"
+        ],
+        [
+            26,
+            "CURSE"
+        ],
+        [
+            30,
+            "SHADOWBALL"
+        ],
+        [
+            34,
+            "ROLEPLAY"
+        ],
+        [
+            40,
+            "SUCKERPUNCH"
+        ],
+        [
+            46,
+            "TRICK"
+        ],
+        [
+            52,
+            "GRUDGE"
+        ],
+        [
+            53,
+            "PHANTOMFORCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BODYSLAM",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DARKPULSE",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICYWIND",
+        "INFESTATION",
+        "KNOCKOFF",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRICK",
+        "TRICKROOM",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 12.5,
+    "abilities": [
+        "INSOMNIA",
+        "FRISK"
+    ],
+    "hiddenAbilitie": [
+        "CURSEDBODY"
+    ],
+    "baseTotal": 455,
+    "baseStats": [
+        64,
+        115,
+        65,
+        65,
+        83,
+        63
+    ],
+    "flags": [],
+    "name": "Banette",
+    "species": "BANETTE",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 159,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 3,
+            "primaryType": "GHOST",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "KNOCKOFF"
+                ],
+                [
+                    1,
+                    "SCREECH"
+                ],
+                [
+                    1,
+                    "NIGHTSHADE"
+                ],
+                [
+                    1,
+                    "SPITE"
+                ],
+                [
+                    16,
+                    "WILLOWISP"
+                ],
+                [
+                    19,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    19,
+                    "PAINSPLIT"
+                ],
+                [
+                    22,
+                    "HEX"
+                ],
+                [
+                    26,
+                    "CURSE"
+                ],
+                [
+                    30,
+                    "SHADOWBALL"
+                ],
+                [
+                    34,
+                    "ROLEPLAY"
+                ],
+                [
+                    40,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    46,
+                    "TRICK"
+                ],
+                [
+                    52,
+                    "GRUDGE"
+                ],
+                [
+                    53,
+                    "PHANTOMFORCE"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BODYSLAM",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DAZZLINGGLEAM",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FLING",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICYWIND",
+                "INFESTATION",
+                "KNOCKOFF",
+                "MAGICCOAT",
+                "MAGICROOM",
+                "METRONOME",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PAINSPLIT",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROLEPLAY",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAUNT",
+                "TELEKINESIS",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TORMENT",
+                "TRICK",
+                "TRICKROOM",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 1.1,
+            "weight": 12.5,
+            "abilities": [
+                "INSOMNIA",
+                "FRISK"
+            ],
+            "hiddenAbilitie": [
+                "CURSEDBODY"
+            ],
+            "baseTotal": 455,
+            "baseStats": [
+                64,
+                115,
+                65,
+                65,
+                83,
+                63
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Banette"
+        },
+        {
+            "generation": 6,
+            "primaryType": "GHOST",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "KNOCKOFF"
+                ],
+                [
+                    1,
+                    "SCREECH"
+                ],
+                [
+                    1,
+                    "NIGHTSHADE"
+                ],
+                [
+                    1,
+                    "SPITE"
+                ],
+                [
+                    16,
+                    "WILLOWISP"
+                ],
+                [
+                    19,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    19,
+                    "PAINSPLIT"
+                ],
+                [
+                    22,
+                    "HEX"
+                ],
+                [
+                    26,
+                    "CURSE"
+                ],
+                [
+                    30,
+                    "SHADOWBALL"
+                ],
+                [
+                    34,
+                    "ROLEPLAY"
+                ],
+                [
+                    40,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    46,
+                    "TRICK"
+                ],
+                [
+                    52,
+                    "GRUDGE"
+                ],
+                [
+                    53,
+                    "PHANTOMFORCE"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "ATTRACT",
+                "BODYSLAM",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DAZZLINGGLEAM",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "EMBARGO",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FLING",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICYWIND",
+                "INFESTATION",
+                "KNOCKOFF",
+                "MAGICCOAT",
+                "MAGICROOM",
+                "METRONOME",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PAINSPLIT",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROLEPLAY",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAUNT",
+                "TELEKINESIS",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TORMENT",
+                "TRICK",
+                "TRICKROOM",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 13.0,
+            "abilities": [
+                "PRANKSTER"
+            ],
+            "hiddenAbilitie": [
+                "PRANKSTER"
+            ],
+            "baseTotal": 555,
+            "baseStats": [
+                64,
+                165,
+                75,
+                75,
+                93,
+                83
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Banette"
+        }
+    ],
+    "internationalPokedex": 354
+}

@@ -1,0 +1,999 @@
+{
+    "generation": 9,
+    "primaryType": "STEEL",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            -1,
+            "SHIFTGEAR"
+        ],
+        [
+            1,
+            "LICK"
+        ],
+        [
+            1,
+            "POISONGAS"
+        ],
+        [
+            1,
+            "MAGNETRISE"
+        ],
+        [
+            4,
+            "SMOG"
+        ],
+        [
+            7,
+            "TAUNT"
+        ],
+        [
+            10,
+            "ASSURANCE"
+        ],
+        [
+            13,
+            "SLUDGE"
+        ],
+        [
+            17,
+            "GYROBALL"
+        ],
+        [
+            21,
+            "HEADBUTT"
+        ],
+        [
+            25,
+            "SCREECH"
+        ],
+        [
+            28,
+            "IRONHEAD"
+        ],
+        [
+            32,
+            "SWAGGER"
+        ],
+        [
+            36,
+            "POISONJAB"
+        ],
+        [
+            46,
+            "UPROAR"
+        ],
+        [
+            52,
+            "SPINOUT"
+        ],
+        [
+            58,
+            "GUNKSHOT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CURSE",
+        "DOUBLEEDGE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "GYROBALL",
+        "HARDPRESS",
+        "HAZE",
+        "HEAVYSLAM",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LASHOUT",
+        "METALSOUND",
+        "OVERHEAT",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "STEELBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "TAUNT",
+        "TEMPERFLARE",
+        "THIEF",
+        "TOXIC",
+        "TOXICSPIKES",
+        "UPROAR",
+        "VENOSHOCK",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 120.0,
+    "abilities": [
+        "OVERCOAT"
+    ],
+    "hiddenAbilitie": [
+        "FILTER"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        80,
+        119,
+        90,
+        90,
+        54,
+        67
+    ],
+    "flags": [],
+    "name": "Revavroom",
+    "species": "REVAVROOM",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 9,
+            "primaryType": "STEEL",
+            "secondaryType": "POISON",
+            "moves": [
+                [
+                    -1,
+                    "SHIFTGEAR"
+                ],
+                [
+                    1,
+                    "LICK"
+                ],
+                [
+                    1,
+                    "POISONGAS"
+                ],
+                [
+                    1,
+                    "MAGNETRISE"
+                ],
+                [
+                    4,
+                    "SMOG"
+                ],
+                [
+                    7,
+                    "TAUNT"
+                ],
+                [
+                    10,
+                    "ASSURANCE"
+                ],
+                [
+                    13,
+                    "SLUDGE"
+                ],
+                [
+                    17,
+                    "GYROBALL"
+                ],
+                [
+                    21,
+                    "HEADBUTT"
+                ],
+                [
+                    25,
+                    "SCREECH"
+                ],
+                [
+                    28,
+                    "IRONHEAD"
+                ],
+                [
+                    32,
+                    "SWAGGER"
+                ],
+                [
+                    36,
+                    "POISONJAB"
+                ],
+                [
+                    46,
+                    "UPROAR"
+                ],
+                [
+                    52,
+                    "SPINOUT"
+                ],
+                [
+                    58,
+                    "GUNKSHOT"
+                ]
+            ],
+            "tutorMoves": [
+                "ACIDSPRAY",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CURSE",
+                "DOUBLEEDGE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "GYROBALL",
+                "HARDPRESS",
+                "HAZE",
+                "HEAVYSLAM",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASHOUT",
+                "METALSOUND",
+                "OVERHEAT",
+                "POISONJAB",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "STEELBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAKEDOWN",
+                "TAUNT",
+                "TEMPERFLARE",
+                "THIEF",
+                "TOXIC",
+                "TOXICSPIKES",
+                "UPROAR",
+                "VENOSHOCK",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.8,
+            "weight": 120.0,
+            "abilities": [
+                "OVERCOAT"
+            ],
+            "hiddenAbilitie": [
+                "FILTER"
+            ],
+            "baseTotal": 500,
+            "baseStats": [
+                80,
+                119,
+                90,
+                90,
+                54,
+                67
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Revavroom"
+        },
+        {
+            "generation": 9,
+            "primaryType": "FIRE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "SHIFTGEAR"
+                ],
+                [
+                    1,
+                    "LICK"
+                ],
+                [
+                    1,
+                    "POISONGAS"
+                ],
+                [
+                    1,
+                    "MAGNETRISE"
+                ],
+                [
+                    4,
+                    "SMOG"
+                ],
+                [
+                    7,
+                    "TAUNT"
+                ],
+                [
+                    10,
+                    "ASSURANCE"
+                ],
+                [
+                    13,
+                    "SLUDGE"
+                ],
+                [
+                    17,
+                    "GYROBALL"
+                ],
+                [
+                    21,
+                    "HEADBUTT"
+                ],
+                [
+                    25,
+                    "SCREECH"
+                ],
+                [
+                    28,
+                    "IRONHEAD"
+                ],
+                [
+                    32,
+                    "SWAGGER"
+                ],
+                [
+                    36,
+                    "POISONJAB"
+                ],
+                [
+                    46,
+                    "UPROAR"
+                ],
+                [
+                    52,
+                    "SPINOUT"
+                ],
+                [
+                    58,
+                    "GUNKSHOT"
+                ]
+            ],
+            "tutorMoves": [
+                "ACIDSPRAY",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CURSE",
+                "DOUBLEEDGE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "GYROBALL",
+                "HARDPRESS",
+                "HAZE",
+                "HEAVYSLAM",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASHOUT",
+                "METALSOUND",
+                "OVERHEAT",
+                "POISONJAB",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "STEELBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAKEDOWN",
+                "TAUNT",
+                "TEMPERFLARE",
+                "THIEF",
+                "TOXIC",
+                "TOXICSPIKES",
+                "UPROAR",
+                "VENOSHOCK",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.8,
+            "weight": 120.0,
+            "abilities": [
+                "SPEEDBOOST"
+            ],
+            "hiddenAbilitie": [
+                "FILTER"
+            ],
+            "baseTotal": 500,
+            "baseStats": [
+                80,
+                119,
+                90,
+                90,
+                54,
+                67
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Revavroom"
+        },
+        {
+            "generation": 9,
+            "primaryType": "FAIRY",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "SHIFTGEAR"
+                ],
+                [
+                    1,
+                    "LICK"
+                ],
+                [
+                    1,
+                    "POISONGAS"
+                ],
+                [
+                    1,
+                    "MAGNETRISE"
+                ],
+                [
+                    4,
+                    "SMOG"
+                ],
+                [
+                    7,
+                    "TAUNT"
+                ],
+                [
+                    10,
+                    "ASSURANCE"
+                ],
+                [
+                    13,
+                    "SLUDGE"
+                ],
+                [
+                    17,
+                    "GYROBALL"
+                ],
+                [
+                    21,
+                    "HEADBUTT"
+                ],
+                [
+                    25,
+                    "SCREECH"
+                ],
+                [
+                    28,
+                    "IRONHEAD"
+                ],
+                [
+                    32,
+                    "SWAGGER"
+                ],
+                [
+                    36,
+                    "POISONJAB"
+                ],
+                [
+                    46,
+                    "UPROAR"
+                ],
+                [
+                    52,
+                    "SPINOUT"
+                ],
+                [
+                    58,
+                    "GUNKSHOT"
+                ]
+            ],
+            "tutorMoves": [
+                "ACIDSPRAY",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CURSE",
+                "DOUBLEEDGE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "GYROBALL",
+                "HARDPRESS",
+                "HAZE",
+                "HEAVYSLAM",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASHOUT",
+                "METALSOUND",
+                "OVERHEAT",
+                "POISONJAB",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "STEELBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAKEDOWN",
+                "TAUNT",
+                "TEMPERFLARE",
+                "THIEF",
+                "TOXIC",
+                "TOXICSPIKES",
+                "UPROAR",
+                "VENOSHOCK",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.8,
+            "weight": 120.0,
+            "abilities": [
+                "MISTYSURGE"
+            ],
+            "hiddenAbilitie": [
+                "FILTER"
+            ],
+            "baseTotal": 500,
+            "baseStats": [
+                80,
+                119,
+                90,
+                90,
+                54,
+                67
+            ],
+            "flags": [],
+            "form": 2,
+            "formName": "Revavroom"
+        },
+        {
+            "generation": 9,
+            "primaryType": "FIGHTING",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "SHIFTGEAR"
+                ],
+                [
+                    1,
+                    "LICK"
+                ],
+                [
+                    1,
+                    "POISONGAS"
+                ],
+                [
+                    1,
+                    "MAGNETRISE"
+                ],
+                [
+                    4,
+                    "SMOG"
+                ],
+                [
+                    7,
+                    "TAUNT"
+                ],
+                [
+                    10,
+                    "ASSURANCE"
+                ],
+                [
+                    13,
+                    "SLUDGE"
+                ],
+                [
+                    17,
+                    "GYROBALL"
+                ],
+                [
+                    21,
+                    "HEADBUTT"
+                ],
+                [
+                    25,
+                    "SCREECH"
+                ],
+                [
+                    28,
+                    "IRONHEAD"
+                ],
+                [
+                    32,
+                    "SWAGGER"
+                ],
+                [
+                    36,
+                    "POISONJAB"
+                ],
+                [
+                    46,
+                    "UPROAR"
+                ],
+                [
+                    52,
+                    "SPINOUT"
+                ],
+                [
+                    58,
+                    "GUNKSHOT"
+                ]
+            ],
+            "tutorMoves": [
+                "ACIDSPRAY",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CURSE",
+                "DOUBLEEDGE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "GYROBALL",
+                "HARDPRESS",
+                "HAZE",
+                "HEAVYSLAM",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASHOUT",
+                "METALSOUND",
+                "OVERHEAT",
+                "POISONJAB",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "STEELBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAKEDOWN",
+                "TAUNT",
+                "TEMPERFLARE",
+                "THIEF",
+                "TOXIC",
+                "TOXICSPIKES",
+                "UPROAR",
+                "VENOSHOCK",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.8,
+            "weight": 120.0,
+            "abilities": [
+                "STAMINA"
+            ],
+            "hiddenAbilitie": [
+                "FILTER"
+            ],
+            "baseTotal": 500,
+            "baseStats": [
+                80,
+                119,
+                90,
+                90,
+                54,
+                67
+            ],
+            "flags": [],
+            "form": 3,
+            "formName": "Revavroom"
+        },
+        {
+            "generation": 9,
+            "primaryType": "POISON",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "SHIFTGEAR"
+                ],
+                [
+                    1,
+                    "LICK"
+                ],
+                [
+                    1,
+                    "POISONGAS"
+                ],
+                [
+                    1,
+                    "MAGNETRISE"
+                ],
+                [
+                    4,
+                    "SMOG"
+                ],
+                [
+                    7,
+                    "TAUNT"
+                ],
+                [
+                    10,
+                    "ASSURANCE"
+                ],
+                [
+                    13,
+                    "SLUDGE"
+                ],
+                [
+                    17,
+                    "GYROBALL"
+                ],
+                [
+                    21,
+                    "HEADBUTT"
+                ],
+                [
+                    25,
+                    "SCREECH"
+                ],
+                [
+                    28,
+                    "IRONHEAD"
+                ],
+                [
+                    32,
+                    "SWAGGER"
+                ],
+                [
+                    36,
+                    "POISONJAB"
+                ],
+                [
+                    46,
+                    "UPROAR"
+                ],
+                [
+                    52,
+                    "SPINOUT"
+                ],
+                [
+                    58,
+                    "GUNKSHOT"
+                ]
+            ],
+            "tutorMoves": [
+                "ACIDSPRAY",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CURSE",
+                "DOUBLEEDGE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "GYROBALL",
+                "HARDPRESS",
+                "HAZE",
+                "HEAVYSLAM",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASHOUT",
+                "METALSOUND",
+                "OVERHEAT",
+                "POISONJAB",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "STEELBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAKEDOWN",
+                "TAUNT",
+                "TEMPERFLARE",
+                "THIEF",
+                "TOXIC",
+                "TOXICSPIKES",
+                "UPROAR",
+                "VENOSHOCK",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.8,
+            "weight": 120.0,
+            "abilities": [
+                "TOXICDEBRIS"
+            ],
+            "hiddenAbilitie": [
+                "FILTER"
+            ],
+            "baseTotal": 500,
+            "baseStats": [
+                80,
+                119,
+                90,
+                90,
+                54,
+                67
+            ],
+            "flags": [],
+            "form": 4,
+            "formName": "Revavroom"
+        },
+        {
+            "generation": 9,
+            "primaryType": "DARK",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "SHIFTGEAR"
+                ],
+                [
+                    1,
+                    "LICK"
+                ],
+                [
+                    1,
+                    "POISONGAS"
+                ],
+                [
+                    1,
+                    "MAGNETRISE"
+                ],
+                [
+                    4,
+                    "SMOG"
+                ],
+                [
+                    7,
+                    "TAUNT"
+                ],
+                [
+                    10,
+                    "ASSURANCE"
+                ],
+                [
+                    13,
+                    "SLUDGE"
+                ],
+                [
+                    17,
+                    "GYROBALL"
+                ],
+                [
+                    21,
+                    "HEADBUTT"
+                ],
+                [
+                    25,
+                    "SCREECH"
+                ],
+                [
+                    28,
+                    "IRONHEAD"
+                ],
+                [
+                    32,
+                    "SWAGGER"
+                ],
+                [
+                    36,
+                    "POISONJAB"
+                ],
+                [
+                    46,
+                    "UPROAR"
+                ],
+                [
+                    52,
+                    "SPINOUT"
+                ],
+                [
+                    58,
+                    "GUNKSHOT"
+                ]
+            ],
+            "tutorMoves": [
+                "ACIDSPRAY",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CURSE",
+                "DOUBLEEDGE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "GYROBALL",
+                "HARDPRESS",
+                "HAZE",
+                "HEAVYSLAM",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASHOUT",
+                "METALSOUND",
+                "OVERHEAT",
+                "POISONJAB",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "STEELBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAKEDOWN",
+                "TAUNT",
+                "TEMPERFLARE",
+                "THIEF",
+                "TOXIC",
+                "TOXICSPIKES",
+                "UPROAR",
+                "VENOSHOCK",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.8,
+            "weight": 120.0,
+            "abilities": [
+                "INTIMIDATE"
+            ],
+            "hiddenAbilitie": [
+                "FILTER"
+            ],
+            "baseTotal": 500,
+            "baseStats": [
+                80,
+                119,
+                90,
+                90,
+                54,
+                67
+            ],
+            "flags": [],
+            "form": 5,
+            "formName": "Revavroom"
+        }
+    ],
+    "internationalPokedex": 966
+}

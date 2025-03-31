@@ -1,0 +1,152 @@
+{
+    "generation": 3,
+    "primaryType": "DRAGON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "PROTECT"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            15,
+            "HEADBUTT"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            25,
+            "CRUNCH"
+        ],
+        [
+            33,
+            "DRAGONCLAW"
+        ],
+        [
+            39,
+            "ZENHEADBUTT"
+        ],
+        [
+            46,
+            "FOCUSENERGY"
+        ],
+        [
+            53,
+            "FLAMETHROWER"
+        ],
+        [
+            60,
+            "OUTRAGE"
+        ],
+        [
+            67,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FLAMETHROWER",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYDROPUMP",
+        "HYPERVOICE",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TWISTER",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 110.5,
+    "abilities": [
+        "ROCKHEAD"
+    ],
+    "hiddenAbilitie": [
+        "OVERCOAT"
+    ],
+    "baseTotal": 420,
+    "baseStats": [
+        65,
+        95,
+        100,
+        50,
+        60,
+        50
+    ],
+    "flags": [],
+    "name": "Shelgon",
+    "species": "SHELGON",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 147,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 372
+}

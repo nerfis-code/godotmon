@@ -1,0 +1,146 @@
+{
+    "generation": 9,
+    "primaryType": "ROCK",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "HORNATTACK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "ROCKTHROW"
+        ],
+        [
+            1,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            7,
+            "QUICKATTACK"
+        ],
+        [
+            14,
+            "SLASH"
+        ],
+        [
+            21,
+            "AGILITY"
+        ],
+        [
+            28,
+            "PSYCHOCUT"
+        ],
+        [
+            35,
+            "COUNTER"
+        ],
+        [
+            42,
+            "ROCKTOMB"
+        ],
+        [
+            49,
+            "SACREDSWORD"
+        ],
+        [
+            56,
+            "MIGHTYCLEAVE"
+        ],
+        [
+            63,
+            "SWORDSDANCE"
+        ],
+        [
+            70,
+            "MEGAHORN"
+        ],
+        [
+            77,
+            "QUICKGUARD"
+        ],
+        [
+            84,
+            "STONEEDGE"
+        ],
+        [
+            91,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AIRSLASH",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CLOSECOMBAT",
+        "DOUBLEEDGE",
+        "EARTHQUAKE",
+        "ELECTRICTERRAIN",
+        "ENDURE",
+        "FACADE",
+        "GIGAIMPACT",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "METEORBEAM",
+        "POISONJAB",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYSHOCK",
+        "REST",
+        "ROCKBLAST",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SOLARBLADE",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "TAUNT",
+        "THROATCHOP",
+        "WILDCHARGE",
+        "XSCISSOR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 162.5,
+    "abilities": [
+        "QUARKDRIVE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 590,
+    "baseStats": [
+        90,
+        120,
+        80,
+        124,
+        68,
+        108
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Ferromole",
+    "species": "IRONBOULDER",
+    "catchRate": 10,
+    "happiness": 0,
+    "baseExp": 295,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 1022
+}

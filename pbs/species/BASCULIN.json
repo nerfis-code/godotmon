@@ -1,0 +1,616 @@
+{
+    "generation": 5,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            4,
+            "TACKLE"
+        ],
+        [
+            8,
+            "FLAIL"
+        ],
+        [
+            12,
+            "AQUAJET"
+        ],
+        [
+            16,
+            "BITE"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            24,
+            "HEADBUTT"
+        ],
+        [
+            28,
+            "SOAK"
+        ],
+        [
+            32,
+            "CRUNCH"
+        ],
+        [
+            36,
+            "TAKEDOWN"
+        ],
+        [
+            40,
+            "FINALGAMBIT"
+        ],
+        [
+            44,
+            "AQUATAIL"
+        ],
+        [
+            44,
+            "WAVECRASH"
+        ],
+        [
+            48,
+            "THRASH"
+        ],
+        [
+            52,
+            "DOUBLEEDGE"
+        ],
+        [
+            56,
+            "HEADSMASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BOUNCE",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLIPTURN",
+        "FRUSTRATION",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICYWIND",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROUND",
+        "SCALD",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TOXIC",
+        "UPROAR",
+        "WATERFALL",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "BUBBLEBEAM",
+        "ENDEAVOR"
+    ],
+    "height": 1.0,
+    "weight": 18.0,
+    "abilities": [
+        "RECKLESS",
+        "ADAPTABILITY"
+    ],
+    "hiddenAbilitie": [
+        "MOLDBREAKER"
+    ],
+    "baseTotal": 460,
+    "baseStats": [
+        70,
+        92,
+        65,
+        98,
+        80,
+        55
+    ],
+    "flags": [
+        "InheritFormFromMother"
+    ],
+    "name": "Basculin",
+    "species": "BASCULIN",
+    "catchRate": 25,
+    "happiness": 50,
+    "baseExp": 161,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    4,
+                    "TACKLE"
+                ],
+                [
+                    8,
+                    "FLAIL"
+                ],
+                [
+                    12,
+                    "AQUAJET"
+                ],
+                [
+                    16,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "SCARYFACE"
+                ],
+                [
+                    24,
+                    "HEADBUTT"
+                ],
+                [
+                    28,
+                    "SOAK"
+                ],
+                [
+                    32,
+                    "CRUNCH"
+                ],
+                [
+                    36,
+                    "TAKEDOWN"
+                ],
+                [
+                    40,
+                    "FINALGAMBIT"
+                ],
+                [
+                    44,
+                    "AQUATAIL"
+                ],
+                [
+                    44,
+                    "WAVECRASH"
+                ],
+                [
+                    48,
+                    "THRASH"
+                ],
+                [
+                    52,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    56,
+                    "HEADSMASH"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "AQUATAIL",
+                "ASSURANCE",
+                "ATTRACT",
+                "BOUNCE",
+                "BRINE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "CUT",
+                "DIVE",
+                "DOUBLETEAM",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLIPTURN",
+                "FRUSTRATION",
+                "HAIL",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "ICEFANG",
+                "ICYWIND",
+                "LIQUIDATION",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROUND",
+                "SCALD",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "TOXIC",
+                "UPROAR",
+                "WATERFALL",
+                "WHIRLPOOL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "BUBBLEBEAM",
+                "ENDEAVOR"
+            ],
+            "height": 1.0,
+            "weight": 18.0,
+            "abilities": [
+                "RECKLESS",
+                "ADAPTABILITY"
+            ],
+            "hiddenAbilitie": [
+                "MOLDBREAKER"
+            ],
+            "baseTotal": 460,
+            "baseStats": [
+                70,
+                92,
+                65,
+                98,
+                80,
+                55
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 0,
+            "formName": "Forma Raya Roja"
+        },
+        {
+            "generation": 5,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    4,
+                    "TACKLE"
+                ],
+                [
+                    8,
+                    "FLAIL"
+                ],
+                [
+                    12,
+                    "AQUAJET"
+                ],
+                [
+                    16,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "SCARYFACE"
+                ],
+                [
+                    24,
+                    "HEADBUTT"
+                ],
+                [
+                    28,
+                    "SOAK"
+                ],
+                [
+                    32,
+                    "CRUNCH"
+                ],
+                [
+                    36,
+                    "TAKEDOWN"
+                ],
+                [
+                    40,
+                    "FINALGAMBIT"
+                ],
+                [
+                    44,
+                    "AQUATAIL"
+                ],
+                [
+                    44,
+                    "WAVECRASH"
+                ],
+                [
+                    48,
+                    "THRASH"
+                ],
+                [
+                    52,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    56,
+                    "HEADSMASH"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "AQUATAIL",
+                "ASSURANCE",
+                "ATTRACT",
+                "BOUNCE",
+                "BRINE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "CUT",
+                "DIVE",
+                "DOUBLETEAM",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLIPTURN",
+                "FRUSTRATION",
+                "HAIL",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "ICEFANG",
+                "ICYWIND",
+                "LIQUIDATION",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROUND",
+                "SCALD",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "TOXIC",
+                "UPROAR",
+                "WATERFALL",
+                "WHIRLPOOL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "BUBBLEBEAM",
+                "ENDEAVOR"
+            ],
+            "height": 1.0,
+            "weight": 18.0,
+            "abilities": [
+                "ROCKHEAD",
+                "ADAPTABILITY"
+            ],
+            "hiddenAbilitie": [
+                "MOLDBREAKER"
+            ],
+            "baseTotal": 460,
+            "baseStats": [
+                70,
+                92,
+                65,
+                98,
+                80,
+                55
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 1,
+            "formName": "Forma Raya Azul"
+        },
+        {
+            "generation": 8,
+            "primaryType": "WATER",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    4,
+                    "TACKLE"
+                ],
+                [
+                    8,
+                    "FLAIL"
+                ],
+                [
+                    12,
+                    "AQUAJET"
+                ],
+                [
+                    16,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "SCARYFACE"
+                ],
+                [
+                    24,
+                    "HEADBUTT"
+                ],
+                [
+                    28,
+                    "SOAK"
+                ],
+                [
+                    32,
+                    "CRUNCH"
+                ],
+                [
+                    36,
+                    "TAKEDOWN"
+                ],
+                [
+                    40,
+                    "UPROAR"
+                ],
+                [
+                    44,
+                    "WAVECRASH"
+                ],
+                [
+                    48,
+                    "THRASH"
+                ],
+                [
+                    52,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    56,
+                    "HEADSMASH"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "BLIZZARD",
+                "CHILLINGWATER",
+                "CRUNCH",
+                "DOUBLEEDGE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLIPTURN",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "ICEFANG",
+                "ICYWIND",
+                "LIQUIDATION",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "RAINDANCE",
+                "REST",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SNOWSCAPE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWIFT",
+                "TAKEDOWN",
+                "UPROAR",
+                "WATERFALL",
+                "WATERPULSE",
+                "WHIRLPOOL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [
+                "ENDEAVOR",
+                "LASTRESPECTS"
+            ],
+            "height": 1.0,
+            "weight": 18.0,
+            "abilities": [
+                "RATTLED",
+                "ADAPTABILITY"
+            ],
+            "hiddenAbilitie": [
+                "MOLDBREAKER"
+            ],
+            "baseTotal": 460,
+            "baseStats": [
+                70,
+                92,
+                65,
+                98,
+                80,
+                55
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 2,
+            "formName": "Forma Raya Blanca"
+        }
+    ],
+    "internationalPokedex": 550
+}

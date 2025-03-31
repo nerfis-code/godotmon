@@ -1,0 +1,178 @@
+{
+    "generation": 4,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "CONFUSERAY"
+        ],
+        [
+            6,
+            "PAYBACK"
+        ],
+        [
+            12,
+            "REVENGE"
+        ],
+        [
+            12,
+            "FACADE"
+        ],
+        [
+            18,
+            "STOMP"
+        ],
+        [
+            24,
+            "PROTECT"
+        ],
+        [
+            30,
+            "KNOCKOFF"
+        ],
+        [
+            36,
+            "MEGAPUNCH"
+        ],
+        [
+            42,
+            "BODYPRESS"
+        ],
+        [
+            48,
+            "WIDEGUARD"
+        ],
+        [
+            54,
+            "ZENHEADBUTT"
+        ],
+        [
+            60,
+            "HEAVYSLAM"
+        ],
+        [
+            66,
+            "HAMMERARM"
+        ],
+        [
+            72,
+            "GIGAIMPACT"
+        ],
+        [
+            78,
+            "CRUSHGRIP"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ANCIENTPOWER",
+        "AVALANCHE",
+        "BLOCK",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CONFIDE",
+        "DARKESTLARIAT",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HEADBUTT",
+        "HEATCRASH",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROCKCLIMB",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TERRAINPULSE",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 3.7,
+    "weight": 420.0,
+    "abilities": [
+        "SLOWSTART"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 670,
+    "baseStats": [
+        110,
+        160,
+        110,
+        100,
+        80,
+        110
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Regigigas",
+    "species": "REGIGIGAS",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 335,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 486
+}

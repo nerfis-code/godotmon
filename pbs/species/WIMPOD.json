@@ -1,0 +1,91 @@
+{
+    "generation": 7,
+    "primaryType": "BUG",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "STRUGGLEBUG"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HAIL",
+        "HIDDENPOWER",
+        "LEECHLIFE",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SPIKES",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TOXIC",
+        "WATERFALL"
+    ],
+    "eggMoves": [
+        "AQUAJET",
+        "HARDEN",
+        "METALCLAW",
+        "ROLLOUT",
+        "WIDEGUARD"
+    ],
+    "height": 0.5,
+    "weight": 12.0,
+    "abilities": [
+        "WIMPOUT"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 230,
+    "baseStats": [
+        25,
+        35,
+        40,
+        80,
+        20,
+        30
+    ],
+    "flags": [],
+    "name": "Wimpod",
+    "species": "WIMPOD",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 46,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 767
+}

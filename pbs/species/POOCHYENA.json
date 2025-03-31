@@ -1,0 +1,170 @@
+{
+    "generation": 3,
+    "primaryType": "DARK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            4,
+            "HOWL"
+        ],
+        [
+            7,
+            "SANDATTACK"
+        ],
+        [
+            10,
+            "BITE"
+        ],
+        [
+            13,
+            "MUDSLAP"
+        ],
+        [
+            13,
+            "LEER"
+        ],
+        [
+            16,
+            "ROAR"
+        ],
+        [
+            19,
+            "SWAGGER"
+        ],
+        [
+            22,
+            "ASSURANCE"
+        ],
+        [
+            25,
+            "SCARYFACE"
+        ],
+        [
+            28,
+            "HEADBUTT"
+        ],
+        [
+            28,
+            "TAUNT"
+        ],
+        [
+            31,
+            "CRUNCH"
+        ],
+        [
+            34,
+            "YAWN"
+        ],
+        [
+            36,
+            "TAKEDOWN"
+        ],
+        [
+            40,
+            "SUCKERPUNCH"
+        ],
+        [
+            44,
+            "PLAYROUGH"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "INCINERATE",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "UPROAR"
+    ],
+    "eggMoves": [
+        "ASTONISH",
+        "COVET",
+        "FIREFANG",
+        "ICEFANG",
+        "LEER",
+        "PLAYROUGH",
+        "POISONFANG",
+        "SUCKERPUNCH",
+        "THUNDERFANG",
+        "YAWN"
+    ],
+    "height": 0.5,
+    "weight": 13.6,
+    "abilities": [
+        "RUNAWAY",
+        "QUICKFEET"
+    ],
+    "hiddenAbilitie": [
+        "RATTLED"
+    ],
+    "baseTotal": 220,
+    "baseStats": [
+        35,
+        55,
+        35,
+        35,
+        30,
+        30
+    ],
+    "flags": [],
+    "name": "Poochyena",
+    "species": "POOCHYENA",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 56,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 261
+}

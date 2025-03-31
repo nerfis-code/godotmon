@@ -1,0 +1,63 @@
+{
+    "generation": 6,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            6,
+            "STUNSPORE"
+        ],
+        [
+            15,
+            "BUGBITE"
+        ]
+    ],
+    "tutorMoves": [
+        "BUGBITE"
+    ],
+    "eggMoves": [
+        "POISONPOWDER",
+        "RAGEPOWDER",
+        "STUNSPORE"
+    ],
+    "height": 0.3,
+    "weight": 2.5,
+    "abilities": [
+        "SHIELDDUST",
+        "COMPOUNDEYES"
+    ],
+    "hiddenAbilitie": [
+        "FRIENDGUARD"
+    ],
+    "baseTotal": 200,
+    "baseStats": [
+        38,
+        35,
+        40,
+        35,
+        27,
+        25
+    ],
+    "flags": [],
+    "name": "Scatterbug",
+    "species": "SCATTERBUG",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 40,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 664
+}

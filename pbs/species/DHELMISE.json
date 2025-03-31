@@ -1,0 +1,179 @@
+{
+    "generation": 7,
+    "primaryType": "GHOST",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "RAPIDSPIN"
+        ],
+        [
+            4,
+            "ASTONISH"
+        ],
+        [
+            8,
+            "WRAP"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            16,
+            "GROWTH"
+        ],
+        [
+            20,
+            "GYROBALL"
+        ],
+        [
+            24,
+            "SWITCHEROO"
+        ],
+        [
+            28,
+            "GIGADRAIN"
+        ],
+        [
+            32,
+            "WHIRLPOOL"
+        ],
+        [
+            36,
+            "HEAVYSLAM"
+        ],
+        [
+            40,
+            "SLAM"
+        ],
+        [
+            44,
+            "SHADOWBALL"
+        ],
+        [
+            48,
+            "METALSOUND"
+        ],
+        [
+            52,
+            "ANCHORSHOT"
+        ],
+        [
+            56,
+            "ENERGYBALL"
+        ],
+        [
+            60,
+            "PHANTOMFORCE"
+        ],
+        [
+            64,
+            "POWERWHIP"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ALLYSWITCH",
+        "ASSURANCE",
+        "BLOCK",
+        "BODYPRESS",
+        "BRICKBREAK",
+        "BRINE",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "EMBARGO",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GYROBALL",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HEX",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PHANTOMFORCE",
+        "POLTERGEIST",
+        "POWERWHIP",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "SPITE",
+        "STEELROLLER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TELEKINESIS",
+        "THIEF",
+        "TOXIC",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 3.9,
+    "weight": 210.0,
+    "abilities": [
+        "STEELWORKER"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 517,
+    "baseStats": [
+        70,
+        131,
+        100,
+        40,
+        86,
+        90
+    ],
+    "flags": [],
+    "name": "Dhelmise",
+    "species": "DHELMISE",
+    "catchRate": 25,
+    "happiness": 50,
+    "baseExp": 181,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 781
+}

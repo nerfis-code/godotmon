@@ -1,0 +1,105 @@
+{
+    "generation": 9,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            8,
+            "CLEARSMOG"
+        ],
+        [
+            12,
+            "FIRESPIN"
+        ],
+        [
+            16,
+            "WILLOWISP"
+        ],
+        [
+            20,
+            "NIGHTSHADE"
+        ],
+        [
+            24,
+            "FLAMECHARGE"
+        ],
+        [
+            28,
+            "INCINERATE"
+        ],
+        [
+            32,
+            "LAVAPLUME"
+        ]
+    ],
+    "tutorMoves": [
+        "CONFUSERAY",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "NIGHTSHADE",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "SLEEPTALK",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "WILLOWISP"
+    ],
+    "eggMoves": [
+        "DESTINYBOND",
+        "DISABLE",
+        "SPITE"
+    ],
+    "height": 0.6,
+    "weight": 10.5,
+    "abilities": [
+        "FLASHFIRE"
+    ],
+    "hiddenAbilitie": [
+        "FLAMEBODY"
+    ],
+    "baseTotal": 255,
+    "baseStats": [
+        40,
+        50,
+        40,
+        35,
+        50,
+        40
+    ],
+    "flags": [],
+    "name": "Charcadet",
+    "species": "CHARCADET",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 51,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 935
+}

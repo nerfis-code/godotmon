@@ -1,0 +1,156 @@
+{
+    "generation": 5,
+    "primaryType": "ICE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WEATHERBALL"
+        ],
+        [
+            1,
+            "ICICLECRASH"
+        ],
+        [
+            1,
+            "FREEZEDRY"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "TAUNT"
+        ],
+        [
+            1,
+            "MIST"
+        ],
+        [
+            12,
+            "ICYWIND"
+        ],
+        [
+            16,
+            "AVALANCHE"
+        ],
+        [
+            20,
+            "HAIL"
+        ],
+        [
+            24,
+            "ICICLESPEAR"
+        ],
+        [
+            28,
+            "UPROAR"
+        ],
+        [
+            32,
+            "ACIDARMOR"
+        ],
+        [
+            38,
+            "MIRRORCOAT"
+        ],
+        [
+            44,
+            "ICEBEAM"
+        ],
+        [
+            52,
+            "BLIZZARD"
+        ],
+        [
+            60,
+            "SHEERCOLD"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "AVALANCHE",
+        "BEATUP",
+        "BLIZZARD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASHCANNON",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TAUNT",
+        "TOXIC",
+        "UPROAR",
+        "WATERPULSE",
+        "WEATHERBALL"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 57.5,
+    "abilities": [
+        "ICEBODY",
+        "SNOWWARNING"
+    ],
+    "hiddenAbilitie": [
+        "WEAKARMOR"
+    ],
+    "baseTotal": 535,
+    "baseStats": [
+        71,
+        95,
+        85,
+        79,
+        110,
+        95
+    ],
+    "flags": [],
+    "name": "Vanilluxe",
+    "species": "VANILLUXE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 268,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 584
+}

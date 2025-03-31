@@ -1,0 +1,164 @@
+{
+    "generation": 8,
+    "primaryType": "ICE",
+    "secondaryType": "BUG",
+    "moves": [
+        [
+            -1,
+            "ICYWIND"
+        ],
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "STRUGGLEBUG"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "ATTRACT"
+        ],
+        [
+            4,
+            "STUNSPORE"
+        ],
+        [
+            8,
+            "INFESTATION"
+        ],
+        [
+            12,
+            "MIST"
+        ],
+        [
+            16,
+            "DEFOG"
+        ],
+        [
+            21,
+            "FEATHERDANCE"
+        ],
+        [
+            24,
+            "AURORABEAM"
+        ],
+        [
+            28,
+            "HAIL"
+        ],
+        [
+            28,
+            "SNOWSCAPE"
+        ],
+        [
+            32,
+            "BUGBUZZ"
+        ],
+        [
+            36,
+            "AURORAVEIL"
+        ],
+        [
+            40,
+            "BLIZZARD"
+        ],
+        [
+            44,
+            "TAILWIND"
+        ],
+        [
+            48,
+            "WIDEGUARD"
+        ],
+        [
+            52,
+            "QUIVERDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AIRSLASH",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BUGBUZZ",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HAIL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HURRICANE",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IMPRISON",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC",
+        "TRIPLEAXEL",
+        "UTURN",
+        "WEATHERBALL"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 42.0,
+    "abilities": [
+        "SHIELDDUST"
+    ],
+    "hiddenAbilitie": [
+        "ICESCALES"
+    ],
+    "baseTotal": 475,
+    "baseStats": [
+        70,
+        65,
+        60,
+        65,
+        125,
+        90
+    ],
+    "flags": [],
+    "name": "Frosmoth",
+    "species": "FROSMOTH",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 168,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 873
+}

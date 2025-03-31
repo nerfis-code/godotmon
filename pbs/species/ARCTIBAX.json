@@ -1,0 +1,118 @@
+{
+    "generation": 9,
+    "primaryType": "DRAGON",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "DRAGONTAIL"
+        ],
+        [
+            6,
+            "ICYWIND"
+        ],
+        [
+            12,
+            "DRAGONBREATH"
+        ],
+        [
+            18,
+            "FOCUSENERGY"
+        ],
+        [
+            24,
+            "BITE"
+        ],
+        [
+            29,
+            "ICEFANG"
+        ],
+        [
+            40,
+            "TAKEDOWN"
+        ],
+        [
+            45,
+            "ICEBEAM"
+        ],
+        [
+            50,
+            "CRUNCH"
+        ],
+        [
+            55,
+            "ICICLECRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CRUNCH",
+        "DIG",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "ENDURE",
+        "FACADE",
+        "HELPINGHAND",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONHEAD",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SNOWSCAPE",
+        "SUBSTITUTE",
+        "SWORDSDANCE",
+        "TAKEDOWN"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 30.0,
+    "abilities": [
+        "THERMALEXCHANGE"
+    ],
+    "hiddenAbilitie": [
+        "ICEBODY"
+    ],
+    "baseTotal": 423,
+    "baseStats": [
+        90,
+        95,
+        66,
+        62,
+        45,
+        65
+    ],
+    "flags": [],
+    "name": "Arctibax",
+    "species": "ARCTIBAX",
+    "catchRate": 25,
+    "happiness": 50,
+    "baseExp": 182,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 997
+}

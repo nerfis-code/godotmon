@@ -1,0 +1,157 @@
+{
+    "generation": 9,
+    "primaryType": "FIGHTING",
+    "secondaryType": "ELECTRIC",
+    "moves": [
+        [
+            -1,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            1,
+            "ARMTHRUST"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            7,
+            "FAKEOUT"
+        ],
+        [
+            14,
+            "WHIRLWIND"
+        ],
+        [
+            21,
+            "THUNDERPUNCH"
+        ],
+        [
+            28,
+            "SLAM"
+        ],
+        [
+            35,
+            "FORCEPALM"
+        ],
+        [
+            42,
+            "SEISMICTOSS"
+        ],
+        [
+            49,
+            "CHARGE"
+        ],
+        [
+            56,
+            "WILDCHARGE"
+        ],
+        [
+            63,
+            "CLOSECOMBAT"
+        ],
+        [
+            70,
+            "DETECT"
+        ],
+        [
+            77,
+            "HEAVYSLAM"
+        ],
+        [
+            84,
+            "BELLYDRUM"
+        ],
+        [
+            91,
+            "FOCUSPUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CHARGE",
+        "CLOSECOMBAT",
+        "DOUBLEEDGE",
+        "DRAINPUNCH",
+        "EARTHQUAKE",
+        "ELECTRICTERRAIN",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "GIGAIMPACT",
+        "HARDPRESS",
+        "HEAVYSLAM",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LOWKICK",
+        "LOWSWEEP",
+        "METRONOME",
+        "PLAYROUGH",
+        "PROTECT",
+        "REST",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUPERCELLSLAM",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 380.7,
+    "abilities": [
+        "QUARKDRIVE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        154,
+        140,
+        108,
+        50,
+        50,
+        68
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Ferropalmas",
+    "species": "IRONHANDS",
+    "catchRate": 50,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 992
+}

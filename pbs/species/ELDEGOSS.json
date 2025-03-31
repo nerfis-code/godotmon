@@ -1,0 +1,133 @@
+{
+    "generation": 8,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "COTTONSPORE"
+        ],
+        [
+            1,
+            "LEAFAGE"
+        ],
+        [
+            1,
+            "SING"
+        ],
+        [
+            1,
+            "RAPIDSPIN"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            12,
+            "RAZORLEAF"
+        ],
+        [
+            16,
+            "ROUND"
+        ],
+        [
+            23,
+            "LEAFTORNADO"
+        ],
+        [
+            28,
+            "SYNTHESIS"
+        ],
+        [
+            34,
+            "HYPERVOICE"
+        ],
+        [
+            40,
+            "AROMATHERAPY"
+        ],
+        [
+            46,
+            "LEAFSTORM"
+        ],
+        [
+            52,
+            "COTTONGUARD"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "LEAFSTORM",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MIMIC",
+        "NATURALGIFT",
+        "POLLENPUFF",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TOXIC",
+        "WEATHERBALL"
+    ],
+    "eggMoves": [],
+    "height": 0.5,
+    "weight": 2.5,
+    "abilities": [
+        "COTTONDOWN",
+        "REGENERATOR"
+    ],
+    "hiddenAbilitie": [
+        "EFFECTSPORE"
+    ],
+    "baseTotal": 460,
+    "baseStats": [
+        60,
+        50,
+        90,
+        60,
+        80,
+        120
+    ],
+    "flags": [],
+    "name": "Eldegoss",
+    "species": "ELDEGOSS",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 161,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 830
+}

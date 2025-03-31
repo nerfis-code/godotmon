@@ -1,0 +1,148 @@
+{
+    "generation": 7,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "LICK"
+        ],
+        [
+            9,
+            "ROAR"
+        ],
+        [
+            12,
+            "FURYSWIPES"
+        ],
+        [
+            15,
+            "BITE"
+        ],
+        [
+            20,
+            "DOUBLEKICK"
+        ],
+        [
+            25,
+            "FIREFANG"
+        ],
+        [
+            30,
+            "SCARYFACE"
+        ],
+        [
+            35,
+            "SWAGGER"
+        ],
+        [
+            40,
+            "FLAMETHROWER"
+        ],
+        [
+            45,
+            "THRASH"
+        ],
+        [
+            50,
+            "FLAREBLITZ"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULKUP",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CRUNCH",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIREPLEDGE",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "LEECHLIFE",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "OVERHEAT",
+        "PAYDAY",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROAR",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TORMENT",
+        "TOXIC",
+        "UTURN",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 25.0,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "INTIMIDATE"
+    ],
+    "baseTotal": 420,
+    "baseStats": [
+        65,
+        85,
+        50,
+        90,
+        80,
+        50
+    ],
+    "flags": [],
+    "name": "Torracat",
+    "species": "TORRACAT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 147,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 726
+}

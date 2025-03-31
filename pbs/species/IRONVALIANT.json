@@ -1,0 +1,182 @@
+{
+    "generation": 9,
+    "primaryType": "FAIRY",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            -1,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            1,
+            "DOUBLETEAM"
+        ],
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "SHADOWSNEAK"
+        ],
+        [
+            1,
+            "DISABLE"
+        ],
+        [
+            7,
+            "HYPNOSIS"
+        ],
+        [
+            14,
+            "FEINT"
+        ],
+        [
+            21,
+            "FUTURESIGHT"
+        ],
+        [
+            28,
+            "DAZZLINGGLEAM"
+        ],
+        [
+            35,
+            "PSYCHOCUT"
+        ],
+        [
+            42,
+            "NIGHTSLASH"
+        ],
+        [
+            49,
+            "LEAFBLADE"
+        ],
+        [
+            56,
+            "MOONBLAST"
+        ],
+        [
+            63,
+            "CLOSECOMBAT"
+        ],
+        [
+            70,
+            "KNOCKOFF"
+        ],
+        [
+            77,
+            "DESTINYBOND"
+        ],
+        [
+            84,
+            "WIDEGUARD"
+        ],
+        [
+            84,
+            "QUICKGUARD"
+        ],
+        [
+            91,
+            "SPIRITBREAK"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AURASPHERE",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFUSERAY",
+        "DAZZLINGGLEAM",
+        "DRAINPUNCH",
+        "ELECTRICTERRAIN",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FALSESWIPE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HEX",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IMPRISON",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "LOWKICK",
+        "MAGICALLEAF",
+        "METRONOME",
+        "MISTYTERRAIN",
+        "POISONJAB",
+        "PROTECT",
+        "PSYBEAM",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "REFLECT",
+        "REST",
+        "REVERSAL",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THROATCHOP",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TRICK",
+        "TRICKROOM",
+        "VACUUMWAVE",
+        "XSCISSOR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 35.0,
+    "abilities": [
+        "QUARKDRIVE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 590,
+    "baseStats": [
+        74,
+        130,
+        90,
+        116,
+        120,
+        60
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Ferropaladín",
+    "species": "IRONVALIANT",
+    "catchRate": 10,
+    "happiness": 0,
+    "baseExp": 295,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 1006
+}

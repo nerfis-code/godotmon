@@ -1,0 +1,165 @@
+{
+    "generation": 2,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            6,
+            "RAZORLEAF"
+        ],
+        [
+            9,
+            "POISONPOWDER"
+        ],
+        [
+            12,
+            "SYNTHESIS"
+        ],
+        [
+            17,
+            "REFLECT"
+        ],
+        [
+            20,
+            "MAGICALLEAF"
+        ],
+        [
+            23,
+            "NATUREPOWER"
+        ],
+        [
+            23,
+            "LEECHSEED"
+        ],
+        [
+            28,
+            "SWEETSCENT"
+        ],
+        [
+            31,
+            "LIGHTSCREEN"
+        ],
+        [
+            34,
+            "BODYSLAM"
+        ],
+        [
+            39,
+            "SAFEGUARD"
+        ],
+        [
+            42,
+            "AROMATHERAPY"
+        ],
+        [
+            42,
+            "GIGADRAIN"
+        ],
+        [
+            45,
+            "SOLARBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "AROMATHERAPY",
+        "BODYSLAM",
+        "COUNTER",
+        "FLAIL",
+        "GRASSYTERRAIN",
+        "HEALPULSE",
+        "INGRAIN",
+        "LEAFSTORM",
+        "LEECHSEED",
+        "NATUREPOWER",
+        "VINEWHIP"
+    ],
+    "height": 0.9,
+    "weight": 6.4,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "LEAFGUARD"
+    ],
+    "baseTotal": 318,
+    "baseStats": [
+        45,
+        49,
+        65,
+        45,
+        49,
+        65
+    ],
+    "flags": [],
+    "name": "Chikorita",
+    "species": "CHIKORITA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 64,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 152
+}

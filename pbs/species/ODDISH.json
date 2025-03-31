@@ -1,0 +1,152 @@
+{
+    "generation": 1,
+    "primaryType": "GRASS",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            4,
+            "ACID"
+        ],
+        [
+            8,
+            "SWEETSCENT"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            14,
+            "POISONPOWDER"
+        ],
+        [
+            16,
+            "STUNSPORE"
+        ],
+        [
+            18,
+            "SLEEPPOWDER"
+        ],
+        [
+            20,
+            "GIGADRAIN"
+        ],
+        [
+            24,
+            "TOXIC"
+        ],
+        [
+            28,
+            "MOONBLAST"
+        ],
+        [
+            32,
+            "GRASSYTERRAIN"
+        ],
+        [
+            36,
+            "MOONLIGHT"
+        ],
+        [
+            40,
+            "PETALDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "CUT",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TOXIC",
+        "VENOSHOCK",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "AFTERYOU",
+        "CHARM",
+        "FLAIL",
+        "INGRAIN",
+        "LEECHSEED",
+        "NATUREPOWER",
+        "RAZORLEAF",
+        "STRENGTHSAP",
+        "SYNTHESIS",
+        "TEETERDANCE",
+        "TICKLE"
+    ],
+    "height": 0.5,
+    "weight": 5.4,
+    "abilities": [
+        "CHLOROPHYLL"
+    ],
+    "hiddenAbilitie": [
+        "RUNAWAY"
+    ],
+    "baseTotal": 320,
+    "baseStats": [
+        45,
+        50,
+        55,
+        30,
+        75,
+        65
+    ],
+    "flags": [],
+    "name": "Oddish",
+    "species": "ODDISH",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 64,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 43
+}

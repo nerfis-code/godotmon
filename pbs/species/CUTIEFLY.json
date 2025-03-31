@@ -1,0 +1,155 @@
+{
+    "generation": 7,
+    "primaryType": "BUG",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "FAIRYWIND"
+        ],
+        [
+            6,
+            "STUNSPORE"
+        ],
+        [
+            12,
+            "SWEETSCENT"
+        ],
+        [
+            18,
+            "DRAININGKISS"
+        ],
+        [
+            24,
+            "STRUGGLEBUG"
+        ],
+        [
+            30,
+            "AROMATHERAPY"
+        ],
+        [
+            30,
+            "COVET"
+        ],
+        [
+            36,
+            "SWITCHEROO"
+        ],
+        [
+            42,
+            "DAZZLINGGLEAM"
+        ],
+        [
+            48,
+            "BUGBUZZ"
+        ],
+        [
+            54,
+            "QUIVERDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AFTERYOU",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BATONPASS",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FAKETEARS",
+        "FRUSTRATION",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IMPRISON",
+        "INFESTATION",
+        "LASTRESORT",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SPEEDSWAP",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TELEKINESIS",
+        "THIEF",
+        "TOXIC",
+        "TRICK",
+        "UTURN",
+        "WONDERROOM"
+    ],
+    "eggMoves": [
+        "AROMATICMIST",
+        "MOONBLAST",
+        "STICKYWEB"
+    ],
+    "height": 0.1,
+    "weight": 0.2,
+    "abilities": [
+        "HONEYGATHER",
+        "SHIELDDUST"
+    ],
+    "hiddenAbilitie": [
+        "SWEETVEIL"
+    ],
+    "baseTotal": 304,
+    "baseStats": [
+        40,
+        45,
+        40,
+        84,
+        55,
+        40
+    ],
+    "flags": [],
+    "name": "Cutiefly",
+    "species": "CUTIEFLY",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 742
+}

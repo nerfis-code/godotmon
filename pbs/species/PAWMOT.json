@@ -1,0 +1,175 @@
+{
+    "generation": 9,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            -1,
+            "REVIVALBLESSING"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "WILDCHARGE"
+        ],
+        [
+            3,
+            "THUNDERSHOCK"
+        ],
+        [
+            6,
+            "QUICKATTACK"
+        ],
+        [
+            8,
+            "CHARGE"
+        ],
+        [
+            12,
+            "NUZZLE"
+        ],
+        [
+            15,
+            "DIG"
+        ],
+        [
+            19,
+            "BITE"
+        ],
+        [
+            23,
+            "SPARK"
+        ],
+        [
+            25,
+            "ARMTHRUST"
+        ],
+        [
+            29,
+            "THUNDERWAVE"
+        ],
+        [
+            33,
+            "SLAM"
+        ],
+        [
+            39,
+            "ENTRAINMENT"
+        ],
+        [
+            44,
+            "CLOSECOMBAT"
+        ],
+        [
+            49,
+            "DISCHARGE"
+        ],
+        [
+            54,
+            "AGILITY"
+        ],
+        [
+            60,
+            "DOUBLESHOCK"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "BATONPASS",
+        "BODYPRESS",
+        "BRICKBREAK",
+        "BULKUP",
+        "CHARGE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CRUNCH",
+        "DIG",
+        "DOUBLEEDGE",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "KNOCKOFF",
+        "LOWKICK",
+        "LOWSWEEP",
+        "METALCLAW",
+        "METRONOME",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "ROCKTOMB",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERCELLSLAM",
+        "SUPERFANG",
+        "SWIFT",
+        "TAKEDOWN",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "UPPERHAND",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 41.0,
+    "abilities": [
+        "VOLTABSORB",
+        "NATURALCURE"
+    ],
+    "hiddenAbilitie": [
+        "IRONFIST"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        70,
+        115,
+        70,
+        105,
+        70,
+        60
+    ],
+    "flags": [],
+    "name": "Pawmot",
+    "species": "PAWMOT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 245,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 923
+}

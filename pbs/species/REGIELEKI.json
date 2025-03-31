@@ -1,0 +1,142 @@
+{
+    "generation": 8,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "RAPIDSPIN"
+        ],
+        [
+            6,
+            "ELECTROWEB"
+        ],
+        [
+            12,
+            "ANCIENTPOWER"
+        ],
+        [
+            18,
+            "SHOCKWAVE"
+        ],
+        [
+            24,
+            "THUNDERWAVE"
+        ],
+        [
+            30,
+            "EXTREMESPEED"
+        ],
+        [
+            36,
+            "THUNDERCAGE"
+        ],
+        [
+            42,
+            "THUNDERBOLT"
+        ],
+        [
+            48,
+            "MAGNETRISE"
+        ],
+        [
+            54,
+            "THRASH"
+        ],
+        [
+            60,
+            "LOCKON"
+        ],
+        [
+            66,
+            "ZAPCANNON"
+        ],
+        [
+            72,
+            "HYPERBEAM"
+        ],
+        [
+            78,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AGILITY",
+        "ASSURANCE",
+        "BODYSLAM",
+        "BOUNCE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 145.0,
+    "abilities": [
+        "TRANSISTOR"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 580,
+    "baseStats": [
+        80,
+        100,
+        50,
+        200,
+        100,
+        50
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Regieleki",
+    "species": "REGIELEKI",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 894
+}

@@ -1,0 +1,166 @@
+{
+    "generation": 1,
+    "primaryType": "DRAGON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            5,
+            "TWISTER"
+        ],
+        [
+            10,
+            "THUNDERWAVE"
+        ],
+        [
+            15,
+            "DRAGONTAIL"
+        ],
+        [
+            20,
+            "AGILITY"
+        ],
+        [
+            25,
+            "SLAM"
+        ],
+        [
+            31,
+            "AQUATAIL"
+        ],
+        [
+            35,
+            "DRAGONRUSH"
+        ],
+        [
+            40,
+            "SAFEGUARD"
+        ],
+        [
+            45,
+            "RAINDANCE"
+        ],
+        [
+            50,
+            "DRAGONDANCE"
+        ],
+        [
+            55,
+            "OUTRAGE"
+        ],
+        [
+            60,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AQUATAIL",
+        "ATTRACT",
+        "BIND",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRUTALSWING",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "INCINERATE",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TWISTER",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "AQUAJET",
+        "DRAGONBREATH",
+        "DRAGONDANCE",
+        "DRAGONRUSH",
+        "EXTREMESPEED",
+        "HAZE",
+        "MIST",
+        "SUPERSONIC",
+        "WATERPULSE"
+    ],
+    "height": 1.8,
+    "weight": 3.3,
+    "abilities": [
+        "SHEDSKIN"
+    ],
+    "hiddenAbilitie": [
+        "MARVELSCALE"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        41,
+        64,
+        45,
+        50,
+        50,
+        50
+    ],
+    "flags": [],
+    "name": "Dratini",
+    "species": "DRATINI",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 60,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 147
+}

@@ -1,0 +1,179 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "OCTAZOOKA"
+        ],
+        [
+            1,
+            "GUNKSHOT"
+        ],
+        [
+            1,
+            "ROCKBLAST"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "WATERPULSE"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            12,
+            "PSYBEAM"
+        ],
+        [
+            16,
+            "AURORABEAM"
+        ],
+        [
+            20,
+            "BUBBLEBEAM"
+        ],
+        [
+            24,
+            "LOCKON"
+        ],
+        [
+            30,
+            "BULLETSEED"
+        ],
+        [
+            36,
+            "ICEBEAM"
+        ],
+        [
+            42,
+            "HYDROPUMP"
+        ],
+        [
+            48,
+            "SOAK"
+        ],
+        [
+            54,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BIND",
+        "BLIZZARD",
+        "BOUNCE",
+        "BRINE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLASHCANNON",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "INCINERATE",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROUND",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SEISMICTOSS",
+        "SIGNALBEAM",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SNORE",
+        "STRINGSHOT",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THUNDERWAVE",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 28.5,
+    "abilities": [
+        "SUCTIONCUPS",
+        "SNIPER"
+    ],
+    "hiddenAbilitie": [
+        "MOODY"
+    ],
+    "baseTotal": 480,
+    "baseStats": [
+        75,
+        105,
+        75,
+        45,
+        105,
+        75
+    ],
+    "flags": [],
+    "name": "Octillery",
+    "species": "OCTILLERY",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 168,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 224
+}

@@ -1,0 +1,150 @@
+{
+    "generation": 2,
+    "primaryType": "GROUND",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            6,
+            "FLAIL"
+        ],
+        [
+            10,
+            "ROLLOUT"
+        ],
+        [
+            15,
+            "BULLDOZE"
+        ],
+        [
+            19,
+            "ENDURE"
+        ],
+        [
+            24,
+            "SLAM"
+        ],
+        [
+            28,
+            "TAKEDOWN"
+        ],
+        [
+            33,
+            "CHARM"
+        ],
+        [
+            37,
+            "LASTRESORT"
+        ],
+        [
+            42,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "BODYSLAM",
+        "COUNTER",
+        "ENDEAVOR",
+        "FISSURE",
+        "FOCUSENERGY",
+        "HEADSMASH",
+        "HEAVYSLAM",
+        "HIGHHORSEPOWER",
+        "ICESHARD",
+        "MUDSLAP",
+        "PLAYROUGH",
+        "SNORE"
+    ],
+    "height": 0.5,
+    "weight": 33.5,
+    "abilities": [
+        "PICKUP"
+    ],
+    "hiddenAbilitie": [
+        "SANDVEIL"
+    ],
+    "baseTotal": 330,
+    "baseStats": [
+        90,
+        60,
+        60,
+        40,
+        40,
+        40
+    ],
+    "flags": [],
+    "name": "Phanpy",
+    "species": "PHANPY",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 66,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 231
+}

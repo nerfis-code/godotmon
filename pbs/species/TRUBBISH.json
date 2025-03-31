@@ -1,0 +1,160 @@
+{
+    "generation": 5,
+    "primaryType": "POISON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "POISONGAS"
+        ],
+        [
+            3,
+            "RECYCLE"
+        ],
+        [
+            6,
+            "ACIDSPRAY"
+        ],
+        [
+            9,
+            "AMNESIA"
+        ],
+        [
+            12,
+            "CLEARSMOG"
+        ],
+        [
+            15,
+            "TOXICSPIKES"
+        ],
+        [
+            18,
+            "SLUDGE"
+        ],
+        [
+            21,
+            "STOCKPILE"
+        ],
+        [
+            21,
+            "SWALLOW"
+        ],
+        [
+            24,
+            "TAKEDOWN"
+        ],
+        [
+            27,
+            "SLUDGEBOMB"
+        ],
+        [
+            30,
+            "TOXIC"
+        ],
+        [
+            33,
+            "BELCH"
+        ],
+        [
+            37,
+            "PAINSPLIT"
+        ],
+        [
+            39,
+            "GUNKSHOT"
+        ],
+        [
+            42,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CORROSIVEGAS",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GUNKSHOT",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SPIKES",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THIEF",
+        "TOXIC",
+        "TOXICSPIKES",
+        "VENOMDRENCH",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [
+        "AUTOTOMIZE",
+        "CURSE",
+        "HAZE",
+        "ROLLOUT",
+        "SANDATTACK"
+    ],
+    "height": 0.6,
+    "weight": 31.0,
+    "abilities": [
+        "STENCH",
+        "STICKYHOLD"
+    ],
+    "hiddenAbilitie": [
+        "AFTERMATH"
+    ],
+    "baseTotal": 329,
+    "baseStats": [
+        50,
+        50,
+        62,
+        65,
+        40,
+        62
+    ],
+    "flags": [],
+    "name": "Trubbish",
+    "species": "TRUBBISH",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 66,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 568
+}

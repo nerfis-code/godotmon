@@ -1,0 +1,166 @@
+{
+    "generation": 7,
+    "primaryType": "NORMAL",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            1,
+            "BIND"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "BABYDOLLEYES"
+        ],
+        [
+            1,
+            "PAYBACK"
+        ],
+        [
+            12,
+            "BRUTALSWING"
+        ],
+        [
+            16,
+            "ENDURE"
+        ],
+        [
+            20,
+            "STRENGTH"
+        ],
+        [
+            24,
+            "TAKEDOWN"
+        ],
+        [
+            30,
+            "FLAIL"
+        ],
+        [
+            36,
+            "HAMMERARM"
+        ],
+        [
+            42,
+            "THRASH"
+        ],
+        [
+            48,
+            "PAINSPLIT"
+        ],
+        [
+            54,
+            "DOUBLEEDGE"
+        ],
+        [
+            60,
+            "SUPERPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BIND",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CHARM",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DARKESTLARIAT",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "IRONHEAD",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.1,
+    "weight": 135.0,
+    "abilities": [
+        "FLUFFY",
+        "KLUTZ"
+    ],
+    "hiddenAbilitie": [
+        "UNNERVE"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        120,
+        125,
+        80,
+        60,
+        55,
+        60
+    ],
+    "flags": [],
+    "name": "Bewear",
+    "species": "BEWEAR",
+    "catchRate": 70,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 760
+}

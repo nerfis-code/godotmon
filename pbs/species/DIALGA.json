@@ -1,0 +1,507 @@
+{
+    "generation": 4,
+    "primaryType": "STEEL",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "SCARYFACE"
+        ],
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            8,
+            "DRAGONBREATH"
+        ],
+        [
+            16,
+            "ANCIENTPOWER"
+        ],
+        [
+            24,
+            "SLASH"
+        ],
+        [
+            32,
+            "FLASHCANNON"
+        ],
+        [
+            40,
+            "DRAGONCLAW"
+        ],
+        [
+            48,
+            "AURASPHERE"
+        ],
+        [
+            56,
+            "POWERGEM"
+        ],
+        [
+            64,
+            "METALBURST"
+        ],
+        [
+            72,
+            "EARTHPOWER"
+        ],
+        [
+            80,
+            "IRONTAIL"
+        ],
+        [
+            88,
+            "ROAROFTIME"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ANCIENTPOWER",
+        "AURASPHERE",
+        "BLIZZARD",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HEADBUTT",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "OVERHEAT",
+        "POWERGEM",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRICKROOM",
+        "TWISTER"
+    ],
+    "eggMoves": [],
+    "height": 5.4,
+    "weight": 683.0,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 680,
+    "baseStats": [
+        100,
+        120,
+        120,
+        90,
+        150,
+        100
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Dialga",
+    "species": "DIALGA",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 340,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 4,
+            "primaryType": "STEEL",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    1,
+                    "SCARYFACE"
+                ],
+                [
+                    1,
+                    "METALCLAW"
+                ],
+                [
+                    8,
+                    "DRAGONBREATH"
+                ],
+                [
+                    16,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    24,
+                    "SLASH"
+                ],
+                [
+                    32,
+                    "FLASHCANNON"
+                ],
+                [
+                    40,
+                    "DRAGONCLAW"
+                ],
+                [
+                    48,
+                    "AURASPHERE"
+                ],
+                [
+                    56,
+                    "POWERGEM"
+                ],
+                [
+                    64,
+                    "METALBURST"
+                ],
+                [
+                    72,
+                    "EARTHPOWER"
+                ],
+                [
+                    80,
+                    "IRONTAIL"
+                ],
+                [
+                    88,
+                    "ROAROFTIME"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ANCIENTPOWER",
+                "AURASPHERE",
+                "BLIZZARD",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRICKBREAK",
+                "BULKUP",
+                "BULLDOZE",
+                "CONFIDE",
+                "CUT",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMETHROWER",
+                "FLASH",
+                "FLASHCANNON",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "HEADBUTT",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "INCINERATE",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "MAGNETRISE",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "OVERHEAT",
+                "POWERGEM",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNORE",
+                "STEALTHROCK",
+                "STEELBEAM",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRICKROOM",
+                "TWISTER"
+            ],
+            "eggMoves": [],
+            "height": 5.4,
+            "weight": 683.0,
+            "abilities": [
+                "PRESSURE"
+            ],
+            "hiddenAbilitie": [
+                "TELEPATHY"
+            ],
+            "baseTotal": 680,
+            "baseStats": [
+                100,
+                120,
+                120,
+                90,
+                150,
+                100
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 0,
+            "formName": "Dialga"
+        },
+        {
+            "generation": 4,
+            "primaryType": "STEEL",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    1,
+                    "SCARYFACE"
+                ],
+                [
+                    1,
+                    "METALCLAW"
+                ],
+                [
+                    8,
+                    "DRAGONBREATH"
+                ],
+                [
+                    16,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    24,
+                    "SLASH"
+                ],
+                [
+                    32,
+                    "FLASHCANNON"
+                ],
+                [
+                    40,
+                    "DRAGONCLAW"
+                ],
+                [
+                    48,
+                    "AURASPHERE"
+                ],
+                [
+                    56,
+                    "POWERGEM"
+                ],
+                [
+                    64,
+                    "METALBURST"
+                ],
+                [
+                    72,
+                    "EARTHPOWER"
+                ],
+                [
+                    80,
+                    "IRONTAIL"
+                ],
+                [
+                    88,
+                    "ROAROFTIME"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "ANCIENTPOWER",
+                "AURASPHERE",
+                "BLIZZARD",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRICKBREAK",
+                "BULKUP",
+                "BULLDOZE",
+                "CONFIDE",
+                "CUT",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMETHROWER",
+                "FLASH",
+                "FLASHCANNON",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "GRAVITY",
+                "HEADBUTT",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "INCINERATE",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "MAGNETRISE",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "OVERHEAT",
+                "POWERGEM",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNORE",
+                "STEALTHROCK",
+                "STEELBEAM",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRICKROOM",
+                "TWISTER"
+            ],
+            "eggMoves": [],
+            "height": 7.0,
+            "weight": 848.7,
+            "abilities": [
+                "PRESSURE"
+            ],
+            "hiddenAbilitie": [
+                "TELEPATHY"
+            ],
+            "baseTotal": 680,
+            "baseStats": [
+                100,
+                100,
+                120,
+                90,
+                150,
+                120
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 1,
+            "formName": "Forma Origen"
+        }
+    ],
+    "internationalPokedex": 483
+}

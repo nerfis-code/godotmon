@@ -1,0 +1,163 @@
+{
+    "generation": 9,
+    "primaryType": "ROCK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "HAMMERARM"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "BLOCK"
+        ],
+        [
+            1,
+            "ROCKBLAST"
+        ],
+        [
+            1,
+            "WIDEGUARD"
+        ],
+        [
+            5,
+            "ROCKTHROW"
+        ],
+        [
+            7,
+            "MUDSHOT"
+        ],
+        [
+            10,
+            "ROCKTOMB"
+        ],
+        [
+            13,
+            "ROCKPOLISH"
+        ],
+        [
+            16,
+            "HEADBUTT"
+        ],
+        [
+            24,
+            "SALTCURE"
+        ],
+        [
+            30,
+            "RECOVER"
+        ],
+        [
+            34,
+            "ROCKSLIDE"
+        ],
+        [
+            40,
+            "STEALTHROCK"
+        ],
+        [
+            44,
+            "HEAVYSLAM"
+        ],
+        [
+            49,
+            "EARTHQUAKE"
+        ],
+        [
+            54,
+            "STONEEDGE"
+        ],
+        [
+            60,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "AVALANCHE",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CURSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASHCANNON",
+        "FLING",
+        "FOCUSPUNCH",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HARDPRESS",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "METEORBEAM",
+        "MUDSHOT",
+        "POWERGEM",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "THUNDERPUNCH",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.3,
+    "weight": 240.0,
+    "abilities": [
+        "PURIFYINGSALT",
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "CLEARBODY"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        100,
+        100,
+        130,
+        35,
+        45,
+        90
+    ],
+    "flags": [],
+    "name": "Garganacl",
+    "species": "GARGANACL",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 250,
+    "evs": [
+        "DEFENSE",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 934
+}

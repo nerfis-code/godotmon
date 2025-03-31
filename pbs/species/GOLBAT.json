@@ -1,0 +1,157 @@
+{
+    "generation": 1,
+    "primaryType": "POISON",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "SCREECH"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "MEANLOOK"
+        ],
+        [
+            15,
+            "POISONFANG"
+        ],
+        [
+            20,
+            "QUICKGUARD"
+        ],
+        [
+            27,
+            "AIRCUTTER"
+        ],
+        [
+            34,
+            "BITE"
+        ],
+        [
+            41,
+            "HAZE"
+        ],
+        [
+            48,
+            "VENOSHOCK"
+        ],
+        [
+            55,
+            "CONFUSERAY"
+        ],
+        [
+            62,
+            "AIRSLASH"
+        ],
+        [
+            69,
+            "LEECHLIFE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BRAVEBIRD",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LEECHLIFE",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAYBACK",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNATCH",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TWISTER",
+        "UPROAR",
+        "UTURN",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 55.0,
+    "abilities": [
+        "INNERFOCUS"
+    ],
+    "hiddenAbilitie": [
+        "INFILTRATOR"
+    ],
+    "baseTotal": 455,
+    "baseStats": [
+        75,
+        80,
+        70,
+        90,
+        65,
+        75
+    ],
+    "flags": [],
+    "name": "Golbat",
+    "species": "GOLBAT",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 159,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 42
+}

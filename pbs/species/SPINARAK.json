@@ -1,0 +1,163 @@
+{
+    "generation": 2,
+    "primaryType": "BUG",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            5,
+            "ABSORB"
+        ],
+        [
+            8,
+            "INFESTATION"
+        ],
+        [
+            12,
+            "SCARYFACE"
+        ],
+        [
+            15,
+            "NIGHTSHADE"
+        ],
+        [
+            19,
+            "SHADOWSNEAK"
+        ],
+        [
+            22,
+            "FURYSWIPES"
+        ],
+        [
+            26,
+            "SUCKERPUNCH"
+        ],
+        [
+            29,
+            "LEECHLIFE"
+        ],
+        [
+            29,
+            "AGILITY"
+        ],
+        [
+            33,
+            "PINMISSILE"
+        ],
+        [
+            36,
+            "PSYCHIC"
+        ],
+        [
+            40,
+            "POISONJAB"
+        ],
+        [
+            44,
+            "CROSSPOISON"
+        ],
+        [
+            47,
+            "STICKYWEB"
+        ],
+        [
+            51,
+            "TOXICTHREAD"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BOUNCE",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "INFESTATION",
+        "LEECHLIFE",
+        "MIMIC",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THIEF",
+        "VENOSHOCK",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "BATONPASS",
+        "DISABLE",
+        "LUNGE",
+        "MEGAHORN",
+        "NIGHTSLASH",
+        "PSYBEAM",
+        "RAGEPOWDER",
+        "TOXICSPIKES"
+    ],
+    "height": 0.5,
+    "weight": 8.5,
+    "abilities": [
+        "SWARM",
+        "INSOMNIA"
+    ],
+    "hiddenAbilitie": [
+        "SNIPER"
+    ],
+    "baseTotal": 250,
+    "baseStats": [
+        40,
+        60,
+        40,
+        30,
+        40,
+        40
+    ],
+    "flags": [],
+    "name": "Spinarak",
+    "species": "SPINARAK",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 50,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 167
+}

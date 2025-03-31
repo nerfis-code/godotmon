@@ -1,0 +1,172 @@
+{
+    "generation": 1,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "BIND"
+        ],
+        [
+            4,
+            "STUNSPORE"
+        ],
+        [
+            8,
+            "GROWTH"
+        ],
+        [
+            12,
+            "MEGADRAIN"
+        ],
+        [
+            16,
+            "VINEWHIP"
+        ],
+        [
+            20,
+            "POISONPOWDER"
+        ],
+        [
+            24,
+            "ANCIENTPOWER"
+        ],
+        [
+            28,
+            "KNOCKOFF"
+        ],
+        [
+            32,
+            "GIGADRAIN"
+        ],
+        [
+            36,
+            "SLEEPPOWDER"
+        ],
+        [
+            40,
+            "SLAM"
+        ],
+        [
+            44,
+            "TICKLE"
+        ],
+        [
+            48,
+            "POWERWHIP"
+        ],
+        [
+            52,
+            "INGRAIN"
+        ],
+        [
+            56,
+            "GRASSYTERRAIN"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BIND",
+        "BODYSLAM",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "KNOCKOFF",
+        "LEAFSTORM",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAINSPLIT",
+        "POWERSWAP",
+        "POWERWHIP",
+        "PROTECT",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THIEF",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "CONFUSION",
+        "ENDEAVOR",
+        "FLAIL",
+        "LEAFSTORM",
+        "LEECHSEED",
+        "MEGADRAIN",
+        "NATUREPOWER",
+        "POWERSWAP",
+        "RAGEPOWDER"
+    ],
+    "height": 1.0,
+    "weight": 35.0,
+    "abilities": [
+        "CHLOROPHYLL",
+        "LEAFGUARD"
+    ],
+    "hiddenAbilitie": [
+        "REGENERATOR"
+    ],
+    "baseTotal": 435,
+    "baseStats": [
+        65,
+        55,
+        115,
+        60,
+        100,
+        40
+    ],
+    "flags": [],
+    "name": "Tangela",
+    "species": "TANGELA",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 87,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 114
+}

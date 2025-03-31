@@ -1,0 +1,142 @@
+{
+    "generation": 9,
+    "primaryType": "FAIRY",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            1,
+            "FAIRYWIND"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            5,
+            "BABYDOLLEYES"
+        ],
+        [
+            8,
+            "METALCLAW"
+        ],
+        [
+            11,
+            "COVET"
+        ],
+        [
+            14,
+            "ROCKSMASH"
+        ],
+        [
+            17,
+            "DRAININGKISS"
+        ],
+        [
+            21,
+            "SWEETKISS"
+        ],
+        [
+            24,
+            "BRUTALSWING"
+        ],
+        [
+            27,
+            "SLAM"
+        ],
+        [
+            31,
+            "FLASHCANNON"
+        ],
+        [
+            35,
+            "PLAYROUGH"
+        ],
+        [
+            39,
+            "FAKEOUT"
+        ],
+        [
+            43,
+            "FLATTER"
+        ],
+        [
+            47,
+            "SKITTERSMACK"
+        ],
+        [
+            52,
+            "KNOCKOFF"
+        ]
+    ],
+    "tutorMoves": [
+        "DRAININGKISS",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FLASHCANNON",
+        "FLING",
+        "FOULPLAY",
+        "HELPINGHAND",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "METALCLAW",
+        "METALSOUND",
+        "METRONOME",
+        "PLAYROUGH",
+        "POUNCE",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SKILLSWAP",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWORDSDANCE",
+        "THIEF",
+        "THUNDERWAVE"
+    ],
+    "eggMoves": [
+        "FEINT",
+        "ICEHAMMER",
+        "QUASH"
+    ],
+    "height": 0.4,
+    "weight": 8.9,
+    "abilities": [
+        "MOLDBREAKER",
+        "OWNTEMPO"
+    ],
+    "hiddenAbilitie": [
+        "PICKPOCKET"
+    ],
+    "baseTotal": 297,
+    "baseStats": [
+        50,
+        45,
+        45,
+        58,
+        35,
+        64
+    ],
+    "flags": [],
+    "name": "Tinkatink",
+    "species": "TINKATINK",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 59,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 957
+}

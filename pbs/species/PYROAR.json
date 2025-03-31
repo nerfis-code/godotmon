@@ -1,0 +1,158 @@
+{
+    "generation": 6,
+    "primaryType": "FIRE",
+    "secondaryType": "NORMAL",
+    "moves": [
+        [
+            1,
+            "HYPERBEAM"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "WORKUP"
+        ],
+        [
+            11,
+            "HEADBUTT"
+        ],
+        [
+            15,
+            "NOBLEROAR"
+        ],
+        [
+            20,
+            "TAKEDOWN"
+        ],
+        [
+            23,
+            "FIREFANG"
+        ],
+        [
+            28,
+            "ENDEAVOR"
+        ],
+        [
+            33,
+            "ECHOEDVOICE"
+        ],
+        [
+            38,
+            "FLAMETHROWER"
+        ],
+        [
+            42,
+            "CRUNCH"
+        ],
+        [
+            48,
+            "HYPERVOICE"
+        ],
+        [
+            51,
+            "INCINERATE"
+        ],
+        [
+            57,
+            "OVERHEAT"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BOUNCE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "INCINERATE",
+        "IRONTAIL",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "TOXIC",
+        "WILDCHARGE",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 81.5,
+    "abilities": [
+        "RIVALRY",
+        "UNNERVE"
+    ],
+    "hiddenAbilitie": [
+        "MOXIE"
+    ],
+    "baseTotal": 507,
+    "baseStats": [
+        86,
+        68,
+        72,
+        106,
+        109,
+        66
+    ],
+    "flags": [],
+    "name": "Pyroar",
+    "species": "PYROAR",
+    "catchRate": 65,
+    "happiness": 50,
+    "baseExp": 177,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 87.5,
+    "forms": [],
+    "internationalPokedex": 668
+}

@@ -1,0 +1,170 @@
+{
+    "generation": 6,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            0,
+            "NEEDLEARM"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "VINEWHIP"
+        ],
+        [
+            8,
+            "ROLLOUT"
+        ],
+        [
+            11,
+            "BITE"
+        ],
+        [
+            15,
+            "LEECHSEED"
+        ],
+        [
+            20,
+            "SEEDBOMB"
+        ],
+        [
+            24,
+            "PINMISSILE"
+        ],
+        [
+            29,
+            "TAKEDOWN"
+        ],
+        [
+            34,
+            "MUDSHOT"
+        ],
+        [
+            38,
+            "BULKUP"
+        ],
+        [
+            43,
+            "BODYSLAM"
+        ],
+        [
+            47,
+            "PAINSPLIT"
+        ],
+        [
+            53,
+            "WOODHAMMER"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GYROBALL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAINSPLIT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WORKUP",
+        "WORRYSEED",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 29.0,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "BULLETPROOF"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        61,
+        78,
+        95,
+        57,
+        56,
+        58
+    ],
+    "flags": [],
+    "name": "Quilladin",
+    "species": "QUILLADIN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 142,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 651
+}

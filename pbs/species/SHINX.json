@@ -1,0 +1,165 @@
+{
+    "generation": 4,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            4,
+            "THUNDERSHOCK"
+        ],
+        [
+            8,
+            "CHARGE"
+        ],
+        [
+            12,
+            "BITE"
+        ],
+        [
+            16,
+            "SPARK"
+        ],
+        [
+            20,
+            "ROAR"
+        ],
+        [
+            24,
+            "VOLTSWITCH"
+        ],
+        [
+            28,
+            "SCARYFACE"
+        ],
+        [
+            32,
+            "THUNDERWAVE"
+        ],
+        [
+            36,
+            "CRUNCH"
+        ],
+        [
+            40,
+            "DISCHARGE"
+        ],
+        [
+            44,
+            "SWAGGER"
+        ],
+        [
+            48,
+            "WILDCHARGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CRUNCH",
+        "DOUBLETEAM",
+        "EERIEIMPULSE",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREFANG",
+        "FLASH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEFANG",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROAR",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "BABYDOLLEYES",
+        "DOUBLEKICK",
+        "EERIEIMPULSE",
+        "FAKETEARS",
+        "FIREFANG",
+        "HELPINGHAND",
+        "HOWL",
+        "ICEFANG",
+        "NIGHTSLASH",
+        "QUICKATTACK",
+        "SHOCKWAVE",
+        "SWIFT",
+        "TAKEDOWN",
+        "THUNDERFANG"
+    ],
+    "height": 0.5,
+    "weight": 9.5,
+    "abilities": [
+        "RIVALRY",
+        "INTIMIDATE"
+    ],
+    "hiddenAbilitie": [
+        "GUTS"
+    ],
+    "baseTotal": 263,
+    "baseStats": [
+        45,
+        65,
+        34,
+        45,
+        40,
+        34
+    ],
+    "flags": [],
+    "name": "Shinx",
+    "species": "SHINX",
+    "catchRate": 235,
+    "happiness": 50,
+    "baseExp": 53,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 403
+}

@@ -1,0 +1,225 @@
+{
+    "generation": 1,
+    "primaryType": "NORMAL",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "SWEETKISS"
+        ],
+        [
+            1,
+            "DISARMINGVOICE"
+        ],
+        [
+            1,
+            "DISABLE"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "SING"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "COPYCAT"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            4,
+            "ECHOEDVOICE"
+        ],
+        [
+            8,
+            "COVET"
+        ],
+        [
+            12,
+            "STOCKPILE"
+        ],
+        [
+            12,
+            "SWALLOW"
+        ],
+        [
+            12,
+            "SPITUP"
+        ],
+        [
+            16,
+            "ROUND"
+        ],
+        [
+            20,
+            "REST"
+        ],
+        [
+            24,
+            "BODYSLAM"
+        ],
+        [
+            28,
+            "MIMIC"
+        ],
+        [
+            32,
+            "GYROBALL"
+        ],
+        [
+            36,
+            "HYPERVOICE"
+        ],
+        [
+            40,
+            "PLAYROUGH"
+        ],
+        [
+            44,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BATONPASS",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GYROBALL",
+        "HEADBUTT",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "MISTYTERRAIN",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PLAYROUGH",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROLEPLAY",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STEELROLLER",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TRIATTACK",
+        "UPROAR",
+        "WATERPULSE",
+        "WILDCHARGE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.5,
+    "weight": 5.5,
+    "abilities": [
+        "CUTECHARM",
+        "COMPETITIVE"
+    ],
+    "hiddenAbilitie": [
+        "FRIENDGUARD"
+    ],
+    "baseTotal": 270,
+    "baseStats": [
+        115,
+        45,
+        20,
+        20,
+        45,
+        25
+    ],
+    "flags": [],
+    "name": "Jigglypuff",
+    "species": "JIGGLYPUFF",
+    "catchRate": 170,
+    "happiness": 50,
+    "baseExp": 95,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 39
+}

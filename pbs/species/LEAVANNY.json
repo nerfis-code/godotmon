@@ -1,0 +1,157 @@
+{
+    "generation": 5,
+    "primaryType": "BUG",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            -1,
+            "SLASH"
+        ],
+        [
+            -1,
+            "BUGBITE"
+        ],
+        [
+            1,
+            "FALSESWIPE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            1,
+            "RAZORLEAF"
+        ],
+        [
+            22,
+            "STRUGGLEBUG"
+        ],
+        [
+            29,
+            "FELLSTINGER"
+        ],
+        [
+            32,
+            "HELPINGHAND"
+        ],
+        [
+            36,
+            "LEAFBLADE"
+        ],
+        [
+            39,
+            "XSCISSOR"
+        ],
+        [
+            43,
+            "ENTRAINMENT"
+        ],
+        [
+            46,
+            "SWORDSDANCE"
+        ],
+        [
+            50,
+            "LEAFSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BUGBITE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ELECTROWEB",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWCLAW",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THROATCHOP",
+        "TOXIC",
+        "WORRYSEED",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 20.5,
+    "abilities": [
+        "SWARM",
+        "CHLOROPHYLL"
+    ],
+    "hiddenAbilitie": [
+        "OVERCOAT"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        75,
+        103,
+        80,
+        92,
+        70,
+        80
+    ],
+    "flags": [],
+    "name": "Leavanny",
+    "species": "LEAVANNY",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 250,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 542
+}

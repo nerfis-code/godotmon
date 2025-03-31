@@ -1,0 +1,163 @@
+{
+    "generation": 5,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            5,
+            "FOCUSENERGY"
+        ],
+        [
+            10,
+            "FURYATTACK"
+        ],
+        [
+            15,
+            "REVENGE"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            25,
+            "HORNATTACK"
+        ],
+        [
+            30,
+            "REVERSAL"
+        ],
+        [
+            35,
+            "THROATCHOP"
+        ],
+        [
+            40,
+            "HEADCHARGE"
+        ],
+        [
+            45,
+            "SWORDSDANCE"
+        ],
+        [
+            50,
+            "MEGAHORN"
+        ],
+        [
+            55,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AMNESIA",
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "IRONHEAD",
+        "LASHOUT",
+        "MEGAHORN",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THROATCHOP",
+        "TOXIC",
+        "UPROAR",
+        "WILDCHARGE",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "BELCH",
+        "COTTONGUARD",
+        "ENDEAVOR",
+        "HEADBUTT",
+        "MUDSLAP",
+        "SKULLBASH",
+        "STOMP"
+    ],
+    "height": 1.6,
+    "weight": 94.5,
+    "abilities": [
+        "RECKLESS",
+        "SAPSIPPER"
+    ],
+    "hiddenAbilitie": [
+        "SOUNDPROOF"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        95,
+        110,
+        95,
+        55,
+        40,
+        95
+    ],
+    "flags": [],
+    "name": "Bouffalant",
+    "species": "BOUFFALANT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 172,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 626
+}

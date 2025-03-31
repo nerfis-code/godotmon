@@ -1,0 +1,505 @@
+{
+    "generation": 1,
+    "primaryType": "POISON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "DOUBLEHIT"
+        ],
+        [
+            1,
+            "HEATWAVE"
+        ],
+        [
+            1,
+            "POISONGAS"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "SMOG"
+        ],
+        [
+            1,
+            "SMOKESCREEN"
+        ],
+        [
+            12,
+            "CLEARSMOG"
+        ],
+        [
+            16,
+            "ASSURANCE"
+        ],
+        [
+            20,
+            "SLUDGE"
+        ],
+        [
+            24,
+            "HAZE"
+        ],
+        [
+            28,
+            "SELFDESTRUCT"
+        ],
+        [
+            32,
+            "SLUDGEBOMB"
+        ],
+        [
+            38,
+            "TOXIC"
+        ],
+        [
+            44,
+            "BELCH"
+        ],
+        [
+            50,
+            "EXPLOSION"
+        ],
+        [
+            56,
+            "MEMENTO"
+        ],
+        [
+            62,
+            "DESTINYBOND"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CORROSIVEGAS",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "INFESTATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "TORMENT",
+        "TOXIC",
+        "TOXICSPIKES",
+        "UPROAR",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 9.5,
+    "abilities": [
+        "LEVITATE",
+        "NEUTRALIZINGGAS"
+    ],
+    "hiddenAbilitie": [
+        "STENCH"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        65,
+        90,
+        120,
+        60,
+        85,
+        70
+    ],
+    "flags": [],
+    "name": "Weezing",
+    "species": "WEEZING",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 172,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "POISON",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "DOUBLEHIT"
+                ],
+                [
+                    1,
+                    "HEATWAVE"
+                ],
+                [
+                    1,
+                    "POISONGAS"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "SMOG"
+                ],
+                [
+                    1,
+                    "SMOKESCREEN"
+                ],
+                [
+                    12,
+                    "CLEARSMOG"
+                ],
+                [
+                    16,
+                    "ASSURANCE"
+                ],
+                [
+                    20,
+                    "SLUDGE"
+                ],
+                [
+                    24,
+                    "HAZE"
+                ],
+                [
+                    28,
+                    "SELFDESTRUCT"
+                ],
+                [
+                    32,
+                    "SLUDGEBOMB"
+                ],
+                [
+                    38,
+                    "TOXIC"
+                ],
+                [
+                    44,
+                    "BELCH"
+                ],
+                [
+                    50,
+                    "EXPLOSION"
+                ],
+                [
+                    56,
+                    "MEMENTO"
+                ],
+                [
+                    62,
+                    "DESTINYBOND"
+                ]
+            ],
+            "tutorMoves": [
+                "ASSURANCE",
+                "ATTRACT",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CORROSIVEGAS",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMETHROWER",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INCINERATE",
+                "INFESTATION",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAINSPLIT",
+                "PAYBACK",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROLLOUT",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNORE",
+                "SPITE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAUNT",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "TORMENT",
+                "TOXIC",
+                "TOXICSPIKES",
+                "UPROAR",
+                "VENOMDRENCH",
+                "VENOSHOCK",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 1.2,
+            "weight": 9.5,
+            "abilities": [
+                "LEVITATE",
+                "NEUTRALIZINGGAS"
+            ],
+            "hiddenAbilitie": [
+                "STENCH"
+            ],
+            "baseTotal": 490,
+            "baseStats": [
+                65,
+                90,
+                120,
+                60,
+                85,
+                70
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Weezing"
+        },
+        {
+            "generation": 8,
+            "primaryType": "POISON",
+            "secondaryType": "FAIRY",
+            "moves": [
+                [
+                    0,
+                    "DOUBLEHIT"
+                ],
+                [
+                    1,
+                    "STRANGESTEAM"
+                ],
+                [
+                    1,
+                    "DEFOG"
+                ],
+                [
+                    1,
+                    "HEATWAVE"
+                ],
+                [
+                    1,
+                    "SMOG"
+                ],
+                [
+                    1,
+                    "SMOKESCREEN"
+                ],
+                [
+                    1,
+                    "HAZE"
+                ],
+                [
+                    1,
+                    "POISONGAS"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "FAIRYWIND"
+                ],
+                [
+                    1,
+                    "AROMATICMIST"
+                ],
+                [
+                    12,
+                    "CLEARSMOG"
+                ],
+                [
+                    16,
+                    "ASSURANCE"
+                ],
+                [
+                    20,
+                    "SLUDGE"
+                ],
+                [
+                    24,
+                    "AROMATHERAPY"
+                ],
+                [
+                    28,
+                    "SELFDESTRUCT"
+                ],
+                [
+                    32,
+                    "SLUDGEBOMB"
+                ],
+                [
+                    38,
+                    "TOXIC"
+                ],
+                [
+                    44,
+                    "BELCH"
+                ],
+                [
+                    50,
+                    "EXPLOSION"
+                ],
+                [
+                    56,
+                    "MEMENTO"
+                ],
+                [
+                    62,
+                    "DESTINYBOND"
+                ],
+                [
+                    68,
+                    "MISTYTERRAIN"
+                ]
+            ],
+            "tutorMoves": [
+                "ASSURANCE",
+                "ATTRACT",
+                "BRUTALSWING",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CORROSIVEGAS",
+                "DARKPULSE",
+                "DAZZLINGGLEAM",
+                "DOUBLETEAM",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FIREBLAST",
+                "FLAMETHROWER",
+                "FLASH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INCINERATE",
+                "INFESTATION",
+                "MIMIC",
+                "MISTYEXPLOSION",
+                "MISTYTERRAIN",
+                "NATURALGIFT",
+                "OVERHEAT",
+                "PAINSPLIT",
+                "PAYBACK",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROLLOUT",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNORE",
+                "SPITE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAUNT",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "TORMENT",
+                "TOXIC",
+                "TOXICSPIKES",
+                "UPROAR",
+                "VENOMDRENCH",
+                "VENOSHOCK",
+                "WILLOWISP",
+                "WONDERROOM"
+            ],
+            "eggMoves": [],
+            "height": 3.0,
+            "weight": 16.0,
+            "abilities": [
+                "LEVITATE",
+                "NEUTRALIZINGGAS"
+            ],
+            "hiddenAbilitie": [
+                "MISTYSURGE"
+            ],
+            "baseTotal": 490,
+            "baseStats": [
+                65,
+                90,
+                120,
+                60,
+                85,
+                70
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Galar"
+        }
+    ],
+    "internationalPokedex": 110
+}

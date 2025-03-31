@@ -1,0 +1,549 @@
+{
+    "generation": 1,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WIDEGUARD"
+        ],
+        [
+            1,
+            "LOWKICK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            1,
+            "REVENGE"
+        ],
+        [
+            12,
+            "LOWSWEEP"
+        ],
+        [
+            16,
+            "KNOCKOFF"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            24,
+            "VITALTHROW"
+        ],
+        [
+            31,
+            "STRENGTH"
+        ],
+        [
+            36,
+            "DUALCHOP"
+        ],
+        [
+            42,
+            "BULKUP"
+        ],
+        [
+            48,
+            "SEISMICTOSS"
+        ],
+        [
+            54,
+            "DYNAMICPUNCH"
+        ],
+        [
+            60,
+            "CROSSCHOP"
+        ],
+        [
+            66,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "COUNTER",
+        "CROSSPOISON",
+        "DARKESTLARIAT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "INCINERATE",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKBLAST",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "VACUUMWAVE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 130.0,
+    "abilities": [
+        "GUTS",
+        "NOGUARD"
+    ],
+    "hiddenAbilitie": [
+        "STEADFAST"
+    ],
+    "baseTotal": 505,
+    "baseStats": [
+        90,
+        130,
+        80,
+        55,
+        65,
+        85
+    ],
+    "flags": [],
+    "name": "Machamp",
+    "species": "MACHAMP",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 253,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 25,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "FIGHTING",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WIDEGUARD"
+                ],
+                [
+                    1,
+                    "LOWKICK"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "FOCUSENERGY"
+                ],
+                [
+                    1,
+                    "REVENGE"
+                ],
+                [
+                    12,
+                    "LOWSWEEP"
+                ],
+                [
+                    16,
+                    "KNOCKOFF"
+                ],
+                [
+                    20,
+                    "SCARYFACE"
+                ],
+                [
+                    24,
+                    "VITALTHROW"
+                ],
+                [
+                    31,
+                    "STRENGTH"
+                ],
+                [
+                    36,
+                    "DUALCHOP"
+                ],
+                [
+                    42,
+                    "BULKUP"
+                ],
+                [
+                    48,
+                    "SEISMICTOSS"
+                ],
+                [
+                    54,
+                    "DYNAMICPUNCH"
+                ],
+                [
+                    60,
+                    "CROSSCHOP"
+                ],
+                [
+                    66,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULKUP",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "COACHING",
+                "CONFIDE",
+                "COUNTER",
+                "CROSSPOISON",
+                "DARKESTLARIAT",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DUALCHOP",
+                "DYNAMICPUNCH",
+                "EARTHQUAKE",
+                "ENCORE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREPUNCH",
+                "FLAMETHROWER",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HEAVYSLAM",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "ICEPUNCH",
+                "INCINERATE",
+                "KNOCKOFF",
+                "LIGHTSCREEN",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "METRONOME",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PAYBACK",
+                "POISONJAB",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROCKBLAST",
+                "ROCKCLIMB",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROLEPLAY",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDERPUNCH",
+                "VACUUMWAVE",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 1.6,
+            "weight": 130.0,
+            "abilities": [
+                "GUTS",
+                "NOGUARD"
+            ],
+            "hiddenAbilitie": [
+                "STEADFAST"
+            ],
+            "baseTotal": 505,
+            "baseStats": [
+                90,
+                130,
+                80,
+                55,
+                65,
+                85
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Machamp"
+        },
+        {
+            "generation": 8,
+            "primaryType": "FIGHTING",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "WIDEGUARD"
+                ],
+                [
+                    1,
+                    "LOWKICK"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "FOCUSENERGY"
+                ],
+                [
+                    1,
+                    "REVENGE"
+                ],
+                [
+                    12,
+                    "LOWSWEEP"
+                ],
+                [
+                    16,
+                    "KNOCKOFF"
+                ],
+                [
+                    20,
+                    "SCARYFACE"
+                ],
+                [
+                    24,
+                    "VITALTHROW"
+                ],
+                [
+                    31,
+                    "STRENGTH"
+                ],
+                [
+                    36,
+                    "DUALCHOP"
+                ],
+                [
+                    42,
+                    "BULKUP"
+                ],
+                [
+                    48,
+                    "SEISMICTOSS"
+                ],
+                [
+                    54,
+                    "DYNAMICPUNCH"
+                ],
+                [
+                    60,
+                    "CROSSCHOP"
+                ],
+                [
+                    66,
+                    "DOUBLEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ASSURANCE",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULKUP",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "COACHING",
+                "CONFIDE",
+                "COUNTER",
+                "CROSSPOISON",
+                "DARKESTLARIAT",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DUALCHOP",
+                "DYNAMICPUNCH",
+                "EARTHQUAKE",
+                "ENCORE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREPUNCH",
+                "FLAMETHROWER",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSENERGY",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HEAVYSLAM",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "ICEPUNCH",
+                "INCINERATE",
+                "KNOCKOFF",
+                "LIGHTSCREEN",
+                "LOWKICK",
+                "LOWSWEEP",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "METRONOME",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PAYBACK",
+                "POISONJAB",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROCKBLAST",
+                "ROCKCLIMB",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROLEPLAY",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SLEEPTALK",
+                "SMACKDOWN",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SWAGGER",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDERPUNCH",
+                "VACUUMWAVE",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 25.0,
+            "weight": 130.0,
+            "abilities": [
+                "GUTS",
+                "NOGUARD"
+            ],
+            "hiddenAbilitie": [
+                "STEADFAST"
+            ],
+            "baseTotal": 505,
+            "baseStats": [
+                90,
+                130,
+                80,
+                55,
+                65,
+                85
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 68
+}

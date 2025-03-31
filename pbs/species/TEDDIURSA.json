@@ -1,0 +1,188 @@
+{
+    "generation": 2,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "FLING"
+        ],
+        [
+            1,
+            "COVET"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "BABYDOLLEYES"
+        ],
+        [
+            1,
+            "LICK"
+        ],
+        [
+            1,
+            "FAKETEARS"
+        ],
+        [
+            8,
+            "FURYSWIPES"
+        ],
+        [
+            13,
+            "PAYBACK"
+        ],
+        [
+            17,
+            "SWEETSCENT"
+        ],
+        [
+            22,
+            "SLASH"
+        ],
+        [
+            25,
+            "PLAYNICE"
+        ],
+        [
+            29,
+            "PLAYROUGH"
+        ],
+        [
+            33,
+            "CHARM"
+        ],
+        [
+            37,
+            "REST"
+        ],
+        [
+            37,
+            "SNORE"
+        ],
+        [
+            41,
+            "THRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERVOICE",
+        "ICEPUNCH",
+        "LASTRESORT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SEISMICTOSS",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "BELLYDRUM",
+        "CLOSECOMBAT",
+        "COUNTER",
+        "CROSSCHOP",
+        "CRUNCH",
+        "DOUBLEEDGE",
+        "FAKETEARS",
+        "METALCLAW",
+        "NIGHTSLASH",
+        "PLAYROUGH",
+        "SEISMICTOSS",
+        "TAKEDOWN",
+        "YAWN"
+    ],
+    "height": 0.6,
+    "weight": 8.8,
+    "abilities": [
+        "PICKUP",
+        "QUICKFEET"
+    ],
+    "hiddenAbilitie": [
+        "HONEYGATHER"
+    ],
+    "baseTotal": 330,
+    "baseStats": [
+        60,
+        80,
+        50,
+        40,
+        50,
+        50
+    ],
+    "flags": [],
+    "name": "Teddiursa",
+    "species": "TEDDIURSA",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 66,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 216
+}

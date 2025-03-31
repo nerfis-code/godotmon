@@ -1,0 +1,200 @@
+{
+    "generation": 5,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "FIRE",
+    "moves": [
+        [
+            1,
+            "VCREATE"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "FLAMECHARGE"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            7,
+            "WORKUP"
+        ],
+        [
+            14,
+            "INCINERATE"
+        ],
+        [
+            21,
+            "STOREDPOWER"
+        ],
+        [
+            28,
+            "HEADBUTT"
+        ],
+        [
+            35,
+            "ENDURE"
+        ],
+        [
+            42,
+            "ZENHEADBUTT"
+        ],
+        [
+            49,
+            "INFERNO"
+        ],
+        [
+            56,
+            "REVERSAL"
+        ],
+        [
+            63,
+            "SEARINGSHOT"
+        ],
+        [
+            70,
+            "DOUBLEEDGE"
+        ],
+        [
+            77,
+            "FLAREBLITZ"
+        ],
+        [
+            84,
+            "OVERHEAT"
+        ],
+        [
+            91,
+            "FINALGAMBIT"
+        ]
+    ],
+    "tutorMoves": [
+        "BATONPASS",
+        "BLAZEKICK",
+        "BOUNCE",
+        "BRICKBREAK",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "EMBARGO",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUARDSWAP",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "POWERSWAP",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPEEDSWAP",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "UTURN",
+        "WILDCHARGE",
+        "WILLOWISP",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.4,
+    "weight": 4.0,
+    "abilities": [
+        "VICTORYSTAR"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Victini",
+    "species": "VICTINI",
+    "catchRate": 3,
+    "happiness": 100,
+    "baseExp": 300,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 494
+}

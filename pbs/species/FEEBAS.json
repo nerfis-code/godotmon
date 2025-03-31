@@ -1,0 +1,101 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            15,
+            "TACKLE"
+        ],
+        [
+            25,
+            "FLAIL"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HAIL",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "CONFUSERAY",
+        "DRAGONBREATH",
+        "HAZE",
+        "HYPNOSIS",
+        "MIRRORCOAT",
+        "MIST",
+        "TICKLE"
+    ],
+    "height": 0.6,
+    "weight": 7.4,
+    "abilities": [
+        "SWIFTSWIM",
+        "OBLIVIOUS"
+    ],
+    "hiddenAbilitie": [
+        "ADAPTABILITY"
+    ],
+    "baseTotal": 200,
+    "baseStats": [
+        20,
+        15,
+        20,
+        80,
+        10,
+        55
+    ],
+    "flags": [],
+    "name": "Feebas",
+    "species": "FEEBAS",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 40,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 349
+}

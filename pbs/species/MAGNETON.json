@@ -1,0 +1,161 @@
+{
+    "generation": 1,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            -1,
+            "TRIATTACK"
+        ],
+        [
+            1,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            1,
+            "THUNDERWAVE"
+        ],
+        [
+            12,
+            "ELECTROBALL"
+        ],
+        [
+            16,
+            "GYROBALL"
+        ],
+        [
+            20,
+            "SPARK"
+        ],
+        [
+            24,
+            "SCREECH"
+        ],
+        [
+            28,
+            "MAGNETRISE"
+        ],
+        [
+            34,
+            "FLASHCANNON"
+        ],
+        [
+            40,
+            "DISCHARGE"
+        ],
+        [
+            46,
+            "METALSOUND"
+        ],
+        [
+            52,
+            "LIGHTSCREEN"
+        ],
+        [
+            58,
+            "LOCKON"
+        ],
+        [
+            64,
+            "ZAPCANNON"
+        ]
+    ],
+    "tutorMoves": [
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "GYROBALL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROLLOUT",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRIATTACK",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 60.0,
+    "abilities": [
+        "MAGNETPULL",
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "ANALYTIC"
+    ],
+    "baseTotal": 465,
+    "baseStats": [
+        50,
+        60,
+        95,
+        70,
+        120,
+        70
+    ],
+    "flags": [],
+    "name": "Magneton",
+    "species": "MAGNETON",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 163,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 82
+}

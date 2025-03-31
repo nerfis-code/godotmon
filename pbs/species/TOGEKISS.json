@@ -1,0 +1,236 @@
+{
+    "generation": 4,
+    "primaryType": "FAIRY",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "AIRSLASH"
+        ],
+        [
+            1,
+            "FAIRYWIND"
+        ],
+        [
+            1,
+            "SKYATTACK"
+        ],
+        [
+            1,
+            "AURASPHERE"
+        ],
+        [
+            1,
+            "EXTREMESPEED"
+        ],
+        [
+            1,
+            "TRIATTACK"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "ANCIENTPOWER"
+        ],
+        [
+            1,
+            "YAWN"
+        ],
+        [
+            1,
+            "METRONOME"
+        ],
+        [
+            1,
+            "AFTERYOU"
+        ],
+        [
+            1,
+            "DOUBLEEDGE"
+        ],
+        [
+            1,
+            "SAFEGUARD"
+        ],
+        [
+            1,
+            "FOLLOWME"
+        ],
+        [
+            1,
+            "BATONPASS"
+        ],
+        [
+            1,
+            "LASTRESORT"
+        ],
+        [
+            1,
+            "WISH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "SWEETKISS"
+        ],
+        [
+            1,
+            "LIFEDEW"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AFTERYOU",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "ALLYSWITCH",
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "AURASPHERE",
+        "BATONPASS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DEFENSECURL",
+        "DAZZLINGGLEAM",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLING",
+        "FLY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HEALBELL",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IMPRISON",
+        "INCINERATE",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MAGICCOAT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "MYSTICALFIRE",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PLAYROUGH",
+        "PLUCK",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SILVERWIND",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SOFTBOILED",
+        "SOLARBEAM",
+        "STEELWING",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TELEKINESIS",
+        "THUNDERWAVE",
+        "TRIATTACK",
+        "TRICK",
+        "TWISTER",
+        "UPROAR",
+        "WATERPULSE",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 38.0,
+    "abilities": [
+        "HUSTLE",
+        "SERENEGRACE"
+    ],
+    "hiddenAbilitie": [
+        "SUPERLUCK"
+    ],
+    "baseTotal": 545,
+    "baseStats": [
+        85,
+        50,
+        95,
+        80,
+        120,
+        115
+    ],
+    "flags": [],
+    "name": "Togekiss",
+    "species": "TOGEKISS",
+    "catchRate": 30,
+    "happiness": 50,
+    "baseExp": 273,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 468
+}

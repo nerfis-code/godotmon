@@ -1,0 +1,137 @@
+{
+    "generation": 8,
+    "primaryType": "DRAGON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TWISTER"
+        ],
+        [
+            1,
+            "VISEGRIP"
+        ],
+        [
+            6,
+            "BITE"
+        ],
+        [
+            12,
+            "ANCIENTPOWER"
+        ],
+        [
+            18,
+            "DRAGONBREATH"
+        ],
+        [
+            30,
+            "CRUNCH"
+        ],
+        [
+            36,
+            "DRAGONCLAW"
+        ],
+        [
+            42,
+            "HAMMERARM"
+        ],
+        [
+            48,
+            "DRAGONDANCE"
+        ],
+        [
+            54,
+            "THRASH"
+        ],
+        [
+            60,
+            "FOCUSENERGY"
+        ],
+        [
+            60,
+            "LASERFOCUS"
+        ],
+        [
+            66,
+            "DRAGONENERGY"
+        ],
+        [
+            72,
+            "HYPERBEAM"
+        ],
+        [
+            78,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "CONFIDE",
+        "CRUNCH",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROUND",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "THUNDERFANG",
+        "TOXIC"
+    ],
+    "eggMoves": [],
+    "height": 2.1,
+    "weight": 200.0,
+    "abilities": [
+        "DRAGONSMAW"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 580,
+    "baseStats": [
+        200,
+        100,
+        50,
+        80,
+        100,
+        50
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Regidrago",
+    "species": "REGIDRAGO",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 895
+}

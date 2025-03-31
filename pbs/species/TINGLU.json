@@ -1,0 +1,150 @@
+{
+    "generation": 9,
+    "primaryType": "DARK",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "SPITE"
+        ],
+        [
+            1,
+            "MEANLOOK"
+        ],
+        [
+            1,
+            "SANDTOMB"
+        ],
+        [
+            5,
+            "SPIKES"
+        ],
+        [
+            10,
+            "PAYBACK"
+        ],
+        [
+            15,
+            "STOMP"
+        ],
+        [
+            20,
+            "BULLDOZE"
+        ],
+        [
+            25,
+            "WHIRLWIND"
+        ],
+        [
+            30,
+            "TAUNT"
+        ],
+        [
+            35,
+            "THRASH"
+        ],
+        [
+            40,
+            "DARKPULSE"
+        ],
+        [
+            45,
+            "STOMPINGTANTRUM"
+        ],
+        [
+            50,
+            "RUINATION"
+        ],
+        [
+            55,
+            "THROATCHOP"
+        ],
+        [
+            60,
+            "ROCKSLIDE"
+        ],
+        [
+            65,
+            "MEMENTO"
+        ],
+        [
+            70,
+            "EARTHQUAKE"
+        ],
+        [
+            75,
+            "FISSURE"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "GIGAIMPACT",
+        "HEAVYSLAM",
+        "HEX",
+        "HYPERBEAM",
+        "LASHOUT",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PROTECT",
+        "REST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SNARL",
+        "SPIKES",
+        "SPITE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "TAUNT",
+        "THROATCHOP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.7,
+    "weight": 699.7,
+    "abilities": [
+        "VESSELOFRUIN"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        155,
+        110,
+        125,
+        45,
+        55,
+        80
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Ting-Lu",
+    "species": "TINGLU",
+    "catchRate": 6,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 1003
+}

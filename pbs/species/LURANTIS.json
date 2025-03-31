@@ -1,0 +1,164 @@
+{
+    "generation": 7,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "PETALBLIZZARD"
+        ],
+        [
+            1,
+            "NIGHTSLASH"
+        ],
+        [
+            1,
+            "SOLARBEAM"
+        ],
+        [
+            1,
+            "DUALCHOP"
+        ],
+        [
+            1,
+            "LEAFAGE"
+        ],
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "INGRAIN"
+        ],
+        [
+            15,
+            "RAZORLEAF"
+        ],
+        [
+            20,
+            "SWEETSCENT"
+        ],
+        [
+            25,
+            "SLASH"
+        ],
+        [
+            30,
+            "XSCISSOR"
+        ],
+        [
+            37,
+            "SYNTHESIS"
+        ],
+        [
+            44,
+            "LEAFBLADE"
+        ],
+        [
+            51,
+            "SUNNYDAY"
+        ],
+        [
+            63,
+            "SOLARBLADE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BUGBITE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CROSSPOISON",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LEAFBLADE",
+        "LEAFSTORM",
+        "LEECHLIFE",
+        "LOWSWEEP",
+        "MAGICALLEAF",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "PSYCHOCUT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TOXIC",
+        "WEATHERBALL",
+        "WORRYSEED",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 18.5,
+    "abilities": [
+        "LEAFGUARD"
+    ],
+    "hiddenAbilitie": [
+        "CONTRARY"
+    ],
+    "baseTotal": 480,
+    "baseStats": [
+        70,
+        105,
+        90,
+        45,
+        80,
+        90
+    ],
+    "flags": [],
+    "name": "Lurantis",
+    "species": "LURANTIS",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 168,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 754
+}

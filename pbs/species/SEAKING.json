@@ -1,0 +1,143 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            1,
+            "WATERPULSE"
+        ],
+        [
+            15,
+            "HORNATTACK"
+        ],
+        [
+            20,
+            "AGILITY"
+        ],
+        [
+            25,
+            "AQUARING"
+        ],
+        [
+            30,
+            "FLAIL"
+        ],
+        [
+            37,
+            "WATERFALL"
+        ],
+        [
+            44,
+            "SOAK"
+        ],
+        [
+            51,
+            "MEGAHORN"
+        ],
+        [
+            58,
+            "HORNDRILL"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "ENDURE",
+        "FACADE",
+        "FLIPTURN",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "KNOCKOFF",
+        "MEGAHORN",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SCALESHOT",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "THROATCHOP",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 39.0,
+    "abilities": [
+        "SWIFTSWIM",
+        "WATERVEIL"
+    ],
+    "hiddenAbilitie": [
+        "LIGHTNINGROD"
+    ],
+    "baseTotal": 450,
+    "baseStats": [
+        80,
+        92,
+        65,
+        68,
+        65,
+        80
+    ],
+    "flags": [],
+    "name": "Seaking",
+    "species": "SEAKING",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 158,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 119
+}

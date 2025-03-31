@@ -1,0 +1,168 @@
+{
+    "generation": 5,
+    "primaryType": "ICE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            3,
+            "ENDURE"
+        ],
+        [
+            6,
+            "FURYSWIPES"
+        ],
+        [
+            9,
+            "ICYWIND"
+        ],
+        [
+            12,
+            "PLAYNICE"
+        ],
+        [
+            15,
+            "BRINE"
+        ],
+        [
+            18,
+            "FROSTBREATH"
+        ],
+        [
+            21,
+            "SLASH"
+        ],
+        [
+            24,
+            "FLAIL"
+        ],
+        [
+            27,
+            "CHARM"
+        ],
+        [
+            30,
+            "HAIL"
+        ],
+        [
+            30,
+            "SNOWSCAPE"
+        ],
+        [
+            33,
+            "THRASH"
+        ],
+        [
+            36,
+            "REST"
+        ],
+        [
+            39,
+            "BLIZZARD"
+        ],
+        [
+            42,
+            "SHEERCOLD"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ASSURANCE",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BRINE",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSPUNCH",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICEPUNCH",
+        "ICYWIND",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "FOCUSPUNCH",
+        "NIGHTSLASH",
+        "YAWN"
+    ],
+    "height": 0.5,
+    "weight": 8.5,
+    "abilities": [
+        "SNOWCLOAK",
+        "SLUSHRUSH"
+    ],
+    "hiddenAbilitie": [
+        "RATTLED"
+    ],
+    "baseTotal": 305,
+    "baseStats": [
+        55,
+        70,
+        40,
+        40,
+        60,
+        40
+    ],
+    "flags": [],
+    "name": "Cubchoo",
+    "species": "CUBCHOO",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 613
+}

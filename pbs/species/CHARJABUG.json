@@ -1,0 +1,134 @@
+{
+    "generation": 7,
+    "primaryType": "BUG",
+    "secondaryType": "ELECTRIC",
+    "moves": [
+        [
+            -1,
+            "CHARGE"
+        ],
+        [
+            1,
+            "VISEGRIP"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            1,
+            "BUGBITE"
+        ],
+        [
+            15,
+            "BITE"
+        ],
+        [
+            23,
+            "SPARK"
+        ],
+        [
+            29,
+            "STICKYWEB"
+        ],
+        [
+            36,
+            "XSCISSOR"
+        ],
+        [
+            43,
+            "CRUNCH"
+        ],
+        [
+            50,
+            "DIG"
+        ],
+        [
+            57,
+            "IRONDEFENSE"
+        ],
+        [
+            64,
+            "DISCHARGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ATTRACT",
+        "BUGBITE",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CRUNCH",
+        "DIG",
+        "DOUBLETEAM",
+        "EERIEIMPULSE",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "VOLTSWITCH",
+        "WILDCHARGE",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 0.5,
+    "weight": 10.5,
+    "abilities": [
+        "BATTERY"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 400,
+    "baseStats": [
+        57,
+        82,
+        95,
+        36,
+        55,
+        75
+    ],
+    "flags": [],
+    "name": "Charjabug",
+    "species": "CHARJABUG",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 140,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 737
+}

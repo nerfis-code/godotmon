@@ -1,0 +1,142 @@
+{
+    "generation": 6,
+    "primaryType": "STEEL",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "SHADOWSNEAK"
+        ],
+        [
+            1,
+            "AUTOTOMIZE"
+        ],
+        [
+            12,
+            "AERIALACE"
+        ],
+        [
+            16,
+            "METALSOUND"
+        ],
+        [
+            20,
+            "SLASH"
+        ],
+        [
+            24,
+            "NIGHTSLASH"
+        ],
+        [
+            28,
+            "RETALIATE"
+        ],
+        [
+            32,
+            "IRONDEFENSE"
+        ],
+        [
+            38,
+            "IRONHEAD"
+        ],
+        [
+            44,
+            "POWERTRICK"
+        ],
+        [
+            50,
+            "SWORDSDANCE"
+        ],
+        [
+            56,
+            "SACREDSWORD"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AFTERYOU",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GYROBALL",
+        "HIDDENPOWER",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LASERFOCUS",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHOCUT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBLADE",
+        "SPITE",
+        "STEELBEAM",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TOXIC"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 4.5,
+    "abilities": [
+        "NOGUARD"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 448,
+    "baseStats": [
+        59,
+        110,
+        150,
+        35,
+        45,
+        49
+    ],
+    "flags": [],
+    "name": "Doublade",
+    "species": "DOUBLADE",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 157,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 680
+}

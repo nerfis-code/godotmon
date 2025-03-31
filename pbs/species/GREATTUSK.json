@@ -1,0 +1,159 @@
+{
+    "generation": 9,
+    "primaryType": "GROUND",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            1,
+            "SUNNYDAY"
+        ],
+        [
+            1,
+            "HORNATTACK"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "ROLLOUT"
+        ],
+        [
+            7,
+            "BULLDOZE"
+        ],
+        [
+            14,
+            "TAUNT"
+        ],
+        [
+            21,
+            "RAPIDSPIN"
+        ],
+        [
+            28,
+            "BRICKBREAK"
+        ],
+        [
+            35,
+            "STOMPINGTANTRUM"
+        ],
+        [
+            42,
+            "KNOCKOFF"
+        ],
+        [
+            49,
+            "EARTHQUAKE"
+        ],
+        [
+            56,
+            "GIGAIMPACT"
+        ],
+        [
+            63,
+            "CLOSECOMBAT"
+        ],
+        [
+            70,
+            "ENDEAVOR"
+        ],
+        [
+            77,
+            "MEGAHORN"
+        ],
+        [
+            84,
+            "HEADSMASH"
+        ],
+        [
+            91,
+            "HEADLONGRUSH"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CLOSECOMBAT",
+        "DIG",
+        "DOUBLEEDGE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FLASHCANNON",
+        "GIGAIMPACT",
+        "HEAVYSLAM",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEFANG",
+        "ICESPINNER",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYSHOCK",
+        "REST",
+        "REVERSAL",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SMARTSTRIKE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERCELLSLAM",
+        "TAKEDOWN",
+        "TAUNT",
+        "TEMPERFLARE",
+        "THROATCHOP",
+        "THUNDERFANG",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.2,
+    "weight": 320.0,
+    "abilities": [
+        "PROTOSYNTHESIS"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        115,
+        131,
+        131,
+        87,
+        53,
+        53
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Colmilargo",
+    "species": "GREATTUSK",
+    "catchRate": 30,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 984
+}

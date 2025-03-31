@@ -1,0 +1,147 @@
+{
+    "generation": 9,
+    "primaryType": "STEEL",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            -1,
+            "ELECTROSHOT"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            6,
+            "ROCKSMASH"
+        ],
+        [
+            12,
+            "HONECLAWS"
+        ],
+        [
+            18,
+            "METALSOUND"
+        ],
+        [
+            24,
+            "BREAKINGSWIPE"
+        ],
+        [
+            30,
+            "DRAGONTAIL"
+        ],
+        [
+            36,
+            "IRONDEFENSE"
+        ],
+        [
+            42,
+            "FOCUSENERGY"
+        ],
+        [
+            48,
+            "DRAGONCLAW"
+        ],
+        [
+            54,
+            "FLASHCANNON"
+        ],
+        [
+            60,
+            "METALBURST"
+        ],
+        [
+            66,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "AURASPHERE",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "DARKPULSE",
+        "DOUBLEEDGE",
+        "DRACOMETEOR",
+        "DRAGONCHEER",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FOULPLAY",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HARDPRESS",
+        "HEAVYSLAM",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LIGHTSCREEN",
+        "METALCLAW",
+        "METALSOUND",
+        "METEORBEAM",
+        "OUTRAGE",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNARL",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 60.0,
+    "abilities": [
+        "STAMINA",
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "STALWART"
+    ],
+    "baseTotal": 600,
+    "baseStats": [
+        90,
+        105,
+        130,
+        85,
+        125,
+        65
+    ],
+    "flags": [],
+    "name": "Archaludon",
+    "species": "ARCHALUDON",
+    "catchRate": 10,
+    "happiness": 50,
+    "baseExp": 300,
+    "evs": [
+        "DEFENSE",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 1018
+}

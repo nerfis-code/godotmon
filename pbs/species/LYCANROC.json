@@ -1,0 +1,685 @@
+{
+    "generation": 7,
+    "primaryType": "ROCK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "SUCKERPUNCH"
+        ],
+        [
+            1,
+            "ACCELEROCK"
+        ],
+        [
+            1,
+            "QUICKGUARD"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "DOUBLETEAM"
+        ],
+        [
+            12,
+            "ROCKTHROW"
+        ],
+        [
+            16,
+            "HOWL"
+        ],
+        [
+            20,
+            "BITE"
+        ],
+        [
+            24,
+            "ROCKTOMB"
+        ],
+        [
+            30,
+            "ROAR"
+        ],
+        [
+            36,
+            "ROCKSLIDE"
+        ],
+        [
+            42,
+            "CRUNCH"
+        ],
+        [
+            48,
+            "SCARYFACE"
+        ],
+        [
+            54,
+            "STEALTHROCK"
+        ],
+        [
+            60,
+            "STONEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ASSURANCE",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BULKUP",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "COVET",
+        "CRUNCH",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "EARTHPOWER",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASHOUT",
+        "LASTRESORT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAILSLAP",
+        "TAUNT",
+        "THUNDERFANG",
+        "TOXIC",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 25.0,
+    "abilities": [
+        "KEENEYE",
+        "SANDRUSH"
+    ],
+    "hiddenAbilitie": [
+        "STEADFAST"
+    ],
+    "baseTotal": 487,
+    "baseStats": [
+        75,
+        115,
+        65,
+        112,
+        55,
+        65
+    ],
+    "flags": [],
+    "name": "Lycanroc",
+    "species": "LYCANROC",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 7,
+            "primaryType": "ROCK",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    1,
+                    "ACCELEROCK"
+                ],
+                [
+                    1,
+                    "QUICKGUARD"
+                ],
+                [
+                    1,
+                    "QUICKATTACK"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "SANDATTACK"
+                ],
+                [
+                    1,
+                    "DOUBLETEAM"
+                ],
+                [
+                    12,
+                    "ROCKTHROW"
+                ],
+                [
+                    16,
+                    "HOWL"
+                ],
+                [
+                    20,
+                    "BITE"
+                ],
+                [
+                    24,
+                    "ROCKTOMB"
+                ],
+                [
+                    30,
+                    "ROAR"
+                ],
+                [
+                    36,
+                    "ROCKSLIDE"
+                ],
+                [
+                    42,
+                    "CRUNCH"
+                ],
+                [
+                    48,
+                    "SCARYFACE"
+                ],
+                [
+                    54,
+                    "STEALTHROCK"
+                ],
+                [
+                    60,
+                    "STONEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ASSURANCE",
+                "ATTRACT",
+                "BRICKBREAK",
+                "BULKUP",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "COVET",
+                "CRUNCH",
+                "DOUBLETEAM",
+                "DRILLRUN",
+                "EARTHPOWER",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FIREFANG",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "LASHOUT",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKBLAST",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAILSLAP",
+                "TAUNT",
+                "THUNDERFANG",
+                "TOXIC",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.8,
+            "weight": 25.0,
+            "abilities": [
+                "KEENEYE",
+                "SANDRUSH"
+            ],
+            "hiddenAbilitie": [
+                "STEADFAST"
+            ],
+            "baseTotal": 487,
+            "baseStats": [
+                75,
+                115,
+                65,
+                112,
+                55,
+                65
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Diurna"
+        },
+        {
+            "generation": 7,
+            "primaryType": "ROCK",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    0,
+                    "COUNTER"
+                ],
+                [
+                    1,
+                    "REVERSAL"
+                ],
+                [
+                    1,
+                    "TAUNT"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "SANDATTACK"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    4,
+                    "SANDATTACK"
+                ],
+                [
+                    7,
+                    "BITE"
+                ],
+                [
+                    12,
+                    "HOWL"
+                ],
+                [
+                    15,
+                    "ROCKTHROW"
+                ],
+                [
+                    18,
+                    "ODORSLEUTH"
+                ],
+                [
+                    23,
+                    "ROCKTOMB"
+                ],
+                [
+                    26,
+                    "ROAR"
+                ],
+                [
+                    29,
+                    "STEALTHROCK"
+                ],
+                [
+                    34,
+                    "ROCKSLIDE"
+                ],
+                [
+                    37,
+                    "SCARYFACE"
+                ],
+                [
+                    40,
+                    "CRUNCH"
+                ],
+                [
+                    45,
+                    "ROCKCLIMB"
+                ],
+                [
+                    48,
+                    "STONEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BRICKBREAK",
+                "BULKUP",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "COVET",
+                "CRUNCH",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DUALCHOP",
+                "EARTHPOWER",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FIREFANG",
+                "FIREPUNCH",
+                "FOCUSPUNCH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "LASHOUT",
+                "LASTRESORT",
+                "LOWSWEEP",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAYBACK",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "REST",
+                "RETURN",
+                "REVENGE",
+                "REVERSAL",
+                "ROAR",
+                "ROCKBLAST",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAUNT",
+                "THROATCHOP",
+                "THUNDERFANG",
+                "THUNDERPUNCH",
+                "TOXIC",
+                "UPROAR",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.1,
+            "weight": 25.0,
+            "abilities": [
+                "KEENEYE",
+                "VITALSPIRIT"
+            ],
+            "hiddenAbilitie": [
+                "NOGUARD"
+            ],
+            "baseTotal": 487,
+            "baseStats": [
+                85,
+                115,
+                75,
+                82,
+                55,
+                75
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Nocturna"
+        },
+        {
+            "generation": 7,
+            "primaryType": "ROCK",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    0,
+                    "THRASH"
+                ],
+                [
+                    1,
+                    "ACCELEROCK"
+                ],
+                [
+                    1,
+                    "COUNTER"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "SANDATTACK"
+                ],
+                [
+                    1,
+                    "BITE"
+                ],
+                [
+                    4,
+                    "SANDATTACK"
+                ],
+                [
+                    7,
+                    "BITE"
+                ],
+                [
+                    12,
+                    "HOWL"
+                ],
+                [
+                    15,
+                    "ROCKTHROW"
+                ],
+                [
+                    18,
+                    "ODORSLEUTH"
+                ],
+                [
+                    23,
+                    "ROCKTOMB"
+                ],
+                [
+                    26,
+                    "ROAR"
+                ],
+                [
+                    29,
+                    "STEALTHROCK"
+                ],
+                [
+                    34,
+                    "ROCKSLIDE"
+                ],
+                [
+                    37,
+                    "SCARYFACE"
+                ],
+                [
+                    40,
+                    "CRUNCH"
+                ],
+                [
+                    45,
+                    "ROCKCLIMB"
+                ],
+                [
+                    48,
+                    "STONEEDGE"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BRICKBREAK",
+                "BULKUP",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "COVET",
+                "CRUNCH",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DRILLRUN",
+                "EARTHPOWER",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FIREFANG",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "LASTRESORT",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PLAYROUGH",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROAR",
+                "ROCKBLAST",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TAILSLAP",
+                "TAUNT",
+                "THUNDERFANG",
+                "TOXIC",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.8,
+            "weight": 25.0,
+            "abilities": [
+                "TOUGHCLAWS"
+            ],
+            "hiddenAbilitie": [
+                "TOUGHCLAWS"
+            ],
+            "baseTotal": 487,
+            "baseStats": [
+                75,
+                117,
+                65,
+                110,
+                55,
+                65
+            ],
+            "flags": [
+                "InheritFormFromMother"
+            ],
+            "form": 2,
+            "formName": "Forma Crepuscular"
+        }
+    ],
+    "internationalPokedex": 745
+}

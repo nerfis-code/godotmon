@@ -1,0 +1,189 @@
+{
+    "generation": 1,
+    "primaryType": "GROUND",
+    "secondaryType": "ROCK",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            5,
+            "SMACKDOWN"
+        ],
+        [
+            10,
+            "BULLDOZE"
+        ],
+        [
+            15,
+            "HORNATTACK"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            25,
+            "STOMP"
+        ],
+        [
+            30,
+            "ROCKBLAST"
+        ],
+        [
+            35,
+            "DRILLRUN"
+        ],
+        [
+            40,
+            "TAKEDOWN"
+        ],
+        [
+            45,
+            "EARTHQUAKE"
+        ],
+        [
+            50,
+            "STONEEDGE"
+        ],
+        [
+            55,
+            "MEGAHORN"
+        ],
+        [
+            60,
+            "HORNDRILL"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CRUNCH",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "DRILLRUN",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FLAMETHROWER",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICYWIND",
+        "INCINERATE",
+        "IRONTAIL",
+        "MEGAHORN",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROAR",
+        "ROCKBLAST",
+        "ROCKCLIMB",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SPITE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "UPROAR"
+    ],
+    "eggMoves": [
+        "COUNTER",
+        "CRUNCH",
+        "CRUSHCLAW",
+        "CURSE",
+        "DRAGONRUSH",
+        "FIREFANG",
+        "GUARDSPLIT",
+        "ICEFANG",
+        "METALBURST",
+        "REVERSAL",
+        "ROCKPOLISH",
+        "SKULLBASH",
+        "THUNDERFANG"
+    ],
+    "height": 1.0,
+    "weight": 115.0,
+    "abilities": [
+        "LIGHTNINGROD",
+        "ROCKHEAD"
+    ],
+    "hiddenAbilitie": [
+        "RECKLESS"
+    ],
+    "baseTotal": 345,
+    "baseStats": [
+        80,
+        85,
+        95,
+        25,
+        30,
+        30
+    ],
+    "flags": [],
+    "name": "Rhyhorn",
+    "species": "RHYHORN",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 69,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 111
+}

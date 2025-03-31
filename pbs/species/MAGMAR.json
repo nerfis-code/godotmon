@@ -1,0 +1,166 @@
+{
+    "generation": 1,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SMOG"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "SMOKESCREEN"
+        ],
+        [
+            12,
+            "CLEARSMOG"
+        ],
+        [
+            16,
+            "FLAMEWHEEL"
+        ],
+        [
+            20,
+            "CONFUSERAY"
+        ],
+        [
+            24,
+            "SCARYFACE"
+        ],
+        [
+            28,
+            "FIREPUNCH"
+        ],
+        [
+            34,
+            "LAVAPLUME"
+        ],
+        [
+            40,
+            "LOWKICK"
+        ],
+        [
+            46,
+            "FLAMETHROWER"
+        ],
+        [
+            52,
+            "SUNNYDAY"
+        ],
+        [
+            58,
+            "FIREBLAST"
+        ],
+        [
+            64,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BURNINGJEALOUSY",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "DYNAMICPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONTAIL",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "POWERSWAP",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSMASH",
+        "ROUND",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THIEF",
+        "THUNDERPUNCH",
+        "UPROAR",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 44.5,
+    "abilities": [
+        "FLAMEBODY"
+    ],
+    "hiddenAbilitie": [
+        "VITALSPIRIT"
+    ],
+    "baseTotal": 495,
+    "baseStats": [
+        65,
+        95,
+        57,
+        93,
+        100,
+        85
+    ],
+    "flags": [],
+    "name": "Magmar",
+    "species": "MAGMAR",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 173,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 25,
+    "forms": [],
+    "internationalPokedex": 126
+}

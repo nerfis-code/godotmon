@@ -1,0 +1,140 @@
+{
+    "generation": 5,
+    "primaryType": "BUG",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            4,
+            "ROLLOUT"
+        ],
+        [
+            8,
+            "PROTECT"
+        ],
+        [
+            12,
+            "POISONTAIL"
+        ],
+        [
+            16,
+            "SCREECH"
+        ],
+        [
+            20,
+            "BUGBITE"
+        ],
+        [
+            24,
+            "VENOSHOCK"
+        ],
+        [
+            28,
+            "TAKEDOWN"
+        ],
+        [
+            32,
+            "AGILITY"
+        ],
+        [
+            36,
+            "TOXIC"
+        ],
+        [
+            40,
+            "VENOMDRENCH"
+        ],
+        [
+            44,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "BUGBITE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GYROBALL",
+        "HEX",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PINMISSILE",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SPIKES",
+        "STEELROLLER",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TOXIC",
+        "TOXICSPIKES",
+        "VENOMDRENCH",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [
+        "BITE",
+        "FURYCUTTER"
+    ],
+    "height": 0.4,
+    "weight": 5.3,
+    "abilities": [
+        "POISONPOINT",
+        "SWARM"
+    ],
+    "hiddenAbilitie": [
+        "SPEEDBOOST"
+    ],
+    "baseTotal": 260,
+    "baseStats": [
+        30,
+        45,
+        59,
+        57,
+        30,
+        39
+    ],
+    "flags": [],
+    "name": "Venipede",
+    "species": "VENIPEDE",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 52,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 543
+}

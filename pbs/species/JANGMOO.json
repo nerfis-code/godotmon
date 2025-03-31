@@ -1,0 +1,155 @@
+{
+    "generation": 7,
+    "primaryType": "DRAGON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            4,
+            "PROTECT"
+        ],
+        [
+            8,
+            "DRAGONTAIL"
+        ],
+        [
+            12,
+            "SCARYFACE"
+        ],
+        [
+            16,
+            "HEADBUTT"
+        ],
+        [
+            20,
+            "WORKUP"
+        ],
+        [
+            24,
+            "SCREECH"
+        ],
+        [
+            28,
+            "IRONDEFENSE"
+        ],
+        [
+            32,
+            "DRAGONCLAW"
+        ],
+        [
+            36,
+            "NOBLEROAR"
+        ],
+        [
+            40,
+            "DRAGONDANCE"
+        ],
+        [
+            44,
+            "OUTRAGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ATTRACT",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LOWKICK",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TOXIC",
+        "UPROAR",
+        "WORKUP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "COUNTER",
+        "DRAGONBREATH",
+        "FOCUSPUNCH"
+    ],
+    "height": 0.6,
+    "weight": 29.7,
+    "abilities": [
+        "BULLETPROOF",
+        "SOUNDPROOF"
+    ],
+    "hiddenAbilitie": [
+        "OVERCOAT"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        45,
+        55,
+        65,
+        45,
+        45,
+        45
+    ],
+    "flags": [],
+    "name": "Jangmo-o",
+    "species": "JANGMOO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 782
+}

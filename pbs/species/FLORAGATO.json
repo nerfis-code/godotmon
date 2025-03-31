@@ -1,0 +1,135 @@
+{
+    "generation": 9,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "LEAFAGE"
+        ],
+        [
+            7,
+            "BITE"
+        ],
+        [
+            10,
+            "HONECLAWS"
+        ],
+        [
+            13,
+            "MAGICALLEAF"
+        ],
+        [
+            15,
+            "QUICKATTACK"
+        ],
+        [
+            20,
+            "SEEDBOMB"
+        ],
+        [
+            24,
+            "UTURN"
+        ],
+        [
+            28,
+            "WORRYSEED"
+        ],
+        [
+            33,
+            "SLASH"
+        ],
+        [
+            38,
+            "ENERGYBALL"
+        ],
+        [
+            42,
+            "PLAYROUGH"
+        ],
+        [
+            46,
+            "LEAFSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "BULLETSEED",
+        "CHARM",
+        "DISARMINGVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FAKETEARS",
+        "FLING",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HELPINGHAND",
+        "LEAFSTORM",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MAGICALLEAF",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "PETALBLIZZARD",
+        "PLAYROUGH",
+        "PROTECT",
+        "REST",
+        "SEEDBOMB",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SWIFT",
+        "TAKEDOWN",
+        "TAUNT",
+        "THUNDERPUNCH",
+        "TRAILBLAZE",
+        "UTURN"
+    ],
+    "eggMoves": [],
+    "height": 0.9,
+    "weight": 12.2,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "PROTEAN"
+    ],
+    "baseTotal": 410,
+    "baseStats": [
+        61,
+        80,
+        63,
+        83,
+        60,
+        63
+    ],
+    "flags": [],
+    "name": "Floragato",
+    "species": "FLORAGATO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 144,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 907
+}

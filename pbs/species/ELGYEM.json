@@ -1,0 +1,168 @@
+{
+    "generation": 5,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            6,
+            "IMPRISON"
+        ],
+        [
+            12,
+            "TELEPORT"
+        ],
+        [
+            18,
+            "PSYBEAM"
+        ],
+        [
+            24,
+            "POWERSPLIT"
+        ],
+        [
+            24,
+            "GUARDSPLIT"
+        ],
+        [
+            30,
+            "HEADBUTT"
+        ],
+        [
+            36,
+            "ZENHEADBUTT"
+        ],
+        [
+            43,
+            "RECOVER"
+        ],
+        [
+            48,
+            "CALMMIND"
+        ],
+        [
+            54,
+            "WONDERROOM"
+        ],
+        [
+            60,
+            "PSYCHIC"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AGILITY",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COSMICPOWER",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "EMBARGO",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GRAVITY",
+        "GUARDSWAP",
+        "HIDDENPOWER",
+        "IMPRISON",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "METEORBEAM",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "STEELWING",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "ASTONISH",
+        "DESTINYBOND",
+        "DISABLE",
+        "PSYCHUP"
+    ],
+    "height": 0.5,
+    "weight": 9.0,
+    "abilities": [
+        "TELEPATHY",
+        "SYNCHRONIZE"
+    ],
+    "hiddenAbilitie": [
+        "ANALYTIC"
+    ],
+    "baseTotal": 335,
+    "baseStats": [
+        55,
+        55,
+        55,
+        30,
+        85,
+        55
+    ],
+    "flags": [],
+    "name": "Elgyem",
+    "species": "ELGYEM",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 67,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 605
+}

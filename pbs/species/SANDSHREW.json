@@ -1,0 +1,553 @@
+{
+    "generation": 1,
+    "primaryType": "GROUND",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            3,
+            "POISONSTING"
+        ],
+        [
+            6,
+            "SANDATTACK"
+        ],
+        [
+            9,
+            "ROLLOUT"
+        ],
+        [
+            12,
+            "FURYCUTTER"
+        ],
+        [
+            15,
+            "RAPIDSPIN"
+        ],
+        [
+            18,
+            "BULLDOZE"
+        ],
+        [
+            21,
+            "SWIFT"
+        ],
+        [
+            24,
+            "FURYSWIPES"
+        ],
+        [
+            27,
+            "AGILITY"
+        ],
+        [
+            30,
+            "SLASH"
+        ],
+        [
+            33,
+            "DIG"
+        ],
+        [
+            36,
+            "GYROBALL"
+        ],
+        [
+            39,
+            "SWORDSDANCE"
+        ],
+        [
+            42,
+            "SANDSTORM"
+        ],
+        [
+            45,
+            "EARTHQUAKE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "AMNESIA",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GYROBALL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LEECHLIFE",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELROLLER",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "THIEF",
+        "THROATCHOP",
+        "WORKUP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "COUNTER",
+        "CRUSHCLAW",
+        "FLAIL",
+        "HONECLAWS",
+        "METALCLAW",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NIGHTSLASH",
+        "RAPIDSPIN"
+    ],
+    "height": 0.6,
+    "weight": 12.0,
+    "abilities": [
+        "SANDVEIL"
+    ],
+    "hiddenAbilitie": [
+        "SANDRUSH"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        50,
+        75,
+        85,
+        40,
+        20,
+        30
+    ],
+    "flags": [],
+    "name": "Sandshrew",
+    "species": "SANDSHREW",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "GROUND",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "SCRATCH"
+                ],
+                [
+                    1,
+                    "DEFENSECURL"
+                ],
+                [
+                    3,
+                    "POISONSTING"
+                ],
+                [
+                    6,
+                    "SANDATTACK"
+                ],
+                [
+                    9,
+                    "ROLLOUT"
+                ],
+                [
+                    12,
+                    "FURYCUTTER"
+                ],
+                [
+                    15,
+                    "RAPIDSPIN"
+                ],
+                [
+                    18,
+                    "BULLDOZE"
+                ],
+                [
+                    21,
+                    "SWIFT"
+                ],
+                [
+                    24,
+                    "FURYSWIPES"
+                ],
+                [
+                    27,
+                    "AGILITY"
+                ],
+                [
+                    30,
+                    "SLASH"
+                ],
+                [
+                    33,
+                    "DIG"
+                ],
+                [
+                    36,
+                    "GYROBALL"
+                ],
+                [
+                    39,
+                    "SWORDSDANCE"
+                ],
+                [
+                    42,
+                    "SANDSTORM"
+                ],
+                [
+                    45,
+                    "EARTHQUAKE"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "AMNESIA",
+                "ATTRACT",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COUNTER",
+                "COVET",
+                "CUT",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DYNAMICPUNCH",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FLING",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GYROBALL",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LEECHLIFE",
+                "MIMIC",
+                "MUDSHOT",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "POISONJAB",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROCKCLIMB",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROLLOUT",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SANDTOMB",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SNORE",
+                "STEALTHROCK",
+                "STEELROLLER",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERFANG",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "THIEF",
+                "THROATCHOP",
+                "WORKUP",
+                "XSCISSOR"
+            ],
+            "eggMoves": [
+                "COUNTER",
+                "CRUSHCLAW",
+                "FLAIL",
+                "HONECLAWS",
+                "METALCLAW",
+                "MUDSHOT",
+                "MUDSLAP",
+                "NIGHTSLASH",
+                "RAPIDSPIN"
+            ],
+            "height": 0.6,
+            "weight": 12.0,
+            "abilities": [
+                "SANDVEIL"
+            ],
+            "hiddenAbilitie": [
+                "SANDRUSH"
+            ],
+            "baseTotal": 300,
+            "baseStats": [
+                50,
+                75,
+                85,
+                40,
+                20,
+                30
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Sandshrew"
+        },
+        {
+            "generation": 7,
+            "primaryType": "ICE",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    1,
+                    "SCRATCH"
+                ],
+                [
+                    1,
+                    "DEFENSECURL"
+                ],
+                [
+                    3,
+                    "BIDE"
+                ],
+                [
+                    5,
+                    "POWDERSNOW"
+                ],
+                [
+                    7,
+                    "ICEBALL"
+                ],
+                [
+                    9,
+                    "RAPIDSPIN"
+                ],
+                [
+                    11,
+                    "FURYCUTTER"
+                ],
+                [
+                    14,
+                    "METALCLAW"
+                ],
+                [
+                    17,
+                    "SWIFT"
+                ],
+                [
+                    20,
+                    "FURYSWIPES"
+                ],
+                [
+                    23,
+                    "IRONDEFENSE"
+                ],
+                [
+                    26,
+                    "SLASH"
+                ],
+                [
+                    30,
+                    "IRONHEAD"
+                ],
+                [
+                    34,
+                    "GYROBALL"
+                ],
+                [
+                    38,
+                    "SWORDSDANCE"
+                ],
+                [
+                    42,
+                    "HAIL"
+                ],
+                [
+                    46,
+                    "BLIZZARD"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AMNESIA",
+                "AQUATAIL",
+                "ATTRACT",
+                "AURORAVEIL",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COUNTER",
+                "COVET",
+                "CUT",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DYNAMICPUNCH",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FLING",
+                "FOCUSPUNCH",
+                "FROSTBREATH",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GYROBALL",
+                "HAIL",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "ICEPUNCH",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LEECHLIFE",
+                "MIMIC",
+                "NATURALGIFT",
+                "POISONJAB",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROCKCLIMB",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROLLOUT",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SNORE",
+                "STEALTHROCK",
+                "STEELBEAM",
+                "STEELROLLER",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERFANG",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "THIEF",
+                "THROATCHOP",
+                "TRIPLEAXEL",
+                "WORKUP",
+                "XSCISSOR"
+            ],
+            "eggMoves": [
+                "AMNESIA",
+                "CHIPAWAY",
+                "COUNTER",
+                "CRUSHCLAW",
+                "CURSE",
+                "ENDURE",
+                "FLAIL",
+                "HONECLAWS",
+                "ICICLECRASH",
+                "ICICLESPEAR",
+                "METALCLAW",
+                "NIGHTSLASH"
+            ],
+            "height": 0.7,
+            "weight": 40.0,
+            "abilities": [
+                "SNOWCLOAK"
+            ],
+            "hiddenAbilitie": [
+                "SLUSHRUSH"
+            ],
+            "baseTotal": 300,
+            "baseStats": [
+                50,
+                75,
+                90,
+                40,
+                10,
+                35
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Alola"
+        }
+    ],
+    "internationalPokedex": 27
+}

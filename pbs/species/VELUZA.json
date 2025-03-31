@@ -1,0 +1,131 @@
+{
+    "generation": 9,
+    "primaryType": "WATER",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "AQUAJET"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            7,
+            "PLUCK"
+        ],
+        [
+            11,
+            "WATERPULSE"
+        ],
+        [
+            15,
+            "FOCUSENERGY"
+        ],
+        [
+            20,
+            "SLASH"
+        ],
+        [
+            25,
+            "AQUACUTTER"
+        ],
+        [
+            30,
+            "FILLETAWAY"
+        ],
+        [
+            35,
+            "NIGHTSLASH"
+        ],
+        [
+            40,
+            "PSYCHOCUT"
+        ],
+        [
+            45,
+            "LIQUIDATION"
+        ],
+        [
+            50,
+            "CRUNCH"
+        ],
+        [
+            55,
+            "FINALGAMBIT"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "BLIZZARD",
+        "BODYSLAM",
+        "CHILLINGWATER",
+        "CRUNCH",
+        "DOUBLEEDGE",
+        "DRILLRUN",
+        "ENDEAVOR",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FLIPTURN",
+        "GIGAIMPACT",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICYWIND",
+        "LIQUIDATION",
+        "PAINSPLIT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICFANGS",
+        "PSYCHICTERRAIN",
+        "RAINDANCE",
+        "REST",
+        "SCALESHOT",
+        "SLEEPTALK",
+        "SNOWSCAPE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SURF",
+        "TAKEDOWN",
+        "WATERFALL",
+        "WATERPULSE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "RECOVER",
+        "THRASH"
+    ],
+    "height": 2.5,
+    "weight": 90.0,
+    "abilities": [
+        "MOLDBREAKER"
+    ],
+    "hiddenAbilitie": [
+        "SHARPNESS"
+    ],
+    "baseTotal": 478,
+    "baseStats": [
+        90,
+        102,
+        73,
+        70,
+        78,
+        65
+    ],
+    "flags": [],
+    "name": "Veluza",
+    "species": "VELUZA",
+    "catchRate": 100,
+    "happiness": 50,
+    "baseExp": 167,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 976
+}

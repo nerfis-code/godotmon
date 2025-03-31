@@ -1,0 +1,173 @@
+{
+    "generation": 5,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "PSYCHICTERRAIN"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "IMPRISON"
+        ],
+        [
+            1,
+            "TELEPORT"
+        ],
+        [
+            18,
+            "PSYBEAM"
+        ],
+        [
+            24,
+            "POWERSPLIT"
+        ],
+        [
+            24,
+            "GUARDSPLIT"
+        ],
+        [
+            30,
+            "HEADBUTT"
+        ],
+        [
+            36,
+            "ZENHEADBUTT"
+        ],
+        [
+            45,
+            "RECOVER"
+        ],
+        [
+            52,
+            "CALMMIND"
+        ],
+        [
+            60,
+            "WONDERROOM"
+        ],
+        [
+            68,
+            "PSYCHIC"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AGILITY",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COSMICPOWER",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "EMBARGO",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "METEORBEAM",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "STEELWING",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRIATTACK",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 34.5,
+    "abilities": [
+        "TELEPATHY",
+        "SYNCHRONIZE"
+    ],
+    "hiddenAbilitie": [
+        "ANALYTIC"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        75,
+        75,
+        75,
+        40,
+        125,
+        95
+    ],
+    "flags": [],
+    "name": "Beheeyem",
+    "species": "BEHEEYEM",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 606
+}

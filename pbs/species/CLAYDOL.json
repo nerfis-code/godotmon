@@ -1,0 +1,198 @@
+{
+    "generation": 3,
+    "primaryType": "GROUND",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "HYPERBEAM"
+        ],
+        [
+            1,
+            "TELEPORT"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "RAPIDSPIN"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            9,
+            "ROCKTOMB"
+        ],
+        [
+            12,
+            "POWERTRICK"
+        ],
+        [
+            15,
+            "PSYBEAM"
+        ],
+        [
+            18,
+            "ANCIENTPOWER"
+        ],
+        [
+            21,
+            "IMPRISON"
+        ],
+        [
+            24,
+            "COSMICPOWER"
+        ],
+        [
+            27,
+            "EXTRASENSORY"
+        ],
+        [
+            30,
+            "EARTHPOWER"
+        ],
+        [
+            33,
+            "SELFDESTRUCT"
+        ],
+        [
+            38,
+            "GUARDSPLIT"
+        ],
+        [
+            38,
+            "POWERSPLIT"
+        ],
+        [
+            43,
+            "SANDSTORM"
+        ],
+        [
+            48,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ANCIENTPOWER",
+        "BODYPRESS",
+        "BULLDOZE",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COSMICPOWER",
+        "DAZZLINGGLEAM",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DRILLRUN",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "EERIEIMPULSE",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GUARDSWAP",
+        "GYROBALL",
+        "HEADBUTT",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHICTERRAIN",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "STOREDPOWER",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "TRICK",
+        "TRICKROOM",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 108.0,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 500,
+    "baseStats": [
+        60,
+        70,
+        105,
+        75,
+        70,
+        120
+    ],
+    "flags": [],
+    "name": "Claydol",
+    "species": "CLAYDOL",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 344
+}

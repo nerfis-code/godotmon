@@ -1,0 +1,154 @@
+{
+    "generation": 6,
+    "primaryType": "FAIRY",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            3,
+            "PLAYNICE"
+        ],
+        [
+            6,
+            "FAIRYWIND"
+        ],
+        [
+            9,
+            "AROMATHERAPY"
+        ],
+        [
+            12,
+            "DRAININGKISS"
+        ],
+        [
+            15,
+            "FAKETEARS"
+        ],
+        [
+            18,
+            "ROUND"
+        ],
+        [
+            21,
+            "STRINGSHOT"
+        ],
+        [
+            24,
+            "COTTONSPORE"
+        ],
+        [
+            27,
+            "ENERGYBALL"
+        ],
+        [
+            30,
+            "WISH"
+        ],
+        [
+            33,
+            "PLAYROUGH"
+        ],
+        [
+            36,
+            "COTTONGUARD"
+        ],
+        [
+            39,
+            "ENDEAVOR"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AMNESIA",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DREAMEATER",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FAKETEARS",
+        "FLAMETHROWER",
+        "FLASH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "THIEF",
+        "THUNDERBOLT",
+        "TOXIC"
+    ],
+    "eggMoves": [
+        "AFTERYOU",
+        "COPYCAT",
+        "STICKYWEB",
+        "YAWN"
+    ],
+    "height": 0.4,
+    "weight": 3.5,
+    "abilities": [
+        "SWEETVEIL"
+    ],
+    "hiddenAbilitie": [
+        "UNBURDEN"
+    ],
+    "baseTotal": 341,
+    "baseStats": [
+        62,
+        48,
+        66,
+        49,
+        59,
+        57
+    ],
+    "flags": [],
+    "name": "Swirlix",
+    "species": "SWIRLIX",
+    "catchRate": 200,
+    "happiness": 50,
+    "baseExp": 68,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 684
+}

@@ -1,0 +1,156 @@
+{
+    "generation": 9,
+    "primaryType": "GROUND",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            4,
+            "ABSORB"
+        ],
+        [
+            8,
+            "POISONPOWDER"
+        ],
+        [
+            8,
+            "STUNSPORE"
+        ],
+        [
+            12,
+            "SUPERSONIC"
+        ],
+        [
+            15,
+            "TACKLE"
+        ],
+        [
+            16,
+            "MEGADRAIN"
+        ],
+        [
+            20,
+            "SCREECH"
+        ],
+        [
+            24,
+            "MUDSHOT"
+        ],
+        [
+            28,
+            "HEX"
+        ],
+        [
+            32,
+            "SEEDBOMB"
+        ],
+        [
+            36,
+            "SPORE"
+        ],
+        [
+            40,
+            "GROWTH"
+        ],
+        [
+            44,
+            "GIGADRAIN"
+        ],
+        [
+            48,
+            "EARTHPOWER"
+        ],
+        [
+            52,
+            "POWERWHIP"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "BULLETSEED",
+        "CONFUSERAY",
+        "DAZZLINGGLEAM",
+        "EARTHPOWER",
+        "ENDURE",
+        "ENERGYBALL",
+        "FLASHCANNON",
+        "FOULPLAY",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HEX",
+        "KNOCKOFF",
+        "LEAFSTORM",
+        "LIGHTSCREEN",
+        "LUNGE",
+        "MAGICALLEAF",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PAINSPLIT",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "SCARYFACE",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SOLARBEAM",
+        "SPIKES",
+        "SUBSTITUTE",
+        "SWIFT",
+        "TAUNT",
+        "TOXIC",
+        "TOXICSPIKES",
+        "TRAILBLAZE",
+        "TRICKROOM",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [
+        "ACUPRESSURE",
+        "KNOCKOFF",
+        "LEECHSEED",
+        "MIRRORCOAT",
+        "RAGEPOWDER",
+        "RAPIDSPIN",
+        "TICKLE",
+        "TOXIC"
+    ],
+    "height": 0.9,
+    "weight": 33.0,
+    "abilities": [
+        "MYCELIUMMIGHT"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 335,
+    "baseStats": [
+        40,
+        40,
+        35,
+        70,
+        50,
+        100
+    ],
+    "flags": [],
+    "name": "Toedscool",
+    "species": "TOEDSCOOL",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 67,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 948
+}

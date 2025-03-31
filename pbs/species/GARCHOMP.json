@@ -1,0 +1,498 @@
+{
+    "generation": 4,
+    "primaryType": "DRAGON",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            -1,
+            "CRUNCH"
+        ],
+        [
+            1,
+            "DUALCHOP"
+        ],
+        [
+            1,
+            "SANDTOMB"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            18,
+            "BULLDOZE"
+        ],
+        [
+            27,
+            "BITE"
+        ],
+        [
+            34,
+            "SLASH"
+        ],
+        [
+            42,
+            "DRAGONCLAW"
+        ],
+        [
+            52,
+            "DIG"
+        ],
+        [
+            62,
+            "SANDSTORM"
+        ],
+        [
+            72,
+            "TAKEDOWN"
+        ],
+        [
+            82,
+            "DRAGONRUSH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ATTRACT",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DUALCHOP",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FLAMETHROWER",
+        "FLING",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TWISTER",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 95.0,
+    "abilities": [
+        "SANDVEIL"
+    ],
+    "hiddenAbilitie": [
+        "ROUGHSKIN"
+    ],
+    "baseTotal": 600,
+    "baseStats": [
+        108,
+        130,
+        95,
+        102,
+        80,
+        85
+    ],
+    "flags": [],
+    "name": "Garchomp",
+    "species": "GARCHOMP",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 300,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 4,
+            "primaryType": "DRAGON",
+            "secondaryType": "GROUND",
+            "moves": [
+                [
+                    -1,
+                    "CRUNCH"
+                ],
+                [
+                    1,
+                    "DUALCHOP"
+                ],
+                [
+                    1,
+                    "SANDTOMB"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "SANDATTACK"
+                ],
+                [
+                    1,
+                    "DRAGONBREATH"
+                ],
+                [
+                    18,
+                    "BULLDOZE"
+                ],
+                [
+                    27,
+                    "BITE"
+                ],
+                [
+                    34,
+                    "SLASH"
+                ],
+                [
+                    42,
+                    "DRAGONCLAW"
+                ],
+                [
+                    52,
+                    "DIG"
+                ],
+                [
+                    62,
+                    "SANDSTORM"
+                ],
+                [
+                    72,
+                    "TAKEDOWN"
+                ],
+                [
+                    82,
+                    "DRAGONRUSH"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AQUATAIL",
+                "ATTRACT",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "CUT",
+                "DIG",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "DUALCHOP",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FLAMETHROWER",
+                "FLING",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "INCINERATE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "MIMIC",
+                "MUDSHOT",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "POISONJAB",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKCLIMB",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SANDTOMB",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SNORE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TWISTER",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [],
+            "height": 1.9,
+            "weight": 95.0,
+            "abilities": [
+                "SANDVEIL"
+            ],
+            "hiddenAbilitie": [
+                "ROUGHSKIN"
+            ],
+            "baseTotal": 600,
+            "baseStats": [
+                108,
+                130,
+                95,
+                102,
+                80,
+                85
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Garchomp"
+        },
+        {
+            "generation": 6,
+            "primaryType": "DRAGON",
+            "secondaryType": "GROUND",
+            "moves": [
+                [
+                    -1,
+                    "CRUNCH"
+                ],
+                [
+                    1,
+                    "DUALCHOP"
+                ],
+                [
+                    1,
+                    "SANDTOMB"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "SANDATTACK"
+                ],
+                [
+                    1,
+                    "DRAGONBREATH"
+                ],
+                [
+                    18,
+                    "BULLDOZE"
+                ],
+                [
+                    27,
+                    "BITE"
+                ],
+                [
+                    34,
+                    "SLASH"
+                ],
+                [
+                    42,
+                    "DRAGONCLAW"
+                ],
+                [
+                    52,
+                    "DIG"
+                ],
+                [
+                    62,
+                    "SANDSTORM"
+                ],
+                [
+                    72,
+                    "TAKEDOWN"
+                ],
+                [
+                    82,
+                    "DRAGONRUSH"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AQUATAIL",
+                "ATTRACT",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "CUT",
+                "DIG",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "DUALCHOP",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FIREBLAST",
+                "FIREFANG",
+                "FLAMETHROWER",
+                "FLING",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "INCINERATE",
+                "IRONHEAD",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "MIMIC",
+                "MUDSHOT",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "POISONJAB",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKCLIMB",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SANDTOMB",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SCORCHINGSANDS",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SNORE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TWISTER",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [],
+            "height": 1.9,
+            "weight": 95.0,
+            "abilities": [
+                "SANDFORCE"
+            ],
+            "hiddenAbilitie": [
+                "SANDFORCE"
+            ],
+            "baseTotal": 700,
+            "baseStats": [
+                108,
+                170,
+                115,
+                92,
+                120,
+                95
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Garchomp"
+        }
+    ],
+    "internationalPokedex": 445
+}

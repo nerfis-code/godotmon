@@ -1,0 +1,447 @@
+{
+    "generation": 8,
+    "primaryType": "STEEL",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            6,
+            "ROCKSMASH"
+        ],
+        [
+            12,
+            "HONECLAWS"
+        ],
+        [
+            18,
+            "METALSOUND"
+        ],
+        [
+            24,
+            "BREAKINGSWIPE"
+        ],
+        [
+            30,
+            "DRAGONTAIL"
+        ],
+        [
+            36,
+            "IRONDEFENSE"
+        ],
+        [
+            42,
+            "LASERFOCUS"
+        ],
+        [
+            42,
+            "FOCUSENERGY"
+        ],
+        [
+            48,
+            "DRAGONCLAW"
+        ],
+        [
+            54,
+            "FLASHCANNON"
+        ],
+        [
+            60,
+            "METALBURST"
+        ],
+        [
+            66,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STEELROLLER",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC"
+    ],
+    "eggMoves": [
+        "MIRRORCOAT",
+        "NIGHTSLASH",
+        "SLASH"
+    ],
+    "height": 1.8,
+    "weight": 40.0,
+    "abilities": [
+        "LIGHTMETAL",
+        "HEAVYMETAL"
+    ],
+    "hiddenAbilitie": [
+        "STALWART"
+    ],
+    "baseTotal": 535,
+    "baseStats": [
+        70,
+        95,
+        115,
+        85,
+        120,
+        50
+    ],
+    "flags": [],
+    "name": "Duraludon",
+    "species": "DURALUDON",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 187,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "STEEL",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    1,
+                    "METALCLAW"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    6,
+                    "ROCKSMASH"
+                ],
+                [
+                    12,
+                    "HONECLAWS"
+                ],
+                [
+                    18,
+                    "METALSOUND"
+                ],
+                [
+                    24,
+                    "BREAKINGSWIPE"
+                ],
+                [
+                    30,
+                    "DRAGONTAIL"
+                ],
+                [
+                    36,
+                    "IRONDEFENSE"
+                ],
+                [
+                    42,
+                    "LASERFOCUS"
+                ],
+                [
+                    42,
+                    "FOCUSENERGY"
+                ],
+                [
+                    48,
+                    "DRAGONCLAW"
+                ],
+                [
+                    54,
+                    "FLASHCANNON"
+                ],
+                [
+                    60,
+                    "METALBURST"
+                ],
+                [
+                    66,
+                    "HYPERBEAM"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRICKBREAK",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONPULSE",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SCARYFACE",
+                "SCREECH",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STEELBEAM",
+                "STEELROLLER",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TOXIC"
+            ],
+            "eggMoves": [
+                "MIRRORCOAT",
+                "NIGHTSLASH",
+                "SLASH"
+            ],
+            "height": 1.8,
+            "weight": 40.0,
+            "abilities": [
+                "LIGHTMETAL",
+                "HEAVYMETAL"
+            ],
+            "hiddenAbilitie": [
+                "STALWART"
+            ],
+            "baseTotal": 535,
+            "baseStats": [
+                70,
+                95,
+                115,
+                85,
+                120,
+                50
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Duraludon"
+        },
+        {
+            "generation": 8,
+            "primaryType": "STEEL",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    1,
+                    "METALCLAW"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    6,
+                    "ROCKSMASH"
+                ],
+                [
+                    12,
+                    "HONECLAWS"
+                ],
+                [
+                    18,
+                    "METALSOUND"
+                ],
+                [
+                    24,
+                    "BREAKINGSWIPE"
+                ],
+                [
+                    30,
+                    "DRAGONTAIL"
+                ],
+                [
+                    36,
+                    "IRONDEFENSE"
+                ],
+                [
+                    42,
+                    "LASERFOCUS"
+                ],
+                [
+                    42,
+                    "FOCUSENERGY"
+                ],
+                [
+                    48,
+                    "DRAGONCLAW"
+                ],
+                [
+                    54,
+                    "FLASHCANNON"
+                ],
+                [
+                    60,
+                    "METALBURST"
+                ],
+                [
+                    66,
+                    "HYPERBEAM"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRICKBREAK",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONPULSE",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SCARYFACE",
+                "SCREECH",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SOLARBEAM",
+                "STEALTHROCK",
+                "STEELBEAM",
+                "STEELROLLER",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TOXIC"
+            ],
+            "eggMoves": [
+                "MIRRORCOAT",
+                "NIGHTSLASH",
+                "SLASH"
+            ],
+            "height": 43.0,
+            "weight": 40.0,
+            "abilities": [
+                "LIGHTMETAL",
+                "HEAVYMETAL"
+            ],
+            "hiddenAbilitie": [
+                "STALWART"
+            ],
+            "baseTotal": 535,
+            "baseStats": [
+                70,
+                95,
+                115,
+                85,
+                120,
+                50
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 884
+}

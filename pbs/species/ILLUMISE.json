@@ -1,0 +1,180 @@
+{
+    "generation": 3,
+    "primaryType": "BUG",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "PLAYNICE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "SWEETSCENT"
+        ],
+        [
+            9,
+            "CHARM"
+        ],
+        [
+            12,
+            "QUICKATTACK"
+        ],
+        [
+            15,
+            "STRUGGLEBUG"
+        ],
+        [
+            19,
+            "MOONLIGHT"
+        ],
+        [
+            22,
+            "WISH"
+        ],
+        [
+            26,
+            "ENCORE"
+        ],
+        [
+            29,
+            "FLATTER"
+        ],
+        [
+            33,
+            "ZENHEADBUTT"
+        ],
+        [
+            36,
+            "HELPINGHAND"
+        ],
+        [
+            40,
+            "BUGBUZZ"
+        ],
+        [
+            43,
+            "PLAYROUGH"
+        ],
+        [
+            47,
+            "COVET"
+        ],
+        [
+            47,
+            "INFESTATION"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "INFESTATION",
+        "LIGHTSCREEN",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "UTURN",
+        "WATERPULSE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "AROMATHERAPY",
+        "BATONPASS",
+        "CONFUSERAY",
+        "ENCORE",
+        "FAKETEARS",
+        "GROWTH"
+    ],
+    "height": 0.6,
+    "weight": 17.7,
+    "abilities": [
+        "OBLIVIOUS",
+        "TINTEDLENS"
+    ],
+    "hiddenAbilitie": [
+        "PRANKSTER"
+    ],
+    "baseTotal": 430,
+    "baseStats": [
+        65,
+        47,
+        75,
+        85,
+        73,
+        85
+    ],
+    "flags": [],
+    "name": "Illumise",
+    "species": "ILLUMISE",
+    "catchRate": 150,
+    "happiness": 50,
+    "baseExp": 151,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "FLUCTUATING",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 314
+}

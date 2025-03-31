@@ -1,0 +1,432 @@
+{
+    "generation": 8,
+    "primaryType": "POISON",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "POISONTAIL"
+        ],
+        [
+            1,
+            "CONFUSERAY"
+        ],
+        [
+            1,
+            "DRAGONTAIL"
+        ],
+        [
+            1,
+            "AGILITY"
+        ],
+        [
+            8,
+            "TOXIC"
+        ],
+        [
+            16,
+            "VENOSHOCK"
+        ],
+        [
+            24,
+            "DRAGONDANCE"
+        ],
+        [
+            32,
+            "CROSSPOISON"
+        ],
+        [
+            40,
+            "DRAGONPULSE"
+        ],
+        [
+            48,
+            "FLAMETHROWER"
+        ],
+        [
+            56,
+            "DYNAMAXCANNON"
+        ],
+        [
+            64,
+            "COSMICPOWER"
+        ],
+        [
+            72,
+            "RECOVER"
+        ],
+        [
+            80,
+            "HYPERBEAM"
+        ],
+        [
+            88,
+            "ETERNABEAM"
+        ],
+        [
+            88,
+            "OUTRAGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ASSURANCE",
+        "BRUTALSWING",
+        "CONFIDE",
+        "COSMICPOWER",
+        "CROSSPOISON",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FLAMETHROWER",
+        "FLASHCANNON",
+        "FLY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LIGHTSCREEN",
+        "METEORBEAM",
+        "MIMIC",
+        "MYSTICALFIRE",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC",
+        "TOXICSPIKES",
+        "VENOMDRENCH",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 20.0,
+    "weight": 950.0,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 690,
+    "baseStats": [
+        140,
+        85,
+        95,
+        130,
+        145,
+        95
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Eternatus",
+    "species": "ETERNATUS",
+    "catchRate": 255,
+    "happiness": 0,
+    "baseExp": 345,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "POISON",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    1,
+                    "POISONTAIL"
+                ],
+                [
+                    1,
+                    "CONFUSERAY"
+                ],
+                [
+                    1,
+                    "DRAGONTAIL"
+                ],
+                [
+                    1,
+                    "AGILITY"
+                ],
+                [
+                    8,
+                    "TOXIC"
+                ],
+                [
+                    16,
+                    "VENOSHOCK"
+                ],
+                [
+                    24,
+                    "DRAGONDANCE"
+                ],
+                [
+                    32,
+                    "CROSSPOISON"
+                ],
+                [
+                    40,
+                    "DRAGONPULSE"
+                ],
+                [
+                    48,
+                    "FLAMETHROWER"
+                ],
+                [
+                    56,
+                    "DYNAMAXCANNON"
+                ],
+                [
+                    64,
+                    "COSMICPOWER"
+                ],
+                [
+                    72,
+                    "RECOVER"
+                ],
+                [
+                    80,
+                    "HYPERBEAM"
+                ],
+                [
+                    88,
+                    "ETERNABEAM"
+                ],
+                [
+                    88,
+                    "OUTRAGE"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ASSURANCE",
+                "BRUTALSWING",
+                "CONFIDE",
+                "COSMICPOWER",
+                "CROSSPOISON",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "ENDURE",
+                "FACADE",
+                "FLAMETHROWER",
+                "FLASHCANNON",
+                "FLY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "LIGHTSCREEN",
+                "METEORBEAM",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "PAYBACK",
+                "POISONJAB",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SCARYFACE",
+                "SCREECH",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TOXIC",
+                "TOXICSPIKES",
+                "VENOMDRENCH",
+                "VENOSHOCK"
+            ],
+            "eggMoves": [],
+            "height": 20.0,
+            "weight": 950.0,
+            "abilities": [
+                "PRESSURE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 690,
+            "baseStats": [
+                140,
+                85,
+                95,
+                130,
+                145,
+                95
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 0,
+            "formName": "Eternatus"
+        },
+        {
+            "generation": 8,
+            "primaryType": "POISON",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    1,
+                    "POISONTAIL"
+                ],
+                [
+                    1,
+                    "CONFUSERAY"
+                ],
+                [
+                    1,
+                    "DRAGONTAIL"
+                ],
+                [
+                    1,
+                    "AGILITY"
+                ],
+                [
+                    8,
+                    "TOXIC"
+                ],
+                [
+                    16,
+                    "VENOSHOCK"
+                ],
+                [
+                    24,
+                    "DRAGONDANCE"
+                ],
+                [
+                    32,
+                    "CROSSPOISON"
+                ],
+                [
+                    40,
+                    "DRAGONPULSE"
+                ],
+                [
+                    48,
+                    "FLAMETHROWER"
+                ],
+                [
+                    56,
+                    "DYNAMAXCANNON"
+                ],
+                [
+                    64,
+                    "COSMICPOWER"
+                ],
+                [
+                    72,
+                    "RECOVER"
+                ],
+                [
+                    80,
+                    "HYPERBEAM"
+                ],
+                [
+                    88,
+                    "ETERNABEAM"
+                ],
+                [
+                    88,
+                    "OUTRAGE"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ASSURANCE",
+                "BRUTALSWING",
+                "CONFIDE",
+                "COSMICPOWER",
+                "CROSSPOISON",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "ENDURE",
+                "FACADE",
+                "FLAMETHROWER",
+                "FLASHCANNON",
+                "FLY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "LIGHTSCREEN",
+                "METEORBEAM",
+                "MIMIC",
+                "MYSTICALFIRE",
+                "NATURALGIFT",
+                "PAYBACK",
+                "POISONJAB",
+                "PROTECT",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SCARYFACE",
+                "SCREECH",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SWAGGER",
+                "TOXIC",
+                "TOXICSPIKES",
+                "VENOMDRENCH",
+                "VENOSHOCK"
+            ],
+            "eggMoves": [],
+            "height": 100.0,
+            "weight": 950.0,
+            "abilities": [
+                "PRESSURE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 1125,
+            "baseStats": [
+                255,
+                115,
+                250,
+                130,
+                125,
+                250
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 1,
+            "formName": "Eternamax"
+        }
+    ],
+    "internationalPokedex": 890
+}

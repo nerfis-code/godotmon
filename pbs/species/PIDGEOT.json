@@ -1,0 +1,401 @@
+{
+    "generation": 1,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "SANDATTACK"
+        ],
+        [
+            9,
+            "GUST"
+        ],
+        [
+            13,
+            "QUICKATTACK"
+        ],
+        [
+            17,
+            "WHIRLWIND"
+        ],
+        [
+            22,
+            "TWISTER"
+        ],
+        [
+            27,
+            "FEATHERDANCE"
+        ],
+        [
+            32,
+            "AGILITY"
+        ],
+        [
+            38,
+            "WINGATTACK"
+        ],
+        [
+            44,
+            "ROOST"
+        ],
+        [
+            50,
+            "TAILWIND"
+        ],
+        [
+            56,
+            "AERIALACE"
+        ],
+        [
+            62,
+            "AIRSLASH"
+        ],
+        [
+            68,
+            "HURRICANE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LASERFOCUS",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TWISTER",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 39.5,
+    "abilities": [
+        "KEENEYE",
+        "TANGLEDFEET"
+    ],
+    "hiddenAbilitie": [
+        "BIGPECKS"
+    ],
+    "baseTotal": 479,
+    "baseStats": [
+        83,
+        80,
+        75,
+        101,
+        70,
+        70
+    ],
+    "flags": [],
+    "name": "Pidgeot",
+    "species": "PIDGEOT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 240,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "NORMAL",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    5,
+                    "SANDATTACK"
+                ],
+                [
+                    9,
+                    "GUST"
+                ],
+                [
+                    13,
+                    "QUICKATTACK"
+                ],
+                [
+                    17,
+                    "WHIRLWIND"
+                ],
+                [
+                    22,
+                    "TWISTER"
+                ],
+                [
+                    27,
+                    "FEATHERDANCE"
+                ],
+                [
+                    32,
+                    "AGILITY"
+                ],
+                [
+                    38,
+                    "WINGATTACK"
+                ],
+                [
+                    44,
+                    "ROOST"
+                ],
+                [
+                    50,
+                    "TAILWIND"
+                ],
+                [
+                    56,
+                    "AERIALACE"
+                ],
+                [
+                    62,
+                    "AIRSLASH"
+                ],
+                [
+                    68,
+                    "HURRICANE"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRCUTTER",
+                "ATTRACT",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "LASERFOCUS",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PLUCK",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SECRETPOWER",
+                "SKYATTACK",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "THIEF",
+                "TWISTER",
+                "UPROAR",
+                "UTURN",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 1.5,
+            "weight": 39.5,
+            "abilities": [
+                "KEENEYE",
+                "TANGLEDFEET"
+            ],
+            "hiddenAbilitie": [
+                "BIGPECKS"
+            ],
+            "baseTotal": 479,
+            "baseStats": [
+                83,
+                80,
+                75,
+                101,
+                70,
+                70
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Pidgeot"
+        },
+        {
+            "generation": 6,
+            "primaryType": "NORMAL",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    5,
+                    "SANDATTACK"
+                ],
+                [
+                    9,
+                    "GUST"
+                ],
+                [
+                    13,
+                    "QUICKATTACK"
+                ],
+                [
+                    17,
+                    "WHIRLWIND"
+                ],
+                [
+                    22,
+                    "TWISTER"
+                ],
+                [
+                    27,
+                    "FEATHERDANCE"
+                ],
+                [
+                    32,
+                    "AGILITY"
+                ],
+                [
+                    38,
+                    "WINGATTACK"
+                ],
+                [
+                    44,
+                    "ROOST"
+                ],
+                [
+                    50,
+                    "TAILWIND"
+                ],
+                [
+                    56,
+                    "AERIALACE"
+                ],
+                [
+                    62,
+                    "AIRSLASH"
+                ],
+                [
+                    68,
+                    "HURRICANE"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AIRCUTTER",
+                "ATTRACT",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFOG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FLY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HEATWAVE",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "LASERFOCUS",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PLUCK",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROOST",
+                "ROUND",
+                "SECRETPOWER",
+                "SKYATTACK",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TAILWIND",
+                "THIEF",
+                "TWISTER",
+                "UPROAR",
+                "UTURN",
+                "WORKUP"
+            ],
+            "eggMoves": [],
+            "height": 2.2,
+            "weight": 50.5,
+            "abilities": [
+                "NOGUARD"
+            ],
+            "hiddenAbilitie": [
+                "NOGUARD"
+            ],
+            "baseTotal": 579,
+            "baseStats": [
+                83,
+                80,
+                80,
+                121,
+                135,
+                80
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Pidgeot"
+        }
+    ],
+    "internationalPokedex": 18
+}

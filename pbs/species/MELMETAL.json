@@ -1,0 +1,429 @@
+{
+    "generation": 7,
+    "primaryType": "STEEL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "THUNDERPUNCH"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "HEADBUTT"
+        ],
+        [
+            24,
+            "THUNDERWAVE"
+        ],
+        [
+            32,
+            "ACIDARMOR"
+        ],
+        [
+            40,
+            "FLASHCANNON"
+        ],
+        [
+            48,
+            "MEGAPUNCH"
+        ],
+        [
+            56,
+            "PROTECT"
+        ],
+        [
+            64,
+            "DISCHARGE"
+        ],
+        [
+            72,
+            "DYNAMICPUNCH"
+        ],
+        [
+            80,
+            "SUPERPOWER"
+        ],
+        [
+            88,
+            "DOUBLEIRONBASH"
+        ],
+        [
+            96,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "CONFIDE",
+        "DARKESTLARIAT",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ELECTRICTERRAIN",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HEADBUTT",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELBEAM",
+        "STEELROLLER",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TOXIC"
+    ],
+    "eggMoves": [],
+    "height": 2.5,
+    "weight": 800.0,
+    "abilities": [
+        "IRONFIST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        135,
+        143,
+        143,
+        34,
+        80,
+        65
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Melmetal",
+    "species": "MELMETAL",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 300,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 7,
+            "primaryType": "STEEL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "THUNDERPUNCH"
+                ],
+                [
+                    1,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "HEADBUTT"
+                ],
+                [
+                    24,
+                    "THUNDERWAVE"
+                ],
+                [
+                    32,
+                    "ACIDARMOR"
+                ],
+                [
+                    40,
+                    "FLASHCANNON"
+                ],
+                [
+                    48,
+                    "MEGAPUNCH"
+                ],
+                [
+                    56,
+                    "PROTECT"
+                ],
+                [
+                    64,
+                    "DISCHARGE"
+                ],
+                [
+                    72,
+                    "DYNAMICPUNCH"
+                ],
+                [
+                    80,
+                    "SUPERPOWER"
+                ],
+                [
+                    88,
+                    "DOUBLEIRONBASH"
+                ],
+                [
+                    96,
+                    "HYPERBEAM"
+                ]
+            ],
+            "tutorMoves": [
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "CONFIDE",
+                "DARKESTLARIAT",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ELECTRICTERRAIN",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HEADBUTT",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICEPUNCH",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEELBEAM",
+                "STEELROLLER",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SWAGGER",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "TOXIC"
+            ],
+            "eggMoves": [],
+            "height": 2.5,
+            "weight": 800.0,
+            "abilities": [
+                "IRONFIST"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                135,
+                143,
+                143,
+                34,
+                80,
+                65
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 0,
+            "formName": "Melmetal"
+        },
+        {
+            "generation": 8,
+            "primaryType": "STEEL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "THUNDERPUNCH"
+                ],
+                [
+                    1,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    1,
+                    "HEADBUTT"
+                ],
+                [
+                    24,
+                    "THUNDERWAVE"
+                ],
+                [
+                    32,
+                    "ACIDARMOR"
+                ],
+                [
+                    40,
+                    "FLASHCANNON"
+                ],
+                [
+                    48,
+                    "MEGAPUNCH"
+                ],
+                [
+                    56,
+                    "PROTECT"
+                ],
+                [
+                    64,
+                    "DISCHARGE"
+                ],
+                [
+                    72,
+                    "DYNAMICPUNCH"
+                ],
+                [
+                    80,
+                    "SUPERPOWER"
+                ],
+                [
+                    88,
+                    "DOUBLEIRONBASH"
+                ],
+                [
+                    96,
+                    "HYPERBEAM"
+                ]
+            ],
+            "tutorMoves": [
+                "BODYPRESS",
+                "BODYSLAM",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "CONFIDE",
+                "DARKESTLARIAT",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ELECTRICTERRAIN",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HEADBUTT",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICEPUNCH",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "STEELBEAM",
+                "STEELROLLER",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SWAGGER",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "TOXIC"
+            ],
+            "eggMoves": [],
+            "height": 25.0,
+            "weight": 800.0,
+            "abilities": [
+                "IRONFIST"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                135,
+                143,
+                143,
+                34,
+                80,
+                65
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 809
+}

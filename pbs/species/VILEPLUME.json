@@ -1,0 +1,157 @@
+{
+    "generation": 1,
+    "primaryType": "GRASS",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            -1,
+            "PETALBLIZZARD"
+        ],
+        [
+            1,
+            "AROMATHERAPY"
+        ],
+        [
+            1,
+            "MEGADRAIN"
+        ],
+        [
+            1,
+            "POISONPOWDER"
+        ],
+        [
+            1,
+            "STUNSPORE"
+        ],
+        [
+            1,
+            "SLEEPPOWDER"
+        ],
+        [
+            1,
+            "GIGADRAIN"
+        ],
+        [
+            1,
+            "TOXIC"
+        ],
+        [
+            1,
+            "MOONBLAST"
+        ],
+        [
+            1,
+            "GRASSYTERRAIN"
+        ],
+        [
+            1,
+            "MOONLIGHT"
+        ],
+        [
+            1,
+            "PETALDANCE"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "ACID"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "CORROSIVEGAS",
+        "CUT",
+        "DAZZLINGGLEAM",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POLLENPUFF",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TOXIC",
+        "VENOSHOCK",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 18.6,
+    "abilities": [
+        "CHLOROPHYLL"
+    ],
+    "hiddenAbilitie": [
+        "EFFECTSPORE"
+    ],
+    "baseTotal": 490,
+    "baseStats": [
+        75,
+        80,
+        85,
+        50,
+        110,
+        90
+    ],
+    "flags": [],
+    "name": "Vileplume",
+    "species": "VILEPLUME",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 245,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 45
+}

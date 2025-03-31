@@ -1,0 +1,204 @@
+{
+    "generation": 6,
+    "primaryType": "FIGHTING",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HONECLAWS"
+        ],
+        [
+            4,
+            "WINGATTACK"
+        ],
+        [
+            8,
+            "DETECT"
+        ],
+        [
+            12,
+            "AERIALACE"
+        ],
+        [
+            16,
+            "ENCORE"
+        ],
+        [
+            20,
+            "FEATHERDANCE"
+        ],
+        [
+            24,
+            "SUBMISSION"
+        ],
+        [
+            24,
+            "BRICKBREAK"
+        ],
+        [
+            28,
+            "BOUNCE"
+        ],
+        [
+            32,
+            "TAUNT"
+        ],
+        [
+            36,
+            "ROOST"
+        ],
+        [
+            40,
+            "SWORDSDANCE"
+        ],
+        [
+            44,
+            "FLYINGPRESS"
+        ],
+        [
+            48,
+            "HIGHJUMPKICK"
+        ],
+        [
+            52,
+            "ENDEAVOR"
+        ],
+        [
+            56,
+            "SKYATTACK"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "ALLYSWITCH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "BODYPRESS",
+        "BOUNCE",
+        "BRAVEBIRD",
+        "BRICKBREAK",
+        "BULKUP",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "CUT",
+        "DEFOG",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "DUALWINGBEAT",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FIREPUNCH",
+        "FLING",
+        "FLY",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "IRONHEAD",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAILWIND",
+        "TAUNT",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "TOXIC",
+        "UTURN",
+        "WORKUP",
+        "XSCISSOR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "CROSSCHOP",
+        "DEFOG",
+        "ENTRAINMENT",
+        "FEINT",
+        "MEANLOOK",
+        "QUICKGUARD"
+    ],
+    "height": 0.8,
+    "weight": 21.5,
+    "abilities": [
+        "LIMBER",
+        "UNBURDEN"
+    ],
+    "hiddenAbilitie": [
+        "MOLDBREAKER"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        78,
+        92,
+        75,
+        118,
+        74,
+        63
+    ],
+    "flags": [],
+    "name": "Hawlucha",
+    "species": "HAWLUCHA",
+    "catchRate": 100,
+    "happiness": 50,
+    "baseExp": 175,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 701
+}

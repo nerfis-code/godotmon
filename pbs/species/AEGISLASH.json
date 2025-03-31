@@ -1,0 +1,449 @@
+{
+    "generation": 6,
+    "primaryType": "STEEL",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            0,
+            "KINGSSHIELD"
+        ],
+        [
+            1,
+            "HEADSMASH"
+        ],
+        [
+            1,
+            "AERIALACE"
+        ],
+        [
+            1,
+            "METALSOUND"
+        ],
+        [
+            1,
+            "SLASH"
+        ],
+        [
+            1,
+            "NIGHTSLASH"
+        ],
+        [
+            1,
+            "RETALIATE"
+        ],
+        [
+            1,
+            "IRONDEFENSE"
+        ],
+        [
+            1,
+            "IRONHEAD"
+        ],
+        [
+            1,
+            "POWERTRICK"
+        ],
+        [
+            1,
+            "SWORDSDANCE"
+        ],
+        [
+            1,
+            "SACREDSWORD"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "SHADOWSNEAK"
+        ],
+        [
+            1,
+            "AUTOTOMIZE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AFTERYOU",
+        "AIRSLASH",
+        "ATTRACT",
+        "BLOCK",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LASERFOCUS",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHOCUT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBLADE",
+        "SPITE",
+        "STEELBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TOXIC"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 53.0,
+    "abilities": [
+        "STANCECHANGE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 500,
+    "baseStats": [
+        60,
+        50,
+        140,
+        60,
+        50,
+        140
+    ],
+    "flags": [],
+    "name": "Aegislash",
+    "species": "AEGISLASH",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 250,
+    "evs": [
+        "DEFENSE",
+        2,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 6,
+            "primaryType": "STEEL",
+            "secondaryType": "GHOST",
+            "moves": [
+                [
+                    0,
+                    "KINGSSHIELD"
+                ],
+                [
+                    1,
+                    "HEADSMASH"
+                ],
+                [
+                    1,
+                    "AERIALACE"
+                ],
+                [
+                    1,
+                    "METALSOUND"
+                ],
+                [
+                    1,
+                    "SLASH"
+                ],
+                [
+                    1,
+                    "NIGHTSLASH"
+                ],
+                [
+                    1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "IRONDEFENSE"
+                ],
+                [
+                    1,
+                    "IRONHEAD"
+                ],
+                [
+                    1,
+                    "POWERTRICK"
+                ],
+                [
+                    1,
+                    "SWORDSDANCE"
+                ],
+                [
+                    1,
+                    "SACREDSWORD"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "FURYCUTTER"
+                ],
+                [
+                    1,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    1,
+                    "AUTOTOMIZE"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AFTERYOU",
+                "AIRSLASH",
+                "ATTRACT",
+                "BLOCK",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "CUT",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLASHCANNON",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASERFOCUS",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHOCUT",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBLADE",
+                "SPITE",
+                "STEELBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TOXIC"
+            ],
+            "eggMoves": [],
+            "height": 1.7,
+            "weight": 53.0,
+            "abilities": [
+                "STANCECHANGE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 500,
+            "baseStats": [
+                60,
+                50,
+                140,
+                60,
+                50,
+                140
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Escudo"
+        },
+        {
+            "generation": 6,
+            "primaryType": "STEEL",
+            "secondaryType": "GHOST",
+            "moves": [
+                [
+                    0,
+                    "KINGSSHIELD"
+                ],
+                [
+                    1,
+                    "HEADSMASH"
+                ],
+                [
+                    1,
+                    "AERIALACE"
+                ],
+                [
+                    1,
+                    "METALSOUND"
+                ],
+                [
+                    1,
+                    "SLASH"
+                ],
+                [
+                    1,
+                    "NIGHTSLASH"
+                ],
+                [
+                    1,
+                    "RETALIATE"
+                ],
+                [
+                    1,
+                    "IRONDEFENSE"
+                ],
+                [
+                    1,
+                    "IRONHEAD"
+                ],
+                [
+                    1,
+                    "POWERTRICK"
+                ],
+                [
+                    1,
+                    "SWORDSDANCE"
+                ],
+                [
+                    1,
+                    "SACREDSWORD"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "FURYCUTTER"
+                ],
+                [
+                    1,
+                    "SHADOWSNEAK"
+                ],
+                [
+                    1,
+                    "AUTOTOMIZE"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AFTERYOU",
+                "AIRSLASH",
+                "ATTRACT",
+                "BLOCK",
+                "BRICKBREAK",
+                "BRUTALSWING",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "CUT",
+                "DOUBLETEAM",
+                "ENDURE",
+                "FACADE",
+                "FALSESWIPE",
+                "FLASHCANNON",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "LASERFOCUS",
+                "MAGNETRISE",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "PSYCHOCUT",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBLADE",
+                "SPITE",
+                "STEELBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWORDSDANCE",
+                "TOXIC"
+            ],
+            "eggMoves": [],
+            "height": 1.7,
+            "weight": 53.0,
+            "abilities": [
+                "STANCECHANGE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 500,
+            "baseStats": [
+                60,
+                140,
+                50,
+                60,
+                140,
+                50
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Filo"
+        }
+    ],
+    "internationalPokedex": 681
+}

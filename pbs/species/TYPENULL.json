@@ -1,0 +1,141 @@
+{
+    "generation": 7,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "IMPRISON"
+        ],
+        [
+            5,
+            "AERIALACE"
+        ],
+        [
+            10,
+            "SCARYFACE"
+        ],
+        [
+            15,
+            "DOUBLEHIT"
+        ],
+        [
+            20,
+            "METALSOUND"
+        ],
+        [
+            25,
+            "CRUSHCLAW"
+        ],
+        [
+            30,
+            "AIRSLASH"
+        ],
+        [
+            35,
+            "TRIATTACK"
+        ],
+        [
+            40,
+            "XSCISSOR"
+        ],
+        [
+            45,
+            "IRONHEAD"
+        ],
+        [
+            50,
+            "TAKEDOWN"
+        ],
+        [
+            55,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRSLASH",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "ENDURE",
+        "FACADE",
+        "FLAMECHARGE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICYWIND",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LASTRESORT",
+        "MAGICCOAT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROUND",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TERRAINPULSE",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRIATTACK",
+        "UTURN",
+        "WORKUP",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 120.5,
+    "abilities": [
+        "BATTLEARMOR"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 534,
+    "baseStats": [
+        95,
+        95,
+        95,
+        59,
+        95,
+        95
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Código Cero",
+    "species": "TYPENULL",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 107,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 772
+}

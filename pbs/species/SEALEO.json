@@ -1,0 +1,158 @@
+{
+    "generation": 3,
+    "primaryType": "ICE",
+    "secondaryType": "WATER",
+    "moves": [
+        [
+            1,
+            "SWAGGER"
+        ],
+        [
+            1,
+            "ROLLOUT"
+        ],
+        [
+            1,
+            "DEFENSECURL"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            12,
+            "POWDERSNOW"
+        ],
+        [
+            16,
+            "REST"
+        ],
+        [
+            20,
+            "SNORE"
+        ],
+        [
+            24,
+            "BRINE"
+        ],
+        [
+            28,
+            "AURORABEAM"
+        ],
+        [
+            35,
+            "ENCORE"
+        ],
+        [
+            40,
+            "BODYSLAM"
+        ],
+        [
+            46,
+            "SURF"
+        ],
+        [
+            52,
+            "BLIZZARD"
+        ],
+        [
+            58,
+            "HAIL"
+        ],
+        [
+            64,
+            "SHEERCOLD"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRINE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELROLLER",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERFANG",
+        "SURF",
+        "SWAGGER",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 87.6,
+    "abilities": [
+        "THICKFAT",
+        "ICEBODY"
+    ],
+    "hiddenAbilitie": [
+        "OBLIVIOUS"
+    ],
+    "baseTotal": 410,
+    "baseStats": [
+        90,
+        60,
+        70,
+        45,
+        75,
+        70
+    ],
+    "flags": [],
+    "name": "Sealeo",
+    "species": "SEALEO",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 144,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 364
+}

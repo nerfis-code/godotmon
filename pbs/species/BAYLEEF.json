@@ -1,0 +1,157 @@
+{
+    "generation": 2,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "RAZORLEAF"
+        ],
+        [
+            1,
+            "POISONPOWDER"
+        ],
+        [
+            12,
+            "SYNTHESIS"
+        ],
+        [
+            18,
+            "REFLECT"
+        ],
+        [
+            22,
+            "MAGICALLEAF"
+        ],
+        [
+            26,
+            "NATUREPOWER"
+        ],
+        [
+            26,
+            "LEECHSEED"
+        ],
+        [
+            32,
+            "SWEETSCENT"
+        ],
+        [
+            36,
+            "LIGHTSCREEN"
+        ],
+        [
+            40,
+            "BODYSLAM"
+        ],
+        [
+            46,
+            "SAFEGUARD"
+        ],
+        [
+            50,
+            "AROMATHERAPY"
+        ],
+        [
+            50,
+            "GIGADRAIN"
+        ],
+        [
+            54,
+            "SOLARBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BODYSLAM",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 15.8,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "LEAFGUARD"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        60,
+        62,
+        80,
+        60,
+        63,
+        80
+    ],
+    "flags": [],
+    "name": "Bayleef",
+    "species": "BAYLEEF",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 142,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 153
+}

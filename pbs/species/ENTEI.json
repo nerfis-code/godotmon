@@ -1,0 +1,185 @@
+{
+    "generation": 2,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "SACREDFIRE"
+        ],
+        [
+            -1,
+            "EXTREMESPEED"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "STOMP"
+        ],
+        [
+            1,
+            "SMOKESCREEN"
+        ],
+        [
+            6,
+            "FLAMEWHEEL"
+        ],
+        [
+            12,
+            "BITE"
+        ],
+        [
+            18,
+            "CALMMIND"
+        ],
+        [
+            24,
+            "ROAR"
+        ],
+        [
+            30,
+            "FIREFANG"
+        ],
+        [
+            36,
+            "SCARYFACE"
+        ],
+        [
+            42,
+            "CRUNCH"
+        ],
+        [
+            48,
+            "EXTRASENSORY"
+        ],
+        [
+            54,
+            "LAVAPLUME"
+        ],
+        [
+            60,
+            "SWAGGER"
+        ],
+        [
+            66,
+            "SUNNYDAY"
+        ],
+        [
+            72,
+            "FIREBLAST"
+        ],
+        [
+            78,
+            "ERUPTION"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CALMMIND",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PROTECT",
+        "PSYCHUP",
+        "QUASH",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROAR",
+        "ROCKCLIMB",
+        "ROCKSMASH",
+        "ROUND",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "WEATHERBALL",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 2.1,
+    "weight": 198.0,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [
+        "INNERFOCUS"
+    ],
+    "baseTotal": 580,
+    "baseStats": [
+        115,
+        115,
+        85,
+        100,
+        90,
+        75
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Entei",
+    "species": "ENTEI",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "HP",
+        1,
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 244
+}

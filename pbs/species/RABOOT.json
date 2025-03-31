@@ -1,0 +1,133 @@
+{
+    "generation": 8,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            12,
+            "DOUBLEKICK"
+        ],
+        [
+            19,
+            "FLAMECHARGE"
+        ],
+        [
+            24,
+            "AGILITY"
+        ],
+        [
+            30,
+            "HEADBUTT"
+        ],
+        [
+            36,
+            "COUNTER"
+        ],
+        [
+            42,
+            "BOUNCE"
+        ],
+        [
+            48,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AGILITY",
+        "ALLYSWITCH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "BLAZEKICK",
+        "BOUNCE",
+        "BULKUP",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ELECTROBALL",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIREPLEDGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GUNKSHOT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TOXIC",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 9.0,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "LIBERO"
+    ],
+    "baseTotal": 420,
+    "baseStats": [
+        65,
+        86,
+        60,
+        94,
+        55,
+        60
+    ],
+    "flags": [],
+    "name": "Raboot",
+    "species": "RABOOT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 147,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 814
+}

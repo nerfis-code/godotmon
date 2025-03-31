@@ -1,0 +1,184 @@
+{
+    "generation": 8,
+    "primaryType": "GROUND",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            1,
+            "SHADOWCLAW"
+        ],
+        [
+            1,
+            "SCARYFACE"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "PROTECT"
+        ],
+        [
+            1,
+            "HAZE"
+        ],
+        [
+            1,
+            "NIGHTSHADE"
+        ],
+        [
+            12,
+            "DISABLE"
+        ],
+        [
+            16,
+            "BRUTALSWING"
+        ],
+        [
+            20,
+            "CRAFTYSHIELD"
+        ],
+        [
+            24,
+            "HEX"
+        ],
+        [
+            28,
+            "MEANLOOK"
+        ],
+        [
+            32,
+            "SLAM"
+        ],
+        [
+            38,
+            "CURSE"
+        ],
+        [
+            44,
+            "SHADOWBALL"
+        ],
+        [
+            50,
+            "EARTHQUAKE"
+        ],
+        [
+            56,
+            "POWERSPLIT"
+        ],
+        [
+            56,
+            "GUARDSPLIT"
+        ],
+        [
+            62,
+            "DESTINYBOND"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "AMNESIA",
+        "ATTRACT",
+        "BODYPRESS",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FAKETEARS",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUARDSWAP",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PHANTOMFORCE",
+        "POLTERGEIST",
+        "POWERSWAP",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "TOXIC",
+        "TOXICSPIKES",
+        "TRICK",
+        "TRICKROOM",
+        "WILLOWISP",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "MEMENTO"
+    ],
+    "height": 1.6,
+    "weight": 66.6,
+    "abilities": [
+        "WANDERINGSPIRIT"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 483,
+    "baseStats": [
+        58,
+        95,
+        145,
+        30,
+        50,
+        105
+    ],
+    "flags": [
+        "DefaultForm_1",
+        "InheritFormWithEverStone"
+    ],
+    "name": "Runerigus",
+    "species": "RUNERIGUS",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 169,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 867
+}

@@ -1,0 +1,173 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "BOUNCE"
+        ],
+        [
+            -1,
+            "SWAGGER"
+        ],
+        [
+            -1,
+            "HYPERVOICE"
+        ],
+        [
+            -1,
+            "PERISHSONG"
+        ],
+        [
+            -1,
+            "BUBBLEBEAM"
+        ],
+        [
+            -1,
+            "BODYSLAM"
+        ],
+        [
+            -1,
+            "EARTHPOWER"
+        ],
+        [
+            -1,
+            "WATERGUN"
+        ],
+        [
+            -1,
+            "HYPNOSIS"
+        ],
+        [
+            -1,
+            "MUDSHOT"
+        ],
+        [
+            1,
+            "RAINDANCE"
+        ],
+        [
+            1,
+            "HYDROPUMP"
+        ],
+        [
+            1,
+            "BELLYDRUM"
+        ],
+        [
+            1,
+            "DOUBLEEDGE"
+        ],
+        [
+            1,
+            "POUND"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "LIQUIDATION",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "THIEF",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 33.9,
+    "abilities": [
+        "WATERABSORB",
+        "DAMP"
+    ],
+    "hiddenAbilitie": [
+        "DRIZZLE"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        90,
+        75,
+        75,
+        70,
+        90,
+        100
+    ],
+    "flags": [],
+    "name": "Politoed",
+    "species": "POLITOED",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 250,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 186
+}

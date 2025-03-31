@@ -1,0 +1,180 @@
+{
+    "generation": 1,
+    "primaryType": "POISON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "CRUNCH"
+        ],
+        [
+            1,
+            "ICEFANG"
+        ],
+        [
+            1,
+            "THUNDERFANG"
+        ],
+        [
+            1,
+            "FIREFANG"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            12,
+            "GLARE"
+        ],
+        [
+            17,
+            "SCREECH"
+        ],
+        [
+            20,
+            "ACID"
+        ],
+        [
+            27,
+            "STOCKPILE"
+        ],
+        [
+            27,
+            "SWALLOW"
+        ],
+        [
+            27,
+            "SPITUP"
+        ],
+        [
+            32,
+            "ACIDSPRAY"
+        ],
+        [
+            39,
+            "SLUDGEBOMB"
+        ],
+        [
+            44,
+            "GASTROACID"
+        ],
+        [
+            48,
+            "BELCH"
+        ],
+        [
+            51,
+            "HAZE"
+        ],
+        [
+            56,
+            "COIL"
+        ],
+        [
+            63,
+            "GUNKSHOT"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "BIND",
+        "BODYSLAM",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONTAIL",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "IRONTAIL",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THIEF",
+        "THROATCHOP",
+        "TORMENT",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 3.5,
+    "weight": 65.0,
+    "abilities": [
+        "INTIMIDATE",
+        "SHEDSKIN"
+    ],
+    "hiddenAbilitie": [
+        "UNNERVE"
+    ],
+    "baseTotal": 448,
+    "baseStats": [
+        60,
+        95,
+        69,
+        80,
+        65,
+        79
+    ],
+    "flags": [],
+    "name": "Arbok",
+    "species": "ARBOK",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 157,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 24
+}

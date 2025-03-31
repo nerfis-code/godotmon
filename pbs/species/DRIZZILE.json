@@ -1,0 +1,123 @@
+{
+    "generation": 8,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "BIND"
+        ],
+        [
+            12,
+            "WATERPULSE"
+        ],
+        [
+            19,
+            "TEARFULLOOK"
+        ],
+        [
+            24,
+            "SUCKERPUNCH"
+        ],
+        [
+            30,
+            "UTURN"
+        ],
+        [
+            36,
+            "LIQUIDATION"
+        ],
+        [
+            42,
+            "SOAK"
+        ],
+        [
+            48,
+            "RAINDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BATONPASS",
+        "BOUNCE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TOXIC",
+        "UTURN",
+        "WATERPLEDGE",
+        "WEATHERBALL",
+        "WHIRLPOOL",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 11.5,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "SNIPER"
+    ],
+    "baseTotal": 420,
+    "baseStats": [
+        65,
+        60,
+        55,
+        90,
+        95,
+        55
+    ],
+    "flags": [],
+    "name": "Drizzile",
+    "species": "DRIZZILE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 147,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 817
+}

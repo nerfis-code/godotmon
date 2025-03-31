@@ -1,0 +1,121 @@
+{
+    "generation": 9,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            7,
+            "WORKUP"
+        ],
+        [
+            10,
+            "WINGATTACK"
+        ],
+        [
+            13,
+            "AQUAJET"
+        ],
+        [
+            17,
+            "DOUBLEHIT"
+        ],
+        [
+            21,
+            "AQUACUTTER"
+        ],
+        [
+            24,
+            "AIRSLASH"
+        ],
+        [
+            28,
+            "FOCUSENERGY"
+        ],
+        [
+            31,
+            "ACROBATICS"
+        ],
+        [
+            35,
+            "LIQUIDATION"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "BATONPASS",
+        "BRAVEBIRD",
+        "CHILLINGWATER",
+        "DISARMINGVOICE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "HELPINGHAND",
+        "HYDROPUMP",
+        "LIQUIDATION",
+        "LOWKICK",
+        "MISTYTERRAIN",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "SLEEPTALK",
+        "SUBSTITUTE",
+        "SURF",
+        "SWIFT",
+        "TAKEDOWN",
+        "WATERPLEDGE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "DETECT",
+        "LASTRESORT",
+        "RAPIDSPIN",
+        "ROOST"
+    ],
+    "height": 0.5,
+    "weight": 6.1,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "MOXIE"
+    ],
+    "baseTotal": 310,
+    "baseStats": [
+        55,
+        65,
+        45,
+        50,
+        50,
+        45
+    ],
+    "flags": [],
+    "name": "Quaxly",
+    "species": "QUAXLY",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 912
+}

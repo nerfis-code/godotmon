@@ -1,0 +1,194 @@
+{
+    "generation": 1,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "DRAINPUNCH"
+        ],
+        [
+            1,
+            "FEINT"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "FAKEOUT"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            4,
+            "MACHPUNCH"
+        ],
+        [
+            8,
+            "VACUUMWAVE"
+        ],
+        [
+            8,
+            "POWERUPPUNCH"
+        ],
+        [
+            12,
+            "DETECT"
+        ],
+        [
+            16,
+            "BULLETPUNCH"
+        ],
+        [
+            16,
+            "REVENGE"
+        ],
+        [
+            21,
+            "QUICKGUARD"
+        ],
+        [
+            24,
+            "THUNDERPUNCH"
+        ],
+        [
+            24,
+            "ICEPUNCH"
+        ],
+        [
+            24,
+            "FIREPUNCH"
+        ],
+        [
+            28,
+            "AGILITY"
+        ],
+        [
+            32,
+            "MEGAPUNCH"
+        ],
+        [
+            36,
+            "CLOSECOMBAT"
+        ],
+        [
+            40,
+            "COUNTER"
+        ],
+        [
+            44,
+            "FOCUSPUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "AURASPHERE",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "LASERFOCUS",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SNORE",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERPUNCH",
+        "UPROAR",
+        "VACUUMWAVE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 50.2,
+    "abilities": [
+        "KEENEYE",
+        "IRONFIST"
+    ],
+    "hiddenAbilitie": [
+        "INNERFOCUS"
+    ],
+    "baseTotal": 455,
+    "baseStats": [
+        50,
+        105,
+        79,
+        76,
+        35,
+        110
+    ],
+    "flags": [],
+    "name": "Hitmonchan",
+    "species": "HITMONCHAN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 159,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 0,
+    "forms": [],
+    "internationalPokedex": 107
+}

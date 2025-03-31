@@ -1,0 +1,187 @@
+{
+    "generation": 7,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POWERUPPUNCH"
+        ],
+        [
+            1,
+            "FAKEOUT"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "SNARL"
+        ],
+        [
+            1,
+            "SPARK"
+        ],
+        [
+            8,
+            "FURYSWIPES"
+        ],
+        [
+            16,
+            "QUICKGUARD"
+        ],
+        [
+            24,
+            "SLASH"
+        ],
+        [
+            32,
+            "VOLTSWITCH"
+        ],
+        [
+            40,
+            "CHARGE"
+        ],
+        [
+            48,
+            "THUNDERPUNCH"
+        ],
+        [
+            56,
+            "HONECLAWS"
+        ],
+        [
+            64,
+            "DISCHARGE"
+        ],
+        [
+            72,
+            "WILDCHARGE"
+        ],
+        [
+            80,
+            "AGILITY"
+        ],
+        [
+            88,
+            "PLASMAFISTS"
+        ],
+        [
+            96,
+            "CLOSECOMBAT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "ASSURANCE",
+        "AURASPHERE",
+        "BLAZEKICK",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "CALMMIND",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "ECHOEDVOICE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FIREPUNCH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYDAY",
+        "PLAYROUGH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "RISINGVOLTAGE",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWIFT",
+        "TAUNT",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TOXIC",
+        "VOLTSWITCH",
+        "WILDCHARGE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 44.5,
+    "abilities": [
+        "VOLTABSORB"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        88,
+        112,
+        75,
+        143,
+        102,
+        80
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Zeraora",
+    "species": "ZERAORA",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 300,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 807
+}

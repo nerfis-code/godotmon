@@ -1,0 +1,502 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "ROCK",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            5,
+            "WATERGUN"
+        ],
+        [
+            10,
+            "AQUARING"
+        ],
+        [
+            15,
+            "ENDURE"
+        ],
+        [
+            20,
+            "ANCIENTPOWER"
+        ],
+        [
+            25,
+            "BUBBLEBEAM"
+        ],
+        [
+            30,
+            "FLAIL"
+        ],
+        [
+            35,
+            "LIFEDEW"
+        ],
+        [
+            40,
+            "POWERGEM"
+        ],
+        [
+            45,
+            "EARTHPOWER"
+        ],
+        [
+            50,
+            "RECOVER"
+        ],
+        [
+            55,
+            "MIRRORCOAT"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRINE",
+        "BULLDOZE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FRUSTRATION",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "MAGICCOAT",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POWERGEM",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "THROATCHOP",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "AMNESIA",
+        "AQUARING",
+        "CONFUSERAY",
+        "CURSE",
+        "HEADSMASH",
+        "ICICLESPEAR",
+        "INGRAIN",
+        "LIQUIDATION",
+        "MIST",
+        "NATUREPOWER",
+        "SCREECH",
+        "WATERPULSE"
+    ],
+    "height": 0.6,
+    "weight": 5.0,
+    "abilities": [
+        "HUSTLE",
+        "NATURALCURE"
+    ],
+    "hiddenAbilitie": [
+        "REGENERATOR"
+    ],
+    "baseTotal": 410,
+    "baseStats": [
+        65,
+        55,
+        95,
+        35,
+        65,
+        95
+    ],
+    "flags": [],
+    "name": "Corsola",
+    "species": "CORSOLA",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 144,
+    "evs": [
+        "DEFENSE",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [
+        {
+            "generation": 2,
+            "primaryType": "WATER",
+            "secondaryType": "ROCK",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    5,
+                    "WATERGUN"
+                ],
+                [
+                    10,
+                    "AQUARING"
+                ],
+                [
+                    15,
+                    "ENDURE"
+                ],
+                [
+                    20,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    25,
+                    "BUBBLEBEAM"
+                ],
+                [
+                    30,
+                    "FLAIL"
+                ],
+                [
+                    35,
+                    "LIFEDEW"
+                ],
+                [
+                    40,
+                    "POWERGEM"
+                ],
+                [
+                    45,
+                    "EARTHPOWER"
+                ],
+                [
+                    50,
+                    "RECOVER"
+                ],
+                [
+                    55,
+                    "MIRRORCOAT"
+                ]
+            ],
+            "tutorMoves": [
+                "AMNESIA",
+                "ANCIENTPOWER",
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BRINE",
+                "BULLDOZE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDEAVOR",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FRUSTRATION",
+                "HAIL",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IRONDEFENSE",
+                "LIGHTSCREEN",
+                "LIQUIDATION",
+                "MAGICCOAT",
+                "METEORBEAM",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "NATUREPOWER",
+                "POWERGEM",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKBLAST",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROLLOUT",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SCALD",
+                "SCREECH",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNORE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "THROATCHOP",
+                "WATERPULSE",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [
+                "AMNESIA",
+                "AQUARING",
+                "CONFUSERAY",
+                "CURSE",
+                "HEADSMASH",
+                "ICICLESPEAR",
+                "INGRAIN",
+                "LIQUIDATION",
+                "MIST",
+                "NATUREPOWER",
+                "SCREECH",
+                "WATERPULSE"
+            ],
+            "height": 0.6,
+            "weight": 5.0,
+            "abilities": [
+                "HUSTLE",
+                "NATURALCURE"
+            ],
+            "hiddenAbilitie": [
+                "REGENERATOR"
+            ],
+            "baseTotal": 410,
+            "baseStats": [
+                65,
+                55,
+                95,
+                35,
+                65,
+                95
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Corsola"
+        },
+        {
+            "generation": 8,
+            "primaryType": "GHOST",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    5,
+                    "ASTONISH"
+                ],
+                [
+                    10,
+                    "DISABLE"
+                ],
+                [
+                    15,
+                    "SPITE"
+                ],
+                [
+                    20,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    25,
+                    "HEX"
+                ],
+                [
+                    30,
+                    "CURSE"
+                ],
+                [
+                    35,
+                    "STRENGTHSAP"
+                ],
+                [
+                    40,
+                    "POWERGEM"
+                ],
+                [
+                    45,
+                    "NIGHTSHADE"
+                ],
+                [
+                    50,
+                    "GRUDGE"
+                ],
+                [
+                    55,
+                    "MIRRORCOAT"
+                ]
+            ],
+            "tutorMoves": [
+                "AMNESIA",
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BRINE",
+                "BULLDOZE",
+                "CALMMIND",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "HAIL",
+                "HEX",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IRONDEFENSE",
+                "LIGHTSCREEN",
+                "LIQUIDATION",
+                "METEORBEAM",
+                "MIMIC",
+                "NATURALGIFT",
+                "POWERGEM",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKBLAST",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SCALD",
+                "SCREECH",
+                "SECRETPOWER",
+                "SELFDESTRUCT",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SNORE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "SWAGGER",
+                "THROATCHOP",
+                "WHIRLPOOL",
+                "WILLOWISP"
+            ],
+            "eggMoves": [
+                "CONFUSERAY",
+                "DESTINYBOND",
+                "HAZE",
+                "HEADSMASH",
+                "NATUREPOWER",
+                "WATERPULSE"
+            ],
+            "height": 0.6,
+            "weight": 0.5,
+            "abilities": [
+                "WEAKARMOR"
+            ],
+            "hiddenAbilitie": [
+                "CURSEDBODY"
+            ],
+            "baseTotal": 410,
+            "baseStats": [
+                60,
+                55,
+                100,
+                30,
+                65,
+                100
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Galar"
+        }
+    ],
+    "internationalPokedex": 222
+}

@@ -1,0 +1,147 @@
+{
+    "generation": 1,
+    "primaryType": "BUG",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "DISABLE"
+        ],
+        [
+            1,
+            "STRUGGLEBUG"
+        ],
+        [
+            5,
+            "SUPERSONIC"
+        ],
+        [
+            11,
+            "CONFUSION"
+        ],
+        [
+            13,
+            "POISONPOWDER"
+        ],
+        [
+            17,
+            "PSYBEAM"
+        ],
+        [
+            23,
+            "STUNSPORE"
+        ],
+        [
+            25,
+            "MEGADRAIN"
+        ],
+        [
+            25,
+            "BUGBUZZ"
+        ],
+        [
+            29,
+            "SLEEPPOWDER"
+        ],
+        [
+            35,
+            "LEECHLIFE"
+        ],
+        [
+            37,
+            "ZENHEADBUTT"
+        ],
+        [
+            41,
+            "POISONFANG"
+        ],
+        [
+            47,
+            "PSYCHIC"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BUGBITE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "HIDDENPOWER",
+        "INFESTATION",
+        "LEECHLIFE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "VENOSHOCK",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "AGILITY",
+        "BATONPASS",
+        "BUGBITE",
+        "MORNINGSUN",
+        "RAGEPOWDER",
+        "SCREECH",
+        "TOXICSPIKES"
+    ],
+    "height": 1.0,
+    "weight": 30.0,
+    "abilities": [
+        "COMPOUNDEYES",
+        "TINTEDLENS"
+    ],
+    "hiddenAbilitie": [
+        "RUNAWAY"
+    ],
+    "baseTotal": 305,
+    "baseStats": [
+        60,
+        55,
+        50,
+        45,
+        40,
+        55
+    ],
+    "flags": [],
+    "name": "Venonat",
+    "species": "VENONAT",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 61,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 48
+}

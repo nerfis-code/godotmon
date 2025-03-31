@@ -1,0 +1,173 @@
+{
+    "generation": 7,
+    "primaryType": "BUG",
+    "secondaryType": "ELECTRIC",
+    "moves": [
+        [
+            -1,
+            "THUNDERBOLT"
+        ],
+        [
+            -1,
+            "DIG"
+        ],
+        [
+            -1,
+            "IRONDEFENSE"
+        ],
+        [
+            -1,
+            "VISEGRIP"
+        ],
+        [
+            -1,
+            "BUGBITE"
+        ],
+        [
+            1,
+            "CHARGE"
+        ],
+        [
+            1,
+            "XSCISSOR"
+        ],
+        [
+            1,
+            "CRUNCH"
+        ],
+        [
+            1,
+            "DISCHARGE"
+        ],
+        [
+            1,
+            "MUDSLAP"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            15,
+            "BITE"
+        ],
+        [
+            23,
+            "SPARK"
+        ],
+        [
+            29,
+            "STICKYWEB"
+        ],
+        [
+            36,
+            "BUGBUZZ"
+        ],
+        [
+            43,
+            "GUILLOTINE"
+        ],
+        [
+            50,
+            "FLY"
+        ],
+        [
+            57,
+            "AGILITY"
+        ],
+        [
+            64,
+            "ZAPCANNON"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AGILITY",
+        "AIRSLASH",
+        "ATTRACT",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CRUNCH",
+        "DIG",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "EERIEIMPULSE",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASHCANNON",
+        "FLY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROOST",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKITTERSMACK",
+        "SKYDROP",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "VOLTSWITCH",
+        "WILDCHARGE",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 45.0,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 500,
+    "baseStats": [
+        77,
+        70,
+        90,
+        43,
+        145,
+        75
+    ],
+    "flags": [],
+    "name": "Vikavolt",
+    "species": "VIKAVOLT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 250,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 738
+}

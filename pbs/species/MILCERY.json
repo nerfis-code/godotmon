@@ -1,0 +1,123 @@
+{
+    "generation": 8,
+    "primaryType": "FAIRY",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "AROMATICMIST"
+        ],
+        [
+            5,
+            "SWEETKISS"
+        ],
+        [
+            10,
+            "SWEETSCENT"
+        ],
+        [
+            15,
+            "DRAININGKISS"
+        ],
+        [
+            20,
+            "AROMATHERAPY"
+        ],
+        [
+            20,
+            "CHARM"
+        ],
+        [
+            25,
+            "ATTRACT"
+        ],
+        [
+            30,
+            "ACIDARMOR"
+        ],
+        [
+            35,
+            "DAZZLINGGLEAM"
+        ],
+        [
+            40,
+            "RECOVER"
+        ],
+        [
+            45,
+            "MISTYTERRAIN"
+        ],
+        [
+            50,
+            "ENTRAINMENT"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "MIMIC",
+        "MISTYTERRAIN",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC"
+    ],
+    "eggMoves": [
+        "BABYDOLLEYES",
+        "LASTRESORT"
+    ],
+    "height": 0.2,
+    "weight": 0.3,
+    "abilities": [
+        "SWEETVEIL"
+    ],
+    "hiddenAbilitie": [
+        "AROMAVEIL"
+    ],
+    "baseTotal": 270,
+    "baseStats": [
+        45,
+        40,
+        40,
+        34,
+        50,
+        61
+    ],
+    "flags": [],
+    "name": "Milcery",
+    "species": "MILCERY",
+    "catchRate": 200,
+    "happiness": 50,
+    "baseExp": 54,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 100,
+    "forms": [],
+    "internationalPokedex": 868
+}

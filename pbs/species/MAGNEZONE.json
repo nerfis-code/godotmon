@@ -1,0 +1,175 @@
+{
+    "generation": 4,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            1,
+            "TRIATTACK"
+        ],
+        [
+            1,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            1,
+            "MAGNETICFLUX"
+        ],
+        [
+            1,
+            "MIRRORCOAT"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            1,
+            "THUNDERWAVE"
+        ],
+        [
+            12,
+            "ELECTROBALL"
+        ],
+        [
+            16,
+            "GYROBALL"
+        ],
+        [
+            20,
+            "SPARK"
+        ],
+        [
+            24,
+            "SCREECH"
+        ],
+        [
+            28,
+            "MAGNETRISE"
+        ],
+        [
+            34,
+            "FLASHCANNON"
+        ],
+        [
+            40,
+            "DISCHARGE"
+        ],
+        [
+            46,
+            "METALSOUND"
+        ],
+        [
+            52,
+            "LIGHTSCREEN"
+        ],
+        [
+            58,
+            "LOCKON"
+        ],
+        [
+            64,
+            "ZAPCANNON"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "BODYPRESS",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "GYROBALL",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROLLOUT",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELBEAM",
+        "STEELROLLER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRIATTACK",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 180.0,
+    "abilities": [
+        "MAGNETPULL",
+        "STURDY"
+    ],
+    "hiddenAbilitie": [
+        "ANALYTIC"
+    ],
+    "baseTotal": 535,
+    "baseStats": [
+        70,
+        70,
+        115,
+        60,
+        130,
+        90
+    ],
+    "flags": [],
+    "name": "Magnezone",
+    "species": "MAGNEZONE",
+    "catchRate": 30,
+    "happiness": 50,
+    "baseExp": 268,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 462
+}

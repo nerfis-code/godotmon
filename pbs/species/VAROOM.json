@@ -1,0 +1,141 @@
+{
+    "generation": 9,
+    "primaryType": "STEEL",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "POISONGAS"
+        ],
+        [
+            1,
+            "LICK"
+        ],
+        [
+            4,
+            "SMOG"
+        ],
+        [
+            7,
+            "TAUNT"
+        ],
+        [
+            10,
+            "ASSURANCE"
+        ],
+        [
+            13,
+            "SLUDGE"
+        ],
+        [
+            17,
+            "GYROBALL"
+        ],
+        [
+            21,
+            "HEADBUTT"
+        ],
+        [
+            25,
+            "SCREECH"
+        ],
+        [
+            28,
+            "IRONHEAD"
+        ],
+        [
+            32,
+            "SWAGGER"
+        ],
+        [
+            36,
+            "POISONJAB"
+        ],
+        [
+            41,
+            "UPROAR"
+        ],
+        [
+            46,
+            "SPINOUT"
+        ],
+        [
+            50,
+            "GUNKSHOT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CURSE",
+        "DOUBLEEDGE",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "GUNKSHOT",
+        "GYROBALL",
+        "HAZE",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "METALSOUND",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "STEELBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "TOXIC",
+        "TOXICSPIKES",
+        "UPROAR",
+        "VENOSHOCK",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "HAZE",
+        "PARTINGSHOT",
+        "SELFDESTRUCT",
+        "TORMENT",
+        "TOXIC"
+    ],
+    "height": 1.0,
+    "weight": 35.0,
+    "abilities": [
+        "OVERCOAT"
+    ],
+    "hiddenAbilitie": [
+        "SLOWSTART"
+    ],
+    "baseTotal": 300,
+    "baseStats": [
+        45,
+        70,
+        63,
+        47,
+        30,
+        45
+    ],
+    "flags": [],
+    "name": "Varoom",
+    "species": "VAROOM",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 60,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 965
+}

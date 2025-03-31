@@ -1,0 +1,495 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            1,
+            "SLASH"
+        ],
+        [
+            1,
+            "NIGHTSLASH"
+        ],
+        [
+            1,
+            "AQUAJET"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "POISONFANG"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            12,
+            "SCARYFACE"
+        ],
+        [
+            16,
+            "BITE"
+        ],
+        [
+            20,
+            "ICEFANG"
+        ],
+        [
+            24,
+            "SCREECH"
+        ],
+        [
+            28,
+            "SWAGGER"
+        ],
+        [
+            34,
+            "CRUNCH"
+        ],
+        [
+            40,
+            "AGILITY"
+        ],
+        [
+            46,
+            "LIQUIDATION"
+        ],
+        [
+            52,
+            "TAKEDOWN"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ANCIENTPOWER",
+        "ASSURANCE",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BOUNCE",
+        "BRINE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLIPTURN",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICYWIND",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SPITE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERFANG",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 88.8,
+    "abilities": [
+        "ROUGHSKIN"
+    ],
+    "hiddenAbilitie": [
+        "SPEEDBOOST"
+    ],
+    "baseTotal": 460,
+    "baseStats": [
+        70,
+        120,
+        40,
+        95,
+        95,
+        40
+    ],
+    "flags": [],
+    "name": "Sharpedo",
+    "species": "SHARPEDO",
+    "catchRate": 60,
+    "happiness": 35,
+    "baseExp": 161,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 3,
+            "primaryType": "WATER",
+            "secondaryType": "DARK",
+            "moves": [
+                [
+                    1,
+                    "SLASH"
+                ],
+                [
+                    1,
+                    "NIGHTSLASH"
+                ],
+                [
+                    1,
+                    "AQUAJET"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "POISONFANG"
+                ],
+                [
+                    1,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "SCARYFACE"
+                ],
+                [
+                    16,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "ICEFANG"
+                ],
+                [
+                    24,
+                    "SCREECH"
+                ],
+                [
+                    28,
+                    "SWAGGER"
+                ],
+                [
+                    34,
+                    "CRUNCH"
+                ],
+                [
+                    40,
+                    "AGILITY"
+                ],
+                [
+                    46,
+                    "LIQUIDATION"
+                ],
+                [
+                    52,
+                    "TAKEDOWN"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ANCIENTPOWER",
+                "ASSURANCE",
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BOUNCE",
+                "BRINE",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "CRUNCH",
+                "DARKPULSE",
+                "DIVE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FLIPTURN",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "HAIL",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICEFANG",
+                "ICYWIND",
+                "LIQUIDATION",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PAYBACK",
+                "POISONJAB",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SCALD",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SCREECH",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SPITE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUPERFANG",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THIEF",
+                "TORMENT",
+                "UPROAR",
+                "WATERFALL",
+                "WATERPULSE",
+                "WHIRLPOOL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 1.8,
+            "weight": 88.8,
+            "abilities": [
+                "ROUGHSKIN"
+            ],
+            "hiddenAbilitie": [
+                "SPEEDBOOST"
+            ],
+            "baseTotal": 460,
+            "baseStats": [
+                70,
+                120,
+                40,
+                95,
+                95,
+                40
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Sharpedo"
+        },
+        {
+            "generation": 6,
+            "primaryType": "WATER",
+            "secondaryType": "DARK",
+            "moves": [
+                [
+                    1,
+                    "SLASH"
+                ],
+                [
+                    1,
+                    "NIGHTSLASH"
+                ],
+                [
+                    1,
+                    "AQUAJET"
+                ],
+                [
+                    1,
+                    "LEER"
+                ],
+                [
+                    1,
+                    "POISONFANG"
+                ],
+                [
+                    1,
+                    "FOCUSENERGY"
+                ],
+                [
+                    12,
+                    "SCARYFACE"
+                ],
+                [
+                    16,
+                    "BITE"
+                ],
+                [
+                    20,
+                    "ICEFANG"
+                ],
+                [
+                    24,
+                    "SCREECH"
+                ],
+                [
+                    28,
+                    "SWAGGER"
+                ],
+                [
+                    34,
+                    "CRUNCH"
+                ],
+                [
+                    40,
+                    "AGILITY"
+                ],
+                [
+                    46,
+                    "LIQUIDATION"
+                ],
+                [
+                    52,
+                    "TAKEDOWN"
+                ]
+            ],
+            "tutorMoves": [
+                "AGILITY",
+                "ANCIENTPOWER",
+                "ASSURANCE",
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BOUNCE",
+                "BRINE",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CLOSECOMBAT",
+                "CONFIDE",
+                "CRUNCH",
+                "DARKPULSE",
+                "DIVE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FLIPTURN",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "FURYCUTTER",
+                "GIGAIMPACT",
+                "HAIL",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICEFANG",
+                "ICYWIND",
+                "LIQUIDATION",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PAYBACK",
+                "POISONJAB",
+                "PROTECT",
+                "PSYCHICFANGS",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SCALD",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SCREECH",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNARL",
+                "SNORE",
+                "SPITE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUPERFANG",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "TAUNT",
+                "THIEF",
+                "TORMENT",
+                "UPROAR",
+                "WATERFALL",
+                "WATERPULSE",
+                "WHIRLPOOL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 2.5,
+            "weight": 130.3,
+            "abilities": [
+                "STRONGJAW"
+            ],
+            "hiddenAbilitie": [
+                "STRONGJAW"
+            ],
+            "baseTotal": 560,
+            "baseStats": [
+                70,
+                140,
+                70,
+                105,
+                110,
+                65
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Mega Sharpedo"
+        }
+    ],
+    "internationalPokedex": 319
+}

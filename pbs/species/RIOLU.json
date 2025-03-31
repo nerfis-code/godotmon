@@ -1,0 +1,196 @@
+{
+    "generation": 4,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "ENDURE"
+        ],
+        [
+            4,
+            "FEINT"
+        ],
+        [
+            8,
+            "METALCLAW"
+        ],
+        [
+            12,
+            "COUNTER"
+        ],
+        [
+            16,
+            "WORKUP"
+        ],
+        [
+            20,
+            "ROCKSMASH"
+        ],
+        [
+            24,
+            "NASTYPLOT"
+        ],
+        [
+            24,
+            "VACUUMWAVE"
+        ],
+        [
+            28,
+            "SCREECH"
+        ],
+        [
+            32,
+            "QUICKGUARD"
+        ],
+        [
+            36,
+            "FORCEPALM"
+        ],
+        [
+            40,
+            "SWORDSDANCE"
+        ],
+        [
+            44,
+            "HELPINGHAND"
+        ],
+        [
+            48,
+            "COPYCAT"
+        ],
+        [
+            52,
+            "FINALGAMBIT"
+        ],
+        [
+            56,
+            "REVERSAL"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ATTRACT",
+        "BLAZEKICK",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "COACHING",
+        "CONFIDE",
+        "CRUNCH",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "IRONDEFENSE",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MAGNETRISE",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "THUNDERPUNCH",
+        "VACUUMWAVE",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "AGILITY",
+        "BITE",
+        "BLAZEKICK",
+        "BULLETPUNCH",
+        "CIRCLETHROW",
+        "CROSSCHOP",
+        "CRUNCH",
+        "DETECT",
+        "FOLLOWME",
+        "HIGHJUMPKICK",
+        "HOWL",
+        "IRONDEFENSE",
+        "LOWKICK",
+        "METEORMASH",
+        "MINDREADER",
+        "VACUUMWAVE"
+    ],
+    "height": 0.7,
+    "weight": 20.2,
+    "abilities": [
+        "STEADFAST",
+        "INNERFOCUS"
+    ],
+    "hiddenAbilitie": [
+        "PRANKSTER"
+    ],
+    "baseTotal": 285,
+    "baseStats": [
+        40,
+        70,
+        40,
+        60,
+        35,
+        40
+    ],
+    "flags": [],
+    "name": "Riolu",
+    "species": "RIOLU",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 57,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 447
+}

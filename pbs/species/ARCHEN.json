@@ -1,0 +1,181 @@
+{
+    "generation": 5,
+    "primaryType": "ROCK",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            3,
+            "ROCKTHROW"
+        ],
+        [
+            6,
+            "WINGATTACK"
+        ],
+        [
+            9,
+            "DRAGONBREATH"
+        ],
+        [
+            12,
+            "ANCIENTPOWER"
+        ],
+        [
+            15,
+            "PLUCK"
+        ],
+        [
+            18,
+            "QUICKGUARD"
+        ],
+        [
+            21,
+            "UTURN"
+        ],
+        [
+            24,
+            "ROCKSLIDE"
+        ],
+        [
+            27,
+            "SCARYFACE"
+        ],
+        [
+            30,
+            "CRUNCH"
+        ],
+        [
+            33,
+            "AGILITY"
+        ],
+        [
+            36,
+            "TAILWIND"
+        ],
+        [
+            39,
+            "DRAGONCLAW"
+        ],
+        [
+            42,
+            "THRASH"
+        ],
+        [
+            45,
+            "ENDEAVOR"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "ALLYSWITCH",
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BOUNCE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DEFOG",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "IRONDEFENSE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASHOUT",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLUCK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELWING",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "BITE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "HEADSMASH",
+        "KNOCKOFF",
+        "SWITCHEROO"
+    ],
+    "height": 0.5,
+    "weight": 9.5,
+    "abilities": [
+        "DEFEATIST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 401,
+    "baseStats": [
+        55,
+        112,
+        45,
+        70,
+        74,
+        45
+    ],
+    "flags": [],
+    "name": "Archen",
+    "species": "ARCHEN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 71,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 566
+}

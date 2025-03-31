@@ -1,0 +1,155 @@
+{
+    "generation": 5,
+    "primaryType": "BUG",
+    "secondaryType": "ROCK",
+    "moves": [
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            1,
+            "SMACKDOWN"
+        ],
+        [
+            12,
+            "BUGBITE"
+        ],
+        [
+            16,
+            "FLAIL"
+        ],
+        [
+            20,
+            "SLASH"
+        ],
+        [
+            24,
+            "ROCKSLIDE"
+        ],
+        [
+            28,
+            "STEALTHROCK"
+        ],
+        [
+            32,
+            "ROCKBLAST"
+        ],
+        [
+            38,
+            "XSCISSOR"
+        ],
+        [
+            44,
+            "ROCKPOLISH"
+        ],
+        [
+            50,
+            "SHELLSMASH"
+        ],
+        [
+            56,
+            "ROCKWRECKER"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BLOCK",
+        "BODYPRESS",
+        "BUGBITE",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "SPIKES",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TOXIC",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 200.0,
+    "abilities": [
+        "STURDY",
+        "SHELLARMOR"
+    ],
+    "hiddenAbilitie": [
+        "WEAKARMOR"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        70,
+        105,
+        125,
+        45,
+        65,
+        75
+    ],
+    "flags": [],
+    "name": "Crustle",
+    "species": "CRUSTLE",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 558
+}

@@ -1,0 +1,191 @@
+{
+    "generation": 2,
+    "primaryType": "FAIRY",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            4,
+            "SWEETKISS"
+        ],
+        [
+            8,
+            "LIFEDEW"
+        ],
+        [
+            12,
+            "CHARM"
+        ],
+        [
+            16,
+            "ANCIENTPOWER"
+        ],
+        [
+            20,
+            "YAWN"
+        ],
+        [
+            24,
+            "METRONOME"
+        ],
+        [
+            28,
+            "AFTERYOU"
+        ],
+        [
+            32,
+            "DOUBLEEDGE"
+        ],
+        [
+            36,
+            "SAFEGUARD"
+        ],
+        [
+            40,
+            "FOLLOWME"
+        ],
+        [
+            44,
+            "BATONPASS"
+        ],
+        [
+            48,
+            "LASTRESORT"
+        ],
+        [
+            52,
+            "WISH"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BATONPASS",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "INCINERATE",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "MYSTICALFIRE",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOFTBOILED",
+        "SOLARBEAM",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TELEKINESIS",
+        "THUNDERWAVE",
+        "TRIATTACK",
+        "TRICK",
+        "UPROAR",
+        "WATERPULSE",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "AERIALACE",
+        "EXTRASENSORY",
+        "FUTURESIGHT",
+        "MORNINGSUN",
+        "PECK",
+        "PRESENT",
+        "PSYCHOSHIFT",
+        "STOREDPOWER"
+    ],
+    "height": 0.3,
+    "weight": 1.5,
+    "abilities": [
+        "HUSTLE",
+        "SERENEGRACE"
+    ],
+    "hiddenAbilitie": [
+        "SUPERLUCK"
+    ],
+    "baseTotal": 245,
+    "baseStats": [
+        35,
+        20,
+        65,
+        20,
+        40,
+        65
+    ],
+    "flags": [],
+    "name": "Togepi",
+    "species": "TOGEPI",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 49,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 175
+}

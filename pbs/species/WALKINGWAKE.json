@@ -1,0 +1,152 @@
+{
+    "generation": 9,
+    "primaryType": "WATER",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            -1,
+            "SUNNYDAY"
+        ],
+        [
+            -1,
+            "HONECLAWS"
+        ],
+        [
+            1,
+            "ROAR"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "AQUAJET"
+        ],
+        [
+            1,
+            "TWISTER"
+        ],
+        [
+            7,
+            "BITE"
+        ],
+        [
+            14,
+            "WATERPULSE"
+        ],
+        [
+            21,
+            "NOBLEROAR"
+        ],
+        [
+            28,
+            "DRAGONBREATH"
+        ],
+        [
+            35,
+            "BREAKINGSWIPE"
+        ],
+        [
+            42,
+            "DRAGONRUSH"
+        ],
+        [
+            56,
+            "HYDROSTEAM"
+        ],
+        [
+            63,
+            "DRAGONPULSE"
+        ],
+        [
+            70,
+            "OUTRAGE"
+        ],
+        [
+            77,
+            "FLAMETHROWER"
+        ],
+        [
+            84,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "CHILLINGWATER",
+        "CRUNCH",
+        "DOUBLEEDGE",
+        "DRACOMETEOR",
+        "DRAGONCHEER",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FLAMETHROWER",
+        "FLIPTURN",
+        "GIGAIMPACT",
+        "HURRICANE",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "KNOCKOFF",
+        "LIQUIDATION",
+        "LOWKICK",
+        "MUDSHOT",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "ROAR",
+        "SCALD",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SNARL",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWIFT",
+        "TAKEDOWN",
+        "WATERFALL",
+        "WATERPULSE",
+        "WEATHERBALL",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 3.5,
+    "weight": 280.0,
+    "abilities": [
+        "PROTOSYNTHESIS"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 590,
+    "baseStats": [
+        99,
+        83,
+        91,
+        109,
+        125,
+        83
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Ondulagua",
+    "species": "WALKINGWAKE",
+    "catchRate": 5,
+    "happiness": 0,
+    "baseExp": 295,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 1009
+}

@@ -1,0 +1,183 @@
+{
+    "generation": 3,
+    "primaryType": "STEEL",
+    "secondaryType": "ROCK",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            4,
+            "METALCLAW"
+        ],
+        [
+            8,
+            "ROCKTOMB"
+        ],
+        [
+            12,
+            "ROAR"
+        ],
+        [
+            16,
+            "HEADBUTT"
+        ],
+        [
+            20,
+            "PROTECT"
+        ],
+        [
+            24,
+            "ROCKSLIDE"
+        ],
+        [
+            28,
+            "IRONHEAD"
+        ],
+        [
+            33,
+            "METALSOUND"
+        ],
+        [
+            36,
+            "TAKEDOWN"
+        ],
+        [
+            40,
+            "AUTOTOMIZE"
+        ],
+        [
+            44,
+            "IRONTAIL"
+        ],
+        [
+            48,
+            "IRONDEFENSE"
+        ],
+        [
+            52,
+            "HEAVYSLAM"
+        ],
+        [
+            56,
+            "DOUBLEEDGE"
+        ],
+        [
+            60,
+            "METALBURST"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "MAGNETRISE",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROAR",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "SPITE",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STEELROLLER",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "UPROAR",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "BODYSLAM",
+        "CURSE",
+        "DRAGONRUSH",
+        "ENDEAVOR",
+        "HEADSMASH",
+        "IRONHEAD",
+        "MUDSLAP",
+        "REVERSAL",
+        "SCREECH",
+        "STOMP",
+        "SUPERPOWER"
+    ],
+    "height": 0.4,
+    "weight": 60.0,
+    "abilities": [
+        "STURDY",
+        "ROCKHEAD"
+    ],
+    "hiddenAbilitie": [
+        "HEAVYMETAL"
+    ],
+    "baseTotal": 330,
+    "baseStats": [
+        50,
+        70,
+        100,
+        30,
+        40,
+        40
+    ],
+    "flags": [],
+    "name": "Aron",
+    "species": "ARON",
+    "catchRate": 180,
+    "happiness": 35,
+    "baseExp": 66,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 304
+}

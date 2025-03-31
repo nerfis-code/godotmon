@@ -1,0 +1,168 @@
+{
+    "generation": 5,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ICEFANG"
+        ],
+        [
+            1,
+            "FIREFANG"
+        ],
+        [
+            1,
+            "THUNDERFANG"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "WORKUP"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            12,
+            "RETALIATE"
+        ],
+        [
+            19,
+            "BABYDOLLEYES"
+        ],
+        [
+            24,
+            "PLAYROUGH"
+        ],
+        [
+            30,
+            "CRUNCH"
+        ],
+        [
+            38,
+            "TAKEDOWN"
+        ],
+        [
+            46,
+            "HELPINGHAND"
+        ],
+        [
+            54,
+            "REVERSAL"
+        ],
+        [
+            62,
+            "ROAR"
+        ],
+        [
+            70,
+            "LASTRESORT"
+        ],
+        [
+            78,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AFTERYOU",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "CRUNCH",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEFANG",
+        "IRONHEAD",
+        "LASTRESORT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVERSAL",
+        "ROAR",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UPROAR",
+        "WILDCHARGE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.2,
+    "weight": 61.0,
+    "abilities": [
+        "INTIMIDATE",
+        "SANDRUSH"
+    ],
+    "hiddenAbilitie": [
+        "SCRAPPY"
+    ],
+    "baseTotal": 500,
+    "baseStats": [
+        85,
+        110,
+        90,
+        80,
+        45,
+        90
+    ],
+    "flags": [],
+    "name": "Stoutland",
+    "species": "STOUTLAND",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 250,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 508
+}

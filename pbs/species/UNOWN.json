@@ -1,0 +1,971 @@
+{
+    "generation": 2,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "HIDDENPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "HIDDENPOWER"
+    ],
+    "eggMoves": [],
+    "height": 0.5,
+    "weight": 5.0,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 336,
+    "baseStats": [
+        48,
+        72,
+        48,
+        48,
+        72,
+        48
+    ],
+    "flags": [],
+    "name": "Unown",
+    "species": "UNOWN",
+    "catchRate": 225,
+    "happiness": 50,
+    "baseExp": 118,
+    "evs": [
+        "ATTACK",
+        1,
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Letra A"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Letra B"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 2,
+            "formName": "Forma Letra C"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 3,
+            "formName": "Forma Letra D"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 4,
+            "formName": "Forma Letra E"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 5,
+            "formName": "Forma Letra F"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 6,
+            "formName": "Forma Letra G"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 7,
+            "formName": "Forma Letra H"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 8,
+            "formName": "Forma Letra I"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 9,
+            "formName": "Forma Letra J"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 10,
+            "formName": "Forma Letra K"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 11,
+            "formName": "Forma Letra L"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 12,
+            "formName": "Forma Letra M"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 13,
+            "formName": "Forma Letra N"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 14,
+            "formName": "Forma Letra O"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 15,
+            "formName": "Forma Letra P"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 16,
+            "formName": "Forma Letra Q"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 17,
+            "formName": "Forma Letra R"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 18,
+            "formName": "Forma Letra S"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 19,
+            "formName": "Forma Letra T"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 20,
+            "formName": "Forma Letra U"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 21,
+            "formName": "Forma Letra V"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 22,
+            "formName": "Forma Letra W"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 23,
+            "formName": "Forma Letra X"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 24,
+            "formName": "Forma Letra Y"
+        },
+        {
+            "generation": 2,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 25,
+            "formName": "Forma Letra Z"
+        },
+        {
+            "generation": 3,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 26,
+            "formName": "Forma Signo ?"
+        },
+        {
+            "generation": 3,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "HIDDENPOWER"
+                ]
+            ],
+            "tutorMoves": [
+                "HIDDENPOWER"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 5.0,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 336,
+            "baseStats": [
+                48,
+                72,
+                48,
+                48,
+                72,
+                48
+            ],
+            "flags": [],
+            "form": 27,
+            "formName": "Forma Signo !"
+        }
+    ],
+    "internationalPokedex": 201
+}

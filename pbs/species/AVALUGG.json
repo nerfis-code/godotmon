@@ -1,0 +1,503 @@
+{
+    "generation": 6,
+    "primaryType": "ICE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "BODYSLAM"
+        ],
+        [
+            1,
+            "WIDEGUARD"
+        ],
+        [
+            1,
+            "RAPIDSPIN"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            9,
+            "CURSE"
+        ],
+        [
+            12,
+            "ICYWIND"
+        ],
+        [
+            15,
+            "PROTECT"
+        ],
+        [
+            18,
+            "AVALANCHE"
+        ],
+        [
+            21,
+            "BITE"
+        ],
+        [
+            24,
+            "ICEFANG"
+        ],
+        [
+            27,
+            "IRONDEFENSE"
+        ],
+        [
+            30,
+            "RECOVER"
+        ],
+        [
+            33,
+            "CRUNCH"
+        ],
+        [
+            36,
+            "TAKEDOWN"
+        ],
+        [
+            41,
+            "BLIZZARD"
+        ],
+        [
+            46,
+            "DOUBLEEDGE"
+        ],
+        [
+            51,
+            "SKULLBASH"
+        ],
+        [
+            51,
+            "ICICLECRASH"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLASHCANNON",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GYROBALL",
+        "HAIL",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "WATERPULSE"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 505.0,
+    "abilities": [
+        "OWNTEMPO",
+        "ICEBODY"
+    ],
+    "hiddenAbilitie": [
+        "STURDY"
+    ],
+    "baseTotal": 514,
+    "baseStats": [
+        95,
+        117,
+        184,
+        28,
+        44,
+        46
+    ],
+    "flags": [],
+    "name": "Avalugg",
+    "species": "AVALUGG",
+    "catchRate": 55,
+    "happiness": 50,
+    "baseExp": 180,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 6,
+            "primaryType": "ICE",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "BODYSLAM"
+                ],
+                [
+                    1,
+                    "WIDEGUARD"
+                ],
+                [
+                    1,
+                    "RAPIDSPIN"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "POWDERSNOW"
+                ],
+                [
+                    9,
+                    "CURSE"
+                ],
+                [
+                    12,
+                    "ICYWIND"
+                ],
+                [
+                    15,
+                    "PROTECT"
+                ],
+                [
+                    18,
+                    "AVALANCHE"
+                ],
+                [
+                    21,
+                    "BITE"
+                ],
+                [
+                    24,
+                    "ICEFANG"
+                ],
+                [
+                    27,
+                    "IRONDEFENSE"
+                ],
+                [
+                    30,
+                    "RECOVER"
+                ],
+                [
+                    33,
+                    "CRUNCH"
+                ],
+                [
+                    36,
+                    "TAKEDOWN"
+                ],
+                [
+                    41,
+                    "BLIZZARD"
+                ],
+                [
+                    46,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    51,
+                    "SKULLBASH"
+                ],
+                [
+                    51,
+                    "ICICLECRASH"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "ATTRACT",
+                "AVALANCHE",
+                "BLIZZARD",
+                "BLOCK",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CRUNCH",
+                "DOUBLETEAM",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FLASHCANNON",
+                "FROSTBREATH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HAIL",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HIGHHORSEPOWER",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICEFANG",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "MIMIC",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROAR",
+                "ROCKPOLISH",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUPERPOWER",
+                "SURF",
+                "SWAGGER",
+                "TOXIC",
+                "WATERPULSE"
+            ],
+            "eggMoves": [],
+            "height": 2.0,
+            "weight": 505.0,
+            "abilities": [
+                "OWNTEMPO",
+                "ICEBODY"
+            ],
+            "hiddenAbilitie": [
+                "STURDY"
+            ],
+            "baseTotal": 514,
+            "baseStats": [
+                95,
+                117,
+                184,
+                28,
+                44,
+                46
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Avalugg"
+        },
+        {
+            "generation": 8,
+            "primaryType": "ICE",
+            "secondaryType": "ROCK",
+            "moves": [
+                [
+                    0,
+                    "ROCKSLIDE"
+                ],
+                [
+                    1,
+                    "POWDERSNOW"
+                ],
+                [
+                    1,
+                    "RAPIDSPIN"
+                ],
+                [
+                    1,
+                    "WIDEGUARD"
+                ],
+                [
+                    1,
+                    "HARDEN"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    9,
+                    "CURSE"
+                ],
+                [
+                    12,
+                    "ICYWIND"
+                ],
+                [
+                    15,
+                    "PROTECT"
+                ],
+                [
+                    18,
+                    "AVALANCHE"
+                ],
+                [
+                    21,
+                    "BITE"
+                ],
+                [
+                    24,
+                    "ICEFANG"
+                ],
+                [
+                    27,
+                    "IRONDEFENSE"
+                ],
+                [
+                    30,
+                    "RECOVER"
+                ],
+                [
+                    33,
+                    "CRUNCH"
+                ],
+                [
+                    36,
+                    "TAKEDOWN"
+                ],
+                [
+                    41,
+                    "BLIZZARD"
+                ],
+                [
+                    46,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    51,
+                    "STONEEDGE"
+                ],
+                [
+                    61,
+                    "MOUNTAINGALE"
+                ]
+            ],
+            "tutorMoves": [
+                "AVALANCHE",
+                "BLIZZARD",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CHILLINGWATER",
+                "CRUNCH",
+                "CURSE",
+                "DIG",
+                "DOUBLEEDGE",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HARDPRESS",
+                "HEAVYSLAM",
+                "HIGHHORSEPOWER",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICEFANG",
+                "ICESPINNER",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "METEORBEAM",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "ROCKBLAST",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SLEEPTALK",
+                "SNOWSCAPE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "TAKEDOWN"
+            ],
+            "eggMoves": [],
+            "height": 1.4,
+            "weight": 262.4,
+            "abilities": [
+                "STRONGJAW",
+                "ICEBODY"
+            ],
+            "hiddenAbilitie": [
+                "STURDY"
+            ],
+            "baseTotal": 514,
+            "baseStats": [
+                95,
+                127,
+                184,
+                38,
+                34,
+                36
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Hisui"
+        }
+    ],
+    "internationalPokedex": 713
+}

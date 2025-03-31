@@ -1,0 +1,172 @@
+{
+    "generation": 3,
+    "primaryType": "POISON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "BODYSLAM"
+        ],
+        [
+            1,
+            "VENOMDRENCH"
+        ],
+        [
+            1,
+            "GUNKSHOT"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "YAWN"
+        ],
+        [
+            1,
+            "POISONGAS"
+        ],
+        [
+            1,
+            "SLUDGE"
+        ],
+        [
+            12,
+            "AMNESIA"
+        ],
+        [
+            17,
+            "ACIDSPRAY"
+        ],
+        [
+            20,
+            "ENCORE"
+        ],
+        [
+            25,
+            "TOXIC"
+        ],
+        [
+            30,
+            "STOCKPILE"
+        ],
+        [
+            30,
+            "SPITUP"
+        ],
+        [
+            30,
+            "SWALLOW"
+        ],
+        [
+            37,
+            "SLUDGEBOMB"
+        ],
+        [
+            42,
+            "GASTROACID"
+        ],
+        [
+            49,
+            "BELCH"
+        ],
+        [
+            54,
+            "PAINSPLIT"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLOCK",
+        "BODYSLAM",
+        "BULLDOZE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREPUNCH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "INFESTATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "VENOSHOCK",
+        "WATERPULSE"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 80.0,
+    "abilities": [
+        "LIQUIDOOZE",
+        "STICKYHOLD"
+    ],
+    "hiddenAbilitie": [
+        "GLUTTONY"
+    ],
+    "baseTotal": 467,
+    "baseStats": [
+        100,
+        73,
+        83,
+        55,
+        73,
+        83
+    ],
+    "flags": [],
+    "name": "Swalot",
+    "species": "SWALOT",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 163,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "FLUCTUATING",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 317
+}

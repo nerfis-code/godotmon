@@ -1,0 +1,482 @@
+{
+    "generation": 1,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCARYFACE"
+        ],
+        [
+            1,
+            "SWORDSDANCE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            4,
+            "QUICKATTACK"
+        ],
+        [
+            7,
+            "FOCUSENERGY"
+        ],
+        [
+            10,
+            "BITE"
+        ],
+        [
+            13,
+            "LASERFOCUS"
+        ],
+        [
+            16,
+            "TAKEDOWN"
+        ],
+        [
+            19,
+            "ASSURANCE"
+        ],
+        [
+            24,
+            "CRUNCH"
+        ],
+        [
+            29,
+            "SUCKERPUNCH"
+        ],
+        [
+            34,
+            "SUPERFANG"
+        ],
+        [
+            39,
+            "DOUBLEEDGE"
+        ],
+        [
+            44,
+            "ENDEAVOR"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "UPROAR",
+        "WILDCHARGE",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 18.5,
+    "abilities": [
+        "RUNAWAY",
+        "GUTS"
+    ],
+    "hiddenAbilitie": [
+        "HUSTLE"
+    ],
+    "baseTotal": 413,
+    "baseStats": [
+        55,
+        81,
+        60,
+        97,
+        50,
+        70
+    ],
+    "flags": [],
+    "name": "Raticate",
+    "species": "RATICATE",
+    "catchRate": 127,
+    "happiness": 50,
+    "baseExp": 145,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "NORMAL",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "SCARYFACE"
+                ],
+                [
+                    1,
+                    "SWORDSDANCE"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    4,
+                    "QUICKATTACK"
+                ],
+                [
+                    7,
+                    "FOCUSENERGY"
+                ],
+                [
+                    10,
+                    "BITE"
+                ],
+                [
+                    13,
+                    "LASERFOCUS"
+                ],
+                [
+                    16,
+                    "TAKEDOWN"
+                ],
+                [
+                    19,
+                    "ASSURANCE"
+                ],
+                [
+                    24,
+                    "CRUNCH"
+                ],
+                [
+                    29,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    34,
+                    "SUPERFANG"
+                ],
+                [
+                    39,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    44,
+                    "ENDEAVOR"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "COUNTER",
+                "COVET",
+                "CUT",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONTAIL",
+                "LASTRESORT",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PLUCK",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SUPERFANG",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "UPROAR",
+                "WILDCHARGE",
+                "WORKUP",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.7,
+            "weight": 18.5,
+            "abilities": [
+                "RUNAWAY",
+                "GUTS"
+            ],
+            "hiddenAbilitie": [
+                "HUSTLE"
+            ],
+            "baseTotal": 413,
+            "baseStats": [
+                55,
+                81,
+                60,
+                97,
+                50,
+                70
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Raticate"
+        },
+        {
+            "generation": 7,
+            "primaryType": "DARK",
+            "secondaryType": "NORMAL",
+            "moves": [
+                [
+                    1,
+                    "SCARYFACE"
+                ],
+                [
+                    1,
+                    "SWORDSDANCE"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    4,
+                    "QUICKATTACK"
+                ],
+                [
+                    7,
+                    "FOCUSENERGY"
+                ],
+                [
+                    10,
+                    "BITE"
+                ],
+                [
+                    13,
+                    "LASERFOCUS"
+                ],
+                [
+                    16,
+                    "TAKEDOWN"
+                ],
+                [
+                    19,
+                    "ASSURANCE"
+                ],
+                [
+                    24,
+                    "CRUNCH"
+                ],
+                [
+                    29,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    34,
+                    "SUPERFANG"
+                ],
+                [
+                    39,
+                    "DOUBLEEDGE"
+                ],
+                [
+                    44,
+                    "ENDEAVOR"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BULKUP",
+                "CAPTIVATE",
+                "CONFIDE",
+                "COUNTER",
+                "COVET",
+                "CUT",
+                "DARKPULSE",
+                "DEFENSECURL",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EMBARGO",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICYWIND",
+                "IRONTAIL",
+                "KNOCKOFF",
+                "LASTRESORT",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PLUCK",
+                "PROTECT",
+                "QUASH",
+                "RAINDANCE",
+                "REST",
+                "RETALIATE",
+                "RETURN",
+                "ROAR",
+                "ROCKSMASH",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SHOCKWAVE",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNARL",
+                "SNATCH",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SUPERFANG",
+                "SWAGGER",
+                "SWIFT",
+                "SWORDSDANCE",
+                "TAUNT",
+                "THIEF",
+                "THROATCHOP",
+                "TORMENT",
+                "UPROAR",
+                "UTURN",
+                "VENOSHOCK",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.7,
+            "weight": 25.5,
+            "abilities": [
+                "GLUTTONY",
+                "HUSTLE"
+            ],
+            "hiddenAbilitie": [
+                "THICKFAT"
+            ],
+            "baseTotal": 413,
+            "baseStats": [
+                75,
+                71,
+                70,
+                77,
+                40,
+                80
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Alola"
+        }
+    ],
+    "internationalPokedex": 20
+}

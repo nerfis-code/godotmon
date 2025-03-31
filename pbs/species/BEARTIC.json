@@ -1,0 +1,198 @@
+{
+    "generation": 5,
+    "primaryType": "ICE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "ICICLECRASH"
+        ],
+        [
+            1,
+            "AQUAJET"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "POWDERSNOW"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "ENDURE"
+        ],
+        [
+            1,
+            "FURYSWIPES"
+        ],
+        [
+            9,
+            "ICYWIND"
+        ],
+        [
+            12,
+            "PLAYNICE"
+        ],
+        [
+            15,
+            "BRINE"
+        ],
+        [
+            18,
+            "FROSTBREATH"
+        ],
+        [
+            21,
+            "SLASH"
+        ],
+        [
+            24,
+            "FLAIL"
+        ],
+        [
+            27,
+            "SWAGGER"
+        ],
+        [
+            30,
+            "HAIL"
+        ],
+        [
+            30,
+            "SNOWSCAPE"
+        ],
+        [
+            33,
+            "THRASH"
+        ],
+        [
+            36,
+            "REST"
+        ],
+        [
+            41,
+            "BLIZZARD"
+        ],
+        [
+            46,
+            "SHEERCOLD"
+        ],
+        [
+            51,
+            "SUPERPOWER"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ASSURANCE",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYPRESS",
+        "BRICKBREAK",
+        "BRINE",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DIVE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HAIL",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICEPUNCH",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "LIQUIDATION",
+        "LOWKICK",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THROATCHOP",
+        "TOXIC",
+        "WATERPULSE"
+    ],
+    "eggMoves": [],
+    "height": 2.6,
+    "weight": 260.0,
+    "abilities": [
+        "SNOWCLOAK",
+        "SLUSHRUSH"
+    ],
+    "hiddenAbilitie": [
+        "SWIFTSWIM"
+    ],
+    "baseTotal": 505,
+    "baseStats": [
+        95,
+        130,
+        80,
+        50,
+        70,
+        80
+    ],
+    "flags": [],
+    "name": "Beartic",
+    "species": "BEARTIC",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 177,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 614
+}

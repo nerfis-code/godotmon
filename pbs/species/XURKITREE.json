@@ -1,0 +1,156 @@
+{
+    "generation": 7,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            5,
+            "CHARGE"
+        ],
+        [
+            10,
+            "THUNDERWAVE"
+        ],
+        [
+            15,
+            "INGRAIN"
+        ],
+        [
+            20,
+            "SPARK"
+        ],
+        [
+            25,
+            "SHOCKWAVE"
+        ],
+        [
+            30,
+            "HYPNOSIS"
+        ],
+        [
+            35,
+            "EERIEIMPULSE"
+        ],
+        [
+            40,
+            "THUNDERPUNCH"
+        ],
+        [
+            45,
+            "DISCHARGE"
+        ],
+        [
+            50,
+            "MAGNETRISE"
+        ],
+        [
+            55,
+            "THUNDERBOLT"
+        ],
+        [
+            60,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            65,
+            "POWERWHIP"
+        ],
+        [
+            70,
+            "ZAPCANNON"
+        ]
+    ],
+    "tutorMoves": [
+        "BIND",
+        "BRUTALSWING",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLING",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGNETRISE",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POWERWHIP",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROUND",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TOXIC",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 3.8,
+    "weight": 100.0,
+    "abilities": [
+        "BEASTBOOST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        83,
+        89,
+        71,
+        83,
+        173,
+        71
+    ],
+    "flags": [
+        "UltraBeast"
+    ],
+    "name": "Xurkitree",
+    "species": "XURKITREE",
+    "catchRate": 45,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 796
+}

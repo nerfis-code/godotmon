@@ -1,0 +1,165 @@
+{
+    "generation": 6,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "AERIALACE"
+        ],
+        [
+            1,
+            "EARTHQUAKE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "VINEWHIP"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            12,
+            "LEECHSEED"
+        ],
+        [
+            13,
+            "RAZORLEAF"
+        ],
+        [
+            16,
+            "WORRYSEED"
+        ],
+        [
+            20,
+            "SYNTHESIS"
+        ],
+        [
+            22,
+            "TAKEDOWN"
+        ],
+        [
+            26,
+            "BULLDOZE"
+        ],
+        [
+            30,
+            "SEEDBOMB"
+        ],
+        [
+            34,
+            "BULKUP"
+        ],
+        [
+            40,
+            "DOUBLEEDGE"
+        ],
+        [
+            47,
+            "HORNLEECH"
+        ],
+        [
+            55,
+            "LEAFBLADE"
+        ],
+        [
+            58,
+            "MILKDRINK"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHQUAKE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONTAIL",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SYNTHESIS",
+        "TOXIC",
+        "WILDCHARGE",
+        "WORKUP",
+        "WORRYSEED",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 91.0,
+    "abilities": [
+        "SAPSIPPER"
+    ],
+    "hiddenAbilitie": [
+        "GRASSPELT"
+    ],
+    "baseTotal": 531,
+    "baseStats": [
+        123,
+        100,
+        62,
+        68,
+        97,
+        81
+    ],
+    "flags": [],
+    "name": "Gogoat",
+    "species": "GOGOAT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 186,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 673
+}

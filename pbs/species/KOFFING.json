@@ -1,0 +1,167 @@
+{
+    "generation": 1,
+    "primaryType": "POISON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POISONGAS"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            4,
+            "SMOG"
+        ],
+        [
+            8,
+            "SMOKESCREEN"
+        ],
+        [
+            12,
+            "CLEARSMOG"
+        ],
+        [
+            16,
+            "ASSURANCE"
+        ],
+        [
+            20,
+            "SLUDGE"
+        ],
+        [
+            24,
+            "HAZE"
+        ],
+        [
+            28,
+            "SELFDESTRUCT"
+        ],
+        [
+            32,
+            "SLUDGEBOMB"
+        ],
+        [
+            36,
+            "TOXIC"
+        ],
+        [
+            40,
+            "BELCH"
+        ],
+        [
+            44,
+            "EXPLOSION"
+        ],
+        [
+            48,
+            "MEMENTO"
+        ],
+        [
+            52,
+            "DESTINYBOND"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CORROSIVEGAS",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLASH",
+        "FRUSTRATION",
+        "GYROBALL",
+        "HIDDENPOWER",
+        "INCINERATE",
+        "INFESTATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROLLOUT",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "TORMENT",
+        "TOXIC",
+        "TOXICSPIKES",
+        "UPROAR",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "WILLOWISP"
+    ],
+    "eggMoves": [
+        "CURSE",
+        "DESTINYBOND",
+        "GRUDGE",
+        "PAINSPLIT",
+        "PSYBEAM",
+        "SCREECH",
+        "SPITE",
+        "SPITUP",
+        "STOCKPILE",
+        "SWALLOW",
+        "TOXICSPIKES",
+        "VENOMDRENCH"
+    ],
+    "height": 0.6,
+    "weight": 1.0,
+    "abilities": [
+        "LEVITATE",
+        "NEUTRALIZINGGAS"
+    ],
+    "hiddenAbilitie": [
+        "STENCH"
+    ],
+    "baseTotal": 340,
+    "baseStats": [
+        40,
+        65,
+        95,
+        35,
+        60,
+        45
+    ],
+    "flags": [],
+    "name": "Koffing",
+    "species": "KOFFING",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 68,
+    "evs": [
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 109
+}

@@ -1,0 +1,184 @@
+{
+    "generation": 9,
+    "primaryType": "ROCK",
+    "secondaryType": "ELECTRIC",
+    "moves": [
+        [
+            -1,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            1,
+            "IRONDEFENSE"
+        ],
+        [
+            1,
+            "THUNDERFANG"
+        ],
+        [
+            1,
+            "ICEFANG"
+        ],
+        [
+            1,
+            "FIREFANG"
+        ],
+        [
+            1,
+            "ROCKTHROW"
+        ],
+        [
+            7,
+            "SCREECH"
+        ],
+        [
+            21,
+            "ROCKTOMB"
+        ],
+        [
+            28,
+            "BITE"
+        ],
+        [
+            35,
+            "CHARGE"
+        ],
+        [
+            42,
+            "ROCKSLIDE"
+        ],
+        [
+            49,
+            "SANDSTORM"
+        ],
+        [
+            56,
+            "WILDCHARGE"
+        ],
+        [
+            63,
+            "PINMISSILE"
+        ],
+        [
+            70,
+            "EARTHQUAKE"
+        ],
+        [
+            77,
+            "STEALTHROCK"
+        ],
+        [
+            84,
+            "STONEEDGE"
+        ],
+        [
+            91,
+            "GIGAIMPACT"
+        ]
+    ],
+    "tutorMoves": [
+        "BLIZZARD",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CHARGE",
+        "CHARGEBEAM",
+        "CRUNCH",
+        "CURSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONTAIL",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "GIGAIMPACT",
+        "HEAVYSLAM",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICEPUNCH",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LOWKICK",
+        "METALCLAW",
+        "METEORBEAM",
+        "POWERGEM",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNARL",
+        "SPIKES",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERCELLSLAM",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "TAUNT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.6,
+    "weight": 303.0,
+    "abilities": [
+        "QUARKDRIVE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        100,
+        134,
+        110,
+        72,
+        70,
+        84
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Ferropúas",
+    "species": "IRONTHORNS",
+    "catchRate": 30,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 995
+}

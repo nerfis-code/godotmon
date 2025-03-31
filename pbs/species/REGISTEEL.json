@@ -1,0 +1,190 @@
+{
+    "generation": 3,
+    "primaryType": "STEEL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "CHARGEBEAM"
+        ],
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            6,
+            "BULLDOZE"
+        ],
+        [
+            12,
+            "ANCIENTPOWER"
+        ],
+        [
+            18,
+            "STOMP"
+        ],
+        [
+            24,
+            "IRONHEAD"
+        ],
+        [
+            24,
+            "FLASHCANNON"
+        ],
+        [
+            30,
+            "CURSE"
+        ],
+        [
+            36,
+            "IRONDEFENSE"
+        ],
+        [
+            36,
+            "AMNESIA"
+        ],
+        [
+            42,
+            "HAMMERARM"
+        ],
+        [
+            48,
+            "HEAVYSLAM"
+        ],
+        [
+            54,
+            "SUPERPOWER"
+        ],
+        [
+            60,
+            "LOCKON"
+        ],
+        [
+            66,
+            "ZAPCANNON"
+        ],
+        [
+            72,
+            "HYPERBEAM"
+        ],
+        [
+            78,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "BLOCK",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COUNTER",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHQUAKE",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASHCANNON",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HEADBUTT",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MAGNETRISE",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKCLIMB",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SELFDESTRUCT",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STEELROLLER",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 205.0,
+    "abilities": [
+        "CLEARBODY"
+    ],
+    "hiddenAbilitie": [
+        "LIGHTMETAL"
+    ],
+    "baseTotal": 580,
+    "baseStats": [
+        80,
+        75,
+        150,
+        50,
+        75,
+        150
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Registeel",
+    "species": "REGISTEEL",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "DEFENSE",
+        2,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 379
+}

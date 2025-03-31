@@ -1,0 +1,175 @@
+{
+    "generation": 5,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "QUICKGUARD"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "DETECT"
+        ],
+        [
+            1,
+            "FAKEOUT"
+        ],
+        [
+            1,
+            "REVERSAL"
+        ],
+        [
+            15,
+            "FURYSWIPES"
+        ],
+        [
+            20,
+            "WIDEGUARD"
+        ],
+        [
+            25,
+            "FORCEPALM"
+        ],
+        [
+            30,
+            "UTURN"
+        ],
+        [
+            35,
+            "DRAINPUNCH"
+        ],
+        [
+            40,
+            "HONECLAWS"
+        ],
+        [
+            45,
+            "AURASPHERE"
+        ],
+        [
+            53,
+            "BOUNCE"
+        ],
+        [
+            59,
+            "CALMMIND"
+        ],
+        [
+            66,
+            "HIGHJUMPKICK"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "ALLYSWITCH",
+        "ASSURANCE",
+        "ATTRACT",
+        "AURASPHERE",
+        "BATONPASS",
+        "BLAZEKICK",
+        "BOUNCE",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DUALCHOP",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAYBACK",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "TOXIC",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 35.5,
+    "abilities": [
+        "INNERFOCUS",
+        "REGENERATOR"
+    ],
+    "hiddenAbilitie": [
+        "RECKLESS"
+    ],
+    "baseTotal": 510,
+    "baseStats": [
+        65,
+        125,
+        60,
+        105,
+        95,
+        60
+    ],
+    "flags": [],
+    "name": "Mienshao",
+    "species": "MIENSHAO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 179,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 620
+}

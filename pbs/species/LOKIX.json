@@ -1,0 +1,154 @@
+{
+    "generation": 9,
+    "primaryType": "BUG",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            -1,
+            "LUNGE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "LOWKICK"
+        ],
+        [
+            1,
+            "DETECT"
+        ],
+        [
+            4,
+            "STRUGGLEBUG"
+        ],
+        [
+            6,
+            "ASTONISH"
+        ],
+        [
+            9,
+            "ASSURANCE"
+        ],
+        [
+            11,
+            "DOUBLEKICK"
+        ],
+        [
+            14,
+            "SCREECH"
+        ],
+        [
+            18,
+            "ENDURE"
+        ],
+        [
+            22,
+            "BUGBITE"
+        ],
+        [
+            28,
+            "FEINT"
+        ],
+        [
+            32,
+            "AGILITY"
+        ],
+        [
+            36,
+            "THROATCHOP"
+        ],
+        [
+            40,
+            "SUCKERPUNCH"
+        ],
+        [
+            44,
+            "FIRSTIMPRESSION"
+        ],
+        [
+            48,
+            "BOUNCE"
+        ],
+        [
+            53,
+            "AXEKICK"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "BRICKBREAK",
+        "BUGBITE",
+        "BUGBUZZ",
+        "DARKPULSE",
+        "DOUBLEEDGE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "GIGAIMPACT",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LEECHLIFE",
+        "LOWKICK",
+        "LOWSWEEP",
+        "LUNGE",
+        "POUNCE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "REVERSAL",
+        "SCARYFACE",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SPITE",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TRAILBLAZE",
+        "UTURN",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 17.5,
+    "abilities": [
+        "SWARM"
+    ],
+    "hiddenAbilitie": [
+        "TINTEDLENS"
+    ],
+    "baseTotal": 450,
+    "baseStats": [
+        71,
+        102,
+        78,
+        92,
+        52,
+        55
+    ],
+    "flags": [],
+    "name": "Lokix",
+    "species": "LOKIX",
+    "catchRate": 30,
+    "happiness": 0,
+    "baseExp": 158,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 920
+}

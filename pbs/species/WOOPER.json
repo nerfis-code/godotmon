@@ -1,0 +1,473 @@
+{
+    "generation": 2,
+    "primaryType": "WATER",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            4,
+            "RAINDANCE"
+        ],
+        [
+            8,
+            "MUDSHOT"
+        ],
+        [
+            12,
+            "MIST"
+        ],
+        [
+            12,
+            "HAZE"
+        ],
+        [
+            16,
+            "SLAM"
+        ],
+        [
+            21,
+            "YAWN"
+        ],
+        [
+            24,
+            "AQUATAIL"
+        ],
+        [
+            28,
+            "MUDDYWATER"
+        ],
+        [
+            32,
+            "AMNESIA"
+        ],
+        [
+            36,
+            "TOXIC"
+        ],
+        [
+            40,
+            "EARTHQUAKE"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFENSECURL",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "EERIEIMPULSE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GUARDSWAP",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INFESTATION",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLLOUT",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [
+        "ACIDSPRAY",
+        "AFTERYOU",
+        "ANCIENTPOWER",
+        "BODYSLAM",
+        "COUNTER",
+        "CURSE",
+        "DOUBLEKICK",
+        "EERIEIMPULSE",
+        "ENCORE",
+        "GUARDSWAP",
+        "POWERUPPUNCH",
+        "RECOVER",
+        "SPITUP",
+        "STOCKPILE",
+        "SWALLOW"
+    ],
+    "height": 0.4,
+    "weight": 8.5,
+    "abilities": [
+        "DAMP",
+        "WATERABSORB"
+    ],
+    "hiddenAbilitie": [
+        "UNAWARE"
+    ],
+    "baseTotal": 210,
+    "baseStats": [
+        55,
+        45,
+        45,
+        15,
+        25,
+        25
+    ],
+    "flags": [],
+    "name": "Wooper",
+    "species": "WOOPER",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 42,
+    "evs": [
+        "HP",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 2,
+            "primaryType": "WATER",
+            "secondaryType": "GROUND",
+            "moves": [
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    4,
+                    "RAINDANCE"
+                ],
+                [
+                    8,
+                    "MUDSHOT"
+                ],
+                [
+                    12,
+                    "MIST"
+                ],
+                [
+                    12,
+                    "HAZE"
+                ],
+                [
+                    16,
+                    "SLAM"
+                ],
+                [
+                    21,
+                    "YAWN"
+                ],
+                [
+                    24,
+                    "AQUATAIL"
+                ],
+                [
+                    28,
+                    "MUDDYWATER"
+                ],
+                [
+                    32,
+                    "AMNESIA"
+                ],
+                [
+                    36,
+                    "TOXIC"
+                ],
+                [
+                    40,
+                    "EARTHQUAKE"
+                ]
+            ],
+            "tutorMoves": [
+                "AFTERYOU",
+                "AMNESIA",
+                "ANCIENTPOWER",
+                "AQUATAIL",
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DEFENSECURL",
+                "DIG",
+                "DIVE",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "DYNAMICPUNCH",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "EERIEIMPULSE",
+                "ENCORE",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FRUSTRATION",
+                "GUARDSWAP",
+                "HAIL",
+                "HEADBUTT",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "ICEBEAM",
+                "ICEPUNCH",
+                "ICYWIND",
+                "INFESTATION",
+                "IRONTAIL",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROCKSMASH",
+                "ROLLOUT",
+                "ROUND",
+                "SAFEGUARD",
+                "SANDSTORM",
+                "SCALD",
+                "SECRETPOWER",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "TOXIC",
+                "WATERFALL",
+                "WATERPULSE",
+                "WHIRLPOOL"
+            ],
+            "eggMoves": [
+                "ACIDSPRAY",
+                "AFTERYOU",
+                "ANCIENTPOWER",
+                "BODYSLAM",
+                "COUNTER",
+                "CURSE",
+                "DOUBLEKICK",
+                "EERIEIMPULSE",
+                "ENCORE",
+                "GUARDSWAP",
+                "POWERUPPUNCH",
+                "RECOVER",
+                "SPITUP",
+                "STOCKPILE",
+                "SWALLOW"
+            ],
+            "height": 0.4,
+            "weight": 8.5,
+            "abilities": [
+                "DAMP",
+                "WATERABSORB"
+            ],
+            "hiddenAbilitie": [
+                "UNAWARE"
+            ],
+            "baseTotal": 210,
+            "baseStats": [
+                55,
+                45,
+                45,
+                15,
+                25,
+                25
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Wooper"
+        },
+        {
+            "generation": 9,
+            "primaryType": "POISON",
+            "secondaryType": "GROUND",
+            "moves": [
+                [
+                    1,
+                    "MUDSHOT"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    4,
+                    "TACKLE"
+                ],
+                [
+                    8,
+                    "POISONTAIL"
+                ],
+                [
+                    12,
+                    "TOXICSPIKES"
+                ],
+                [
+                    16,
+                    "SLAM"
+                ],
+                [
+                    21,
+                    "YAWN"
+                ],
+                [
+                    24,
+                    "POISONJAB"
+                ],
+                [
+                    28,
+                    "SLUDGEWAVE"
+                ],
+                [
+                    32,
+                    "AMNESIA"
+                ],
+                [
+                    36,
+                    "TOXIC"
+                ],
+                [
+                    40,
+                    "EARTHQUAKE"
+                ]
+            ],
+            "tutorMoves": [
+                "ACIDSPRAY",
+                "AMNESIA",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CHILLINGWATER",
+                "CURSE",
+                "DIG",
+                "DOUBLEEDGE",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "GUNKSHOT",
+                "HAZE",
+                "HELPINGHAND",
+                "HYDROPUMP",
+                "LIQUIDATION",
+                "LOWKICK",
+                "MUDSHOT",
+                "MUDSLAP",
+                "POISONJAB",
+                "POISONTAIL",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SPIKES",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "STONEEDGE",
+                "SUBSTITUTE",
+                "SURF",
+                "TAKEDOWN",
+                "TOXIC",
+                "TOXICSPIKES",
+                "TRAILBLAZE",
+                "VENOSHOCK",
+                "WATERFALL",
+                "WATERPULSE"
+            ],
+            "eggMoves": [
+                "ACIDSPRAY",
+                "AFTERYOU",
+                "ANCIENTPOWER",
+                "COUNTER",
+                "CURSE",
+                "DOUBLEKICK",
+                "HAZE",
+                "MIST",
+                "RECOVER",
+                "SPITUP",
+                "STOCKPILE",
+                "SWALLOW"
+            ],
+            "height": 0.4,
+            "weight": 11.0,
+            "abilities": [
+                "POISONPOINT",
+                "WATERABSORB"
+            ],
+            "hiddenAbilitie": [
+                "UNAWARE"
+            ],
+            "baseTotal": 210,
+            "baseStats": [
+                55,
+                45,
+                45,
+                15,
+                25,
+                25
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Paldea"
+        }
+    ],
+    "internationalPokedex": 194
+}

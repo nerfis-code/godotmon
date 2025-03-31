@@ -1,0 +1,454 @@
+{
+    "generation": 1,
+    "primaryType": "GROUND",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            4,
+            "GROWL"
+        ],
+        [
+            8,
+            "ASTONISH"
+        ],
+        [
+            12,
+            "MUDSLAP"
+        ],
+        [
+            16,
+            "BULLDOZE"
+        ],
+        [
+            20,
+            "SUCKERPUNCH"
+        ],
+        [
+            24,
+            "SLASH"
+        ],
+        [
+            28,
+            "SANDSTORM"
+        ],
+        [
+            32,
+            "DIG"
+        ],
+        [
+            36,
+            "EARTHPOWER"
+        ],
+        [
+            40,
+            "EARTHQUAKE"
+        ],
+        [
+            44,
+            "FISSURE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "ALLYSWITCH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SCORCHINGSANDS",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THIEF",
+        "UPROAR",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "ASTONISH",
+        "BEATUP",
+        "FINALGAMBIT",
+        "HEADBUTT",
+        "HONECLAWS",
+        "MEMENTO",
+        "REVERSAL",
+        "SCREECH",
+        "UPROAR"
+    ],
+    "height": 0.2,
+    "weight": 0.8,
+    "abilities": [
+        "SANDVEIL",
+        "ARENATRAP"
+    ],
+    "hiddenAbilitie": [
+        "SANDFORCE"
+    ],
+    "baseTotal": 265,
+    "baseStats": [
+        10,
+        55,
+        25,
+        95,
+        35,
+        45
+    ],
+    "flags": [],
+    "name": "Diglett",
+    "species": "DIGLETT",
+    "catchRate": 255,
+    "happiness": 50,
+    "baseExp": 53,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 1,
+            "primaryType": "GROUND",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "SANDATTACK"
+                ],
+                [
+                    1,
+                    "SCRATCH"
+                ],
+                [
+                    4,
+                    "GROWL"
+                ],
+                [
+                    8,
+                    "ASTONISH"
+                ],
+                [
+                    12,
+                    "MUDSLAP"
+                ],
+                [
+                    16,
+                    "BULLDOZE"
+                ],
+                [
+                    20,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    24,
+                    "SLASH"
+                ],
+                [
+                    28,
+                    "SANDSTORM"
+                ],
+                [
+                    32,
+                    "DIG"
+                ],
+                [
+                    36,
+                    "EARTHPOWER"
+                ],
+                [
+                    40,
+                    "EARTHQUAKE"
+                ],
+                [
+                    44,
+                    "FISSURE"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "ALLYSWITCH",
+                "ASSURANCE",
+                "ATTRACT",
+                "BEATUP",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CUT",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FRUSTRATION",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SCORCHINGSANDS",
+                "SCREECH",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNORE",
+                "STEALTHROCK",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "THIEF",
+                "UPROAR",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "ANCIENTPOWER",
+                "ASTONISH",
+                "BEATUP",
+                "FINALGAMBIT",
+                "HEADBUTT",
+                "HONECLAWS",
+                "MEMENTO",
+                "REVERSAL",
+                "SCREECH",
+                "UPROAR"
+            ],
+            "height": 0.2,
+            "weight": 0.8,
+            "abilities": [
+                "SANDVEIL",
+                "ARENATRAP"
+            ],
+            "hiddenAbilitie": [
+                "SANDFORCE"
+            ],
+            "baseTotal": 265,
+            "baseStats": [
+                10,
+                55,
+                25,
+                95,
+                35,
+                45
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Diglett"
+        },
+        {
+            "generation": 7,
+            "primaryType": "GROUND",
+            "secondaryType": "STEEL",
+            "moves": [
+                [
+                    1,
+                    "SANDATTACK"
+                ],
+                [
+                    1,
+                    "METALCLAW"
+                ],
+                [
+                    4,
+                    "GROWL"
+                ],
+                [
+                    7,
+                    "ASTONISH"
+                ],
+                [
+                    10,
+                    "MUDSLAP"
+                ],
+                [
+                    14,
+                    "MAGNITUDE"
+                ],
+                [
+                    18,
+                    "BULLDOZE"
+                ],
+                [
+                    22,
+                    "SUCKERPUNCH"
+                ],
+                [
+                    25,
+                    "MUDBOMB"
+                ],
+                [
+                    28,
+                    "EARTHPOWER"
+                ],
+                [
+                    31,
+                    "DIG"
+                ],
+                [
+                    35,
+                    "IRONHEAD"
+                ],
+                [
+                    39,
+                    "EARTHQUAKE"
+                ],
+                [
+                    43,
+                    "FISSURE"
+                ]
+            ],
+            "tutorMoves": [
+                "AERIALACE",
+                "AGILITY",
+                "ALLYSWITCH",
+                "ASSURANCE",
+                "ATTRACT",
+                "BEATUP",
+                "BODYSLAM",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CUT",
+                "DIG",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "EARTHPOWER",
+                "EARTHQUAKE",
+                "ECHOEDVOICE",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FRUSTRATION",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "IRONDEFENSE",
+                "IRONHEAD",
+                "MIMIC",
+                "MUDSLAP",
+                "NATURALGIFT",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROUND",
+                "SANDSTORM",
+                "SCORCHINGSANDS",
+                "SCREECH",
+                "SECRETPOWER",
+                "SHADOWCLAW",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SNORE",
+                "STEELBEAM",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "THIEF",
+                "UPROAR",
+                "WORKUP"
+            ],
+            "eggMoves": [
+                "ANCIENTPOWER",
+                "BEATUP",
+                "ENDURE",
+                "FEINTATTACK",
+                "FINALGAMBIT",
+                "HEADBUTT",
+                "MEMENTO",
+                "METALSOUND",
+                "PURSUIT",
+                "REVERSAL",
+                "THRASH"
+            ],
+            "height": 0.2,
+            "weight": 1.0,
+            "abilities": [
+                "SANDVEIL",
+                "TANGLINGHAIR"
+            ],
+            "hiddenAbilitie": [
+                "SANDFORCE"
+            ],
+            "baseTotal": 265,
+            "baseStats": [
+                10,
+                55,
+                30,
+                90,
+                35,
+                45
+            ],
+            "flags": [
+                "InheritFormWithEverStone"
+            ],
+            "form": 1,
+            "formName": "Forma Alola"
+        }
+    ],
+    "internationalPokedex": 50
+}

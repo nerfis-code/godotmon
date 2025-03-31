@@ -1,0 +1,186 @@
+{
+    "generation": 3,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            3,
+            "LEAFAGE"
+        ],
+        [
+            6,
+            "QUICKATTACK"
+        ],
+        [
+            9,
+            "MEGADRAIN"
+        ],
+        [
+            12,
+            "DETECT"
+        ],
+        [
+            15,
+            "QUICKGUARD"
+        ],
+        [
+            18,
+            "ASSURANCE"
+        ],
+        [
+            21,
+            "GIGADRAIN"
+        ],
+        [
+            24,
+            "SLAM"
+        ],
+        [
+            27,
+            "DOUBLETEAM"
+        ],
+        [
+            30,
+            "ENERGYBALL"
+        ],
+        [
+            33,
+            "SCREECH"
+        ],
+        [
+            36,
+            "ENDEAVOR"
+        ],
+        [
+            39,
+            "LEAFSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CRUNCH",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DYNAMICPUNCH",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "LEAFSTORM",
+        "LOWKICK",
+        "MAGICALLEAF",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SAFEGUARD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SEISMICTOSS",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THUNDERPUNCH",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "ABSORB",
+        "CRUNCH",
+        "CRUSHCLAW",
+        "DOUBLEKICK",
+        "DRAGONBREATH",
+        "ENDEAVOR",
+        "GRASSYTERRAIN",
+        "LEAFSTORM",
+        "LEECHSEED",
+        "MAGICALLEAF",
+        "NIGHTSLASH",
+        "SLASH",
+        "SYNTHESIS",
+        "WORRYSEED"
+    ],
+    "height": 0.5,
+    "weight": 5.0,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "UNBURDEN"
+    ],
+    "baseTotal": 310,
+    "baseStats": [
+        40,
+        45,
+        35,
+        70,
+        65,
+        55
+    ],
+    "flags": [],
+    "name": "Treecko",
+    "species": "TREECKO",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 252
+}

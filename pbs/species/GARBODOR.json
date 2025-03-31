@@ -1,0 +1,507 @@
+{
+    "generation": 5,
+    "primaryType": "POISON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TAKEDOWN"
+        ],
+        [
+            1,
+            "METALCLAW"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "POISONGAS"
+        ],
+        [
+            1,
+            "RECYCLE"
+        ],
+        [
+            1,
+            "ACIDSPRAY"
+        ],
+        [
+            9,
+            "AMNESIA"
+        ],
+        [
+            12,
+            "CLEARSMOG"
+        ],
+        [
+            15,
+            "TOXICSPIKES"
+        ],
+        [
+            18,
+            "SLUDGE"
+        ],
+        [
+            21,
+            "STOCKPILE"
+        ],
+        [
+            21,
+            "SWALLOW"
+        ],
+        [
+            24,
+            "BODYSLAM"
+        ],
+        [
+            27,
+            "SLUDGEBOMB"
+        ],
+        [
+            30,
+            "TOXIC"
+        ],
+        [
+            33,
+            "BELCH"
+        ],
+        [
+            39,
+            "PAINSPLIT"
+        ],
+        [
+            43,
+            "GUNKSHOT"
+        ],
+        [
+            48,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CORROSIVEGAS",
+        "CROSSPOISON",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLING",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "SPIKES",
+        "SPITE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THIEF",
+        "THUNDERBOLT",
+        "TOXIC",
+        "TOXICSPIKES",
+        "VENOMDRENCH",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 1.9,
+    "weight": 107.3,
+    "abilities": [
+        "STENCH",
+        "WEAKARMOR"
+    ],
+    "hiddenAbilitie": [
+        "AFTERMATH"
+    ],
+    "baseTotal": 474,
+    "baseStats": [
+        80,
+        95,
+        82,
+        75,
+        60,
+        82
+    ],
+    "flags": [],
+    "name": "Garbodor",
+    "species": "GARBODOR",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 166,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "POISON",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TAKEDOWN"
+                ],
+                [
+                    1,
+                    "METALCLAW"
+                ],
+                [
+                    1,
+                    "POUND"
+                ],
+                [
+                    1,
+                    "POISONGAS"
+                ],
+                [
+                    1,
+                    "RECYCLE"
+                ],
+                [
+                    1,
+                    "ACIDSPRAY"
+                ],
+                [
+                    9,
+                    "AMNESIA"
+                ],
+                [
+                    12,
+                    "CLEARSMOG"
+                ],
+                [
+                    15,
+                    "TOXICSPIKES"
+                ],
+                [
+                    18,
+                    "SLUDGE"
+                ],
+                [
+                    21,
+                    "STOCKPILE"
+                ],
+                [
+                    21,
+                    "SWALLOW"
+                ],
+                [
+                    24,
+                    "BODYSLAM"
+                ],
+                [
+                    27,
+                    "SLUDGEBOMB"
+                ],
+                [
+                    30,
+                    "TOXIC"
+                ],
+                [
+                    33,
+                    "BELCH"
+                ],
+                [
+                    39,
+                    "PAINSPLIT"
+                ],
+                [
+                    43,
+                    "GUNKSHOT"
+                ],
+                [
+                    48,
+                    "EXPLOSION"
+                ]
+            ],
+            "tutorMoves": [
+                "AMNESIA",
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CORROSIVEGAS",
+                "CROSSPOISON",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DRAINPUNCH",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FLING",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAINSPLIT",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "RECYCLE",
+                "REST",
+                "RETURN",
+                "ROCKBLAST",
+                "ROCKPOLISH",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SELFDESTRUCT",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SMACKDOWN",
+                "SNORE",
+                "SOLARBEAM",
+                "SPIKES",
+                "SPITE",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "THIEF",
+                "THUNDERBOLT",
+                "TOXIC",
+                "TOXICSPIKES",
+                "VENOMDRENCH",
+                "VENOSHOCK"
+            ],
+            "eggMoves": [],
+            "height": 1.9,
+            "weight": 107.3,
+            "abilities": [
+                "STENCH",
+                "WEAKARMOR"
+            ],
+            "hiddenAbilitie": [
+                "AFTERMATH"
+            ],
+            "baseTotal": 474,
+            "baseStats": [
+                80,
+                95,
+                82,
+                75,
+                60,
+                82
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Garbodor"
+        },
+        {
+            "generation": 8,
+            "primaryType": "POISON",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "TAKEDOWN"
+                ],
+                [
+                    1,
+                    "METALCLAW"
+                ],
+                [
+                    1,
+                    "POUND"
+                ],
+                [
+                    1,
+                    "POISONGAS"
+                ],
+                [
+                    1,
+                    "RECYCLE"
+                ],
+                [
+                    1,
+                    "ACIDSPRAY"
+                ],
+                [
+                    9,
+                    "AMNESIA"
+                ],
+                [
+                    12,
+                    "CLEARSMOG"
+                ],
+                [
+                    15,
+                    "TOXICSPIKES"
+                ],
+                [
+                    18,
+                    "SLUDGE"
+                ],
+                [
+                    21,
+                    "STOCKPILE"
+                ],
+                [
+                    21,
+                    "SWALLOW"
+                ],
+                [
+                    24,
+                    "BODYSLAM"
+                ],
+                [
+                    27,
+                    "SLUDGEBOMB"
+                ],
+                [
+                    30,
+                    "TOXIC"
+                ],
+                [
+                    33,
+                    "BELCH"
+                ],
+                [
+                    39,
+                    "PAINSPLIT"
+                ],
+                [
+                    43,
+                    "GUNKSHOT"
+                ],
+                [
+                    48,
+                    "EXPLOSION"
+                ]
+            ],
+            "tutorMoves": [
+                "AMNESIA",
+                "ATTRACT",
+                "BODYPRESS",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "CORROSIVEGAS",
+                "CROSSPOISON",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DRAINPUNCH",
+                "ENDURE",
+                "EXPLOSION",
+                "FACADE",
+                "FLING",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GUNKSHOT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "INFESTATION",
+                "MIMIC",
+                "NATURALGIFT",
+                "PAINSPLIT",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "RECYCLE",
+                "REST",
+                "RETURN",
+                "ROCKBLAST",
+                "ROCKPOLISH",
+                "ROUND",
+                "SCREECH",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SELFDESTRUCT",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SMACKDOWN",
+                "SNORE",
+                "SOLARBEAM",
+                "SPIKES",
+                "SPITE",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "THIEF",
+                "THUNDERBOLT",
+                "TOXIC",
+                "TOXICSPIKES",
+                "VENOMDRENCH",
+                "VENOSHOCK"
+            ],
+            "eggMoves": [],
+            "height": 21.0,
+            "weight": 107.3,
+            "abilities": [
+                "STENCH",
+                "WEAKARMOR"
+            ],
+            "hiddenAbilitie": [
+                "AFTERMATH"
+            ],
+            "baseTotal": 474,
+            "baseStats": [
+                80,
+                95,
+                82,
+                75,
+                60,
+                82
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 569
+}

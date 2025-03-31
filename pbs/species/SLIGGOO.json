@@ -1,0 +1,387 @@
+{
+    "generation": 6,
+    "primaryType": "DRAGON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "ACIDSPRAY"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            1,
+            "ACIDARMOR"
+        ],
+        [
+            15,
+            "PROTECT"
+        ],
+        [
+            20,
+            "FLAIL"
+        ],
+        [
+            25,
+            "WATERPULSE"
+        ],
+        [
+            30,
+            "RAINDANCE"
+        ],
+        [
+            35,
+            "DRAGONPULSE"
+        ],
+        [
+            43,
+            "CURSE"
+        ],
+        [
+            49,
+            "BODYSLAM"
+        ],
+        [
+            56,
+            "MUDDYWATER"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "INFESTATION",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROUND",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "THUNDERBOLT",
+        "TOXIC",
+        "WATERPULSE"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 17.5,
+    "abilities": [
+        "SAPSIPPER",
+        "HYDRATION"
+    ],
+    "hiddenAbilitie": [
+        "GOOEY"
+    ],
+    "baseTotal": 452,
+    "baseStats": [
+        68,
+        75,
+        53,
+        60,
+        83,
+        113
+    ],
+    "flags": [],
+    "name": "Sliggoo",
+    "species": "SLIGGOO",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 158,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 6,
+            "primaryType": "DRAGON",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "ACIDSPRAY"
+                ],
+                [
+                    1,
+                    "ABSORB"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "DRAGONBREATH"
+                ],
+                [
+                    1,
+                    "ACIDARMOR"
+                ],
+                [
+                    15,
+                    "PROTECT"
+                ],
+                [
+                    20,
+                    "FLAIL"
+                ],
+                [
+                    25,
+                    "WATERPULSE"
+                ],
+                [
+                    30,
+                    "RAINDANCE"
+                ],
+                [
+                    35,
+                    "DRAGONPULSE"
+                ],
+                [
+                    43,
+                    "CURSE"
+                ],
+                [
+                    49,
+                    "BODYSLAM"
+                ],
+                [
+                    56,
+                    "MUDDYWATER"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONPULSE",
+                "ENDURE",
+                "FACADE",
+                "FRUSTRATION",
+                "HIDDENPOWER",
+                "ICEBEAM",
+                "INFESTATION",
+                "IRONTAIL",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROUND",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "THUNDERBOLT",
+                "TOXIC",
+                "WATERPULSE"
+            ],
+            "eggMoves": [],
+            "height": 0.8,
+            "weight": 17.5,
+            "abilities": [
+                "SAPSIPPER",
+                "HYDRATION"
+            ],
+            "hiddenAbilitie": [
+                "GOOEY"
+            ],
+            "baseTotal": 452,
+            "baseStats": [
+                68,
+                75,
+                53,
+                60,
+                83,
+                113
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Sliggoo"
+        },
+        {
+            "generation": 8,
+            "primaryType": "STEEL",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    0,
+                    "SHELTER"
+                ],
+                [
+                    1,
+                    "ACIDARMOR"
+                ],
+                [
+                    1,
+                    "DRAGONBREATH"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "ABSORB"
+                ],
+                [
+                    15,
+                    "PROTECT"
+                ],
+                [
+                    20,
+                    "FLAIL"
+                ],
+                [
+                    25,
+                    "WATERPULSE"
+                ],
+                [
+                    30,
+                    "RAINDANCE"
+                ],
+                [
+                    35,
+                    "DRAGONPULSE"
+                ],
+                [
+                    43,
+                    "CURSE"
+                ],
+                [
+                    49,
+                    "IRONHEAD"
+                ],
+                [
+                    56,
+                    "MUDDYWATER"
+                ]
+            ],
+            "tutorMoves": [
+                "ACIDSPRAY",
+                "BLIZZARD",
+                "BODYSLAM",
+                "CHARM",
+                "CHILLINGWATER",
+                "CURSE",
+                "DRACOMETEOR",
+                "DRAGONPULSE",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "GYROBALL",
+                "HEAVYSLAM",
+                "ICEBEAM",
+                "ICESPINNER",
+                "IRONHEAD",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "OUTRAGE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "STEELBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "TAKEDOWN",
+                "THUNDER",
+                "THUNDERBOLT",
+                "WATERPULSE"
+            ],
+            "eggMoves": [],
+            "height": 0.7,
+            "weight": 68.5,
+            "abilities": [
+                "SAPSIPPER",
+                "SHELLARMOR"
+            ],
+            "hiddenAbilitie": [
+                "GOOEY"
+            ],
+            "baseTotal": 452,
+            "baseStats": [
+                58,
+                75,
+                83,
+                40,
+                83,
+                113
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Hisui"
+        }
+    ],
+    "internationalPokedex": 705
+}

@@ -1,0 +1,171 @@
+{
+    "generation": 8,
+    "primaryType": "FIGHTING",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "IRONDEFENSE"
+        ],
+        [
+            1,
+            "FIRSTIMPRESSION"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            15,
+            "ROCKSMASH"
+        ],
+        [
+            20,
+            "BRUTALSWING"
+        ],
+        [
+            25,
+            "DETECT"
+        ],
+        [
+            30,
+            "KNOCKOFF"
+        ],
+        [
+            35,
+            "DEFOG"
+        ],
+        [
+            40,
+            "BRICKBREAK"
+        ],
+        [
+            45,
+            "SWORDSDANCE"
+        ],
+        [
+            50,
+            "SLAM"
+        ],
+        [
+            55,
+            "LEAFBLADE"
+        ],
+        [
+            60,
+            "FINALGAMBIT"
+        ],
+        [
+            65,
+            "BRAVEBIRD"
+        ],
+        [
+            70,
+            "METEORASSAULT"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRAVEBIRD",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "FACADE",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GRASSYGLIDE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IRONDEFENSE",
+        "LEAFBLADE",
+        "MIMIC",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBLADE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THROATCHOP",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "COUNTER",
+        "COVET",
+        "CURSE",
+        "DOUBLEEDGE",
+        "FEINT",
+        "FLAIL",
+        "NIGHTSLASH",
+        "QUICKATTACK",
+        "QUICKGUARD",
+        "SIMPLEBEAM",
+        "SKYATTACK"
+    ],
+    "height": 0.8,
+    "weight": 117.0,
+    "abilities": [
+        "STEADFAST"
+    ],
+    "hiddenAbilitie": [
+        "SCRAPPY"
+    ],
+    "baseTotal": 507,
+    "baseStats": [
+        62,
+        135,
+        95,
+        65,
+        68,
+        82
+    ],
+    "flags": [
+        "DefaultForm_1",
+        "InheritFormWithEverStone"
+    ],
+    "name": "Sirfetch'd",
+    "species": "SIRFETCHD",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 177,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 865
+}

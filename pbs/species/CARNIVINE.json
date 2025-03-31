@@ -1,0 +1,152 @@
+{
+    "generation": 4,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "BIND"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            7,
+            "BITE"
+        ],
+        [
+            11,
+            "VINEWHIP"
+        ],
+        [
+            17,
+            "SWEETSCENT"
+        ],
+        [
+            21,
+            "INGRAIN"
+        ],
+        [
+            27,
+            "GRASSKNOT"
+        ],
+        [
+            31,
+            "LEAFTORNADO"
+        ],
+        [
+            37,
+            "STOCKPILE"
+        ],
+        [
+            37,
+            "SPITUP"
+        ],
+        [
+            37,
+            "SWALLOW"
+        ],
+        [
+            41,
+            "CRUNCH"
+        ],
+        [
+            47,
+            "SEEDBOMB"
+        ],
+        [
+            50,
+            "POWERWHIP"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BIND",
+        "BUGBITE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "KNOCKOFF",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THIEF",
+        "THROATCHOP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "ACIDSPRAY",
+        "LEECHSEED",
+        "MAGICALLEAF",
+        "RAGEPOWDER",
+        "RAZORLEAF",
+        "SLAM",
+        "SLEEPPOWDER",
+        "STUNSPORE",
+        "SYNTHESIS",
+        "WORRYSEED"
+    ],
+    "height": 1.4,
+    "weight": 27.0,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 454,
+    "baseStats": [
+        74,
+        100,
+        72,
+        46,
+        90,
+        72
+    ],
+    "flags": [],
+    "name": "Carnivine",
+    "species": "CARNIVINE",
+    "catchRate": 200,
+    "happiness": 50,
+    "baseExp": 159,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 455
+}

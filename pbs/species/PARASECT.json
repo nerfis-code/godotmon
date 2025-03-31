@@ -1,0 +1,152 @@
+{
+    "generation": 1,
+    "primaryType": "BUG",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "CROSSPOISON"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            6,
+            "STUNSPORE"
+        ],
+        [
+            6,
+            "POISONPOWDER"
+        ],
+        [
+            11,
+            "ABSORB"
+        ],
+        [
+            17,
+            "FURYCUTTER"
+        ],
+        [
+            22,
+            "SPORE"
+        ],
+        [
+            29,
+            "SLASH"
+        ],
+        [
+            37,
+            "GROWTH"
+        ],
+        [
+            44,
+            "GIGADRAIN"
+        ],
+        [
+            51,
+            "AROMATHERAPY"
+        ],
+        [
+            59,
+            "RAGEPOWDER"
+        ],
+        [
+            66,
+            "XSCISSOR"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AFTERYOU",
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BUGBITE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "KNOCKOFF",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "THIEF",
+        "THROATCHOP",
+        "VENOSHOCK",
+        "WORRYSEED",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 29.5,
+    "abilities": [
+        "EFFECTSPORE",
+        "DRYSKIN"
+    ],
+    "hiddenAbilitie": [
+        "DAMP"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        60,
+        95,
+        80,
+        30,
+        60,
+        80
+    ],
+    "flags": [],
+    "name": "Parasect",
+    "species": "PARASECT",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 142,
+    "evs": [
+        "ATTACK",
+        2,
+        "DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 47
+}

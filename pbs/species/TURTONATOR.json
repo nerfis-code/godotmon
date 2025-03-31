@@ -1,0 +1,177 @@
+{
+    "generation": 7,
+    "primaryType": "FIRE",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "SMOG"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            4,
+            "EMBER"
+        ],
+        [
+            8,
+            "PROTECT"
+        ],
+        [
+            12,
+            "ENDURE"
+        ],
+        [
+            16,
+            "FLAIL"
+        ],
+        [
+            20,
+            "INCINERATE"
+        ],
+        [
+            24,
+            "IRONDEFENSE"
+        ],
+        [
+            28,
+            "DRAGONPULSE"
+        ],
+        [
+            32,
+            "BODYSLAM"
+        ],
+        [
+            36,
+            "FLAMETHROWER"
+        ],
+        [
+            40,
+            "SHELLTRAP"
+        ],
+        [
+            44,
+            "SHELLSMASH"
+        ],
+        [
+            48,
+            "OVERHEAT"
+        ],
+        [
+            52,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLOCK",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRUTALSWING",
+        "BULKUP",
+        "BULLDOZE",
+        "BURNINGJEALOUSY",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLASHCANNON",
+        "FLING",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATCRASH",
+        "HEATWAVE",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "LASHOUT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "OVERHEAT",
+        "PAYBACK",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROAR",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALESHOT",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "SOLARBEAM",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TOXIC",
+        "UPROAR",
+        "VENOSHOCK",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "CURSE",
+        "HEADSMASH",
+        "RAPIDSPIN",
+        "WIDEGUARD"
+    ],
+    "height": 2.0,
+    "weight": 212.0,
+    "abilities": [
+        "SHELLARMOR"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 485,
+    "baseStats": [
+        60,
+        78,
+        135,
+        36,
+        91,
+        85
+    ],
+    "flags": [],
+    "name": "Turtonator",
+    "species": "TURTONATOR",
+    "catchRate": 70,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 776
+}

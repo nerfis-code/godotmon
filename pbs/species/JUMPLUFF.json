@@ -1,0 +1,167 @@
+{
+    "generation": 2,
+    "primaryType": "GRASS",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "SPLASH"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "SYNTHESIS"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            8,
+            "TACKLE"
+        ],
+        [
+            10,
+            "FAIRYWIND"
+        ],
+        [
+            12,
+            "POISONPOWDER"
+        ],
+        [
+            12,
+            "STUNSPORE"
+        ],
+        [
+            12,
+            "SLEEPPOWDER"
+        ],
+        [
+            15,
+            "BULLETSEED"
+        ],
+        [
+            20,
+            "LEECHSEED"
+        ],
+        [
+            24,
+            "MEGADRAIN"
+        ],
+        [
+            30,
+            "ACROBATICS"
+        ],
+        [
+            35,
+            "COTTONSPORE"
+        ],
+        [
+            39,
+            "RAGEPOWDER"
+        ],
+        [
+            43,
+            "GIGADRAIN"
+        ],
+        [
+            49,
+            "UTURN"
+        ],
+        [
+            49,
+            "BOUNCE"
+        ],
+        [
+            54,
+            "WORRYSEED"
+        ],
+        [
+            55,
+            "MEMENTO"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "ATTRACT",
+        "BOUNCE",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "UTURN",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 3.0,
+    "abilities": [
+        "CHLOROPHYLL",
+        "LEAFGUARD"
+    ],
+    "hiddenAbilitie": [
+        "INFILTRATOR"
+    ],
+    "baseTotal": 460,
+    "baseStats": [
+        75,
+        55,
+        70,
+        110,
+        55,
+        95
+    ],
+    "flags": [],
+    "name": "Jumpluff",
+    "species": "JUMPLUFF",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 230,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 189
+}

@@ -1,0 +1,165 @@
+{
+    "generation": 7,
+    "primaryType": "ROCK",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            5,
+            "ROCKTHROW"
+        ],
+        [
+            10,
+            "PROTECT"
+        ],
+        [
+            15,
+            "STOMP"
+        ],
+        [
+            20,
+            "BLOCK"
+        ],
+        [
+            25,
+            "ROCKSLIDE"
+        ],
+        [
+            30,
+            "WIDEGUARD"
+        ],
+        [
+            35,
+            "AUTOTOMIZE"
+        ],
+        [
+            40,
+            "ROCKBLAST"
+        ],
+        [
+            45,
+            "MAGNETRISE"
+        ],
+        [
+            50,
+            "IRONDEFENSE"
+        ],
+        [
+            55,
+            "IRONHEAD"
+        ],
+        [
+            60,
+            "TAKEDOWN"
+        ],
+        [
+            65,
+            "STEALTHROCK"
+        ],
+        [
+            70,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "BIND",
+        "BLOCK",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "GYROBALL",
+        "HEATCRASH",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MAGNETRISE",
+        "MEGAKICK",
+        "METEORBEAM",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKBLAST",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STEELROLLER",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "TELEKINESIS",
+        "TOXIC",
+        "TRICKROOM",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 5.5,
+    "weight": 820.0,
+    "abilities": [
+        "BEASTBOOST"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        61,
+        131,
+        211,
+        13,
+        53,
+        101
+    ],
+    "flags": [
+        "UltraBeast"
+    ],
+    "name": "Stakataka",
+    "species": "STAKATAKA",
+    "catchRate": 30,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 805
+}

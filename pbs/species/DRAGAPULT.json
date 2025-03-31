@@ -1,0 +1,178 @@
+{
+    "generation": 8,
+    "primaryType": "DRAGON",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            -1,
+            "DRAGONDARTS"
+        ],
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            1,
+            "SUCKERPUNCH"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "INFESTATION"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            6,
+            "LOCKON"
+        ],
+        [
+            12,
+            "ASSURANCE"
+        ],
+        [
+            18,
+            "HEX"
+        ],
+        [
+            24,
+            "AGILITY"
+        ],
+        [
+            30,
+            "DOUBLEHIT"
+        ],
+        [
+            36,
+            "UTURN"
+        ],
+        [
+            42,
+            "DRAGONDANCE"
+        ],
+        [
+            48,
+            "PHANTOMFORCE"
+        ],
+        [
+            54,
+            "TAKEDOWN"
+        ],
+        [
+            63,
+            "DRAGONRUSH"
+        ],
+        [
+            70,
+            "DOUBLEEDGE"
+        ],
+        [
+            78,
+            "LASTRESORT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AGILITY",
+        "ALLYSWITCH",
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "BEATUP",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FLAMETHROWER",
+        "FLY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HEX",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PHANTOMFORCE",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TRIATTACK",
+        "UTURN",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 3.0,
+    "weight": 50.0,
+    "abilities": [
+        "CLEARBODY",
+        "INFILTRATOR"
+    ],
+    "hiddenAbilitie": [
+        "CURSEDBODY"
+    ],
+    "baseTotal": 600,
+    "baseStats": [
+        88,
+        120,
+        75,
+        142,
+        100,
+        75
+    ],
+    "flags": [],
+    "name": "Dragapult",
+    "species": "DRAGAPULT",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 300,
+    "evs": [
+        "SPEED",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 887
+}

@@ -1,0 +1,177 @@
+{
+    "generation": 1,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            4,
+            "EMBER"
+        ],
+        [
+            8,
+            "SMOKESCREEN"
+        ],
+        [
+            12,
+            "DRAGONBREATH"
+        ],
+        [
+            17,
+            "FIREFANG"
+        ],
+        [
+            20,
+            "SLASH"
+        ],
+        [
+            24,
+            "FLAMETHROWER"
+        ],
+        [
+            28,
+            "SCARYFACE"
+        ],
+        [
+            32,
+            "FIRESPIN"
+        ],
+        [
+            36,
+            "INFERNO"
+        ],
+        [
+            40,
+            "FLAREBLITZ"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "ATTRACT",
+        "BEATUP",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CRUNCH",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DYNAMICPUNCH",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIREPLEDGE",
+        "FIREPUNCH",
+        "FIRESPIN",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLAREBLITZ",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HEADBUTT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "INCINERATE",
+        "IRONTAIL",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "OVERHEAT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "THUNDERPUNCH",
+        "WEATHERBALL",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "AIRCUTTER",
+        "ANCIENTPOWER",
+        "BEATUP",
+        "BELLYDRUM",
+        "BITE",
+        "COUNTER",
+        "CRUNCH",
+        "DRAGONDANCE",
+        "DRAGONRUSH",
+        "DRAGONTAIL",
+        "FLAREBLITZ",
+        "METALCLAW",
+        "OUTRAGE",
+        "WINGATTACK"
+    ],
+    "height": 0.6,
+    "weight": 8.5,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "SOLARPOWER"
+    ],
+    "baseTotal": 309,
+    "baseStats": [
+        39,
+        52,
+        43,
+        65,
+        60,
+        50
+    ],
+    "flags": [],
+    "name": "Charmander",
+    "species": "CHARMANDER",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 4
+}

@@ -1,0 +1,182 @@
+{
+    "generation": 3,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "DISARMINGVOICE"
+        ],
+        [
+            1,
+            "DOUBLETEAM"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            9,
+            "HYPNOSIS"
+        ],
+        [
+            12,
+            "DRAININGKISS"
+        ],
+        [
+            15,
+            "TELEPORT"
+        ],
+        [
+            18,
+            "PSYBEAM"
+        ],
+        [
+            23,
+            "LIFEDEW"
+        ],
+        [
+            28,
+            "CHARM"
+        ],
+        [
+            33,
+            "CALMMIND"
+        ],
+        [
+            38,
+            "PSYCHIC"
+        ],
+        [
+            43,
+            "HEALPULSE"
+        ],
+        [
+            48,
+            "DREAMEATER"
+        ],
+        [
+            53,
+            "FUTURESIGHT"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BODYSLAM",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "DAZZLINGGLEAM",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IMPRISON",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MISTYTERRAIN",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TRICK",
+        "TRICKROOM",
+        "TRIPLEAXEL",
+        "WILLOWISP",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 20.2,
+    "abilities": [
+        "SYNCHRONIZE",
+        "TRACE"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 278,
+    "baseStats": [
+        38,
+        35,
+        35,
+        50,
+        65,
+        55
+    ],
+    "flags": [],
+    "name": "Kirlia",
+    "species": "KIRLIA",
+    "catchRate": 120,
+    "happiness": 35,
+    "baseExp": 97,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 281
+}

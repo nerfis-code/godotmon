@@ -1,0 +1,183 @@
+{
+    "generation": 6,
+    "primaryType": "FLYING",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            -1,
+            "DRAGONPULSE"
+        ],
+        [
+            1,
+            "MOONLIGHT"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "SUPERSONIC"
+        ],
+        [
+            12,
+            "DOUBLETEAM"
+        ],
+        [
+            16,
+            "WINGATTACK"
+        ],
+        [
+            20,
+            "BITE"
+        ],
+        [
+            24,
+            "AIRCUTTER"
+        ],
+        [
+            28,
+            "WHIRLWIND"
+        ],
+        [
+            32,
+            "SUPERFANG"
+        ],
+        [
+            36,
+            "AIRSLASH"
+        ],
+        [
+            40,
+            "SCREECH"
+        ],
+        [
+            44,
+            "ROOST"
+        ],
+        [
+            51,
+            "TAILWIND"
+        ],
+        [
+            56,
+            "HURRICANE"
+        ],
+        [
+            62,
+            "BOOMBURST"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRSLASH",
+        "ATTRACT",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DARKPULSE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLAMETHROWER",
+        "FLY",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HURRICANE",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LEECHLIFE",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "UTURN",
+        "WATERPULSE",
+        "WILDCHARGE",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 85.0,
+    "abilities": [
+        "FRISK",
+        "INFILTRATOR"
+    ],
+    "hiddenAbilitie": [
+        "TELEPATHY"
+    ],
+    "baseTotal": 535,
+    "baseStats": [
+        85,
+        70,
+        80,
+        123,
+        97,
+        80
+    ],
+    "flags": [],
+    "name": "Noivern",
+    "species": "NOIVERN",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 187,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 715
+}

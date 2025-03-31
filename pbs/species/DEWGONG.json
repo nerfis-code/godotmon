@@ -1,0 +1,169 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            -1,
+            "SHEERCOLD"
+        ],
+        [
+            1,
+            "HEADBUTT"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "ICYWIND"
+        ],
+        [
+            7,
+            "BUBBLEBEAM"
+        ],
+        [
+            13,
+            "ENCORE"
+        ],
+        [
+            17,
+            "ICESHARD"
+        ],
+        [
+            21,
+            "REST"
+        ],
+        [
+            23,
+            "AQUARING"
+        ],
+        [
+            27,
+            "AURORABEAM"
+        ],
+        [
+            31,
+            "AQUAJET"
+        ],
+        [
+            33,
+            "BRINE"
+        ],
+        [
+            39,
+            "TAKEDOWN"
+        ],
+        [
+            45,
+            "DIVE"
+        ],
+        [
+            49,
+            "AQUATAIL"
+        ],
+        [
+            55,
+            "ICEBEAM"
+        ],
+        [
+            61,
+            "SAFEGUARD"
+        ],
+        [
+            65,
+            "HAIL"
+        ],
+        [
+            65,
+            "SNOWSCAPE"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRILLRUN",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "LIQUIDATION",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "THIEF",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.7,
+    "weight": 120.0,
+    "abilities": [
+        "THICKFAT",
+        "HYDRATION"
+    ],
+    "hiddenAbilitie": [
+        "ICEBODY"
+    ],
+    "baseTotal": 475,
+    "baseStats": [
+        90,
+        70,
+        80,
+        70,
+        70,
+        95
+    ],
+    "flags": [],
+    "name": "Dewgong",
+    "species": "DEWGONG",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 166,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 87
+}

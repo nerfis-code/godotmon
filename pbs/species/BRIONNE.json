@@ -1,0 +1,149 @@
+{
+    "generation": 7,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "DISARMINGVOICE"
+        ],
+        [
+            9,
+            "AQUAJET"
+        ],
+        [
+            12,
+            "BABYDOLLEYES"
+        ],
+        [
+            15,
+            "ICYWIND"
+        ],
+        [
+            20,
+            "SING"
+        ],
+        [
+            25,
+            "BUBBLEBEAM"
+        ],
+        [
+            30,
+            "ENCORE"
+        ],
+        [
+            35,
+            "MISTYTERRAIN"
+        ],
+        [
+            40,
+            "HYPERVOICE"
+        ],
+        [
+            45,
+            "MOONBLAST"
+        ],
+        [
+            50,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AMNESIA",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BRINE",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DIVE",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "ECHOEDVOICE",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLIPTURN",
+        "FRUSTRATION",
+        "HAIL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONTAIL",
+        "MIMIC",
+        "MISTYTERRAIN",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "TRIPLEAXEL",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPLEDGE",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WONDERROOM",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 0.6,
+    "weight": 17.5,
+    "abilities": [
+        "TORRENT"
+    ],
+    "hiddenAbilitie": [
+        "LIQUIDVOICE"
+    ],
+    "baseTotal": 420,
+    "baseStats": [
+        60,
+        69,
+        69,
+        50,
+        91,
+        81
+    ],
+    "flags": [],
+    "name": "Brionne",
+    "species": "BRIONNE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 147,
+    "evs": [
+        "SPECIAL_ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 729
+}

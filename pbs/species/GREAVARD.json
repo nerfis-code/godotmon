@@ -1,0 +1,147 @@
+{
+    "generation": 9,
+    "primaryType": "GHOST",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            3,
+            "LICK"
+        ],
+        [
+            6,
+            "TAILWHIP"
+        ],
+        [
+            6,
+            "BITE"
+        ],
+        [
+            9,
+            "ROAR"
+        ],
+        [
+            12,
+            "HEADBUTT"
+        ],
+        [
+            16,
+            "DIG"
+        ],
+        [
+            24,
+            "REST"
+        ],
+        [
+            28,
+            "CRUNCH"
+        ],
+        [
+            32,
+            "PLAYROUGH"
+        ],
+        [
+            37,
+            "HELPINGHAND"
+        ],
+        [
+            41,
+            "PHANTOMFORCE"
+        ],
+        [
+            46,
+            "CHARM"
+        ],
+        [
+            52,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "BULLDOZE",
+        "CHARM",
+        "CONFUSERAY",
+        "CRUNCH",
+        "DIG",
+        "DOUBLEEDGE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "HELPINGHAND",
+        "HEX",
+        "ICEFANG",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NIGHTSHADE",
+        "PAINSPLIT",
+        "PHANTOMFORCE",
+        "PLAYROUGH",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "ROAR",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNARL",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "THIEF",
+        "THUNDERFANG",
+        "TRICK",
+        "UPROAR"
+    ],
+    "eggMoves": [
+        "ALLYSWITCH",
+        "DESTINYBOND",
+        "DISABLE",
+        "HOWL",
+        "MEMENTO",
+        "SHADOWSNEAK",
+        "YAWN"
+    ],
+    "height": 0.6,
+    "weight": 35.0,
+    "abilities": [
+        "PICKUP"
+    ],
+    "hiddenAbilitie": [
+        "FLUFFY"
+    ],
+    "baseTotal": 290,
+    "baseStats": [
+        50,
+        61,
+        60,
+        34,
+        30,
+        55
+    ],
+    "flags": [],
+    "name": "Greavard",
+    "species": "GREAVARD",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 58,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 971
+}

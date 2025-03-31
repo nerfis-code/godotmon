@@ -1,0 +1,159 @@
+{
+    "generation": 5,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "NUZZLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            5,
+            "DOUBLETEAM"
+        ],
+        [
+            10,
+            "QUICKATTACK"
+        ],
+        [
+            15,
+            "THUNDERSHOCK"
+        ],
+        [
+            20,
+            "CHARGE"
+        ],
+        [
+            25,
+            "ACROBATICS"
+        ],
+        [
+            30,
+            "SPARK"
+        ],
+        [
+            35,
+            "ENCORE"
+        ],
+        [
+            40,
+            "VOLTSWITCH"
+        ],
+        [
+            45,
+            "LIGHTSCREEN"
+        ],
+        [
+            50,
+            "DISCHARGE"
+        ],
+        [
+            55,
+            "AGILITY"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AGILITY",
+        "AIRSLASH",
+        "ATTRACT",
+        "BATONPASS",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DUALWINGBEAT",
+        "EERIEIMPULSE",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPEEDSWAP",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TAUNT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "UTURN",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "ASTONISH",
+        "COVET",
+        "DEFOG",
+        "ROOST",
+        "SHOCKWAVE",
+        "TICKLE"
+    ],
+    "height": 0.4,
+    "weight": 5.0,
+    "abilities": [
+        "STATIC"
+    ],
+    "hiddenAbilitie": [
+        "MOTORDRIVE"
+    ],
+    "baseTotal": 428,
+    "baseStats": [
+        55,
+        75,
+        60,
+        103,
+        75,
+        60
+    ],
+    "flags": [],
+    "name": "Emolga",
+    "species": "EMOLGA",
+    "catchRate": 200,
+    "happiness": 50,
+    "baseExp": 150,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 587
+}

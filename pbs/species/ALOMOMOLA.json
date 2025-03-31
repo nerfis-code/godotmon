@@ -1,0 +1,167 @@
+{
+    "generation": 5,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "PLAYNICE"
+        ],
+        [
+            1,
+            "POUND"
+        ],
+        [
+            1,
+            "WATERSPORT"
+        ],
+        [
+            5,
+            "AQUARING"
+        ],
+        [
+            9,
+            "AQUAJET"
+        ],
+        [
+            13,
+            "WIDEGUARD"
+        ],
+        [
+            13,
+            "HELPINGHAND"
+        ],
+        [
+            13,
+            "DOUBLESLAP"
+        ],
+        [
+            17,
+            "HEALPULSE"
+        ],
+        [
+            21,
+            "PROTECT"
+        ],
+        [
+            25,
+            "WATERPULSE"
+        ],
+        [
+            29,
+            "HEALINGWISH"
+        ],
+        [
+            29,
+            "WAKEUPSLAP"
+        ],
+        [
+            33,
+            "SOAK"
+        ],
+        [
+            37,
+            "WISH"
+        ],
+        [
+            41,
+            "BRINE"
+        ],
+        [
+            45,
+            "SAFEGUARD"
+        ],
+        [
+            49,
+            "WHIRLPOOL"
+        ],
+        [
+            55,
+            "HYDROPUMP"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BOUNCE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HAIL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEBEAM",
+        "ICYWIND",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "LIQUIDATION",
+        "MAGICCOAT",
+        "MIMIC",
+        "NATURALGIFT",
+        "PAINSPLIT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "WATERFALL",
+        "WATERPULSE"
+    ],
+    "eggMoves": [
+        "ENDURE",
+        "MIRRORCOAT",
+        "MIST",
+        "PAINSPLIT",
+        "REFRESH",
+        "TICKLE"
+    ],
+    "height": 1.2,
+    "weight": 31.6,
+    "abilities": [
+        "HEALER",
+        "HYDRATION"
+    ],
+    "hiddenAbilitie": [
+        "REGENERATOR"
+    ],
+    "baseTotal": 470,
+    "baseStats": [
+        165,
+        75,
+        80,
+        65,
+        40,
+        45
+    ],
+    "flags": [],
+    "name": "Alomomola",
+    "species": "ALOMOMOLA",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 165,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 594
+}

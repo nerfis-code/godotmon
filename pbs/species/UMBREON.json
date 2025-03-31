@@ -1,0 +1,210 @@
+{
+    "generation": 2,
+    "primaryType": "DARK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "SNARL"
+        ],
+        [
+            1,
+            "FOULPLAY"
+        ],
+        [
+            1,
+            "COVET"
+        ],
+        [
+            1,
+            "SWIFT"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "COPYCAT"
+        ],
+        [
+            1,
+            "BATONPASS"
+        ],
+        [
+            1,
+            "TAKEDOWN"
+        ],
+        [
+            1,
+            "CHARM"
+        ],
+        [
+            1,
+            "DOUBLEEDGE"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            5,
+            "SANDATTACK"
+        ],
+        [
+            10,
+            "QUICKATTACK"
+        ],
+        [
+            15,
+            "BABYDOLLEYES"
+        ],
+        [
+            20,
+            "CONFUSERAY"
+        ],
+        [
+            25,
+            "ASSURANCE"
+        ],
+        [
+            30,
+            "MOONLIGHT"
+        ],
+        [
+            35,
+            "GUARDSWAP"
+        ],
+        [
+            40,
+            "DARKPULSE"
+        ],
+        [
+            45,
+            "SCREECH"
+        ],
+        [
+            50,
+            "MEANLOOK"
+        ],
+        [
+            55,
+            "LASTRESORT"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "CRUNCH",
+        "CUT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FLASH",
+        "FOCUSENERGY",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GUARDSWAP",
+        "HEADBUTT",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LASHOUT",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PAYDAY",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TORMENT",
+        "WEATHERBALL",
+        "WONDERROOM",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 27.0,
+    "abilities": [
+        "SYNCHRONIZE"
+    ],
+    "hiddenAbilitie": [
+        "INNERFOCUS"
+    ],
+    "baseTotal": 525,
+    "baseStats": [
+        95,
+        65,
+        110,
+        65,
+        60,
+        130
+    ],
+    "flags": [],
+    "name": "Umbreon",
+    "species": "UMBREON",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 184,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 197
+}

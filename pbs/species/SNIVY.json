@@ -1,0 +1,165 @@
+{
+    "generation": 5,
+    "primaryType": "GRASS",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            4,
+            "LEER"
+        ],
+        [
+            7,
+            "VINEWHIP"
+        ],
+        [
+            10,
+            "WRAP"
+        ],
+        [
+            13,
+            "GROWTH"
+        ],
+        [
+            16,
+            "LEAFTORNADO"
+        ],
+        [
+            16,
+            "MAGICALLEAF"
+        ],
+        [
+            19,
+            "LEECHSEED"
+        ],
+        [
+            22,
+            "MEGADRAIN"
+        ],
+        [
+            25,
+            "SLAM"
+        ],
+        [
+            28,
+            "LEAFBLADE"
+        ],
+        [
+            31,
+            "COIL"
+        ],
+        [
+            34,
+            "GIGADRAIN"
+        ],
+        [
+            37,
+            "WRINGOUT"
+        ],
+        [
+            37,
+            "GASTROACID"
+        ],
+        [
+            40,
+            "LEAFSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ATTRACT",
+        "BIND",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DEFOG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PROTECT",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TAUNT",
+        "TORMENT",
+        "TOXIC",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [
+        "CAPTIVATE",
+        "GLARE",
+        "GRASSYTERRAIN",
+        "IRONTAIL",
+        "MAGICALLEAF",
+        "MEANLOOK",
+        "MIRRORCOAT",
+        "NATURALGIFT",
+        "PURSUIT",
+        "SWEETSCENT",
+        "TWISTER"
+    ],
+    "height": 0.6,
+    "weight": 8.1,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "CONTRARY"
+    ],
+    "baseTotal": 308,
+    "baseStats": [
+        45,
+        45,
+        55,
+        63,
+        45,
+        55
+    ],
+    "flags": [],
+    "name": "Snivy",
+    "species": "SNIVY",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 495
+}

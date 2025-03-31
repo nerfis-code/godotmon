@@ -1,0 +1,168 @@
+{
+    "generation": 4,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SWAGGER"
+        ],
+        [
+            1,
+            "FAKEOUT"
+        ],
+        [
+            1,
+            "SUCKERPUNCH"
+        ],
+        [
+            1,
+            "PLAYROUGH"
+        ],
+        [
+            5,
+            "SCRATCH"
+        ],
+        [
+            8,
+            "GROWL"
+        ],
+        [
+            13,
+            "HYPNOSIS"
+        ],
+        [
+            17,
+            "AERIALACE"
+        ],
+        [
+            20,
+            "FURYSWIPES"
+        ],
+        [
+            25,
+            "CHARM"
+        ],
+        [
+            29,
+            "TAUNT"
+        ],
+        [
+            32,
+            "RETALIATE"
+        ],
+        [
+            37,
+            "SLASH"
+        ],
+        [
+            45,
+            "BODYSLAM"
+        ],
+        [
+            52,
+            "ATTRACT"
+        ],
+        [
+            60,
+            "HONECLAWS"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ATTRACT",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "TORMENT",
+        "UTURN",
+        "WATERPULSE",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 43.8,
+    "abilities": [
+        "THICKFAT",
+        "OWNTEMPO"
+    ],
+    "hiddenAbilitie": [
+        "DEFIANT"
+    ],
+    "baseTotal": 452,
+    "baseStats": [
+        71,
+        82,
+        64,
+        112,
+        64,
+        59
+    ],
+    "flags": [],
+    "name": "Purugly",
+    "species": "PURUGLY",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 158,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "FAST",
+    "genderRatio": 75,
+    "forms": [],
+    "internationalPokedex": 432
+}

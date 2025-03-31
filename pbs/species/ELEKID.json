@@ -1,0 +1,164 @@
+{
+    "generation": 2,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            4,
+            "THUNDERSHOCK"
+        ],
+        [
+            8,
+            "CHARGE"
+        ],
+        [
+            12,
+            "SWIFT"
+        ],
+        [
+            16,
+            "SHOCKWAVE"
+        ],
+        [
+            20,
+            "THUNDERWAVE"
+        ],
+        [
+            24,
+            "SCREECH"
+        ],
+        [
+            28,
+            "THUNDERPUNCH"
+        ],
+        [
+            32,
+            "DISCHARGE"
+        ],
+        [
+            36,
+            "LOWKICK"
+        ],
+        [
+            40,
+            "THUNDERBOLT"
+        ],
+        [
+            44,
+            "LIGHTSCREEN"
+        ],
+        [
+            48,
+            "THUNDER"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DUALCHOP",
+        "DYNAMICPUNCH",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "ICEPUNCH",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "MAGNETRISE",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "UPROAR",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "CROSSCHOP",
+        "DYNAMICPUNCH",
+        "FEINT",
+        "FIREPUNCH",
+        "FOCUSPUNCH",
+        "HAMMERARM",
+        "ICEPUNCH"
+    ],
+    "height": 0.6,
+    "weight": 23.5,
+    "abilities": [
+        "STATIC"
+    ],
+    "hiddenAbilitie": [
+        "VITALSPIRIT"
+    ],
+    "baseTotal": 360,
+    "baseStats": [
+        45,
+        63,
+        37,
+        95,
+        65,
+        55
+    ],
+    "flags": [],
+    "name": "Elekid",
+    "species": "ELEKID",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 72,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 25,
+    "forms": [],
+    "internationalPokedex": 239
+}

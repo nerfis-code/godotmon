@@ -1,0 +1,196 @@
+{
+    "generation": 6,
+    "primaryType": "FIRE",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            -1,
+            "MYSTICALFIRE"
+        ],
+        [
+            1,
+            "FUTURESIGHT"
+        ],
+        [
+            1,
+            "ROLEPLAY"
+        ],
+        [
+            1,
+            "SWITCHEROO"
+        ],
+        [
+            1,
+            "SHADOWBALL"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "EMBER"
+        ],
+        [
+            1,
+            "HOWL"
+        ],
+        [
+            14,
+            "FLAMECHARGE"
+        ],
+        [
+            18,
+            "PSYBEAM"
+        ],
+        [
+            22,
+            "FIRESPIN"
+        ],
+        [
+            28,
+            "LUCKYCHANT"
+        ],
+        [
+            28,
+            "LIGHTSCREEN"
+        ],
+        [
+            38,
+            "PSYSHOCK"
+        ],
+        [
+            45,
+            "FLAMETHROWER"
+        ],
+        [
+            51,
+            "WILLOWISP"
+        ],
+        [
+            57,
+            "PSYCHIC"
+        ],
+        [
+            62,
+            "SUNNYDAY"
+        ],
+        [
+            68,
+            "MAGICROOM"
+        ],
+        [
+            74,
+            "FIREBLAST"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BLASTBURN",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPLEDGE",
+        "FIREPUNCH",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "LOWKICK",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "WILLOWISP",
+        "WONDERROOM",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 39.0,
+    "abilities": [
+        "BLAZE"
+    ],
+    "hiddenAbilitie": [
+        "MAGICIAN"
+    ],
+    "baseTotal": 534,
+    "baseStats": [
+        75,
+        69,
+        72,
+        104,
+        114,
+        100
+    ],
+    "flags": [],
+    "name": "Delphox",
+    "species": "DELPHOX",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 267,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 655
+}

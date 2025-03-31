@@ -1,0 +1,164 @@
+{
+    "generation": 3,
+    "primaryType": "BUG",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "GUST"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "STRINGSHOT"
+        ],
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "BUGBITE"
+        ],
+        [
+            12,
+            "ABSORB"
+        ],
+        [
+            15,
+            "STUNSPORE"
+        ],
+        [
+            17,
+            "MORNINGSUN"
+        ],
+        [
+            20,
+            "AIRCUTTER"
+        ],
+        [
+            22,
+            "MEGADRAIN"
+        ],
+        [
+            25,
+            "LEECHLIFE"
+        ],
+        [
+            27,
+            "ATTRACT"
+        ],
+        [
+            30,
+            "WHIRLWIND"
+        ],
+        [
+            32,
+            "GIGADRAIN"
+        ],
+        [
+            35,
+            "BUGBUZZ"
+        ],
+        [
+            37,
+            "PROTECT"
+        ],
+        [
+            40,
+            "QUIVERDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ELECTROWEB",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "INFESTATION",
+        "LASERFOCUS",
+        "MIMIC",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PROTECT",
+        "PSYCHIC",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SIGNALBEAM",
+        "SILVERWIND",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "STRINGSHOT",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TWISTER",
+        "UTURN",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 28.4,
+    "abilities": [
+        "SWARM"
+    ],
+    "hiddenAbilitie": [
+        "RIVALRY"
+    ],
+    "baseTotal": 395,
+    "baseStats": [
+        60,
+        70,
+        50,
+        65,
+        100,
+        50
+    ],
+    "flags": [],
+    "name": "Beautifly",
+    "species": "BEAUTIFLY",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 198,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 267
+}

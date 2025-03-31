@@ -1,0 +1,345 @@
+{
+    "generation": 9,
+    "primaryType": "GRASS",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            1,
+            "STUNSPORE"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            6,
+            "ABSORB"
+        ],
+        [
+            12,
+            "LIFEDEW"
+        ],
+        [
+            18,
+            "FOULPLAY"
+        ],
+        [
+            24,
+            "MEGADRAIN"
+        ],
+        [
+            30,
+            "HEX"
+        ],
+        [
+            36,
+            "RAGEPOWDER"
+        ],
+        [
+            42,
+            "GIGADRAIN"
+        ],
+        [
+            48,
+            "SHADOWBALL"
+        ],
+        [
+            54,
+            "MEMENTO"
+        ],
+        [
+            60,
+            "LEAFSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "CALMMIND",
+        "CURSE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FOULPLAY",
+        "GIGADRAIN",
+        "GRASSYTERRAIN",
+        "HEX",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "LEAFSTORM",
+        "MAGICALLEAF",
+        "NASTYPLOT",
+        "NIGHTSHADE",
+        "PAINSPLIT",
+        "PHANTOMFORCE",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "SCALD",
+        "SHADOWBALL",
+        "SLEEPTALK",
+        "SOLARBEAM",
+        "SPITE",
+        "SUBSTITUTE",
+        "TRICKROOM",
+        "UPROAR"
+    ],
+    "eggMoves": [],
+    "height": 0.1,
+    "weight": 1.1,
+    "abilities": [
+        "HOSPITALITY"
+    ],
+    "hiddenAbilitie": [
+        "HEATPROOF"
+    ],
+    "baseTotal": 308,
+    "baseStats": [
+        40,
+        45,
+        45,
+        50,
+        74,
+        54
+    ],
+    "flags": [],
+    "name": "Poltchageist",
+    "species": "POLTCHAGEIST",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 62,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 9,
+            "primaryType": "GRASS",
+            "secondaryType": "GHOST",
+            "moves": [
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "WITHDRAW"
+                ],
+                [
+                    6,
+                    "ABSORB"
+                ],
+                [
+                    12,
+                    "LIFEDEW"
+                ],
+                [
+                    18,
+                    "FOULPLAY"
+                ],
+                [
+                    24,
+                    "MEGADRAIN"
+                ],
+                [
+                    30,
+                    "HEX"
+                ],
+                [
+                    36,
+                    "RAGEPOWDER"
+                ],
+                [
+                    42,
+                    "GIGADRAIN"
+                ],
+                [
+                    48,
+                    "SHADOWBALL"
+                ],
+                [
+                    54,
+                    "MEMENTO"
+                ],
+                [
+                    60,
+                    "LEAFSTORM"
+                ]
+            ],
+            "tutorMoves": [
+                "CALMMIND",
+                "CURSE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FOULPLAY",
+                "GIGADRAIN",
+                "GRASSYTERRAIN",
+                "HEX",
+                "IMPRISON",
+                "IRONDEFENSE",
+                "LEAFSTORM",
+                "MAGICALLEAF",
+                "NASTYPLOT",
+                "NIGHTSHADE",
+                "PAINSPLIT",
+                "PHANTOMFORCE",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHUP",
+                "REFLECT",
+                "REST",
+                "SCALD",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SPITE",
+                "SUBSTITUTE",
+                "TRICKROOM",
+                "UPROAR"
+            ],
+            "eggMoves": [],
+            "height": 0.1,
+            "weight": 1.1,
+            "abilities": [
+                "HOSPITALITY"
+            ],
+            "hiddenAbilitie": [
+                "HEATPROOF"
+            ],
+            "baseTotal": 308,
+            "baseStats": [
+                40,
+                45,
+                45,
+                50,
+                74,
+                54
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Fraudulenta"
+        },
+        {
+            "generation": 9,
+            "primaryType": "GRASS",
+            "secondaryType": "GHOST",
+            "moves": [
+                [
+                    1,
+                    "STUNSPORE"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "WITHDRAW"
+                ],
+                [
+                    6,
+                    "ABSORB"
+                ],
+                [
+                    12,
+                    "LIFEDEW"
+                ],
+                [
+                    18,
+                    "FOULPLAY"
+                ],
+                [
+                    24,
+                    "MEGADRAIN"
+                ],
+                [
+                    30,
+                    "HEX"
+                ],
+                [
+                    36,
+                    "RAGEPOWDER"
+                ],
+                [
+                    42,
+                    "GIGADRAIN"
+                ],
+                [
+                    48,
+                    "SHADOWBALL"
+                ],
+                [
+                    54,
+                    "MEMENTO"
+                ],
+                [
+                    60,
+                    "LEAFSTORM"
+                ]
+            ],
+            "tutorMoves": [
+                "CALMMIND",
+                "CURSE",
+                "ENDURE",
+                "ENERGYBALL",
+                "FOULPLAY",
+                "GIGADRAIN",
+                "GRASSYTERRAIN",
+                "HEX",
+                "IMPRISON",
+                "IRONDEFENSE",
+                "LEAFSTORM",
+                "MAGICALLEAF",
+                "NASTYPLOT",
+                "NIGHTSHADE",
+                "PAINSPLIT",
+                "PHANTOMFORCE",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHUP",
+                "REFLECT",
+                "REST",
+                "SCALD",
+                "SHADOWBALL",
+                "SLEEPTALK",
+                "SOLARBEAM",
+                "SPITE",
+                "SUBSTITUTE",
+                "TRICKROOM",
+                "UPROAR"
+            ],
+            "eggMoves": [],
+            "height": 0.1,
+            "weight": 1.1,
+            "abilities": [
+                "HOSPITALITY"
+            ],
+            "hiddenAbilitie": [
+                "HEATPROOF"
+            ],
+            "baseTotal": 308,
+            "baseStats": [
+                40,
+                45,
+                45,
+                50,
+                74,
+                54
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Opulenta"
+        }
+    ],
+    "internationalPokedex": 1012
+}

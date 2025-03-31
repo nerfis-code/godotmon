@@ -1,0 +1,213 @@
+{
+    "generation": 1,
+    "primaryType": "POISON",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            1,
+            "MEGAHORN"
+        ],
+        [
+            1,
+            "SLUDGEWAVE"
+        ],
+        [
+            1,
+            "FURYATTACK"
+        ],
+        [
+            1,
+            "TOXICSPIKES"
+        ],
+        [
+            1,
+            "DOUBLEKICK"
+        ],
+        [
+            1,
+            "HORNATTACK"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "TOXIC"
+        ],
+        [
+            1,
+            "FLATTER"
+        ],
+        [
+            1,
+            "POISONJAB"
+        ],
+        [
+            1,
+            "EARTHPOWER"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "AQUATAIL",
+        "ATTRACT",
+        "AVALANCHE",
+        "BEATUP",
+        "BLIZZARD",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DRILLRUN",
+        "DYNAMICPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HEX",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "IRONTAIL",
+        "MEGAHORN",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYDAY",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "QUASH",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKBLAST",
+        "ROCKCLIMB",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SMACKDOWN",
+        "SMARTSTRIKE",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "TORMENT",
+        "TOXIC",
+        "TOXICSPIKES",
+        "UPROAR",
+        "VENOMDRENCH",
+        "VENOSHOCK",
+        "WATERPULSE",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 1.4,
+    "weight": 62.0,
+    "abilities": [
+        "POISONPOINT",
+        "RIVALRY"
+    ],
+    "hiddenAbilitie": [
+        "SHEERFORCE"
+    ],
+    "baseTotal": 505,
+    "baseStats": [
+        81,
+        102,
+        77,
+        85,
+        85,
+        75
+    ],
+    "flags": [],
+    "name": "Nidoking",
+    "species": "NIDOKING",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 253,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 0,
+    "forms": [],
+    "internationalPokedex": 34
+}

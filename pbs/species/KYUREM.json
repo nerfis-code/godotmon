@@ -1,0 +1,982 @@
+{
+    "generation": 5,
+    "primaryType": "DRAGON",
+    "secondaryType": "ICE",
+    "moves": [
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            1,
+            "NOBLEROAR"
+        ],
+        [
+            1,
+            "ANCIENTPOWER"
+        ],
+        [
+            1,
+            "FREEZEDRY"
+        ],
+        [
+            8,
+            "SLASH"
+        ],
+        [
+            16,
+            "ENDEAVOR"
+        ],
+        [
+            24,
+            "DRAGONPULSE"
+        ],
+        [
+            32,
+            "ICEBEAM"
+        ],
+        [
+            40,
+            "HYPERVOICE"
+        ],
+        [
+            48,
+            "SCARYFACE"
+        ],
+        [
+            56,
+            "BLIZZARD"
+        ],
+        [
+            64,
+            "IMPRISON"
+        ],
+        [
+            72,
+            "OUTRAGE"
+        ],
+        [
+            80,
+            "GLACIATE"
+        ],
+        [
+            88,
+            "SHEERCOLD"
+        ]
+    ],
+    "tutorMoves": [
+        "BLIZZARD",
+        "BODYPRESS",
+        "BREAKINGSWIPE",
+        "BRUTALSWING",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONCLAW",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "ECHOEDVOICE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "FLING",
+        "FLY",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IMPRISON",
+        "IRONHEAD",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHIC",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TOXIC",
+        "WEATHERBALL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 3.0,
+    "weight": 325.0,
+    "abilities": [
+        "PRESSURE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 660,
+    "baseStats": [
+        125,
+        130,
+        90,
+        95,
+        130,
+        90
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Kyurem",
+    "species": "KYUREM",
+    "catchRate": 3,
+    "happiness": 0,
+    "baseExp": 330,
+    "evs": [
+        "HP",
+        1,
+        "ATTACK",
+        1,
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 5,
+            "primaryType": "DRAGON",
+            "secondaryType": "ICE",
+            "moves": [
+                [
+                    1,
+                    "DRAGONBREATH"
+                ],
+                [
+                    1,
+                    "NOBLEROAR"
+                ],
+                [
+                    1,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    1,
+                    "FREEZEDRY"
+                ],
+                [
+                    8,
+                    "SLASH"
+                ],
+                [
+                    16,
+                    "ENDEAVOR"
+                ],
+                [
+                    24,
+                    "DRAGONPULSE"
+                ],
+                [
+                    32,
+                    "ICEBEAM"
+                ],
+                [
+                    40,
+                    "HYPERVOICE"
+                ],
+                [
+                    48,
+                    "SCARYFACE"
+                ],
+                [
+                    56,
+                    "BLIZZARD"
+                ],
+                [
+                    64,
+                    "IMPRISON"
+                ],
+                [
+                    72,
+                    "OUTRAGE"
+                ],
+                [
+                    80,
+                    "GLACIATE"
+                ],
+                [
+                    88,
+                    "SHEERCOLD"
+                ]
+            ],
+            "tutorMoves": [
+                "BLIZZARD",
+                "BODYPRESS",
+                "BREAKINGSWIPE",
+                "BRUTALSWING",
+                "CONFIDE",
+                "CUT",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "DUALWINGBEAT",
+                "EARTHPOWER",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FLING",
+                "FLY",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HAIL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IMPRISON",
+                "IRONHEAD",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TOXIC",
+                "WEATHERBALL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 3.0,
+            "weight": 325.0,
+            "abilities": [
+                "PRESSURE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 660,
+            "baseStats": [
+                125,
+                130,
+                90,
+                95,
+                130,
+                90
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 0,
+            "formName": "Kyurem"
+        },
+        {
+            "generation": 5,
+            "primaryType": "DRAGON",
+            "secondaryType": "ICE",
+            "moves": [
+                [
+                    1,
+                    "ICYWIND"
+                ],
+                [
+                    1,
+                    "DRAGONRAGE"
+                ],
+                [
+                    8,
+                    "IMPRISON"
+                ],
+                [
+                    15,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    22,
+                    "ICEBEAM"
+                ],
+                [
+                    29,
+                    "DRAGONBREATH"
+                ],
+                [
+                    36,
+                    "SLASH"
+                ],
+                [
+                    43,
+                    "FUSIONFLARE"
+                ],
+                [
+                    50,
+                    "ICEBURN"
+                ],
+                [
+                    57,
+                    "DRAGONPULSE"
+                ],
+                [
+                    64,
+                    "NOBLEROAR"
+                ],
+                [
+                    71,
+                    "ENDEAVOR"
+                ],
+                [
+                    78,
+                    "BLIZZARD"
+                ],
+                [
+                    85,
+                    "OUTRAGE"
+                ],
+                [
+                    92,
+                    "HYPERVOICE"
+                ]
+            ],
+            "tutorMoves": [
+                "BLIZZARD",
+                "BODYPRESS",
+                "BREAKINGSWIPE",
+                "BRUTALSWING",
+                "CONFIDE",
+                "CUT",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "DUALWINGBEAT",
+                "EARTHPOWER",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FLING",
+                "FLY",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HAIL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IMPRISON",
+                "IRONHEAD",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TOXIC",
+                "WEATHERBALL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 3.6,
+            "weight": 325.0,
+            "abilities": [
+                "TURBOBLAZE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 700,
+            "baseStats": [
+                125,
+                120,
+                90,
+                95,
+                170,
+                100
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 1,
+            "formName": "Forma Blanca"
+        },
+        {
+            "generation": 5,
+            "primaryType": "DRAGON",
+            "secondaryType": "ICE",
+            "moves": [
+                [
+                    1,
+                    "ICYWIND"
+                ],
+                [
+                    1,
+                    "DRAGONRAGE"
+                ],
+                [
+                    8,
+                    "IMPRISON"
+                ],
+                [
+                    15,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    22,
+                    "ICEBEAM"
+                ],
+                [
+                    29,
+                    "DRAGONBREATH"
+                ],
+                [
+                    36,
+                    "SLASH"
+                ],
+                [
+                    43,
+                    "FUSIONBOLT"
+                ],
+                [
+                    50,
+                    "FREEZESHOCK"
+                ],
+                [
+                    57,
+                    "DRAGONPULSE"
+                ],
+                [
+                    64,
+                    "NOBLEROAR"
+                ],
+                [
+                    71,
+                    "ENDEAVOR"
+                ],
+                [
+                    78,
+                    "BLIZZARD"
+                ],
+                [
+                    85,
+                    "OUTRAGE"
+                ],
+                [
+                    92,
+                    "HYPERVOICE"
+                ]
+            ],
+            "tutorMoves": [
+                "BLIZZARD",
+                "BODYPRESS",
+                "BREAKINGSWIPE",
+                "BRUTALSWING",
+                "CONFIDE",
+                "CUT",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "DUALWINGBEAT",
+                "EARTHPOWER",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FLING",
+                "FLY",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HAIL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IMPRISON",
+                "IRONHEAD",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TOXIC",
+                "WEATHERBALL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 3.3,
+            "weight": 325.0,
+            "abilities": [
+                "TERAVOLT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 700,
+            "baseStats": [
+                125,
+                170,
+                100,
+                95,
+                120,
+                90
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 2,
+            "formName": "Forma Negra"
+        },
+        {
+            "generation": 5,
+            "primaryType": "DRAGON",
+            "secondaryType": "ICE",
+            "moves": [
+                [
+                    1,
+                    "ICYWIND"
+                ],
+                [
+                    1,
+                    "DRAGONRAGE"
+                ],
+                [
+                    8,
+                    "IMPRISON"
+                ],
+                [
+                    15,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    22,
+                    "ICEBEAM"
+                ],
+                [
+                    29,
+                    "DRAGONBREATH"
+                ],
+                [
+                    36,
+                    "SLASH"
+                ],
+                [
+                    43,
+                    "FUSIONFLARE"
+                ],
+                [
+                    50,
+                    "ICEBURN"
+                ],
+                [
+                    57,
+                    "DRAGONPULSE"
+                ],
+                [
+                    64,
+                    "NOBLEROAR"
+                ],
+                [
+                    71,
+                    "ENDEAVOR"
+                ],
+                [
+                    78,
+                    "BLIZZARD"
+                ],
+                [
+                    85,
+                    "OUTRAGE"
+                ],
+                [
+                    92,
+                    "HYPERVOICE"
+                ]
+            ],
+            "tutorMoves": [
+                "BLIZZARD",
+                "BODYPRESS",
+                "BREAKINGSWIPE",
+                "BRUTALSWING",
+                "CONFIDE",
+                "CUT",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "DUALWINGBEAT",
+                "EARTHPOWER",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FLING",
+                "FLY",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HAIL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IMPRISON",
+                "IRONHEAD",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TOXIC",
+                "WEATHERBALL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 3.6,
+            "weight": 325.0,
+            "abilities": [
+                "TURBOBLAZE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 700,
+            "baseStats": [
+                125,
+                120,
+                90,
+                95,
+                170,
+                100
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 3,
+            "formName": "Kyurem"
+        },
+        {
+            "generation": 5,
+            "primaryType": "DRAGON",
+            "secondaryType": "ICE",
+            "moves": [
+                [
+                    1,
+                    "ICYWIND"
+                ],
+                [
+                    1,
+                    "DRAGONRAGE"
+                ],
+                [
+                    8,
+                    "IMPRISON"
+                ],
+                [
+                    15,
+                    "ANCIENTPOWER"
+                ],
+                [
+                    22,
+                    "ICEBEAM"
+                ],
+                [
+                    29,
+                    "DRAGONBREATH"
+                ],
+                [
+                    36,
+                    "SLASH"
+                ],
+                [
+                    43,
+                    "FUSIONBOLT"
+                ],
+                [
+                    50,
+                    "FREEZESHOCK"
+                ],
+                [
+                    57,
+                    "DRAGONPULSE"
+                ],
+                [
+                    64,
+                    "NOBLEROAR"
+                ],
+                [
+                    71,
+                    "ENDEAVOR"
+                ],
+                [
+                    78,
+                    "BLIZZARD"
+                ],
+                [
+                    85,
+                    "OUTRAGE"
+                ],
+                [
+                    92,
+                    "HYPERVOICE"
+                ]
+            ],
+            "tutorMoves": [
+                "BLIZZARD",
+                "BODYPRESS",
+                "BREAKINGSWIPE",
+                "BRUTALSWING",
+                "CONFIDE",
+                "CUT",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONCLAW",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "DUALWINGBEAT",
+                "EARTHPOWER",
+                "ECHOEDVOICE",
+                "ENDEAVOR",
+                "ENDURE",
+                "FACADE",
+                "FLASHCANNON",
+                "FLING",
+                "FLY",
+                "FOCUSBLAST",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HAIL",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "HONECLAWS",
+                "HYPERBEAM",
+                "HYPERVOICE",
+                "ICEBEAM",
+                "ICICLESPEAR",
+                "ICYWIND",
+                "IMPRISON",
+                "IRONHEAD",
+                "LASERFOCUS",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PAYBACK",
+                "PROTECT",
+                "PSYCHIC",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROCKTOMB",
+                "ROOST",
+                "ROUND",
+                "SAFEGUARD",
+                "SCALESHOT",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHADOWCLAW",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "STEELWING",
+                "STONEEDGE",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TOXIC",
+                "WEATHERBALL",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 3.3,
+            "weight": 325.0,
+            "abilities": [
+                "TERAVOLT"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 700,
+            "baseStats": [
+                125,
+                170,
+                100,
+                95,
+                120,
+                90
+            ],
+            "flags": [
+                "Legendary"
+            ],
+            "form": 4,
+            "formName": "Kyurem"
+        }
+    ],
+    "internationalPokedex": 646
+}

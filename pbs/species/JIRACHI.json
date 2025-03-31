@@ -1,0 +1,197 @@
+{
+    "generation": 3,
+    "primaryType": "STEEL",
+    "secondaryType": "PSYCHIC",
+    "moves": [
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            1,
+            "WISH"
+        ],
+        [
+            7,
+            "SWIFT"
+        ],
+        [
+            14,
+            "HELPINGHAND"
+        ],
+        [
+            21,
+            "LIFEDEW"
+        ],
+        [
+            28,
+            "ZENHEADBUTT"
+        ],
+        [
+            35,
+            "GRAVITY"
+        ],
+        [
+            42,
+            "PSYCHIC"
+        ],
+        [
+            49,
+            "METEORMASH"
+        ],
+        [
+            56,
+            "HEALINGWISH"
+        ],
+        [
+            63,
+            "REST"
+        ],
+        [
+            70,
+            "FUTURESIGHT"
+        ],
+        [
+            77,
+            "DOUBLEEDGE"
+        ],
+        [
+            84,
+            "COSMICPOWER"
+        ],
+        [
+            91,
+            "LASTRESORT"
+        ],
+        [
+            98,
+            "DOOMDESIRE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ALLYSWITCH",
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "AURASPHERE",
+        "BATONPASS",
+        "BODYSLAM",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COSMICPOWER",
+        "DAZZLINGGLEAM",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "DYNAMICPUNCH",
+        "ENCORE",
+        "ENDURE",
+        "ENERGYBALL",
+        "EXPANDINGFORCE",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLASHCANNON",
+        "FLING",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IMPRISON",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METEORBEAM",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TELEKINESIS",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "UTURN",
+        "WATERPULSE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 1.1,
+    "abilities": [
+        "SERENEGRACE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Jirachi",
+    "species": "JIRACHI",
+    "catchRate": 3,
+    "happiness": 100,
+    "baseExp": 300,
+    "evs": [
+        "HP",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 385
+}

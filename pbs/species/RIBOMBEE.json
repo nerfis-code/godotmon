@@ -1,0 +1,161 @@
+{
+    "generation": 7,
+    "primaryType": "BUG",
+    "secondaryType": "FAIRY",
+    "moves": [
+        [
+            -1,
+            "POLLENPUFF"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "FAIRYWIND"
+        ],
+        [
+            1,
+            "STUNSPORE"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            18,
+            "DRAININGKISS"
+        ],
+        [
+            24,
+            "STRUGGLEBUG"
+        ],
+        [
+            32,
+            "COVET"
+        ],
+        [
+            32,
+            "AROMATHERAPY"
+        ],
+        [
+            40,
+            "SWITCHEROO"
+        ],
+        [
+            48,
+            "DAZZLINGGLEAM"
+        ],
+        [
+            56,
+            "BUGBUZZ"
+        ],
+        [
+            64,
+            "QUIVERDANCE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AERIALACE",
+        "AFTERYOU",
+        "ALLYSWITCH",
+        "ATTRACT",
+        "BATONPASS",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DREAMEATER",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FAKETEARS",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IMPRISON",
+        "INFESTATION",
+        "LASTRESORT",
+        "LEECHLIFE",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "PLAYROUGH",
+        "POLLENPUFF",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPEEDSWAP",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "TELEKINESIS",
+        "THIEF",
+        "TOXIC",
+        "TRICK",
+        "UTURN",
+        "WONDERROOM"
+    ],
+    "eggMoves": [],
+    "height": 0.2,
+    "weight": 0.5,
+    "abilities": [
+        "HONEYGATHER",
+        "SHIELDDUST"
+    ],
+    "hiddenAbilitie": [
+        "SWEETVEIL"
+    ],
+    "baseTotal": 464,
+    "baseStats": [
+        60,
+        55,
+        60,
+        124,
+        95,
+        70
+    ],
+    "flags": [],
+    "name": "Ribombee",
+    "species": "RIBOMBEE",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 162,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 743
+}

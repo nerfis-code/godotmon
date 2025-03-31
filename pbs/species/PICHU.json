@@ -1,0 +1,399 @@
+{
+    "generation": 2,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            4,
+            "PLAYNICE"
+        ],
+        [
+            8,
+            "SWEETKISS"
+        ],
+        [
+            12,
+            "NUZZLE"
+        ],
+        [
+            16,
+            "NASTYPLOT"
+        ],
+        [
+            20,
+            "CHARM"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CHARM",
+        "CONFIDE",
+        "COUNTER",
+        "COVET",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ELECTRICTERRAIN",
+        "ELECTROWEB",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FRUSTRATION",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MAGNETRISE",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "UPROAR",
+        "VOLTSWITCH",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [
+        "CHARGE",
+        "DISARMINGVOICE",
+        "ELECTRICTERRAIN",
+        "ENCORE",
+        "FAKEOUT",
+        "FLAIL",
+        "PRESENT",
+        "REVERSAL",
+        "THUNDERPUNCH",
+        "TICKLE",
+        "WISH"
+    ],
+    "height": 0.3,
+    "weight": 2.0,
+    "abilities": [
+        "STATIC"
+    ],
+    "hiddenAbilitie": [
+        "LIGHTNINGROD"
+    ],
+    "baseTotal": 205,
+    "baseStats": [
+        20,
+        40,
+        15,
+        60,
+        35,
+        35
+    ],
+    "flags": [],
+    "name": "Pichu",
+    "species": "PICHU",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 41,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 2,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    4,
+                    "PLAYNICE"
+                ],
+                [
+                    8,
+                    "SWEETKISS"
+                ],
+                [
+                    12,
+                    "NUZZLE"
+                ],
+                [
+                    16,
+                    "NASTYPLOT"
+                ],
+                [
+                    20,
+                    "CHARM"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CHARM",
+                "CONFIDE",
+                "COUNTER",
+                "COVET",
+                "DEFENSECURL",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ELECTRICTERRAIN",
+                "ELECTROWEB",
+                "ENCORE",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FLING",
+                "FRUSTRATION",
+                "GRASSKNOT",
+                "HEADBUTT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "IRONTAIL",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROLLOUT",
+                "ROUND",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "UPROAR",
+                "VOLTSWITCH",
+                "WILDCHARGE"
+            ],
+            "eggMoves": [
+                "CHARGE",
+                "DISARMINGVOICE",
+                "ELECTRICTERRAIN",
+                "ENCORE",
+                "FAKEOUT",
+                "FLAIL",
+                "PRESENT",
+                "REVERSAL",
+                "THUNDERPUNCH",
+                "TICKLE",
+                "WISH"
+            ],
+            "height": 0.3,
+            "weight": 2.0,
+            "abilities": [
+                "STATIC"
+            ],
+            "hiddenAbilitie": [
+                "LIGHTNINGROD"
+            ],
+            "baseTotal": 205,
+            "baseStats": [
+                20,
+                40,
+                15,
+                60,
+                35,
+                35
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Pichu"
+        },
+        {
+            "generation": 4,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    1,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    1,
+                    "TAILWHIP"
+                ],
+                [
+                    4,
+                    "PLAYNICE"
+                ],
+                [
+                    8,
+                    "SWEETKISS"
+                ],
+                [
+                    12,
+                    "NUZZLE"
+                ],
+                [
+                    16,
+                    "NASTYPLOT"
+                ],
+                [
+                    20,
+                    "CHARM"
+                ]
+            ],
+            "tutorMoves": [
+                "ATTRACT",
+                "BODYSLAM",
+                "CAPTIVATE",
+                "CHARGEBEAM",
+                "CHARM",
+                "CONFIDE",
+                "COUNTER",
+                "COVET",
+                "DEFENSECURL",
+                "DOUBLEEDGE",
+                "DOUBLETEAM",
+                "ECHOEDVOICE",
+                "ELECTRICTERRAIN",
+                "ELECTROWEB",
+                "ENCORE",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FLING",
+                "FRUSTRATION",
+                "GRASSKNOT",
+                "HEADBUTT",
+                "HELPINGHAND",
+                "HIDDENPOWER",
+                "IRONTAIL",
+                "LIGHTSCREEN",
+                "MAGNETRISE",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "PLAYROUGH",
+                "PROTECT",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "REVERSAL",
+                "ROLLOUT",
+                "ROUND",
+                "SECRETPOWER",
+                "SEISMICTOSS",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNORE",
+                "SUBSTITUTE",
+                "SURF",
+                "SWAGGER",
+                "SWIFT",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "UPROAR",
+                "VOLTSWITCH",
+                "WILDCHARGE"
+            ],
+            "eggMoves": [
+                "CHARGE",
+                "DISARMINGVOICE",
+                "ELECTRICTERRAIN",
+                "ENCORE",
+                "FAKEOUT",
+                "FLAIL",
+                "PRESENT",
+                "REVERSAL",
+                "THUNDERPUNCH",
+                "TICKLE",
+                "WISH"
+            ],
+            "height": 0.3,
+            "weight": 2.0,
+            "abilities": [
+                "STATIC"
+            ],
+            "hiddenAbilitie": [
+                "LIGHTNINGROD"
+            ],
+            "baseTotal": 205,
+            "baseStats": [
+                20,
+                40,
+                15,
+                60,
+                35,
+                35
+            ],
+            "flags": [],
+            "form": 2,
+            "formName": "Forma Picoreja"
+        }
+    ],
+    "internationalPokedex": 172
+}

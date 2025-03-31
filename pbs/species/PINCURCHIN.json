@@ -1,0 +1,144 @@
+{
+    "generation": 8,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "PECK"
+        ],
+        [
+            1,
+            "THUNDERSHOCK"
+        ],
+        [
+            5,
+            "WATERGUN"
+        ],
+        [
+            10,
+            "CHARGE"
+        ],
+        [
+            15,
+            "FURYATTACK"
+        ],
+        [
+            20,
+            "SPARK"
+        ],
+        [
+            25,
+            "BUBBLEBEAM"
+        ],
+        [
+            30,
+            "RECOVER"
+        ],
+        [
+            35,
+            "CURSE"
+        ],
+        [
+            40,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            45,
+            "POISONJAB"
+        ],
+        [
+            50,
+            "ZINGZAP"
+        ],
+        [
+            55,
+            "ACUPRESSURE"
+        ],
+        [
+            60,
+            "DISCHARGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "ELECTRICTERRAIN",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HEX",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDDYWATER",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PINMISSILE",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "RISINGVOLTAGE",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SLEEPTALK",
+        "SNORE",
+        "SPIKES",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "TOXICSPIKES",
+        "VENOMDRENCH",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [
+        "MEMENTO",
+        "SUCKERPUNCH"
+    ],
+    "height": 0.3,
+    "weight": 1.0,
+    "abilities": [
+        "LIGHTNINGROD"
+    ],
+    "hiddenAbilitie": [
+        "ELECTRICSURGE"
+    ],
+    "baseTotal": 435,
+    "baseStats": [
+        48,
+        101,
+        95,
+        15,
+        91,
+        85
+    ],
+    "flags": [],
+    "name": "Pincurchin",
+    "species": "PINCURCHIN",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 152,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 871
+}

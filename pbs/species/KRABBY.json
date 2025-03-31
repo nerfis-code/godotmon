@@ -1,0 +1,168 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            4,
+            "HARDEN"
+        ],
+        [
+            8,
+            "METALCLAW"
+        ],
+        [
+            12,
+            "MUDSHOT"
+        ],
+        [
+            16,
+            "PROTECT"
+        ],
+        [
+            20,
+            "BUBBLEBEAM"
+        ],
+        [
+            24,
+            "STOMP"
+        ],
+        [
+            29,
+            "FLAIL"
+        ],
+        [
+            32,
+            "RAZORSHELL"
+        ],
+        [
+            36,
+            "SLAM"
+        ],
+        [
+            40,
+            "SWORDSDANCE"
+        ],
+        [
+            44,
+            "CRABHAMMER"
+        ],
+        [
+            48,
+            "GUILLOTINE"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ALLYSWITCH",
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CUT",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLING",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HAIL",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "ICEBEAM",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "RAINDANCE",
+        "RAZORSHELL",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SCALD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THIEF",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "AGILITY",
+        "ALLYSWITCH",
+        "AMNESIA",
+        "ANCIENTPOWER",
+        "FLAIL",
+        "HAMMERARM",
+        "HAZE",
+        "KNOCKOFF",
+        "NIGHTSLASH",
+        "SLAM",
+        "SLASH",
+        "TICKLE"
+    ],
+    "height": 0.4,
+    "weight": 6.5,
+    "abilities": [
+        "HYPERCUTTER",
+        "SHELLARMOR"
+    ],
+    "hiddenAbilitie": [
+        "SHEERFORCE"
+    ],
+    "baseTotal": 325,
+    "baseStats": [
+        30,
+        105,
+        90,
+        50,
+        25,
+        25
+    ],
+    "flags": [],
+    "name": "Krabby",
+    "species": "KRABBY",
+    "catchRate": 225,
+    "happiness": 50,
+    "baseExp": 65,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 98
+}

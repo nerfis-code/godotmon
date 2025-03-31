@@ -1,0 +1,168 @@
+{
+    "generation": 1,
+    "primaryType": "GRASS",
+    "secondaryType": "POISON",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "VINEWHIP"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            9,
+            "LEECHSEED"
+        ],
+        [
+            12,
+            "RAZORLEAF"
+        ],
+        [
+            15,
+            "POISONPOWDER"
+        ],
+        [
+            15,
+            "SLEEPPOWDER"
+        ],
+        [
+            20,
+            "SEEDBOMB"
+        ],
+        [
+            25,
+            "TAKEDOWN"
+        ],
+        [
+            30,
+            "SWEETSCENT"
+        ],
+        [
+            35,
+            "SYNTHESIS"
+        ],
+        [
+            40,
+            "WORRYSEED"
+        ],
+        [
+            45,
+            "DOUBLEEDGE"
+        ],
+        [
+            45,
+            "POWERWHIP"
+        ],
+        [
+            50,
+            "SOLARBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ATTRACT",
+        "BIND",
+        "BODYSLAM",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "CUT",
+        "DEFENSECURL",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGADRAIN",
+        "GRASSKNOT",
+        "GRASSPLEDGE",
+        "GRASSYGLIDE",
+        "GRASSYTERRAIN",
+        "HEADBUTT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "KNOCKOFF",
+        "LEAFSTORM",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "NATUREPOWER",
+        "POWERWHIP",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNORE",
+        "SOLARBEAM",
+        "STRENGTH",
+        "STRINGSHOT",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "SYNTHESIS",
+        "TOXIC",
+        "VENOSHOCK",
+        "WEATHERBALL",
+        "WORKUP",
+        "WORRYSEED"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 13.0,
+    "abilities": [
+        "OVERGROW"
+    ],
+    "hiddenAbilitie": [
+        "CHLOROPHYLL"
+    ],
+    "baseTotal": 405,
+    "baseStats": [
+        60,
+        62,
+        63,
+        60,
+        80,
+        80
+    ],
+    "flags": [],
+    "name": "Ivysaur",
+    "species": "IVYSAUR",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 142,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1,
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 2
+}

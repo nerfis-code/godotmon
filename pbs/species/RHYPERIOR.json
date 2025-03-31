@@ -1,0 +1,218 @@
+{
+    "generation": 4,
+    "primaryType": "GROUND",
+    "secondaryType": "ROCK",
+    "moves": [
+        [
+            1,
+            "HAMMERARM"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "SMACKDOWN"
+        ],
+        [
+            1,
+            "BULLDOZE"
+        ],
+        [
+            15,
+            "HORNATTACK"
+        ],
+        [
+            20,
+            "SCARYFACE"
+        ],
+        [
+            25,
+            "STOMP"
+        ],
+        [
+            30,
+            "ROCKBLAST"
+        ],
+        [
+            35,
+            "DRILLRUN"
+        ],
+        [
+            40,
+            "TAKEDOWN"
+        ],
+        [
+            47,
+            "EARTHQUAKE"
+        ],
+        [
+            54,
+            "STONEEDGE"
+        ],
+        [
+            61,
+            "MEGAHORN"
+        ],
+        [
+            68,
+            "HORNDRILL"
+        ],
+        [
+            75,
+            "ROCKWRECKER"
+        ]
+    ],
+    "tutorMoves": [
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "ATTRACT",
+        "AVALANCHE",
+        "BLIZZARD",
+        "BLOCK",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "CRUNCH",
+        "CUT",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DRILLRUN",
+        "DYNAMICPUNCH",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLASHCANNON",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEATCRASH",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "IRONTAIL",
+        "MEGAHORN",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METEORBEAM",
+        "MIMIC",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "PAYDAY",
+        "POISONJAB",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "REVERSAL",
+        "ROAR",
+        "ROCKBLAST",
+        "ROCKCLIMB",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLLOUT",
+        "ROUND",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SMARTSTRIKE",
+        "SNORE",
+        "SPITE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "SWORDSDANCE",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERFANG",
+        "THUNDERPUNCH",
+        "UPROAR",
+        "WHIRLPOOL"
+    ],
+    "eggMoves": [],
+    "height": 2.4,
+    "weight": 282.8,
+    "abilities": [
+        "LIGHTNINGROD",
+        "SOLIDROCK"
+    ],
+    "hiddenAbilitie": [
+        "RECKLESS"
+    ],
+    "baseTotal": 535,
+    "baseStats": [
+        115,
+        140,
+        130,
+        40,
+        55,
+        55
+    ],
+    "flags": [],
+    "name": "Rhyperior",
+    "species": "RHYPERIOR",
+    "catchRate": 30,
+    "happiness": 50,
+    "baseExp": 268,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 464
+}

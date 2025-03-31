@@ -1,0 +1,137 @@
+{
+    "generation": 9,
+    "primaryType": "STEEL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "WRAP"
+        ],
+        [
+            1,
+            "HARDEN"
+        ],
+        [
+            7,
+            "MUDSLAP"
+        ],
+        [
+            12,
+            "SMACKDOWN"
+        ],
+        [
+            16,
+            "BULLDOZE"
+        ],
+        [
+            21,
+            "IRONHEAD"
+        ],
+        [
+            26,
+            "TAKEDOWN"
+        ],
+        [
+            30,
+            "DIG"
+        ],
+        [
+            34,
+            "SANDSTORM"
+        ],
+        [
+            38,
+            "IRONDEFENSE"
+        ],
+        [
+            43,
+            "IRONTAIL"
+        ],
+        [
+            47,
+            "EARTHQUAKE"
+        ],
+        [
+            52,
+            "SHEDTAIL"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CURSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FLASHCANNON",
+        "GIGAIMPACT",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "METALSOUND",
+        "MUDSHOT",
+        "MUDSLAP",
+        "PROTECT",
+        "REST",
+        "ROCKBLAST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SLEEPTALK",
+        "SMACKDOWN",
+        "SPIKES",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STOMPINGTANTRUM",
+        "SUBSTITUTE",
+        "TAKEDOWN"
+    ],
+    "eggMoves": [
+        "COIL",
+        "CURSE",
+        "METALBURST"
+    ],
+    "height": 2.5,
+    "weight": 310.0,
+    "abilities": [
+        "EARTHEATER"
+    ],
+    "hiddenAbilitie": [
+        "SANDVEIL"
+    ],
+    "baseTotal": 480,
+    "baseStats": [
+        70,
+        85,
+        145,
+        65,
+        60,
+        55
+    ],
+    "flags": [],
+    "name": "Orthworm",
+    "species": "ORTHWORM",
+    "catchRate": 25,
+    "happiness": 50,
+    "baseExp": 240,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 968
+}

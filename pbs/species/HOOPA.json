@@ -1,0 +1,557 @@
+{
+    "generation": 6,
+    "primaryType": "PSYCHIC",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            1,
+            "DESTINYBOND"
+        ],
+        [
+            1,
+            "ALLYSWITCH"
+        ],
+        [
+            1,
+            "CONFUSION"
+        ],
+        [
+            6,
+            "ASTONISH"
+        ],
+        [
+            10,
+            "TRICK"
+        ],
+        [
+            10,
+            "MAGICCOAT"
+        ],
+        [
+            15,
+            "LIGHTSCREEN"
+        ],
+        [
+            19,
+            "PSYBEAM"
+        ],
+        [
+            25,
+            "SKILLSWAP"
+        ],
+        [
+            29,
+            "POWERSPLIT"
+        ],
+        [
+            29,
+            "GUARDSPLIT"
+        ],
+        [
+            35,
+            "PHANTOMFORCE"
+        ],
+        [
+            46,
+            "ZENHEADBUTT"
+        ],
+        [
+            50,
+            "WONDERROOM"
+        ],
+        [
+            50,
+            "TRICKROOM"
+        ],
+        [
+            55,
+            "SHADOWBALL"
+        ],
+        [
+            68,
+            "NASTYPLOT"
+        ],
+        [
+            75,
+            "PSYCHIC"
+        ],
+        [
+            85,
+            "HYPERSPACEHOLE"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "BLOCK",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COVET",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "DUALCHOP",
+        "EMBARGO",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FIREPUNCH",
+        "FLASH",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRAVITY",
+        "GUNKSHOT",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEPUNCH",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "QUASH",
+        "RAINDANCE",
+        "RECYCLE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROLEPLAY",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "TELEKINESIS",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "TRICK",
+        "TRICKROOM",
+        "UPROAR",
+        "WONDERROOM",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 0.5,
+    "weight": 9.0,
+    "abilities": [
+        "MAGICIAN"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        80,
+        110,
+        60,
+        70,
+        150,
+        130
+    ],
+    "flags": [
+        "Mythical"
+    ],
+    "name": "Hoopa",
+    "species": "HOOPA",
+    "catchRate": 3,
+    "happiness": 50,
+    "baseExp": 300,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 6,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "GHOST",
+            "moves": [
+                [
+                    1,
+                    "DESTINYBOND"
+                ],
+                [
+                    1,
+                    "ALLYSWITCH"
+                ],
+                [
+                    1,
+                    "CONFUSION"
+                ],
+                [
+                    6,
+                    "ASTONISH"
+                ],
+                [
+                    10,
+                    "TRICK"
+                ],
+                [
+                    10,
+                    "MAGICCOAT"
+                ],
+                [
+                    15,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    19,
+                    "PSYBEAM"
+                ],
+                [
+                    25,
+                    "SKILLSWAP"
+                ],
+                [
+                    29,
+                    "POWERSPLIT"
+                ],
+                [
+                    29,
+                    "GUARDSPLIT"
+                ],
+                [
+                    35,
+                    "PHANTOMFORCE"
+                ],
+                [
+                    46,
+                    "ZENHEADBUTT"
+                ],
+                [
+                    50,
+                    "WONDERROOM"
+                ],
+                [
+                    50,
+                    "TRICKROOM"
+                ],
+                [
+                    55,
+                    "SHADOWBALL"
+                ],
+                [
+                    68,
+                    "NASTYPLOT"
+                ],
+                [
+                    75,
+                    "PSYCHIC"
+                ],
+                [
+                    85,
+                    "HYPERSPACEHOLE"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "BLOCK",
+                "BRICKBREAK",
+                "CALMMIND",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "COVET",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DRAINPUNCH",
+                "DREAMEATER",
+                "DUALCHOP",
+                "EMBARGO",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FIREPUNCH",
+                "FLASH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRAVITY",
+                "GUNKSHOT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEPUNCH",
+                "KNOCKOFF",
+                "LASERFOCUS",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MAGICROOM",
+                "MIMIC",
+                "NATURALGIFT",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "QUASH",
+                "RAINDANCE",
+                "RECYCLE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROLEPLAY",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAUNT",
+                "TELEKINESIS",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "TORMENT",
+                "TOXIC",
+                "TRICK",
+                "TRICKROOM",
+                "UPROAR",
+                "WONDERROOM",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 0.5,
+            "weight": 9.0,
+            "abilities": [
+                "MAGICIAN"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 600,
+            "baseStats": [
+                80,
+                110,
+                60,
+                70,
+                150,
+                130
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 0,
+            "formName": "Forma Contenido"
+        },
+        {
+            "generation": 6,
+            "primaryType": "PSYCHIC",
+            "secondaryType": "DARK",
+            "moves": [
+                [
+                    1,
+                    "HYPERSPACEFURY"
+                ],
+                [
+                    1,
+                    "TRICK"
+                ],
+                [
+                    1,
+                    "DESTINYBOND"
+                ],
+                [
+                    1,
+                    "ALLYSWITCH"
+                ],
+                [
+                    1,
+                    "CONFUSION"
+                ],
+                [
+                    6,
+                    "ASTONISH"
+                ],
+                [
+                    10,
+                    "MAGICCOAT"
+                ],
+                [
+                    15,
+                    "LIGHTSCREEN"
+                ],
+                [
+                    19,
+                    "PSYBEAM"
+                ],
+                [
+                    25,
+                    "SKILLSWAP"
+                ],
+                [
+                    29,
+                    "POWERSPLIT"
+                ],
+                [
+                    29,
+                    "GUARDSPLIT"
+                ],
+                [
+                    46,
+                    "KNOCKOFF"
+                ],
+                [
+                    50,
+                    "WONDERROOM"
+                ],
+                [
+                    50,
+                    "TRICKROOM"
+                ],
+                [
+                    55,
+                    "DARKPULSE"
+                ],
+                [
+                    75,
+                    "PSYCHIC"
+                ],
+                [
+                    85,
+                    "HYPERSPACEFURY"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "BLOCK",
+                "BRICKBREAK",
+                "CALMMIND",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "COVET",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DRAINPUNCH",
+                "DREAMEATER",
+                "DUALCHOP",
+                "EMBARGO",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FIREPUNCH",
+                "FLASH",
+                "FLING",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRAVITY",
+                "GUNKSHOT",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "ICEPUNCH",
+                "KNOCKOFF",
+                "LASERFOCUS",
+                "LASTRESORT",
+                "LIGHTSCREEN",
+                "MAGICCOAT",
+                "MAGICROOM",
+                "MIMIC",
+                "NATURALGIFT",
+                "POWERUPPUNCH",
+                "PROTECT",
+                "PSYCHIC",
+                "PSYCHUP",
+                "PSYSHOCK",
+                "QUASH",
+                "RAINDANCE",
+                "RECYCLE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "ROLEPLAY",
+                "ROUND",
+                "SAFEGUARD",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SKILLSWAP",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TAUNT",
+                "TELEKINESIS",
+                "THIEF",
+                "THROATCHOP",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "THUNDERWAVE",
+                "TORMENT",
+                "TOXIC",
+                "TRICK",
+                "TRICKROOM",
+                "UPROAR",
+                "WONDERROOM",
+                "ZENHEADBUTT"
+            ],
+            "eggMoves": [],
+            "height": 6.5,
+            "weight": 490.0,
+            "abilities": [
+                "MAGICIAN"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 680,
+            "baseStats": [
+                80,
+                160,
+                60,
+                80,
+                170,
+                130
+            ],
+            "flags": [
+                "Mythical"
+            ],
+            "form": 1,
+            "formName": "Forma Desatada"
+        }
+    ],
+    "internationalPokedex": 720
+}

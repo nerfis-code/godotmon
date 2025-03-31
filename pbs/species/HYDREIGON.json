@@ -1,0 +1,212 @@
+{
+    "generation": 5,
+    "primaryType": "DARK",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            1,
+            "TRIATTACK"
+        ],
+        [
+            1,
+            "DOUBLEHIT"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            12,
+            "ROAR"
+        ],
+        [
+            16,
+            "ASSURANCE"
+        ],
+        [
+            20,
+            "HEADBUTT"
+        ],
+        [
+            24,
+            "WORKUP"
+        ],
+        [
+            28,
+            "SLAM"
+        ],
+        [
+            32,
+            "CRUNCH"
+        ],
+        [
+            36,
+            "SCARYFACE"
+        ],
+        [
+            40,
+            "DRAGONPULSE"
+        ],
+        [
+            44,
+            "BODYSLAM"
+        ],
+        [
+            48,
+            "HYPERVOICE"
+        ],
+        [
+            54,
+            "DRAGONRUSH"
+        ],
+        [
+            60,
+            "NASTYPLOT"
+        ],
+        [
+            68,
+            "OUTRAGE"
+        ],
+        [
+            76,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ECHOEDVOICE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FIRESPIN",
+        "FLAMETHROWER",
+        "FLASHCANNON",
+        "FLY",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEFANG",
+        "INCINERATE",
+        "IRONTAIL",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROOST",
+        "ROUND",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SPITE",
+        "STEELWING",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "TAILWIND",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "TRIATTACK",
+        "UPROAR",
+        "UTURN",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 160.0,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 600,
+    "baseStats": [
+        92,
+        105,
+        90,
+        98,
+        125,
+        90
+    ],
+    "flags": [],
+    "name": "Hydreigon",
+    "species": "HYDREIGON",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 300,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 635
+}

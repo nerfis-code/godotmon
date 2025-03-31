@@ -1,0 +1,149 @@
+{
+    "generation": 9,
+    "primaryType": "DARK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "COMEUPPANCE"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "SCARYFACE"
+        ],
+        [
+            4,
+            "LICK"
+        ],
+        [
+            7,
+            "SNARL"
+        ],
+        [
+            10,
+            "HONECLAWS"
+        ],
+        [
+            14,
+            "BITE"
+        ],
+        [
+            18,
+            "ROAR"
+        ],
+        [
+            22,
+            "HEADBUTT"
+        ],
+        [
+            26,
+            "PAYBACK"
+        ],
+        [
+            34,
+            "CRUNCH"
+        ],
+        [
+            39,
+            "SWAGGER"
+        ],
+        [
+            43,
+            "REVERSAL"
+        ],
+        [
+            48,
+            "JAWLOCK"
+        ],
+        [
+            55,
+            "DOUBLEEDGE"
+        ],
+        [
+            60,
+            "OUTRAGE"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYSLAM",
+        "CHARM",
+        "CRUNCH",
+        "CURSE",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FIREFANG",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "ICEFANG",
+        "LASHOUT",
+        "OUTRAGE",
+        "PAINSPLIT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "REVERSAL",
+        "ROAR",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SNARL",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "THUNDERFANG",
+        "TRAILBLAZE",
+        "WILDCHARGE"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 61.0,
+    "abilities": [
+        "INTIMIDATE",
+        "GUARDDOG"
+    ],
+    "hiddenAbilitie": [
+        "STAKEOUT"
+    ],
+    "baseTotal": 505,
+    "baseStats": [
+        80,
+        120,
+        90,
+        85,
+        60,
+        70
+    ],
+    "flags": [],
+    "name": "Mabosstiff",
+    "species": "MABOSSTIFF",
+    "catchRate": 75,
+    "happiness": 50,
+    "baseExp": 177,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 943
+}

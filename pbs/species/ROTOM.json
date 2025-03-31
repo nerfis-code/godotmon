@@ -1,0 +1,980 @@
+{
+    "generation": 4,
+    "primaryType": "ELECTRIC",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "DOUBLETEAM"
+        ],
+        [
+            5,
+            "THUNDERSHOCK"
+        ],
+        [
+            10,
+            "CONFUSERAY"
+        ],
+        [
+            15,
+            "CHARGE"
+        ],
+        [
+            20,
+            "ELECTROBALL"
+        ],
+        [
+            25,
+            "THUNDERWAVE"
+        ],
+        [
+            30,
+            "SHOCKWAVE"
+        ],
+        [
+            35,
+            "HEX"
+        ],
+        [
+            40,
+            "SUBSTITUTE"
+        ],
+        [
+            45,
+            "TRICK"
+        ],
+        [
+            50,
+            "DISCHARGE"
+        ],
+        [
+            55,
+            "UPROAR"
+        ]
+    ],
+    "tutorMoves": [
+        "ALLYSWITCH",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EERIEIMPULSE",
+        "ELECTRICTERRAIN",
+        "ELECTROBALL",
+        "ELECTROWEB",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "HELPINGHAND",
+        "HEX",
+        "HIDDENPOWER",
+        "HYPERVOICE",
+        "LIGHTSCREEN",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PAINSPLIT",
+        "POLTERGEIST",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "RISINGVOLTAGE",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STOREDPOWER",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TELEKINESIS",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRICK",
+        "UPROAR",
+        "VOLTSWITCH",
+        "WILLOWISP"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 0.3,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 440,
+    "baseStats": [
+        50,
+        50,
+        77,
+        91,
+        95,
+        77
+    ],
+    "flags": [],
+    "name": "Rotom",
+    "species": "ROTOM",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 154,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1,
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [
+        {
+            "generation": 4,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "GHOST",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "DOUBLETEAM"
+                ],
+                [
+                    5,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    10,
+                    "CONFUSERAY"
+                ],
+                [
+                    15,
+                    "CHARGE"
+                ],
+                [
+                    20,
+                    "ELECTROBALL"
+                ],
+                [
+                    25,
+                    "THUNDERWAVE"
+                ],
+                [
+                    30,
+                    "SHOCKWAVE"
+                ],
+                [
+                    35,
+                    "HEX"
+                ],
+                [
+                    40,
+                    "SUBSTITUTE"
+                ],
+                [
+                    45,
+                    "TRICK"
+                ],
+                [
+                    50,
+                    "DISCHARGE"
+                ],
+                [
+                    55,
+                    "UPROAR"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "EERIEIMPULSE",
+                "ELECTRICTERRAIN",
+                "ELECTROBALL",
+                "ELECTROWEB",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "HELPINGHAND",
+                "HEX",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PAINSPLIT",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "RISINGVOLTAGE",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TELEKINESIS",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRICK",
+                "UPROAR",
+                "VOLTSWITCH",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 0.3,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 440,
+            "baseStats": [
+                50,
+                50,
+                77,
+                91,
+                95,
+                77
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Forma Normal"
+        },
+        {
+            "generation": 4,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "FIRE",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "DOUBLETEAM"
+                ],
+                [
+                    5,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    10,
+                    "CONFUSERAY"
+                ],
+                [
+                    15,
+                    "CHARGE"
+                ],
+                [
+                    20,
+                    "ELECTROBALL"
+                ],
+                [
+                    25,
+                    "THUNDERWAVE"
+                ],
+                [
+                    30,
+                    "SHOCKWAVE"
+                ],
+                [
+                    35,
+                    "HEX"
+                ],
+                [
+                    40,
+                    "SUBSTITUTE"
+                ],
+                [
+                    45,
+                    "TRICK"
+                ],
+                [
+                    50,
+                    "DISCHARGE"
+                ],
+                [
+                    55,
+                    "UPROAR"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "EERIEIMPULSE",
+                "ELECTRICTERRAIN",
+                "ELECTROBALL",
+                "ELECTROWEB",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "HELPINGHAND",
+                "HEX",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PAINSPLIT",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "RISINGVOLTAGE",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TELEKINESIS",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRICK",
+                "UPROAR",
+                "VOLTSWITCH",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 0.3,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 520,
+            "baseStats": [
+                50,
+                65,
+                107,
+                86,
+                105,
+                107
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Calor"
+        },
+        {
+            "generation": 4,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "WATER",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "DOUBLETEAM"
+                ],
+                [
+                    5,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    10,
+                    "CONFUSERAY"
+                ],
+                [
+                    15,
+                    "CHARGE"
+                ],
+                [
+                    20,
+                    "ELECTROBALL"
+                ],
+                [
+                    25,
+                    "THUNDERWAVE"
+                ],
+                [
+                    30,
+                    "SHOCKWAVE"
+                ],
+                [
+                    35,
+                    "HEX"
+                ],
+                [
+                    40,
+                    "SUBSTITUTE"
+                ],
+                [
+                    45,
+                    "TRICK"
+                ],
+                [
+                    50,
+                    "DISCHARGE"
+                ],
+                [
+                    55,
+                    "UPROAR"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "EERIEIMPULSE",
+                "ELECTRICTERRAIN",
+                "ELECTROBALL",
+                "ELECTROWEB",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "HELPINGHAND",
+                "HEX",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PAINSPLIT",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "RISINGVOLTAGE",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TELEKINESIS",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRICK",
+                "UPROAR",
+                "VOLTSWITCH",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 0.3,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 520,
+            "baseStats": [
+                50,
+                65,
+                107,
+                86,
+                105,
+                107
+            ],
+            "flags": [],
+            "form": 2,
+            "formName": "Forma Lavado"
+        },
+        {
+            "generation": 4,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "ICE",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "DOUBLETEAM"
+                ],
+                [
+                    5,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    10,
+                    "CONFUSERAY"
+                ],
+                [
+                    15,
+                    "CHARGE"
+                ],
+                [
+                    20,
+                    "ELECTROBALL"
+                ],
+                [
+                    25,
+                    "THUNDERWAVE"
+                ],
+                [
+                    30,
+                    "SHOCKWAVE"
+                ],
+                [
+                    35,
+                    "HEX"
+                ],
+                [
+                    40,
+                    "SUBSTITUTE"
+                ],
+                [
+                    45,
+                    "TRICK"
+                ],
+                [
+                    50,
+                    "DISCHARGE"
+                ],
+                [
+                    55,
+                    "UPROAR"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "EERIEIMPULSE",
+                "ELECTRICTERRAIN",
+                "ELECTROBALL",
+                "ELECTROWEB",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "HELPINGHAND",
+                "HEX",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PAINSPLIT",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "RISINGVOLTAGE",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TELEKINESIS",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRICK",
+                "UPROAR",
+                "VOLTSWITCH",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 0.3,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 520,
+            "baseStats": [
+                50,
+                65,
+                107,
+                86,
+                105,
+                107
+            ],
+            "flags": [],
+            "form": 3,
+            "formName": "Forma Frío"
+        },
+        {
+            "generation": 4,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "FLYING",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "DOUBLETEAM"
+                ],
+                [
+                    5,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    10,
+                    "CONFUSERAY"
+                ],
+                [
+                    15,
+                    "CHARGE"
+                ],
+                [
+                    20,
+                    "ELECTROBALL"
+                ],
+                [
+                    25,
+                    "THUNDERWAVE"
+                ],
+                [
+                    30,
+                    "SHOCKWAVE"
+                ],
+                [
+                    35,
+                    "HEX"
+                ],
+                [
+                    40,
+                    "SUBSTITUTE"
+                ],
+                [
+                    45,
+                    "TRICK"
+                ],
+                [
+                    50,
+                    "DISCHARGE"
+                ],
+                [
+                    55,
+                    "UPROAR"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "EERIEIMPULSE",
+                "ELECTRICTERRAIN",
+                "ELECTROBALL",
+                "ELECTROWEB",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "HELPINGHAND",
+                "HEX",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PAINSPLIT",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "RISINGVOLTAGE",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TELEKINESIS",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRICK",
+                "UPROAR",
+                "VOLTSWITCH",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 0.3,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 520,
+            "baseStats": [
+                50,
+                65,
+                107,
+                86,
+                105,
+                107
+            ],
+            "flags": [],
+            "form": 4,
+            "formName": "Forma Ventilador"
+        },
+        {
+            "generation": 4,
+            "primaryType": "ELECTRIC",
+            "secondaryType": "GRASS",
+            "moves": [
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "DOUBLETEAM"
+                ],
+                [
+                    5,
+                    "THUNDERSHOCK"
+                ],
+                [
+                    10,
+                    "CONFUSERAY"
+                ],
+                [
+                    15,
+                    "CHARGE"
+                ],
+                [
+                    20,
+                    "ELECTROBALL"
+                ],
+                [
+                    25,
+                    "THUNDERWAVE"
+                ],
+                [
+                    30,
+                    "SHOCKWAVE"
+                ],
+                [
+                    35,
+                    "HEX"
+                ],
+                [
+                    40,
+                    "SUBSTITUTE"
+                ],
+                [
+                    45,
+                    "TRICK"
+                ],
+                [
+                    50,
+                    "DISCHARGE"
+                ],
+                [
+                    55,
+                    "UPROAR"
+                ]
+            ],
+            "tutorMoves": [
+                "ALLYSWITCH",
+                "CHARGEBEAM",
+                "CONFIDE",
+                "DARKPULSE",
+                "DOUBLETEAM",
+                "DREAMEATER",
+                "EERIEIMPULSE",
+                "ELECTRICTERRAIN",
+                "ELECTROBALL",
+                "ELECTROWEB",
+                "ENDURE",
+                "FACADE",
+                "FLASH",
+                "FOULPLAY",
+                "FRUSTRATION",
+                "HELPINGHAND",
+                "HEX",
+                "HIDDENPOWER",
+                "HYPERVOICE",
+                "LIGHTSCREEN",
+                "MIMIC",
+                "MUDSLAP",
+                "NASTYPLOT",
+                "NATURALGIFT",
+                "OMINOUSWIND",
+                "PAINSPLIT",
+                "POLTERGEIST",
+                "PROTECT",
+                "PSYCHUP",
+                "RAINDANCE",
+                "REFLECT",
+                "REST",
+                "RETURN",
+                "RISINGVOLTAGE",
+                "ROUND",
+                "SECRETPOWER",
+                "SHADOWBALL",
+                "SHOCKWAVE",
+                "SIGNALBEAM",
+                "SLEEPTALK",
+                "SNATCH",
+                "SNORE",
+                "SPITE",
+                "STOREDPOWER",
+                "SUBSTITUTE",
+                "SUCKERPUNCH",
+                "SUNNYDAY",
+                "SWAGGER",
+                "SWIFT",
+                "TELEKINESIS",
+                "THIEF",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERWAVE",
+                "TRICK",
+                "UPROAR",
+                "VOLTSWITCH",
+                "WILLOWISP"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 0.3,
+            "abilities": [
+                "LEVITATE"
+            ],
+            "hiddenAbilitie": [],
+            "baseTotal": 520,
+            "baseStats": [
+                50,
+                65,
+                107,
+                86,
+                105,
+                107
+            ],
+            "flags": [],
+            "form": 5,
+            "formName": "Forma Corte"
+        }
+    ],
+    "internationalPokedex": 479
+}

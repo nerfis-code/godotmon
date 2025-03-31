@@ -1,0 +1,149 @@
+{
+    "generation": 9,
+    "primaryType": "POISON",
+    "secondaryType": "NORMAL",
+    "moves": [
+        [
+            -1,
+            "DOODLE"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            5,
+            "ACIDSPRAY"
+        ],
+        [
+            8,
+            "FURYSWIPES"
+        ],
+        [
+            11,
+            "SWITCHEROO"
+        ],
+        [
+            14,
+            "POISONFANG"
+        ],
+        [
+            18,
+            "FLATTER"
+        ],
+        [
+            21,
+            "SLASH"
+        ],
+        [
+            25,
+            "UTURN"
+        ],
+        [
+            33,
+            "POISONJAB"
+        ],
+        [
+            37,
+            "TAUNT"
+        ],
+        [
+            40,
+            "SUBSTITUTE"
+        ],
+        [
+            45,
+            "KNOCKOFF"
+        ],
+        [
+            51,
+            "GUNKSHOT"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "ACROBATICS",
+        "BATONPASS",
+        "DIG",
+        "DOUBLEEDGE",
+        "ENCORE",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FLING",
+        "FOULPLAY",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HELPINGHAND",
+        "KNOCKOFF",
+        "LOWKICK",
+        "LOWSWEEP",
+        "METRONOME",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "POISONJAB",
+        "POISONTAIL",
+        "POUNCE",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "SCARYFACE",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERFANG",
+        "SWORDSDANCE",
+        "TAKEDOWN",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TOXIC",
+        "TRAILBLAZE",
+        "UTURN",
+        "VENOSHOCK",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 0.7,
+    "weight": 27.2,
+    "abilities": [
+        "UNBURDEN",
+        "POISONTOUCH"
+    ],
+    "hiddenAbilitie": [
+        "PRANKSTER"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        63,
+        95,
+        65,
+        110,
+        80,
+        72
+    ],
+    "flags": [],
+    "name": "Grafaiai",
+    "species": "GRAFAIAI",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 945
+}

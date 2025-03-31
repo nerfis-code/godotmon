@@ -1,0 +1,161 @@
+{
+    "generation": 3,
+    "primaryType": "WATER",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            1,
+            "AQUAJET"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            4,
+            "POISONFANG"
+        ],
+        [
+            8,
+            "FOCUSENERGY"
+        ],
+        [
+            12,
+            "SCARYFACE"
+        ],
+        [
+            16,
+            "BITE"
+        ],
+        [
+            20,
+            "ICEFANG"
+        ],
+        [
+            24,
+            "SCREECH"
+        ],
+        [
+            28,
+            "SWAGGER"
+        ],
+        [
+            32,
+            "CRUNCH"
+        ],
+        [
+            36,
+            "AGILITY"
+        ],
+        [
+            40,
+            "LIQUIDATION"
+        ],
+        [
+            44,
+            "TAKEDOWN"
+        ]
+    ],
+    "tutorMoves": [
+        "AGILITY",
+        "ANCIENTPOWER",
+        "ASSURANCE",
+        "ATTRACT",
+        "BLIZZARD",
+        "BOUNCE",
+        "BRINE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DARKPULSE",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLIPTURN",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICEFANG",
+        "ICYWIND",
+        "LIQUIDATION",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PROTECT",
+        "PSYCHICFANGS",
+        "RAINDANCE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROUND",
+        "SCALD",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNARL",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUPERFANG",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "UPROAR",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "ANCIENTPOWER",
+        "DESTINYBOND",
+        "DOUBLEEDGE",
+        "HYDROPUMP",
+        "SWIFT",
+        "THRASH",
+        "WATERPULSE"
+    ],
+    "height": 0.8,
+    "weight": 20.8,
+    "abilities": [
+        "ROUGHSKIN"
+    ],
+    "hiddenAbilitie": [
+        "SPEEDBOOST"
+    ],
+    "baseTotal": 305,
+    "baseStats": [
+        45,
+        90,
+        20,
+        65,
+        65,
+        20
+    ],
+    "flags": [],
+    "name": "Carvanha",
+    "species": "CARVANHA",
+    "catchRate": 225,
+    "happiness": 35,
+    "baseExp": 61,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 318
+}

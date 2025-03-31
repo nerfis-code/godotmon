@@ -1,0 +1,160 @@
+{
+    "generation": 5,
+    "primaryType": "DARK",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "GROWL"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "FAKEOUT"
+        ],
+        [
+            12,
+            "FURYSWIPES"
+        ],
+        [
+            16,
+            "TORMENT"
+        ],
+        [
+            23,
+            "ASSURANCE"
+        ],
+        [
+            28,
+            "HONECLAWS"
+        ],
+        [
+            34,
+            "SUCKERPUNCH"
+        ],
+        [
+            40,
+            "NASTYPLOT"
+        ],
+        [
+            46,
+            "NIGHTSLASH"
+        ],
+        [
+            52,
+            "PLAYROUGH"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "ASSURANCE",
+        "ATTRACT",
+        "BATONPASS",
+        "BURNINGJEALOUSY",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DARKPULSE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "ECHOEDVOICE",
+        "EMBARGO",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FAKETEARS",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LASHOUT",
+        "MIMIC",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PAYDAY",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHOCUT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROUND",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERWAVE",
+        "TORMENT",
+        "TOXIC",
+        "TRICK",
+        "UTURN"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 37.5,
+    "abilities": [
+        "LIMBER",
+        "UNBURDEN"
+    ],
+    "hiddenAbilitie": [
+        "PRANKSTER"
+    ],
+    "baseTotal": 446,
+    "baseStats": [
+        64,
+        88,
+        50,
+        106,
+        88,
+        50
+    ],
+    "flags": [],
+    "name": "Liepard",
+    "species": "LIEPARD",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 156,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 510
+}

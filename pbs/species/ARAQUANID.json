@@ -1,0 +1,150 @@
+{
+    "generation": 7,
+    "primaryType": "WATER",
+    "secondaryType": "BUG",
+    "moves": [
+        [
+            1,
+            "WIDEGUARD"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "INFESTATION"
+        ],
+        [
+            1,
+            "BUGBITE"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            12,
+            "BUBBLEBEAM"
+        ],
+        [
+            16,
+            "AQUARING"
+        ],
+        [
+            20,
+            "HEADBUTT"
+        ],
+        [
+            26,
+            "CRUNCH"
+        ],
+        [
+            32,
+            "SOAK"
+        ],
+        [
+            38,
+            "ENTRAINMENT"
+        ],
+        [
+            44,
+            "LUNGE"
+        ],
+        [
+            50,
+            "LIQUIDATION"
+        ],
+        [
+            56,
+            "LEECHLIFE"
+        ],
+        [
+            62,
+            "MIRRORCOAT"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BLIZZARD",
+        "BUGBITE",
+        "BUGBUZZ",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DIVE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICYWIND",
+        "INFESTATION",
+        "IRONDEFENSE",
+        "LASERFOCUS",
+        "LEECHLIFE",
+        "LIQUIDATION",
+        "MAGICCOAT",
+        "MAGICROOM",
+        "MIMIC",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SCALD",
+        "SECRETPOWER",
+        "SIGNALBEAM",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "TOXIC",
+        "WATERFALL",
+        "WATERPULSE",
+        "WONDERROOM",
+        "XSCISSOR"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 82.0,
+    "abilities": [
+        "WATERBUBBLE"
+    ],
+    "hiddenAbilitie": [
+        "WATERABSORB"
+    ],
+    "baseTotal": 454,
+    "baseStats": [
+        68,
+        70,
+        92,
+        42,
+        50,
+        132
+    ],
+    "flags": [],
+    "name": "Araquanid",
+    "species": "ARAQUANID",
+    "catchRate": 100,
+    "happiness": 50,
+    "baseExp": 159,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 752
+}

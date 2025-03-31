@@ -1,0 +1,164 @@
+{
+    "generation": 5,
+    "primaryType": "ICE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "BIND"
+        ],
+        [
+            1,
+            "ICESHARD"
+        ],
+        [
+            4,
+            "CONFUSERAY"
+        ],
+        [
+            8,
+            "RAPIDSPIN"
+        ],
+        [
+            12,
+            "LASERFOCUS"
+        ],
+        [
+            12,
+            "ICYWIND"
+        ],
+        [
+            16,
+            "MIST"
+        ],
+        [
+            16,
+            "HAZE"
+        ],
+        [
+            20,
+            "ANCIENTPOWER"
+        ],
+        [
+            24,
+            "AURORABEAM"
+        ],
+        [
+            28,
+            "SLASH"
+        ],
+        [
+            32,
+            "NIGHTSLASH"
+        ],
+        [
+            36,
+            "FREEZEDRY"
+        ],
+        [
+            40,
+            "LIGHTSCREEN"
+        ],
+        [
+            40,
+            "REFLECT"
+        ],
+        [
+            44,
+            "RECOVER"
+        ],
+        [
+            48,
+            "ICEBEAM"
+        ],
+        [
+            52,
+            "ACIDARMOR"
+        ],
+        [
+            56,
+            "SOLARBEAM"
+        ],
+        [
+            60,
+            "SHEERCOLD"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AURORAVEIL",
+        "AVALANCHE",
+        "BIND",
+        "BLIZZARD",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FLASHCANNON",
+        "FROSTBREATH",
+        "FRUSTRATION",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "ICICLESPEAR",
+        "ICYWIND",
+        "IRONDEFENSE",
+        "KNOCKOFF",
+        "LASERFOCUS",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "MIMIC",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SELFDESTRUCT",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "TOXIC",
+        "TRIPLEAXEL",
+        "WATERPULSE"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 148.0,
+    "abilities": [
+        "LEVITATE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 515,
+    "baseStats": [
+        80,
+        50,
+        50,
+        105,
+        95,
+        135
+    ],
+    "flags": [],
+    "name": "Cryogonal",
+    "species": "CRYOGONAL",
+    "catchRate": 25,
+    "happiness": 50,
+    "baseExp": 180,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 615
+}

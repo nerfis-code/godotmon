@@ -1,0 +1,91 @@
+{
+    "generation": 8,
+    "primaryType": "DRAGON",
+    "secondaryType": "GHOST",
+    "moves": [
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "INFESTATION"
+        ],
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "BITE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BATONPASS",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "ENDURE",
+        "FACADE",
+        "FRUSTRATION",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SWAGGER",
+        "SWIFT",
+        "THUNDERWAVE",
+        "TOXIC"
+    ],
+    "eggMoves": [
+        "CONFUSERAY",
+        "CURSE",
+        "DISABLE",
+        "DOUBLETEAM",
+        "DRAGONTAIL",
+        "GRUDGE",
+        "SUCKERPUNCH"
+    ],
+    "height": 0.5,
+    "weight": 2.0,
+    "abilities": [
+        "CLEARBODY",
+        "INFILTRATOR"
+    ],
+    "hiddenAbilitie": [
+        "CURSEDBODY"
+    ],
+    "baseTotal": 270,
+    "baseStats": [
+        28,
+        60,
+        30,
+        82,
+        40,
+        30
+    ],
+    "flags": [],
+    "name": "Dreepy",
+    "species": "DREEPY",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 54,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 885
+}

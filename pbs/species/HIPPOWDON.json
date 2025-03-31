@@ -1,0 +1,169 @@
+{
+    "generation": 4,
+    "primaryType": "GROUND",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "ICEFANG"
+        ],
+        [
+            1,
+            "FIREFANG"
+        ],
+        [
+            1,
+            "THUNDERFANG"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "BITE"
+        ],
+        [
+            1,
+            "YAWN"
+        ],
+        [
+            12,
+            "SANDTOMB"
+        ],
+        [
+            16,
+            "DIG"
+        ],
+        [
+            20,
+            "CRUNCH"
+        ],
+        [
+            24,
+            "SANDSTORM"
+        ],
+        [
+            28,
+            "TAKEDOWN"
+        ],
+        [
+            32,
+            "ROAR"
+        ],
+        [
+            38,
+            "REST"
+        ],
+        [
+            44,
+            "EARTHQUAKE"
+        ],
+        [
+            50,
+            "DOUBLEEDGE"
+        ],
+        [
+            56,
+            "FISSURE"
+        ],
+        [
+            62,
+            "SLACKOFF"
+        ]
+    ],
+    "tutorMoves": [
+        "AMNESIA",
+        "ATTRACT",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "DIG",
+        "DOUBLETEAM",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HYPERBEAM",
+        "ICEFANG",
+        "IRONHEAD",
+        "IRONTAIL",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "REVENGE",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SWAGGER",
+        "THUNDERFANG",
+        "WATERPULSE",
+        "WEATHERBALL"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 300.0,
+    "abilities": [
+        "SANDSTREAM"
+    ],
+    "hiddenAbilitie": [
+        "SANDFORCE"
+    ],
+    "baseTotal": 525,
+    "baseStats": [
+        108,
+        112,
+        118,
+        47,
+        68,
+        72
+    ],
+    "flags": [],
+    "name": "Hippowdon",
+    "species": "HIPPOWDON",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 184,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 450
+}

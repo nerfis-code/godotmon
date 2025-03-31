@@ -1,0 +1,183 @@
+{
+    "generation": 4,
+    "primaryType": "POISON",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            -1,
+            "FLAMETHROWER"
+        ],
+        [
+            1,
+            "POISONGAS"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "FEINT"
+        ],
+        [
+            1,
+            "SMOKESCREEN"
+        ],
+        [
+            9,
+            "ACIDSPRAY"
+        ],
+        [
+            12,
+            "FURYSWIPES"
+        ],
+        [
+            15,
+            "FOCUSENERGY"
+        ],
+        [
+            18,
+            "BITE"
+        ],
+        [
+            21,
+            "VENOSHOCK"
+        ],
+        [
+            24,
+            "SCREECH"
+        ],
+        [
+            27,
+            "TOXIC"
+        ],
+        [
+            30,
+            "SUCKERPUNCH"
+        ],
+        [
+            33,
+            "MEMENTO"
+        ],
+        [
+            38,
+            "NIGHTSLASH"
+        ],
+        [
+            43,
+            "BELCH"
+        ],
+        [
+            48,
+            "VENOMDRENCH"
+        ],
+        [
+            48,
+            "EXPLOSION"
+        ]
+    ],
+    "tutorMoves": [
+        "ASSURANCE",
+        "ATTRACT",
+        "BURNINGJEALOUSY",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CORROSIVEGAS",
+        "CRUNCH",
+        "CUT",
+        "DARKPULSE",
+        "DEFOG",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDURE",
+        "EXPLOSION",
+        "FACADE",
+        "FIREBLAST",
+        "FIRESPIN",
+        "FLAMETHROWER",
+        "FOCUSENERGY",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GIGAIMPACT",
+        "HEADBUTT",
+        "HEX",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONTAIL",
+        "LASHOUT",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "PAYBACK",
+        "PLAYROUGH",
+        "POISONJAB",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROAR",
+        "ROCKSMASH",
+        "ROUND",
+        "SCARYFACE",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILSLAP",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "TORMENT",
+        "TOXIC",
+        "VENOMDRENCH",
+        "VENOSHOCK"
+    ],
+    "eggMoves": [],
+    "height": 1.0,
+    "weight": 38.0,
+    "abilities": [
+        "STENCH",
+        "AFTERMATH"
+    ],
+    "hiddenAbilitie": [
+        "KEENEYE"
+    ],
+    "baseTotal": 479,
+    "baseStats": [
+        103,
+        93,
+        67,
+        84,
+        71,
+        61
+    ],
+    "flags": [],
+    "name": "Skuntank",
+    "species": "SKUNTANK",
+    "catchRate": 60,
+    "happiness": 50,
+    "baseExp": 168,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 435
+}

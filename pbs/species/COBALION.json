@@ -1,0 +1,162 @@
+{
+    "generation": 5,
+    "primaryType": "STEEL",
+    "secondaryType": "FIGHTING",
+    "moves": [
+        [
+            1,
+            "QUICKATTACK"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "HELPINGHAND"
+        ],
+        [
+            1,
+            "WORKUP"
+        ],
+        [
+            7,
+            "METALCLAW"
+        ],
+        [
+            14,
+            "QUICKGUARD"
+        ],
+        [
+            21,
+            "DOUBLEKICK"
+        ],
+        [
+            28,
+            "RETALIATE"
+        ],
+        [
+            35,
+            "METALBURST"
+        ],
+        [
+            42,
+            "TAKEDOWN"
+        ],
+        [
+            49,
+            "SACREDSWORD"
+        ],
+        [
+            56,
+            "SWORDSDANCE"
+        ],
+        [
+            63,
+            "IRONHEAD"
+        ],
+        [
+            70,
+            "CLOSECOMBAT"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRSLASH",
+        "BLOCK",
+        "BOUNCE",
+        "BRICKBREAK",
+        "CALMMIND",
+        "CLOSECOMBAT",
+        "COACHING",
+        "CONFIDE",
+        "CUT",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FALSESWIPE",
+        "FLASHCANNON",
+        "FOCUSBLAST",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "LASERFOCUS",
+        "MAGNETRISE",
+        "MEGAHORN",
+        "MIMIC",
+        "NATURALGIFT",
+        "POISONJAB",
+        "PROTECT",
+        "PSYCHUP",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "REVERSAL",
+        "ROAR",
+        "ROCKPOLISH",
+        "ROCKSMASH",
+        "ROUND",
+        "SAFEGUARD",
+        "SANDSTORM",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SMARTSTRIKE",
+        "SNORE",
+        "STEALTHROCK",
+        "STEELBEAM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "SWIFT",
+        "SWORDSDANCE",
+        "TAUNT",
+        "THUNDERWAVE",
+        "TOXIC",
+        "VOLTSWITCH",
+        "WORKUP",
+        "XSCISSOR",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 2.1,
+    "weight": 250.0,
+    "abilities": [
+        "JUSTIFIED"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 580,
+    "baseStats": [
+        91,
+        90,
+        129,
+        108,
+        90,
+        72
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Cobalion",
+    "species": "COBALION",
+    "catchRate": 3,
+    "happiness": 35,
+    "baseExp": 290,
+    "evs": [
+        "DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 638
+}

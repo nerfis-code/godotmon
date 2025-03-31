@@ -1,0 +1,138 @@
+{
+    "generation": 1,
+    "primaryType": "NORMAL",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            5,
+            "SANDATTACK"
+        ],
+        [
+            9,
+            "GUST"
+        ],
+        [
+            13,
+            "QUICKATTACK"
+        ],
+        [
+            17,
+            "WHIRLWIND"
+        ],
+        [
+            22,
+            "TWISTER"
+        ],
+        [
+            27,
+            "FEATHERDANCE"
+        ],
+        [
+            32,
+            "AGILITY"
+        ],
+        [
+            37,
+            "WINGATTACK"
+        ],
+        [
+            42,
+            "ROOST"
+        ],
+        [
+            47,
+            "TAILWIND"
+        ],
+        [
+            52,
+            "AERIALACE"
+        ],
+        [
+            57,
+            "AIRSLASH"
+        ],
+        [
+            62,
+            "HURRICANE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AIRCUTTER",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DEFOG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "ENDURE",
+        "FACADE",
+        "FLY",
+        "FRUSTRATION",
+        "HEATWAVE",
+        "HIDDENPOWER",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "OMINOUSWIND",
+        "PLUCK",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROOST",
+        "ROUND",
+        "SECRETPOWER",
+        "SKYATTACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELWING",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "TAILWIND",
+        "THIEF",
+        "TWISTER",
+        "UPROAR",
+        "UTURN",
+        "WORKUP"
+    ],
+    "eggMoves": [],
+    "height": 1.1,
+    "weight": 30.0,
+    "abilities": [
+        "KEENEYE",
+        "TANGLEDFEET"
+    ],
+    "hiddenAbilitie": [
+        "BIGPECKS"
+    ],
+    "baseTotal": 349,
+    "baseStats": [
+        63,
+        60,
+        55,
+        71,
+        50,
+        50
+    ],
+    "flags": [],
+    "name": "Pidgeotto",
+    "species": "PIDGEOTTO",
+    "catchRate": 120,
+    "happiness": 50,
+    "baseExp": 122,
+    "evs": [
+        "SPEED",
+        2
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 17
+}

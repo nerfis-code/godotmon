@@ -1,0 +1,158 @@
+{
+    "generation": 6,
+    "primaryType": "FAIRY",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "SWEETSCENT"
+        ],
+        [
+            1,
+            "PLAYNICE"
+        ],
+        [
+            1,
+            "FAIRYWIND"
+        ],
+        [
+            9,
+            "AROMATHERAPY"
+        ],
+        [
+            12,
+            "DRAININGKISS"
+        ],
+        [
+            15,
+            "FAKETEARS"
+        ],
+        [
+            18,
+            "ROUND"
+        ],
+        [
+            21,
+            "STRINGSHOT"
+        ],
+        [
+            24,
+            "COTTONSPORE"
+        ],
+        [
+            27,
+            "ENERGYBALL"
+        ],
+        [
+            30,
+            "WISH"
+        ],
+        [
+            33,
+            "PLAYROUGH"
+        ],
+        [
+            36,
+            "COTTONGUARD"
+        ],
+        [
+            39,
+            "ENDEAVOR"
+        ],
+        [
+            42,
+            "STICKYWEB"
+        ]
+    ],
+    "tutorMoves": [
+        "AFTERYOU",
+        "AMNESIA",
+        "ATTRACT",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARM",
+        "CONFIDE",
+        "COVET",
+        "DAZZLINGGLEAM",
+        "DOUBLETEAM",
+        "DRAININGKISS",
+        "DRAINPUNCH",
+        "DREAMEATER",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FAKETEARS",
+        "FLAMETHROWER",
+        "FLASH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GIGAIMPACT",
+        "HEALBELL",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "LIGHTSCREEN",
+        "MAGICCOAT",
+        "METRONOME",
+        "MIMIC",
+        "MISTYEXPLOSION",
+        "NATURALGIFT",
+        "PLAYROUGH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SAFEGUARD",
+        "SECRETPOWER",
+        "SLEEPTALK",
+        "SNORE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SURF",
+        "SWAGGER",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "TOXIC"
+    ],
+    "eggMoves": [],
+    "height": 0.8,
+    "weight": 5.0,
+    "abilities": [
+        "SWEETVEIL"
+    ],
+    "hiddenAbilitie": [
+        "UNBURDEN"
+    ],
+    "baseTotal": 480,
+    "baseStats": [
+        82,
+        80,
+        86,
+        72,
+        85,
+        75
+    ],
+    "flags": [],
+    "name": "Slurpuff",
+    "species": "SLURPUFF",
+    "catchRate": 140,
+    "happiness": 50,
+    "baseExp": 168,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 685
+}

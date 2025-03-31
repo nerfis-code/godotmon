@@ -1,0 +1,438 @@
+{
+    "generation": 8,
+    "primaryType": "GRASS",
+    "secondaryType": "DRAGON",
+    "moves": [
+        [
+            -1,
+            "WINGATTACK"
+        ],
+        [
+            1,
+            "RECYCLE"
+        ],
+        [
+            1,
+            "WITHDRAW"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "GROWTH"
+        ],
+        [
+            1,
+            "TWISTER"
+        ],
+        [
+            4,
+            "ACIDSPRAY"
+        ],
+        [
+            8,
+            "ACROBATICS"
+        ],
+        [
+            12,
+            "LEECHSEED"
+        ],
+        [
+            16,
+            "PROTECT"
+        ],
+        [
+            20,
+            "DRAGONBREATH"
+        ],
+        [
+            24,
+            "DRAGONDANCE"
+        ],
+        [
+            28,
+            "DRAGONPULSE"
+        ],
+        [
+            32,
+            "GRAVAPPLE"
+        ],
+        [
+            36,
+            "IRONDEFENSE"
+        ],
+        [
+            40,
+            "FLY"
+        ],
+        [
+            44,
+            "DRAGONRUSH"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AIRSLASH",
+        "ATTRACT",
+        "BULLETSEED",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONDANCE",
+        "DRAGONPULSE",
+        "DUALWINGBEAT",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLY",
+        "FOCUSENERGY",
+        "FRUSTRATION",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYGLIDE",
+        "HEAVYSLAM",
+        "HIDDENPOWER",
+        "HYPERBEAM",
+        "IRONDEFENSE",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PROTECT",
+        "REST",
+        "RETURN",
+        "ROUND",
+        "SCARYFACE",
+        "SECRETPOWER",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TOXIC",
+        "UTURN"
+    ],
+    "eggMoves": [],
+    "height": 0.3,
+    "weight": 1.0,
+    "abilities": [
+        "RIPEN",
+        "GLUTTONY"
+    ],
+    "hiddenAbilitie": [
+        "HUSTLE"
+    ],
+    "baseTotal": 485,
+    "baseStats": [
+        70,
+        110,
+        80,
+        70,
+        95,
+        60
+    ],
+    "flags": [],
+    "name": "Flapple",
+    "species": "FLAPPLE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 170,
+    "evs": [
+        "ATTACK",
+        2
+    ],
+    "growthRate": "ERRATIC",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 8,
+            "primaryType": "GRASS",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    -1,
+                    "WINGATTACK"
+                ],
+                [
+                    1,
+                    "RECYCLE"
+                ],
+                [
+                    1,
+                    "WITHDRAW"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "GROWTH"
+                ],
+                [
+                    1,
+                    "TWISTER"
+                ],
+                [
+                    4,
+                    "ACIDSPRAY"
+                ],
+                [
+                    8,
+                    "ACROBATICS"
+                ],
+                [
+                    12,
+                    "LEECHSEED"
+                ],
+                [
+                    16,
+                    "PROTECT"
+                ],
+                [
+                    20,
+                    "DRAGONBREATH"
+                ],
+                [
+                    24,
+                    "DRAGONDANCE"
+                ],
+                [
+                    28,
+                    "DRAGONPULSE"
+                ],
+                [
+                    32,
+                    "GRAVAPPLE"
+                ],
+                [
+                    36,
+                    "IRONDEFENSE"
+                ],
+                [
+                    40,
+                    "FLY"
+                ],
+                [
+                    44,
+                    "DRAGONRUSH"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AIRSLASH",
+                "ATTRACT",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLY",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 0.3,
+            "weight": 1.0,
+            "abilities": [
+                "RIPEN",
+                "GLUTTONY"
+            ],
+            "hiddenAbilitie": [
+                "HUSTLE"
+            ],
+            "baseTotal": 485,
+            "baseStats": [
+                70,
+                110,
+                80,
+                70,
+                95,
+                60
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Flapple"
+        },
+        {
+            "generation": 8,
+            "primaryType": "GRASS",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    -1,
+                    "WINGATTACK"
+                ],
+                [
+                    1,
+                    "RECYCLE"
+                ],
+                [
+                    1,
+                    "WITHDRAW"
+                ],
+                [
+                    1,
+                    "ASTONISH"
+                ],
+                [
+                    1,
+                    "GROWTH"
+                ],
+                [
+                    1,
+                    "TWISTER"
+                ],
+                [
+                    4,
+                    "ACIDSPRAY"
+                ],
+                [
+                    8,
+                    "ACROBATICS"
+                ],
+                [
+                    12,
+                    "LEECHSEED"
+                ],
+                [
+                    16,
+                    "PROTECT"
+                ],
+                [
+                    20,
+                    "DRAGONBREATH"
+                ],
+                [
+                    24,
+                    "DRAGONDANCE"
+                ],
+                [
+                    28,
+                    "DRAGONPULSE"
+                ],
+                [
+                    32,
+                    "GRAVAPPLE"
+                ],
+                [
+                    36,
+                    "IRONDEFENSE"
+                ],
+                [
+                    40,
+                    "FLY"
+                ],
+                [
+                    44,
+                    "DRAGONRUSH"
+                ]
+            ],
+            "tutorMoves": [
+                "ACROBATICS",
+                "AIRSLASH",
+                "ATTRACT",
+                "BULLETSEED",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONDANCE",
+                "DRAGONPULSE",
+                "DUALWINGBEAT",
+                "ENDURE",
+                "ENERGYBALL",
+                "FACADE",
+                "FLY",
+                "FOCUSENERGY",
+                "FRUSTRATION",
+                "GIGADRAIN",
+                "GIGAIMPACT",
+                "GRASSKNOT",
+                "GRASSYGLIDE",
+                "HEAVYSLAM",
+                "HIDDENPOWER",
+                "HYPERBEAM",
+                "IRONDEFENSE",
+                "MIMIC",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "PROTECT",
+                "REST",
+                "RETURN",
+                "ROUND",
+                "SCARYFACE",
+                "SECRETPOWER",
+                "SEEDBOMB",
+                "SLEEPTALK",
+                "SNORE",
+                "SOLARBEAM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SWAGGER",
+                "TOXIC",
+                "UTURN"
+            ],
+            "eggMoves": [],
+            "height": 24.0,
+            "weight": 1.0,
+            "abilities": [
+                "RIPEN",
+                "GLUTTONY"
+            ],
+            "hiddenAbilitie": [
+                "HUSTLE"
+            ],
+            "baseTotal": 485,
+            "baseStats": [
+                70,
+                110,
+                80,
+                70,
+                95,
+                60
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Gigantamax"
+        }
+    ],
+    "internationalPokedex": 841
+}

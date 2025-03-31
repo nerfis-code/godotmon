@@ -1,0 +1,519 @@
+{
+    "generation": 6,
+    "primaryType": "DRAGON",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            -1,
+            "AQUATAIL"
+        ],
+        [
+            1,
+            "ACIDSPRAY"
+        ],
+        [
+            1,
+            "POISONTAIL"
+        ],
+        [
+            1,
+            "TEARFULLOOK"
+        ],
+        [
+            1,
+            "FEINT"
+        ],
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            1,
+            "WATERGUN"
+        ],
+        [
+            1,
+            "DRAGONBREATH"
+        ],
+        [
+            15,
+            "PROTECT"
+        ],
+        [
+            20,
+            "FLAIL"
+        ],
+        [
+            25,
+            "WATERPULSE"
+        ],
+        [
+            30,
+            "RAINDANCE"
+        ],
+        [
+            35,
+            "DRAGONPULSE"
+        ],
+        [
+            43,
+            "CURSE"
+        ],
+        [
+            49,
+            "BODYSLAM"
+        ],
+        [
+            58,
+            "MUDDYWATER"
+        ],
+        [
+            67,
+            "POWERWHIP"
+        ]
+    ],
+    "tutorMoves": [
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BREAKINGSWIPE",
+        "BRUTALSWING",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "DOUBLETEAM",
+        "DRACOMETEOR",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FOCUSBLAST",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HAIL",
+        "HIDDENPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "ICEBEAM",
+        "INCINERATE",
+        "INFESTATION",
+        "IRONTAIL",
+        "LASERFOCUS",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "POWERWHIP",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROUND",
+        "SECRETPOWER",
+        "SHOCKWAVE",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SNORE",
+        "STOMPINGTANTRUM",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SUPERPOWER",
+        "SURF",
+        "SWAGGER",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "TOXIC",
+        "WATERPULSE",
+        "WEATHERBALL"
+    ],
+    "eggMoves": [],
+    "height": 2.0,
+    "weight": 150.5,
+    "abilities": [
+        "SAPSIPPER",
+        "HYDRATION"
+    ],
+    "hiddenAbilitie": [
+        "GOOEY"
+    ],
+    "baseTotal": 600,
+    "baseStats": [
+        90,
+        100,
+        70,
+        80,
+        110,
+        150
+    ],
+    "flags": [],
+    "name": "Goodra",
+    "species": "GOODRA",
+    "catchRate": 45,
+    "happiness": 35,
+    "baseExp": 300,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [
+        {
+            "generation": 6,
+            "primaryType": "DRAGON",
+            "secondaryType": "UNKNOWN",
+            "moves": [
+                [
+                    -1,
+                    "AQUATAIL"
+                ],
+                [
+                    1,
+                    "ACIDSPRAY"
+                ],
+                [
+                    1,
+                    "POISONTAIL"
+                ],
+                [
+                    1,
+                    "TEARFULLOOK"
+                ],
+                [
+                    1,
+                    "FEINT"
+                ],
+                [
+                    1,
+                    "ABSORB"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    1,
+                    "DRAGONBREATH"
+                ],
+                [
+                    15,
+                    "PROTECT"
+                ],
+                [
+                    20,
+                    "FLAIL"
+                ],
+                [
+                    25,
+                    "WATERPULSE"
+                ],
+                [
+                    30,
+                    "RAINDANCE"
+                ],
+                [
+                    35,
+                    "DRAGONPULSE"
+                ],
+                [
+                    43,
+                    "CURSE"
+                ],
+                [
+                    49,
+                    "BODYSLAM"
+                ],
+                [
+                    58,
+                    "MUDDYWATER"
+                ],
+                [
+                    67,
+                    "POWERWHIP"
+                ]
+            ],
+            "tutorMoves": [
+                "AQUATAIL",
+                "ASSURANCE",
+                "ATTRACT",
+                "BLIZZARD",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BRUTALSWING",
+                "BULLDOZE",
+                "CAPTIVATE",
+                "CONFIDE",
+                "DOUBLETEAM",
+                "DRACOMETEOR",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREPUNCH",
+                "FLAMETHROWER",
+                "FOCUSBLAST",
+                "FOCUSPUNCH",
+                "FRUSTRATION",
+                "GIGAIMPACT",
+                "HAIL",
+                "HIDDENPOWER",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "INCINERATE",
+                "INFESTATION",
+                "IRONTAIL",
+                "LASERFOCUS",
+                "MEGAKICK",
+                "MEGAPUNCH",
+                "MIMIC",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "NATURALGIFT",
+                "OUTRAGE",
+                "POWERWHIP",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "RETURN",
+                "ROCKSLIDE",
+                "ROCKSMASH",
+                "ROUND",
+                "SECRETPOWER",
+                "SHOCKWAVE",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "SNORE",
+                "STOMPINGTANTRUM",
+                "STRENGTH",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SUPERPOWER",
+                "SURF",
+                "SWAGGER",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "TOXIC",
+                "WATERPULSE",
+                "WEATHERBALL"
+            ],
+            "eggMoves": [],
+            "height": 2.0,
+            "weight": 150.5,
+            "abilities": [
+                "SAPSIPPER",
+                "HYDRATION"
+            ],
+            "hiddenAbilitie": [
+                "GOOEY"
+            ],
+            "baseTotal": 600,
+            "baseStats": [
+                90,
+                100,
+                70,
+                80,
+                110,
+                150
+            ],
+            "flags": [],
+            "form": 0,
+            "formName": "Goodra"
+        },
+        {
+            "generation": 8,
+            "primaryType": "STEEL",
+            "secondaryType": "DRAGON",
+            "moves": [
+                [
+                    0,
+                    "IRONTAIL"
+                ],
+                [
+                    1,
+                    "SHELTER"
+                ],
+                [
+                    1,
+                    "ACIDSPRAY"
+                ],
+                [
+                    1,
+                    "FEINT"
+                ],
+                [
+                    1,
+                    "TEARFULLOOK"
+                ],
+                [
+                    1,
+                    "DRAGONBREATH"
+                ],
+                [
+                    1,
+                    "TACKLE"
+                ],
+                [
+                    1,
+                    "ABSORB"
+                ],
+                [
+                    1,
+                    "WATERGUN"
+                ],
+                [
+                    15,
+                    "PROTECT"
+                ],
+                [
+                    20,
+                    "FLAIL"
+                ],
+                [
+                    25,
+                    "WATERPULSE"
+                ],
+                [
+                    30,
+                    "RAINDANCE"
+                ],
+                [
+                    35,
+                    "DRAGONPULSE"
+                ],
+                [
+                    43,
+                    "CURSE"
+                ],
+                [
+                    49,
+                    "BODYSLAM"
+                ],
+                [
+                    49,
+                    "IRONHEAD"
+                ],
+                [
+                    58,
+                    "MUDDYWATER"
+                ],
+                [
+                    67,
+                    "HEAVYSLAM"
+                ]
+            ],
+            "tutorMoves": [
+                "ACIDSPRAY",
+                "BLIZZARD",
+                "BODYPRESS",
+                "BODYSLAM",
+                "BREAKINGSWIPE",
+                "BULLDOZE",
+                "CHARM",
+                "CHILLINGWATER",
+                "CURSE",
+                "DRACOMETEOR",
+                "DRAGONCHEER",
+                "DRAGONCLAW",
+                "DRAGONPULSE",
+                "DRAGONTAIL",
+                "EARTHQUAKE",
+                "ENDURE",
+                "FACADE",
+                "FIREBLAST",
+                "FIREPUNCH",
+                "FLAMETHROWER",
+                "FLASHCANNON",
+                "GIGAIMPACT",
+                "GYROBALL",
+                "HEAVYSLAM",
+                "HYDROPUMP",
+                "HYPERBEAM",
+                "ICEBEAM",
+                "ICESPINNER",
+                "IRONHEAD",
+                "KNOCKOFF",
+                "LASHOUT",
+                "MUDDYWATER",
+                "MUDSHOT",
+                "OUTRAGE",
+                "PROTECT",
+                "RAINDANCE",
+                "REST",
+                "ROCKSLIDE",
+                "ROCKTOMB",
+                "SANDSTORM",
+                "SCARYFACE",
+                "SKITTERSMACK",
+                "SLEEPTALK",
+                "SLUDGEBOMB",
+                "SLUDGEWAVE",
+                "STEELBEAM",
+                "STOMPINGTANTRUM",
+                "SUBSTITUTE",
+                "SUNNYDAY",
+                "SURF",
+                "TAKEDOWN",
+                "THUNDER",
+                "THUNDERBOLT",
+                "THUNDERPUNCH",
+                "WATERPULSE",
+                "WEATHERBALL"
+            ],
+            "eggMoves": [],
+            "height": 1.7,
+            "weight": 334.1,
+            "abilities": [
+                "SAPSIPPER",
+                "SHELLARMOR"
+            ],
+            "hiddenAbilitie": [
+                "GOOEY"
+            ],
+            "baseTotal": 600,
+            "baseStats": [
+                80,
+                100,
+                100,
+                60,
+                110,
+                150
+            ],
+            "flags": [],
+            "form": 1,
+            "formName": "Forma Hisui"
+        }
+    ],
+    "internationalPokedex": 706
+}

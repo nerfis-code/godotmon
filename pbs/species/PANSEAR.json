@@ -1,0 +1,177 @@
+{
+    "generation": 5,
+    "primaryType": "FIRE",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "PLAYNICE"
+        ],
+        [
+            4,
+            "LEER"
+        ],
+        [
+            7,
+            "LICK"
+        ],
+        [
+            10,
+            "INCINERATE"
+        ],
+        [
+            13,
+            "FURYSWIPES"
+        ],
+        [
+            16,
+            "YAWN"
+        ],
+        [
+            19,
+            "BITE"
+        ],
+        [
+            22,
+            "FLAMEBURST"
+        ],
+        [
+            25,
+            "AMNESIA"
+        ],
+        [
+            28,
+            "FLING"
+        ],
+        [
+            31,
+            "ACROBATICS"
+        ],
+        [
+            34,
+            "FIREBLAST"
+        ],
+        [
+            37,
+            "RECYCLE"
+        ],
+        [
+            40,
+            "NATURALGIFT"
+        ],
+        [
+            43,
+            "CRUNCH"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "ATTRACT",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COVET",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPLEDGE",
+        "FIREPUNCH",
+        "FLAMECHARGE",
+        "FLAMETHROWER",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "GASTROACID",
+        "GRASSKNOT",
+        "GUNKSHOT",
+        "HEATWAVE",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "INCINERATE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MIMIC",
+        "NATURALGIFT",
+        "OVERHEAT",
+        "PAYBACK",
+        "PROTECT",
+        "RECYCLE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR",
+        "WILLOWISP",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "ASTONISH",
+        "BELCH",
+        "COVET",
+        "DISARMINGVOICE",
+        "FIREPUNCH",
+        "FIRESPIN",
+        "FLAREBLITZ",
+        "HEATWAVE",
+        "LOWKICK",
+        "NASTYPLOT",
+        "ROLEPLAY",
+        "SLEEPTALK",
+        "TICKLE"
+    ],
+    "height": 0.6,
+    "weight": 11.0,
+    "abilities": [
+        "GLUTTONY"
+    ],
+    "hiddenAbilitie": [
+        "BLAZE"
+    ],
+    "baseTotal": 316,
+    "baseStats": [
+        50,
+        53,
+        48,
+        64,
+        53,
+        48
+    ],
+    "flags": [],
+    "name": "Pansear",
+    "species": "PANSEAR",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 63,
+    "evs": [
+        "SPEED",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 12.5,
+    "forms": [],
+    "internationalPokedex": 513
+}

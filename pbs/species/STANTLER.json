@@ -1,0 +1,179 @@
+{
+    "generation": 2,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "TACKLE"
+        ],
+        [
+            3,
+            "LEER"
+        ],
+        [
+            7,
+            "ASTONISH"
+        ],
+        [
+            10,
+            "HYPNOSIS"
+        ],
+        [
+            13,
+            "STOMP"
+        ],
+        [
+            16,
+            "SANDATTACK"
+        ],
+        [
+            18,
+            "TAKEDOWN"
+        ],
+        [
+            21,
+            "PSYSHIELDBASH"
+        ],
+        [
+            23,
+            "CONFUSERAY"
+        ],
+        [
+            27,
+            "CALMMIND"
+        ],
+        [
+            32,
+            "ROLEPLAY"
+        ],
+        [
+            37,
+            "ZENHEADBUTT"
+        ],
+        [
+            43,
+            "LUNGE"
+        ],
+        [
+            49,
+            "IMPRISON"
+        ],
+        [
+            50,
+            "ENTRAINMENT"
+        ],
+        [
+            55,
+            "DOUBLEEDGE"
+        ]
+    ],
+    "tutorMoves": [
+        "ATTRACT",
+        "BODYSLAM",
+        "BOUNCE",
+        "BULLDOZE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DREAMEATER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASH",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRAVITY",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "IRONTAIL",
+        "LASTRESORT",
+        "LIGHTSCREEN",
+        "MAGICROOM",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROAR",
+        "ROLEPLAY",
+        "ROUND",
+        "SECRETPOWER",
+        "SHADOWBALL",
+        "SHOCKWAVE",
+        "SIGNALBEAM",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNORE",
+        "SOLARBEAM",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERWAVE",
+        "TRICKROOM",
+        "UPROAR",
+        "WILDCHARGE",
+        "WORKUP",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "BITE",
+        "DISABLE",
+        "DOUBLEKICK",
+        "EXTRASENSORY",
+        "MEGAHORN",
+        "SPITE",
+        "THRASH",
+        "ZENHEADBUTT"
+    ],
+    "height": 1.4,
+    "weight": 71.2,
+    "abilities": [
+        "INTIMIDATE",
+        "FRISK"
+    ],
+    "hiddenAbilitie": [
+        "SAPSIPPER"
+    ],
+    "baseTotal": 465,
+    "baseStats": [
+        73,
+        95,
+        62,
+        85,
+        85,
+        65
+    ],
+    "flags": [],
+    "name": "Stantler",
+    "species": "STANTLER",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 163,
+    "evs": [
+        "ATTACK",
+        1
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 234
+}

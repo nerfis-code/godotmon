@@ -1,0 +1,166 @@
+{
+    "generation": 5,
+    "primaryType": "BUG",
+    "secondaryType": "STEEL",
+    "moves": [
+        [
+            1,
+            "FURYCUTTER"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            4,
+            "VISEGRIP"
+        ],
+        [
+            8,
+            "METALCLAW"
+        ],
+        [
+            12,
+            "BEATUP"
+        ],
+        [
+            16,
+            "BUGBITE"
+        ],
+        [
+            20,
+            "BITE"
+        ],
+        [
+            24,
+            "AGILITY"
+        ],
+        [
+            28,
+            "DIG"
+        ],
+        [
+            32,
+            "XSCISSOR"
+        ],
+        [
+            36,
+            "CRUNCH"
+        ],
+        [
+            40,
+            "METALSOUND"
+        ],
+        [
+            44,
+            "IRONHEAD"
+        ],
+        [
+            48,
+            "ENTRAINMENT"
+        ],
+        [
+            52,
+            "IRONDEFENSE"
+        ],
+        [
+            56,
+            "GUILLOTINE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AGILITY",
+        "ATTRACT",
+        "BATONPASS",
+        "BEATUP",
+        "BUGBITE",
+        "CAPTIVATE",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DIG",
+        "DOUBLETEAM",
+        "ENDEAVOR",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FLASHCANNON",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "HELPINGHAND",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "IRONDEFENSE",
+        "IRONHEAD",
+        "MIMIC",
+        "NATURALGIFT",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKPOLISH",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SCREECH",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SNORE",
+        "STEELBEAM",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "STRUGGLEBUG",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "THUNDERFANG",
+        "THUNDERWAVE",
+        "TOXIC",
+        "XSCISSOR"
+    ],
+    "eggMoves": [
+        "FIRSTIMPRESSION",
+        "FLAIL",
+        "INFESTATION",
+        "METALBURST",
+        "STRUGGLEBUG"
+    ],
+    "height": 0.3,
+    "weight": 33.0,
+    "abilities": [
+        "SWARM",
+        "HUSTLE"
+    ],
+    "hiddenAbilitie": [
+        "TRUANT"
+    ],
+    "baseTotal": 484,
+    "baseStats": [
+        58,
+        109,
+        112,
+        109,
+        48,
+        48
+    ],
+    "flags": [],
+    "name": "Durant",
+    "species": "DURANT",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 169,
+    "evs": [
+        "DEFENSE",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 632
+}

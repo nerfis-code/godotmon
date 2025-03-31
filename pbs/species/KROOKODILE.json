@@ -1,0 +1,199 @@
+{
+    "generation": 5,
+    "primaryType": "GROUND",
+    "secondaryType": "DARK",
+    "moves": [
+        [
+            1,
+            "POWERTRIP"
+        ],
+        [
+            1,
+            "LEER"
+        ],
+        [
+            1,
+            "SANDATTACK"
+        ],
+        [
+            1,
+            "HONECLAWS"
+        ],
+        [
+            9,
+            "SANDTOMB"
+        ],
+        [
+            12,
+            "SCARYFACE"
+        ],
+        [
+            15,
+            "BITE"
+        ],
+        [
+            18,
+            "TORMENT"
+        ],
+        [
+            21,
+            "DIG"
+        ],
+        [
+            24,
+            "SWAGGER"
+        ],
+        [
+            27,
+            "CRUNCH"
+        ],
+        [
+            32,
+            "SANDSTORM"
+        ],
+        [
+            35,
+            "FOULPLAY"
+        ],
+        [
+            44,
+            "EARTHQUAKE"
+        ],
+        [
+            51,
+            "THRASH"
+        ],
+        [
+            58,
+            "OUTRAGE"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AQUATAIL",
+        "ASSURANCE",
+        "ATTRACT",
+        "BEATUP",
+        "BLOCK",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRUTALSWING",
+        "BULKUP",
+        "BULLDOZE",
+        "CAPTIVATE",
+        "CLOSECOMBAT",
+        "CONFIDE",
+        "CRUNCH",
+        "CUT",
+        "DARKESTLARIAT",
+        "DARKPULSE",
+        "DIG",
+        "DOUBLETEAM",
+        "DRAGONCLAW",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "EMBARGO",
+        "ENDURE",
+        "FACADE",
+        "FIREFANG",
+        "FLING",
+        "FOCUSBLAST",
+        "FOCUSENERGY",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "HIDDENPOWER",
+        "HIGHHORSEPOWER",
+        "HONECLAWS",
+        "HYPERBEAM",
+        "INCINERATE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LOWKICK",
+        "LOWSWEEP",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "NATURALGIFT",
+        "OUTRAGE",
+        "PAYBACK",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "REVENGE",
+        "ROAR",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROUND",
+        "SANDSTORM",
+        "SANDTOMB",
+        "SCALESHOT",
+        "SCARYFACE",
+        "SCORCHINGSANDS",
+        "SECRETPOWER",
+        "SHADOWCLAW",
+        "SKITTERSMACK",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SMACKDOWN",
+        "SNARL",
+        "SNATCH",
+        "SNORE",
+        "SPITE",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUPERPOWER",
+        "SWAGGER",
+        "TAUNT",
+        "THIEF",
+        "THROATCHOP",
+        "THUNDERFANG",
+        "TORMENT",
+        "TOXIC",
+        "UPROAR"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 96.3,
+    "abilities": [
+        "INTIMIDATE",
+        "MOXIE"
+    ],
+    "hiddenAbilitie": [
+        "ANGERPOINT"
+    ],
+    "baseTotal": 519,
+    "baseStats": [
+        95,
+        117,
+        80,
+        92,
+        65,
+        70
+    ],
+    "flags": [],
+    "name": "Krookodile",
+    "species": "KROOKODILE",
+    "catchRate": 45,
+    "happiness": 50,
+    "baseExp": 260,
+    "evs": [
+        "ATTACK",
+        3
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 553
+}

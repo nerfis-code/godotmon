@@ -1,0 +1,184 @@
+{
+    "generation": 1,
+    "primaryType": "WATER",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            3,
+            "WATERGUN"
+        ],
+        [
+            6,
+            "CONFUSION"
+        ],
+        [
+            9,
+            "FURYSWIPES"
+        ],
+        [
+            12,
+            "WATERPULSE"
+        ],
+        [
+            15,
+            "DISABLE"
+        ],
+        [
+            18,
+            "ZENHEADBUTT"
+        ],
+        [
+            21,
+            "SCREECH"
+        ],
+        [
+            24,
+            "AQUATAIL"
+        ],
+        [
+            27,
+            "SOAK"
+        ],
+        [
+            30,
+            "PSYCHUP"
+        ],
+        [
+            34,
+            "AMNESIA"
+        ],
+        [
+            36,
+            "HYDROPUMP"
+        ],
+        [
+            39,
+            "WONDERROOM"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AMNESIA",
+        "AQUATAIL",
+        "ATTRACT",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "BRINE",
+        "CALMMIND",
+        "CAPTIVATE",
+        "CONFIDE",
+        "COUNTER",
+        "DIG",
+        "DIVE",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DYNAMICPUNCH",
+        "ENCORE",
+        "ENDURE",
+        "FACADE",
+        "FLASH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FRUSTRATION",
+        "FUTURESIGHT",
+        "HAIL",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "HYDROPUMP",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "IRONTAIL",
+        "LIGHTSCREEN",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "MIMIC",
+        "MUDSLAP",
+        "NATURALGIFT",
+        "PAYDAY",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHIC",
+        "PSYCHUP",
+        "PSYSHOCK",
+        "RAINDANCE",
+        "REST",
+        "RETURN",
+        "ROCKSMASH",
+        "ROLEPLAY",
+        "ROUND",
+        "SCALD",
+        "SCREECH",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWCLAW",
+        "SIGNALBEAM",
+        "SLEEPTALK",
+        "SNORE",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SURF",
+        "SWAGGER",
+        "SWIFT",
+        "TELEKINESIS",
+        "WATERFALL",
+        "WATERPULSE",
+        "WHIRLPOOL",
+        "WONDERROOM",
+        "WORRYSEED",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [
+        "CLEARSMOG",
+        "CONFUSERAY",
+        "CROSSCHOP",
+        "ENCORE",
+        "FUTURESIGHT",
+        "HYPNOSIS",
+        "PSYBEAM",
+        "SIMPLEBEAM",
+        "YAWN"
+    ],
+    "height": 0.8,
+    "weight": 19.6,
+    "abilities": [
+        "DAMP",
+        "CLOUDNINE"
+    ],
+    "hiddenAbilitie": [
+        "SWIFTSWIM"
+    ],
+    "baseTotal": 320,
+    "baseStats": [
+        50,
+        52,
+        48,
+        55,
+        65,
+        50
+    ],
+    "flags": [],
+    "name": "Psyduck",
+    "species": "PSYDUCK",
+    "catchRate": 190,
+    "happiness": 50,
+    "baseExp": 64,
+    "evs": [
+        "SPECIAL_ATTACK",
+        1
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 54
+}

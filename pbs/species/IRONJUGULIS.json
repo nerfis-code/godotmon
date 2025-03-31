@@ -1,0 +1,159 @@
+{
+    "generation": 9,
+    "primaryType": "DARK",
+    "secondaryType": "FLYING",
+    "moves": [
+        [
+            1,
+            "WORKUP"
+        ],
+        [
+            1,
+            "ELECTRICTERRAIN"
+        ],
+        [
+            1,
+            "FOCUSENERGY"
+        ],
+        [
+            1,
+            "TRIATTACK"
+        ],
+        [
+            1,
+            "AIRCUTTER"
+        ],
+        [
+            7,
+            "ROAR"
+        ],
+        [
+            14,
+            "ASSURANCE"
+        ],
+        [
+            21,
+            "DRAGONBREATH"
+        ],
+        [
+            28,
+            "SNARL"
+        ],
+        [
+            35,
+            "CRUNCH"
+        ],
+        [
+            42,
+            "HYPERVOICE"
+        ],
+        [
+            56,
+            "AIRSLASH"
+        ],
+        [
+            63,
+            "KNOCKOFF"
+        ],
+        [
+            70,
+            "DARKPULSE"
+        ],
+        [
+            77,
+            "OUTRAGE"
+        ],
+        [
+            84,
+            "DRAGONPULSE"
+        ],
+        [
+            91,
+            "HYPERBEAM"
+        ]
+    ],
+    "tutorMoves": [
+        "ACROBATICS",
+        "AIRCUTTER",
+        "AIRSLASH",
+        "BODYSLAM",
+        "CHARGEBEAM",
+        "CRUNCH",
+        "DARKPULSE",
+        "DOUBLEEDGE",
+        "DRAGONCHEER",
+        "DRAGONPULSE",
+        "DRAGONTAIL",
+        "DUALWINGBEAT",
+        "EARTHPOWER",
+        "ELECTRICTERRAIN",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREFANG",
+        "FLAMETHROWER",
+        "FLASHCANNON",
+        "FLY",
+        "FOCUSBLAST",
+        "GIGAIMPACT",
+        "HEATWAVE",
+        "HURRICANE",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "HYPERVOICE",
+        "IRONHEAD",
+        "KNOCKOFF",
+        "LASHOUT",
+        "METALSOUND",
+        "METEORBEAM",
+        "OUTRAGE",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "ROAR",
+        "ROCKTOMB",
+        "SCARYFACE",
+        "SLEEPTALK",
+        "SNARL",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAILWIND",
+        "TAKEDOWN",
+        "TAUNT",
+        "THROATCHOP",
+        "UTURN",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.3,
+    "weight": 111.0,
+    "abilities": [
+        "QUARKDRIVE"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        94,
+        80,
+        86,
+        108,
+        122,
+        80
+    ],
+    "flags": [
+        "Paradox"
+    ],
+    "name": "Ferrocuello",
+    "species": "IRONJUGULIS",
+    "catchRate": 30,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "SPECIAL_ATTACK",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 993
+}

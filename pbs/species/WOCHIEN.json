@@ -1,0 +1,156 @@
+{
+    "generation": 9,
+    "primaryType": "DARK",
+    "secondaryType": "GRASS",
+    "moves": [
+        [
+            1,
+            "ABSORB"
+        ],
+        [
+            1,
+            "SPITE"
+        ],
+        [
+            1,
+            "MEANLOOK"
+        ],
+        [
+            5,
+            "TICKLE"
+        ],
+        [
+            10,
+            "PAYBACK"
+        ],
+        [
+            15,
+            "POISONPOWDER"
+        ],
+        [
+            15,
+            "STUNSPORE"
+        ],
+        [
+            20,
+            "MEGADRAIN"
+        ],
+        [
+            25,
+            "LEECHSEED"
+        ],
+        [
+            30,
+            "GROWTH"
+        ],
+        [
+            35,
+            "INGRAIN"
+        ],
+        [
+            40,
+            "DARKPULSE"
+        ],
+        [
+            45,
+            "GIGADRAIN"
+        ],
+        [
+            50,
+            "RUINATION"
+        ],
+        [
+            55,
+            "FOULPLAY"
+        ],
+        [
+            60,
+            "POWERWHIP"
+        ],
+        [
+            65,
+            "GRASSYTERRAIN"
+        ],
+        [
+            70,
+            "KNOCKOFF"
+        ],
+        [
+            75,
+            "LEAFSTORM"
+        ]
+    ],
+    "tutorMoves": [
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLETSEED",
+        "DARKPULSE",
+        "ENDURE",
+        "ENERGYBALL",
+        "FACADE",
+        "FOULPLAY",
+        "GIGADRAIN",
+        "GIGAIMPACT",
+        "GRASSKNOT",
+        "GRASSYTERRAIN",
+        "HEX",
+        "HYPERBEAM",
+        "KNOCKOFF",
+        "LASHOUT",
+        "LEAFSTORM",
+        "LIGHTSCREEN",
+        "MAGICALLEAF",
+        "MUDSHOT",
+        "MUDSLAP",
+        "POLLENPUFF",
+        "PROTECT",
+        "RAINDANCE",
+        "REFLECT",
+        "REST",
+        "SCARYFACE",
+        "SEEDBOMB",
+        "SLEEPTALK",
+        "SNARL",
+        "SOLARBEAM",
+        "SOLARBLADE",
+        "SPITE",
+        "SUBSTITUTE",
+        "SUNNYDAY",
+        "TAKEDOWN",
+        "TAUNT",
+        "TRAILBLAZE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.5,
+    "weight": 74.2,
+    "abilities": [
+        "TABLETSOFRUIN"
+    ],
+    "hiddenAbilitie": [],
+    "baseTotal": 570,
+    "baseStats": [
+        85,
+        85,
+        100,
+        70,
+        95,
+        135
+    ],
+    "flags": [
+        "Legendary"
+    ],
+    "name": "Wo-Chien",
+    "species": "WOCHIEN",
+    "catchRate": 6,
+    "happiness": 0,
+    "baseExp": 285,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        3
+    ],
+    "growthRate": "SLOW",
+    "genderRatio": -1,
+    "forms": [],
+    "internationalPokedex": 1001
+}

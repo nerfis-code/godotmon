@@ -1,0 +1,217 @@
+{
+    "generation": 3,
+    "primaryType": "NORMAL",
+    "secondaryType": "UNKNOWN",
+    "moves": [
+        [
+            1,
+            "THIEF"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            1,
+            "ASTONISH"
+        ],
+        [
+            1,
+            "LICK"
+        ],
+        [
+            1,
+            "SCRATCH"
+        ],
+        [
+            4,
+            "BIND"
+        ],
+        [
+            7,
+            "SHADOWSNEAK"
+        ],
+        [
+            10,
+            "FEINT"
+        ],
+        [
+            13,
+            "FURYSWIPES"
+        ],
+        [
+            16,
+            "DISABLE"
+        ],
+        [
+            18,
+            "PSYBEAM"
+        ],
+        [
+            21,
+            "ANCIENTPOWER"
+        ],
+        [
+            25,
+            "SLASH"
+        ],
+        [
+            30,
+            "DETECT"
+        ],
+        [
+            33,
+            "SHADOWCLAW"
+        ],
+        [
+            38,
+            "SCREECH"
+        ],
+        [
+            42,
+            "SUBSTITUTE"
+        ],
+        [
+            46,
+            "SUCKERPUNCH"
+        ],
+        [
+            50,
+            "FOULPLAY"
+        ]
+    ],
+    "tutorMoves": [
+        "AERIALACE",
+        "AFTERYOU",
+        "ANCIENTPOWER",
+        "AQUATAIL",
+        "ATTRACT",
+        "BIND",
+        "BLIZZARD",
+        "BODYSLAM",
+        "BRICKBREAK",
+        "CAPTIVATE",
+        "CHARGEBEAM",
+        "CONFIDE",
+        "COUNTER",
+        "CUT",
+        "DEFENSECURL",
+        "DIG",
+        "DOUBLEEDGE",
+        "DOUBLETEAM",
+        "DRAINPUNCH",
+        "DYNAMICPUNCH",
+        "ENDURE",
+        "FACADE",
+        "FIREBLAST",
+        "FIREPUNCH",
+        "FLAMETHROWER",
+        "FLASH",
+        "FLING",
+        "FOCUSPUNCH",
+        "FOULPLAY",
+        "FRUSTRATION",
+        "FURYCUTTER",
+        "GRASSKNOT",
+        "HEADBUTT",
+        "HIDDENPOWER",
+        "HONECLAWS",
+        "ICEBEAM",
+        "ICEPUNCH",
+        "ICYWIND",
+        "INCINERATE",
+        "IRONTAIL",
+        "KNOCKOFF",
+        "LASTRESORT",
+        "LOWKICK",
+        "MAGICCOAT",
+        "MEGAKICK",
+        "MEGAPUNCH",
+        "METRONOME",
+        "MIMIC",
+        "MUDSLAP",
+        "NASTYPLOT",
+        "NATURALGIFT",
+        "POWERUPPUNCH",
+        "PROTECT",
+        "PSYCHUP",
+        "RAINDANCE",
+        "RECYCLE",
+        "REST",
+        "RETALIATE",
+        "RETURN",
+        "ROCKSLIDE",
+        "ROCKSMASH",
+        "ROCKTOMB",
+        "ROLEPLAY",
+        "ROLLOUT",
+        "ROUND",
+        "SECRETPOWER",
+        "SEISMICTOSS",
+        "SHADOWBALL",
+        "SHADOWCLAW",
+        "SHOCKWAVE",
+        "SKILLSWAP",
+        "SLEEPTALK",
+        "SNATCH",
+        "SNORE",
+        "SOLARBEAM",
+        "STEALTHROCK",
+        "STRENGTH",
+        "SUBSTITUTE",
+        "SUCKERPUNCH",
+        "SUNNYDAY",
+        "SWAGGER",
+        "SWIFT",
+        "THIEF",
+        "THUNDER",
+        "THUNDERBOLT",
+        "THUNDERPUNCH",
+        "THUNDERWAVE",
+        "TRICK",
+        "TRICKROOM",
+        "WATERPULSE",
+        "WONDERROOM",
+        "WORKUP"
+    ],
+    "eggMoves": [
+        "DISABLE",
+        "FAKEOUT",
+        "FOULPLAY",
+        "MAGICCOAT",
+        "POWERUPPUNCH",
+        "RECOVER",
+        "TRICK"
+    ],
+    "height": 1.0,
+    "weight": 22.0,
+    "abilities": [
+        "COLORCHANGE"
+    ],
+    "hiddenAbilitie": [
+        "PROTEAN"
+    ],
+    "baseTotal": 440,
+    "baseStats": [
+        60,
+        90,
+        70,
+        40,
+        60,
+        120
+    ],
+    "flags": [],
+    "name": "Kecleon",
+    "species": "KECLEON",
+    "catchRate": 200,
+    "happiness": 50,
+    "baseExp": 154,
+    "evs": [
+        "SPECIAL_DEFENSE",
+        1
+    ],
+    "growthRate": "MEDIUM_SLOW",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 352
+}

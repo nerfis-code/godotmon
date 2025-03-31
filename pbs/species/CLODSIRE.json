@@ -1,0 +1,149 @@
+{
+    "generation": 9,
+    "primaryType": "POISON",
+    "secondaryType": "GROUND",
+    "moves": [
+        [
+            -1,
+            "AMNESIA"
+        ],
+        [
+            1,
+            "POISONSTING"
+        ],
+        [
+            1,
+            "TAILWHIP"
+        ],
+        [
+            4,
+            "TOXICSPIKES"
+        ],
+        [
+            8,
+            "MUDSHOT"
+        ],
+        [
+            12,
+            "POISONTAIL"
+        ],
+        [
+            16,
+            "SLAM"
+        ],
+        [
+            21,
+            "YAWN"
+        ],
+        [
+            24,
+            "POISONJAB"
+        ],
+        [
+            30,
+            "SLUDGEWAVE"
+        ],
+        [
+            36,
+            "MEGAHORN"
+        ],
+        [
+            40,
+            "TOXIC"
+        ],
+        [
+            48,
+            "EARTHQUAKE"
+        ]
+    ],
+    "tutorMoves": [
+        "ACIDSPRAY",
+        "AMNESIA",
+        "BODYPRESS",
+        "BODYSLAM",
+        "BULLDOZE",
+        "CHILLINGWATER",
+        "CURSE",
+        "DIG",
+        "DOUBLEEDGE",
+        "EARTHPOWER",
+        "EARTHQUAKE",
+        "ENDURE",
+        "FACADE",
+        "GIGAIMPACT",
+        "GUNKSHOT",
+        "HAZE",
+        "HEAVYSLAM",
+        "HELPINGHAND",
+        "HIGHHORSEPOWER",
+        "HYDROPUMP",
+        "HYPERBEAM",
+        "IRONHEAD",
+        "LIQUIDATION",
+        "LOWKICK",
+        "MUDDYWATER",
+        "MUDSHOT",
+        "MUDSLAP",
+        "POISONJAB",
+        "POISONTAIL",
+        "PROTECT",
+        "RAINDANCE",
+        "REST",
+        "ROCKSLIDE",
+        "ROCKTOMB",
+        "SANDSTORM",
+        "SLEEPTALK",
+        "SLUDGEBOMB",
+        "SLUDGEWAVE",
+        "SPIKES",
+        "STEALTHROCK",
+        "STOMPINGTANTRUM",
+        "STONEEDGE",
+        "SUBSTITUTE",
+        "SURF",
+        "TAKEDOWN",
+        "TOXIC",
+        "TOXICSPIKES",
+        "TRAILBLAZE",
+        "VENOSHOCK",
+        "WATERFALL",
+        "WATERPULSE",
+        "ZENHEADBUTT"
+    ],
+    "eggMoves": [],
+    "height": 1.8,
+    "weight": 223.0,
+    "abilities": [
+        "POISONPOINT",
+        "WATERABSORB"
+    ],
+    "hiddenAbilitie": [
+        "UNAWARE"
+    ],
+    "baseTotal": 430,
+    "baseStats": [
+        130,
+        75,
+        60,
+        20,
+        45,
+        100
+    ],
+    "flags": [
+        "DefaultForm_1",
+        "InheritFormWithEverStone"
+    ],
+    "name": "Clodsire",
+    "species": "CLODSIRE",
+    "catchRate": 90,
+    "happiness": 50,
+    "baseExp": 151,
+    "evs": [
+        "HP",
+        2
+    ],
+    "growthRate": "MEDIUM_FAST",
+    "genderRatio": 50,
+    "forms": [],
+    "internationalPokedex": 980
+}
