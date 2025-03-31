@@ -1,7 +1,7 @@
 class_name Pokemon
 
-var specie_name: String
-var specie
+var species_name: String
+var species
 var name: String
 var primaryType: String
 var secondaryType: String
