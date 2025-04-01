@@ -29,5 +29,11 @@ func _to_string() -> String:
 		part.append("%s:%s" % [key, _data[key]])
 	return "{%s}" % [", ".join(part)]
 
-func props():
-	return _data
+func erase(property) -> void:
+	_data.erase(property)
+
+func json() -> String:
+	return JSON.stringify(_data)
+
+func has(property) -> bool:
+	return _data.has(property)
