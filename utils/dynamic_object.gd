@@ -37,3 +37,7 @@ func json() -> String:
 
 func has(property) -> bool:
 	return _data.has(property)
+
+func merge(more_data) -> DynamicObject:
+	_data.merge(more_data)
+	return self
