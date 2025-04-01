@@ -9,6 +9,8 @@ var battlers
 var battle_field
 var background
 
+var states = preload("res://scenes/battle_scene/battle_states.gd")
+
 func init(context: DynamicObject):
 	_context = context
 	_context.scene = self
@@ -26,7 +28,8 @@ func _enter_tree() -> void:
 	next_state()
 
 func next_state():
-	change_state(_context.state_queue.dequeue())
+	var state = _context.state_queue.dequeue()
+	change_state(state if state else states.End.new())
 	
 func update():
 	if _context.state_queue.front() != _current_state:
@@ -34,6 +37,7 @@ func update():
 
 func enter_pokemon_by_index(idx, is_ally):
 	var current_party = _context.player_party if is_ally else _context.enemy_party
+	assert(idx > 0 || idx < current_party.size(),"El inidice del pokemon no existe en el party")
 	var current_pokemon = current_party[idx]
 	var pos = Vector2(100,800) if is_ally else Vector2(800,100)
 	var current_battler = Battler.new(DynamicObject.new({

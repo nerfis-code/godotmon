@@ -14,8 +14,7 @@ func _ready() -> void:
 		DynamicObject.new(
 			{
 				"state_queue": Queue.new([
-					states.AllyEntry.new(),
-					states.EnemyEntry.new()
+					states.DefaulStart.new()
 				]),
 				"battle_type":battle_scene.WILD,
 				"player": Player,

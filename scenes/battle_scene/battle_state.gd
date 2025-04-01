@@ -1,9 +1,13 @@
 class_name BattleState
 
-var message: String
-var animation
+var _message: String
+var _animation
 
-func enter(battle_context):
+func _init(message= "", animation= null) -> void:
+	_message = message
+	_animation = animation
+
+func enter(_battle_context):
 	pass
 
 func exit(battle_context):
