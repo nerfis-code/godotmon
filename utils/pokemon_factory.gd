@@ -10,6 +10,9 @@ func create_pokemon(pokemon_name: String) -> Pokemon:
 	pokemon.secondary_type = species.secondaryType
 
 	pokemon.calculate_stats()
+	_learn_movements_by_level(pokemon)
+
+	print(pokemon)
 	return pokemon
 	
 func _get_specie(specie_name: String):
@@ -21,6 +24,19 @@ func _get_specie(specie_name: String):
 		return DynamicObject.new(json.data)
 	else:
 		return null
+
+func _learn_movements_by_level(pokemon: Pokemon):
+	var moveset = []
+	for temp in pokemon.species.moves:
+		var required_level = temp[0]
+		var move = temp[1]
+		
+		if pokemon.level < required_level: break
+		if required_level < 1: continue
+
+		if moveset.size() < 4: moveset.append(move)
+		else: moveset[randi_range(0,3)] = move
+	pokemon.moves = moveset
 
 func create_random_pokemon():
 	var dir = DirAccess.open("res://pbs/species/")
