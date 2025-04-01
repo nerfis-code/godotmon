@@ -3,18 +3,19 @@ extends Node2D
 var battle_scene_file = preload("res://scenes/battle_scene/battle_scene.tscn")
 var pokemon_factory_file = preload("res://utils/pokemon_factory.gd")
 
-var states = preload("res://scenes/battle_scene/battle_states.gd")
-
 
 func _ready() -> void:
 	var battle_scene = battle_scene_file.instantiate()
 	var factory = pokemon_factory_file.new()
+
+	var state_factory = BattleStateFactory.new()
 	
 	battle_scene.init(
-		DynamicObject.new(
-			{
+		BattleContext.new(
+			{	
+				"scene": battle_scene,
 				"state_queue": Queue.new([
-					states.DefaulStart.new()
+					state_factory.create_default_start()
 				]),
 				"battle_type":battle_scene.WILD,
 				"player": Player,
@@ -27,4 +28,5 @@ func _ready() -> void:
 			}
 		)
 	)
+	
 	get_tree().root.add_child.call_deferred(battle_scene)

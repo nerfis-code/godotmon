@@ -3,7 +3,7 @@ extends Node2D
 
 var _sprite: Sprite2D
 var _pokemon: Pokemon
-var _scene: Node2D
+var _scene: BattleInterfaces.IBattleScene
 var is_ally: bool
 
 #battle

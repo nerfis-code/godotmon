@@ -1,17 +1,15 @@
-extends Node2D
+extends BattleInterfaces.IBattleScene
 
 enum { WILD, TRAINER }
 
 var _current_state: BattleState
-var _context: DynamicObject
+var _context: BattleContext
 
 var battlers
 var battle_field
 var background
 
-var states = preload("res://scenes/battle_scene/battle_states.gd")
-
-func init(context: DynamicObject):
+func init(context: BattleContext):
 	_context = context
 	_context.scene = self
 
@@ -29,7 +27,11 @@ func _enter_tree() -> void:
 
 func next_state():
 	var state = _context.state_queue.dequeue()
-	change_state(state if state else states.End.new())
+	if state:
+		change_state(state)
+	else:
+		var factory = BattleStateFactory.new()
+		change_state(factory.create_end_turn())
 	
 func update():
 	if _context.state_queue.front() != _current_state:

@@ -3,6 +3,7 @@ class Test extends BattleState:
 	func enter(battle_context):
 		battle_context.scene.enter_pokemon_by_index(0,true)
 		battle_context.scene.enter_pokemon_by_index(0,false)
+		
 
 class End extends BattleState:
 
@@ -15,12 +16,13 @@ class DefaulStart extends BattleState:
 		
 		var battle_type = context.battle_type
 		var state_queue = context.state_queue
+		var factory = BattleStateFactory.new()
 
 		match battle_type:
 			BattleType.WILD:
-				state_queue.enqueue(EnemyEntry.new())
-				state_queue.enqueue(AllyEntry.new())
-				state_queue.enqueue(StartTurn.new())
+				state_queue.enqueue(factory.create_enemy_entry())
+				state_queue.enqueue(factory.create_ally_entry())
+				state_queue.enqueue(factory.create_start_turn())
 			_:
 				pass
 		exit(context)
@@ -59,5 +61,20 @@ class StartTurn extends BattleState:
 class HandleInput extends BattleState:
 
 	func enter(context):
-		context.state_queue.enqueue(HandleInput.new())
+		context.state_queue.enqueue(Order.new())
 # start_turn -> handle_input -> order -> execute_move -> end_turn -> start_turn
+
+class Order extends BattleState:
+	func enter(context):
+		context.state_queue.enqueue(ExecuteMove.new())
+		exit(context)
+
+class ExecuteMove extends BattleState:
+	func enter(context):
+		context.state_queue.enqueue(EndTurn.new())
+		exit(context)
+	
+class EndTurn extends BattleState:
+	func enter(context):
+		context.state_queue.enqueue(StartTurn.new())
+		exit(context)

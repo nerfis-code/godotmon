@@ -1,4 +1,12 @@
-# Godot 4+ specific ignores
+# Godot-specific ignores
+*.uid
 .godot/
 /android/
 graphics
+*.import
+bin/
+obj/
+
+# System/temporary files
+.DS_Store
+Thumbs.db
