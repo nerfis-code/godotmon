@@ -3,8 +3,8 @@ extends Node2D
 var battle_scene_file = preload("res://scenes/battle_scene/battle_scene.tscn")
 var pokemon_factory_file = preload("res://utils/pokemon_factory.gd")
 
+var states = preload("res://scenes/battle_scene/battle_states.gd")
 
-var default = Queue.new([preload("res://scenes/battle_scene/battle_states.gd").Test.new()])
 
 func _ready() -> void:
 	var battle_scene = battle_scene_file.instantiate()
@@ -13,7 +13,10 @@ func _ready() -> void:
 	battle_scene.init(
 		DynamicObject.new(
 			{
-				"state_queue": default,
+				"state_queue": Queue.new([
+					states.AllyEntry.new(),
+					states.EnemyEntry.new()
+				]),
 				"battle_type":battle_scene.WILD,
 				"player": Player,
 				"player_party": Player.party,
