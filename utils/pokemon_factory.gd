@@ -4,9 +4,12 @@ func create_pokemon(pokemon_name: String) -> Pokemon:
 	var species = _get_specie(pokemon_name)
 	pokemon.species = species
 	pokemon.name = species.name
+	pokemon.level = 50
 	pokemon.species_name = species.species
 	pokemon.primary_type = species.primaryType
 	pokemon.secondary_type = species.secondaryType
+
+	pokemon.calculate_stats()
 	return pokemon
 	
 func _get_specie(specie_name: String):
@@ -20,4 +23,18 @@ func _get_specie(specie_name: String):
 		return null
 
 func create_random_pokemon():
-	return create_pokemon(["bulbasaur","pikachu","charmander"][randi_range(0,2)])
+	var dir = DirAccess.open("res://pbs/species/")
+	var seletedPokemonIndex = randi_range(0,1024) 
+	if dir:
+		dir.list_dir_begin()
+		var file_name = dir.get_next()
+		while file_name != "":
+			seletedPokemonIndex -= 1
+			if !dir.current_is_dir() && seletedPokemonIndex <= 0:
+				return create_pokemon(file_name.split(".")[0])
+				
+			file_name = dir.get_next()
+	else:
+		print("An error occurred when trying to access the path.")
+
+	return create_pokemon("charmander")
