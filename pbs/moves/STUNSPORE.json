@@ -1,0 +1,19 @@
+{
+    "move": "STUNSPORE",
+    "name": "Paralizador",
+    "type": "GRASS",
+    "power": 0,
+    "accuracy": 75,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "ParalyzeTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Powder"
+    ],
+    "description": "Esparce polvo que paraliza al objetivo.",
+    "category": "Status"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "PINMISSILE",
+    "name": "Pin Misil",
+    "type": "BUG",
+    "power": 25,
+    "accuracy": 95,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoToFiveTimes",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza finas púas que hieren de dos a cinco veces.",
+    "category": "Physical"
+}

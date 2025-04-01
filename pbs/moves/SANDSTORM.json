@@ -1,0 +1,15 @@
+{
+    "move": "SANDSTORM",
+    "name": "Tormenta Arena",
+    "type": "ROCK",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "BothSides",
+    "effectChance": 0,
+    "functionCode": "StartSandstormWeather",
+    "flags": [],
+    "description": "Tormenta de arena que dura cinco turnos y hiere a s excepto a los de tipo Roca Tierra y Acero.",
+    "category": "Status"
+}

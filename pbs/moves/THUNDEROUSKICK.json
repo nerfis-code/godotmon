@@ -1,0 +1,20 @@
+{
+    "move": "THUNDEROUSKICK",
+    "name": "Patada Relámpago",
+    "type": "FIGHTING",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetDefense1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El usuario arremete contra el rival con una poderosa patada que siempre baja la Defensa.",
+    "category": "Physical"
+}

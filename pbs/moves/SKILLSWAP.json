@@ -1,0 +1,18 @@
+{
+    "move": "SKILLSWAP",
+    "name": "Intercambio",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UserTargetSwapAbilities",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Usa el poder psíquico para intercambiar habilidades con el objetivo.",
+    "category": "Status"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "BRUTALSWING",
+    "name": "Giro Vil",
+    "type": "DARK",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "AllNearOthers",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Hace pivotar su cuerpo para infligir daño a todos sus rivales.",
+    "category": "Physical"
+}

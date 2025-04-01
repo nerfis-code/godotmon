@@ -1,0 +1,19 @@
+{
+    "move": "ROCKCLIMB",
+    "name": "Treparrocas",
+    "type": "NORMAL",
+    "power": 90,
+    "accuracy": 85,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 20,
+    "functionCode": "ConfuseTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca con una gran embestida. Puede confundir al objetivo.",
+    "category": "Physical"
+}

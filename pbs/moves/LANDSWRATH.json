@@ -1,0 +1,18 @@
+{
+    "move": "LANDSWRATH",
+    "name": "Fuerza Telúrica",
+    "type": "GROUND",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Acumula energía de la corteza terrestre y la concentra contra los oponentes dañándolos.",
+    "category": "Physical"
+}

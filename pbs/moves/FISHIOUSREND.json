@@ -1,0 +1,19 @@
+{
+    "move": "FISHIOUSREND",
+    "name": "Branquibocado",
+    "type": "WATER",
+    "power": 85,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfTargetNotActed",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca al objetivo con sus branquias. Si ataca antes que el objetivo duplica la potencia.",
+    "category": "Physical"
+}

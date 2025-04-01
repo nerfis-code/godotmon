@@ -1,0 +1,18 @@
+{
+    "move": "TAUNT",
+    "name": "Mofa",
+    "type": "DARK",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DisableTargetStatusMoves",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Enfurece al objetivo para que solo use movimientos de ataque durante tres turnos.",
+    "category": "Status"
+}

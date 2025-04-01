@@ -1,0 +1,18 @@
+{
+    "move": "ATTRACT",
+    "name": "Atracción",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AttractTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Si el objetivo es del sexo opuesto se enamorará y bajará la posibilidad de que ataque.",
+    "category": "Status"
+}

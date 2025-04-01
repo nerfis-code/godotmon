@@ -1,0 +1,18 @@
+{
+    "move": "ACIDDOWNPOUR",
+    "name": "Acid Downpour",
+    "type": "POISON",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove_POISON",
+        "CannotMetronome"
+    ],
+    "description": "The user creates a poisonous swamp using its Z-Power and sinks the target into it at full force.",
+    "category": "Physical"
+}

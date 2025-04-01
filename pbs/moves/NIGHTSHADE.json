@@ -1,0 +1,18 @@
+{
+    "move": "NIGHTSHADE",
+    "name": "Tinieblas",
+    "type": "GHOST",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "FixedDamageUserLevel",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Produce un espejismo ante el objetivo que pierde tantos PS como nivel tenga el agresor.",
+    "category": "Special"
+}

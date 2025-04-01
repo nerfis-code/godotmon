@@ -1,0 +1,18 @@
+{
+    "move": "HURRICANE",
+    "name": "Vendaval",
+    "type": "FLYING",
+    "power": 110,
+    "accuracy": 70,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 30,
+    "functionCode": "ConfuseTargetAlwaysHitsInRainHitsTargetInSky",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Golpea al objetivo con un fuerte torbellino que envuelve al rival y puede confundirlo.",
+    "category": "Special"
+}

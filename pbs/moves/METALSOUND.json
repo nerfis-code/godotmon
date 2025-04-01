@@ -1,0 +1,19 @@
+{
+    "move": "METALSOUND",
+    "name": "Eco Metálico",
+    "type": "STEEL",
+    "power": 0,
+    "accuracy": 85,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetSpDef2",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Horrible chirrido metálico que baja mucho la Defensa Especial del objetivo.",
+    "category": "Status"
+}

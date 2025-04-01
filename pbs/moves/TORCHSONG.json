@@ -1,0 +1,19 @@
+{
+    "move": "TORCHSONG",
+    "name": "Canto Ardiente",
+    "type": "FIRE",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "RaiseUserSpAtk1",
+    "flags": [
+        "Sound",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Expele tórridas llamaradas como si entonara una canción. Aumenta el Ataque Especial.",
+    "category": "Special"
+}

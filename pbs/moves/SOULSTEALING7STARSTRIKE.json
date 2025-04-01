@@ -1,0 +1,19 @@
+{
+    "move": "SOULSTEALING7STARSTRIKE",
+    "name": "Soul-Stealing 7-Star Strike",
+    "type": "GHOST",
+    "power": 195,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove",
+        "Contact",
+        "CannotMetronome"
+    ],
+    "description": "Marshadow punches and kicks the target consecutively with full force.",
+    "category": "Physical"
+}

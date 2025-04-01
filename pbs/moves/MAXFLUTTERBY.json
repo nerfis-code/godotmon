@@ -1,0 +1,18 @@
+{
+    "move": "MAXFLUTTERBY",
+    "name": "Max Flutterby",
+    "type": "BUG",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "LowerTargetSideSpAtk1",
+    "flags": [
+        "DynamaxMove_BUG",
+        "CannotMetronome"
+    ],
+    "description": "A Bug-type attack Dynamax Pokémon use. This lowers the target's Sp. Atk stat.",
+    "category": "Physical"
+}

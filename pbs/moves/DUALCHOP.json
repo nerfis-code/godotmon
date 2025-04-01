@@ -1,0 +1,19 @@
+{
+    "move": "DUALCHOP",
+    "name": "Golpe Bis",
+    "type": "DRAGON",
+    "power": 40,
+    "accuracy": 90,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoTimes",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Golpea dos veces seguidas con la cola u otras partes de su cuerpo.",
+    "category": "Physical"
+}

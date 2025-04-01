@@ -1,0 +1,15 @@
+{
+    "move": "CURSE",
+    "name": "Maldición",
+    "type": "GHOST",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "CurseTargetOrLowerUserSpd1RaiseUserAtkDef1",
+    "flags": [],
+    "description": "Un movimiento que tiene efectos distintos si el usuario es de tipo Fantasma o no.",
+    "category": "Status"
+}

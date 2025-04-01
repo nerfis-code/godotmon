@@ -1,0 +1,19 @@
+{
+    "move": "SKYDROP",
+    "name": "Caída Libre",
+    "type": "FLYING",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "TwoTurnAttackInvulnerableInSkyTargetCannotAct",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "1º turno: lanza al objetivo al aire. 2º: lo hace caer. En el aire no lo deja moverse.",
+    "category": "Physical"
+}

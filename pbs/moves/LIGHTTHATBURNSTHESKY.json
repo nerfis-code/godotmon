@@ -1,0 +1,18 @@
+{
+    "move": "LIGHTTHATBURNSTHESKY",
+    "name": "Light That Burns the Sky",
+    "type": "PSYCHIC",
+    "power": 200,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "CategoryDependsOnHigherDamageIgnoreTargetAbility",
+    "flags": [
+        "ZMove",
+        "CannotMetronome"
+    ],
+    "description": "Deals damage based on the user's higher offensive stat. Ignores the target's Ability.",
+    "category": "Special"
+}

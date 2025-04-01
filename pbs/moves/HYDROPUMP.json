@@ -1,0 +1,18 @@
+{
+    "move": "HYDROPUMP",
+    "name": "Hidrobomba",
+    "type": "WATER",
+    "power": 110,
+    "accuracy": 80,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza una gran masa de agua a presión para atacar.",
+    "category": "Special"
+}

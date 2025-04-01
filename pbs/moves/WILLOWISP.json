@@ -1,0 +1,18 @@
+{
+    "move": "WILLOWISP",
+    "name": "Fuego Fatuo",
+    "type": "FIRE",
+    "power": 0,
+    "accuracy": 85,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "BurnTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Siniestra llama morada que produce quemaduras.",
+    "category": "Status"
+}

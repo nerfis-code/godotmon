@@ -1,0 +1,17 @@
+{
+    "move": "FEINT",
+    "name": "Amago",
+    "type": "NORMAL",
+    "power": 30,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 2,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RemoveProtections",
+    "flags": [
+        "CanMirrorMove"
+    ],
+    "description": "Permite golpear a objetivos que usan Protección o Detección y anula dichos movimientos.",
+    "category": "Physical"
+}

@@ -1,0 +1,15 @@
+{
+    "move": "PROTECT",
+    "name": "Protección",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 4,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "ProtectUser",
+    "flags": [],
+    "description": "Frena s los ataques pero puede fallar si se usa repetidamente.",
+    "category": "Status"
+}

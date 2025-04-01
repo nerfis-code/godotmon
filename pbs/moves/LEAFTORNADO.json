@@ -1,0 +1,18 @@
+{
+    "move": "LEAFTORNADO",
+    "name": "Ciclón de Hojas",
+    "type": "GRASS",
+    "power": 65,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 50,
+    "functionCode": "LowerTargetAccuracy1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Tritura con afiladas hojas y puede bajar la Precisión del objetivo.",
+    "category": "Special"
+}

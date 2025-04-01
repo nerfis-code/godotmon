@@ -1,0 +1,15 @@
+{
+    "move": "DEFENDORDER",
+    "name": "A Defender",
+    "type": "BUG",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserDefSpDef1",
+    "flags": [],
+    "description": "El usuario llama a sus amigos para que formen un escudo viviente. Sube la Defensa y la Def. Esp.",
+    "category": "Status"
+}

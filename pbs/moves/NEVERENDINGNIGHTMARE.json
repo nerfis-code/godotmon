@@ -1,0 +1,18 @@
+{
+    "move": "NEVERENDINGNIGHTMARE",
+    "name": "Never-Ending Nightmare",
+    "type": "GHOST",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove_GHOST",
+        "CannotMetronome"
+    ],
+    "description": "Deep-seated grudges summoned by the user's Z-Power trap the target.",
+    "category": "Physical"
+}

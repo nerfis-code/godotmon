@@ -1,0 +1,18 @@
+{
+    "move": "POISONGAS",
+    "name": "Gas Venenoso",
+    "type": "POISON",
+    "power": 0,
+    "accuracy": 90,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "PoisonTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza una nube de gas tóxico al objetivo. Produce envenenamiento.",
+    "category": "Status"
+}

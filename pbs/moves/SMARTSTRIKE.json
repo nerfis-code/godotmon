@@ -1,0 +1,19 @@
+{
+    "move": "SMARTSTRIKE",
+    "name": "Cuerno Certero",
+    "type": "STEEL",
+    "power": 70,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ensarta al adversario con su afilada cornamenta. Este movimiento acierta siempre.",
+    "category": "Physical"
+}

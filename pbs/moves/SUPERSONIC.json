@@ -1,0 +1,19 @@
+{
+    "move": "SUPERSONIC",
+    "name": "Supersónico",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 55,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "ConfuseTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Raras ondas sónicas que pueden confundir al objetivo.",
+    "category": "Status"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "FREEZEDRY",
+    "name": "Liofilización",
+    "type": "ICE",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "FreezeTargetSuperEffectiveAgainstWater",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Enfría súbitamente al objetivo e incluso puede congelarlo. Es supereficaz contra Pokémon de tipo Agua.",
+    "category": "Special"
+}

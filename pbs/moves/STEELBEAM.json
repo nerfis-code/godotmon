@@ -1,0 +1,19 @@
+{
+    "move": "STEELBEAM",
+    "name": "Metaláser",
+    "type": "STEEL",
+    "power": 140,
+    "accuracy": 95,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UserLosesHalfOfTotalHP",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El usuario lanza un rayo de metal que recolecta de su cuerpo. Esto daña al usuario.",
+    "category": "Special"
+}

@@ -1,0 +1,15 @@
+{
+    "move": "POWERTRICK",
+    "name": "Truco Fuerza",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "UserSwapBaseAtkDef",
+    "flags": [],
+    "description": "Usa sus poderes mentales para intercambiar su característica de Ataque por Defensa.",
+    "category": "Status"
+}

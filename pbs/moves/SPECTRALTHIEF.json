@@ -1,0 +1,20 @@
+{
+    "move": "SPECTRALTHIEF",
+    "name": "Robasombra",
+    "type": "GHOST",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UserStealTargetPositiveStatStages",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Se esconde en la sombra del objetivo y lo ataca tras robarle las mejoras en sus características.",
+    "category": "Physical"
+}

@@ -1,0 +1,20 @@
+{
+    "move": "LEAFBLADE",
+    "name": "Hoja Aguda",
+    "type": "GRASS",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Acuchilla con una hoja fina. Suele dar un golpe crítico.",
+    "category": "Physical"
+}

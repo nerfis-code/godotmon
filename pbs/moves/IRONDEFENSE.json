@@ -1,0 +1,15 @@
+{
+    "move": "IRONDEFENSE",
+    "name": "Defensa Férrea",
+    "type": "STEEL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserDefense2",
+    "flags": [],
+    "description": "Fortalece el cuerpo como si fuera hierro y sube mucho la Defensa.",
+    "category": "Status"
+}

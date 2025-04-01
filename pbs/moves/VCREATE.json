@@ -1,0 +1,20 @@
+{
+    "move": "VCREATE",
+    "name": "V de Fuego",
+    "type": "FIRE",
+    "power": 180,
+    "accuracy": 95,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerUserDefSpDefSpd1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Golpea con una V de llamas. Baja la Defensa la Def. Esp. y la Velocidad del usuario.",
+    "category": "Physical"
+}

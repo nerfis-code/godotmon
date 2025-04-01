@@ -1,0 +1,18 @@
+{
+    "move": "PSYCHOBOOST",
+    "name": "Psicoataque",
+    "type": "PSYCHIC",
+    "power": 140,
+    "accuracy": 90,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerUserSpAtk2",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque en toda regla que baja mucho el Ataque Especial de quien lo usa.",
+    "category": "Special"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "TWISTER",
+    "name": "Ciclón",
+    "type": "DRAGON",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 20,
+    "functionCode": "FlinchTargetDoublePowerIfTargetInSky",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Crea un violento tornado para hacer trizas al rival. Puede amedrentarlo.",
+    "category": "Special"
+}

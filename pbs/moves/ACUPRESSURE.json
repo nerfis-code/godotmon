@@ -1,0 +1,15 @@
+{
+    "move": "ACUPRESSURE",
+    "name": "Acupresión",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "UserOrNearAlly",
+    "effectChance": 0,
+    "functionCode": "RaiseTargetRandomStat2",
+    "flags": [],
+    "description": "La presión en puntos clave del cuerpo potencia una de sus características al azar.",
+    "category": "Status"
+}

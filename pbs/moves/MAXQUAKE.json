@@ -1,0 +1,18 @@
+{
+    "move": "MAXQUAKE",
+    "name": "Max Quake",
+    "type": "GROUND",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "RaiseUserSideSpDef1",
+    "flags": [
+        "DynamaxMove_GROUND",
+        "CannotMetronome"
+    ],
+    "description": "A Ground-type attack Dynamax Pokémon use. This raises ally Pokémon's Sp. Def stats.",
+    "category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "BIDE",
+    "name": "Venganza",
+    "type": "NORMAL",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 1,
+    "target": "None",
+    "effectChance": 0,
+    "functionCode": "MultiTurnAttackBideThenReturnDoubleDamage",
+    "flags": [
+        "Contact",
+        "CanProtect"
+    ],
+    "description": "Resiste dos golpes para liberar la energia acumulada.",
+    "category": "Physical"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "GRAVAPPLE",
+    "name": "Fuerza G",
+    "type": "GRASS",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetDefense1PowersUpInGravity",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Causa daño dejando caer una manzana desde una gran altura. Baja la Defensa del objetivo.",
+    "category": "Physical"
+}

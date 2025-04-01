@@ -1,0 +1,18 @@
+{
+    "move": "GMAXVOLCALITH",
+    "name": "G-Max Volcalith",
+    "type": "ROCK",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "StartVolcalithOnFoeSide",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Coalossal. Deals additional damage to opponents for four turns.",
+    "category": "Physical"
+}

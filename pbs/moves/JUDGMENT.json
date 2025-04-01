@@ -1,0 +1,18 @@
+{
+    "move": "JUDGMENT",
+    "name": "Sentencia",
+    "type": "NORMAL",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TypeDependsOnUserPlate",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Emite incontables haces de luz. Varía según el tipo de tabla que lleve el usuario.",
+    "category": "Special"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "ROAR",
+    "name": "Rugido",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": -6,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "SwitchOutTargetStatusMove",
+    "flags": [
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Se lleva al objetivo que es cambiado por otro Pokémon. Si es un Pokémon salvaje acaba el combate.",
+    "category": "Status"
+}

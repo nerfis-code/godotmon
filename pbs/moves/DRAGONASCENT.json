@@ -1,0 +1,20 @@
+{
+    "move": "DRAGONASCENT",
+    "name": "Ascenso Draco",
+    "type": "FLYING",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerUserDefSpDef1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Se precipita desde el cielo a mucha velocidad pero hace que bajen la Def. y Def. Esp.",
+    "category": "Physical"
+}

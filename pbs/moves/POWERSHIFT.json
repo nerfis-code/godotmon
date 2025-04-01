@@ -1,0 +1,17 @@
+{
+    "move": "POWERSHIFT",
+    "name": "Cambiapoder",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "UserSwapBaseAtkDef",
+    "flags": [
+        "CannotMetronome"
+    ],
+    "description": "Intercambia su Ataque por su Defensa.",
+    "category": "Status"
+}

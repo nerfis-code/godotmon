@@ -1,0 +1,15 @@
+{
+    "move": "AFTERYOU",
+    "name": "Cede Paso",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TargetActsNext",
+    "flags": [],
+    "description": "Si el usuario es el más rápido permite al objetivo usar un movimiento justo tras él.",
+    "category": "Status"
+}

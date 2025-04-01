@@ -1,0 +1,19 @@
+{
+    "move": "ASTRALBARRAGE",
+    "name": "Orbes Espectro",
+    "type": "GHOST",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El usuario ataca lanzando una ráfaga de fantasmas que daña a ambos rivales.",
+    "category": "Special"
+}

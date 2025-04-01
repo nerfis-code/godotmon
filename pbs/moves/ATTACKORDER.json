@@ -1,0 +1,19 @@
+{
+    "move": "ATTACKORDER",
+    "name": "Al Ataque",
+    "type": "BUG",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "El usuario llama a sus amigos para que ataquen al rival. Suele ser crítico.",
+    "category": "Physical"
+}

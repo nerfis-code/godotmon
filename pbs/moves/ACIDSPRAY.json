@@ -1,0 +1,19 @@
+{
+    "move": "ACIDSPRAY",
+    "name": "Bomba Ácida",
+    "type": "POISON",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetSpDef2",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Ataca con un líquido corrosivo reduciendo mucho la Defensa Especial del objetivo.",
+    "category": "Special"
+}

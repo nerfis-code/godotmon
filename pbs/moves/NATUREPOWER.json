@@ -1,0 +1,15 @@
+{
+    "move": "NATUREPOWER",
+    "name": "Adaptación",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UseMoveDependingOnEnvironment",
+    "flags": [],
+    "description": "Usa el poder de la naturaleza. Su efecto varía según el entorno de combate.",
+    "category": "Status"
+}

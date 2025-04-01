@@ -1,0 +1,19 @@
+{
+    "move": "VITALTHROW",
+    "name": "Llave Vital",
+    "type": "FIGHTING",
+    "power": 70,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": -1,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario ataca el último pero no falla.",
+    "category": "Physical"
+}

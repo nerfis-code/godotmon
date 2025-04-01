@@ -1,0 +1,18 @@
+{
+    "move": "INFERNO",
+    "name": "Infierno",
+    "type": "FIRE",
+    "power": 100,
+    "accuracy": 50,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "BurnTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca con una gran ráfaga de fuego que causa quemaduras.",
+    "category": "Special"
+}

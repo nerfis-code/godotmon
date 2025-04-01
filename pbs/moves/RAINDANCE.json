@@ -1,0 +1,15 @@
+{
+    "move": "RAINDANCE",
+    "name": "Danza Lluvia",
+    "type": "WATER",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "BothSides",
+    "effectChance": 0,
+    "functionCode": "StartRainWeather",
+    "flags": [],
+    "description": "Genera una fuerte lluvia que refuerza los movimientos de tipo Agua durante cinco turnos.",
+    "category": "Status"
+}

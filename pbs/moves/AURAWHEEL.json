@@ -1,0 +1,19 @@
+{
+    "move": "AURAWHEEL",
+    "name": "Rueda Aural",
+    "type": "ELECTRIC",
+    "power": 110,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "TypeDependsOnUserMorpekoFormRaiseUserSpeed1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ataca y sube su Velocidad del usuario. Cambia de tipo dependiendo de la forma del usuario.",
+    "category": "Physical"
+}

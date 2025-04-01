@@ -1,0 +1,20 @@
+{
+    "move": "PSYCHICFANGS",
+    "name": "Psicocolmillo",
+    "type": "PSYCHIC",
+    "power": 85,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RemoveScreens",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Biting"
+    ],
+    "description": "Ataca con poderes psíquicos que además destruyen barreras como pantalla de luz y reflejo.",
+    "category": "Physical"
+}

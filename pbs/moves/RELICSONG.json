@@ -1,0 +1,20 @@
+{
+    "move": "RELICSONG",
+    "name": "Canto Arcaico",
+    "type": "NORMAL",
+    "power": 75,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 10,
+    "functionCode": "SleepTargetChangeUserMeloettaForm",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound",
+        "CannotMetronome"
+    ],
+    "description": "Ataca conmoviendo a los rivales de alrededor con un antiguo canto. Puede dormirlos.",
+    "category": "Special"
+}

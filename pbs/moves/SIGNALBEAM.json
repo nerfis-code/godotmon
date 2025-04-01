@@ -1,0 +1,18 @@
+{
+    "move": "SIGNALBEAM",
+    "name": "Rayo Señal",
+    "type": "BUG",
+    "power": 75,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "ConfuseTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca con un rayo de luz siniestro. Puede confundir al objetivo.",
+    "category": "Special"
+}

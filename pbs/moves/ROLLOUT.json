@@ -1,0 +1,19 @@
+{
+    "move": "ROLLOUT",
+    "name": "Rodar",
+    "type": "ROCK",
+    "power": 30,
+    "accuracy": 90,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "MultiTurnAttackPowersUpEachTurn",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Consiste en enrollarse y girar como una rueda por el campo de batalla.",
+    "category": "Physical"
+}

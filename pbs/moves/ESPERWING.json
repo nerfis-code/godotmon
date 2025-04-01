@@ -1,0 +1,19 @@
+{
+    "move": "ESPERWING",
+    "name": "Ala Aural",
+    "type": "PSYCHIC",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "RaiseUserSpeed1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Corta con unas alas imbuidas de aura. Suele asestar un golpe crítico y aumenta la Velocidad.",
+    "category": "Special"
+}

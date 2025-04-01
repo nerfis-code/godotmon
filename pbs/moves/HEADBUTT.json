@@ -1,0 +1,19 @@
+{
+    "move": "HEADBUTT",
+    "name": "Golpe Cabeza",
+    "type": "NORMAL",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza un potente cabezazo que puede amedrentar al objetivo.",
+    "category": "Physical"
+}

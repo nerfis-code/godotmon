@@ -1,0 +1,19 @@
+{
+    "move": "ZAPCANNON",
+    "name": "Electrocañón",
+    "type": "ELECTRIC",
+    "power": 120,
+    "accuracy": 50,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "ParalyzeTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Dispara una descarga eléctrica que causa daño y parálisis.",
+    "category": "Special"
+}

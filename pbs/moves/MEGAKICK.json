@@ -1,0 +1,19 @@
+{
+    "move": "MEGAKICK",
+    "name": "Megapatada",
+    "type": "NORMAL",
+    "power": 120,
+    "accuracy": 75,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Patada de extrema fuerza.",
+    "category": "Physical"
+}

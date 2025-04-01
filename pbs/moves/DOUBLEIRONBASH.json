@@ -1,0 +1,20 @@
+{
+    "move": "DOUBLEIRONBASH",
+    "name": "Ferropuño Doble",
+    "type": "STEEL",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "HitTwoTimesFlinchTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "Punching",
+        "CannotMetronome"
+    ],
+    "description": "Golpea dos veces seguidas con los puños pudiendo amedrentar al rival.",
+    "category": "Physical"
+}

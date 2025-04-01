@@ -1,0 +1,15 @@
+{
+    "move": "REFLECT",
+    "name": "Reflejo",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "UserSide",
+    "effectChance": 0,
+    "functionCode": "StartWeakenPhysicalDamageAgainstUserSide",
+    "flags": [],
+    "description": "Pared de luz que reduce durante cinco turnos el daño producido por los ataques físicos.",
+    "category": "Status"
+}

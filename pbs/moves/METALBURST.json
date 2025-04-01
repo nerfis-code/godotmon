@@ -1,0 +1,18 @@
+{
+    "move": "METALBURST",
+    "name": "Represión Metal",
+    "type": "STEEL",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "None",
+    "effectChance": 0,
+    "functionCode": "CounterDamagePlusHalf",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Devuelve al objetivo el último ataque recibido pero con mucha más fuerza.",
+    "category": "Physical"
+}

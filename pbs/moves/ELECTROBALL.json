@@ -1,0 +1,19 @@
+{
+    "move": "ELECTROBALL",
+    "name": "Bola Voltio",
+    "type": "ELECTRIC",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithUserFasterThanTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Lanza una bola eléctrica. Cuanto mayor es la Velocidad del usuario mayor será el daño causado.",
+    "category": "Special"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "MIGHTYCLEAVE",
+    "name": "Filo Potente",
+    "type": "ROCK",
+    "power": 95,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanMirrorMove",
+        "Slicing"
+    ],
+    "description": "Rebana al objetivo con la luz que ha acumulado en la testa. Golpea aunque el rival se proteja.",
+    "category": "Physical"
+}

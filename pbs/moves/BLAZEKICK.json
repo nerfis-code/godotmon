@@ -1,0 +1,20 @@
+{
+    "move": "BLAZEKICK",
+    "name": "Patada Ígnea",
+    "type": "FIRE",
+    "power": 85,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "BurnTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Patada que suele ser un golpe crítico y puede causar quemaduras.",
+    "category": "Physical"
+}

@@ -1,0 +1,15 @@
+{
+    "move": "SHIFTGEAR",
+    "name": "Cambio de Marcha",
+    "type": "STEEL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserAtk1Spd2",
+    "flags": [],
+    "description": "Al hacer girar los engranajes el usuario mejora su Ataque y aumenta su Velocidad espectacularmente.",
+    "category": "Status"
+}

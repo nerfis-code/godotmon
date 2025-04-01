@@ -1,0 +1,19 @@
+{
+    "move": "SCREECH",
+    "name": "Chirrido",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 85,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetDefense2",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Alarido agudo que reduce mucho la Defensa del objetivo.",
+    "category": "Status"
+}

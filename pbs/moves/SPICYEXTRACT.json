@@ -1,0 +1,19 @@
+{
+    "move": "SPICYEXTRACT",
+    "name": "Extracto Picante",
+    "type": "GRASS",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RaiseTargetAtkLowerTargetDef2",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Libera un extracto picante que aumenta mucho su Ataque pero también reduce mucho su Defensa.",
+    "category": "Status"
+}

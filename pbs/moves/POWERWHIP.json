@@ -1,0 +1,19 @@
+{
+    "move": "POWERWHIP",
+    "name": "Latigazo",
+    "type": "GRASS",
+    "power": 120,
+    "accuracy": 85,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario agita violentamente sus lianas o tentáculos para golpear al objetivo.",
+    "category": "Physical"
+}

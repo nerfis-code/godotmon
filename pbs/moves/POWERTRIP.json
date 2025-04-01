@@ -1,0 +1,19 @@
+{
+    "move": "POWERTRIP",
+    "name": "Chulería",
+    "type": "DARK",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithUserPositiveStatStages",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Cuanto más hayan subido las características del usuario mayor será el daño.",
+    "category": "Physical"
+}

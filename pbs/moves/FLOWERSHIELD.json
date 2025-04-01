@@ -1,0 +1,15 @@
+{
+    "move": "FLOWERSHIELD",
+    "name": "Defensa Floral",
+    "type": "FAIRY",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllBattlers",
+    "effectChance": 0,
+    "functionCode": "RaiseGrassBattlersDef1",
+    "flags": [],
+    "description": "Aumenta la Defensa de los Pokémon de tipo Planta en combate usando unos misteriosos poderes.",
+    "category": "Status"
+}

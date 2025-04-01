@@ -1,0 +1,17 @@
+{
+    "type": "ELECTRIC",
+    "name": "Electric",
+    "iconPosition": 13,
+    "isSpecialType": true,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "GROUND"
+    ],
+    "resistances": [
+        "FLYING",
+        "STEEL",
+        "ELECTRIC"
+    ],
+    "immunities": []
+}

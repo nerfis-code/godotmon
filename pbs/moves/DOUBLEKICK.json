@@ -1,0 +1,19 @@
+{
+    "move": "DOUBLEKICK",
+    "name": "Doble Patada",
+    "type": "FIGHTING",
+    "power": 30,
+    "accuracy": 100,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoTimes",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Una patada doble. Golpea dos veces.",
+    "category": "Physical"
+}

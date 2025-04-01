@@ -1,0 +1,19 @@
+{
+    "move": "DOUBLEHIT",
+    "name": "Doble Golpe",
+    "type": "NORMAL",
+    "power": 35,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoTimes",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Golpea al objetivo dos veces seguidas con la cola u otras partes de su cuerpo.",
+    "category": "Physical"
+}

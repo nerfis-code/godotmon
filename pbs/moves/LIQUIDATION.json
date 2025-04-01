@@ -1,0 +1,19 @@
+{
+    "move": "LIQUIDATION",
+    "name": "Hidroariete",
+    "type": "WATER",
+    "power": 85,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 20,
+    "functionCode": "LowerTargetDefense1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca golpeando gracias a la fuerza del agua. También puede reducir la Defensa del objetivo.",
+    "category": "Physical"
+}

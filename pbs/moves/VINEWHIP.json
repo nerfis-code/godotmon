@@ -1,0 +1,19 @@
+{
+    "move": "VINEWHIP",
+    "name": "Látigo Cepa",
+    "type": "GRASS",
+    "power": 45,
+    "accuracy": 100,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Azota al objetivo con ramas finas.",
+    "category": "Physical"
+}

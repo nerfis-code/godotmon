@@ -1,0 +1,19 @@
+{
+    "move": "TENMILLIONVOLTTHUNDERBOLT",
+    "name": "10_000_000 Volt Thunderbolt",
+    "type": "ELECTRIC",
+    "power": 195,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove",
+        "HighCriticalHitRate_2",
+        "CannotMetronome"
+    ],
+    "description": "Pikachu wearing a cap unleashes a jolt of electricity. Critical hits land more easily.",
+    "category": "Special"
+}

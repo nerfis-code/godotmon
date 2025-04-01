@@ -1,0 +1,20 @@
+{
+    "move": "SUNSTEELSTRIKE",
+    "name": "Meteoimpacto",
+    "type": "STEEL",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "IgnoreTargetAbility",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ataca al objetivo con la potencia de un meteoro.",
+    "category": "Physical"
+}

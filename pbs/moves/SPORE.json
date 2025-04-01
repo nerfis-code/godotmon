@@ -1,0 +1,19 @@
+{
+    "move": "SPORE",
+    "name": "Espora",
+    "type": "GRASS",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "SleepTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Powder"
+    ],
+    "description": "Esparce esporas que inducen al sueño.",
+    "category": "Status"
+}

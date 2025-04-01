@@ -1,0 +1,19 @@
+{
+    "move": "ARMORCANNON",
+    "name": "Cañón Armadura",
+    "type": "FIRE",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerUserDefSpDef1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Arroja partes de su armadura como proyectiles ardientes. Reduce la Def. y la Def. Esp. del usuario.",
+    "category": "Special"
+}

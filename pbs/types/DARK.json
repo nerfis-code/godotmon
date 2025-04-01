@@ -1,0 +1,20 @@
+{
+    "type": "DARK",
+    "name": "Dark",
+    "iconPosition": 17,
+    "isSpecialType": true,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "FIGHTING",
+        "BUG",
+        "FAIRY"
+    ],
+    "resistances": [
+        "GHOST",
+        "DARK"
+    ],
+    "immunities": [
+        "PSYCHIC"
+    ]
+}

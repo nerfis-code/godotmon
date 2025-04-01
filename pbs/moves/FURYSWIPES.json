@@ -1,0 +1,19 @@
+{
+    "move": "FURYSWIPES",
+    "name": "Golpes Furia",
+    "type": "NORMAL",
+    "power": 18,
+    "accuracy": 80,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoToFiveTimes",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Araña rápidamente de dos a cinco veces.",
+    "category": "Physical"
+}

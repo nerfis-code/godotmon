@@ -1,0 +1,18 @@
+{
+    "move": "BLIZZARD",
+    "name": "Ventisca",
+    "type": "ICE",
+    "power": 110,
+    "accuracy": 70,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 10,
+    "functionCode": "FreezeTargetAlwaysHitsInHail",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Tormenta de hielo que puede llegar a congelar.",
+    "category": "Special"
+}

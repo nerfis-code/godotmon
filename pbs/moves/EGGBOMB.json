@@ -1,0 +1,19 @@
+{
+    "move": "EGGBOMB",
+    "name": "Bomba Huevo",
+    "type": "NORMAL",
+    "power": 100,
+    "accuracy": 75,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Arroja un huevo al objetivo con gran fuerza.",
+    "category": "Physical"
+}

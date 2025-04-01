@@ -1,0 +1,19 @@
+{
+    "move": "DRAGONENERGY",
+    "name": "Dracoenergía",
+    "type": "DRAGON",
+    "power": 150,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithUserHP",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ataca con su fuerza vital. Cuanto menos vida tenga el usuario menos daño hará.",
+    "category": "Special"
+}

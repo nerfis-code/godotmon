@@ -1,0 +1,19 @@
+{
+    "move": "SACREDSWORD",
+    "name": "Espada Santa",
+    "type": "FIGHTING",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "IgnoreTargetDefSpDefEvaStatStages",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario ataca con una espada ignorando cualquier cambio en las características del objetivo.",
+    "category": "Physical"
+}

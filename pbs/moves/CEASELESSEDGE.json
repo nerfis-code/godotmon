@@ -1,0 +1,20 @@
+{
+    "move": "CEASELESSEDGE",
+    "name": "Tajo Metralla",
+    "type": "DARK",
+    "power": 65,
+    "accuracy": 90,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "DamageTargetAddSpikesToFoeSide",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Slicing"
+    ],
+    "description": "Fuerte golpe de espada que suele asestar golpe crítico y puede reducir la Defensa o amedrentar.",
+    "category": "Physical"
+}

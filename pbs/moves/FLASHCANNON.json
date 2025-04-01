@@ -1,0 +1,18 @@
+{
+    "move": "FLASHCANNON",
+    "name": "Foco Resplandor",
+    "type": "STEEL",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "LowerTargetSpDef1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario concentra toda la luz del cuerpo y la libera. Puede bajar la Defensa Especial del objetivo.",
+    "category": "Special"
+}

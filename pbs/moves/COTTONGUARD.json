@@ -1,0 +1,15 @@
+{
+    "move": "COTTONGUARD",
+    "name": "Rizo Algodón",
+    "type": "GRASS",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserDefense3",
+    "flags": [],
+    "description": "Cubre al Pokémon con una madeja protectora. Aumenta muchísimo la Defensa.",
+    "category": "Status"
+}

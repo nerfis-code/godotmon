@@ -1,0 +1,18 @@
+{
+    "move": "BREAKNECKBLITZ",
+    "name": "Breakneck Blitz",
+    "type": "NORMAL",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove_NORMAL",
+        "CannotMetronome"
+    ],
+    "description": "The user builds up its momentum using its Z-Power and crashes into the target at full speed.",
+    "category": "Physical"
+}

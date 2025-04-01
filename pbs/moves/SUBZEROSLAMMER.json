@@ -1,0 +1,18 @@
+{
+    "move": "SUBZEROSLAMMER",
+    "name": "Subzero Slammer",
+    "type": "ICE",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove_ICE",
+        "CannotMetronome"
+    ],
+    "description": "The user dramatically drops the temperature using its Z-Power and freezes the target with full force.",
+    "category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "SCARYFACE",
+    "name": "Cara Susto",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetSpeed2",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Asusta al objetivo para reducir mucho su Velocidad.",
+    "category": "Status"
+}

@@ -1,0 +1,17 @@
+{
+    "move": "PERISHSONG",
+    "name": "Canto Mortal",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "AllBattlers",
+    "effectChance": 0,
+    "functionCode": "StartPerishCountsForAllBattlers",
+    "flags": [
+        "Sound"
+    ],
+    "description": "Si un Pokémon escucha este canto y no es cambiado por otro en tres turnos acaba debilitándose.",
+    "category": "Status"
+}

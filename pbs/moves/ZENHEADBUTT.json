@@ -1,0 +1,19 @@
+{
+    "move": "ZENHEADBUTT",
+    "name": "Cabezazo Zen",
+    "type": "PSYCHIC",
+    "power": 80,
+    "accuracy": 90,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 20,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Concentra su energía psíquica en la cabeza para golpear. Puede hacer que el objetivo se amedrente.",
+    "category": "Physical"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "FLEURCANNON",
+    "name": "Cañón Floral",
+    "type": "FAIRY",
+    "power": 130,
+    "accuracy": 90,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerUserSpAtk2",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El usuario emite un potente rayo pero su Ataque Especial se reduce mucho.",
+    "category": "Special"
+}

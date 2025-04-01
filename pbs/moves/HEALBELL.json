@@ -1,0 +1,17 @@
+{
+    "move": "HEALBELL",
+    "name": "Cascabel Cura",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "UserAndAllies",
+    "effectChance": 0,
+    "functionCode": "CureUserPartyStatus",
+    "flags": [
+        "Sound"
+    ],
+    "description": "Tañido que cura los problemas de estado de todos los Pokémon del equipo.",
+    "category": "Status"
+}

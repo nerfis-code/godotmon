@@ -1,0 +1,19 @@
+{
+    "move": "SEARINGSUNRAZESMASH",
+    "name": "Searing Sunraze Smash",
+    "type": "STEEL",
+    "power": 200,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "IgnoreTargetAbility",
+    "flags": [
+        "ZMove",
+        "Contact",
+        "CannotMetronome"
+    ],
+    "description": "Solgaleo attacks the target with full force and ignores the target's Ability.",
+    "category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "SLUDGEWAVE",
+    "name": "Onda Tóxica",
+    "type": "POISON",
+    "power": 95,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearOthers",
+    "effectChance": 10,
+    "functionCode": "PoisonTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Una onda tóxica que daña a los Pokémon de alrededor. Puede envenenar.",
+    "category": "Special"
+}

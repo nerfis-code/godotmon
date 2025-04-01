@@ -1,0 +1,19 @@
+{
+    "move": "FACADE",
+    "name": "Imagen",
+    "type": "NORMAL",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfUserPoisonedBurnedParalyzed",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca con el doble de potencia si el usuario está quemado paralizado o envenenado.",
+    "category": "Physical"
+}

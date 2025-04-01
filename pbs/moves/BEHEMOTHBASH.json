@@ -1,0 +1,20 @@
+{
+    "move": "BEHEMOTHBASH",
+    "name": "Embate Supremo",
+    "type": "STEEL",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El usuario se convierte en un escudo gigante y arremete contra el objetivo.",
+    "category": "Physical"
+}

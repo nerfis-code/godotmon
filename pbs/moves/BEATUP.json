@@ -1,0 +1,18 @@
+{
+    "move": "BEATUP",
+    "name": "Paliza",
+    "type": "DARK",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitOncePerUserTeamMember",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque de  el equipo Pokémon. Cuantos más haya más veces ataca.",
+    "category": "Physical"
+}

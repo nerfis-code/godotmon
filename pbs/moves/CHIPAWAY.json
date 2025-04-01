@@ -1,0 +1,19 @@
+{
+    "move": "CHIPAWAY",
+    "name": "Guardia Baja",
+    "type": "NORMAL",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "IgnoreTargetDefSpDefEvaStatStages",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Busca los puntos débiles del objetivo y causa daño aunque cambien sus características.",
+    "category": "Physical"
+}

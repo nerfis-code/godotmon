@@ -1,0 +1,18 @@
+{
+    "move": "SMOG",
+    "name": "Polución",
+    "type": "POISON",
+    "power": 30,
+    "accuracy": 70,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 40,
+    "functionCode": "PoisonTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El objetivo es atacado con gases tóxicos que pueden llegar a envenenar.",
+    "category": "Special"
+}

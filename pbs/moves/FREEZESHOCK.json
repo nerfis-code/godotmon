@@ -1,0 +1,19 @@
+{
+    "move": "FREEZESHOCK",
+    "name": "Rayo Gélido",
+    "type": "ICE",
+    "power": 140,
+    "accuracy": 90,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "TwoTurnAttackParalyzeTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Carga un bloque de hielo con electricidad en el 1º turno y ataca con él en el 2º. Puede paralizar.",
+    "category": "Physical"
+}

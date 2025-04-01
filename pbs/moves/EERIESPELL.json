@@ -1,0 +1,19 @@
+{
+    "move": "EERIESPELL",
+    "name": "Conjuro Funesto",
+    "type": "PSYCHIC",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerPPOfTargetLastMoveBy3",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "El usuario ataca con su poder psíquico y reduce tres PP del último movimiento usado por el objetivo.",
+    "category": "Special"
+}

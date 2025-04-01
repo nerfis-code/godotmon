@@ -1,0 +1,19 @@
+{
+    "move": "HIGHJUMPKICK",
+    "name": "Patada Salto Alta",
+    "type": "FIGHTING",
+    "power": 130,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "CrashDamageIfFailsUnusableInGravity",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Salta muy alto y lanza una patada. Si falla dañará al usuario.",
+    "category": "Physical"
+}

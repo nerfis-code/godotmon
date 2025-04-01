@@ -1,0 +1,20 @@
+{
+    "move": "ICEHAMMER",
+    "name": "Martillo Hielo",
+    "type": "ICE",
+    "power": 100,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerUserSpeed1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Punching"
+    ],
+    "description": "Un terrible puño golpea al contrincante pero la Velocidad del usuario se ve reducida.",
+    "category": "Physical"
+}

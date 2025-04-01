@@ -1,0 +1,19 @@
+{
+    "move": "GIGAIMPACT",
+    "name": "Gigaimpacto",
+    "type": "NORMAL",
+    "power": 150,
+    "accuracy": 90,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AttackAndSkipNextTurn",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Carga contra el rival usando toda la fuerza que tiene. El Pokémon descansa el turno siguiente.",
+    "category": "Physical"
+}

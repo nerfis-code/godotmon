@@ -1,0 +1,18 @@
+{
+    "move": "DYNAMAXCANNON",
+    "name": "Cañón Dinamax",
+    "type": "DRAGON",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CannotMetronome"
+    ],
+    "description": "El usuario lanza un poderoso rayo de energía de su núcleo.",
+    "category": "Special"
+}

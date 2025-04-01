@@ -1,0 +1,19 @@
+{
+    "move": "SPINOUT",
+    "name": "Quemarrueda",
+    "type": "STEEL",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerUserSpeed2",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Gira violentamente sobre sí. Reduce mucho la Velocidad del usuario.",
+    "category": "Physical"
+}

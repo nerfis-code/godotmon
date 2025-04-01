@@ -1,0 +1,17 @@
+{
+    "move": "DECORATE",
+    "name": "Decoración",
+    "type": "FAIRY",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RaiseTargetAtkSpAtk2",
+    "flags": [
+        "CannotMetronome"
+    ],
+    "description": "El usuario aumenta el Ataque y el Ataque Especial del objetivo decorándolo.",
+    "category": "Status"
+}

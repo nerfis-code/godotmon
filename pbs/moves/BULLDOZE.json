@@ -1,0 +1,18 @@
+{
+    "move": "BULLDOZE",
+    "name": "Terratemblor",
+    "type": "GROUND",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "AllNearOthers",
+    "effectChance": 100,
+    "functionCode": "LowerTargetSpeed1WeakerInGrassyTerrain",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca con una sacudida sísmica que afecta a los Pokémon adyacentes y baja su Velocidad.",
+    "category": "Physical"
+}

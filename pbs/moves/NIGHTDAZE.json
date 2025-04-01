@@ -1,0 +1,18 @@
+{
+    "move": "NIGHTDAZE",
+    "name": "Pulso Noche",
+    "type": "DARK",
+    "power": 85,
+    "accuracy": 95,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 40,
+    "functionCode": "LowerTargetAccuracy1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca al objetivo con una onda siniestra. Puede bajar su Precisión.",
+    "category": "Special"
+}

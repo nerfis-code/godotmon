@@ -1,0 +1,17 @@
+{
+    "move": "BLOCK",
+    "name": "Bloqueo",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TrapTargetInBattle",
+    "flags": [
+        "CanMirrorMove"
+    ],
+    "description": "Le corta el paso al objetivo para que no pueda escapar.",
+    "category": "Status"
+}

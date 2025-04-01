@@ -1,0 +1,20 @@
+{
+    "move": "PSYBLADE",
+    "name": "Psicohojas",
+    "type": "PSYCHIC",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "IncreasePowerInElectricTerrain",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Slicing"
+    ],
+    "description": "El usuario desgarra al objetivo con una espada etérea cuyo poder aumenta en el terreno eléctrico.",
+    "category": "Physical"
+}

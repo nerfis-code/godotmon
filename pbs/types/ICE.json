@@ -1,0 +1,18 @@
+{
+    "type": "ICE",
+    "name": "Ice",
+    "iconPosition": 15,
+    "isSpecialType": true,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "FIGHTING",
+        "ROCK",
+        "STEEL",
+        "FIRE"
+    ],
+    "resistances": [
+        "ICE"
+    ],
+    "immunities": []
+}

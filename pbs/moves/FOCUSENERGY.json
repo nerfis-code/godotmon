@@ -1,0 +1,15 @@
+{
+    "move": "FOCUSENERGY",
+    "name": "Foco Energía",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserCriticalHitRate2",
+    "flags": [],
+    "description": "Concentra energía para aumentar las posibilidades de un golpe crítico.",
+    "category": "Status"
+}

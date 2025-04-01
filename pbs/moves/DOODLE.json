@@ -1,0 +1,17 @@
+{
+    "move": "DOODLE",
+    "name": "Decalcomanía",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "SetUserAlliesAbilityToTargetAbility",
+    "flags": [
+        "CannotMetronome"
+    ],
+    "description": "Calca la esencia misma del objetivo para atribuir su habilidad a sí mismo y a sus aliados.",
+    "category": "Status"
+}

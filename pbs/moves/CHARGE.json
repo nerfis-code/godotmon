@@ -1,0 +1,15 @@
+{
+    "move": "CHARGE",
+    "name": "Carga",
+    "type": "ELECTRIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserSpDef1PowerUpElectricMove",
+    "flags": [],
+    "description": "Recarga energía para potenciar el siguiente movimiento Eléctrico. Sube la Defensa Especial.",
+    "category": "Status"
+}

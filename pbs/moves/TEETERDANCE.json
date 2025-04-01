@@ -1,0 +1,19 @@
+{
+    "move": "TEETERDANCE",
+    "name": "Danza Caos",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "AllNearOthers",
+    "effectChance": 0,
+    "functionCode": "ConfuseTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Dance"
+    ],
+    "description": "Danza histérica que confunde a los Pokémon que están alrededor del usuario.",
+    "category": "Status"
+}

@@ -1,0 +1,15 @@
+{
+    "move": "MEDITATE",
+    "name": "Meditación",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserAttack1",
+    "flags": [],
+    "description": "El usuario reposa y medita para potenciar el Ataque.",
+    "category": "Status"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "PSYCHIC",
+    "name": "Psíquico",
+    "type": "PSYCHIC",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "LowerTargetSpDef1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Fuerte ataque telequinético que puede bajar la Defensa Especial del objetivo.",
+    "category": "Special"
+}

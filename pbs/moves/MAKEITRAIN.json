@@ -1,0 +1,19 @@
+{
+    "move": "MAKEITRAIN",
+    "name": "Fiebre Dorada",
+    "type": "STEEL",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "AddMoneyGainedFromBattleLowerUserSpAtk1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ataca arrojando muchas monedas pero reduce su At. Especial. Aumenta la recompensa.",
+    "category": "Special"
+}

@@ -1,0 +1,15 @@
+{
+    "move": "STOCKPILE",
+    "name": "Reserva",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "UserAddStockpileRaiseDefSpDef1",
+    "flags": [],
+    "description": "Acumula energía y sube la Defensa y la Defensa Especial. Puede utilizarse hasta tres veces.",
+    "category": "Status"
+}

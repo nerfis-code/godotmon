@@ -1,0 +1,17 @@
+{
+    "move": "MIRRORCOAT",
+    "name": "Manto Espejo",
+    "type": "PSYCHIC",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": -5,
+    "target": "None",
+    "effectChance": 0,
+    "functionCode": "CounterSpecialDamage",
+    "flags": [
+        "CanProtect"
+    ],
+    "description": "Responde a un ataque especial ocasionando el doble del daño recibido.",
+    "category": "Special"
+}

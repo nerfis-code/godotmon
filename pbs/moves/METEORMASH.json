@@ -1,0 +1,20 @@
+{
+    "move": "METEORMASH",
+    "name": "Puño Meteoro",
+    "type": "STEEL",
+    "power": 90,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 20,
+    "functionCode": "RaiseUserAttack1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Punching"
+    ],
+    "description": "Puñetazo que impacta como un meteorito y puede subir el Ataque del agresor.",
+    "category": "Physical"
+}

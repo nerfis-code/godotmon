@@ -1,0 +1,17 @@
+{
+    "move": "REVIVALBLESSING",
+    "name": "Plegaria Vital",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RevivePokemonHalfHP",
+    "flags": [
+        "CannotMetronome"
+    ],
+    "description": "Oración que revive a un Pokémon del equipo que se haya debilitado y restaura la mitad de sus PS.",
+    "category": "Status"
+}

@@ -1,0 +1,20 @@
+{
+    "move": "ICEFANG",
+    "name": "Colmillo Hielo",
+    "type": "ICE",
+    "power": 65,
+    "accuracy": 95,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 101,
+    "functionCode": "FreezeFlinchTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Biting"
+    ],
+    "description": "Usa colmillos helados para morder. Puede hacer que el objetivo se amedrente o congelarlo.",
+    "category": "Physical"
+}

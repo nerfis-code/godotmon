@@ -1,0 +1,18 @@
+{
+    "move": "POLTERGEIST",
+    "name": "Poltergeist",
+    "type": "GHOST",
+    "power": 110,
+    "accuracy": 90,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "FailsIfTargetHasNoItem",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario ataca utilizando el objeto que lleva el rival. Si no tiene falla.",
+    "category": "Physical"
+}

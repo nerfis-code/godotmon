@@ -1,0 +1,17 @@
+{
+    "move": "FINALGAMBIT",
+    "name": "Sacrificio",
+    "type": "FIGHTING",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UserFaintsFixedDamageUserHP",
+    "flags": [
+        "CanProtect"
+    ],
+    "description": "El usuario se sacrifica causándole un daño al objetivo equivalente a sus propios PS perdidos.",
+    "category": "Special"
+}

@@ -1,0 +1,15 @@
+{
+    "move": "TAILWIND",
+    "name": "Viento Afín",
+    "type": "FLYING",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "UserSide",
+    "effectChance": 0,
+    "functionCode": "StartUserSideDoubleSpeed",
+    "flags": [],
+    "description": "Fuerte remolino que duplica la Velocidad de los Pokémon de tu equipo durante cuatro turnos.",
+    "category": "Status"
+}

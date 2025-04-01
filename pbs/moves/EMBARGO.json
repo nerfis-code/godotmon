@@ -1,0 +1,18 @@
+{
+    "move": "EMBARGO",
+    "name": "Embargo",
+    "type": "DARK",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "StartTargetCannotUseItem",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Impide al objetivo usar el objeto que lleva. Su Entrenador tampoco puede usar objetos sobre él.",
+    "category": "Status"
+}

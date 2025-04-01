@@ -1,0 +1,18 @@
+{
+    "move": "CORROSIVEGAS",
+    "name": "Gas Corrosivo",
+    "type": "POISON",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "AllNearOthers",
+    "effectChance": 0,
+    "functionCode": "CorrodeTargetItem",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Libera un gas cáustico que envuelve a todos alrededor y derrite los objetos que lleven equipados.",
+    "category": "Status"
+}

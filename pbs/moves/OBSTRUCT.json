@@ -1,0 +1,15 @@
+{
+    "move": "OBSTRUCT",
+    "name": "Obstrucción",
+    "type": "DARK",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 4,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "ProtectUserFromDamagingMovesObstruct",
+    "flags": [],
+    "description": "Frena cualquier ataque y baja mucho la defensa si recibe un golpe de contacto. Si se usa mucho falla.",
+    "category": "Status"
+}

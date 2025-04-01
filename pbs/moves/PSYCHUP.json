@@ -1,0 +1,15 @@
+{
+    "move": "PSYCHUP",
+    "name": "Autosugestión",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UserCopyTargetStatStages",
+    "flags": [],
+    "description": "Se hipnotiza y copia cualquier cambio que haya en las características de su objetivo.",
+    "category": "Status"
+}

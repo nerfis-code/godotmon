@@ -1,0 +1,19 @@
+{
+    "move": "SNORE",
+    "name": "Ronquido",
+    "type": "NORMAL",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "FlinchTargetFailsIfUserNotAsleep",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Fuerte ronquido que debe usarse dormido. Puede amedrentar al objetivo.",
+    "category": "Special"
+}

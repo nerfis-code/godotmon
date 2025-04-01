@@ -1,0 +1,19 @@
+{
+    "move": "FURYATTACK",
+    "name": "Ataque Furia",
+    "type": "NORMAL",
+    "power": 15,
+    "accuracy": 85,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoToFiveTimes",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Cornea al objetivo de dos a cinco veces.",
+    "category": "Physical"
+}

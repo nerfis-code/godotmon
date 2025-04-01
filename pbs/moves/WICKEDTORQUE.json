@@ -1,0 +1,18 @@
+{
+    "move": "WICKEDTORQUE",
+    "name": "Ominochoque",
+    "type": "DARK",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "StarmobileSleepTarget",
+    "flags": [
+        "CanProtect",
+        "CannotMetronome"
+    ],
+    "description": "Puede dormir al objetivo.",
+    "category": "Physical"
+}

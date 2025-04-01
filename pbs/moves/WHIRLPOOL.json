@@ -1,0 +1,18 @@
+{
+    "move": "WHIRLPOOL",
+    "name": "Torbellino",
+    "type": "WATER",
+    "power": 35,
+    "accuracy": 85,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "BindTargetDoublePowerIfTargetUnderwater",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Una tromba de agua atrapa al objetivo durante cuatro o cinco turnos.",
+    "category": "Special"
+}

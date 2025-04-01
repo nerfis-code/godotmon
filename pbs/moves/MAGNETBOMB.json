@@ -1,0 +1,19 @@
+{
+    "move": "MAGNETBOMB",
+    "name": "Bomba Imán",
+    "type": "STEEL",
+    "power": 60,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Lanza unas bombas de hierro que se pegan al adversario. Este movimiento acierta siempre.",
+    "category": "Physical"
+}

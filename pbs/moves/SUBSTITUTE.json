@@ -1,0 +1,15 @@
+{
+    "move": "SUBSTITUTE",
+    "name": "Sustituto",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "UserMakeSubstitute",
+    "flags": [],
+    "description": "Utiliza parte de los PS propios para crear un sustituto que actúa como señuelo.",
+    "category": "Status"
+}

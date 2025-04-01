@@ -1,0 +1,19 @@
+{
+    "move": "ENERGYBALL",
+    "name": "Energibola",
+    "type": "GRASS",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "LowerTargetSpDef1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Aúna fuerzas de la naturaleza y libera su ataque. Puede disminuir la Defensa Especial del objetivo.",
+    "category": "Special"
+}

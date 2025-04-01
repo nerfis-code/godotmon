@@ -1,0 +1,19 @@
+{
+    "move": "WEATHERBALL",
+    "name": "Meteorobola",
+    "type": "NORMAL",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TypeAndPowerDependOnWeather",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "El tipo y fuerza del ataque varían según el clima.",
+    "category": "Special"
+}

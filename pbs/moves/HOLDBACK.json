@@ -1,0 +1,19 @@
+{
+    "move": "HOLDBACK",
+    "name": "Clemencia",
+    "type": "NORMAL",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "CannotMakeTargetFaint",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario se contiene a la hora de atacar y deja al Pokémon objetivo  con al menos 1 PS.",
+    "category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "GMAXMALODOR",
+    "name": "G-Max Malodor",
+    "type": "POISON",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "PoisonTargetSide",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Garbodor. May poison all opposing Pokémon.",
+    "category": "Physical"
+}

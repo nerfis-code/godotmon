@@ -1,0 +1,19 @@
+{
+    "move": "TERASTARSTORM",
+    "name": "Teraclúster",
+    "type": "NORMAL",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TerapagosCategoryDependsOnHigherDamage",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Si Terapagos lo usa en su Forma Astral inflige daño a todos los rivales.",
+    "category": "Special"
+}

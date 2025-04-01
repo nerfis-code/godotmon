@@ -1,0 +1,19 @@
+{
+    "move": "TRIPLEKICK",
+    "name": "Triple Patada",
+    "type": "FIGHTING",
+    "power": 10,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitThreeTimesPowersUpWithEachHit",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Patea hasta tres veces seguidas y cada vez más fuerte.",
+    "category": "Physical"
+}

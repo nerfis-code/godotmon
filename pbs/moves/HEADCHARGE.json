@@ -1,0 +1,19 @@
+{
+    "move": "HEADCHARGE",
+    "name": "Ariete",
+    "type": "NORMAL",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RecoilQuarterOfDamageDealt",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Propina un tremendo cabezazo. También daña al usuario un poco.",
+    "category": "Physical"
+}

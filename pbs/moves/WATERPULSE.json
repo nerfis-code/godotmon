@@ -1,0 +1,19 @@
+{
+    "move": "WATERPULSE",
+    "name": "Hidropulso",
+    "type": "WATER",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 20,
+    "functionCode": "ConfuseTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Pulse"
+    ],
+    "description": "Ataca con un potente chorro de agua. Puede confundir al objetivo.",
+    "category": "Special"
+}

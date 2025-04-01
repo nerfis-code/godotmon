@@ -1,0 +1,20 @@
+{
+    "move": "HEATCRASH",
+    "name": "Golpe Calor",
+    "type": "FIRE",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithUserHeavierThanTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "TramplesMinimize"
+    ],
+    "description": "Cuanto mayor sea su peso comparado con el del objetivo más daño causará.",
+    "category": "Physical"
+}

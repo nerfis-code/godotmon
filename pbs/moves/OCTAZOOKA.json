@@ -1,0 +1,19 @@
+{
+    "move": "OCTAZOOKA",
+    "name": "Pulpocañón",
+    "type": "WATER",
+    "power": 65,
+    "accuracy": 85,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 50,
+    "functionCode": "LowerTargetAccuracy1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Dispara tinta a la cara. Puede bajar la Precisión.",
+    "category": "Special"
+}

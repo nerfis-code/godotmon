@@ -1,0 +1,22 @@
+{
+    "type": "FIRE",
+    "name": "Fire",
+    "iconPosition": 10,
+    "isSpecialType": true,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "GROUND",
+        "ROCK",
+        "WATER"
+    ],
+    "resistances": [
+        "BUG",
+        "STEEL",
+        "FIRE",
+        "GRASS",
+        "ICE",
+        "FAIRY"
+    ],
+    "immunities": []
+}

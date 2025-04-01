@@ -1,0 +1,19 @@
+{
+    "move": "RUINATION",
+    "name": "Calamidad",
+    "type": "DARK",
+    "power": 1,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "FixedDamageHalfTargetHP",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Provoca una catástrofe devastadora que reduce a la mitad los PS del objetivo.",
+    "category": "Special"
+}

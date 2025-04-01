@@ -1,0 +1,19 @@
+{
+    "move": "WRINGOUT",
+    "name": "Estrujón",
+    "type": "NORMAL",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithTargetHP",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Estruja con fuerza al objetivo. Cuantos más PS tenga el objetivo más fuerza tendrá el ataque.",
+    "category": "Special"
+}

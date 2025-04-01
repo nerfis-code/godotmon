@@ -1,0 +1,19 @@
+{
+    "type": "BUG",
+    "name": "Bug",
+    "iconPosition": 6,
+    "isSpecialType": false,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "FLYING",
+        "ROCK",
+        "FIRE"
+    ],
+    "resistances": [
+        "FIGHTING",
+        "GROUND",
+        "GRASS"
+    ],
+    "immunities": []
+}

@@ -1,0 +1,18 @@
+{
+    "move": "PETALBLIZZARD",
+    "name": "Tormenta Floral",
+    "type": "GRASS",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "AllNearOthers",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario desata un intenso vendaval de pétalos que daña a los Pokémon a su alrededor.",
+    "category": "Physical"
+}

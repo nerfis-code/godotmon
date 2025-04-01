@@ -1,0 +1,18 @@
+{
+    "move": "GMAXBEFUDDLE",
+    "name": "G-Max Befuddle",
+    "type": "BUG",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "PoisonParalyzeOrSleepTargetSide",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Butterfree. Opposing Pokémon may fall asleep or become poisoned or paralyzed.",
+    "category": "Physical"
+}

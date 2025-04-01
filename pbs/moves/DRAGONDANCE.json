@@ -1,0 +1,17 @@
+{
+    "move": "DRAGONDANCE",
+    "name": "Danza Dragón",
+    "type": "DRAGON",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserAtkSpd1",
+    "flags": [
+        "Dance"
+    ],
+    "description": "Danza mística que sube el Ataque y la Velocidad.",
+    "category": "Status"
+}

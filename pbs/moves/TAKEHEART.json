@@ -1,0 +1,15 @@
+{
+    "move": "TAKEHEART",
+    "name": "Bálsamo Osado",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserSpAtkSpDef1CureStatus",
+    "flags": [],
+    "description": "El usuario se cura de problemas de estado. Aumenta su Ataque Especial y su Defensa Especial.",
+    "category": "Status"
+}

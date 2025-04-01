@@ -1,0 +1,20 @@
+{
+    "move": "HYPERFANG",
+    "name": "Hipercolmillo",
+    "type": "NORMAL",
+    "power": 80,
+    "accuracy": 90,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Biting"
+    ],
+    "description": "Ataque con finos colmillos. Puede amedrentar.",
+    "category": "Physical"
+}

@@ -1,0 +1,21 @@
+{
+    "move": "RAGEFIST",
+    "name": "Puño Furia",
+    "type": "GHOST",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "IncreasePowerEachTimeHit",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome",
+        "Punching"
+    ],
+    "description": "Convierte su rabia en energía. Cuantos más golpes haya recibido mayor será la potencia.",
+    "category": "Physical"
+}

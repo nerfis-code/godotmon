@@ -1,0 +1,19 @@
+{
+    "move": "GRASSWHISTLE",
+    "name": "Silbato",
+    "type": "GRASS",
+    "power": 0,
+    "accuracy": 55,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "SleepTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Agradable melodía que adormece al objetivo.",
+    "category": "Status"
+}

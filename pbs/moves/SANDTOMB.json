@@ -1,0 +1,18 @@
+{
+    "move": "SANDTOMB",
+    "name": "Bucle Arena",
+    "type": "GROUND",
+    "power": 35,
+    "accuracy": 85,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "BindTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Enreda al objetivo en un remolino de arena de cuatro a cinco turnos.",
+    "category": "Physical"
+}

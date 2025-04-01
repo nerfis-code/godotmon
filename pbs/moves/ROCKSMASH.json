@@ -1,0 +1,19 @@
+{
+    "move": "ROCKSMASH",
+    "name": "Golpe Roca",
+    "type": "FIGHTING",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 50,
+    "functionCode": "LowerTargetDefense1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca con puñetazos que pueden romper rocas. Puede bajar la Defensa del objetivo.",
+    "category": "Physical"
+}

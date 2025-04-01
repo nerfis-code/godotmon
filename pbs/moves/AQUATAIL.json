@@ -1,0 +1,19 @@
+{
+    "move": "AQUATAIL",
+    "name": "Acua Cola",
+    "type": "WATER",
+    "power": 90,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca agitando la cola como si fuera una ola rabiosa en una tormenta devastadora.",
+    "category": "Physical"
+}

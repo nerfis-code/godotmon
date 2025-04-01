@@ -1,0 +1,19 @@
+{
+    "move": "MINDBLOWN",
+    "name": "Cabeza Sorpresa",
+    "type": "FIRE",
+    "power": 150,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "AllNearOthers",
+    "effectChance": 0,
+    "functionCode": "UserLosesHalfOfTotalHPExplosive",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Hace explotar su cabeza para atacar a todos a su alrededor aunque también se hiere a sí mismo.",
+    "category": "Special"
+}

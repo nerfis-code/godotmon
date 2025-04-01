@@ -1,0 +1,20 @@
+{
+    "move": "BITE",
+    "name": "Mordisco",
+    "type": "DARK",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Biting"
+    ],
+    "description": "Un voraz bocado que puede amedrentar al objetivo.",
+    "category": "Physical"
+}

@@ -1,0 +1,15 @@
+{
+    "move": "ALLYSWITCH",
+    "name": "Cambio de Banda",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 2,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "UserSwapsPositionsWithAlly",
+    "flags": [],
+    "description": "Un extraño poder que intercambia las posiciones del usuario y un aliado sobre el terreno de combate.",
+    "category": "Status"
+}

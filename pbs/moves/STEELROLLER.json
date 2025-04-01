@@ -1,0 +1,19 @@
+{
+    "move": "STEELROLLER",
+    "name": "Allanador Férreo",
+    "type": "STEEL",
+    "power": 130,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RemoveTerrain",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza su ataque y destruye el campo activo. Falla si no hay ninguno en ese momento.",
+    "category": "Physical"
+}

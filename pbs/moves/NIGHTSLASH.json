@@ -1,0 +1,20 @@
+{
+    "move": "NIGHTSLASH",
+    "name": "Tajo Umbrío",
+    "type": "DARK",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Ataca al objetivo a la primera oportunidad. Suele ser crítico.",
+    "category": "Physical"
+}

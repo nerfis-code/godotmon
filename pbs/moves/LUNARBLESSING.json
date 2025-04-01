@@ -1,0 +1,15 @@
+{
+    "move": "LUNARBLESSING",
+    "name": "Plegaria Lunar",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "UserAndAllies",
+    "effectChance": 0,
+    "functionCode": "HealUserAndAlliesQuarterOfTotalHPCureStatus",
+    "flags": [],
+    "description": "Dedica una oración a la luna que restaura PS y los problemas de estado del bando del usuario.",
+    "category": "Status"
+}

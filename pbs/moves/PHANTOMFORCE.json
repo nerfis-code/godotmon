@@ -1,0 +1,18 @@
+{
+    "move": "PHANTOMFORCE",
+    "name": "Golpe Fantasma",
+    "type": "GHOST",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TwoTurnAttackInvulnerableRemoveProtections",
+    "flags": [
+        "Contact",
+        "CanMirrorMove"
+    ],
+    "description": "Desaparece en el primer turno y ataca en el segundo. Acierta aunque el objetivo se proteja.",
+    "category": "Physical"
+}

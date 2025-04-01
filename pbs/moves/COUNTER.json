@@ -1,0 +1,18 @@
+{
+    "move": "COUNTER",
+    "name": "Contraataque",
+    "type": "FIGHTING",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": -5,
+    "target": "None",
+    "effectChance": 0,
+    "functionCode": "CounterPhysicalDamage",
+    "flags": [
+        "Contact",
+        "CanProtect"
+    ],
+    "description": "Devuelve un golpe físico por duplicado.",
+    "category": "Physical"
+}

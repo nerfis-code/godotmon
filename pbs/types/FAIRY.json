@@ -1,0 +1,20 @@
+{
+    "type": "FAIRY",
+    "name": "Fairy",
+    "iconPosition": 18,
+    "isSpecialType": true,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "POISON",
+        "STEEL"
+    ],
+    "resistances": [
+        "FIGHTING",
+        "BUG",
+        "DARK"
+    ],
+    "immunities": [
+        "DRAGON"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "move": "PSYWAVE",
+    "name": "Psicoonda",
+    "type": "PSYCHIC",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "FixedDamageUserLevelRandom",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque con una onda de energía de intensidad variable.",
+    "category": "Special"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "FEATHERDANCE",
+    "name": "Danza Pluma",
+    "type": "FLYING",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetAttack2",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Dance"
+    ],
+    "description": "Envuelve al objetivo con un manto de plumas para reducir mucho su Ataque.",
+    "category": "Status"
+}

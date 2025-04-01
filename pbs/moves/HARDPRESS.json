@@ -1,0 +1,19 @@
+{
+    "move": "HARDPRESS",
+    "name": "Prensa Metalica",
+    "type": "STEEL",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithTargetHP100PowerRange",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Oprime con los brazos o las pinzas. Cuantos más PS le queden al objetivo más daño hace.",
+    "category": "Physical"
+}

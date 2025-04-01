@@ -1,0 +1,19 @@
+{
+    "move": "GRASSKNOT",
+    "name": "Hierba Lazo",
+    "type": "GRASS",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithTargetWeight",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Enreda al objetivo con hierba y lo derriba. Cuanto más pesado es el objetivo más daño inflige.",
+    "category": "Special"
+}

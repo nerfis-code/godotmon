@@ -1,0 +1,19 @@
+{
+    "move": "CONSTRICT",
+    "name": "Restricción",
+    "type": "NORMAL",
+    "power": 10,
+    "accuracy": 100,
+    "totalPP": 35,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "LowerTargetSpeed1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Constriñe para herir y puede bajar la Velocidad.",
+    "category": "Physical"
+}

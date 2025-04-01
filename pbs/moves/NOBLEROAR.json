@@ -1,0 +1,19 @@
+{
+    "move": "NOBLEROAR",
+    "name": "Rugido de Guerra",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetAtkSpAtk1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Intimida a su oponente con un rugido de guerra bajando su Ataque y su Ataque Especial.",
+    "category": "Status"
+}

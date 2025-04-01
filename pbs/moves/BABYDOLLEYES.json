@@ -1,0 +1,18 @@
+{
+    "move": "BABYDOLLEYES",
+    "name": "Ojitos Tiernos",
+    "type": "FAIRY",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 30,
+    "priority": 1,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetAttack1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza una mirada al Pokémon objetivo reduciendo su Ataque. Siempre va primero.",
+    "category": "Status"
+}

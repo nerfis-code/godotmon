@@ -1,0 +1,20 @@
+{
+    "move": "OVERDRIVE",
+    "name": "Amplificador",
+    "type": "ELECTRIC",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound",
+        "CannotMetronome"
+    ],
+    "description": "El usuario rasguea su cuerpo para generar enormes vibraciones con las que ataca al objetivo.",
+    "category": "Special"
+}

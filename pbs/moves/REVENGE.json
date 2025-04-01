@@ -1,0 +1,19 @@
+{
+    "move": "REVENGE",
+    "name": "Desquite",
+    "type": "FIGHTING",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": -4,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfUserLostHPThisTurn",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque que produce el doble de daño si el usuario es herido en el mismo turno.",
+    "category": "Physical"
+}

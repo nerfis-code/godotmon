@@ -1,0 +1,20 @@
+{
+    "move": "GYROBALL",
+    "name": "Giro Bola",
+    "type": "STEEL",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithTargetFasterThanUser",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Embiste con un potente ataque giratorio. Cuanto más lento es el usuario más daño causa.",
+    "category": "Physical"
+}

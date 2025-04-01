@@ -1,0 +1,15 @@
+{
+    "move": "TOXICSPIKES",
+    "name": "Púas Tóxicas",
+    "type": "POISON",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "FoeSide",
+    "effectChance": 0,
+    "functionCode": "AddToxicSpikesToFoeSide",
+    "flags": [],
+    "description": "Lanza una trampa de púas tóxicas a los pies del objetivo. El veneno afecta a los Pokémon que entran.",
+    "category": "Status"
+}

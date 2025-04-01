@@ -1,0 +1,19 @@
+{
+    "move": "RAGE",
+    "name": "Furia",
+    "type": "NORMAL",
+    "power": 20,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "StartRaiseUserAtk1WhenDamaged",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Al usarse aumenta el Ataque del usuario cada vez que es golpeado.",
+    "category": "Physical"
+}

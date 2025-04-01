@@ -1,0 +1,18 @@
+{
+    "move": "ORDERUP",
+    "name": "Oído Cocina",
+    "type": "DRAGON",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "RaiseUserStat1Commander",
+    "flags": [
+        "CanProtect",
+        "CannotMetronome"
+    ],
+    "description": "Si lleva un Tatsugiri en la boca aumenta una de sus características en función de su forma.",
+    "category": "Physical"
+}

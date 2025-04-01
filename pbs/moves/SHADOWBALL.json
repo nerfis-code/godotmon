@@ -1,0 +1,19 @@
+{
+    "move": "SHADOWBALL",
+    "name": "Bola Sombra",
+    "type": "GHOST",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 20,
+    "functionCode": "LowerTargetSpDef1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Lanza una bola oscura que puede bajar la Defensa Especial del objetivo.",
+    "category": "Special"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "SNIPESHOT",
+    "name": "Disparo Certero",
+    "type": "WATER",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "CannotBeRedirected",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Atacar al objetivo ignorando habilidades o movimientos que redirigen ataques.",
+    "category": "Special"
+}

@@ -1,0 +1,15 @@
+{
+    "move": "SAFEGUARD",
+    "name": "Velo Sagrado",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "UserSide",
+    "effectChance": 0,
+    "functionCode": "StartUserSideImmunityToInflictedStatus",
+    "flags": [],
+    "description": "Crea un campo protector que evita problemas de estado durante cinco turnos.",
+    "category": "Status"
+}

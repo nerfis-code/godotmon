@@ -1,0 +1,18 @@
+{
+    "move": "TOXIC",
+    "name": "Tóxico",
+    "type": "POISON",
+    "power": 0,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "BadPoisonTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Envenena gravemente al objetivo y causa un daño mayor en cada turno.",
+    "category": "Status"
+}

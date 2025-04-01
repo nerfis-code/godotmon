@@ -1,0 +1,19 @@
+{
+    "move": "ROCKBLAST",
+    "name": "Pedrada",
+    "type": "ROCK",
+    "power": 25,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoToFiveTimes",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Lanza pedruscos al objetivo de dos a cinco veces consecutivas.",
+    "category": "Physical"
+}

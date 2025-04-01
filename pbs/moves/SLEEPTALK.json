@@ -1,0 +1,15 @@
+{
+    "move": "SLEEPTALK",
+    "name": "Sonámbulo",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "UseRandomUserMoveIfAsleep",
+    "flags": [],
+    "description": "Mientras duerme usa uno de sus movimientos elegido al azar.",
+    "category": "Status"
+}

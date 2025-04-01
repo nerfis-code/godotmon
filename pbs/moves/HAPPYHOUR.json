@@ -1,0 +1,15 @@
+{
+    "move": "HAPPYHOUR",
+    "name": "Paga Extra",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "UserSide",
+    "effectChance": 0,
+    "functionCode": "DoubleMoneyGainedFromBattle",
+    "flags": [],
+    "description": "Al usar este movimiento se consigue duplicar la recompensa recibida tras el combate.",
+    "category": "Status"
+}

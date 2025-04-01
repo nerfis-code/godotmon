@@ -1,0 +1,20 @@
+{
+    "move": "PETALDANCE",
+    "name": "Danza Pétalo",
+    "type": "GRASS",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "RandomNearFoe",
+    "effectChance": 0,
+    "functionCode": "MultiTurnAttackConfuseUserAtEnd",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Dance"
+    ],
+    "description": "Lanza pétalos de dos a tres turnos y acaba confundiendo al atacante.",
+    "category": "Special"
+}

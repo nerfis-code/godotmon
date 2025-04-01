@@ -1,0 +1,19 @@
+{
+    "move": "TERRAINPULSE",
+    "name": "Pulso de Campo",
+    "type": "NORMAL",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TypeAndPowerDependOnTerrain",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Pulse"
+    ],
+    "description": "Ataca aprovechando la energía del campo activo que determina el tipo y la potencia del movimiento.",
+    "category": "Special"
+}

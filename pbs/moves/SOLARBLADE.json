@@ -1,0 +1,19 @@
+{
+    "move": "SOLARBLADE",
+    "name": "Cuchilla Solar",
+    "type": "GRASS",
+    "power": 125,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TwoTurnAttackOneTurnInSun",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Dedica un turno a concentrar energía en forma de cuchilla con la que ataca en el segundo turno.",
+    "category": "Physical"
+}

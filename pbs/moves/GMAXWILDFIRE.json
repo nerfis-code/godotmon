@@ -1,0 +1,18 @@
+{
+    "move": "GMAXWILDFIRE",
+    "name": "G-Max Wildfire",
+    "type": "FIRE",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "StartWildfireOnFoeSide",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Charizard. Deals additional damage to opponents for four turns.",
+    "category": "Physical"
+}

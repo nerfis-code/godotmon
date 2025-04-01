@@ -1,0 +1,19 @@
+{
+    "move": "STRENGTH",
+    "name": "Fuerza",
+    "type": "NORMAL",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Potente puñetazo. Fuera de combate sirve para mover piedras.",
+    "category": "Physical"
+}

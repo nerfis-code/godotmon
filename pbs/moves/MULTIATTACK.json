@@ -1,0 +1,19 @@
+{
+    "move": "MULTIATTACK",
+    "name": "Multiataque",
+    "type": "NORMAL",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TypeDependsOnUserMemory",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Se rodea de una potente energía con la que golpea al rival. El tipo depende del disco que lleva.",
+    "category": "Physical"
+}

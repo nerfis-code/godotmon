@@ -1,0 +1,19 @@
+{
+    "move": "ENDEAVOR",
+    "name": "Esfuerzo",
+    "type": "NORMAL",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetHPToUserHP",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Reduce los PS del objetivo para que igualen a los del atacante.",
+    "category": "Physical"
+}

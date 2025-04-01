@@ -1,0 +1,20 @@
+{
+    "type": "POISON",
+    "name": "Poison",
+    "iconPosition": 3,
+    "isSpecialType": false,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "GROUND",
+        "PSYCHIC"
+    ],
+    "resistances": [
+        "FIGHTING",
+        "POISON",
+        "BUG",
+        "GRASS",
+        "FAIRY"
+    ],
+    "immunities": []
+}

@@ -1,0 +1,15 @@
+{
+    "move": "CRAFTYSHIELD",
+    "name": "Truco Defensa",
+    "type": "FAIRY",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 3,
+    "target": "UserSide",
+    "effectChance": 0,
+    "functionCode": "ProtectUserSideFromStatusMoves",
+    "flags": [],
+    "description": "Se protege a sí mismo y a sus aliados de ataques de estado pero no de otro tipo de ataques.",
+    "category": "Status"
+}

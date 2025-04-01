@@ -1,0 +1,18 @@
+{
+    "move": "SCALESHOT",
+    "name": "Ráfaga Escamas",
+    "type": "DRAGON",
+    "power": 25,
+    "accuracy": 90,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoToFiveTimesRaiseUserSpd1LowerUserDef1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza escamas de dos a cinco veces. Sube la Velocidad del usuario pero reduce su Defensa.",
+    "category": "Physical"
+}

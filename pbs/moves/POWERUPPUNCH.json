@@ -1,0 +1,20 @@
+{
+    "move": "POWERUPPUNCH",
+    "name": "Puño Incremento",
+    "type": "FIGHTING",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "RaiseUserAttack1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Punching"
+    ],
+    "description": "Cada vez que golpea se endurecen sus puños. Si acierta el Ataque del usuario aumenta.",
+    "category": "Physical"
+}

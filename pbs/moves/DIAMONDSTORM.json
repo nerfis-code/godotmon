@@ -1,0 +1,19 @@
+{
+    "move": "DIAMONDSTORM",
+    "name": "Torm. de Diamantes",
+    "type": "ROCK",
+    "power": 100,
+    "accuracy": 95,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 50,
+    "functionCode": "RaiseUserDefense2",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Devastador vendaval de diamantes. Puede aumentar la Defensa del usuario.",
+    "category": "Physical"
+}

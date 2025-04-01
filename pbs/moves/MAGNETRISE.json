@@ -1,0 +1,15 @@
+{
+    "move": "MAGNETRISE",
+    "name": "Levitón",
+    "type": "ELECTRIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "StartUserAirborne",
+    "flags": [],
+    "description": "Levita gracias a un campo magnético generado por electricidad durante cinco turnos.",
+    "category": "Status"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "BONERUSH",
+    "name": "Ataque Óseo",
+    "type": "GROUND",
+    "power": 25,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoToFiveTimes",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Hueso en ristre aporrea al objetivo de dos a cinco veces.",
+    "category": "Physical"
+}

@@ -1,0 +1,20 @@
+{
+    "move": "SPRINGTIDESTORM",
+    "name": "Ciclón Primavera",
+    "type": "FAIRY",
+    "power": 100,
+    "accuracy": 80,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 30,
+    "functionCode": "LowerTargetAttack1",
+    "flags": [
+        "Wind",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Desata una tormenta de amor y odio con la que envuelve al objetivo. Puede reducir su Ataque.",
+    "category": "Special"
+}

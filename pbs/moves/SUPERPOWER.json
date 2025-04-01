@@ -1,0 +1,19 @@
+{
+    "move": "SUPERPOWER",
+    "name": "Fuerza Bruta",
+    "type": "FIGHTING",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerUserAtkDef1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque de gran potencia pero que reduce el Ataque y la Defensa del agresor.",
+    "category": "Physical"
+}

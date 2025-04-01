@@ -1,0 +1,19 @@
+{
+    "move": "FOCUSPUNCH",
+    "name": "Puño Certero",
+    "type": "FIGHTING",
+    "power": 150,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": -3,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "FailsIfUserDamagedThisTurn",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "Punching"
+    ],
+    "description": "Se concentra para dar un puñetazo. Falla si se sufre un golpe antes de su uso.",
+    "category": "Physical"
+}

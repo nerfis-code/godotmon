@@ -1,0 +1,20 @@
+{
+    "move": "DRAINPUNCH",
+    "name": "Puño Drenaje",
+    "type": "FIGHTING",
+    "power": 75,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HealUserByHalfOfDamageDone",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Punching"
+    ],
+    "description": "Un golpe que drena energía. El Pokémon recupera la mitad de los PS arrebatados al objetivo.",
+    "category": "Physical"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "THOUSANDWAVES",
+    "name": "Mil Temblores",
+    "type": "GROUND",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "TrapTargetInBattleMainEffect",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ondas sísmicas que se propagan por el suelo a todos los rivales. Los alcanzados no podrán huir.",
+    "category": "Physical"
+}

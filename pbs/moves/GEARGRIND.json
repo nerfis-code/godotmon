@@ -1,0 +1,19 @@
+{
+    "move": "GEARGRIND",
+    "name": "Rueda Doble",
+    "type": "STEEL",
+    "power": 50,
+    "accuracy": 85,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoTimes",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Rota dos engranajes de hierro sobre el objetivo. Golpea dos veces.",
+    "category": "Physical"
+}

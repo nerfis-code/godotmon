@@ -1,0 +1,19 @@
+{
+    "move": "SYRUPBOMB",
+    "name": "Bomba Caramelo",
+    "type": "GRASS",
+    "power": 60,
+    "accuracy": 85,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetSpeedOverTime",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Impregna al objetivo con su viscoso néctar reduciendo su Velocidad durante tres turnos.",
+    "category": "Special"
+}

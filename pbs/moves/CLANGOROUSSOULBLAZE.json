@@ -1,0 +1,19 @@
+{
+    "move": "CLANGOROUSSOULBLAZE",
+    "name": "Clangorous Soulblaze",
+    "type": "DRAGON",
+    "power": 185,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 100,
+    "functionCode": "RaiseUserMainStats1",
+    "flags": [
+        "ZMove",
+        "Sound",
+        "CannotMetronome"
+    ],
+    "description": "Kommo-o attacks the opposing Pokémon with full force. This move boosts the user's stats.",
+    "category": "Special"
+}

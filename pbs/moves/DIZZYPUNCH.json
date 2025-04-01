@@ -1,0 +1,20 @@
+{
+    "move": "DIZZYPUNCH",
+    "name": "Puño Mareo",
+    "type": "NORMAL",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 20,
+    "functionCode": "ConfuseTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Punching"
+    ],
+    "description": "Rítmicos puñetazos que pueden causar confusión.",
+    "category": "Physical"
+}

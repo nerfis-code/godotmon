@@ -1,0 +1,18 @@
+{
+    "move": "AURORABEAM",
+    "name": "Rayo Aurora",
+    "type": "ICE",
+    "power": 65,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "LowerTargetAttack1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Rayo multicolor que puede reducir el Ataque.",
+    "category": "Special"
+}

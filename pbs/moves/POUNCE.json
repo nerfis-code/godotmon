@@ -1,0 +1,20 @@
+{
+    "move": "POUNCE",
+    "name": "Brinco",
+    "type": "BUG",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetSpeed1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ataca abalanzándose sobre el objetivo y le reduce la Velocidad.",
+    "category": "Physical"
+}

@@ -1,0 +1,15 @@
+{
+    "move": "SWALLOW",
+    "name": "Tragar",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "HealUserDependingOnUserStockpile",
+    "flags": [],
+    "description": "Absorbe la energía acumulada con reserva y restaura PS.",
+    "category": "Status"
+}

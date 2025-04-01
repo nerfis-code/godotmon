@@ -1,0 +1,19 @@
+{
+    "move": "CLANGINGSCALES",
+    "name": "Fragor Escamas",
+    "type": "DRAGON",
+    "power": 110,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "LowerUserDefense1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Frota las escamas de su cuerpo para crear un fuerte sonido a costa de reducir su Defensa.",
+    "category": "Special"
+}

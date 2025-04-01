@@ -1,0 +1,19 @@
+{
+    "move": "FELLSTINGER",
+    "name": "Aguijón Letal",
+    "type": "BUG",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RaiseUserAttack3IfTargetFaints",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Al derrotar al objetivo utilizando este movimiento aumenta mucho el Ataque del usuario.",
+    "category": "Physical"
+}

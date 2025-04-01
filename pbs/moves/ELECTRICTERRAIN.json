@@ -1,0 +1,15 @@
+{
+    "move": "ELECTRICTERRAIN",
+    "name": "Campo Eléctrico",
+    "type": "ELECTRIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "BothSides",
+    "effectChance": 0,
+    "functionCode": "StartElectricTerrain",
+    "flags": [],
+    "description": "Durante cinco turnos crea un campo eléctrico que impide dormirse a los Pokémon en el suelo.",
+    "category": "Status"
+}

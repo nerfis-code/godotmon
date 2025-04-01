@@ -1,0 +1,19 @@
+{
+    "move": "BRICKBREAK",
+    "name": "Demolición",
+    "type": "FIGHTING",
+    "power": 75,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RemoveScreens",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Potente ataque que también es capaz de destruir barreras como pantalla de luz y reflejo.",
+    "category": "Physical"
+}

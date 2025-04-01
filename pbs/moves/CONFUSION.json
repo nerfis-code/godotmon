@@ -1,0 +1,18 @@
+{
+    "move": "CONFUSION",
+    "name": "Confusión",
+    "type": "PSYCHIC",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "ConfuseTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Débil ataque telequinético que puede causar confusión.",
+    "category": "Special"
+}

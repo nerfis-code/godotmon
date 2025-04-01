@@ -1,0 +1,18 @@
+{
+    "move": "BLACKHOLEECLIPSE",
+    "name": "Black Hole Eclipse",
+    "type": "DARK",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove_DARK",
+        "CannotMetronome"
+    ],
+    "description": "The user gathers dark energy using its Z-Power and sucks the target into it.",
+    "category": "Physical"
+}

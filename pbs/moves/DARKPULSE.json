@@ -1,0 +1,19 @@
+{
+    "move": "DARKPULSE",
+    "name": "Pulso Umbrío",
+    "type": "DARK",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 20,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Pulse"
+    ],
+    "description": "Libera una horrible aura llena de malos pensamientos y puede amedrentar al objetivo.",
+    "category": "Special"
+}

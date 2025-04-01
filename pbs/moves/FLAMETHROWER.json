@@ -1,0 +1,18 @@
+{
+    "move": "FLAMETHROWER",
+    "name": "Lanzallamas",
+    "type": "FIRE",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "BurnTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca con una gran ráfaga de fuego que puede causar quemaduras.",
+    "category": "Special"
+}

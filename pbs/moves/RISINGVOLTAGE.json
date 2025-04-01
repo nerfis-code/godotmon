@@ -1,0 +1,18 @@
+{
+    "move": "RISINGVOLTAGE",
+    "name": "Alto Voltaje",
+    "type": "ELECTRIC",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerInElectricTerrain",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "La potencia del movimiento se duplica si el rival se ve afectado por un campo eléctrico.",
+    "category": "Special"
+}

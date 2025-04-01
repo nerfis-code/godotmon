@@ -1,0 +1,17 @@
+{
+    "move": "SPITUP",
+    "name": "Escupir",
+    "type": "NORMAL",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerDependsOnUserStockpile",
+    "flags": [
+        "CanProtect"
+    ],
+    "description": "Libera de una vez la energía acumulada con reserva.",
+    "category": "Special"
+}

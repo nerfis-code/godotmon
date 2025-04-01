@@ -1,0 +1,15 @@
+{
+    "move": "SKETCH",
+    "name": "Esquema",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "ReplaceMoveWithTargetLastMoveUsed",
+    "flags": [],
+    "description": "Aprende de forma permanente el último movimiento del objetivo. Es de un solo uso.",
+    "category": "Status"
+}

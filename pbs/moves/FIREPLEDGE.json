@@ -1,0 +1,18 @@
+{
+    "move": "FIREPLEDGE",
+    "name": "Voto Fuego",
+    "type": "FIRE",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "FirePledge",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca con columnas de fuego. Combinado con un Voto Planta crea un mar de llamas y aumenta su potencia.",
+    "category": "Special"
+}

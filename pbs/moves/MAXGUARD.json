@@ -1,0 +1,18 @@
+{
+    "move": "MAXGUARD",
+    "name": "Max Guard",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 4,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "ProtectUserEvenFromDynamaxMoves",
+    "flags": [
+        "DynamaxMove",
+        "CannotMetronome"
+    ],
+    "description": "The user protects itself from all attacks including Max Moves. May fail if used in succession.",
+    "category": "Status"
+}

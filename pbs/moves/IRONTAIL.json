@@ -1,0 +1,19 @@
+{
+    "move": "IRONTAIL",
+    "name": "Cola Férrea",
+    "type": "STEEL",
+    "power": 100,
+    "accuracy": 75,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "LowerTargetDefense1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca con una cola férrea y puede bajar la Defensa del objetivo.",
+    "category": "Physical"
+}

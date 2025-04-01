@@ -1,0 +1,19 @@
+{
+    "move": "BULLETSEED",
+    "name": "Semilladora",
+    "type": "GRASS",
+    "power": 25,
+    "accuracy": 100,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoToFiveTimes",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Dispara rápido de dos a cinco ráfagas de semillas de manera consecutiva.",
+    "category": "Physical"
+}

@@ -1,0 +1,20 @@
+{
+    "move": "THUNDERFANG",
+    "name": "Colmillo Rayo",
+    "type": "ELECTRIC",
+    "power": 65,
+    "accuracy": 95,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 101,
+    "functionCode": "ParalyzeFlinchTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Biting"
+    ],
+    "description": "Muerde con colmillos electrificados. Puede hacer que el rival se amedrente o paralice.",
+    "category": "Physical"
+}

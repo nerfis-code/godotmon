@@ -1,0 +1,19 @@
+{
+    "move": "COVET",
+    "name": "Antojo",
+    "type": "NORMAL",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UserTakesTargetItem",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Se acerca con ternura al objetivo pero le ataca pudiendo robar el objeto que lleve.",
+    "category": "Physical"
+}

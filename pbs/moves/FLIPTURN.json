@@ -1,0 +1,19 @@
+{
+    "move": "FLIPTURN",
+    "name": "Viraje",
+    "type": "WATER",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "SwitchOutUserDamagingMove",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Tras atacar el usuario da paso a toda prisa a otro Pokémon del equipo.",
+    "category": "Physical"
+}

@@ -1,0 +1,20 @@
+{
+    "move": "TRAILBLAZE",
+    "name": "Abrecaminos",
+    "type": "GRASS",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "RaiseUserSpeed1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ataca como si saltara desde la hierba alta. Aumenta su Velocidad.",
+    "category": "Physical"
+}

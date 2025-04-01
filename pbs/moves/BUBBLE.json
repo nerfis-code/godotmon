@@ -1,0 +1,18 @@
+{
+    "move": "BUBBLE",
+    "name": "Burbuja",
+    "type": "WATER",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 10,
+    "functionCode": "LowerTargetSpeed1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza burbujas al contrincante y puede reducir su Velocidad.",
+    "category": "Special"
+}

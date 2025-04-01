@@ -1,0 +1,15 @@
+{
+    "move": "CELEBRATE",
+    "name": "Celebración",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "DoesNothingCongratulations",
+    "flags": [],
+    "description": "El Pokémon te felicita en un día muy especial para ti.",
+    "category": "Status"
+}

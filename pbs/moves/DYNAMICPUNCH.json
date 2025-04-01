@@ -1,0 +1,20 @@
+{
+    "move": "DYNAMICPUNCH",
+    "name": "Puño Dinámico",
+    "type": "FIGHTING",
+    "power": 100,
+    "accuracy": 50,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "ConfuseTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Punching"
+    ],
+    "description": "Puñetazo con toda la fuerza concentrada. Causa confusión si atina.",
+    "category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "BEAKBLAST",
+    "name": "Pico Cañón",
+    "type": "FLYING",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": -3,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "BurnAttackerBeforeUserActs",
+    "flags": [
+        "CanProtect",
+        "Bomb"
+    ],
+    "description": "Carga el pico antes de atacar. Quema al rival si recibe un ataque físico durante la carga.",
+    "category": "Physical"
+}

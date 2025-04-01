@@ -1,0 +1,20 @@
+{
+    "move": "FLYINGPRESS",
+    "name": "Plancha Voladora",
+    "type": "FIGHTING",
+    "power": 100,
+    "accuracy": 95,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "EffectivenessIncludesFlyingType",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "TramplesMinimize"
+    ],
+    "description": "Se lanza sobre su oponente. Este movimiento es de tipo Lucha y tipo Volador al mismo tiempo.",
+    "category": "Physical"
+}

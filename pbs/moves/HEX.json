@@ -1,0 +1,18 @@
+{
+    "move": "HEX",
+    "name": "Infortunio",
+    "type": "GHOST",
+    "power": 65,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfTargetStatusProblem",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque que causa un gran daño a los objetivos que sufren problemas de estado.",
+    "category": "Special"
+}

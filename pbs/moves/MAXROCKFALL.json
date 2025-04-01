@@ -1,0 +1,18 @@
+{
+    "move": "MAXROCKFALL",
+    "name": "Max Rockfall",
+    "type": "ROCK",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "DamageTargetStartSandstormWeather",
+    "flags": [
+        "DynamaxMove_ROCK",
+        "CannotMetronome"
+    ],
+    "description": "A Rock-type attack Dynamax Pokémon use. Summons a sandstorm lasting five turns.",
+    "category": "Physical"
+}

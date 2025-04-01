@@ -1,0 +1,18 @@
+{
+    "move": "ICICLECRASH",
+    "name": "Chuzos",
+    "type": "ICE",
+    "power": 85,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza grandes carámbanos. Puede amedrentar al objetivo.",
+    "category": "Physical"
+}

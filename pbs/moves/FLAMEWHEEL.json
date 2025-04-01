@@ -1,0 +1,20 @@
+{
+    "move": "FLAMEWHEEL",
+    "name": "Rueda Fuego",
+    "type": "FIRE",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "BurnTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "ThawsUser"
+    ],
+    "description": "Ataca envuelto en fuego. Puede causar quemaduras.",
+    "category": "Physical"
+}

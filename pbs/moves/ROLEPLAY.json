@@ -1,0 +1,15 @@
+{
+    "move": "ROLEPLAY",
+    "name": "Imitación",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "SetUserAbilityToTargetAbility",
+    "flags": [],
+    "description": "Imita al objetivo por completo y copia su habilidad.",
+    "category": "Status"
+}

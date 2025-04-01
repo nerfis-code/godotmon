@@ -1,0 +1,21 @@
+{
+    "type": "FLYING",
+    "name": "Flying",
+    "iconPosition": 2,
+    "isSpecialType": false,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "ROCK",
+        "ELECTRIC",
+        "ICE"
+    ],
+    "resistances": [
+        "FIGHTING",
+        "BUG",
+        "GRASS"
+    ],
+    "immunities": [
+        "GROUND"
+    ]
+}

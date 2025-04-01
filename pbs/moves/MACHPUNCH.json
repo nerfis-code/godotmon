@@ -1,0 +1,20 @@
+{
+    "move": "MACHPUNCH",
+    "name": "Ultrapuño",
+    "type": "FIGHTING",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 30,
+    "priority": 1,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Punching"
+    ],
+    "description": "Puñetazo que se da rápido para golpear primero.",
+    "category": "Physical"
+}

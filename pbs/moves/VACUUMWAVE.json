@@ -1,0 +1,18 @@
+{
+    "move": "VACUUMWAVE",
+    "name": "Onda Vacío",
+    "type": "FIGHTING",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 30,
+    "priority": 1,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Gira los puños y libera una onda de vacío contra el objetivo. Este movimiento siempre va primero.",
+    "category": "Special"
+}

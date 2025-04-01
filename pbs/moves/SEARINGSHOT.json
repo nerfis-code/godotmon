@@ -1,0 +1,19 @@
+{
+    "move": "SEARINGSHOT",
+    "name": "Bomba Ígnea",
+    "type": "FIRE",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "AllNearOthers",
+    "effectChance": 30,
+    "functionCode": "BurnTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Un infierno de llamas daña a los Pokémon de alrededor en combate. Puede quemar.",
+    "category": "Special"
+}

@@ -1,0 +1,17 @@
+{
+    "move": "FILLETAWAY",
+    "name": "Deslome",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RaiseUserAtk2SpAtk2Speed2LoseHalfOfTotalHP",
+    "flags": [
+        "CannotMetronome"
+    ],
+    "description": "Aumenta mucho el Ataque el Ataque Especial y la Velocidad del usuario a costa de parte de sus PS.",
+    "category": "Status"
+}

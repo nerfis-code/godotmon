@@ -1,0 +1,19 @@
+{
+    "move": "FIRSTIMPRESSION",
+    "name": "Escaramuza",
+    "type": "BUG",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 2,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "FailsIfNotUserFirstTurn",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Movimiento de gran potencia que solo puede usarse en el primer turno del usuario.",
+    "category": "Physical"
+}

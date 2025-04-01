@@ -1,0 +1,18 @@
+{
+    "move": "INFERNALPARADE",
+    "name": "Marcha Espectral",
+    "type": "GHOST",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "DoublePowerIfTargetStatusProblemBurnTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Bolas de fuego que pueden causar quemaduras. Duplica la potencia si ya tiene un cambio de estado.",
+    "category": "Special"
+}

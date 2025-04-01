@@ -1,0 +1,18 @@
+{
+    "move": "MAXPHANTASM",
+    "name": "Max Phantasm",
+    "type": "GHOST",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "LowerTargetSideDef1",
+    "flags": [
+        "DynamaxMove_GHOST",
+        "CannotMetronome"
+    ],
+    "description": "A Ghost-type attack Dynamax Pokémon use. This lowers the target's Defense stat.",
+    "category": "Physical"
+}

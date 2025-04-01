@@ -1,0 +1,19 @@
+{
+    "move": "SUCKERPUNCH",
+    "name": "Golpe Bajo",
+    "type": "DARK",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 1,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "FailsIfTargetActed",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Permite atacar primero. Falla si el objetivo no está preparando ningún ataque.",
+    "category": "Physical"
+}

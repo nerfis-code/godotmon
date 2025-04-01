@@ -1,0 +1,15 @@
+{
+    "move": "COIL",
+    "name": "Enrosque",
+    "type": "POISON",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserAtkDefAcc1",
+    "flags": [],
+    "description": "El usuario se concentra lo que le permite aumentar su Ataque Defensa y Precisión.",
+    "category": "Status"
+}

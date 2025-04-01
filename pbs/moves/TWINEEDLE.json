@@ -1,0 +1,18 @@
+{
+    "move": "TWINEEDLE",
+    "name": "Doble Ataque",
+    "type": "BUG",
+    "power": 25,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 20,
+    "functionCode": "HitTwoTimesPoisonTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Clava aguijones al rival dos veces. Puede envenenar.",
+    "category": "Physical"
+}

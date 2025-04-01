@@ -1,0 +1,19 @@
+{
+    "move": "SPARK",
+    "name": "Chispa",
+    "type": "ELECTRIC",
+    "power": 65,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "ParalyzeTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque eléctrico que puede llegar a paralizar.",
+    "category": "Physical"
+}

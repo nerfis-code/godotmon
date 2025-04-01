@@ -1,0 +1,17 @@
+{
+    "move": "VENOMDRENCH",
+    "name": "Trampa Venenosa",
+    "type": "POISON",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "LowerPoisonedTargetAtkSpAtkSpd1",
+    "flags": [
+        "CanProtect"
+    ],
+    "description": "Disminuye el Ataque el Ataque Especial y la Velocidad pero solo a Pokémon ya envenenados.",
+    "category": "Status"
+}

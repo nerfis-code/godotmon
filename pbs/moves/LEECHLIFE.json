@@ -1,0 +1,19 @@
+{
+    "move": "LEECHLIFE",
+    "name": "Chupavidas",
+    "type": "BUG",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HealUserByHalfOfDamageDone",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Restaura al usuario la mitad del daño causado al objetivo.",
+    "category": "Physical"
+}

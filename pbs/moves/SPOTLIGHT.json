@@ -1,0 +1,17 @@
+{
+    "move": "SPOTLIGHT",
+    "name": "Foco",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 3,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RedirectAllMovesToTarget",
+    "flags": [
+        "CanProtect"
+    ],
+    "description": "Convierte a un Pokémon en el foco de atención haciendo que los ataques se dirijan hacia él.",
+    "category": "Status"
+}

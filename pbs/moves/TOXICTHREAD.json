@@ -1,0 +1,18 @@
+{
+    "move": "TOXICTHREAD",
+    "name": "Hilo Venenoso",
+    "type": "POISON",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PoisonTargetLowerTargetSpeed1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca al oponente con hilillos venenosos que reducen su Velocidad y lo envenenan.",
+    "category": "Status"
+}

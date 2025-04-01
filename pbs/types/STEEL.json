@@ -1,0 +1,28 @@
+{
+    "type": "STEEL",
+    "name": "Steel",
+    "iconPosition": 8,
+    "isSpecialType": false,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "FIGHTING",
+        "GROUND",
+        "FIRE"
+    ],
+    "resistances": [
+        "NORMAL",
+        "FLYING",
+        "ROCK",
+        "BUG",
+        "STEEL",
+        "GRASS",
+        "PSYCHIC",
+        "ICE",
+        "DRAGON",
+        "FAIRY"
+    ],
+    "immunities": [
+        "POISON"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "move": "CROSSPOISON",
+    "name": "Veneno X",
+    "type": "POISON",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "PoisonTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Tajo que puede envenenar al objetivo. Suele ser crítico.",
+    "category": "Physical"
+}

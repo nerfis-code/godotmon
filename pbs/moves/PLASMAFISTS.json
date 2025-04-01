@@ -1,0 +1,21 @@
+{
+    "move": "PLASMAFISTS",
+    "name": "Puños Plasma",
+    "type": "ELECTRIC",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "NormalMovesBecomeElectric",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Punching",
+        "CannotMetronome"
+    ],
+    "description": "Ataca con los puños. Convierte los movimientos de tipo Normal en tipo Eléctrico.",
+    "category": "Physical"
+}

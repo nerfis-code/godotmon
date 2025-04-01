@@ -1,0 +1,17 @@
+{
+    "move": "RAGEPOWDER",
+    "name": "Polvo Ira",
+    "type": "BUG",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 2,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RedirectAllMovesToUser",
+    "flags": [
+        "Powder"
+    ],
+    "description": "Usa un polvo que irrita y centra en el usuario la atención y los ataques de los rivales.",
+    "category": "Status"
+}

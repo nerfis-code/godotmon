@@ -1,0 +1,20 @@
+{
+    "type": "GHOST",
+    "name": "Ghost",
+    "iconPosition": 7,
+    "isSpecialType": false,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "GHOST",
+        "DARK"
+    ],
+    "resistances": [
+        "POISON",
+        "BUG"
+    ],
+    "immunities": [
+        "NORMAL",
+        "FIGHTING"
+    ]
+}

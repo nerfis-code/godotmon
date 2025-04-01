@@ -1,0 +1,18 @@
+{
+    "move": "KINESIS",
+    "name": "Kinético",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 80,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetAccuracy1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Dobla una cuchara para distraer al objetivo y bajar su nivel de Precisión.",
+    "category": "Status"
+}

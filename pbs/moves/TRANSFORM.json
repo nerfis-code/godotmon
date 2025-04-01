@@ -1,0 +1,15 @@
+{
+    "move": "TRANSFORM",
+    "name": "Transformación",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TransformUserIntoTarget",
+    "flags": [],
+    "description": "El usuario se transforma en una copia del objetivo con los mismos movimientos.",
+    "category": "Status"
+}

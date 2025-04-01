@@ -1,0 +1,19 @@
+{
+    "move": "TAILSLAP",
+    "name": "Plumerazo",
+    "type": "NORMAL",
+    "power": 25,
+    "accuracy": 85,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoToFiveTimes",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Golpea con la cola u otras partes de su cuerpo de dos a cinco veces seguidas.",
+    "category": "Physical"
+}

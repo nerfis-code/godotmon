@@ -1,0 +1,19 @@
+{
+    "move": "BIND",
+    "name": "Atadura",
+    "type": "NORMAL",
+    "power": 15,
+    "accuracy": 85,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "BindTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ata y oprime de cuatro a cinco turnos.",
+    "category": "Physical"
+}

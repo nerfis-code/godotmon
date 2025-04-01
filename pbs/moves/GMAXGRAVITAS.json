@@ -1,0 +1,18 @@
+{
+    "move": "GMAXGRAVITAS",
+    "name": "G-Max Gravitas",
+    "type": "PSYCHIC",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "DamageTargetStartGravity",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Orbeetle. Intensifies gravity for five turns.",
+    "category": "Physical"
+}

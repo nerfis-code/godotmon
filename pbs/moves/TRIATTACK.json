@@ -1,0 +1,18 @@
+{
+    "move": "TRIATTACK",
+    "name": "Triataque",
+    "type": "NORMAL",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 20,
+    "functionCode": "ParalyzeBurnOrFreezeTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque triple que puede paralizar quemar o congelar al objetivo.",
+    "category": "Special"
+}

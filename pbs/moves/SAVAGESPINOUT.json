@@ -1,0 +1,18 @@
+{
+    "move": "SAVAGESPINOUT",
+    "name": "Savage Spin-Out",
+    "type": "BUG",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove_BUG",
+        "CannotMetronome"
+    ],
+    "description": "The user binds the target with full force with threads of silk that the user spits using its Z-Power.",
+    "category": "Physical"
+}

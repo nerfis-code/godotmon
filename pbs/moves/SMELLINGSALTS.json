@@ -1,0 +1,19 @@
+{
+    "move": "SMELLINGSALTS",
+    "name": "Estímulo",
+    "type": "NORMAL",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfTargetParalyzedCureTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Hace el doble de daño a objetivos paralizados pero también cura la parálisis.",
+    "category": "Physical"
+}

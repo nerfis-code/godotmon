@@ -1,0 +1,19 @@
+{
+    "move": "SPARKLINGARIA",
+    "name": "Aria Burbuja",
+    "type": "WATER",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearOthers",
+    "effectChance": 100,
+    "functionCode": "CureTargetBurn",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Libera burbujas al cantar. Cura las quemaduras de los Pokémon que reciban daño.",
+    "category": "Special"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "LICK",
+    "name": "Lengüetazo",
+    "type": "GHOST",
+    "power": 30,
+    "accuracy": 100,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "ParalyzeTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Una lengua ataca al objetivo. Puede causar parálisis.",
+    "category": "Physical"
+}

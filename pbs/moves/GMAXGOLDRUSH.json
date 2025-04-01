@@ -1,0 +1,18 @@
+{
+    "move": "GMAXGOLDRUSH",
+    "name": "G-Max Gold Rush",
+    "type": "NORMAL",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "ConfuseTargetSideAddMoney",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Meowth. May confuse all opposing Pokémon. Also earns extra money.",
+    "category": "Physical"
+}

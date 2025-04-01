@@ -1,0 +1,22 @@
+{
+    "type": "GRASS",
+    "name": "Grass",
+    "iconPosition": 12,
+    "isSpecialType": true,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "FLYING",
+        "POISON",
+        "BUG",
+        "FIRE",
+        "ICE"
+    ],
+    "resistances": [
+        "GROUND",
+        "WATER",
+        "GRASS",
+        "ELECTRIC"
+    ],
+    "immunities": []
+}

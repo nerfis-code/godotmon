@@ -1,0 +1,18 @@
+{
+    "move": "GMAXWINDRAGE",
+    "name": "G-Max Wind Rage",
+    "type": "FLYING",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "RemoveSideEffectsAndTerrain",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Corviknight. Removes effects like Reflect and Light Screen from the field.",
+    "category": "Physical"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "LUNGE",
+    "name": "Plancha",
+    "type": "BUG",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetAttack1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca al oponente abalanzándose sobre él con todas sus fuerzas y reduce su Ataque.",
+    "category": "Physical"
+}

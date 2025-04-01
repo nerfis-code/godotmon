@@ -1,0 +1,15 @@
+{
+    "move": "BANEFULBUNKER",
+    "name": "Búnker",
+    "type": "POISON",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 4,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "ProtectUserBanefulBunker",
+    "flags": [],
+    "description": "Protege de ataques y al mismo tiempo envenena al que use un movimiento de contacto contra él.",
+    "category": "Status"
+}

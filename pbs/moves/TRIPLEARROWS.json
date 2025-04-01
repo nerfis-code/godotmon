@@ -1,0 +1,19 @@
+{
+    "move": "TRIPLEARROWS",
+    "name": "Triple Flecha",
+    "type": "FIGHTING",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetDefense1FlinchTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Asesta un talonazo y lanza tres flechas. Puede amedrentar o bajar la Defensa del objetivo.",
+    "category": "Physical"
+}

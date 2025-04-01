@@ -1,0 +1,18 @@
+{
+    "move": "OBLIVIONWING",
+    "name": "Ala Mortífera",
+    "type": "FLYING",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "HealUserByThreeQuartersOfDamageDone",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Absorbe energía del Pokémon objetivo y recupera más de la mitad del daño inflingido.",
+    "category": "Special"
+}

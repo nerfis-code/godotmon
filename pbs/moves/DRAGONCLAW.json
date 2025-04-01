@@ -1,0 +1,19 @@
+{
+    "move": "DRAGONCLAW",
+    "name": "Garra Dragón",
+    "type": "DRAGON",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Araña al objetivo con garras afiladas.",
+    "category": "Physical"
+}

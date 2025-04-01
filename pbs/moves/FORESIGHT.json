@@ -1,0 +1,18 @@
+{
+    "move": "FORESIGHT",
+    "name": "Profecía",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "StartNegateTargetEvasionStatStageAndGhostImmunity",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Permite atacar con cualquier movimiento a objetivos de tipo Fantasma y golpear a Pokémon evasivos.",
+    "category": "Status"
+}

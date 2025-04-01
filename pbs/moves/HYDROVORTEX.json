@@ -1,0 +1,18 @@
+{
+    "move": "HYDROVORTEX",
+    "name": "Hydro Vortex",
+    "type": "WATER",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove_WATER",
+        "CannotMetronome"
+    ],
+    "description": "The user creates a huge whirling current using its Z-Power to swallow the target with full force.",
+    "category": "Physical"
+}

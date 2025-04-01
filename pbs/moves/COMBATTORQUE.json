@@ -1,0 +1,18 @@
+{
+    "move": "COMBATTORQUE",
+    "name": "Pugnachoque",
+    "type": "FIGHTING",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "StarmobileParalyzeTarget",
+    "flags": [
+        "CanProtect",
+        "CannotMetronome"
+    ],
+    "description": "Puede paralizar al objetivo.",
+    "category": "Physical"
+}

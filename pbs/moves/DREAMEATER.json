@@ -1,0 +1,18 @@
+{
+    "move": "DREAMEATER",
+    "name": "Comesueños",
+    "type": "PSYCHIC",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HealUserByHalfOfDamageDoneIfTargetAsleep",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Restaura al usuario la mitad del daño causado a un objetivo dormido.",
+    "category": "Special"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "ICEBURN",
+    "name": "Llama Gélida",
+    "type": "ICE",
+    "power": 140,
+    "accuracy": 90,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "TwoTurnAttackBurnTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ataca al objetivo en el segundo turno rodeándolo de un aire gélido. Puede causar quemaduras.",
+    "category": "Special"
+}

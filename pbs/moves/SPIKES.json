@@ -1,0 +1,15 @@
+{
+    "move": "SPIKES",
+    "name": "Púas",
+    "type": "GROUND",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "FoeSide",
+    "effectChance": 0,
+    "functionCode": "AddSpikesToFoeSide",
+    "flags": [],
+    "description": "Esparce púas en el terreno rival. Las púas hieren a los Pokémon rivales que entran en combate.",
+    "category": "Status"
+}

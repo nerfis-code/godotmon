@@ -1,0 +1,18 @@
+{
+    "move": "TOPSYTURVY",
+    "name": "Reversión",
+    "type": "DARK",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "InvertTargetStatStages",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Invierte por completo los cambios en las características del Pokémon objetivo.",
+    "category": "Status"
+}

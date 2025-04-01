@@ -1,0 +1,18 @@
+{
+    "move": "GMAXFOAMBURST",
+    "name": "G-Max Foam Burst",
+    "type": "WATER",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "LowerTargetSideSpeed2",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Kingler. Harshly lowers the Speed of all opposing Pokémon.",
+    "category": "Physical"
+}

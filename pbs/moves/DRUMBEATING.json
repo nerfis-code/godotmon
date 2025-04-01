@@ -1,0 +1,19 @@
+{
+    "move": "DRUMBEATING",
+    "name": "Batería Asalto",
+    "type": "GRASS",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetSpeed1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El usuario controla un tocón mediante la percusión y al atacar reduce la Velocidad del objetivo.",
+    "category": "Physical"
+}

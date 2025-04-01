@@ -1,0 +1,19 @@
+{
+    "move": "PSYCHOCUT",
+    "name": "Psicocorte",
+    "type": "PSYCHIC",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Ataca al objetivo con cuchillas formadas por energía psíquica. Suele ser crítico.",
+    "category": "Physical"
+}

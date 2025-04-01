@@ -1,0 +1,19 @@
+{
+    "move": "DIVE",
+    "name": "Buceo",
+    "type": "WATER",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TwoTurnAttackInvulnerableUnderwater",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Primer turno: se sumerge en el mar. Segundo turno: emerge y ataca.",
+    "category": "Physical"
+}

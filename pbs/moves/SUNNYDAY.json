@@ -1,0 +1,15 @@
+{
+    "move": "SUNNYDAY",
+    "name": "Día Soleado",
+    "type": "FIRE",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "BothSides",
+    "effectChance": 0,
+    "functionCode": "StartSunWeather",
+    "flags": [],
+    "description": "Intensifica el sol durante cinco turnos lo que potencia los movimientos de tipo Fuego.",
+    "category": "Status"
+}

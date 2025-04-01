@@ -1,0 +1,19 @@
+{
+    "move": "ACCELEROCK",
+    "name": "Roca Veloz",
+    "type": "ROCK",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 1,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario se lanza contra el objetivo a gran velocidad. Siempre ataca primero.",
+    "category": "Physical"
+}

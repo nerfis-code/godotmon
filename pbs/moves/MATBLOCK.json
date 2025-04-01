@@ -1,0 +1,15 @@
+{
+    "move": "MATBLOCK",
+    "name": "Escudo Tatami",
+    "type": "FIGHTING",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "UserSide",
+    "effectChance": 0,
+    "functionCode": "ProtectUserSideFromDamagingMovesIfUserFirstTurn",
+    "flags": [],
+    "description": "El usuario usa un tatami para escudarse de los movimientos enemigos. Protege también a los aliados. No funciona contra ataques de estado.",
+    "category": "Status"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "MAGNITUDE",
+    "name": "Magnitud",
+    "type": "GROUND",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "AllNearOthers",
+    "effectChance": 0,
+    "functionCode": "RandomPowerDoublePowerIfTargetUnderground",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Sacudida sísmica de intensidad variable que afecta a los Pokémon adyacentes en combate.",
+    "category": "Physical"
+}

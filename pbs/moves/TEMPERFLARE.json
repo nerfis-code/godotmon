@@ -1,0 +1,19 @@
+{
+    "move": "TEMPERFLARE",
+    "name": "Cólera Ardiente",
+    "type": "FIRE",
+    "power": 75,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfUserLastMoveFailed",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Su potencia se duplica si el movimiento del usuario falló en el turno anterior.",
+    "category": "Physical"
+}

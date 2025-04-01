@@ -1,0 +1,18 @@
+{
+    "move": "GASTROACID",
+    "name": "Bilis",
+    "type": "POISON",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "NegateTargetAbility",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario arroja sus jugos biliares al objetivo lo que anula el efecto de la habilidad en uso.",
+    "category": "Status"
+}

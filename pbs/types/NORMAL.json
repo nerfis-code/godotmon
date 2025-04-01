@@ -1,0 +1,15 @@
+{
+    "type": "NORMAL",
+    "name": "Normal",
+    "iconPosition": 0,
+    "isSpecialType": false,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "FIGHTING"
+    ],
+    "resistances": [],
+    "immunities": [
+        "GHOST"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "move": "ETERNABEAM",
+    "name": "Rayo Infinito",
+    "type": "DRAGON",
+    "power": 160,
+    "accuracy": 90,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AttackAndSkipNextTurn",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ataque más poderoso de Eternatus en su forma original. No se podrá mover en el siguiente turno.",
+    "category": "Special"
+}

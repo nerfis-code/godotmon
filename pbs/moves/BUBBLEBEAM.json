@@ -1,0 +1,18 @@
+{
+    "move": "BUBBLEBEAM",
+    "name": "Rayo Burbuja",
+    "type": "WATER",
+    "power": 65,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "LowerTargetSpeed1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Diluvio de burbujas que puede bajar la Velocidad.",
+    "category": "Special"
+}

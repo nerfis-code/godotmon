@@ -1,0 +1,18 @@
+{
+    "move": "CORKSCREWCRASH",
+    "name": "Corkscrew Crash",
+    "type": "STEEL",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove_STEEL",
+        "CannotMetronome"
+    ],
+    "description": "The user spins very fast and rams into the target with the full force of its Z-Power.",
+    "category": "Physical"
+}

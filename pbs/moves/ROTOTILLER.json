@@ -1,0 +1,15 @@
+{
+    "move": "ROTOTILLER",
+    "name": "Fertilizante",
+    "type": "GROUND",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllBattlers",
+    "effectChance": 0,
+    "functionCode": "RaiseGroundedGrassBattlersAtkSpAtk1",
+    "flags": [],
+    "description": "Labra la tierra y consigue que aumente el Ataque y el Ataque Especial de los Pokémon Planta.",
+    "category": "Status"
+}

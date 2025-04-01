@@ -1,0 +1,19 @@
+{
+    "move": "CHATTER",
+    "name": "Cháchara",
+    "type": "FLYING",
+    "power": 65,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 100,
+    "functionCode": "ConfuseTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Ataca con una onda sónica compuesta por palabras que ha aprendido. Puede confundir al objetivo.",
+    "category": "Special"
+}

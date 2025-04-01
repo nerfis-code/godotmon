@@ -1,0 +1,19 @@
+{
+    "move": "BOUNCE",
+    "name": "Bote",
+    "type": "FLYING",
+    "power": 85,
+    "accuracy": 85,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 30,
+    "functionCode": "TwoTurnAttackInvulnerableInSkyParalyzeTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Primer turno: bota. Segundo turno: golpea. Puede paralizar.",
+    "category": "Physical"
+}

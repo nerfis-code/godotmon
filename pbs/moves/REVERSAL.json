@@ -1,0 +1,19 @@
+{
+    "move": "REVERSAL",
+    "name": "Inversión",
+    "type": "FIGHTING",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerLowerWithUserHP",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque desesperado que causa más daño cuantos menos PS tenga el usuario.",
+    "category": "Physical"
+}

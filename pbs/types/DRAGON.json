@@ -1,0 +1,20 @@
+{
+    "type": "DRAGON",
+    "name": "Dragon",
+    "iconPosition": 16,
+    "isSpecialType": true,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "ICE",
+        "DRAGON",
+        "FAIRY"
+    ],
+    "resistances": [
+        "FIRE",
+        "WATER",
+        "GRASS",
+        "ELECTRIC"
+    ],
+    "immunities": []
+}

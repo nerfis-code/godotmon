@@ -1,0 +1,19 @@
+{
+    "move": "ROCKWRECKER",
+    "name": "Romperrocas",
+    "type": "ROCK",
+    "power": 150,
+    "accuracy": 90,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AttackAndSkipNextTurn",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Lanza una piedra enorme contra el objetivo pero tiene que descansar el siguiente turno.",
+    "category": "Physical"
+}

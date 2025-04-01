@@ -1,0 +1,15 @@
+{
+    "move": "STICKYWEB",
+    "name": "Red Viscosa",
+    "type": "BUG",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "FoeSide",
+    "effectChance": 0,
+    "functionCode": "AddStickyWebToFoeSide",
+    "flags": [],
+    "description": "Coloca una red pegajosa en el bando rival que baja la Velocidad de cualquier Pokémon que entre.",
+    "category": "Status"
+}

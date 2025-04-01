@@ -1,0 +1,19 @@
+{
+    "move": "FOULPLAY",
+    "name": "Juego Sucio",
+    "type": "DARK",
+    "power": 95,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UseTargetAttackInsteadOfUserAttack",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario emplea el Ataque del objetivo para golpear.",
+    "category": "Physical"
+}

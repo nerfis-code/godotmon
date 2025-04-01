@@ -1,0 +1,18 @@
+{
+    "move": "TRICK",
+    "name": "Truco",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UserTargetSwapItems",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Engaña al objetivo desprevenido e intercambia objetos.",
+    "category": "Status"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "MAXFLARE",
+    "name": "Max Flare",
+    "type": "FIRE",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "DamageTargetStartSunWeather",
+    "flags": [
+        "DynamaxMove_FIRE",
+        "CannotMetronome"
+    ],
+    "description": "A Fire-type attack Dynamax Pokémon use. Intensifies the sun's rays for five turns.",
+    "category": "Physical"
+}

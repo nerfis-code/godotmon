@@ -1,0 +1,19 @@
+{
+    "move": "FEINTATTACK",
+    "name": "Finta",
+    "type": "DARK",
+    "power": 60,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Engaña al objetivo para acercarse y dar un puñetazo que no falla.",
+    "category": "Physical"
+}

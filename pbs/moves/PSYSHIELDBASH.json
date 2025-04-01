@@ -1,0 +1,19 @@
+{
+    "move": "PSYSHIELDBASH",
+    "name": "Asalto Barrera",
+    "type": "PSYCHIC",
+    "power": 70,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "RaiseUserDefense1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario ataca envuelto en una energía psíquica que además aumenta su Defensa.",
+    "category": "Physical"
+}

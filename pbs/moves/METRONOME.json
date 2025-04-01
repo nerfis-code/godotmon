@@ -1,0 +1,15 @@
+{
+    "move": "METRONOME",
+    "name": "Metrónomo",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "UseRandomMove",
+    "flags": [],
+    "description": "El usuario mueve un dedo y estimula su cerebro para usar al azar casi cualquier movimiento.",
+    "category": "Status"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "DRAGONPULSE",
+    "name": "Pulso Dragón",
+    "type": "DRAGON",
+    "power": 85,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Pulse"
+    ],
+    "description": "Abre mucho la boca y libera una onda de choque que ataca al objetivo.",
+    "category": "Special"
+}

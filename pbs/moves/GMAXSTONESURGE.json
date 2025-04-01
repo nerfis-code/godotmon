@@ -1,0 +1,18 @@
+{
+    "move": "GMAXSTONESURGE",
+    "name": "G-Max Stonesurge",
+    "type": "WATER",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "DamageTargetAddStealthRocksToFoeSide",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Drednaw. Scatters sharp rocks around the opposing side of the field.",
+    "category": "Physical"
+}

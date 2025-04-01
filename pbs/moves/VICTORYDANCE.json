@@ -1,0 +1,17 @@
+{
+    "move": "VICTORYDANCE",
+    "name": "Danza Triunfal",
+    "type": "FIGHTING",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserAtkDefSpd1",
+    "flags": [
+        "Dance"
+    ],
+    "description": "Ejecuta una danza frenética que invoca la victoria y aumenta el Ataque la Defensa y la Velocidad.",
+    "category": "Status"
+}

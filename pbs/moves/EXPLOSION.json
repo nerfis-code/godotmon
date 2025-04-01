@@ -1,0 +1,18 @@
+{
+    "move": "EXPLOSION",
+    "name": "Explosion",
+    "type": "NORMAL",
+    "power": 250,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "AllNearOthers",
+    "effectChance": 0,
+    "functionCode": "UserFaintsExplosive",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El atacante explota y hiere a todos a su alrededor. El usuario se debilita de inmediato.",
+    "category": "Physical"
+}

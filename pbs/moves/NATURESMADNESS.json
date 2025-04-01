@@ -1,0 +1,19 @@
+{
+    "move": "NATURESMADNESS",
+    "name": "Furia Natural",
+    "type": "FAIRY",
+    "power": 1,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "FixedDamageHalfTargetHP",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Golpea al objetivo con la furia de la naturaleza y reduce sus PS a la mitad.",
+    "category": "Special"
+}

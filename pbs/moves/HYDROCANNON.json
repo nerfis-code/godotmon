@@ -1,0 +1,18 @@
+{
+    "move": "HYDROCANNON",
+    "name": "Hidrocañón",
+    "type": "WATER",
+    "power": 150,
+    "accuracy": 90,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AttackAndSkipNextTurn",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Disparo potente de agua. El atacante debe descansar el siguiente turno.",
+    "category": "Special"
+}

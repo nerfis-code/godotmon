@@ -1,0 +1,19 @@
+{
+    "move": "FIERYDANCE",
+    "name": "Danza Llama",
+    "type": "FIRE",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 50,
+    "functionCode": "RaiseUserSpAtk1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Dance"
+    ],
+    "description": "El Pokémon golpea envuelto en llamas. Puede aumentar el Ataque Especial de quien lo usa.",
+    "category": "Special"
+}

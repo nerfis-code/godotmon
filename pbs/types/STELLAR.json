@@ -1,0 +1,11 @@
+{
+    "type": "STELLAR",
+    "name": "Stellar",
+    "iconPosition": 19,
+    "isSpecialType": false,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [],
+    "resistances": [],
+    "immunities": []
+}

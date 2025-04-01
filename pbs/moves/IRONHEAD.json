@@ -1,0 +1,19 @@
+{
+    "move": "IRONHEAD",
+    "name": "Cabeza de Hierro",
+    "type": "STEEL",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca con su dura cabeza de hierro. Puede hacer que el objetivo se amedrente.",
+    "category": "Physical"
+}

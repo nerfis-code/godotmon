@@ -1,0 +1,19 @@
+{
+    "move": "POLLENPUFF",
+    "name": "Bola de Polen",
+    "type": "BUG",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HealAllyOrDamageFoe",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Ataca al oponente con una bola explosiva. Si esta alcanza a un aliado le hará recuperar PS.",
+    "category": "Special"
+}

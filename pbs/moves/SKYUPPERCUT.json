@@ -1,0 +1,20 @@
+{
+    "move": "SKYUPPERCUT",
+    "name": "Gancho Alto",
+    "type": "FIGHTING",
+    "power": 85,
+    "accuracy": 90,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitsTargetInSky",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Punching"
+    ],
+    "description": "Gancho ascendente de gran ímpetu.",
+    "category": "Physical"
+}

@@ -1,0 +1,20 @@
+{
+    "move": "HAMMERARM",
+    "name": "Machada",
+    "type": "FIGHTING",
+    "power": 100,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerUserSpeed1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Punching"
+    ],
+    "description": "Gira con fuerza el puño y da un gran golpe. No obstante baja la Velocidad del usuario.",
+    "category": "Physical"
+}

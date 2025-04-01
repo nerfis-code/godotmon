@@ -1,0 +1,19 @@
+{
+    "move": "THUNDERCAGE",
+    "name": "Electrojaula",
+    "type": "ELECTRIC",
+    "power": 80,
+    "accuracy": 90,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "BindTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El usuario atrapa al rival en una caja eléctrica que dura entre cuatro y cinco turnos.",
+    "category": "Special"
+}

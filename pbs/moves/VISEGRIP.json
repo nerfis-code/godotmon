@@ -1,0 +1,19 @@
+{
+    "move": "VISEGRIP",
+    "name": "Agarre",
+    "type": "NORMAL",
+    "power": 55,
+    "accuracy": 100,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Atrapa con potentes pinzas.",
+    "category": "Physical"
+}

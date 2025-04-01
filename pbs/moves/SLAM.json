@@ -1,0 +1,19 @@
+{
+    "move": "SLAM",
+    "name": "Atizar",
+    "type": "NORMAL",
+    "power": 80,
+    "accuracy": 75,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Golpea con las extremidades.",
+    "category": "Physical"
+}

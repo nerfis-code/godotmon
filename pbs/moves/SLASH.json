@@ -1,0 +1,20 @@
+{
+    "move": "SLASH",
+    "name": "Cuchillada",
+    "type": "NORMAL",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Ataca con cuchillas o con pinzas. Suele ser un golpe crítico.",
+    "category": "Physical"
+}

@@ -1,0 +1,15 @@
+{
+    "move": "WORKUP",
+    "name": "Avivar",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserAtkSpAtk1",
+    "flags": [],
+    "description": "Movimiento que aumenta el Ataque y el Ataque Especial de quien lo usa.",
+    "category": "Status"
+}

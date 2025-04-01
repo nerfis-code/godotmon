@@ -1,0 +1,20 @@
+{
+    "move": "DIRECLAW",
+    "name": "Garra Nociva",
+    "type": "POISON",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 50,
+    "functionCode": "PoisonParalyzeOrSleepTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Ataca al punto débil del objetivo con unas garras letales que pueden envenenarlo paralizarlo o dormirlo.",
+    "category": "Physical"
+}

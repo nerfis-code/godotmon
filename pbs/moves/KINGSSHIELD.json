@@ -1,0 +1,15 @@
+{
+    "move": "KINGSSHIELD",
+    "name": "Escudo Real",
+    "type": "STEEL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 4,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "ProtectUserFromDamagingMovesKingsShield",
+    "flags": [],
+    "description": "Proteje al usuario de cualquier daño y baja mucho el Ataque del rival si lo toca.",
+    "category": "Status"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "PLAYROUGH",
+    "name": "Carantoña",
+    "type": "FAIRY",
+    "power": 90,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "LowerTargetAttack1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Hace cucamonas al objetivo y lo ataca. Puede disminuir el Ataque del objetivo.",
+    "category": "Physical"
+}

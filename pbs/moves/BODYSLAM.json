@@ -1,0 +1,20 @@
+{
+    "move": "BODYSLAM",
+    "name": "Golpe Cuerpo",
+    "type": "NORMAL",
+    "power": 85,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "ParalyzeTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "TramplesMinimize"
+    ],
+    "description": "Salta sobre el objetivo con  su peso. Puede paralizar.",
+    "category": "Physical"
+}

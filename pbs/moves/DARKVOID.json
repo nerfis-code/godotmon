@@ -1,0 +1,18 @@
+{
+    "move": "DARKVOID",
+    "name": "Brecha Negra",
+    "type": "DARK",
+    "power": 0,
+    "accuracy": 50,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "SleepTargetIfUserDarkrai",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El objetivo es enviado a un mundo de tinieblas que lo hace dormir.",
+    "category": "Status"
+}

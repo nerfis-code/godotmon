@@ -1,0 +1,19 @@
+{
+    "move": "CRUSHGRIP",
+    "name": "Agarrón",
+    "type": "NORMAL",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithTargetHP",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Cuantos más PS le queden al objetivo más fuerte será el ataque.",
+    "category": "Physical"
+}

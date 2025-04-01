@@ -1,0 +1,19 @@
+{
+    "move": "SLUDGEBOMB",
+    "name": "Bomba Lodo",
+    "type": "POISON",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "PoisonTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Arroja residuos al objetivo. Puede llegar a envenenar.",
+    "category": "Special"
+}

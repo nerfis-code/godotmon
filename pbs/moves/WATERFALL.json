@@ -1,0 +1,19 @@
+{
+    "move": "WATERFALL",
+    "name": "Cascada",
+    "type": "WATER",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 20,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Embiste con un gran impulso que puede amedrentar. También sirve para remontar cascadas.",
+    "category": "Physical"
+}

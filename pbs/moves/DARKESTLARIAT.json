@@ -1,0 +1,19 @@
+{
+    "move": "DARKESTLARIAT",
+    "name": "Lariat Oscuro",
+    "type": "DARK",
+    "power": 85,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "IgnoreTargetDefSpDefEvaStatStages",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Gira y golpea al oponente ignorando los cambios en las características del objetivo.",
+    "category": "Physical"
+}

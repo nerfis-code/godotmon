@@ -1,0 +1,18 @@
+{
+    "move": "SPIRITSHACKLE",
+    "name": "Puntada Sombría",
+    "type": "GHOST",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "TrapTargetInBattle",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca al oponente y al mismo tiempo fija su sombra al terreno impidiendo su huida.",
+    "category": "Physical"
+}

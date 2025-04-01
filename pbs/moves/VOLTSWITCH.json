@@ -1,0 +1,18 @@
+{
+    "move": "VOLTSWITCH",
+    "name": "Voltiocambio",
+    "type": "ELECTRIC",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "SwitchOutUserDamagingMove",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Tras atacar vuelve a toda prisa para dar paso a otro Pokémon del equipo.",
+    "category": "Special"
+}

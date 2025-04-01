@@ -1,0 +1,20 @@
+{
+    "type": "GROUND",
+    "name": "Ground",
+    "iconPosition": 4,
+    "isSpecialType": false,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "WATER",
+        "GRASS",
+        "ICE"
+    ],
+    "resistances": [
+        "POISON",
+        "ROCK"
+    ],
+    "immunities": [
+        "ELECTRIC"
+    ]
+}

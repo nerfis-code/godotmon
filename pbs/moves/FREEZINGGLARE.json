@@ -1,0 +1,19 @@
+{
+    "move": "FREEZINGGLARE",
+    "name": "Mirada Heladora",
+    "type": "PSYCHIC",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "FreezeTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El usuario ataca disparando poderes psíquicos por los ojos. Puede congelar.",
+    "category": "Special"
+}

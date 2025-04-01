@@ -1,0 +1,19 @@
+{
+    "move": "FORCEPALM",
+    "name": "Palmeo",
+    "type": "FIGHTING",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "ParalyzeTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca al objetivo con una onda de choque y puede llegar a paralizarlo.",
+    "category": "Physical"
+}

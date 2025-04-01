@@ -1,0 +1,18 @@
+{
+    "move": "GMAXSTEELSURGE",
+    "name": "G-Max Steelsurge",
+    "type": "STEEL",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "DamageTargetAddSteelsurgeToFoeSide",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Copperajah. Scatters sharp spikes around the opposing side of the field.",
+    "category": "Physical"
+}

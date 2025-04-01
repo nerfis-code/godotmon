@@ -1,0 +1,19 @@
+{
+    "move": "BARRAGE",
+    "name": "Bombardeo",
+    "type": "NORMAL",
+    "power": 15,
+    "accuracy": 85,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoToFiveTimes",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Arroja esferas al objetivo entre dos y cinco veces seguidas.",
+    "category": "Physical"
+}

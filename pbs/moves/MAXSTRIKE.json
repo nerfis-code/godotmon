@@ -1,0 +1,18 @@
+{
+    "move": "MAXSTRIKE",
+    "name": "Max Strike",
+    "type": "NORMAL",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "LowerTargetSideSpeed1",
+    "flags": [
+        "DynamaxMove_NORMAL",
+        "CannotMetronome"
+    ],
+    "description": "A Normal-type attack Dynamax Pokémon use. This lowers the target's Speed stat.",
+    "category": "Physical"
+}

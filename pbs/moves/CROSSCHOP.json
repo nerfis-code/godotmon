@@ -1,0 +1,20 @@
+{
+    "move": "CROSSCHOP",
+    "name": "Tajo Cruzado",
+    "type": "FIGHTING",
+    "power": 100,
+    "accuracy": 80,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Corte doble que suele propinar un golpe crítico.",
+    "category": "Physical"
+}

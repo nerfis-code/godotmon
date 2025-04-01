@@ -1,0 +1,19 @@
+{
+    "move": "LOWSWEEP",
+    "name": "Puntapié",
+    "type": "FIGHTING",
+    "power": 65,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetSpeed1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Un veloz ataque a los pies que reduce la Velocidad del objetivo.",
+    "category": "Physical"
+}

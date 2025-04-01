@@ -1,0 +1,20 @@
+{
+    "move": "BRANCHPOKE",
+    "name": "Punzada Rama",
+    "type": "GRASS",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ataca pinchando al objetivo con una rama afilada.",
+    "category": "Physical"
+}

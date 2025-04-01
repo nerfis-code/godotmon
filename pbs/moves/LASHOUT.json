@@ -1,0 +1,19 @@
+{
+    "move": "LASHOUT",
+    "name": "Desahogo",
+    "type": "DARK",
+    "power": 75,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfUserStatsLoweredThisTurn",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Si el usuario ha sufrido una reducción de características en ese turno duplica la potencia.",
+    "category": "Physical"
+}

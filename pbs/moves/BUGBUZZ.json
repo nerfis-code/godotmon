@@ -1,0 +1,19 @@
+{
+    "move": "BUGBUZZ",
+    "name": "Zumbido",
+    "type": "BUG",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "LowerTargetSpDef1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "El movimiento de las alas crea una onda sónica dañina. Puede disminuir la Defensa Especial del objetivo.",
+    "category": "Special"
+}

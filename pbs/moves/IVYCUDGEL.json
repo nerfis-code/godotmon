@@ -1,0 +1,19 @@
+{
+    "move": "IVYCUDGEL",
+    "name": "Garrote Liana",
+    "type": "GRASS",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TypeIsUserSecondType",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Golpea con un garrote. El tipo varía según la máscara que lleve. Suele ser crítico.",
+    "category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "BLOOMDOOM",
+    "name": "Bloom Doom",
+    "type": "GRASS",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove_GRASS",
+        "CannotMetronome"
+    ],
+    "description": "The user collects energy from plants using its Z-Power and attacks the target with full force.",
+    "category": "Physical"
+}

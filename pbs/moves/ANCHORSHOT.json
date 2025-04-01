@@ -1,0 +1,19 @@
+{
+    "move": "ANCHORSHOT",
+    "name": "Anclaje",
+    "type": "STEEL",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "TrapTargetInBattle",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca lanzando un ancla al oponente que queda atrapado y no puede huir.",
+    "category": "Physical"
+}

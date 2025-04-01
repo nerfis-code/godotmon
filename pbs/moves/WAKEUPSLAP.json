@@ -1,0 +1,19 @@
+{
+    "move": "WAKEUPSLAP",
+    "name": "Espabila",
+    "type": "FIGHTING",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfTargetAsleepCureTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Inflige gran daño a objetivos dormidos. Sin embargo los bofetones también los despiertan.",
+    "category": "Physical"
+}

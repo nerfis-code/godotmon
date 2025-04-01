@@ -1,0 +1,19 @@
+{
+    "move": "BOOMBURST",
+    "name": "Estruendo",
+    "type": "NORMAL",
+    "power": 140,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearOthers",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Ataca a todos los Pokémon a su alrededor con una potentísima onda sonora.",
+    "category": "Special"
+}

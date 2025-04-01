@@ -1,0 +1,20 @@
+{
+    "move": "KOWTOWCLEAVE",
+    "name": "Genufendiente",
+    "type": "DARK",
+    "power": 85,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Slicing",
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Se postra en ademán de reverencia para que el objetivo baje la guardia y aprovecha para atacar. No falla.",
+    "category": "Physical"
+}

@@ -1,0 +1,20 @@
+{
+    "move": "CRABHAMMER",
+    "name": "Martillazo",
+    "type": "WATER",
+    "power": 100,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Golpea con fuerza con unas pinzas. Suele ser crítico.",
+    "category": "Physical"
+}

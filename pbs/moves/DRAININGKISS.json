@@ -1,0 +1,19 @@
+{
+    "move": "DRAININGKISS",
+    "name": "Beso Drenaje",
+    "type": "FAIRY",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HealUserByThreeQuartersOfDamageDone",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Absorbe PS del objetivo con un beso y restaura sus PS.",
+    "category": "Special"
+}

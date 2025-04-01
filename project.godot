@@ -11,9 +11,21 @@ config_version=5
 [application]
 
 config/name="placeHolder"
+run/main_scene="uid://csphllen4qn4d"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
 
 [autoload]
 
 Player="*res://globals/player.gd"
+
+[display]
+
+window/size/viewport_width=960
+window/size/viewport_height=540
+window/size/initial_position_type=4
+window/stretch/scale=0.5
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0

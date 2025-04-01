@@ -1,0 +1,19 @@
+{
+    "move": "REVELATIONDANCE",
+    "name": "Danza Despertar",
+    "type": "NORMAL",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TypeIsUserFirstType",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Dance"
+    ],
+    "description": "Baile muy enérgico y cuyo tipo se corresponde con el del Pokémon que lo ejecuta.",
+    "category": "Special"
+}

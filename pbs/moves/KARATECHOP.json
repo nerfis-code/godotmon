@@ -1,0 +1,20 @@
+{
+    "move": "KARATECHOP",
+    "name": "Golpe Kárate",
+    "type": "FIGHTING",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Da un golpe cortante. Suele ser crítico.",
+    "category": "Physical"
+}

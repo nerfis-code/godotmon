@@ -1,0 +1,18 @@
+{
+    "move": "SWITCHEROO",
+    "name": "Trapicheo",
+    "type": "DARK",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UserTargetSwapItems",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Intercambia con el objetivo los objetos que llevan tan rápido que es imposible verlo a simple vista.",
+    "category": "Status"
+}

@@ -1,0 +1,20 @@
+{
+    "move": "COLLISIONCOURSE",
+    "name": "Nitrochoque",
+    "type": "FIGHTING",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "IncreasePowerSuperEffective",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Choca contra el suelo mientras se transforma. La potencia aumenta si es supereficaz.",
+    "category": "Physical"
+}

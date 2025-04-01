@@ -1,0 +1,19 @@
+{
+    "move": "FUSIONFLARE",
+    "name": "Llama Fusión",
+    "type": "FIRE",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerAfterFusionBolt",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "ThawsUser"
+    ],
+    "description": "Llamarada gigantesca. Aumenta su potencia si es influenciada por una gran energía eléctrica.",
+    "category": "Special"
+}

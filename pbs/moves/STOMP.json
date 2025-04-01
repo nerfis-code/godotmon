@@ -1,0 +1,20 @@
+{
+    "move": "STOMP",
+    "name": "Pisotón",
+    "type": "NORMAL",
+    "power": 65,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "TramplesMinimize"
+    ],
+    "description": "Tremendo pisotón que puede amedrentar al objetivo.",
+    "category": "Physical"
+}

@@ -1,0 +1,17 @@
+{
+    "move": "SHEDTAIL",
+    "name": "Autotomía",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "UserMakeSubstituteSwitchOut",
+    "flags": [
+        "CannotMetronome"
+    ],
+    "description": "El usuario se cambia por otro Pokémon del equipo dejando un sustituto a cambio de sus PS.",
+    "category": "Status"
+}

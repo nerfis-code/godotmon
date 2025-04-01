@@ -1,0 +1,19 @@
+{
+    "move": "SALTCURE",
+    "name": "Salazón",
+    "type": "ROCK",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "StartSaltCureTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El objetivo pierde PS cada turno. Afecta especialmente a Pokémon de tipo Acero y tipo Agua.",
+    "category": "Physical"
+}

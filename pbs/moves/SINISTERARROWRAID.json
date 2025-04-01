@@ -1,0 +1,18 @@
+{
+    "move": "SINISTERARROWRAID",
+    "name": "Sinister Arrow Raid",
+    "type": "GHOST",
+    "power": 180,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove",
+        "CannotMetronome"
+    ],
+    "description": "Decidueye shoots the target with countless arrows using its Z-Power.",
+    "category": "Physical"
+}

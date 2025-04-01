@@ -1,0 +1,15 @@
+{
+    "move": "MILKDRINK",
+    "name": "Batido",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "HealUserHalfOfTotalHP",
+    "flags": [],
+    "description": "Restaura la mitad de sus PS máximos. Fuera de combate puede transferir sus PS a un aliado.",
+    "category": "Status"
+}

@@ -1,0 +1,19 @@
+{
+    "type": "WATER",
+    "name": "Water",
+    "iconPosition": 11,
+    "isSpecialType": true,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "GRASS",
+        "ELECTRIC"
+    ],
+    "resistances": [
+        "STEEL",
+        "FIRE",
+        "WATER",
+        "ICE"
+    ],
+    "immunities": []
+}

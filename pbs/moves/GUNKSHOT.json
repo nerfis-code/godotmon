@@ -1,0 +1,18 @@
+{
+    "move": "GUNKSHOT",
+    "name": "Lanzamugre",
+    "type": "POISON",
+    "power": 120,
+    "accuracy": 80,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "PoisonTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza contra el objetivo asquerosa basura. Puede envenenar al objetivo.",
+    "category": "Physical"
+}

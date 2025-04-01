@@ -1,0 +1,18 @@
+{
+    "move": "FLAMEBURST",
+    "name": "Pirotecnia",
+    "type": "FIRE",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DamageTargetAlly",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Golpea al objetivo con una llamarada que afecta a sus Pokémon adyacentes.",
+    "category": "Special"
+}

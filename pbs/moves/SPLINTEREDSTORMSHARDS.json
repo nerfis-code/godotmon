@@ -1,0 +1,18 @@
+{
+    "move": "SPLINTEREDSTORMSHARDS",
+    "name": "Splintered Stormshards",
+    "type": "ROCK",
+    "power": 190,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "DamageTargetRemoveTerrain",
+    "flags": [
+        "ZMove",
+        "CannotMetronome"
+    ],
+    "description": "Lycanroc attacks the target with full force. This move negates the effect on the battlefield.",
+    "category": "Physical"
+}

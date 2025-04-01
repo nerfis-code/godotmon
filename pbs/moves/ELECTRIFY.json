@@ -1,0 +1,18 @@
+{
+    "move": "ELECTRIFY",
+    "name": "Electrificación",
+    "type": "ELECTRIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TargetMovesBecomeElectric",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Si el Pokémon objetivo queda electrificado antes de usar un movimiento este será de tipo Eléctrico.",
+    "category": "Status"
+}

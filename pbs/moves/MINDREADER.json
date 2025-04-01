@@ -1,0 +1,18 @@
+{
+    "move": "MINDREADER",
+    "name": "Telépata",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "EnsureNextMoveAlwaysHits",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario adivina los movimientos del objetivo para hacer que su siguiente ataque no falle.",
+    "category": "Status"
+}

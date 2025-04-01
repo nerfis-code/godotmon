@@ -1,0 +1,20 @@
+{
+    "move": "BODYPRESS",
+    "name": "Plancha Corporal",
+    "type": "FIGHTING",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UseUserDefenseInsteadOfUserAttack",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El usuario embistie al objetivo. Cuanto más alta sea la Defensa del usuario más daño inflingirá.",
+    "category": "Physical"
+}

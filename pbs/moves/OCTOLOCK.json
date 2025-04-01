@@ -1,0 +1,18 @@
+{
+    "move": "OCTOLOCK",
+    "name": "Octopresa",
+    "type": "FIGHTING",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TrapTargetInBattleLowerTargetDefSpDef1EachTurn",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Retiene al objetivo para impedir su huida a la vez que reduce su Defensa y Defensa Especial cada turno.",
+    "category": "Status"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "WOODHAMMER",
+    "name": "Mazazo",
+    "type": "GRASS",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RecoilThirdOfDamageDealt",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Arremete contra el rival con su robusto cuerpo. El agresor también sufre bastante daño.",
+    "category": "Physical"
+}

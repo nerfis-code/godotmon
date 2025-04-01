@@ -1,0 +1,15 @@
+{
+    "move": "SHARPEN",
+    "name": "Afilar",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserAttack1",
+    "flags": [],
+    "description": "El perfil del usuario se hace más afilado y su Ataque mejora.",
+    "category": "Status"
+}

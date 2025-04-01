@@ -1,0 +1,18 @@
+{
+    "move": "BLASTBURN",
+    "name": "Anillo Ígneo",
+    "type": "FIRE",
+    "power": 150,
+    "accuracy": 90,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AttackAndSkipNextTurn",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Explosión de fuego. El atacante debe descansar el siguiente turno.",
+    "category": "Special"
+}

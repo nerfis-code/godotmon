@@ -1,0 +1,19 @@
+{
+    "move": "SLEEPPOWDER",
+    "name": "Somnífero",
+    "type": "GRASS",
+    "power": 0,
+    "accuracy": 75,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "SleepTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Powder"
+    ],
+    "description": "Esparce polvo que duerme al objetivo.",
+    "category": "Status"
+}

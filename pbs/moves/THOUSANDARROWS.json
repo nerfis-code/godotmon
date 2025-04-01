@@ -1,0 +1,19 @@
+{
+    "move": "THOUSANDARROWS",
+    "name": "Mil Flechas",
+    "type": "GROUND",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "HitsTargetInSkyGroundsTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Acierta incluso a Pokémon que estén en el aire y los hace caer al suelo.",
+    "category": "Physical"
+}

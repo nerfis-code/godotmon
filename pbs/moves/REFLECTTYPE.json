@@ -1,0 +1,17 @@
+{
+    "move": "REFLECTTYPE",
+    "name": "Clonatipo",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "SetUserTypesToTargetTypes",
+    "flags": [
+        "CanProtect"
+    ],
+    "description": "Cambia el tipo del Pokémon al mismo tipo que el del objetivo.",
+    "category": "Status"
+}

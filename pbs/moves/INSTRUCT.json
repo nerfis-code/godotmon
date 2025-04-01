@@ -1,0 +1,17 @@
+{
+    "move": "INSTRUCT",
+    "name": "Mandato",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TargetUsesItsLastUsedMoveAgain",
+    "flags": [
+        "CanProtect"
+    ],
+    "description": "Fuerza al objetivo a repetir inmediatamente su último movimiento.",
+    "category": "Status"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "MAGICPOWDER",
+    "name": "Polvo Mágico",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "SetTargetTypesToPsychic",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Powder"
+    ],
+    "description": "El usuario lanza una nube de polvo mágico que convierte al objetivo en tipo Psíquico.",
+    "category": "Status"
+}

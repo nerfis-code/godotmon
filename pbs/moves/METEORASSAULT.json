@@ -1,0 +1,19 @@
+{
+    "move": "METEORASSAULT",
+    "name": "Asalto Estelar",
+    "type": "FIGHTING",
+    "power": 150,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AttackAndSkipNextTurn",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El usuario arremete con su puerro. El usuario no se podrá mover en el siguiente turno.",
+    "category": "Physical"
+}

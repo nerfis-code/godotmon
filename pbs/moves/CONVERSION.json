@@ -1,0 +1,15 @@
+{
+    "move": "CONVERSION",
+    "name": "Conversión",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "SetUserTypesToUserMoveType",
+    "flags": [],
+    "description": "Cambia el tipo del usuario por el de uno de sus movimientos.",
+    "category": "Status"
+}

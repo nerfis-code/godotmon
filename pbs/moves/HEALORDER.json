@@ -1,0 +1,15 @@
+{
+    "move": "HEALORDER",
+    "name": "Auxilio",
+    "type": "BUG",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "HealUserHalfOfTotalHP",
+    "flags": [],
+    "description": "El usuario llama a sus amigos para que lo curen. Recupera hasta la mitad de los PS máximos.",
+    "category": "Status"
+}

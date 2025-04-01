@@ -1,0 +1,18 @@
+{
+    "move": "BLAZINGTORQUE",
+    "name": "Pirochoque",
+    "type": "FIRE",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "StarmobileBurnTarget",
+    "flags": [
+        "CanProtect",
+        "CannotMetronome"
+    ],
+    "description": "Puede causar quemaduras.",
+    "category": "Physical"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "SEISMICTOSS",
+    "name": "Sísmico",
+    "type": "FIGHTING",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "FixedDamageUserLevel",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "La gravedad derriba al objetivo. Se restarán tantos PS como nivel tenga el agresor.",
+    "category": "Physical"
+}

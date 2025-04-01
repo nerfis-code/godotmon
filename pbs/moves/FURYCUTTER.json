@@ -1,0 +1,19 @@
+{
+    "move": "FURYCUTTER",
+    "name": "Corte Furia",
+    "type": "BUG",
+    "power": 40,
+    "accuracy": 95,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithConsecutiveUse",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque con garras o guadañas que crece en intensidad si se usa repetidas veces.",
+    "category": "Physical"
+}

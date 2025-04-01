@@ -1,0 +1,19 @@
+{
+    "move": "ALLURINGVOICE",
+    "name": "Canto Encantador",
+    "type": "FAIRY",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "ConfuseTargetIfTargetStatsRaisedThisTurn",
+    "flags": [
+        "Sound",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Canto angelical que confunde al objetivo si sus características han aumentado en ese turno.",
+    "category": "Special"
+}

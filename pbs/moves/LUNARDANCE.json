@@ -1,0 +1,17 @@
+{
+    "move": "LUNARDANCE",
+    "name": "Danza Lunar",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "UserFaintsHealAndCureReplacementRestorePP",
+    "flags": [
+        "Dance"
+    ],
+    "description": "El usuario se debilita pero el Pokémon que lo sustituye recupera su estado los PS y los PP.",
+    "category": "Status"
+}

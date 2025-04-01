@@ -1,0 +1,20 @@
+{
+    "move": "POISONTAIL",
+    "name": "Cola Veneno",
+    "type": "POISON",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "PoisonTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Ataque con la cola que puede envenenar y dar un golpe crítico.",
+    "category": "Physical"
+}

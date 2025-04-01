@@ -1,0 +1,19 @@
+{
+    "move": "DOUBLESLAP",
+    "name": "Doble Bofetón",
+    "type": "NORMAL",
+    "power": 15,
+    "accuracy": 85,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoToFiveTimes",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Abofetea de dos a cinco veces seguidas.",
+    "category": "Physical"
+}

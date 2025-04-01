@@ -1,0 +1,18 @@
+{
+    "move": "ICEBEAM",
+    "name": "Rayo Hielo",
+    "type": "ICE",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "FreezeTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Rayo de hielo que puede llegar a congelar.",
+    "category": "Special"
+}

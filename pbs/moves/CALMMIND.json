@@ -1,0 +1,15 @@
+{
+    "move": "CALMMIND",
+    "name": "Paz Mental",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserSpAtkSpDef1",
+    "flags": [],
+    "description": "Aumenta la concentración y calma el espíritu para subir el Ataque Especial y la Defensa Especial.",
+    "category": "Status"
+}

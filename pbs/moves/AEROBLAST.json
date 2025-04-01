@@ -1,0 +1,19 @@
+{
+    "move": "AEROBLAST",
+    "name": "Aerochorro",
+    "type": "FLYING",
+    "power": 100,
+    "accuracy": 95,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Lanza un chorro de aire que suele dar un golpe crítico.",
+    "category": "Special"
+}

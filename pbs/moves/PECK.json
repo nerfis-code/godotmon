@@ -1,0 +1,19 @@
+{
+    "move": "PECK",
+    "name": "Picotazo",
+    "type": "FLYING",
+    "power": 35,
+    "accuracy": 100,
+    "totalPP": 35,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ensarta al objetivo con un cuerno o pico punzante.",
+    "category": "Physical"
+}

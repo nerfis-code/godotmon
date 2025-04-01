@@ -1,0 +1,18 @@
+{
+    "move": "STOREDPOWER",
+    "name": "Poder Reserva",
+    "type": "PSYCHIC",
+    "power": 20,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithUserPositiveStatStages",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Cuanto más suban las características del usuario mayor será el daño.",
+    "category": "Special"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "SUPERCELLSLAM",
+    "name": "Plancha Voltaica",
+    "type": "ELECTRIC",
+    "power": 100,
+    "accuracy": 95,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "CrashDamageIfFails",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Electrifica su cuerpo y salta en plancha sobre el objetivo. Si falla se hiere a sí mismo.",
+    "category": "Physical"
+}

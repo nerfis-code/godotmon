@@ -1,0 +1,19 @@
+{
+    "move": "ACROBATICS",
+    "name": "Acróbata",
+    "type": "FLYING",
+    "power": 55,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfUserHasNoItem",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Golpea ágilmente. Si el usuario no porta ningún objeto el objetivo resulta seriamente dañado.",
+    "category": "Physical"
+}

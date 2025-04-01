@@ -1,0 +1,17 @@
+{
+    "move": "SHELLTRAP",
+    "name": "Coraza Trampa",
+    "type": "FIRE",
+    "power": 150,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": -3,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "UsedAfterUserTakesPhysicalDamage",
+    "flags": [
+        "CanProtect"
+    ],
+    "description": "Si le alcanza un ataque físico la trampa del caparazón estalla y el atacante sufre daño.",
+    "category": "Special"
+}

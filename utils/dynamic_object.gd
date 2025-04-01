@@ -28,3 +28,6 @@ func _to_string() -> String:
 	for key in _data.keys():
 		part.append("%s:%s" % [key, _data[key]])
 	return "{%s}" % [", ".join(part)]
+
+func props():
+	return _data

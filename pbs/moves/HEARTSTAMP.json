@@ -1,0 +1,19 @@
+{
+    "move": "HEARTSTAMP",
+    "name": "Arrumaco",
+    "type": "PSYCHIC",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Grácil gesto que asesta un golpe tremendo al objetivo y puede amedrentarlo.",
+    "category": "Physical"
+}

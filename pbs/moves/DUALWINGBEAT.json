@@ -1,0 +1,19 @@
+{
+    "move": "DUALWINGBEAT",
+    "name": "Ala Bis",
+    "type": "FLYING",
+    "power": 40,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoTimes",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca al adversario golpeándolo dos veces con las alas.",
+    "category": "Physical"
+}

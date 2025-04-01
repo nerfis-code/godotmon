@@ -1,0 +1,15 @@
+{
+    "move": "AGILITY",
+    "name": "Agilidad",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserSpeed2",
+    "flags": [],
+    "description": "Relaja el cuerpo para ganar mucha Velocidad.",
+    "category": "Status"
+}

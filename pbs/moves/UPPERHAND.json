@@ -1,0 +1,19 @@
+{
+    "move": "UPPERHAND",
+    "name": "Palma Rauda",
+    "type": "FIGHTING",
+    "power": 65,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 3,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "FlinchTargetFailsIfTargetNotUsingPriorityMove",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Si el objetivo usa movimientos de prioridad se anticipa golpeándolo antes y lo amedrenta.",
+    "category": "Physical"
+}

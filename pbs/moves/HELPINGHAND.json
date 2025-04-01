@@ -1,0 +1,15 @@
+{
+    "move": "HELPINGHAND",
+    "name": "Refuerzo",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 5,
+    "target": "NearAlly",
+    "effectChance": 0,
+    "functionCode": "PowerUpAllyMove",
+    "flags": [],
+    "description": "El usuario ayuda a un aliado reforzando la potencia de su ataque.",
+    "category": "Status"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "SHADOWSNEAK",
+    "name": "Sombra Vil",
+    "type": "GHOST",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 30,
+    "priority": 1,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Extiende su sombra y ataca al objetivo por la espalda. Este movimiento siempre va primero.",
+    "category": "Physical"
+}

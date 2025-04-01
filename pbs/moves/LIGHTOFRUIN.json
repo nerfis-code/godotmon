@@ -1,0 +1,19 @@
+{
+    "move": "LIGHTOFRUIN",
+    "name": "Luz Aniquiladora",
+    "type": "FAIRY",
+    "power": 140,
+    "accuracy": 90,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RecoilHalfOfDamageDealt",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Emplea el poder de la Flor Eterna para lanzar un potente rayo de luz pero sufre bastante daño.",
+    "category": "Special"
+}

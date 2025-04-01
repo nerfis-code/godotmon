@@ -1,0 +1,15 @@
+{
+    "move": "SOFTBOILED",
+    "name": "Ovocuración",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "HealUserHalfOfTotalHP",
+    "flags": [],
+    "description": "Restaura la mitad de los PS máximos del usuario. Fuera de combate transfiere PS a un aliado.",
+    "category": "Status"
+}

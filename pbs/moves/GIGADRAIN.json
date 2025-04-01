@@ -1,0 +1,18 @@
+{
+    "move": "GIGADRAIN",
+    "name": "Gigadrenado",
+    "type": "GRASS",
+    "power": 75,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HealUserByHalfOfDamageDone",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Absorbe la mitad del daño producido.",
+    "category": "Special"
+}

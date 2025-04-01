@@ -1,0 +1,19 @@
+{
+    "move": "NUZZLE",
+    "name": "Moflete Estático",
+    "type": "ELECTRIC",
+    "power": 20,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "ParalyzeTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Frota sus mofletes cargados de electricidad contra el Pokémon objetivo y consigue paralizarlo.",
+    "category": "Physical"
+}

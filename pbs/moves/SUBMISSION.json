@@ -1,0 +1,19 @@
+{
+    "move": "SUBMISSION",
+    "name": "Sumisión",
+    "type": "FIGHTING",
+    "power": 80,
+    "accuracy": 80,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RecoilQuarterOfDamageDealt",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Tira al objetivo al suelo. También hiere al agresor.",
+    "category": "Physical"
+}

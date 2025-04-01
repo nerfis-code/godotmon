@@ -1,0 +1,19 @@
+{
+    "move": "SCRATCH",
+    "name": "Arañazo",
+    "type": "NORMAL",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 35,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Araña con afiladas garras.",
+    "category": "Physical"
+}

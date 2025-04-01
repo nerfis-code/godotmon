@@ -1,0 +1,18 @@
+{
+    "move": "PSYCHOSHIFT",
+    "name": "Psicocambio",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "GiveUserStatusToTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Usa su poder mental para transferir al objetivo sus problemas de estado.",
+    "category": "Status"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "FLY",
+    "name": "Vuelo",
+    "type": "FLYING",
+    "power": 90,
+    "accuracy": 95,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "TwoTurnAttackInvulnerableInSky",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Primer turno: vuela. Segundo turno: ataca. Fuera de combate permite ir a sitios ya conocidos.",
+    "category": "Physical"
+}

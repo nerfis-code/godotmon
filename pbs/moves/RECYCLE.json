@@ -1,0 +1,15 @@
+{
+    "move": "RECYCLE",
+    "name": "Reciclaje",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RestoreUserConsumedItem",
+    "flags": [],
+    "description": "Recicla y así recupera el objeto equipado de un solo uso que ya ha sido empleado en el combate.",
+    "category": "Status"
+}

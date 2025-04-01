@@ -1,0 +1,19 @@
+{
+    "move": "TAKEDOWN",
+    "name": "Derribo",
+    "type": "NORMAL",
+    "power": 90,
+    "accuracy": 85,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RecoilQuarterOfDamageDealt",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Carga desmedida que también hiere al agresor.",
+    "category": "Physical"
+}

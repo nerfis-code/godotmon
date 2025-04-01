@@ -1,0 +1,19 @@
+{
+    "move": "PURSUIT",
+    "name": "Persecución",
+    "type": "DARK",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PursueSwitchingFoe",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Hace el doble de daño al objetivo que pide el relevo.",
+    "category": "Physical"
+}

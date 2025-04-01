@@ -1,0 +1,19 @@
+{
+    "move": "AVALANCHE",
+    "name": "Alud",
+    "type": "ICE",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": -4,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfUserLostHPThisTurn",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Este ataque inflige el doble de daño a un objetivo que haya golpeado al usuario en ese mismo turno.",
+    "category": "Physical"
+}

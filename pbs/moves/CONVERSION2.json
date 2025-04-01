@@ -1,0 +1,15 @@
+{
+    "move": "CONVERSION2",
+    "name": "Conversión2",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "SetUserTypesToResistLastAttack",
+    "flags": [],
+    "description": "El usuario cambia de tipo para hacerse resistente al último tipo de movimiento usado por el objetivo.",
+    "category": "Status"
+}

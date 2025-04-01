@@ -1,0 +1,15 @@
+{
+    "move": "GEARUP",
+    "name": "Piñón Auxiliar",
+    "type": "STEEL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "UserAndAllies",
+    "effectChance": 0,
+    "functionCode": "RaisePlusMinusUserAndAlliesAtkSpAtk1",
+    "flags": [],
+    "description": "Cambia de marcha y logra aumentar el Ataque y el Ataque Especial de los Pokémon aliados.",
+    "category": "Status"
+}

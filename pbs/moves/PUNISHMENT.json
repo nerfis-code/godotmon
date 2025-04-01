@@ -1,0 +1,19 @@
+{
+    "move": "PUNISHMENT",
+    "name": "Castigo",
+    "type": "DARK",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithTargetPositiveStatStages",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "La fuerza del ataque aumenta cuanto más se ha fortalecido el rival con cambios de características.",
+    "category": "Physical"
+}

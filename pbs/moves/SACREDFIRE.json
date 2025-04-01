@@ -1,0 +1,19 @@
+{
+    "move": "SACREDFIRE",
+    "name": "Fuego Sagrado",
+    "type": "FIRE",
+    "power": 100,
+    "accuracy": 95,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 50,
+    "functionCode": "BurnTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "ThawsUser"
+    ],
+    "description": "Fuego místico de gran intensidad que puede causar quemaduras.",
+    "category": "Physical"
+}

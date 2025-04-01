@@ -1,0 +1,19 @@
+{
+    "move": "SKITTERSMACK",
+    "name": "Golpe Rastrero",
+    "type": "BUG",
+    "power": 70,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetSpAtk1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca al objetivo por la espalda de forma subrepticia y además reduce su Ataque Especial.",
+    "category": "Physical"
+}

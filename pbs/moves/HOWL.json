@@ -1,0 +1,17 @@
+{
+    "move": "HOWL",
+    "name": "Aullido",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "UserAndAllies",
+    "effectChance": 0,
+    "functionCode": "RaiseTargetAttack1",
+    "flags": [
+        "Sound"
+    ],
+    "description": "Aullido que sube el ánimo y aumenta el Ataque.",
+    "category": "Status"
+}

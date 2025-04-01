@@ -1,0 +1,15 @@
+{
+    "move": "TEATIME",
+    "name": "Hora del Té",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllBattlers",
+    "effectChance": 0,
+    "functionCode": "AllBattlersConsumeBerry",
+    "flags": [],
+    "description": "Invita a tomar el té a todos los presentes en el combate haciendo que ingieran sus bayas equipadas.",
+    "category": "Status"
+}

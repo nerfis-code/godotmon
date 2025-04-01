@@ -1,0 +1,19 @@
+{
+    "move": "ARMTHRUST",
+    "name": "Empujón",
+    "type": "FIGHTING",
+    "power": 15,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoToFiveTimes",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Empujones directos que golpean de dos a cinco veces seguidas.",
+    "category": "Physical"
+}

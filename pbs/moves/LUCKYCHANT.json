@@ -1,0 +1,15 @@
+{
+    "move": "LUCKYCHANT",
+    "name": "Conjuro",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "UserSide",
+    "effectChance": 0,
+    "functionCode": "StartPreventCriticalHitsAgainstUserSide",
+    "flags": [],
+    "description": "Lanza al cielo un conjuro que impide al objetivo asestar golpes críticos.",
+    "category": "Status"
+}

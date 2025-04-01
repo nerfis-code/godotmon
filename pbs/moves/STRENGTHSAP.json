@@ -1,0 +1,18 @@
+{
+    "move": "STRENGTHSAP",
+    "name": "Absorbefuerza",
+    "type": "GRASS",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HealUserByTargetAttackLowerTargetAttack1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Baja el Ataque del rival y restaura una cantidad de PS equivalente al valor de Ataque del rival.",
+    "category": "Status"
+}

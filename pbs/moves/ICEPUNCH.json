@@ -1,0 +1,20 @@
+{
+    "move": "ICEPUNCH",
+    "name": "Puño Hielo",
+    "type": "ICE",
+    "power": 75,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "FreezeTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Punching"
+    ],
+    "description": "Puñetazo helado. Puede congelar.",
+    "category": "Physical"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "GRASSYGLIDE",
+    "name": "Fitoimpulso",
+    "type": "GRASS",
+    "power": 55,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HigherPriorityInGrassyTerrain",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca deslizándose sobre el terreno. Cuando hay campo de hierba tiene prioridad.",
+    "category": "Physical"
+}

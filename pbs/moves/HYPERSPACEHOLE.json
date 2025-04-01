@@ -1,0 +1,18 @@
+{
+    "move": "HYPERSPACEHOLE",
+    "name": "Cerco Dimensión",
+    "type": "PSYCHIC",
+    "power": 80,
+    "accuracy": 0,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RemoveProtectionsBypassSubstitute",
+    "flags": [
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Una ráfaga de golpes que ignoran movimientos como protección. Baja la Defensa del usuario.",
+    "category": "Special"
+}

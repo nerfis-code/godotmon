@@ -1,0 +1,19 @@
+{
+    "move": "RETALIATE",
+    "name": "Represalia",
+    "type": "NORMAL",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfAllyFaintedLastTurn",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Si en el turno anterior han derrotado a un compañero la potencia del ataque aumentará.",
+    "category": "Physical"
+}

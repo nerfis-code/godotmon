@@ -1,0 +1,18 @@
+{
+    "move": "MAXDARKNESS",
+    "name": "Max Darkness",
+    "type": "DARK",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "LowerTargetSideSpDef1",
+    "flags": [
+        "DynamaxMove_DARK",
+        "CannotMetronome"
+    ],
+    "description": "A Dark-type attack Dynamax Pokémon use. This lowers the target's Sp. Def stat.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "type": "QMARKS",
+    "name": "???",
+    "iconPosition": 9,
+    "isSpecialType": false,
+    "isPseudoType": true,
+    "flags": [],
+    "weaknesses": [],
+    "resistances": [],
+    "immunities": []
+}

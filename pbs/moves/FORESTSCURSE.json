@@ -1,0 +1,18 @@
+{
+    "move": "FORESTSCURSE",
+    "name": "Condena Silvana",
+    "type": "GRASS",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AddGrassTypeToTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Presa de la maldición del bosque el rival pasa a ser de tipo Planta además de los suyos.",
+    "category": "Status"
+}

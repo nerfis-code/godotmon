@@ -1,0 +1,19 @@
+{
+    "move": "LASTRESORT",
+    "name": "Última Baza",
+    "type": "NORMAL",
+    "power": 140,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "FailsIfUserHasUnusedMove",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Este movimiento solo puede usarse tras haber usado s los demás conocidos por el Pokémon.",
+    "category": "Physical"
+}

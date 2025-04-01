@@ -1,0 +1,19 @@
+{
+    "move": "AERIALACE",
+    "name": "Golpe Aéreo",
+    "type": "FLYING",
+    "power": 60,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario lanza un ataque muy rápido e ineludible.",
+    "category": "Physical"
+}

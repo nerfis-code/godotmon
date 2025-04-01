@@ -1,0 +1,15 @@
+{
+    "move": "MORNINGSUN",
+    "name": "Sol Matinal",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "HealUserDependingOnWeather",
+    "flags": [],
+    "description": "Restaura PS del usuario. La cantidad varía según el tiempo que haga.",
+    "category": "Status"
+}

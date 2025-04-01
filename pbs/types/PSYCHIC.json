@@ -1,0 +1,18 @@
+{
+    "type": "PSYCHIC",
+    "name": "Psychic",
+    "iconPosition": 14,
+    "isSpecialType": true,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "BUG",
+        "GHOST",
+        "DARK"
+    ],
+    "resistances": [
+        "FIGHTING",
+        "PSYCHIC"
+    ],
+    "immunities": []
+}

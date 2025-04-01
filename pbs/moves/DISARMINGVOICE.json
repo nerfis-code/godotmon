@@ -1,0 +1,19 @@
+{
+    "move": "DISARMINGVOICE",
+    "name": "Voz Cautivadora",
+    "type": "FAIRY",
+    "power": 40,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Obnubila a los oponentes con su voz y les provoca daños emocionales. Siempre acierta.",
+    "category": "Special"
+}

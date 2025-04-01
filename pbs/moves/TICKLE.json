@@ -1,0 +1,18 @@
+{
+    "move": "TICKLE",
+    "name": "Cosquillas",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetAtkDef1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Hace reír al objetivo para bajar el Ataque y la Defensa.",
+    "category": "Status"
+}

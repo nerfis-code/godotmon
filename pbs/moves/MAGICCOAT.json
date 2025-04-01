@@ -1,0 +1,15 @@
+{
+    "move": "MAGICCOAT",
+    "name": "Capa Mágica",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 4,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "BounceBackProblemCausingStatusMoves",
+    "flags": [],
+    "description": "Barrera capaz de devolver al agresor movimientos como drenadoras y que alteran el estado.",
+    "category": "Status"
+}

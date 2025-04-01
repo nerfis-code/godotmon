@@ -1,0 +1,20 @@
+{
+    "move": "STEAMERUPTION",
+    "name": "Chorro de Vapor",
+    "type": "WATER",
+    "power": 110,
+    "accuracy": 95,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "BurnTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "ThawsUser",
+        "CannotMetronome"
+    ],
+    "description": "Envuelve al Pokémon oponente con vapor extremadamente caliente que puede llegar a quemarlo.",
+    "category": "Special"
+}

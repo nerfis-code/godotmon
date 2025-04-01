@@ -1,0 +1,19 @@
+{
+    "move": "WAVECRASH",
+    "name": "Envite Acuático",
+    "type": "WATER",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "RecoilThirdOfDamageDealt",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario se envuelve en agua y embiste contra el objetivo pero también se hiere seriamente a sí mismo.",
+    "category": "Physical"
+}

@@ -1,0 +1,15 @@
+{
+    "move": "QUICKGUARD",
+    "name": "Anticipo",
+    "type": "FIGHTING",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 3,
+    "target": "UserSide",
+    "effectChance": 0,
+    "functionCode": "ProtectUserSideFromPriorityMoves",
+    "flags": [],
+    "description": "Protege a  el equipo de ataques con prioridad. Puede fallar si se utiliza repetidamente.",
+    "category": "Status"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "TRICKORTREAT",
+    "name": "Halloween",
+    "type": "GHOST",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AddGhostTypeToTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Invita al objetivo a celebrar Halloween volviéndolo de tipo Fantasma además de los suyos.",
+    "category": "Status"
+}

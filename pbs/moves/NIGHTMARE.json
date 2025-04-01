@@ -1,0 +1,18 @@
+{
+    "move": "NIGHTMARE",
+    "name": "Pesadilla",
+    "type": "GHOST",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "StartDamageTargetEachTurnIfTargetAsleep",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El objetivo dormido sufre una pesadilla que le hace perder PS en cada turno.",
+    "category": "Status"
+}

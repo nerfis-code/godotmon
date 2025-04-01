@@ -1,0 +1,19 @@
+{
+    "move": "SING",
+    "name": "Canto",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 55,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "SleepTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Cancioncilla que hace dormir profundamente al objetivo.",
+    "category": "Status"
+}

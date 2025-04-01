@@ -1,0 +1,18 @@
+{
+    "move": "GMAXFINALE",
+    "name": "G-Max Finale",
+    "type": "FAIRY",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "HealUserSideOneSixthOfTotalHP",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Alcremie. Heals the HP of all ally Pokémon.",
+    "category": "Physical"
+}

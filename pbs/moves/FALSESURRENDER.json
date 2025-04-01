@@ -1,0 +1,20 @@
+{
+    "move": "FALSESURRENDER",
+    "name": "Irreverencia",
+    "type": "DARK",
+    "power": 80,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El usuario finge hacer una reverencia y ensarta al objetivo con su cabello alborotado. No falla.",
+    "category": "Physical"
+}

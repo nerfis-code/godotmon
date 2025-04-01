@@ -1,0 +1,18 @@
+{
+    "move": "HIDDENPOWER",
+    "name": "Poder Oculto",
+    "type": "NORMAL",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TypeDependsOnUserIVs",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque único cuyo tipo y potencia varían según el agresor.",
+    "category": "Special"
+}

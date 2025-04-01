@@ -1,0 +1,18 @@
+{
+    "move": "BLOODMOON",
+    "name": "Luna Roja",
+    "type": "NORMAL",
+    "power": 140,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "CantSelectConsecutiveTurns",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca con toda su fuerza a través de una luna roja. No puede usarse dos veces seguidas.",
+    "category": "Special"
+}

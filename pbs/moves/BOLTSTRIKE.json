@@ -1,0 +1,19 @@
+{
+    "move": "BOLTSTRIKE",
+    "name": "Ataque Fulgor",
+    "type": "ELECTRIC",
+    "power": 130,
+    "accuracy": 85,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 20,
+    "functionCode": "ParalyzeTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca envolviéndose de una gran carga eléctrica y embistiendo al objetivo con ella. Puede paralizar.",
+    "category": "Physical"
+}

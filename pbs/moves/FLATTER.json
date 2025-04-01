@@ -1,0 +1,18 @@
+{
+    "move": "FLATTER",
+    "name": "Camelo",
+    "type": "DARK",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RaiseTargetSpAtk1ConfuseTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Halaga al objetivo y lo confunde pero también sube su Ataque Especial.",
+    "category": "Status"
+}

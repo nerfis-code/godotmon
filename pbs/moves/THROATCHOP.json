@@ -1,0 +1,19 @@
+{
+    "move": "THROATCHOP",
+    "name": "Golpe Mordaza",
+    "type": "DARK",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "DisableTargetSoundMoves",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Inflige al rival un dolor tan abrumador que le impide utilizar durante dos turnos ataques sonoros.",
+    "category": "Physical"
+}

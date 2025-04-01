@@ -1,0 +1,18 @@
+{
+    "move": "TECTONICRAGE",
+    "name": "Tectonic Rage",
+    "type": "GROUND",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove_GROUND",
+        "CannotMetronome"
+    ],
+    "description": "The user burrows deep into the ground and slams into the target with the full force of its Z-Power.",
+    "category": "Physical"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "SUPERFANG",
+    "name": "Superdiente",
+    "type": "NORMAL",
+    "power": 1,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "FixedDamageHalfTargetHP",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Finos colmillos que reducen a la mitad los PS del objetivo.",
+    "category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "YAWN",
+    "name": "Bostezo",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "SleepTargetNextTurn",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Gran bostezo que induce al sueño al objetivo en el siguiente turno.",
+    "category": "Status"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "UPROAR",
+    "name": "Alboroto",
+    "type": "NORMAL",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "RandomNearFoe",
+    "effectChance": 0,
+    "functionCode": "MultiTurnAttackPreventSleeping",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Ataca de forma alborotada durante tres turnos. Mantiene despiertos a todos.",
+    "category": "Special"
+}

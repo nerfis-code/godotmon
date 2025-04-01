@@ -1,0 +1,19 @@
+{
+    "move": "POISONJAB",
+    "name": "Puya Nociva",
+    "type": "POISON",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "PoisonTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Pincha al rival con un tentáculo o brazo envenenado. Puede llegar a envenenar al rival.",
+    "category": "Physical"
+}

@@ -1,0 +1,20 @@
+{
+    "move": "COMETPUNCH",
+    "name": "Puño Cometa",
+    "type": "NORMAL",
+    "power": 18,
+    "accuracy": 85,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoToFiveTimes",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Punching"
+    ],
+    "description": "Pega de dos a cinco veces seguidas.",
+    "category": "Physical"
+}

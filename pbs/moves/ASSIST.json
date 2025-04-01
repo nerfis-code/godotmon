@@ -1,0 +1,15 @@
+{
+    "move": "ASSIST",
+    "name": "Ayuda",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "UseRandomMoveFromUserParty",
+    "flags": [],
+    "description": "Usa un movimiento de un miembro del equipo elegido al azar.",
+    "category": "Status"
+}

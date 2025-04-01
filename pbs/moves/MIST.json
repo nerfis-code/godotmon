@@ -1,0 +1,15 @@
+{
+    "move": "MIST",
+    "name": "Neblina",
+    "type": "ICE",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "UserSide",
+    "effectChance": 0,
+    "functionCode": "StartUserSideImmunityToStatStageLowering",
+    "flags": [],
+    "description": "Rodea de fina niebla al usuario y protege las características de su equipo durante cinco turnos.",
+    "category": "Status"
+}

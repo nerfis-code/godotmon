@@ -1,0 +1,18 @@
+{
+    "move": "WATERPLEDGE",
+    "name": "Voto Agua",
+    "type": "WATER",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "WaterPledge",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca con columnas de agua. Combinado con un Voto Fuego crea un arcoíris.",
+    "category": "Special"
+}

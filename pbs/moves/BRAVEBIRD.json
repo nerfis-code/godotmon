@@ -1,0 +1,19 @@
+{
+    "move": "BRAVEBIRD",
+    "name": "Pájaro Osado",
+    "type": "FLYING",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "RecoilThirdOfDamageDealt",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Pliega sus alas y ataca con un vuelo rasante. El Pokémon que lo usa también resulta dañado.",
+    "category": "Physical"
+}

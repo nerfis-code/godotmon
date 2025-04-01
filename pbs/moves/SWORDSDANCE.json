@@ -1,0 +1,17 @@
+{
+    "move": "SWORDSDANCE",
+    "name": "Danza Espada",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserAttack2",
+    "flags": [
+        "Dance"
+    ],
+    "description": "Baile frenético que aumenta mucho el Ataque.",
+    "category": "Status"
+}

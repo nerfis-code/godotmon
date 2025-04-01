@@ -1,0 +1,17 @@
+{
+    "move": "PLAYNICE",
+    "name": "Camaradería",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetAttack1BypassSubstitute",
+    "flags": [
+        "CanMirrorMove"
+    ],
+    "description": "Se hace amigo de su oponente y consigue que no quiera combatir. Además reduce su Ataque.",
+    "category": "Status"
+}

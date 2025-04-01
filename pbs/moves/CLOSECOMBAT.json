@@ -1,0 +1,19 @@
+{
+    "move": "CLOSECOMBAT",
+    "name": "A Bocajarro",
+    "type": "FIGHTING",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerUserDefSpDef1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lucha abiertamente contra el rival. Reduce la Defensa y la Defensa Especial del usuario.",
+    "category": "Physical"
+}

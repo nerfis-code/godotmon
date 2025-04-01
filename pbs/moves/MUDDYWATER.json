@@ -1,0 +1,18 @@
+{
+    "move": "MUDDYWATER",
+    "name": "Agua Lodosa",
+    "type": "WATER",
+    "power": 90,
+    "accuracy": 85,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 30,
+    "functionCode": "LowerTargetAccuracy1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque con agua lodosa que puede bajar la Precisión.",
+    "category": "Special"
+}

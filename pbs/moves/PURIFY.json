@@ -1,0 +1,18 @@
+{
+    "move": "PURIFY",
+    "name": "Purificación",
+    "type": "POISON",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "CureTargetStatusHealUserHalfOfTotalHP",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Cura los problemas de estado del Pokémon rival y a cambio recupera PS propios.",
+    "category": "Status"
+}

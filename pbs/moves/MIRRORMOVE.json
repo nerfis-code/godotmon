@@ -1,0 +1,15 @@
+{
+    "move": "MIRRORMOVE",
+    "name": "Espejo",
+    "type": "FLYING",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UseLastMoveUsedByTarget",
+    "flags": [],
+    "description": "Contraataca con el mismo movimiento empleado por el objetivo.",
+    "category": "Status"
+}

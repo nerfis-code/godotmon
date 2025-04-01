@@ -1,0 +1,18 @@
+{
+    "move": "PARABOLICCHARGE",
+    "name": "Carga Parábola",
+    "type": "ELECTRIC",
+    "power": 65,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "AllNearOthers",
+    "effectChance": 0,
+    "functionCode": "HealUserByHalfOfDamageDone",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Inflige daño a los Pokémon a su alrededor absorbiendo la mitad del daño producido.",
+    "category": "Special"
+}

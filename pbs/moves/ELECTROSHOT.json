@@ -1,0 +1,18 @@
+{
+    "move": "ELECTROSHOT",
+    "name": "Electrorrayo",
+    "type": "ELECTRIC",
+    "power": 130,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "TwoTurnAttackOneTurnInRainRaiseUserSpAtk1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "1º turno: acumula electricidad y aumenta At. Esp. 2º turno: ataca. Si llueve ataca el 1º turno.",
+    "category": "Special"
+}

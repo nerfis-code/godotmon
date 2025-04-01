@@ -1,0 +1,19 @@
+{
+    "move": "STONEEDGE",
+    "name": "Roca Afilada",
+    "type": "ROCK",
+    "power": 100,
+    "accuracy": 80,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Clava piedras muy afiladas al objetivo. Suele ser crítico.",
+    "category": "Physical"
+}

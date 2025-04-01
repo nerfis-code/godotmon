@@ -1,0 +1,18 @@
+{
+    "move": "GMAXDEPLETION",
+    "name": "G-Max Depletion",
+    "type": "DRAGON",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "LowerPPOfTargetSideLastMoveBy2",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Duraludon. Reduces the PP of the last move used by the target.",
+    "category": "Physical"
+}

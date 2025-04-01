@@ -1,0 +1,19 @@
+{
+    "move": "NEEDLEARM",
+    "name": "Brazo Pincho",
+    "type": "GRASS",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Pega con brazos de pinchos y puede amedrentar al objetivo.",
+    "category": "Physical"
+}

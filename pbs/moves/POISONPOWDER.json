@@ -1,0 +1,19 @@
+{
+    "move": "POISONPOWDER",
+    "name": "Polvo Veneno",
+    "type": "POISON",
+    "power": 0,
+    "accuracy": 75,
+    "totalPP": 35,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PoisonTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Powder"
+    ],
+    "description": "Polvo tóxico que envenena al objetivo.",
+    "category": "Status"
+}

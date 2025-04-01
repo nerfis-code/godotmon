@@ -1,0 +1,20 @@
+{
+    "move": "BITTERBLADE",
+    "name": "Espada Lamento",
+    "type": "FIRE",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HealUserByHalfOfDamageDone",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "Slicing",
+        "CanMirrorMove"
+    ],
+    "description": "Asesta una estocada llena de rencor. Recupera la mitad de los PS del daño que produce.",
+    "category": "Physical"
+}

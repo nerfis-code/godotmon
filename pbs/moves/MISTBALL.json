@@ -1,0 +1,19 @@
+{
+    "move": "MISTBALL",
+    "name": "Bola Neblina",
+    "type": "PSYCHIC",
+    "power": 95,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 50,
+    "functionCode": "LowerTargetSpAtk1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Banco de niebla que puede bajar el Ataque Especial del objetivo.",
+    "category": "Special"
+}

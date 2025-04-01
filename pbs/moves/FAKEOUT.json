@@ -1,0 +1,19 @@
+{
+    "move": "FAKEOUT",
+    "name": "Sorpresa",
+    "type": "NORMAL",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 3,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "FlinchTargetFailsIfNotUserFirstTurn",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca primero y además amedrenta al rival. Solo sirve en el primer turno.",
+    "category": "Physical"
+}

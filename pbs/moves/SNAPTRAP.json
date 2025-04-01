@@ -1,0 +1,20 @@
+{
+    "move": "SNAPTRAP",
+    "name": "Cepo",
+    "type": "GRASS",
+    "power": 35,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "BindTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El usuario ensarta al objetivo en un cepo de cuatro a cinco turnos.",
+    "category": "Physical"
+}

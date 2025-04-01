@@ -1,0 +1,18 @@
+{
+    "move": "GUST",
+    "name": "Tornado",
+    "type": "FLYING",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 35,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfTargetInSky",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Crea un tornado con las alas y lo lanza contra el objetivo.",
+    "category": "Special"
+}

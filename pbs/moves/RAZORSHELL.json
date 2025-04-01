@@ -1,0 +1,19 @@
+{
+    "move": "RAZORSHELL",
+    "name": "Concha Filo",
+    "type": "WATER",
+    "power": 75,
+    "accuracy": 95,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 50,
+    "functionCode": "LowerTargetDefense1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Una afilada vieira ataca al objetivo. También puede hacer disminuir su Defensa.",
+    "category": "Physical"
+}

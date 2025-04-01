@@ -1,0 +1,18 @@
+{
+    "move": "GMAXONEBLOW",
+    "name": "G-Max One Blow",
+    "type": "DARK",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "IgnoreProtections",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Urshifu. This single-strike move can ignore Max Guard.",
+    "category": "Physical"
+}

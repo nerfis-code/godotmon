@@ -1,0 +1,18 @@
+{
+    "move": "BARBBARRAGE",
+    "name": "Mil Púas Tóxicas",
+    "type": "POISON",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 50,
+    "functionCode": "DoublePowerIfTargetPoisonedPoisonTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Dispara púas tóxicas que pueden envenenar al objetivo. Duplica la potencia si está envenenado.",
+    "category": "Physical"
+}

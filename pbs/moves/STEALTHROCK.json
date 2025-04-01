@@ -1,0 +1,15 @@
+{
+    "move": "STEALTHROCK",
+    "name": "Trampa Rocas",
+    "type": "ROCK",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "FoeSide",
+    "effectChance": 0,
+    "functionCode": "AddStealthRocksToFoeSide",
+    "flags": [],
+    "description": "Una trampa de rocas que flota en el aire y daña a los objetivos que entran en combate.",
+    "category": "Status"
+}

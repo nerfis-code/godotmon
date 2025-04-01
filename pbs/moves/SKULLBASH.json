@@ -1,0 +1,19 @@
+{
+    "move": "SKULLBASH",
+    "name": "Cabezazo",
+    "type": "NORMAL",
+    "power": 130,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TwoTurnAttackChargeRaiseUserDefense1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Primer turno: se prepara y sube la Defensa. Segundo turno: da el cabezazo.",
+    "category": "Physical"
+}

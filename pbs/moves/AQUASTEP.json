@@ -1,0 +1,20 @@
+{
+    "move": "AQUASTEP",
+    "name": "Danza Acuática",
+    "type": "WATER",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "RaiseUserSpeed1",
+    "flags": [
+        "Dance",
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ejecuta una elegante y fluida danza y le inflige daño. Aumenta la Velocidad del usuario.",
+    "category": "Physical"
+}

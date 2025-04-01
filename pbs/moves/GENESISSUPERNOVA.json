@@ -1,0 +1,18 @@
+{
+    "move": "GENESISSUPERNOVA",
+    "name": "Genesis Supernova",
+    "type": "PSYCHIC",
+    "power": 185,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "DamageTargetStartPsychicTerrain",
+    "flags": [
+        "ZMove",
+        "CannotMetronome"
+    ],
+    "description": "Mew attacks the target with full force. The terrain will be charged with psychic energy.",
+    "category": "Special"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "FISSURE",
+    "name": "Fisura",
+    "type": "GROUND",
+    "power": 1,
+    "accuracy": 30,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "OHKOHitsUndergroundTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Abre una grieta en el suelo y mete al objetivo en ella. Fulmina en un golpe.",
+    "category": "Physical"
+}

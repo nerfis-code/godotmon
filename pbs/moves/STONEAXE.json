@@ -1,0 +1,20 @@
+{
+    "move": "STONEAXE",
+    "name": "Hachazo Pétreo",
+    "type": "ROCK",
+    "power": 65,
+    "accuracy": 90,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "DamageTargetAddStealthRocksToFoeSide",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Slicing"
+    ],
+    "description": "Ataca con un hacha de piedra y al hacerlo se deprenden fragmentos que rodean al objetivo.",
+    "category": "Physical"
+}

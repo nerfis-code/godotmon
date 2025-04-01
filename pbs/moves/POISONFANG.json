@@ -1,0 +1,20 @@
+{
+    "move": "POISONFANG",
+    "name": "Colmillo Veneno",
+    "type": "POISON",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 50,
+    "functionCode": "BadPoisonTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Biting"
+    ],
+    "description": "Colmillos tóxicos que pueden envenenar gravemente al objetivo.",
+    "category": "Physical"
+}

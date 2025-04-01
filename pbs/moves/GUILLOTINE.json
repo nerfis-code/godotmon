@@ -1,0 +1,19 @@
+{
+    "move": "GUILLOTINE",
+    "name": "Guillotina",
+    "type": "NORMAL",
+    "power": 1,
+    "accuracy": 30,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "OHKO",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque con pinzas que debilita al oponente de un golpe si acierta.",
+    "category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "FIRESPIN",
+    "name": "Giro Fuego",
+    "type": "FIRE",
+    "power": 35,
+    "accuracy": 85,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "BindTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Un aro de fuego que atrapa al objetivo de cuatro a cinco turnos.",
+    "category": "Special"
+}

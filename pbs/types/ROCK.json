@@ -1,0 +1,22 @@
+{
+    "type": "ROCK",
+    "name": "Rock",
+    "iconPosition": 5,
+    "isSpecialType": false,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "FIGHTING",
+        "GROUND",
+        "STEEL",
+        "WATER",
+        "GRASS"
+    ],
+    "resistances": [
+        "NORMAL",
+        "FLYING",
+        "POISON",
+        "FIRE"
+    ],
+    "immunities": []
+}

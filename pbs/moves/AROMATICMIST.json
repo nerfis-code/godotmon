@@ -1,0 +1,15 @@
+{
+    "move": "AROMATICMIST",
+    "name": "Niebla Aromática",
+    "type": "FAIRY",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearAlly",
+    "effectChance": 0,
+    "functionCode": "RaiseTargetSpDef1",
+    "flags": [],
+    "description": "Consigue aumentar la Defensa Especial de un Pokémon de su equipo con una fragancia misteriosa.",
+    "category": "Status"
+}

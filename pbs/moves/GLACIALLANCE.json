@@ -1,0 +1,19 @@
+{
+    "move": "GLACIALLANCE",
+    "name": "Lanza Glacial",
+    "type": "ICE",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El usuario ataca lanzando una poderosa lanza de hielo que daña a ambos rivales.",
+    "category": "Physical"
+}

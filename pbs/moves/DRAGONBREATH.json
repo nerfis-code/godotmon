@@ -1,0 +1,18 @@
+{
+    "move": "DRAGONBREATH",
+    "name": "Dragoaliento",
+    "type": "DRAGON",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "ParalyzeTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Poderosa ráfaga de aliento que golpea al objetivo y puede paralizarlo.",
+    "category": "Special"
+}

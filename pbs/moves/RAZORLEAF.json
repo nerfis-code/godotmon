@@ -1,0 +1,19 @@
+{
+    "move": "RAZORLEAF",
+    "name": "Hoja Afilada",
+    "type": "GRASS",
+    "power": 55,
+    "accuracy": 95,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Corta con hojas afiladas. Suele ser crítico.",
+    "category": "Physical"
+}

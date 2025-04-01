@@ -1,0 +1,18 @@
+{
+    "move": "ENTRAINMENT",
+    "name": "Danza Amiga",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "SetTargetAbilityToUserAbility",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Una extraña danza que hace que el usuario y el objetivo tengan la misma habilidad.",
+    "category": "Status"
+}

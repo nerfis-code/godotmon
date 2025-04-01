@@ -1,0 +1,19 @@
+{
+    "move": "CIRCLETHROW",
+    "name": "Llave Giro",
+    "type": "FIGHTING",
+    "power": 60,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": -6,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "SwitchOutTargetDamagingMove",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza por los aires al objetivo y hace que salga otro Pokémon. Si es uno salvaje acaba el combate.",
+    "category": "Physical"
+}

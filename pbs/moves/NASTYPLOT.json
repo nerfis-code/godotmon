@@ -1,0 +1,15 @@
+{
+    "move": "NASTYPLOT",
+    "name": "Maquinación",
+    "type": "DARK",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserSpAtk2",
+    "flags": [],
+    "description": "Estimula su cerebro pensando en cosas malas. Aumenta considerablemente el Ataque Especial.",
+    "category": "Status"
+}

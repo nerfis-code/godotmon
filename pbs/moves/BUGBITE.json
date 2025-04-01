@@ -1,0 +1,19 @@
+{
+    "move": "BUGBITE",
+    "name": "Picadura",
+    "type": "BUG",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UserConsumeTargetBerry",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Pica al rival. Si el adversario lleva una Baya el agresor se la come y se beneficia de su efecto.",
+    "category": "Physical"
+}

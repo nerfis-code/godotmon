@@ -1,0 +1,19 @@
+{
+    "move": "TRUMPCARD",
+    "name": "As Oculto",
+    "type": "NORMAL",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithLessPP",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Cuantos menos PP tenga el movimiento mayor será la fuerza para atacar.",
+    "category": "Special"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "SCORCHINGSANDS",
+    "name": "Arenas Ardientes",
+    "type": "GROUND",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "BurnTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "ThawsUser"
+    ],
+    "description": "Ataca al objetivo arrojándole arena a temperaturas muy elevadas. Puede causar quemaduras.",
+    "category": "Special"
+}

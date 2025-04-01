@@ -1,0 +1,19 @@
+{
+    "move": "PLUCK",
+    "name": "Picoteo",
+    "type": "FLYING",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "UserConsumeTargetBerry",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Picotea al objetivo. Si este sostiene una Baya la picotea también y obtiene sus efectos.",
+    "category": "Physical"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "MORTALSPIN",
+    "name": "Giro Mortífero",
+    "type": "POISON",
+    "power": 30,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 100,
+    "functionCode": "RemoveUserBindingAndEntryHazardsPoisonTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque giratorio que envenena al objetivo y anula efectos como atadura constricción y drenadoras.",
+    "category": "Physical"
+}

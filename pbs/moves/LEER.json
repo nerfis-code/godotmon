@@ -1,0 +1,18 @@
+{
+    "move": "LEER",
+    "name": "Malicioso",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "LowerTargetDefense1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Intimida al objetivo para bajar su Defensa.",
+    "category": "Status"
+}

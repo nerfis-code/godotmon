@@ -1,0 +1,21 @@
+{
+    "move": "JETPUNCH",
+    "name": "Puño Jet",
+    "type": "WATER",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 1,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome",
+        "Punching"
+    ],
+    "description": "Envuelve el puño con un torrente y propina un golpe de alta prioridad.",
+    "category": "Physical"
+}

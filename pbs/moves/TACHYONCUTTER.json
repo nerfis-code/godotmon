@@ -1,0 +1,19 @@
+{
+    "move": "TACHYONCUTTER",
+    "name": "Tajo Taquión",
+    "type": "STEEL",
+    "power": 50,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoTimes",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Slicing"
+    ],
+    "description": "Ráfaga de cuchillas formadas por partículas que inflige daño dos veces seguidas. No falla.",
+    "category": "Special"
+}

@@ -1,0 +1,15 @@
+{
+    "move": "HARDEN",
+    "name": "Fortaleza",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserDefense1",
+    "flags": [],
+    "description": "Tensa la musculatura del usuario para aumentar la Defensa.",
+    "category": "Status"
+}

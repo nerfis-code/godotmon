@@ -1,0 +1,18 @@
+{
+    "move": "GRASSPLEDGE",
+    "name": "Voto Planta",
+    "type": "GRASS",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "GrassPledge",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca con columnas de hojas. Combinado con Voto Agua crea un pantano y aumenta su potencia.",
+    "category": "Special"
+}

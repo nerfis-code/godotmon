@@ -1,0 +1,17 @@
+{
+    "move": "FLORALHEALING",
+    "name": "Cura Floral",
+    "type": "FAIRY",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HealTargetDependingOnGrassyTerrain",
+    "flags": [
+        "CanProtect"
+    ],
+    "description": "Restaura la mitad de los PS máximos del objetivo. Cura más con campo de hierba.",
+    "category": "Status"
+}

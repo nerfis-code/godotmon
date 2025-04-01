@@ -1,0 +1,19 @@
+{
+    "move": "RAPIDSPIN",
+    "name": "Giro Rápido",
+    "type": "NORMAL",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "RemoveUserBindingAndEntryHazards",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque giratorio que sube la Velocidad y elimina movimientos como atadura drenadoras o púas.",
+    "category": "Physical"
+}

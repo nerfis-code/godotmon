@@ -1,0 +1,18 @@
+{
+    "move": "ICESHARD",
+    "name": "Esquirla Helada",
+    "type": "ICE",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 30,
+    "priority": 1,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Crea bolas de hielo y las lanza a gran velocidad. Este movimiento siempre va primero.",
+    "category": "Physical"
+}

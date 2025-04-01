@@ -1,0 +1,17 @@
+{
+    "move": "TEARFULLOOK",
+    "name": "Ojos Llorosos",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetAtkSpAtk1",
+    "flags": [
+        "CanMirrorMove"
+    ],
+    "description": "Mira al objetivo para hacerle perder su espíritu combativo y reduce su Ataque y Ataque Especial.",
+    "category": "Status"
+}

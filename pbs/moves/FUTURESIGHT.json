@@ -1,0 +1,15 @@
+{
+    "move": "FUTURESIGHT",
+    "name": "Premonición",
+    "type": "PSYCHIC",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AttackTwoTurnsLater",
+    "flags": [],
+    "description": "Concentra energía psíquica para golpear al objetivo dos turnos después.",
+    "category": "Special"
+}

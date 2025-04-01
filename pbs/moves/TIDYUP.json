@@ -1,0 +1,17 @@
+{
+    "move": "TIDYUP",
+    "name": "Limpieza General",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "RaiseUserAtkSpd1RemoveHazardsSubstitutes",
+    "flags": [
+        "CannotMetronome"
+    ],
+    "description": "Aumenta el Ataque y la Velocidad. Limpia efectos de efectos como Púas Trampa Rocas o Sustituto.",
+    "category": "Status"
+}

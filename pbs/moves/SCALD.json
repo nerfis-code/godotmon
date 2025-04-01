@@ -1,0 +1,19 @@
+{
+    "move": "SCALD",
+    "name": "Escaldar",
+    "type": "WATER",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "BurnTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "ThawsUser"
+    ],
+    "description": "Ataca arrojando agua hirviendo al objetivo. Puede causar quemaduras.",
+    "category": "Special"
+}

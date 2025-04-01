@@ -1,0 +1,19 @@
+{
+    "move": "WRAP",
+    "name": "Constricción",
+    "type": "NORMAL",
+    "power": 15,
+    "accuracy": 90,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "BindTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Oprime al objetivo de cuatro a cinco turnos con ramas o con su cuerpo.",
+    "category": "Physical"
+}

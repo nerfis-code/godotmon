@@ -1,0 +1,19 @@
+{
+    "move": "KNOCKOFF",
+    "name": "Desarme",
+    "type": "DARK",
+    "power": 65,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RemoveTargetItem",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Impide al objetivo usar el objeto que lleva durante el combate.",
+    "category": "Physical"
+}

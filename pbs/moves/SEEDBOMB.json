@@ -1,0 +1,19 @@
+{
+    "move": "SEEDBOMB",
+    "name": "Bomba Germen",
+    "type": "GRASS",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Lanza al objetivo una descarga de semillas explosivas desde arriba.",
+    "category": "Physical"
+}

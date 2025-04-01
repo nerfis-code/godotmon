@@ -1,0 +1,18 @@
+{
+    "move": "MALIGNANTCHAIN",
+    "name": "Cadena Virulenta",
+    "type": "POISON",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 50,
+    "functionCode": "BadPoisonTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Apresa al objetivo con una cadena para minarle las fuerzas. Puede envenenar gravemente.",
+    "category": "Special"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "PULVERIZINGPANCAKE",
+    "name": "Pulverizing Pancake",
+    "type": "NORMAL",
+    "power": 210,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove",
+        "Contact",
+        "CannotMetronome"
+    ],
+    "description": "Snorlax moves its enormous body energetically and attacks the target with full force.",
+    "category": "Physical"
+}

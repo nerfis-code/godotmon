@@ -1,0 +1,20 @@
+{
+    "move": "ELECTRODRIFT",
+    "name": "Electroderrape",
+    "type": "ELECTRIC",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "IncreasePowerSuperEffective",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Se abalanza mientras se transforma y atraviesa al rival. La potencia aumenta si es supereficaz.",
+    "category": "Special"
+}

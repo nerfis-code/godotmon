@@ -1,0 +1,15 @@
+{
+    "move": "AURORAVEIL",
+    "name": "Velo Aurora",
+    "type": "ICE",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "UserSide",
+    "effectChance": 0,
+    "functionCode": "StartWeakenDamageAgainstUserSideIfHail",
+    "flags": [],
+    "description": "Reduce el daño de los ataques físicos y especiales que ejecuta el rival durante cinco turnos. Solo puede usarse cuando está nevando.",
+    "category": "Status"
+}

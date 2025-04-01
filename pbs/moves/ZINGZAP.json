@@ -1,0 +1,19 @@
+{
+    "move": "ZINGZAP",
+    "name": "Electropunzada",
+    "type": "ELECTRIC",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario se lanza contra el objetivo y le suelta una potente descarga que puede amedrentarlo.",
+    "category": "Physical"
+}

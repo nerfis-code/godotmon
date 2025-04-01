@@ -1,0 +1,15 @@
+{
+    "move": "INGRAIN",
+    "name": "Arraigo",
+    "type": "GRASS",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "StartHealUserEachTurnTrapUserInBattle",
+    "flags": [],
+    "description": "Echa raíces para recuperar PS en cada turno pero impide el relevo.",
+    "category": "Status"
+}

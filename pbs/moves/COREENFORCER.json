@@ -1,0 +1,18 @@
+{
+    "move": "COREENFORCER",
+    "name": "Núcleo Castigo",
+    "type": "DRAGON",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "NegateTargetAbilityIfTargetActed",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Inflige daño al rival y si este ya ha hecho uso de algún movimiento pierde su habilidad.",
+    "category": "Special"
+}

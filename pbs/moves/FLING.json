@@ -1,0 +1,18 @@
+{
+    "move": "FLING",
+    "name": "Lanzamiento",
+    "type": "DARK",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "ThrowUserItemAtTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza contra el objetivo su objeto. La fuerza del ataque y su efecto varían según el objeto.",
+    "category": "Physical"
+}

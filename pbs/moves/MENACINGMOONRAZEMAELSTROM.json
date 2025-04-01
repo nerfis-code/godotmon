@@ -1,0 +1,18 @@
+{
+    "move": "MENACINGMOONRAZEMAELSTROM",
+    "name": "Menacing Moonraze Maelstrom",
+    "type": "GHOST",
+    "power": 200,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "IgnoreTargetAbility",
+    "flags": [
+        "ZMove",
+        "CannotMetronome"
+    ],
+    "description": "Lunala attacks the target with full force and ignores the target's Ability.",
+    "category": "Special"
+}

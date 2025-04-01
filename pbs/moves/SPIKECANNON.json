@@ -1,0 +1,18 @@
+{
+    "move": "SPIKECANNON",
+    "name": "Clavo Cañón",
+    "type": "NORMAL",
+    "power": 20,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoToFiveTimes",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza finas púas que hieren de dos a cinco veces.",
+    "category": "Physical"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "BLEAKWINDSTORM",
+    "name": "Vendaval Gélido",
+    "type": "FLYING",
+    "power": 100,
+    "accuracy": 80,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 30,
+    "functionCode": "LowerTargetSpeed1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Wind"
+    ],
+    "description": "Viento muy frío que estremece el cuerpo y puede reducir la Velocidad del objetivo.",
+    "category": "Special"
+}

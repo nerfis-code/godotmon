@@ -1,0 +1,18 @@
+{
+    "move": "MOONBLAST",
+    "name": "Fuerza Lunar",
+    "type": "FAIRY",
+    "power": 95,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "LowerTargetSpAtk1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Invoca el poder de la luna para atacar. Puede disminuir el Ataque Especial del objetivo.",
+    "category": "Special"
+}

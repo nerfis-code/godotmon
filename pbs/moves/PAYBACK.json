@@ -1,0 +1,19 @@
+{
+    "move": "PAYBACK",
+    "name": "Vendetta",
+    "type": "DARK",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfTargetActed",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario contraataca con el doble de fuerza si el objetivo usa un movimiento antes.",
+    "category": "Physical"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "ASSURANCE",
+    "name": "Buena Baza",
+    "type": "DARK",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfTargetLostHPThisTurn",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Si el objetivo ya ha sufrido daño en ese turno la fuerza del ataque se duplica.",
+    "category": "Physical"
+}

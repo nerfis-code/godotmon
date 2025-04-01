@@ -1,0 +1,18 @@
+{
+    "move": "ROCKSLIDE",
+    "name": "Avalancha",
+    "type": "ROCK",
+    "power": 75,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 30,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza grandes pedruscos. Puede amedrentar al objetivo.",
+    "category": "Physical"
+}

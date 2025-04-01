@@ -1,0 +1,15 @@
+{
+    "move": "WISH",
+    "name": "Deseo",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "HealUserPositionNextTurn",
+    "flags": [],
+    "description": "Cumple el deseo de restaurar la mitad de los PS máximos en el siguiente turno.",
+    "category": "Status"
+}

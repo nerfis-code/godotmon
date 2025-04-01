@@ -1,0 +1,19 @@
+{
+    "move": "WINGATTACK",
+    "name": "Ataque Ala",
+    "type": "FLYING",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 35,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Golpea al objetivo con unas grandes alas.",
+    "category": "Physical"
+}

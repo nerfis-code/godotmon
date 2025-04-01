@@ -1,0 +1,18 @@
+{
+    "move": "FAKETEARS",
+    "name": "Llanto Falso",
+    "type": "DARK",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetSpDef2",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lágrimas de cocodrilo que bajan mucho la Defensa Especial del objetivo.",
+    "category": "Status"
+}

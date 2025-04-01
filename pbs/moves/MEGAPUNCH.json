@@ -1,0 +1,20 @@
+{
+    "move": "MEGAPUNCH",
+    "name": "Megapuño",
+    "type": "NORMAL",
+    "power": 80,
+    "accuracy": 85,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Punching"
+    ],
+    "description": "Un puñetazo de gran potencia.",
+    "category": "Physical"
+}

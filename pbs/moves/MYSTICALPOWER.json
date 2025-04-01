@@ -1,0 +1,18 @@
+{
+    "move": "MYSTICALPOWER",
+    "name": "Poder Místico",
+    "type": "PSYCHIC",
+    "power": 70,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "RaiseUserSpAtk1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca desatando un misterioso poder que también aumenta su Ataque Especial.",
+    "category": "Special"
+}

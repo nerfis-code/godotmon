@@ -1,0 +1,19 @@
+{
+    "move": "LETSSNUGGLEFOREVER",
+    "name": "Let's Snuggle Forever",
+    "type": "FAIRY",
+    "power": 190,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove",
+        "Contact",
+        "CannotMetronome"
+    ],
+    "description": "After obtaining Z-Power the user Mimikyu punches the target with full force.",
+    "category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "HYPERBEAM",
+    "name": "Hiperrayo",
+    "type": "NORMAL",
+    "power": 150,
+    "accuracy": 90,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AttackAndSkipNextTurn",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Un rayo fulminante pero el atacante deberá descansar en el siguiente turno.",
+    "category": "Special"
+}

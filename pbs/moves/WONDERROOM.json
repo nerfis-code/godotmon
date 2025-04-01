@@ -1,0 +1,17 @@
+{
+    "move": "WONDERROOM",
+    "name": "Zona Extraña",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": -7,
+    "target": "BothSides",
+    "effectChance": 0,
+    "functionCode": "StartSwapAllBattlersBaseDefensiveStats",
+    "flags": [
+        "CanMirrorMove"
+    ],
+    "description": "Crea una zona que intercambia la Defensa y Def. Esp. de todos por 5 turnos.",
+    "category": "Status"
+}

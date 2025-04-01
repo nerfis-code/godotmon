@@ -1,0 +1,19 @@
+{
+    "move": "THIEF",
+    "name": "Ladrón",
+    "type": "DARK",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UserTakesTargetItem",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca y le quita al objetivo su objeto. Si el agresor lleva un objeto no robará el del objetivo.",
+    "category": "Physical"
+}

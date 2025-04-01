@@ -1,0 +1,19 @@
+{
+    "move": "INFESTATION",
+    "name": "Acoso",
+    "type": "BUG",
+    "power": 20,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "BindTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Oprime al enemigo de cuatro a cinco turnos durante los cuales no podrá huir.",
+    "category": "Special"
+}

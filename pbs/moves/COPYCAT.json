@@ -1,0 +1,15 @@
+{
+    "move": "COPYCAT",
+    "name": "Copión",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "UseLastMoveUsed",
+    "flags": [],
+    "description": "Imita el movimiento usado justo antes. El movimiento falla si no se ha usado aún ninguno.",
+    "category": "Status"
+}

@@ -1,0 +1,15 @@
+{
+    "move": "WITHDRAW",
+    "name": "Refugio",
+    "type": "WATER",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserDefense1",
+    "flags": [],
+    "description": "El usuario se protege en su coraza y sube la Defensa.",
+    "category": "Status"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "HYPERDRILL",
+    "name": "Hipertaladro",
+    "type": "NORMAL",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ataca rotando la parte puntiaguda de su cuerpo. Ignora movimientos como Protección.",
+    "category": "Physical"
+}

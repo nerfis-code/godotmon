@@ -1,0 +1,15 @@
+{
+    "move": "IONDELUGE",
+    "name": "Cortina Plasma",
+    "type": "ELECTRIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 25,
+    "priority": 1,
+    "target": "BothSides",
+    "effectChance": 0,
+    "functionCode": "NormalMovesBecomeElectric",
+    "flags": [],
+    "description": "Disemina partículas con carga que convierten los movimientos de tipo Normal en tipo Eléctrico.",
+    "category": "Status"
+}

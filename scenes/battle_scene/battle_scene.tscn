@@ -9,10 +9,10 @@ script = ExtResource("1_oofy8")
 
 [node name="BattleField" type="CanvasLayer" parent="."]
 
-[node name="TextureRect" type="TextureRect" parent="BattleField"]
+[node name="Background" type="TextureRect" parent="BattleField"]
 offset_right = 40.0
 offset_bottom = 40.0
 
-[node name="Node2D" type="Node2D" parent="BattleField"]
+[node name="Battlers" type="Node2D" parent="BattleField"]
 
 [node name="UI" type="CanvasLayer" parent="."]

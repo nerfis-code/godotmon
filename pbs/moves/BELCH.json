@@ -1,0 +1,17 @@
+{
+    "move": "BELCH",
+    "name": "Eructo",
+    "type": "POISON",
+    "power": 120,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "FailsIfUserNotConsumedBerry",
+    "flags": [
+        "CanProtect"
+    ],
+    "description": "Causa daño a su oponente lanzándole un eructo. Para usarlo tiene que llevar una Baya y comérsela.",
+    "category": "Special"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "ROUND",
+    "name": "Canon",
+    "type": "NORMAL",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UsedAfterAllyRoundWithDoublePower",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Un canto que ataca al objetivo. Cuantos más Pokémon lo usan más aumenta de potencia.",
+    "category": "Special"
+}

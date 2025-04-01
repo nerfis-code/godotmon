@@ -1,0 +1,19 @@
+{
+    "move": "PRECIPICEBLADES",
+    "name": "Filo del Abismo",
+    "type": "GROUND",
+    "power": 120,
+    "accuracy": 85,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Manifiesta el poder latente de la tierra en forma de hojas afiladas y ataca al objetivo.",
+    "category": "Physical"
+}

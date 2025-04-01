@@ -1,0 +1,20 @@
+{
+    "move": "SNARL",
+    "name": "Alarido",
+    "type": "DARK",
+    "power": 55,
+    "accuracy": 95,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 100,
+    "functionCode": "LowerTargetSpAtk1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound",
+        "CannotMetronome"
+    ],
+    "description": "Ataca lanzando un chillido insoportable que baja el Ataque Especial de los objetivos.",
+    "category": "Special"
+}

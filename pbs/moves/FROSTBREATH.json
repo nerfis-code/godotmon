@@ -1,0 +1,18 @@
+{
+    "move": "FROSTBREATH",
+    "name": "Vaho Gélido",
+    "type": "ICE",
+    "power": 60,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AlwaysCriticalHit",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque con aire helado. Siempre resulta en un golpe crítico.",
+    "category": "Special"
+}

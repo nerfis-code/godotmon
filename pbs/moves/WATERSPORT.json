@@ -1,0 +1,15 @@
+{
+    "move": "WATERSPORT",
+    "name": "Hidrochorro",
+    "type": "WATER",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "BothSides",
+    "effectChance": 0,
+    "functionCode": "StartWeakenFireMoves",
+    "flags": [],
+    "description": "El usuario se moja y mientras esté en combate los movimientos de tipo Fuego se debilitan.",
+    "category": "Status"
+}

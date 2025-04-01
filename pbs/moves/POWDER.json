@@ -1,0 +1,19 @@
+{
+    "move": "POWDER",
+    "name": "Polvo Explosivo",
+    "type": "BUG",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TargetNextFireMoveDamagesTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Powder"
+    ],
+    "description": "Si el objetivo usa un movimiento de tipo Fuego en ese turno el polvo explota y le inflige daño.",
+    "category": "Status"
+}

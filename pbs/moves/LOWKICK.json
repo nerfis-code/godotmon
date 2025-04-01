@@ -1,0 +1,19 @@
+{
+    "move": "LOWKICK",
+    "name": "Patada Baja",
+    "type": "FIGHTING",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithTargetWeight",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Patada baja. Cuanto más pesa el objetivo más daño causa.",
+    "category": "Physical"
+}

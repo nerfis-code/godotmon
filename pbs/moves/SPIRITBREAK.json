@@ -1,0 +1,20 @@
+{
+    "move": "SPIRITBREAK",
+    "name": "Choque Anímico",
+    "type": "FAIRY",
+    "power": 75,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetSpAtk1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ataca al objetivo con tal ímpetu que acaba minando su moral y reduce su Ataque Especial.",
+    "category": "Physical"
+}

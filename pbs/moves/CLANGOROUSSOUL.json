@@ -1,0 +1,19 @@
+{
+    "move": "CLANGOROUSSOUL",
+    "name": "Estruendo Escama",
+    "type": "DRAGON",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserMainStats1LoseThirdOfTotalHP",
+    "flags": [
+        "Sound",
+        "CannotMetronome",
+        "Dance"
+    ],
+    "description": "El usuario aumenta todas sus características a cambio de sus PS.",
+    "category": "Status"
+}

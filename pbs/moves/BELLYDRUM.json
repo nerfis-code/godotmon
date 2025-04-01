@@ -1,0 +1,15 @@
+{
+    "move": "BELLYDRUM",
+    "name": "Tambor",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "MaxUserAttackLoseHalfOfTotalHP",
+    "flags": [],
+    "description": "Reduce la mitad de los PS máximos para mejorar al máximo el Ataque.",
+    "category": "Status"
+}

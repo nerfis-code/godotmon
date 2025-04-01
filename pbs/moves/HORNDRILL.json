@@ -1,0 +1,19 @@
+{
+    "move": "HORNDRILL",
+    "name": "Perforador",
+    "type": "NORMAL",
+    "power": 1,
+    "accuracy": 30,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "OHKO",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque con taladro que fulmina en un golpe al objetivo si le toca.",
+    "category": "Physical"
+}

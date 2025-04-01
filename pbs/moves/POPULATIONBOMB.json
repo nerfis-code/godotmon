@@ -1,0 +1,21 @@
+{
+    "move": "POPULATIONBOMB",
+    "name": "Proliferación",
+    "type": "NORMAL",
+    "power": 20,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTenTimes",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome",
+        "Slicing"
+    ],
+    "description": "Ejecuta un ataque conjunto que golpea al objetivo de una a diez veces seguidas.",
+    "category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "GLARE",
+    "name": "Deslumbrar",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "ParalyzeTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Intimida y asusta al objetivo con la mirada para dejarlo paralizado.",
+    "category": "Status"
+}

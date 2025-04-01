@@ -1,0 +1,19 @@
+{
+    "move": "TROPKICK",
+    "name": "Patada Tropical",
+    "type": "GRASS",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetAttack1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza una patada con la fuerza del trópico que golpea al rival y reduce su Ataque.",
+    "category": "Physical"
+}

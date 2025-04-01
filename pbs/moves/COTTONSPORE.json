@@ -1,0 +1,19 @@
+{
+    "move": "COTTONSPORE",
+    "name": "Esporagodón",
+    "type": "GRASS",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "LowerTargetSpeed2",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Powder"
+    ],
+    "description": "Adhiere esporas al objetivo para reducir mucho su Velocidad.",
+    "category": "Status"
+}

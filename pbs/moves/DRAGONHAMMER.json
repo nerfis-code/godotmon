@@ -1,0 +1,19 @@
+{
+    "move": "DRAGONHAMMER",
+    "name": "Martillo Dragón",
+    "type": "DRAGON",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Usa el cuerpo como un martillo para abalanzarse sobre su rival y causarle daño.",
+    "category": "Physical"
+}

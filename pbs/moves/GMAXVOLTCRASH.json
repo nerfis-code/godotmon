@@ -1,0 +1,18 @@
+{
+    "move": "GMAXVOLTCRASH",
+    "name": "G-Max Volt Crash",
+    "type": "ELECTRIC",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "ParalyzeTargetSide",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Pikachu. May paralyze all opposing Pokémon.",
+    "category": "Physical"
+}

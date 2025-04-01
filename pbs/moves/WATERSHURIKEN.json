@@ -1,0 +1,18 @@
+{
+    "move": "WATERSHURIKEN",
+    "name": "Shuriken de Agua",
+    "type": "WATER",
+    "power": 15,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 1,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoToFiveTimesOrThreeForAshGreninja",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Golpea de dos a cinco veces con estrellas arrojadizas. El que lo usa siempre ataca primero.",
+    "category": "Special"
+}

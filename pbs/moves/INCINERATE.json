@@ -1,0 +1,18 @@
+{
+    "move": "INCINERATE",
+    "name": "Calcinación",
+    "type": "FIRE",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "DestroyTargetBerryOrGem",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Llamas que golpean a los objetivos adyacentes. Si llevan Bayas se quemarány desaparecerán.",
+    "category": "Special"
+}

@@ -1,0 +1,20 @@
+{
+    "move": "DOUBLESHOCK",
+    "name": "Electropalmas",
+    "type": "ELECTRIC",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UserLosesElectricType",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Libera toda la electricidad de su cuerpo para atacar. Pierde el tipo Eléctrico.",
+    "category": "Physical"
+}

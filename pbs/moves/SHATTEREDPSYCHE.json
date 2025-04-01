@@ -1,0 +1,18 @@
+{
+    "move": "SHATTEREDPSYCHE",
+    "name": "Shattered Psyche",
+    "type": "PSYCHIC",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove_PSYCHIC",
+        "CannotMetronome"
+    ],
+    "description": "The user controls the target with its Z-Power and hurts the target with full force.",
+    "category": "Physical"
+}

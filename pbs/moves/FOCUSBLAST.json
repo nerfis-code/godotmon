@@ -1,0 +1,19 @@
+{
+    "move": "FOCUSBLAST",
+    "name": "Onda Certera",
+    "type": "FIGHTING",
+    "power": 120,
+    "accuracy": 70,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "LowerTargetSpDef1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "Agudiza la concentración mental y libera su poder. Puede disminuir la Def. Esp. del rival.",
+    "category": "Special"
+}

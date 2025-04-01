@@ -1,0 +1,17 @@
+{
+    "move": "SPIDERWEB",
+    "name": "Telaraña",
+    "type": "BUG",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TrapTargetInBattle",
+    "flags": [
+        "CanMirrorMove"
+    ],
+    "description": "Enreda al objetivo para evitar que abandone la batalla.",
+    "category": "Status"
+}

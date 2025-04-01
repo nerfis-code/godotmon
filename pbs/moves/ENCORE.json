@@ -1,0 +1,18 @@
+{
+    "move": "ENCORE",
+    "name": "Otra Vez",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DisableTargetUsingDifferentMove",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El objetivo repite su último movimiento durante tres turnos.",
+    "category": "Status"
+}

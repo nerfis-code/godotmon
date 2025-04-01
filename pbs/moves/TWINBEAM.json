@@ -1,0 +1,19 @@
+{
+    "move": "TWINBEAM",
+    "name": "Láser Doble",
+    "type": "PSYCHIC",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitTwoTimes",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Emite dos misteriosos haces lumínicos por los ojos que infligen daño dos veces seguidas.",
+    "category": "Special"
+}

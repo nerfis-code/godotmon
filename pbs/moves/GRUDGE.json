@@ -1,0 +1,15 @@
+{
+    "move": "GRUDGE",
+    "name": "Rabia",
+    "type": "GHOST",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "SetAttackerMovePPTo0IfUserFaints",
+    "flags": [],
+    "description": "Si el usuario se debilita al recibir un ataque s los PP de este último ataque serán eliminados.",
+    "category": "Status"
+}

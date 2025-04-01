@@ -1,0 +1,17 @@
+{
+    "move": "TRICKROOM",
+    "name": "Espacio Raro",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 5,
+    "priority": -7,
+    "target": "BothSides",
+    "effectChance": 0,
+    "functionCode": "StartSlowerBattlersActFirst",
+    "flags": [
+        "CanMirrorMove"
+    ],
+    "description": "Se crea un espacio extraño en el que los Pokémon lentos se mueven primero durante cinco turnos.",
+    "category": "Status"
+}

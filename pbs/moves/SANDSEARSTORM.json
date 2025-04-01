@@ -1,0 +1,19 @@
+{
+    "move": "SANDSEARSTORM",
+    "name": "Simún de Arena",
+    "type": "GROUND",
+    "power": 100,
+    "accuracy": 80,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 20,
+    "functionCode": "BurnTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Wind"
+    ],
+    "description": "Ataca envolviéndo al objetivo en unas arenas tórridas que pueden causar quemaduras.",
+    "category": "Special"
+}

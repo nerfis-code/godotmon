@@ -1,0 +1,18 @@
+{
+    "move": "GMAXFIREBALL",
+    "name": "G-Max Fireball",
+    "type": "FIRE",
+    "power": 160,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "IgnoreTargetAbility",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Cinderace. Ignores opponent's Abilities that would reduce damage.",
+    "category": "Physical"
+}

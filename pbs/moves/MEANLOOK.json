@@ -1,0 +1,17 @@
+{
+    "move": "MEANLOOK",
+    "name": "Mal de Ojo",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TrapTargetInBattle",
+    "flags": [
+        "CanMirrorMove"
+    ],
+    "description": "Impide al objetivo huir de la batalla.",
+    "category": "Status"
+}

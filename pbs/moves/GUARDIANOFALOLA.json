@@ -1,0 +1,18 @@
+{
+    "move": "GUARDIANOFALOLA",
+    "name": "Guardian of Alola",
+    "type": "FAIRY",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "FixedDamageThreeQuartersTargetHP",
+    "flags": [
+        "ZMove",
+        "CannotMetronome"
+    ],
+    "description": "The Pokémon obtains Alola's energy using its Z-Power. This reduces the target's HP greatly.",
+    "category": "Special"
+}

@@ -1,0 +1,15 @@
+{
+    "move": "WIDEGUARD",
+    "name": "Vasta Guardia",
+    "type": "ROCK",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 3,
+    "target": "UserSide",
+    "effectChance": 0,
+    "functionCode": "ProtectUserSideFromMultiTargetDamagingMoves",
+    "flags": [],
+    "description": "Proteje a todo tu bando de golpes que dan a múltiples objetivos. Falla si se usa repetidamente.",
+    "category": "Status"
+}

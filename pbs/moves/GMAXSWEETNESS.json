@@ -1,0 +1,18 @@
+{
+    "move": "GMAXSWEETNESS",
+    "name": "G-Max Sweetness",
+    "type": "GRASS",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "CureStatusConditionsUsersSide",
+    "flags": [
+        "GmaxMove",
+        "CannotMetronome"
+    ],
+    "description": "A G-Max Move used by G-Max Appletun. Heals the status conditions of all ally Pokémon.",
+    "category": "Physical"
+}

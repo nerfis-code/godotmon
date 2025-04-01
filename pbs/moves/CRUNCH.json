@@ -1,0 +1,20 @@
+{
+    "move": "CRUNCH",
+    "name": "Triturar",
+    "type": "DARK",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 20,
+    "functionCode": "LowerTargetDefense1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Biting"
+    ],
+    "description": "Tritura con afilados colmillos y puede bajar la Defensa del objetivo.",
+    "category": "Physical"
+}

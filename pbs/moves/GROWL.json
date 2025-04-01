@@ -1,0 +1,19 @@
+{
+    "move": "GROWL",
+    "name": "Gruñido",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "LowerTargetAttack1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Dulce gruñido que reduce el Ataque del contrincante.",
+    "category": "Status"
+}

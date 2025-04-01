@@ -1,0 +1,19 @@
+{
+    "move": "THRASH",
+    "name": "Saña",
+    "type": "NORMAL",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "RandomNearFoe",
+    "effectChance": 0,
+    "functionCode": "MultiTurnAttackConfuseUserAtEnd",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca de dos a tres turnos y acaba confundiendo al agresor.",
+    "category": "Physical"
+}

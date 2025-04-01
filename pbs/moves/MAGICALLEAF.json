@@ -1,0 +1,18 @@
+{
+    "move": "MAGICALLEAF",
+    "name": "Hoja Mágica",
+    "type": "GRASS",
+    "power": 60,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Esparce extrañas hojas que persiguen al objetivo. No se puede esquivar.",
+    "category": "Special"
+}

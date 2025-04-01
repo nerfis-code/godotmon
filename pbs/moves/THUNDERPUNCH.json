@@ -1,0 +1,20 @@
+{
+    "move": "THUNDERPUNCH",
+    "name": "Puño Trueno",
+    "type": "ELECTRIC",
+    "power": 75,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "ParalyzeTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Punching"
+    ],
+    "description": "Puñetazo eléctrico. Puede paralizar.",
+    "category": "Physical"
+}

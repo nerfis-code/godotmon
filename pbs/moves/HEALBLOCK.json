@@ -1,0 +1,18 @@
+{
+    "move": "HEALBLOCK",
+    "name": "Anticura",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "DisableTargetHealingMoves",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Impide al objetivo usar movimientos habilidades y objetos que recuperan PS durante cinco turnos.",
+    "category": "Status"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "STEELWING",
+    "name": "Ala de Acero",
+    "type": "STEEL",
+    "power": 70,
+    "accuracy": 90,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "RaiseUserDefense1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Alas macizas que golpean al objetivo y pueden subir la Defensa del usuario.",
+    "category": "Physical"
+}

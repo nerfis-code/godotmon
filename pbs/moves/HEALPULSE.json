@@ -1,0 +1,18 @@
+{
+    "move": "HEALPULSE",
+    "name": "Pulso Cura",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "HealTargetHalfOfTotalHP",
+    "flags": [
+        "CanProtect",
+        "Pulse"
+    ],
+    "description": "Una onda curativa restaura los PS del objetivo a la mitad de su máximo.",
+    "category": "Status"
+}

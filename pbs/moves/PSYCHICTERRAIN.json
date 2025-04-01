@@ -1,0 +1,15 @@
+{
+    "move": "PSYCHICTERRAIN",
+    "name": "Campo Psíquico",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "BothSides",
+    "effectChance": 0,
+    "functionCode": "StartPsychicTerrain",
+    "flags": [],
+    "description": "Durante cinco turnos se potencian los movimientos Psíquico y los de prioridad fallan.",
+    "category": "Status"
+}

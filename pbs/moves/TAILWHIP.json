@@ -1,0 +1,18 @@
+{
+    "move": "TAILWHIP",
+    "name": "Látigo",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 30,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "LowerTargetDefense1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Agita la cola para bajar la Defensa del contrincante.",
+    "category": "Status"
+}

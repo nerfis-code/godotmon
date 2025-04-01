@@ -1,0 +1,18 @@
+{
+    "move": "CLEARSMOG",
+    "name": "Niebla Clara",
+    "type": "POISON",
+    "power": 50,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "ResetTargetStatStages",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca al objetivo con una extraña niebla que elimina sus cambios de características.",
+    "category": "Special"
+}

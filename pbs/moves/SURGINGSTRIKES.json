@@ -1,0 +1,20 @@
+{
+    "move": "SURGINGSTRIKES",
+    "name": "Azote Torrencial",
+    "type": "WATER",
+    "power": 25,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitThreeTimesAlwaysCriticalHit",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El usuario dominador absoluto del líquido elemento golpea hasta tres veces con movimientos fluidos. Siempre asesta un golpe crítico.",
+    "category": "Physical"
+}

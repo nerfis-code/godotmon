@@ -1,0 +1,18 @@
+{
+    "move": "LUSTERPURGE",
+    "name": "Resplandor",
+    "type": "PSYCHIC",
+    "power": 95,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 50,
+    "functionCode": "LowerTargetSpDef1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Fogonazo de luz que puede bajar la Defensa Especial del objetivo.",
+    "category": "Special"
+}

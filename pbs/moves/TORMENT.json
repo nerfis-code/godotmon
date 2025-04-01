@@ -1,0 +1,18 @@
+{
+    "move": "TORMENT",
+    "name": "Tormento",
+    "type": "DARK",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DisableTargetUsingSameMoveConsecutively",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Atormenta y enfurece al objetivo que no puede usar dos veces seguidas el mismo movimiento.",
+    "category": "Status"
+}

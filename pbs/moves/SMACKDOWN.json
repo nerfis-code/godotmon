@@ -1,0 +1,18 @@
+{
+    "move": "SMACKDOWN",
+    "name": "Antiaéreo",
+    "type": "ROCK",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HitsTargetInSkyGroundsTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca lanzando una piedra o un proyectil. Estrella contra el suelo al objetivo si vuela.",
+    "category": "Physical"
+}

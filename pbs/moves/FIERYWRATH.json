@@ -1,0 +1,19 @@
+{
+    "move": "FIERYWRATH",
+    "name": "Furia Candente",
+    "type": "DARK",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 20,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "El usuario transforma su ira en un aura de fuego para atacar. Puede amedrentar al objetivo.",
+    "category": "Special"
+}

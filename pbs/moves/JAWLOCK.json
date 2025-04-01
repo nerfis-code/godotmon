@@ -1,0 +1,19 @@
+{
+    "move": "JAWLOCK",
+    "name": "Presa Maxilar",
+    "type": "DARK",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TrapUserAndTargetInBattle",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Prohibe al objetivo y al usuario abandonar el combate hasta que uno de los dos se debilite.",
+    "category": "Physical"
+}

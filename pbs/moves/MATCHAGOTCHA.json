@@ -1,0 +1,19 @@
+{
+    "move": "MATCHAGOTCHA",
+    "name": "Cañón Batidor",
+    "type": "GRASS",
+    "power": 80,
+    "accuracy": 90,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 20,
+    "functionCode": "HealUserByHalfOfDamageDoneBurnTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "ThawsUser"
+    ],
+    "description": "Rocía al objetivo con té y recupera la mitad de los PS del daño que produce. Puede quemar.",
+    "category": "Special"
+}

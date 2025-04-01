@@ -1,0 +1,19 @@
+{
+    "move": "SKYATTACK",
+    "name": "Ataque Aéreo",
+    "type": "FLYING",
+    "power": 140,
+    "accuracy": 90,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 30,
+    "functionCode": "TwoTurnAttackFlinchTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Ataque en dos turnos que suele ser crítico. Puede amedrentar al objetivo.",
+    "category": "Physical"
+}

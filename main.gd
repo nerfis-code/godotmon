@@ -4,11 +4,12 @@ var battle_scene_file = preload("res://scenes/battle_scene/battle_scene.tscn")
 var pokemon_factory_file = preload("res://utils/pokemon_factory.gd")
 
 
-var default = Queue.new([preload("res://scenes/battle_scene/states/player_entrance.gd").new()])
+var default = Queue.new([preload("res://scenes/battle_scene/battle_states.gd").Test.new()])
 
 func _ready() -> void:
 	var battle_scene = battle_scene_file.instantiate()
 	var factory = pokemon_factory_file.new()
+	
 	battle_scene.init(
 		DynamicObject.new(
 			{

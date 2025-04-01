@@ -1,0 +1,17 @@
+{
+    "move": "MEFIRST",
+    "name": "Yo Primero",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "UseMoveTargetIsAboutToUse",
+    "flags": [
+        "CanProtect"
+    ],
+    "description": "Se adelanta al movimiento que pretende usar el objetivo y lo lanza antes con más fuerza. Si el usuario es más lento falla.",
+    "category": "Status"
+}

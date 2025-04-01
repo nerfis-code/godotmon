@@ -1,0 +1,15 @@
+{
+    "move": "GEOMANCY",
+    "name": "Geocontrol",
+    "type": "FAIRY",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "TwoTurnAttackRaiseUserSpAtkSpDefSpd2",
+    "flags": [],
+    "description": "Concentra energía un turno y en el segundo aumenta mucho su At. Esp. Def. Esp. y Velocidad.",
+    "category": "Status"
+}

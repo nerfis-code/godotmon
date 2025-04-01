@@ -1,0 +1,18 @@
+{
+    "move": "MYSTICALFIRE",
+    "name": "Llama Embrujada",
+    "type": "FIRE",
+    "power": 75,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetSpAtk1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza una llama a gran temperatura a su rival la cual le baja el Ataque Especial.",
+    "category": "Special"
+}

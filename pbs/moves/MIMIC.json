@@ -1,0 +1,17 @@
+{
+    "move": "MIMIC",
+    "name": "Mimético",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "ReplaceMoveThisBattleWithTargetLastMoveUsed",
+    "flags": [
+        "CanProtect"
+    ],
+    "description": "Copia el último movimiento usado por el objetivo. Solo lo podrá usar si no es cambiado.",
+    "category": "Status"
+}

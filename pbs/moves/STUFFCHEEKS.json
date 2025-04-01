@@ -1,0 +1,15 @@
+{
+    "move": "STUFFCHEEKS",
+    "name": "Atiborramiento",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "UserConsumeBerryRaiseDefense2",
+    "flags": [],
+    "description": "El usuario se come la baya que lleve equipada y sube drásticamente su Defensa.",
+    "category": "Status"
+}

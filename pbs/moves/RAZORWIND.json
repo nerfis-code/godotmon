@@ -1,0 +1,19 @@
+{
+    "move": "RAZORWIND",
+    "name": "Viento Cortante",
+    "type": "NORMAL",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "TwoTurnAttack",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Primer turno: prepara. Segundo turno: ataca. Suele ser crítico.",
+    "category": "Special"
+}

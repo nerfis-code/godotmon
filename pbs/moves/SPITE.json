@@ -1,0 +1,18 @@
+{
+    "move": "SPITE",
+    "name": "Rencor",
+    "type": "GHOST",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerPPOfTargetLastMoveBy4",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Da rienda suelta a su rencor para reducir cuatro PP del último movimiento usado por el rival.",
+    "category": "Status"
+}

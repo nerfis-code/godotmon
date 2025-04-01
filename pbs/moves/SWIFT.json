@@ -1,0 +1,18 @@
+{
+    "move": "SWIFT",
+    "name": "Meteoros",
+    "type": "NORMAL",
+    "power": 60,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza rayos en forma de estrella que no fallan nunca.",
+    "category": "Special"
+}

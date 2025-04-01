@@ -1,0 +1,19 @@
+{
+    "move": "DRILLPECK",
+    "name": "Pico Taladro",
+    "type": "FLYING",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Picotazo giratorio y perforador muy potente.",
+    "category": "Physical"
+}

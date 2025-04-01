@@ -1,0 +1,17 @@
+{
+    "move": "BESTOW",
+    "name": "Ofrenda",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TargetTakesUserItem",
+    "flags": [
+        "CanMirrorMove"
+    ],
+    "description": "Entrega el objeto que lleva al objetivo en caso de que este no tenga ninguno.",
+    "category": "Status"
+}

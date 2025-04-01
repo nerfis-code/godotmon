@@ -1,0 +1,18 @@
+{
+    "move": "TARSHOT",
+    "name": "Alquitranazo",
+    "type": "ROCK",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetSpeed1MakeTargetWeakerToFire",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza alquitran sobre el objetivo bajando su Velocidad y volviéndolo débil ante los movs. Fuego.",
+    "category": "Status"
+}

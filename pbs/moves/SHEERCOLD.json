@@ -1,0 +1,18 @@
+{
+    "move": "SHEERCOLD",
+    "name": "Frío Polar",
+    "type": "ICE",
+    "power": 1,
+    "accuracy": 30,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "OHKOIce",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque de frío polar que debilita al objetivo si le alcanza.",
+    "category": "Special"
+}

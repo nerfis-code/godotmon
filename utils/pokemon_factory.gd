@@ -5,8 +5,8 @@ func create_pokemon(pokemon_name: String) -> Pokemon:
 	pokemon.species = species
 	pokemon.name = species.name
 	pokemon.species_name = species.species
-	pokemon.primaryType = species.primaryType
-	pokemon.secondaryType = species.secondaryType
+	pokemon.primary_type = species.primaryType
+	pokemon.secondary_type = species.secondaryType
 	return pokemon
 	
 func _get_specie(specie_name: String):

@@ -1,0 +1,21 @@
+{
+    "move": "PYROBALL",
+    "name": "Balón Ígneo",
+    "type": "FIRE",
+    "power": 120,
+    "accuracy": 90,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "BurnTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "ThawsUser",
+        "Bomb",
+        "CannotMetronome"
+    ],
+    "description": "Prende una pequeña piedra para crear una bola de fuego con la que ataca. Puede causar quemaduras.",
+    "category": "Physical"
+}

@@ -1,0 +1,20 @@
+{
+    "move": "ORIGINPULSE",
+    "name": "Pulso Primigenio",
+    "type": "WATER",
+    "power": 110,
+    "accuracy": 85,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Pulse",
+        "CannotMetronome"
+    ],
+    "description": "Ataca al objetivo con una infinidad de rayos de luz azulada.",
+    "category": "Special"
+}

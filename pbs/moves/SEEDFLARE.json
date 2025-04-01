@@ -1,0 +1,18 @@
+{
+    "move": "SEEDFLARE",
+    "name": "Fulgor Semilla",
+    "type": "GRASS",
+    "power": 120,
+    "accuracy": 85,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 40,
+    "functionCode": "LowerTargetSpDef2",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Una onda de choque se libera del cuerpo. Puede bajar la Defensa Especial del objetivo.",
+    "category": "Special"
+}

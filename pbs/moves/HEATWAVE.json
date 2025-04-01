@@ -1,0 +1,18 @@
+{
+    "move": "HEATWAVE",
+    "name": "Onda Ígnea",
+    "type": "FIRE",
+    "power": 95,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 10,
+    "functionCode": "BurnTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Provoca un viento abrasador que puede quemar al objetivo.",
+    "category": "Special"
+}

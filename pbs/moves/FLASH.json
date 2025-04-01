@@ -1,0 +1,18 @@
+{
+    "move": "FLASH",
+    "name": "Destello",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetAccuracy1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Luz cegadora que baja la Precisión del objetivo. Fuera de combate sirve para iluminar.",
+    "category": "Status"
+}

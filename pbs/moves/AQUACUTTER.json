@@ -1,0 +1,20 @@
+{
+    "move": "AQUACUTTER",
+    "name": "Tajo Acuático",
+    "type": "WATER",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Slicing",
+        "HighCriticalHitRate"
+    ],
+    "description": "Corta al objetivo con agua a presión como si de una hoja se tratara. Suele ser crítico.",
+    "category": "Physical"
+}

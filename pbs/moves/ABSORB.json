@@ -1,0 +1,18 @@
+{
+    "move": "ABSORB",
+    "name": "Absorber",
+    "type": "GRASS",
+    "power": 20,
+    "accuracy": 100,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "HealUserByHalfOfDamageDone",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Absorbe la mitad del daño producido.",
+    "category": "Special"
+}

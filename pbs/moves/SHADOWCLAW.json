@@ -1,0 +1,20 @@
+{
+    "move": "SHADOWCLAW",
+    "name": "Garra Umbría",
+    "type": "GHOST",
+    "power": 70,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Ataca con una garra afilada hecha de sombras. Suele ser crítico.",
+    "category": "Physical"
+}

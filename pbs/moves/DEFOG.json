@@ -1,0 +1,18 @@
+{
+    "move": "DEFOG",
+    "name": "Despejar",
+    "type": "FLYING",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetEvasion1RemoveSideEffects",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Potente viento que barre el reflejo o pantalla de luz del objetivo y puede reducir su Evasión.",
+    "category": "Status"
+}

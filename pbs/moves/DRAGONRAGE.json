@@ -1,0 +1,18 @@
+{
+    "move": "DRAGONRAGE",
+    "name": "Furia Dragón",
+    "type": "DRAGON",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "FixedDamage40",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ráfaga de furiosas ondas de choque que quitan 40 PS.",
+    "category": "Special"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "PSYCHICNOISE",
+    "name": "Psicorruido",
+    "type": "PSYCHIC",
+    "power": 75,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "DisableTargetHealingMoves2Turns",
+    "flags": [
+        "Sound",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Onda que impide al objetivo recuperar PS durante 2 turnos con movimientos habilidades y objetos.",
+    "category": "Special"
+}

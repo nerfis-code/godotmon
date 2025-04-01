@@ -1,0 +1,18 @@
+{
+    "move": "POWDERSNOW",
+    "name": "Nieve Polvo",
+    "type": "ICE",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 10,
+    "functionCode": "FreezeTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza nieve que puede llegar a congelar.",
+    "category": "Special"
+}

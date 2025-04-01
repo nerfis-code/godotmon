@@ -1,0 +1,20 @@
+{
+    "move": "AURASPHERE",
+    "name": "Esfera Aural",
+    "type": "FIGHTING",
+    "power": 80,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "Other",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Pulse",
+        "Bomb"
+    ],
+    "description": "Libera una descarga de la fuerza del aura desde su interior. Es infalible.",
+    "category": "Special"
+}

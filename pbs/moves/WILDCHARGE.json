@@ -1,0 +1,19 @@
+{
+    "move": "WILDCHARGE",
+    "name": "Voltio Cruel",
+    "type": "ELECTRIC",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RecoilQuarterOfDamageDealt",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Carga eléctrica muy potente que también hiere ligeramente a quien la usa.",
+    "category": "Physical"
+}

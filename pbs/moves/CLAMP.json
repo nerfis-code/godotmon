@@ -1,0 +1,19 @@
+{
+    "move": "CLAMP",
+    "name": "Tenaza",
+    "type": "WATER",
+    "power": 35,
+    "accuracy": 85,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "BindTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Atrapa y atenaza con fuerza durante cuatro o cinco turnos.",
+    "category": "Physical"
+}

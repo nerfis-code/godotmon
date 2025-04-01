@@ -1,0 +1,18 @@
+{
+    "move": "VENOSHOCK",
+    "name": "Carga Tóxica",
+    "type": "POISON",
+    "power": 65,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfTargetPoisoned",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca cubriendo al objetivo con un líquido venenoso. El daño será doble si este ya está envenenado.",
+    "category": "Special"
+}

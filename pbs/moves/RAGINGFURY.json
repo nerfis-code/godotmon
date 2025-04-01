@@ -1,0 +1,19 @@
+{
+    "move": "RAGINGFURY",
+    "name": "Erupción de Ira",
+    "type": "FIRE",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "RandomNearFoe",
+    "effectChance": 0,
+    "functionCode": "MultiTurnAttackConfuseUserAtEnd",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ataca con unas violentas llamas de dos a tres turnos seguidos y después se queda confuso.",
+    "category": "Physical"
+}

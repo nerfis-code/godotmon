@@ -1,0 +1,19 @@
+{
+    "move": "FIRELASH",
+    "name": "Látigo Ígneo",
+    "type": "FIRE",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetDefense1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Golpea al oponente con un látigo incandescente y reduce su Defensa.",
+    "category": "Physical"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "MAXOVERGROWTH",
+    "name": "Max Overgrowth",
+    "type": "GRASS",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "DamageTargetStartGrassyTerrain",
+    "flags": [
+        "DynamaxMove_GRASS",
+        "CannotMetronome"
+    ],
+    "description": "A Grass-type attack Dynamax Pokémon use. Sets Grassy Terrain for five turns.",
+    "category": "Physical"
+}

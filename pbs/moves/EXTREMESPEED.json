@@ -1,0 +1,19 @@
+{
+    "move": "EXTREMESPEED",
+    "name": "Velocidad Extrema",
+    "type": "NORMAL",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 2,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque muy rápido que siempre va en primer lugar.",
+    "category": "Physical"
+}

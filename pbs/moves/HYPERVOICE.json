@@ -1,0 +1,19 @@
+{
+    "move": "HYPERVOICE",
+    "name": "Vozarrón",
+    "type": "NORMAL",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Grito desgarrador que inflige daño al objetivo.",
+    "category": "Special"
+}

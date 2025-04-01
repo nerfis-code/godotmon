@@ -1,0 +1,18 @@
+{
+    "move": "SILVERWIND",
+    "name": "Viento Plata",
+    "type": "BUG",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "RaiseUserMainStats1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Fuerte viento con polvo de escamas. Puede subir todas las características de quien lo usa.",
+    "category": "Special"
+}

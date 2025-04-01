@@ -1,0 +1,19 @@
+{
+    "move": "PARTINGSHOT",
+    "name": "Última Palabra",
+    "type": "DARK",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetAtkSpAtk1SwitchOutUser",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "Sound"
+    ],
+    "description": "Baja el Ataque y el Ataque Especial del rival y se cambia por otro Pokémon de su equipo.",
+    "category": "Status"
+}

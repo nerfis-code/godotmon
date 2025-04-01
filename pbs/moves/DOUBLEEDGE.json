@@ -1,0 +1,19 @@
+{
+    "move": "DOUBLEEDGE",
+    "name": "Doble Filo",
+    "type": "NORMAL",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RecoilThirdOfDamageDealt",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque arriesgado que también hiere al agresor.",
+    "category": "Physical"
+}

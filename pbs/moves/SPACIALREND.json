@@ -1,0 +1,19 @@
+{
+    "move": "SPACIALREND",
+    "name": "Corte Vacío",
+    "type": "DRAGON",
+    "power": 100,
+    "accuracy": 95,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "HighCriticalHitRate"
+    ],
+    "description": "Desgarra al objetivo y el espacio a su alrededor. Suele ser crítico.",
+    "category": "Special"
+}

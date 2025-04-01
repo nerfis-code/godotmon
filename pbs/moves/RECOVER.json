@@ -1,0 +1,15 @@
+{
+    "move": "RECOVER",
+    "name": "Recuperación",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "HealUserHalfOfTotalHP",
+    "flags": [],
+    "description": "Restaura hasta la mitad de los PS máximos.",
+    "category": "Status"
+}

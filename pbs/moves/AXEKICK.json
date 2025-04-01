@@ -1,0 +1,19 @@
+{
+    "move": "AXEKICK",
+    "name": "Patada Hacha",
+    "type": "FIGHTING",
+    "power": 120,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "CrashDamageIfFailsConfuseTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza una patada al aire y golpea con el talón. Si falla se hiere a sí mismo. Puede confundir.",
+    "category": "Physical"
+}

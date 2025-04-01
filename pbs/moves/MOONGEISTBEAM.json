@@ -1,0 +1,19 @@
+{
+    "move": "MOONGEISTBEAM",
+    "name": "Rayo Umbrío",
+    "type": "GHOST",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "IgnoreTargetAbility",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ataca al objetivo con un rayo misterioso de energía lunar. Este movimiento ignora la habilidad del objetivo.",
+    "category": "Special"
+}

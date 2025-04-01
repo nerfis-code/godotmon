@@ -1,0 +1,18 @@
+{
+    "move": "BITTERMALICE",
+    "name": "Rencor Reprimido",
+    "type": "GHOST",
+    "power": 75,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "LowerTargetAttack1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca al objetivo sometiéndolo a su frío rencor y reduce su Ataque.",
+    "category": "Special"
+}

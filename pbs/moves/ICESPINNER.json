@@ -1,0 +1,19 @@
+{
+    "move": "ICESPINNER",
+    "name": "Pirueta Helada",
+    "type": "ICE",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RemoveTerrainIceSpinner",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Recubre las extremidades con una capa de hielo y golpea al rival. Si hay un campo lo rompe.",
+    "category": "Physical"
+}

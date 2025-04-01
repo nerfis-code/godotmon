@@ -1,0 +1,19 @@
+{
+    "move": "APPLEACID",
+    "name": "Ácido Málico",
+    "type": "GRASS",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetSpDef1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ataca con el fluido corrosivo de una manzana ácida y reduce la Defensa Especial.",
+    "category": "Special"
+}

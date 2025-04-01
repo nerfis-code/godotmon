@@ -1,0 +1,20 @@
+{
+    "move": "FIREFANG",
+    "name": "Colmillo Ígneo",
+    "type": "FIRE",
+    "power": 65,
+    "accuracy": 95,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 101,
+    "functionCode": "BurnFlinchTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Biting"
+    ],
+    "description": "Usa colmillos en llamas para morder. Puede hacer que el objetivo se amedrente o se queme.",
+    "category": "Physical"
+}

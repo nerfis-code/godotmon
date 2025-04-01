@@ -1,0 +1,19 @@
+{
+    "type": "FIGHTING",
+    "name": "Fighting",
+    "iconPosition": 1,
+    "isSpecialType": false,
+    "isPseudoType": false,
+    "flags": [],
+    "weaknesses": [
+        "FLYING",
+        "PSYCHIC",
+        "FAIRY"
+    ],
+    "resistances": [
+        "ROCK",
+        "BUG",
+        "DARK"
+    ],
+    "immunities": []
+}

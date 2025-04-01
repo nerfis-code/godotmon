@@ -1,0 +1,18 @@
+{
+    "move": "EXTREMEEVOBOOST",
+    "name": "Extreme Evoboost",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserMainStats2",
+    "flags": [
+        "ZMove",
+        "CannotMetronome"
+    ],
+    "description": "Eevee gets energy from its evolved friends and boosts its stats sharply.",
+    "category": "Status"
+}

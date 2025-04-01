@@ -1,0 +1,19 @@
+{
+    "move": "PHOTONGEYSER",
+    "name": "Géiser Fotónico",
+    "type": "PSYCHIC",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "CategoryDependsOnHigherDamageIgnoreTargetAbility",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Compara sus valores de Ataque y Ataque Especial para infligir daño con el más alto de los dos.",
+    "category": "Special"
+}

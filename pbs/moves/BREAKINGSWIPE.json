@@ -1,0 +1,20 @@
+{
+    "move": "BREAKINGSWIPE",
+    "name": "Vasto Impacto",
+    "type": "DRAGON",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 100,
+    "functionCode": "LowerTargetAttack1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Azota con ímpetu con su cola al Pokémon enemigo. Esto hace que baje el Ataque del objetivo.",
+    "category": "Physical"
+}

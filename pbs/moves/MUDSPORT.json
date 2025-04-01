@@ -1,0 +1,15 @@
+{
+    "move": "MUDSPORT",
+    "name": "Chapoteo Lodo",
+    "type": "GROUND",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "BothSides",
+    "effectChance": 0,
+    "functionCode": "StartWeakenElectricMoves",
+    "flags": [],
+    "description": "Se cubre de lodo y debilita los movimientos de tipo Eléctrico mientras está en combate.",
+    "category": "Status"
+}

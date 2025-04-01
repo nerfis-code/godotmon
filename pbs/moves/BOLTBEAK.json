@@ -1,0 +1,19 @@
+{
+    "move": "BOLTBEAK",
+    "name": "Electropico",
+    "type": "ELECTRIC",
+    "power": 85,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfTargetNotActed",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca con su pico electrificado. Si el usuario ataca antes que el objetivo duplica la potencia.",
+    "category": "Physical"
+}

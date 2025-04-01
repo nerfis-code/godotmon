@@ -1,0 +1,19 @@
+{
+    "move": "CATASTROPIKA",
+    "name": "Catastropika",
+    "type": "ELECTRIC",
+    "power": 210,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "ZMove",
+        "Contact",
+        "CannotMetronome"
+    ],
+    "description": "Pikachu surrounds itself with the maximum amount of electricity using its Z-Power.",
+    "category": "Physical"
+}

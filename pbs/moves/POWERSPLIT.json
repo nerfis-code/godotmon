@@ -1,0 +1,17 @@
+{
+    "move": "POWERSPLIT",
+    "name": "Isofuerza",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UserTargetAverageBaseAtkSpAtk",
+    "flags": [
+        "CanProtect"
+    ],
+    "description": "Hace la media de su Ataque y Ataque Especial con los de su objetivo y los comparte.",
+    "category": "Status"
+}

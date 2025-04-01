@@ -1,0 +1,18 @@
+{
+    "move": "ROCKTOMB",
+    "name": "Tumba Rocas",
+    "type": "ROCK",
+    "power": 60,
+    "accuracy": 95,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetSpeed1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Tira rocas que detienen al objetivo y bajan su Velocidad.",
+    "category": "Physical"
+}

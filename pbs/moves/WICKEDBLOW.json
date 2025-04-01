@@ -1,0 +1,20 @@
+{
+    "move": "WICKEDBLOW",
+    "name": "Golpe Oscuro",
+    "type": "DARK",
+    "power": 75,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AlwaysCriticalHit",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Golpe devastador que requiere un absoluto dominio de las artes siniestras. Siempre es crítico.",
+    "category": "Physical"
+}

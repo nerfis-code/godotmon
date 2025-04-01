@@ -1,0 +1,19 @@
+{
+    "move": "XSCISSOR",
+    "name": "Tijera X",
+    "type": "BUG",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Cruza las guadañas o las garras para atacar al rival como si fueran unas tijeras.",
+    "category": "Physical"
+}

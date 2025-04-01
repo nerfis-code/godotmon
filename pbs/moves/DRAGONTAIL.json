@@ -1,0 +1,19 @@
+{
+    "move": "DRAGONTAIL",
+    "name": "Cola Dragón",
+    "type": "DRAGON",
+    "power": 60,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": -6,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "SwitchOutTargetDamagingMove",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca al objetivo y lo obliga a cambiarse por otro Pokémon. Si es uno salvaje acaba el combate.",
+    "category": "Physical"
+}

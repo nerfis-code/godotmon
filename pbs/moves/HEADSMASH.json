@@ -1,0 +1,19 @@
+{
+    "move": "HEADSMASH",
+    "name": "Testarazo",
+    "type": "ROCK",
+    "power": 150,
+    "accuracy": 80,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "RecoilHalfOfDamageDealt",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Arriesga su vida y lanza un cabezazo con toda su fuerza. El agresor resulta seriamente dañado.",
+    "category": "Physical"
+}

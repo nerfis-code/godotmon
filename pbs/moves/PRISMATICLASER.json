@@ -1,0 +1,18 @@
+{
+    "move": "PRISMATICLASER",
+    "name": "Láser Prisma",
+    "type": "PSYCHIC",
+    "power": 160,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AttackAndSkipNextTurn",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario utiliza un prisma para emitir un rayo de gran potencia pero no puede moverse en el turno siguiente.",
+    "category": "Special"
+}

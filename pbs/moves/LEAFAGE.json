@@ -1,0 +1,18 @@
+{
+    "move": "LEAFAGE",
+    "name": "Follaje",
+    "type": "GRASS",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca al oponente lanzando hojas.",
+    "category": "Physical"
+}

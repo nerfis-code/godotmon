@@ -1,0 +1,15 @@
+{
+    "move": "DOOMDESIRE",
+    "name": "Deseo Oculto",
+    "type": "STEEL",
+    "power": 140,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AttackTwoTurnsLater",
+    "flags": [],
+    "description": "Concentra un haz de luz y ataca dos turnos después.",
+    "category": "Special"
+}

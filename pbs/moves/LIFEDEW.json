@@ -1,0 +1,17 @@
+{
+    "move": "LIFEDEW",
+    "name": "Gota Vital",
+    "type": "WATER",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "UserAndAllies",
+    "effectChance": 0,
+    "functionCode": "HealUserAndAlliesQuarterOfTotalHP",
+    "flags": [
+        "CannotMetronome"
+    ],
+    "description": "El usuario rocia un agua misteriosa que recupera PS para él y sus aliados en combate.",
+    "category": "Status"
+}

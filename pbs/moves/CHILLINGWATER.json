@@ -1,0 +1,19 @@
+{
+    "move": "CHILLINGWATER",
+    "name": "Agua Fría",
+    "type": "WATER",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "LowerTargetAttack1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Ataca al objetivo rociándolo con un agua gélida y desalentadora que reduce su Ataque.",
+    "category": "Special"
+}

@@ -1,0 +1,20 @@
+{
+    "move": "ICEBALL",
+    "name": "Bola Hielo",
+    "type": "ICE",
+    "power": 30,
+    "accuracy": 90,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "MultiTurnAttackPowersUpEachTurn",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "Bomb"
+    ],
+    "description": "El atacante rueda contra el objetivo durante cinco turnos cada vez con mayor fuerza.",
+    "category": "Physical"
+}

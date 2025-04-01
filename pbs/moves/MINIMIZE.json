@@ -1,0 +1,15 @@
+{
+    "move": "MINIMIZE",
+    "name": "Reducción",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserEvasion2MinimizeUser",
+    "flags": [],
+    "description": "El usuario mengua para aumentar mucho la Evasión.",
+    "category": "Status"
+}

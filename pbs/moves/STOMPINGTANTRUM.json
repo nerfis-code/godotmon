@@ -1,0 +1,19 @@
+{
+    "move": "STOMPINGTANTRUM",
+    "name": "Pataleta",
+    "type": "GROUND",
+    "power": 75,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "DoublePowerIfUserLastMoveFailed",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Usa la frustración para atacar duplicando la potencia si ha fallado su último movimiento.",
+    "category": "Physical"
+}

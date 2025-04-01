@@ -1,0 +1,18 @@
+{
+    "move": "CONFUSERAY",
+    "name": "Rayo Confuso",
+    "type": "GHOST",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "ConfuseTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Rayo siniestro que confunde al objetivo.",
+    "category": "Status"
+}

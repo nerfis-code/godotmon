@@ -1,0 +1,18 @@
+{
+    "move": "EERIEIMPULSE",
+    "name": "Onda Anómala",
+    "type": "ELECTRIC",
+    "power": 0,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "LowerTargetSpAtk2",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Irradia unas raras ondas que disminuyen mucho el Ataque Especial del objetivo.",
+    "category": "Status"
+}

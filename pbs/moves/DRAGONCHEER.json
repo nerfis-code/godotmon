@@ -1,0 +1,15 @@
+{
+    "move": "DRAGONCHEER",
+    "name": "Bramido Dragón",
+    "type": "DRAGON",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "AllAllies",
+    "effectChance": 0,
+    "functionCode": "RaiseAlliesCriticalHitRate1DragonTypes2",
+    "flags": [],
+    "description": "Bramido que aumenta la probabilidad de golpe crítico de aliados y en dos niveles si es Dragón.",
+    "category": "Status"
+}

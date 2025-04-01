@@ -1,0 +1,18 @@
+{
+    "move": "BONECLUB",
+    "name": "Hueso Palo",
+    "type": "GROUND",
+    "power": 65,
+    "accuracy": 85,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 10,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Aporrea con un hueso. Puede amedrentar al objetivo.",
+    "category": "Physical"
+}

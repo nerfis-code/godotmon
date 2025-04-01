@@ -1,0 +1,18 @@
+{
+    "move": "NATURALGIFT",
+    "name": "Don Natural",
+    "type": "NORMAL",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TypeAndPowerDependOnUserBerry",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "La baya que lleva presta su fuerza para atacar. El tipo de ataque y su fuerza dependen de la baya.",
+    "category": "Physical"
+}

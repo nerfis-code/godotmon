@@ -1,0 +1,17 @@
+{
+    "move": "MAGICROOM",
+    "name": "Zona Mágica",
+    "type": "PSYCHIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "BothSides",
+    "effectChance": 0,
+    "functionCode": "StartNegateHeldItems",
+    "flags": [
+        "CanMirrorMove"
+    ],
+    "description": "Crea un espacio misterioso que inutiliza s los objetos de los Pokémon durante cinco turnos.",
+    "category": "Status"
+}

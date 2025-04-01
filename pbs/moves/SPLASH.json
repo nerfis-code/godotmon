@@ -1,0 +1,15 @@
+{
+    "move": "SPLASH",
+    "name": "Salpicadura",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "DoesNothingUnusableInGravity",
+    "flags": [],
+    "description": "No tiene ningún efecto. Solo salpica.",
+    "category": "Status"
+}

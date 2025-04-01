@@ -1,0 +1,19 @@
+{
+    "move": "FALSESWIPE",
+    "name": "Falso Tortazo",
+    "type": "NORMAL",
+    "power": 40,
+    "accuracy": 100,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "CannotMakeTargetFaint",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataque moderado que no debilita al objetivo y le deja al menos un PS.",
+    "category": "Physical"
+}

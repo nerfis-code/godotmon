@@ -1,0 +1,20 @@
+{
+    "move": "RAGINGBULL",
+    "name": "Furia Taurina",
+    "type": "NORMAL",
+    "power": 90,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TypeIsUserSecondTypeRemoveScreens",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove",
+        "CannotMetronome"
+    ],
+    "description": "Este movimiento cambia de tipo en función de la forma del usuario. Destruye barreras.",
+    "category": "Physical"
+}

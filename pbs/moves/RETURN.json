@@ -1,0 +1,19 @@
+{
+    "move": "RETURN",
+    "name": "Retribución",
+    "type": "NORMAL",
+    "power": 1,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithUserHappiness",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Cuanto mayor sea la amistad con el Entrenador más poderoso será este ataque.",
+    "category": "Physical"
+}

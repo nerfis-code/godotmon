@@ -1,0 +1,18 @@
+{
+    "move": "STRUGGLEBUG",
+    "name": "Estoicismo",
+    "type": "BUG",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 100,
+    "functionCode": "LowerTargetSpAtk1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "El usuario contraataca. Además baja el Ataque Especial de los oponentes.",
+    "category": "Special"
+}

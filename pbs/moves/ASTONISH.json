@@ -1,0 +1,19 @@
+{
+    "move": "ASTONISH",
+    "name": "Impresionar",
+    "type": "GHOST",
+    "power": 30,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "FlinchTarget",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Impresiona tanto que puede amedrentar al objetivo.",
+    "category": "Physical"
+}

@@ -1,0 +1,15 @@
+{
+    "move": "HOLDHANDS",
+    "name": "Manos Juntas",
+    "type": "NORMAL",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 40,
+    "priority": 0,
+    "target": "NearAlly",
+    "effectChance": 0,
+    "functionCode": "DoesNothingFailsIfNoAlly",
+    "flags": [],
+    "description": "El Pokémon le da la mano a un aliado y ambos se sienten muy felices.",
+    "category": "Status"
+}

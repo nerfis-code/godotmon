@@ -1,0 +1,19 @@
+{
+    "move": "DIG",
+    "name": "Excavar",
+    "type": "GROUND",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TwoTurnAttackInvulnerableUnderground",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Primer turno: cava. Segundo turno: ataca. También sirve para salir de ciertas zonas.",
+    "category": "Physical"
+}

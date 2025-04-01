@@ -1,0 +1,17 @@
+{
+    "move": "JUNGLEHEALING",
+    "name": "Cura Selvática",
+    "type": "GRASS",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "UserAndAllies",
+    "effectChance": 0,
+    "functionCode": "HealUserAndAlliesQuarterOfTotalHPCureStatus",
+    "flags": [
+        "CannotMetronome"
+    ],
+    "description": "Restaura los PS y cura los problemas de estado del usuario y sus aliados.",
+    "category": "Status"
+}

@@ -1,0 +1,18 @@
+{
+    "move": "METEORBEAM",
+    "name": "Rayo Meteórico",
+    "type": "ROCK",
+    "power": 120,
+    "accuracy": 90,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "TwoTurnAttackChargeRaiseUserSpAtk1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "1º turno: aumenta su At. Especial. 2º turno: lanza su ofensiva contra el objetivo.",
+    "category": "Special"
+}

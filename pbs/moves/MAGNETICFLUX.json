@@ -1,0 +1,15 @@
+{
+    "move": "MAGNETICFLUX",
+    "name": "Aura Magnética",
+    "type": "ELECTRIC",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "UserAndAllies",
+    "effectChance": 0,
+    "functionCode": "RaisePlusMinusUserAndAlliesDefSpDef1",
+    "flags": [],
+    "description": "Aumentar la Defensa y la Defensa Espepecial de los aliados con las habilidades Más y Menos.",
+    "category": "Status"
+}

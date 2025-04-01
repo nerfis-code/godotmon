@@ -1,0 +1,18 @@
+{
+    "move": "NOXIOUSTORQUE",
+    "name": "Ponzochoque",
+    "type": "POISON",
+    "power": 100,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 30,
+    "functionCode": "StarmobilePoisonTarget",
+    "flags": [
+        "CanProtect",
+        "CannotMetronome"
+    ],
+    "description": "Puede envenenar al objetivo.",
+    "category": "Physical"
+}

@@ -1,0 +1,19 @@
+{
+    "move": "GLAIVERUSH",
+    "name": "Asalto Espadón",
+    "type": "DRAGON",
+    "power": 120,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UserVulnerableUntilNextAction",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "En el turno siguiente los ataques del rival no fallarán y causarán el doble de daño.",
+    "category": "Physical"
+}

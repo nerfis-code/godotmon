@@ -1,0 +1,18 @@
+{
+    "move": "DISCHARGE",
+    "name": "Chispazo",
+    "type": "ELECTRIC",
+    "power": 80,
+    "accuracy": 100,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "AllNearOthers",
+    "effectChance": 30,
+    "functionCode": "ParalyzeTarget",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Una deslumbradora onda eléctrica afecta a los demás Pokémon del combate. Puede paralizar.",
+    "category": "Special"
+}

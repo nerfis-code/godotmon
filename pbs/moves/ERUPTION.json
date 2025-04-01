@@ -1,0 +1,18 @@
+{
+    "move": "ERUPTION",
+    "name": "Estallido",
+    "type": "FIRE",
+    "power": 150,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 0,
+    "functionCode": "PowerHigherWithUserHP",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Furia explosiva. Cuanto menor sea el número de PS del usuario menos daño hará el ataque.",
+    "category": "Special"
+}

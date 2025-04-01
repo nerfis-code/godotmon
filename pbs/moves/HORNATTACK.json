@@ -1,0 +1,19 @@
+{
+    "move": "HORNATTACK",
+    "name": "Cornada",
+    "type": "NORMAL",
+    "power": 65,
+    "accuracy": 100,
+    "totalPP": 25,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "None",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Ataca al objetivo con una cornada.",
+    "category": "Physical"
+}

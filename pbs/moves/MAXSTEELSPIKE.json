@@ -1,0 +1,18 @@
+{
+    "move": "MAXSTEELSPIKE",
+    "name": "Max Steelspike",
+    "type": "STEEL",
+    "power": 1,
+    "accuracy": 0,
+    "totalPP": 1,
+    "priority": 0,
+    "target": "NearFoe",
+    "effectChance": 0,
+    "functionCode": "RaiseUserSideDef1",
+    "flags": [
+        "DynamaxMove_STEEL",
+        "CannotMetronome"
+    ],
+    "description": "A Steel-type attack Dynamax Pokémon use. This raises ally Pokémon's Defense stats.",
+    "category": "Physical"
+}

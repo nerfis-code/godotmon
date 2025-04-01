@@ -1,0 +1,17 @@
+{
+    "move": "SNOWSCAPE",
+    "name": "Paisaje Nevado",
+    "type": "ICE",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "BothSides",
+    "effectChance": 0,
+    "functionCode": "StartHailWeather",
+    "flags": [
+        "CannotMetronome"
+    ],
+    "description": "Invoca una nevada durante 5 turnos que aumenta la Defensa de los Pokémon de tipo Hielo.",
+    "category": "Status"
+}

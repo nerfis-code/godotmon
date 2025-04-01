@@ -1,0 +1,17 @@
+{
+    "move": "SILKTRAP",
+    "name": "Telatrampa",
+    "type": "BUG",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 10,
+    "priority": 4,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "ProtectUserFromDamagingMovesSilkTrap",
+    "flags": [
+        "CannotMetronome"
+    ],
+    "description": "Trampa sedosa que protege al usuario. Baja la Velocidad de quien lo toca.",
+    "category": "Status"
+}

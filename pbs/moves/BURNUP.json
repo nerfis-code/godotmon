@@ -1,0 +1,19 @@
+{
+    "move": "BURNUP",
+    "name": "Llama Final",
+    "type": "FIRE",
+    "power": 130,
+    "accuracy": 100,
+    "totalPP": 5,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "UserLosesFireType",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove",
+        "ThawsUser"
+    ],
+    "description": "Usa hasta el último resquicio de llamas de su cuerpo para atacar pero pierde el tipo Fuego.",
+    "category": "Special"
+}

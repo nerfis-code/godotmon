@@ -1,0 +1,19 @@
+{
+    "move": "STORMTHROW",
+    "name": "Llave Corsé",
+    "type": "FIGHTING",
+    "power": 60,
+    "accuracy": 100,
+    "totalPP": 10,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 0,
+    "functionCode": "AlwaysCriticalHit",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Lanza un golpe fulminante. Siempre resulta en un golpe crítico.",
+    "category": "Physical"
+}

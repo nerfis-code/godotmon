@@ -1,0 +1,15 @@
+{
+    "move": "BULKUP",
+    "name": "Corpulencia",
+    "type": "FIGHTING",
+    "power": 0,
+    "accuracy": 0,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "User",
+    "effectChance": 0,
+    "functionCode": "RaiseUserAtkDef1",
+    "flags": [],
+    "description": "Robustece el cuerpo para subir el Ataque y la Defensa.",
+    "category": "Status"
+}

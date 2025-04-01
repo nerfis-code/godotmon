@@ -1,0 +1,18 @@
+{
+    "move": "ELECTROWEB",
+    "name": "Electrotela",
+    "type": "ELECTRIC",
+    "power": 55,
+    "accuracy": 95,
+    "totalPP": 15,
+    "priority": 0,
+    "target": "AllNearFoes",
+    "effectChance": 100,
+    "functionCode": "LowerTargetSpeed1",
+    "flags": [
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Atrapa y ataca a los objetivos con una telaraña eléctrica. También reduce su Velocidad.",
+    "category": "Special"
+}

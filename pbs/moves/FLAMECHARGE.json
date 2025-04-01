@@ -1,0 +1,19 @@
+{
+    "move": "FLAMECHARGE",
+    "name": "Nitrocarga",
+    "type": "FIRE",
+    "power": 50,
+    "accuracy": 100,
+    "totalPP": 20,
+    "priority": 0,
+    "target": "NearOther",
+    "effectChance": 100,
+    "functionCode": "RaiseUserSpeed1",
+    "flags": [
+        "Contact",
+        "CanProtect",
+        "CanMirrorMove"
+    ],
+    "description": "Llamas que golpean al objetivo y aumentan la Velocidad del atacante.",
+    "category": "Physical"
+}
