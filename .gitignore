@@ -2,11 +2,15 @@
 *.uid
 .godot/
 /android/
-graphics
 *.import
 bin/
 obj/
+.tmp
 
 # System/temporary files
 .DS_Store
 Thumbs.db
+
+#Graphics files
+Back/
+Front/

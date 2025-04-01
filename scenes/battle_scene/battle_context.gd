@@ -10,7 +10,6 @@ var enemy_party: Array
 
 func _init(dict: Dictionary ={}) -> void:
 	for key in dict:
-		print(key)
 		if dict[key] is Array:
 			self[key] = dict[key] # .duplicate(true)
 		else:

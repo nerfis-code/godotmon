@@ -6,7 +6,7 @@ var factory_file = preload('res://utils/pokemon_factory.gd')
 
 var trainer_name:= 'nerfis'
 var id
-var uid
+var sid
 var party: Array
 var gender: int = MALE
 var money

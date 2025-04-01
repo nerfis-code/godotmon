@@ -22,6 +22,6 @@ func _init(props) -> void:
 	if FileAccess.file_exists(sprite_path):
 		_sprite.texture = load(sprite_path)    
 	else: 
-		_sprite.texture = load("res://graphics/battlers/Back/000.png")    
+		_sprite.texture = load("res://graphics/battlers/000.png")    
 	
 	add_child(_sprite)

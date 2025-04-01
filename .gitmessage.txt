@@ -1,0 +1,15 @@
+
+Tipo	    Cuándo Usarlo	                                Ejemplo
+feat	    Nueva funcionalidad	                            feat(combat): add critical hit system
+fix	        Corrección de bugs	                            fix(ai): enemy no longer gets stuck
+refactor	Cambios de código sin alterar funcionalidad	    refactor(ui): optimize menu navigation
+docs	    Actualización de documentación	                docs: update API reference
+assets	    Cambios en arte/sonido	                        assets(sfx): add new explosion sounds
+config	    Cambios en configuraciones	                    config: update .gitignore
+
+example:
+feat(battle): implement type effectiveness system
+
+- Added type chart in BattleCalculator
+- Supports 18 Pokémon types
+- Fixes #12

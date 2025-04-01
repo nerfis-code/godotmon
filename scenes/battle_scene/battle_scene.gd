@@ -15,7 +15,7 @@ func init(context: BattleContext):
 
 func change_state(new_state: BattleState):
 	_current_state = new_state
-	_current_state.enter(_context)
+	_current_state.enter()
 
 func _enter_tree() -> void:
 	
@@ -30,7 +30,7 @@ func next_state():
 	if state:
 		change_state(state)
 	else:
-		var factory = BattleStateFactory.new()
+		var factory = BattleStateFactory.get_instance()
 		change_state(factory.create_end_turn())
 	
 func update():
