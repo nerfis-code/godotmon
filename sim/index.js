@@ -44,10 +44,5 @@ cmd()
  * @param {string} raw 
  */
 function pipeline(raw) {
-    if (raw.startsWith('|request|')) {
-        const json = JSON.parse(raw.replace('|request|', ''))
-        console.dir(json, { depth: null, colors: false })
-        return
-    }
     console.log(raw)
 }
