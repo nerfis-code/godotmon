@@ -8,6 +8,9 @@ func _ready() -> void:
 	sim_controller = SimController.new(_on_message_received)
 
 func _on_message_received(message: String):
+	#if message.begins_with("|request|"):
+		#text_edit.text += JSON.stringify(JSON.parse_string(message.get_slice("|", 2)), "\t")
+		#return
 	text_edit.text += message + "\n"
 
 func _on_move_pressed(extra_arg_0: int) -> void:
