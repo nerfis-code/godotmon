@@ -6,7 +6,7 @@ var viewpoint_switched: bool = false
 
 var step_queue: Array = []
 var preempt_step_queue: Array = []
-var wait_for_animations: bool = true
+var wait_for_animations
 var current_step: int = 0
 var seeking = null
 
@@ -111,8 +111,8 @@ func remove_pseudo_weather(_weather: String):
 				scene.update_weather()
 			return
 
-func add_pseudo_weather(_weather: String, minTimeLeft: int, timeLeft: int):
-	pseudo_weather.append([_weather, minTimeLeft, timeLeft])
+func add_pseudo_weather(_weather: String, min_time_left: int, time_left: int):
+	pseudo_weather.append([_weather, min_time_left, time_left])
 	if scene and scene.has_method("update_weather"):
 		scene.update_weather()
 
@@ -123,13 +123,13 @@ func has_pseudo_weather(_weather: String) -> bool:
 	return false
 
 func get_all_active() -> Array[Pokemon]:
-	var pokemonList: Array[Pokemon] = []
+	var pokemon_list: Array[Pokemon] = []
 	for i in range(2):
 		var side = sides[i]
 		for active in side.active:
 			if active and not active.fainted:
-				pokemonList.append(active)
-	return pokemonList
+				pokemon_list.append(active)
+	return pokemon_list
 
 func reset():
 	paused = true
@@ -178,9 +178,9 @@ func destroy():
 	p3 = null
 	p4 = null
 
-func add_log(args: Array, kwArgs: Dictionary = {}, preempt: bool = false):
+func add_log(args: Array, kwargs: Dictionary = {}, preempt: bool = false):
 	if scene and scene.get("log"):
-		scene.log.add(args, kwArgs, preempt)
+		scene.log.add(args, kwargs, preempt)
 
 func start():
 	add_log(["start"])
@@ -204,12 +204,12 @@ func end_last_turn():
 		if scene and scene.has_method("update_statbars"):
 			scene.update_statbars()
 
-func set_turn(turnNum: int):
-	if turnNum == turn + 1:
+func set_turn(turn_num: int):
+	if turn_num == turn + 1:
 		end_last_turn_pending = true
 	if turn and not uses_upkeep:
 		update_turn_counters()
-	turn = turnNum
+	turn = turn_num
 	started = true
 
 	if seeking == null:
@@ -219,7 +219,7 @@ func set_turn(turnNum: int):
 		scene.increment_turn()
 
 	if seeking != null:
-		if turnNum >= seeking:
+		if turn_num >= seeking:
 			pass # stopSeeking()
 	else:
 		if subscription.is_valid():
@@ -231,9 +231,9 @@ func reset_turns_since_moved():
 		scene.update_acceleration()
 
 func update_turn_counters():
-	for pWeather in pseudo_weather:
-		if pWeather[1] > 0: pWeather[1] -= 1
-		if pWeather[2] > 0: pWeather[2] -= 1
+	for p_weather in pseudo_weather:
+		if p_weather[1] > 0: p_weather[1] -= 1
+		if p_weather[2] > 0: p_weather[2] -= 1
 	for side in sides:
 		for id in side.side_conditions:
 			var cond = side.side_conditions[id]
@@ -250,7 +250,7 @@ func update_turn_counters():
 	if scene and scene.has_method("update_weather"):
 		scene.update_weather()
 
-func run_major(args: Array, kwArgs: Dictionary = {}, preempt: bool = false):
+func run_major(args: Array, kwargs: Dictionary = {}, preempt: bool = false):
 	if args.size() == 0: return
 	
 	match args[0]:
@@ -311,15 +311,15 @@ func swap_side_conditions():
 				temp[side.n][id] = side.side_conditions[id]
 				side.remove_side_condition(id)
 		for i in range(4):
-			var sourceSide = sds[i]
-			if not sourceSide: continue
-			var source_side_conditions = temp.get(sourceSide.n, {})
-			var targetSide = sds[(i + 1) % 4]
-			if not targetSide: continue
+			var source_side = sds[i]
+			if not source_side: continue
+			var source_side_conditions = temp.get(source_side.n, {})
+			var target_side = sds[(i + 1) % 4]
+			if not target_side: continue
 			for id in source_side_conditions.keys():
-				targetSide.side_conditions[id] = source_side_conditions[id]
+				target_side.side_conditions[id] = source_side_conditions[id]
 				if scene and scene.has_method("add_side_condition"):
-					scene.add_side_condition(targetSide.n, id)
+					scene.add_side_condition(target_side.n, id)
 		return
 	
 	var side1 = sides[0]
@@ -343,8 +343,8 @@ func swap_side_conditions():
 				scene.add_side_condition(side1.n, id)
 			side2.remove_side_condition(id)
 
-func use_move(pokemon: Pokemon, move: Dictionary, target: Pokemon, kwArgs: Dictionary):
-	var fromeffect = dex.get_effect(kwArgs.get("from", "")) if dex and dex.has_method("get_effect") else {"id": kwArgs.get("from", ""), "name": kwArgs.get("from", "")}
+func use_move(pokemon: Pokemon, move: Dictionary, target: Pokemon, kwargs: Dictionary):
+	var fromeffect = dex.get_effect(kwargs.get("from", "")) if dex and dex.has_method("get_effect") else {"id": kwargs.get("from", ""), "name": kwargs.get("from", "")}
 	activate_ability(pokemon, fromeffect)
 	pokemon.clear_movestatuses()
 	if move.get("id") == "focuspunch":
@@ -354,21 +354,21 @@ func use_move(pokemon: Pokemon, move: Dictionary, target: Pokemon, kwArgs: Dicti
 	if fromeffect.get("id") == "sleeptalk":
 		pokemon.remember_move(move.get("name", ""), 0)
 		
-	var callerMoveForPressure = null
-	if fromeffect.get("id") and String(kwArgs.get("from", "")).begins_with("move:"):
-		callerMoveForPressure = fromeffect
+	var caller_move_for_pressure = null
+	if fromeffect.get("id") and String(kwargs.get("from", "")).begins_with("move:"):
+		caller_move_for_pressure = fromeffect
 		
-	if not fromeffect.get("id") or callerMoveForPressure or fromeffect.get("id") == "pursuit":
-		var moveName = move.get("name", "")
-		if not callerMoveForPressure:
+	if not fromeffect.get("id") or caller_move_for_pressure or fromeffect.get("id") == "pursuit":
+		var move_name = move.get("name", "")
+		if not caller_move_for_pressure:
 			if move.get("isZ"):
 				pokemon.item = move.get("isZ")
 				var item = dex.items.get(move.get("isZ")) if dex and "items" in dex else {}
 				if item and item.get("zMoveFrom"):
-					moveName = item.get("zMoveFrom")
-			elif moveName.begins_with("Z-"):
-				moveName = moveName.substr(2)
-				move = dex.moves.get(moveName) if dex and "moves" in dex else {}
+					move_name = item.get("zMoveFrom")
+			elif move_name.begins_with("Z-"):
+				move_name = move_name.substr(2)
+				move = dex.moves.get(move_name) if dex and "moves" in dex else {}
 				
 		var pp = 1
 		if ability_active("Pressure") and move.get("id") != "stickyweb":
@@ -390,10 +390,10 @@ func use_move(pokemon: Pokemon, move: Dictionary, target: Pokemon, kwArgs: Dicti
 				if foe and not foe.fainted and foe.effective_ability() == "Pressure":
 					pp += 1
 					
-		if not callerMoveForPressure:
-			pokemon.remember_move(moveName, pp)
+		if not caller_move_for_pressure:
+			pokemon.remember_move(move_name, pp)
 		else:
-			pokemon.remember_move(callerMoveForPressure.get("name", ""), pp - 1)
+			pokemon.remember_move(caller_move_for_pressure.get("name", ""), pp - 1)
 			
 	pokemon.last_move = move.get("id", "")
 	last_move = move.get("id", "")
@@ -414,9 +414,9 @@ func ability_active(abilities) -> bool:
 			return true
 	return false
 
-func animate_move(pokemon: Pokemon, move: Dictionary, target: Pokemon, kwArgs: Dictionary):
-	active_move_is_spread = kwArgs.get("spread", null)
-	if seeking != null or kwArgs.get("still"): return
+func animate_move(pokemon: Pokemon, move: Dictionary, target: Pokemon, kwargs: Dictionary):
+	active_move_is_spread = kwargs.get("spread", null)
+	if seeking != null or kwargs.get("still"): return
 	
 	if not target:
 		if pokemon.side and pokemon.side.foe and pokemon.side.foe.active.size() > 0:
@@ -424,42 +424,42 @@ func animate_move(pokemon: Pokemon, move: Dictionary, target: Pokemon, kwArgs: D
 	if not target:
 		if pokemon.side and pokemon.side.foe:
 			target = pokemon.side.foe.missed_pokemon
-	if kwArgs.get("miss") and target and target.side:
+	if kwargs.get("miss") and target and target.side:
 		target = target.side.missed_pokemon
-	if kwArgs.get("notarget"):
+	if kwargs.get("notarget"):
 		return
 		
-	if kwArgs.get("prepare") or kwArgs.get("anim") == "prepare":
+	if kwargs.get("prepare") or kwargs.get("anim") == "prepare":
 		if scene and scene.has_method("run_prepare_anim"):
 			scene.run_prepare_anim(move.get("id"), pokemon, target)
 		return
 		
-	var usedMove = move
-	if kwArgs.get("anim"):
-		usedMove = dex.moves.get(kwArgs.get("anim")) if dex and "moves" in dex else {"id": kwArgs.get("anim")}
+	var used_move = move
+	if kwargs.get("anim"):
+		used_move = dex.moves.get(kwargs.get("anim")) if dex and "moves" in dex else {"id": kwargs.get("anim")}
 		
-	if not kwArgs.get("spread"):
+	if not kwargs.get("spread"):
 		if scene and scene.has_method("run_move_anim"):
-			scene.run_move_anim(usedMove.get("id"), [pokemon, target])
+			scene.run_move_anim(used_move.get("id"), [pokemon, target])
 		return
 		
 	var targets = [pokemon]
-	var spread = kwArgs.get("spread", "")
+	var spread = kwargs.get("spread", "")
 	if spread == ".":
 		if target and target.side:
 			targets.append(target.side.missed_pokemon)
 	else:
-		for hitTarget in spread.split(","):
-			var curTarget = get_pokemon(hitTarget + ": ?")
-			if not curTarget:
-				add_log(["error", "Invalid spread move target: " + hitTarget])
+		for hit_target in spread.split(","):
+			var cur_target = get_pokemon(hit_target + ": ?")
+			if not cur_target:
+				add_log(["error", "Invalid spread move target: " + hit_target])
 				continue
-			targets.append(curTarget)
+			targets.append(cur_target)
 			
 	if scene and scene.has_method("run_move_anim"):
-		scene.run_move_anim(usedMove.get("id"), targets)
+		scene.run_move_anim(used_move.get("id"), targets)
 
-func cant_use_move(pokemon: Pokemon, effect: Dictionary, move: Dictionary, kwArgs: Dictionary):
+func cant_use_move(pokemon: Pokemon, effect: Dictionary, move: Dictionary, kwargs: Dictionary):
 	pokemon.clear_movestatuses()
 	if scene and scene.has_method("update_statbar"):
 		scene.update_statbar(pokemon)
@@ -498,16 +498,16 @@ func cant_use_move(pokemon: Pokemon, effect: Dictionary, move: Dictionary, kwArg
 	if scene and scene.has_method("anim_reset"):
 		scene.anim_reset(pokemon)
 
-func activate_ability(pokemon: Pokemon, effectOrName, isNotBase: bool = false):
-	if not pokemon or not effectOrName: return
-	var effectName = effectOrName
-	if typeof(effectOrName) == TYPE_DICTIONARY:
-		if effectOrName.get("effectType") != "Ability": return
-		effectName = effectOrName.get("name", "")
+func activate_ability(pokemon: Pokemon, effect_or_name, is_not_base: bool = false):
+	if not pokemon or not effect_or_name: return
+	var effect_name = effect_or_name
+	if typeof(effect_or_name) == TYPE_DICTIONARY:
+		if effect_or_name.get("effectType") != "Ability": return
+		effect_name = effect_or_name.get("name", "")
 		
 	if scene and scene.has_method("ability_activate_anim"):
-		scene.ability_activate_anim(pokemon, effectName)
-	pokemon.remember_ability(effectName, isNotBase)
+		scene.ability_activate_anim(pokemon, effect_name)
+	pokemon.remember_ability(effect_name, is_not_base)
 
 func parse_pokemon_id(ident: String) -> Dictionary:
 	var res = {"siden": - 1, "slot": - 1}
@@ -578,16 +578,16 @@ func run(line: String, preempt: bool = false) -> void:
 	
 	var parsed = BattleTextParser.parse_battle_line(line)
 	var args = parsed.args
-	var kw_args = parsed.kw_args
+	var kwargs = parsed.kwargs
 	
-	if scene.maybe_close_messagebar(args, kw_args):
+	if scene.maybe_close_messagebar(args, kwargs):
 		current_step -= 1
 		active_move_is_spread = null
 		return
 	
 	# Preparar siguiente línea (para minors)
 	var next_args: Array = [""]
-	var next_kw_args: Dictionary = {}
+	var next_kwargs: Dictionary = {}
 	
 	var next_line: String = ""
 	if current_step + 1 < step_queue.size():
@@ -596,19 +596,19 @@ func run(line: String, preempt: bool = false) -> void:
 	if next_line.begins_with("|-"):
 		var next_parsed = BattleTextParser.parse_battle_line(next_line)
 		next_args = next_parsed.args
-		next_kw_args = next_parsed.kw_args
+		next_kwargs = next_parsed.kwargs
 	
 	if debug:
 		if args[0].begins_with("-") or args[0] == "detailschange":
-			run_minor(args, kw_args, next_args, next_kw_args)
+			run_minor(args, kwargs, next_args, next_kwargs)
 		else:
-			run_major(args, kw_args, preempt)
+			run_major(args, kwargs, preempt)
 	else:
 		# TODO: Aqui el codigo orignal utiliza try catch
 		if args[0].begins_with("-") or args[0] == "detailschange":
-			run_minor(args, kw_args, next_args, next_kw_args)
+			run_minor(args, kwargs, next_args, next_kwargs)
 		else:
-			run_major(args, kw_args, preempt)
+			run_major(args, kwargs, preempt)
 	
 	if next_line.begins_with("|start") or args[0] == "teampreview":
 		if turn == -1:
@@ -659,33 +659,33 @@ func set_viewpoint(sideid: String):
 
 func parse_details(name: String, pokemonid: String, details: String) -> Dictionary:
 	var output = {}
-	var isTeamPreview = (name == "")
+	var is_team_preview = (name == "")
 	output["details"] = details
 	output["name"] = name
 	output["speciesForme"] = name
 	output["level"] = 100
 	output["shiny"] = false
 	output["gender"] = ""
-	output["ident"] = pokemonid if not isTeamPreview else ""
-	output["searchid"] = (pokemonid + "|" + details) if not isTeamPreview else ""
-	var splitDetails = details.split(", ")
+	output["ident"] = pokemonid if not is_team_preview else ""
+	output["searchid"] = (pokemonid + "|" + details) if not is_team_preview else ""
+	var split_details = details.split(", ")
 	
-	if splitDetails.size() > 0 and splitDetails[splitDetails.size() - 1].begins_with("tera:"):
-		output["terastallized"] = splitDetails[splitDetails.size() - 1].substr(5)
-		splitDetails.remove_at(splitDetails.size() - 1)
-	if splitDetails.size() > 0 and splitDetails[splitDetails.size() - 1] == "shiny":
+	if split_details.size() > 0 and split_details[split_details.size() - 1].begins_with("tera:"):
+		output["terastallized"] = split_details[split_details.size() - 1].substr(5)
+		split_details.remove_at(split_details.size() - 1)
+	if split_details.size() > 0 and split_details[split_details.size() - 1] == "shiny":
 		output["shiny"] = true
-		splitDetails.remove_at(splitDetails.size() - 1)
-	if splitDetails.size() > 0 and (splitDetails[splitDetails.size() - 1] == "M" or splitDetails[splitDetails.size() - 1] == "F"):
-		output["gender"] = splitDetails[splitDetails.size() - 1]
-		splitDetails.remove_at(splitDetails.size() - 1)
-	if splitDetails.size() > 0 and splitDetails[splitDetails.size() - 1].begins_with("L"):
-		var lvl_str = splitDetails[splitDetails.size() - 1].substr(1)
+		split_details.remove_at(split_details.size() - 1)
+	if split_details.size() > 0 and (split_details[split_details.size() - 1] == "M" or split_details[split_details.size() - 1] == "F"):
+		output["gender"] = split_details[split_details.size() - 1]
+		split_details.remove_at(split_details.size() - 1)
+	if split_details.size() > 0 and split_details[split_details.size() - 1].begins_with("L"):
+		var lvl_str = split_details[split_details.size() - 1].substr(1)
 		if lvl_str.is_valid_int():
 			output["level"] = lvl_str.to_int()
-		splitDetails.remove_at(splitDetails.size() - 1)
-	if splitDetails.size() > 0:
-		output["speciesForme"] = splitDetails[0]
+		split_details.remove_at(split_details.size() - 1)
+	if split_details.size() > 0:
+		output["speciesForme"] = split_details[0]
 	return output
 
 func parse_health(hpstring: String) -> Dictionary:
@@ -718,31 +718,74 @@ func parse_health(hpstring: String) -> Dictionary:
 			output["fainted"] = true
 	return output
 
-func run_minor(args: Array, kw_args: Dictionary = {}, next_args: Array = [], next_kw_args: Dictionary = {}):
-	pass
+func run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], next_kwargs: Dictionary = {}):
+	if next_args and next_kwargs:
+		if args[2] == "Sturdy" and args[0] == "-activate":
+			args[2] = "ability: Sturdy"
+
+		if args[0] in ["-crit", "-supereffective", "-resisted"] or args[2] == "ability: Sturdy":
+			kwargs.then = "."
+
+		if args[0] == "-damage" and not kwargs.from and args[1] != next_args[1] and (
+			next_args[0] in ["-crit", "-supereffective", "-resisted"] or
+			(next_args[0] == "-damage" and not next_kwargs.from)
+		):
+			kwargs.then = "."
+
+		if args[0] == "-damage" and next_args[0] == "-damage" and kwargs.from and kwargs.from == next_kwargs.from:
+			kwargs.then = "."
+
+		if args[0] == "-heal" and next_args[0] == "-heal" and kwargs.from and kwargs.from == next_kwargs.from:
+			kwargs.then = "."
+
+		if args[0] == "-ability" and (args[2] == "Intimidate" or args[4] == "boost"):
+			kwargs.then = "."
+
+		if args[0] == "-unboost" and next_args[0] == "-unboost":
+			kwargs.then = "."
+
+		if args[0] == "-boost" and next_args[0] == "-boost":
+			kwargs.then = "."
+
+		if args[0] == "-damage" and kwargs.from == "Leech Seed" and next_args[0] == "-heal" and next_kwargs.silent:
+			kwargs.then = "."
+
+		if args[0] == "detailschange" and next_args[0] == "-mega":
+			if scene.close_messagebar():
+				current_step -= 1
+				return
+			kwargs.simult = "."
+
+	if kwargs.then:
+		wait_for_animations = false
+
+	if kwargs.simult:
+		wait_for_animations = "simult"
+
+	const CONSUMED = ["eaten", "popped", "consumed", "held up"]
 
 enum HPColor {
-    NONE,
-    R,
-    Y,
-    G,
+	NONE,
+	R,
+	Y,
+	G,
 }
 enum StatusName {
-    PAR,
-    PSN,
-    FRZ,
-    SLP,
-    BRN,
-    TOX,
-    NONE,
-    UNKNOWN,
+	PAR,
+	PSN,
+	FRZ,
+	SLP,
+	BRN,
+	TOX,
+	NONE,
+	UNKNOWN,
 }
 
 class BattleTextParser:
 	static func parse_battle_line(line: String) -> Dictionary:
 		var parts = line.split("|")
 		var args = []
-		var kwArgs = {}
+		var kwargs = {}
 		if parts.size() > 1:
 			for i in range(1, parts.size()):
 				var p = parts[i]
@@ -750,15 +793,15 @@ class BattleTextParser:
 					var end_idx = p.find("]")
 					var key = p.substr(1, end_idx - 1)
 					var val = p.substr(end_idx + 1).strip_edges()
-					kwArgs[key] = val
+					kwargs[key] = val
 				else:
 					args.append(p)
 		elif parts.size() == 1:
 			args.append(parts[0])
-		return {"args": args, "kwArgs": kwArgs}
+		return {"args": args, "kwargs": kwargs}
 
 class BattleSceneLog:
-	func add(args: Array, kwArgs: Dictionary = {}, preempt: bool = false):
+	func add(args: Array, kwargs: Dictionary = {}, preempt: bool = false):
 		pass
 
 class BattleScene:
@@ -798,7 +841,7 @@ class ServerPokemon extends Serializable:
 	# PokemonDetails
 	var details: String
 	var name: String
-	var speciesForme: String
+	var species_forme: String
 	var level: int
 	var shiny: bool
 	var gender: String
@@ -818,11 +861,11 @@ class ServerPokemon extends Serializable:
 	var reviving: bool
 	var stats: Dictionary
 	var moves: Array[String] = []
-	var baseAbility: String
+	var base_ability: String
 	var ability: String
 	var item: String
 	var pokeball: String
-	var teraType: String
+	var tera_type: String
 	var terastallized: String
 	
 	func _init(json_data: Dictionary = {}):
@@ -1030,7 +1073,7 @@ class BattleSide:
 
 		return poke
 
-	func switch_in(poke: Pokemon, kw_args: Dictionary, slot: int = -1):
+	func switch_in(poke: Pokemon, kwargs: Dictionary, slot: int = -1):
 		if slot == -1: slot = poke.slot
 		while active.size() <= slot:
 			active.append(null)
@@ -1041,7 +1084,7 @@ class BattleSide:
 		poke.lastMove = ""
 		if battle:
 			battle.lastMove = "switch-in"
-		var effect_id = kw_args.get("from", "")
+		var effect_id = kwargs.get("from", "")
 		if effect_id in ["batonpass", "zbatonpass", "shedtail"]:
 			if last_pokemon:
 				poke.copy_volatile_from(last_pokemon, "shedtail" if effect_id == "shedtail" else false)
@@ -1108,9 +1151,9 @@ class BattleSide:
 				battle.scene.anim_unsummon(oldpokemon, true)
 			battle.scene.anim_summon(poke, slot, true)
 
-	func switch_out(poke: Pokemon, kw_args: Dictionary, slot: int = -1):
+	func switch_out(poke: Pokemon, kwargs: Dictionary, slot: int = -1):
 		if slot == -1: slot = poke.slot
-		var effect_id = kw_args.get("from", "")
+		var effect_id = kwargs.get("from", "")
 		if not effect_id in ["batonpass", "zbatonpass", "shedtail"] and not (battle and "tier" in battle and typeof(battle.tier) == TYPE_STRING and battle.tier.contains("Relay Race") and effect_id == ""):
 			poke.clear_volatile()
 		else:
@@ -1151,7 +1194,7 @@ class BattleSide:
 			battle.scene.anim_summon(poke, slot, true)
 			if target: battle.scene.anim_summon(target, oslot, true)
 
-	func swap_with(poke: Pokemon, target: Pokemon, kw_args: Dictionary):
+	func swap_with(poke: Pokemon, target: Pokemon, kwargs: Dictionary):
 		if poke == target: return
 
 		var oslot = poke.slot
@@ -1228,15 +1271,15 @@ class Pokemon:
 	var prev_item: String = ""
 	var prev_item_effect: String = ""
 	var terastallized: String = ""
-	var teraType: String = ""
+	var tera_type: String = ""
 	
 	var boosts: Dictionary = {}
 	var status: StatusName = StatusName.NONE
-	var statusStage: int = 0
+	var status_stage: int = 0
 	var volatiles: Dictionary = {}
 	var turnstatuses: Dictionary = {}
 	var movestatuses: Dictionary = {}
-	var lastMove: String = ""
+	var last_move: String = ""
 	
 	var move_track: Array = []
 	var status_data: Dictionary = {"sleepTurns": 0, "toxicTurns": 0}
@@ -1246,7 +1289,7 @@ class Pokemon:
 	
 	func _init(data: ServerPokemon, p_side: BattleSide):
 		side = p_side
-		species_forme = data.speciesForme
+		species_forme = data.species_forme
 		details = data.details
 		name = data.name
 		level = data.level
@@ -1490,7 +1533,7 @@ class Pokemon:
 			if not entry[0].begins_with("*"):
 				new_track.append(entry)
 		move_track = new_track
-		statusStage = 0
+		status_stage = 0
 		status_data["toxicTurns"] = 0
 		
 	func copy_volatile_from(pokemon: Pokemon, copy_source = null):
@@ -1516,7 +1559,7 @@ class Pokemon:
 		volatiles.erase("formechange")
 		pokemon.boosts.clear()
 		pokemon.volatiles.clear()
-		pokemon.statusStage = 0
+		pokemon.status_stage = 0
 		
 	func copy_types_from(pokemon: Pokemon, preterastallized: bool = false):
 		var types_data = pokemon.get_types(null, preterastallized)
@@ -1577,7 +1620,7 @@ class Pokemon:
 		
 	func get_species_forme(server_pokemon: ServerPokemon = null) -> String:
 		if volatiles.has("formechange"): return volatiles["formechange"][1]
-		return server_pokemon.speciesForme if server_pokemon else species_forme
+		return server_pokemon.species_forme if server_pokemon else species_forme
 		
 	func reset():
 		clear_volatile()
