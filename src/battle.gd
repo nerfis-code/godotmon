@@ -1,106 +1,1616 @@
 class_name Battle
 extends RefCounted
 
-signal initdone
-const IGNORE = [
-	"t:",
-	"gametype",
-	"player",
-	"",
-	"gen",
-	"tier",
-	"rule",
-	"teamsize",
-]
-var sim_controller: SimController
-var my_side: Dictionary
+var scene: BattleScene
+var viewpoint_switched: bool = false
 
-func _init() -> void:
-	sim_controller = SimController.new(_on_message_received)
+var step_queue: Array = []
+var preempt_step_queue: Array = []
+var wait_for_animations: bool = true
+var current_step: int = 0
+var seeking = null
 
-func _on_message_received(message: String) -> void:
-	var parts = message.split("|")
+var active_move_is_spread = null
+
+var subscription: Callable
+
+var mute: bool = false
+var message_fade_time: int = 300
+var message_shown_time: int = 1
+var turns_since_moved: int = 0
+
+var turn: int = -1
+var at_queue_end: bool = false
+var started: bool = false
+var ended: bool = false
+var is_replay: bool = false
+var uses_upkeep: bool = false
+var weather: String = ""
+var pseudo_weather: Array = []
+var weather_time_left: int = 0
+var weather_min_time_left: int = 0
+
+var my_side: BattleSide
+var near_side: BattleSide
+var far_side: BattleSide
+var p1: BattleSide
+var p2: BattleSide
+var p3: BattleSide
+var p4: BattleSide
+var pokemon_controlled: int = 0
+var sides: Array[BattleSide] = []
+var my_pokemon: Array = []
+var my_ally_pokemon: Array = []
+var last_move: String = ""
+
+var gen: int = 8
+var dex = null
+var team_preview_count: int = 0
+var species_clause: bool = false
+var tier: String = ""
+var game_type: String = "singles"
+var compat_mode: bool = true
+var rated = false
+var rules: Dictionary = {}
+var is_blitz: bool = false
+var report_exact_hp: bool = false
+var end_last_turn_pending: bool = false
+var total_time_left: int = 0
+var grace_time_left: int = 0
+var kicking_inactive = false
+
+var id: String = ""
+var room_id: String = ""
+var hardcore_mode: bool = false
+var ignore_nicks: bool = false
+var ignore_opponent: bool = false
+var ignore_spects: bool = false
+var debug: bool = false
+var join_buttons: bool = false
+var autoresize: bool = false
+var paused: bool = false
+
+func _init(options: Dictionary = {}):
+	id = options.get("id", "")
+	scene = BattleScene.new()
+
+	paused = options.get("paused", false)
+	started = not paused
+	debug = options.get("debug", false)
 	
-	if parts[1] == "request":
-		var data = JSON.parse_string(parts[2])
-		var p := PokemonServer.new(data.side.pokemon[0])
-		my_side = {pokemon = [p]}
-		initdone.emit()
+	var log_data = options.get("log", [])
+	if typeof(log_data) == TYPE_STRING:
+		step_queue = log_data.split("\n")
+	else:
+		step_queue = log_data
 		
-	print(parts)
+	if options.has("subscription"):
+		subscription = options["subscription"]
+		
+	autoresize = options.get("autoresize", false)
+
+	p1 = BattleSide.new(self , 0)
+	p2 = BattleSide.new(self , 1)
+	sides = [p1, p2]
+	p2.foe = p1
+	p1.foe = p2
+	my_side = p1
+	near_side = p1
+	far_side = p2
+
+	reset_step()
+
+func subscribe(listener: Callable):
+	subscription = listener
+
+func remove_pseudo_weather(_weather: String):
+	for i in range(pseudo_weather.size()):
+		if pseudo_weather[i][0] == _weather:
+			pseudo_weather.remove_at(i)
+			if scene and scene.has_method("update_weather"):
+				scene.update_weather()
+			return
+
+func add_pseudo_weather(_weather: String, minTimeLeft: int, timeLeft: int):
+	pseudo_weather.append([_weather, minTimeLeft, timeLeft])
+	if scene and scene.has_method("update_weather"):
+		scene.update_weather()
+
+func has_pseudo_weather(_weather: String) -> bool:
+	for pw in pseudo_weather:
+		if _weather == pw[0]:
+			return true
+	return false
+
+func get_all_active() -> Array[Pokemon]:
+	var pokemonList: Array[Pokemon] = []
+	for i in range(2):
+		var side = sides[i]
+		for active in side.active:
+			if active and not active.fainted:
+				pokemonList.append(active)
+	return pokemonList
+
+func reset():
+	paused = true
+	if scene and scene.has_method("pause"):
+		scene.pause()
+	reset_step()
+	if subscription.is_valid():
+		subscription.call("paused")
+
+func reset_step():
+	turn = -1
+	started = not paused
+	ended = false
+	at_queue_end = false
+	weather = ""
+	weather_time_left = 0
+	weather_min_time_left = 0
+	pseudo_weather.clear()
+	last_move = ""
+
+	for side in sides:
+		if side: side.reset()
+	my_pokemon = []
+	my_ally_pokemon = []
+
+	if scene and scene.has_method("reset"):
+		scene.reset()
+
+	active_move_is_spread = null
+	current_step = 0
+	reset_turns_since_moved()
+	# nextStep() - To be implemented
+
+func destroy():
+	if scene and scene.has_method("destroy"):
+		scene.destroy()
+	for i in range(sides.size()):
+		if sides[i]:
+			sides[i].destroy()
+		sides[i] = null
+	my_side = null
+	near_side = null
+	far_side = null
+	p1 = null
+	p2 = null
+	p3 = null
+	p4 = null
+
+func add_log(args: Array, kwArgs: Dictionary = {}, preempt: bool = false):
+	if scene and scene.get("log"):
+		scene.log.add(args, kwArgs, preempt)
+
+func start():
+	add_log(["start"])
+	reset_turns_since_moved()
+
+func winner(_winner: String = ""):
+	add_log(["win", _winner])
+	ended = true
+	if subscription.is_valid():
+		subscription.call("ended")
+
+func premature_end():
+	add_log(["message", "This replay ends here."])
+	ended = true
+	if subscription.is_valid():
+		subscription.call("ended")
+
+func end_last_turn():
+	if end_last_turn_pending:
+		end_last_turn_pending = false
+		if scene and scene.has_method("update_statbars"):
+			scene.update_statbars()
+
+func set_turn(turnNum: int):
+	if turnNum == turn + 1:
+		end_last_turn_pending = true
+	if turn and not uses_upkeep:
+		update_turn_counters()
+	turn = turnNum
+	started = true
+
+	if seeking == null:
+		turns_since_moved += 1
+
+	if scene and scene.has_method("increment_turn"):
+		scene.increment_turn()
+
+	if seeking != null:
+		if turnNum >= seeking:
+			pass # stopSeeking()
+	else:
+		if subscription.is_valid():
+			subscription.call("turn")
+
+func reset_turns_since_moved():
+	turns_since_moved = 0
+	if scene and scene.has_method("update_acceleration"):
+		scene.update_acceleration()
+
+func update_turn_counters():
+	for pWeather in pseudo_weather:
+		if pWeather[1] > 0: pWeather[1] -= 1
+		if pWeather[2] > 0: pWeather[2] -= 1
+	for side in sides:
+		for id in side.side_conditions:
+			var cond = side.side_conditions[id]
+			if cond[2] > 0: cond[2] -= 1
+			if cond[3] > 0: cond[3] -= 1
+	var actives = []
+	if near_side: actives.append_array(near_side.active)
+	if far_side: actives.append_array(far_side.active)
+	for poke in actives:
+		if poke:
+			if poke.status == StatusName.TOX:
+				poke.statusData["toxicTurns"] += 1
+			poke.clear_turnstatuses()
+	if scene and scene.has_method("update_weather"):
+		scene.update_weather()
+
+func run_major(args: Array, kwArgs: Dictionary = {}, preempt: bool = false):
+	if args.size() == 0: return
+	
+	match args[0]:
+		"fieldhtml":
+			if scene and scene.has_method("set_frame_html"):
+				scene.set_frame_html(args[1])
+		"controlshtml":
+			if scene and scene.has_method("set_controls_html"):
+				scene.set_controls_html(args[1])
+		# El resto de metodos runMajor se añadirá progresivamente ya que es muy largo
+		_:
+			pass
+
+func change_weather(weather_name: String, poke: Pokemon = null, is_ipkeep: bool = false, ability: Dictionary = {}):
+	var w = weather_name.to_lower().replace(" ", "")
+	if not w or w == "none":
+		w = ""
+	
+	if is_ipkeep:
+		if weather and weather_time_left > 0:
+			weather_time_left -= 1
+			if weather_min_time_left > 0:
+				weather_min_time_left -= 1
+		if seeking == null:
+			if scene and scene.has_method("upkeep_weather"):
+				scene.upkeep_weather()
+		return
+	
+	if w:
+		var is_extreme_weather = (w == "deltastream" or w == "desolateland" or w == "primordialsea")
+		if poke:
+			if ability.size() > 0:
+				activate_ability(poke, ability.get("name", ""))
+			weather_time_left = 0 if (gen <= 5 or is_extreme_weather) else 8
+			weather_min_time_left = 0 if (gen <= 5 or is_extreme_weather) else 5
+		elif is_extreme_weather:
+			weather_time_left = 0
+			weather_min_time_left = 0
+		else:
+			weather_time_left = 5 if gen <= 3 else 8
+			weather_min_time_left = 0 if gen <= 3 else 5
+	
+	weather = w
+	if scene and scene.has_method("update_weather"):
+		scene.update_weather()
+
+func swap_side_conditions():
+	var conds = [
+		"mist", "lightscreen", "reflect", "spikes", "safeguard", "tailwind", "toxicspikes", "stealthrock", "waterpledge", "firepledge", "grasspledge", "stickyweb", "auroraveil", "gmaxsteelsurge", "gmaxcannonade", "gmaxvinelash", "gmaxwildfire"
+	]
+	if game_type == "freeforall":
+		var sds = [sides[0], sides.size() > 3 and sides[3] or null, sides.size() > 1 and sides[1] or null, sides.size() > 2 and sides[2] or null]
+		var temp = {0: {}, 1: {}, 2: {}, 3: {}}
+		for side in sds:
+			if not side: continue
+			for id in side.side_conditions.keys():
+				if not conds.has(id): continue
+				temp[side.n][id] = side.side_conditions[id]
+				side.remove_side_condition(id)
+		for i in range(4):
+			var sourceSide = sds[i]
+			if not sourceSide: continue
+			var source_side_conditions = temp.get(sourceSide.n, {})
+			var targetSide = sds[(i + 1) % 4]
+			if not targetSide: continue
+			for id in source_side_conditions.keys():
+				targetSide.side_conditions[id] = source_side_conditions[id]
+				if scene and scene.has_method("add_side_condition"):
+					scene.add_side_condition(targetSide.n, id)
+		return
+	
+	var side1 = sides[0]
+	var side2 = sides[1]
+	for id in conds:
+		if side1.side_conditions.has(id) and side2.side_conditions.has(id):
+			var t = side1.side_conditions[id]
+			side1.side_conditions[id] = side2.side_conditions[id]
+			side2.side_conditions[id] = t
+			if scene and scene.has_method("add_side_condition"):
+				scene.add_side_condition(side1.n, id)
+				scene.add_side_condition(side2.n, id)
+		elif side1.side_conditions.has(id) and not side2.side_conditions.has(id):
+			side2.side_conditions[id] = side1.side_conditions[id]
+			if scene and scene.has_method("add_side_condition"):
+				scene.add_side_condition(side2.n, id)
+			side1.remove_side_condition(id)
+		elif side2.side_conditions.has(id) and not side1.side_conditions.has(id):
+			side1.side_conditions[id] = side2.side_conditions[id]
+			if scene and scene.has_method("add_side_condition"):
+				scene.add_side_condition(side1.n, id)
+			side2.remove_side_condition(id)
+
+func use_move(pokemon: Pokemon, move: Dictionary, target: Pokemon, kwArgs: Dictionary):
+	var fromeffect = dex.get_effect(kwArgs.get("from", "")) if dex and dex.has_method("get_effect") else {"id": kwArgs.get("from", ""), "name": kwArgs.get("from", "")}
+	activate_ability(pokemon, fromeffect)
+	pokemon.clear_movestatuses()
+	if move.get("id") == "focuspunch":
+		pokemon.remove_turnstatus("focuspunch")
+	if scene and scene.has_method("update_statbar"):
+		scene.update_statbar(pokemon)
+	if fromeffect.get("id") == "sleeptalk":
+		pokemon.remember_move(move.get("name", ""), 0)
+		
+	var callerMoveForPressure = null
+	if fromeffect.get("id") and String(kwArgs.get("from", "")).begins_with("move:"):
+		callerMoveForPressure = fromeffect
+		
+	if not fromeffect.get("id") or callerMoveForPressure or fromeffect.get("id") == "pursuit":
+		var moveName = move.get("name", "")
+		if not callerMoveForPressure:
+			if move.get("isZ"):
+				pokemon.item = move.get("isZ")
+				var item = dex.items.get(move.get("isZ")) if dex and "items" in dex else {}
+				if item and item.get("zMoveFrom"):
+					moveName = item.get("zMoveFrom")
+			elif moveName.begins_with("Z-"):
+				moveName = moveName.substr(2)
+				move = dex.moves.get(moveName) if dex and "moves" in dex else {}
+				
+		var pp = 1
+		if ability_active("Pressure") and move.get("id") != "stickyweb":
+			var foe_targets = []
+			var move_target = move.get("pressureTarget", "")
+			
+			if not target and game_type == "singles" and not move_target in ["self", "allies", "allySide", "adjacentAlly", "adjacentAllyOrSelf", "allyTeam"]:
+				if pokemon.side and pokemon.side.foe and pokemon.side.foe.active.size() > 0:
+					foe_targets.append(pokemon.side.foe.active[0])
+			elif move_target in ["all", "allAdjacent", "allAdjacentFoes", "foeSide"]:
+				for active in get_all_active():
+					if active == pokemon: continue
+					if gen <= 4 or (active.side != pokemon.side and active.side.ally != pokemon.side):
+						foe_targets.append(active)
+			elif target and target.side != pokemon.side:
+				foe_targets.append(target)
+				
+			for foe in foe_targets:
+				if foe and not foe.fainted and foe.effective_ability() == "Pressure":
+					pp += 1
+					
+		if not callerMoveForPressure:
+			pokemon.remember_move(moveName, pp)
+		else:
+			pokemon.remember_move(callerMoveForPressure.get("name", ""), pp - 1)
+			
+	pokemon.last_move = move.get("id", "")
+	last_move = move.get("id", "")
+	if last_move in ["wish", "healingwish"]:
+		if pokemon.side:
+			pokemon.side.wisher = pokemon
+
+func ability_active(abilities) -> bool:
+	if typeof(abilities) == TYPE_STRING:
+		abilities = [abilities]
+	var lower_abilities = []
+	for a in abilities:
+		lower_abilities.append(a.to_lower().replace(" ", ""))
+		
+	for active in get_all_active():
+		var effect_ab = active.effective_ability() if active.has_method("effective_ability") else active.ability
+		if lower_abilities.has(effect_ab.to_lower().replace(" ", "")):
+			return true
+	return false
+
+func animate_move(pokemon: Pokemon, move: Dictionary, target: Pokemon, kwArgs: Dictionary):
+	active_move_is_spread = kwArgs.get("spread", null)
+	if seeking != null or kwArgs.get("still"): return
+	
+	if not target:
+		if pokemon.side and pokemon.side.foe and pokemon.side.foe.active.size() > 0:
+			target = pokemon.side.foe.active[0]
+	if not target:
+		if pokemon.side and pokemon.side.foe:
+			target = pokemon.side.foe.missed_pokemon
+	if kwArgs.get("miss") and target and target.side:
+		target = target.side.missed_pokemon
+	if kwArgs.get("notarget"):
+		return
+		
+	if kwArgs.get("prepare") or kwArgs.get("anim") == "prepare":
+		if scene and scene.has_method("run_prepare_anim"):
+			scene.run_prepare_anim(move.get("id"), pokemon, target)
+		return
+		
+	var usedMove = move
+	if kwArgs.get("anim"):
+		usedMove = dex.moves.get(kwArgs.get("anim")) if dex and "moves" in dex else {"id": kwArgs.get("anim")}
+		
+	if not kwArgs.get("spread"):
+		if scene and scene.has_method("run_move_anim"):
+			scene.run_move_anim(usedMove.get("id"), [pokemon, target])
+		return
+		
+	var targets = [pokemon]
+	var spread = kwArgs.get("spread", "")
+	if spread == ".":
+		if target and target.side:
+			targets.append(target.side.missed_pokemon)
+	else:
+		for hitTarget in spread.split(","):
+			var curTarget = get_pokemon(hitTarget + ": ?")
+			if not curTarget:
+				add_log(["error", "Invalid spread move target: " + hitTarget])
+				continue
+			targets.append(curTarget)
+			
+	if scene and scene.has_method("run_move_anim"):
+		scene.run_move_anim(usedMove.get("id"), targets)
+
+func cant_use_move(pokemon: Pokemon, effect: Dictionary, move: Dictionary, kwArgs: Dictionary):
+	pokemon.clear_movestatuses()
+	if scene and scene.has_method("update_statbar"):
+		scene.update_statbar(pokemon)
+	if scene and scene.has_method("run_status_anim"):
+		scene.run_status_anim(effect.get("id", ""), [pokemon])
+		
+	activate_ability(pokemon, effect)
+	if move.get("id"):
+		pokemon.remember_move(move.get("name", ""), 0)
+		
+	match effect.get("id", ""):
+		"par":
+			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Paralyzed", "par")
+		"frz":
+			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Frozen", "frz")
+		"slp":
+			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Asleep", "slp")
+			pokemon.status_data["sleepTurns"] += 1
+		"truant":
+			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Loafing around", "neutral")
+		"recharge":
+			if scene and scene.has_method("run_other_anim"): scene.run_other_anim("selfstatus", [pokemon])
+			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Must recharge", "neutral")
+		"focuspunch":
+			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Lost focus", "neutral")
+			pokemon.remove_turnstatus("focuspunch")
+		"shelltrap":
+			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Trap failed", "neutral")
+			pokemon.remove_turnstatus("shelltrap")
+		"flinch":
+			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Flinched", "neutral")
+			pokemon.remove_turnstatus("focuspunch")
+		"attract":
+			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Immobilized", "neutral")
+			
+	if scene and scene.has_method("anim_reset"):
+		scene.anim_reset(pokemon)
+
+func activate_ability(pokemon: Pokemon, effectOrName, isNotBase: bool = false):
+	if not pokemon or not effectOrName: return
+	var effectName = effectOrName
+	if typeof(effectOrName) == TYPE_DICTIONARY:
+		if effectOrName.get("effectType") != "Ability": return
+		effectName = effectOrName.get("name", "")
+		
+	if scene and scene.has_method("ability_activate_anim"):
+		scene.ability_activate_anim(pokemon, effectName)
+	pokemon.remember_ability(effectName, isNotBase)
+
+func parse_pokemon_id(ident: String) -> Dictionary:
+	var res = {"siden": - 1, "slot": - 1}
+	if not ident: return res
+	var p_id = ident.substr(0, 2)
+	var letter = ident.substr(2, 1)
+	res["slot"] = letter.unicode_at(0) - "a".unicode_at(0)
+	
+	for i in range(sides.size()):
+		if sides[i] and sides[i].sideid == p_id:
+			res["siden"] = sides[i].n
+			break
+	return res
+
+func get_pokemon(ident: String, details: String = "") -> Pokemon:
+	if not ident: return null
+	var parts = ident.split(":")
+	if parts.size() < 1: return null
+	
+	var slot_str = parts[0].strip_edges()
+	var parsed = parse_pokemon_id(slot_str)
+	var siden = parsed["siden"]
+	var slot_idx = parsed["slot"]
+	
+	if siden >= 0 and siden < sides.size():
+		var target_side = sides[siden]
+		if target_side and slot_idx >= 0 and slot_idx < target_side.active.size():
+			return target_side.active[slot_idx]
+	return null
+
+func get_side(sidename: String) -> BattleSide:
+	if sidename == "p1" or sidename.begins_with("p1:"): return p1
+	if sidename == "p2" or sidename.begins_with("p2:"): return p2
+	if (sidename == "p3" or sidename.begins_with("p3:")) and p3: return p3
+	if (sidename == "p4" or sidename.begins_with("p4:")) and p4: return p4
+	if near_side and near_side.id == sidename: return near_side
+	if far_side and far_side.id == sidename: return far_side
+	if near_side and near_side.name == sidename: return near_side
+	if far_side and far_side.name == sidename: return far_side
+	var fallback = BattleSide.new(self , 0)
+	fallback.name = sidename
+	fallback.id = sidename.replace(" ", "")
+	return fallback
+
+func add(command: String = ""):
+	if command:
+		step_queue.append(command)
+		
+	if at_queue_end and current_step < step_queue.size():
+		at_queue_end = false
+		if has_method("next_step"):
+			call("next_step")
+
+func instant_add(command: String):
+	run(command, true)
+	preempt_step_queue.append(command)
+	add(command)
+
+func run(line: String, preempt: bool = false) -> void:
+	# Manejo de preempt
+	if not preempt and preempt_step_queue.size() > 0 and line == preempt_step_queue[0]:
+		preempt_step_queue.pop_front()
+		scene.preempt_catchup()
+		return
+	
+	if line.is_empty():
+		return
+	
+	var parsed = BattleTextParser.parse_battle_line(line)
+	var args = parsed.args
+	var kw_args = parsed.kw_args
+	
+	if scene.maybe_close_messagebar(args, kw_args):
+		current_step -= 1
+		active_move_is_spread = null
+		return
+	
+	# Preparar siguiente línea (para minors)
+	var next_args: Array = [""]
+	var next_kw_args: Dictionary = {}
+	
+	var next_line: String = ""
+	if current_step + 1 < step_queue.size():
+		next_line = step_queue[current_step + 1]
+	
+	if next_line.begins_with("|-"):
+		var next_parsed = BattleTextParser.parse_battle_line(next_line)
+		next_args = next_parsed.args
+		next_kw_args = next_parsed.kw_args
+	
+	if debug:
+		if args[0].begins_with("-") or args[0] == "detailschange":
+			run_minor(args, kw_args, next_args, next_kw_args)
+		else:
+			run_major(args, kw_args, preempt)
+	else:
+		# TODO: Aqui el codigo orignal utiliza try catch
+		if args[0].begins_with("-") or args[0] == "detailschange":
+			run_minor(args, kw_args, next_args, next_kw_args)
+		else:
+			run_major(args, kw_args, preempt)
+	
+	if next_line.begins_with("|start") or args[0] == "teampreview":
+		if turn == -1:
+			turn = 0
+			scene.update_bgm()
+
+func set_hardcore_mode(mode: bool):
+	hardcore_mode = mode
+	if scene and scene.has_method("update_sidebars"):
+		scene.update_sidebars()
+	if scene and scene.has_method("update_weather"):
+		scene.update_weather(true)
+
+func reset_to_current_turn():
+	if has_method("seekTurn"):
+		call("seekTurn", INF if ended else turn, true)
+
+func switch_viewpoint():
+	set_viewpoint("p1" if viewpoint_switched else "p2")
+
+func set_viewpoint(sideid: String):
+	if my_side and my_side.sideid == sideid: return
+	if sideid.length() != 2 or not sideid.begins_with("p"): return
+	
+	var side = null
+	if sideid == "p1": side = p1
+	elif sideid == "p2": side = p2
+	elif sideid == "p3": side = p3
+	elif sideid == "p4": side = p4
+	
+	if not side: return
+	my_side = side
+	
+	if (side.n % 2) == p1.n:
+		viewpoint_switched = false
+		near_side = p1
+		far_side = p2
+	else:
+		viewpoint_switched = true
+		near_side = p2
+		far_side = p1
+		
+	near_side.is_far = false
+	far_side.is_far = true
+	if sides.size() > 2:
+		sides[near_side.n + 2].is_far = false
+		sides[far_side.n + 2].is_far = true
+
+func parse_details(name: String, pokemonid: String, details: String) -> Dictionary:
+	var output = {}
+	var isTeamPreview = (name == "")
+	output["details"] = details
+	output["name"] = name
+	output["speciesForme"] = name
+	output["level"] = 100
+	output["shiny"] = false
+	output["gender"] = ""
+	output["ident"] = pokemonid if not isTeamPreview else ""
+	output["searchid"] = (pokemonid + "|" + details) if not isTeamPreview else ""
+	var splitDetails = details.split(", ")
+	
+	if splitDetails.size() > 0 and splitDetails[splitDetails.size() - 1].begins_with("tera:"):
+		output["terastallized"] = splitDetails[splitDetails.size() - 1].substr(5)
+		splitDetails.remove_at(splitDetails.size() - 1)
+	if splitDetails.size() > 0 and splitDetails[splitDetails.size() - 1] == "shiny":
+		output["shiny"] = true
+		splitDetails.remove_at(splitDetails.size() - 1)
+	if splitDetails.size() > 0 and (splitDetails[splitDetails.size() - 1] == "M" or splitDetails[splitDetails.size() - 1] == "F"):
+		output["gender"] = splitDetails[splitDetails.size() - 1]
+		splitDetails.remove_at(splitDetails.size() - 1)
+	if splitDetails.size() > 0 and splitDetails[splitDetails.size() - 1].begins_with("L"):
+		var lvl_str = splitDetails[splitDetails.size() - 1].substr(1)
+		if lvl_str.is_valid_int():
+			output["level"] = lvl_str.to_int()
+		splitDetails.remove_at(splitDetails.size() - 1)
+	if splitDetails.size() > 0:
+		output["speciesForme"] = splitDetails[0]
+	return output
+
+func parse_health(hpstring: String) -> Dictionary:
+	var output = {}
+	var parts = hpstring.split(" ")
+	var hp_str = parts[0]
+	var status_str = parts[1] if parts.size() > 1 else ""
+	
+	output["hpcolor"] = ""
+	if hp_str == "0" or hp_str == "0.0":
+		output["hp"] = 0
+		output["maxhp"] = 100
+	elif hp_str.find("/") > 0:
+		var hp_parts = hp_str.split("/")
+		var curhp = hp_parts[0].to_float()
+		var maxhp = hp_parts[1].to_float()
+		output["hp"] = curhp
+		output["maxhp"] = maxhp
+		if output["hp"] > output["maxhp"]: output["hp"] = output["maxhp"]
+		var colorchar = hp_parts[1].substr(hp_parts[1].length() - 1)
+		if colorchar in ["r", "y", "g"]:
+			output["hpcolor"] = colorchar
+	else:
+		output["hp"] = hp_str.to_float()
+		
+	if status_str:
+		output["status"] = status_str
+		if status_str == "fnt":
+			output["hp"] = 0
+			output["fainted"] = true
+	return output
+
+func run_minor(args: Array, kw_args: Dictionary = {}, next_args: Array = [], next_kw_args: Dictionary = {}):
+	pass
+
+enum HPColor {
+    NONE,
+    R,
+    Y,
+    G,
+}
+enum StatusName {
+    PAR,
+    PSN,
+    FRZ,
+    SLP,
+    BRN,
+    TOX,
+    NONE,
+    UNKNOWN,
+}
+
+class BattleTextParser:
+	static func parse_battle_line(line: String) -> Dictionary:
+		var parts = line.split("|")
+		var args = []
+		var kwArgs = {}
+		if parts.size() > 1:
+			for i in range(1, parts.size()):
+				var p = parts[i]
+				if p.begins_with("[") and p.contains("]"):
+					var end_idx = p.find("]")
+					var key = p.substr(1, end_idx - 1)
+					var val = p.substr(end_idx + 1).strip_edges()
+					kwArgs[key] = val
+				else:
+					args.append(p)
+		elif parts.size() == 1:
+			args.append(parts[0])
+		return {"args": args, "kwArgs": kwArgs}
+
+class BattleSceneLog:
+	func add(args: Array, kwArgs: Dictionary = {}, preempt: bool = false):
+		pass
+
+class BattleScene:
+	var log = BattleSceneLog.new()
+	func update_weather(hardcore: bool = false): pass
+	func pause(): pass
+	func reset(): pass
+	func destroy(): pass
+	func update_statbars(): pass
+	func increment_turn(): pass
+	func update_acceleration(): pass
+	func set_frame_html(html: String): pass
+	func set_controls_html(html: String): pass
+	func add_side_condition(side_n: int, condition: String): pass
+	func remove_side_condition(side_n: int, condition: String): pass
+	func run_prepare_anim(move_id: String, attacker: Pokemon, defender: Pokemon): pass
+	func run_move_anim(move_id: String, targets: Array): pass
+	func update_statbar(poke: Pokemon): pass
+	func run_status_anim(status_id: String, targets: Array): pass
+	func result_anim(poke: Pokemon, result: String, type: String): pass
+	func run_other_anim(anim_id: String, targets: Array): pass
+	func anim_reset(poke: Pokemon): pass
+	func ability_activate_anim(poke: Pokemon, ability_name: String): pass
+	func update_sidebar(side): pass
+	func anim_summon(poke: Pokemon, slot: int, replace: bool = false): pass
+	func anim_unsummon(poke: Pokemon, replace: bool = false): pass
+	func anim_drag_out(poke: Pokemon): pass
+	func anim_drag_in(poke: Pokemon, slot: int): pass
+	func anim_faint(poke: Pokemon): pass
+	func heal_anim(poke: Pokemon, range_str: String): pass
+	func damage_anim(poke: Pokemon, range_str: String): pass
+	func run_residual_anim(anim_id: String, poke: Pokemon): pass
+	func upkeep_weather(): pass
 
 
-class PokemonServer:
-	var ident: String
+class ServerPokemon extends Serializable:
+	# PokemonDetails
 	var details: String
+	var name: String
+	var speciesForme: String
+	var level: int
+	var shiny: bool
+	var gender: String
+	var ident: String
+	var searchid: String
+	
+	# PokemonHealth
+	var hp: int
+	var maxhp: int
+	var hpcolor: HPColor
+	var status: StatusName
+	var fainted: bool
+	
+	# ServerPokemon specifics
 	var condition: String
 	var active: bool
 	var reviving: bool
 	var stats: Dictionary
 	var moves: Array[String] = []
 	var baseAbility: String
-	var ability: String = ""
+	var ability: String
 	var item: String
 	var pokeball: String
 	var teraType: String
+	var terastallized: String
+	
+	func _init(json_data: Dictionary = {}):
+		super (json_data)
+
+class BattleSide:
+	var battle: Battle
+	var name: String = ""
+	var id: String = ""
+	var sideid: String = ""
+	var n: int = 0
+	var is_far: bool = false
+	var foe: BattleSide = null
+	var ally: BattleSide = null
+	var avatar: String = "unknown"
+	var badges: Array[String] = []
+	var rating: String = ""
+	var total_pokemon: int = 6
+	var x: float = 0
+	var y: float = 0
+	var z: float = 0
+	var missed_pokemon: Pokemon = null
+
+	var wisher: Pokemon = null
+
+	var active: Array[Pokemon] = [null]
+	var last_pokemon: Pokemon = null
+	var pokemon: Array[Pokemon] = []
+
+	var side_conditions: Dictionary = {}
+	var faint_counter: int = 0
+
+	func _init(_battle: Battle = null, _n: int = 0):
+		self.battle = _battle
+		self.n = _n
+		var sides = ["p1", "p2", "p3", "p4"]
+		self.sideid = sides[_n] if _n < sides.size() else ""
+		self.is_far = bool(_n % 2)
+
+	func roll_trainer_sprites():
+		var sprites = ["lucas", "dawn", "ethan", "lyra", "hilbert", "hilda"]
+		self.avatar = sprites[randi() % sprites.size()]
+
+	func behindx(offset: float) -> float:
+		return x + (-1 if not is_far else 1) * offset
+
+	func behindy(offset: float) -> float:
+		return y + (1 if not is_far else -1) * offset
+
+	func leftof(offset: float) -> float:
+		return (-1 if not is_far else 1) * offset
+
+	func behind(offset: float) -> float:
+		return z + (-1 if not is_far else 1) * offset
+
+	func clear_pokemon():
+		for p in pokemon:
+			if p:
+				p.destroy()
+		pokemon.clear()
+		for i in range(active.size()):
+			active[i] = null
+		last_pokemon = null
+
+	func reset():
+		clear_pokemon()
+		side_conditions.clear()
+		faint_counter = 0
+
+	func set_avatar(_avatar: String):
+		self.avatar = _avatar
+
+	func set_name(_name: String, _avatar: String = ""):
+		if _name:
+			self.name = _name
+		self.id = self.name.to_lower().replace(" ", "")
+		if _avatar:
+			set_avatar(_avatar)
+		else:
+			roll_trainer_sprites()
+			if foe and self.avatar == foe.avatar:
+				roll_trainer_sprites()
+
+	func add_side_condition(effect: Dictionary, persist: bool = false):
+		var condition = effect.get("id", "")
+		if side_conditions.has(condition):
+			if condition == "spikes" or condition == "toxicspikes":
+				side_conditions[condition][1] += 1
+			if battle and battle.has_method("scene") and battle.scene:
+				battle.scene.add_side_condition(n, condition)
+			return
+
+		var effect_name = effect.get("name", condition)
+		match condition:
+			"auroraveil":
+				side_conditions[condition] = [effect_name, 1, 5, 8]
+			"reflect", "lightscreen":
+				var gen = battle.gen if battle and "gen" in battle else 8
+				side_conditions[condition] = [effect_name, 1, 5, 8 if gen >= 4 else 0]
+			"safeguard":
+				side_conditions[condition] = [effect_name, 1, 7 if persist else 5, 0]
+			"mist", "luckychant":
+				side_conditions[condition] = [effect_name, 1, 5, 0]
+			"tailwind":
+				var duration = 0
+				var gen = battle.gen if battle and "gen" in battle else 8
+				if gen >= 5:
+					duration = 6 if persist else 4
+				else:
+					duration = 5 if persist else 3
+				side_conditions[condition] = [effect_name, 1, duration, 0]
+			"stealthrock", "spikes", "toxicspikes", "stickyweb":
+				side_conditions[condition] = [effect_name, 1, 0, 0]
+			"gmaxwildfire", "gmaxvolcalith", "gmaxvinelash", "gmaxcannonade":
+				side_conditions[condition] = [effect_name, 1, 4, 0]
+			"grasspledge":
+				side_conditions[condition] = ["Swamp", 1, 4, 0]
+			"waterpledge":
+				side_conditions[condition] = ["Rainbow", 1, 4, 0]
+			"firepledge":
+				side_conditions[condition] = ["Sea of Fire", 1, 4, 0]
+			_:
+				side_conditions[condition] = [effect_name, 1, 0, 0]
+		
+		if battle and battle.has_method("scene") and battle.scene:
+			battle.scene.add_side_condition(n, condition)
+
+	func remove_side_condition(condition: String):
+		var id = condition.to_lower().replace(" ", "")
+		if not side_conditions.has(id):
+			return
+		side_conditions.erase(id)
+		if battle and battle.has_method("scene") and battle.scene:
+			battle.scene.remove_side_condition(n, id)
+
+	func add_pokemon(_name: String, ident: String, details: String, replace_slot: int = -1) -> Pokemon:
+		var old_pokemon: Pokemon = pokemon[replace_slot] if replace_slot >= 0 and replace_slot < pokemon.size() else null
+
+		var data = battle.parse_details(_name, ident, details) if battle and battle.has_method("parse_details") else {}
+		var poke = Pokemon.new(data, self )
+		if old_pokemon:
+			poke.item = old_pokemon.item
+			poke.base_ability = old_pokemon.base_ability
+			poke.teraType = old_pokemon.teraType
+
+		if not poke.ability and poke.base_ability:
+			poke.ability = poke.base_ability
+		poke.reset()
+		if old_pokemon and old_pokemon.move_track.size() > 0:
+			poke.move_track = old_pokemon.move_track.duplicate(true)
+
+		if replace_slot >= 0:
+			while pokemon.size() <= replace_slot:
+				pokemon.append(null)
+			pokemon[replace_slot] = poke
+		else:
+			pokemon.append(poke)
+
+		var species_clause = battle.species_clause if battle and "species_clause" in battle else false
+		if pokemon.size() > total_pokemon or species_clause:
+			var existing_table: Dictionary = {}
+			var to_remove: int = -1
+			for poke1i in range(pokemon.size()):
+				var poke1 = pokemon[poke1i]
+				if not poke1 or not poke1.searchid: continue
+				if existing_table.has(poke1.searchid):
+					var poke2i = existing_table[poke1.searchid]
+					var poke2 = pokemon[poke2i]
+					if poke == poke1:
+						to_remove = poke2i
+					elif poke == poke2:
+						to_remove = poke1i
+					elif active.has(poke1):
+						to_remove = poke2i
+					elif active.has(poke2):
+						to_remove = poke1i
+					elif poke1.fainted and not poke2.fainted:
+						to_remove = poke2i
+					else:
+						to_remove = poke1i
+					break
+				existing_table[poke1.searchid] = poke1i
+			
+			if to_remove >= 0:
+				if pokemon[to_remove] and pokemon[to_remove].fainted:
+					var illusion_found: Pokemon = null
+					for cur_poke in pokemon:
+						if not cur_poke or cur_poke == poke or cur_poke.fainted or active.has(cur_poke): continue
+						if cur_poke.species_forme == "Zoroark" or cur_poke.species_forme == "Zorua" or cur_poke.ability == "Illusion":
+							illusion_found = cur_poke
+							break
+					if not illusion_found:
+						for cur_poke in pokemon:
+							if not cur_poke or cur_poke == poke or cur_poke.fainted or active.has(cur_poke): continue
+							illusion_found = cur_poke
+							break
+					if illusion_found:
+						illusion_found.fainted = true
+						illusion_found.hp = 0
+						illusion_found.status = StatusName.NONE
+				pokemon.remove_at(to_remove)
+				
+		if battle and battle.has_method("scene") and battle.scene:
+			battle.scene.update_sidebar(self )
+
+		return poke
+
+	func switch_in(poke: Pokemon, kw_args: Dictionary, slot: int = -1):
+		if slot == -1: slot = poke.slot
+		while active.size() <= slot:
+			active.append(null)
+			
+		active[slot] = poke
+		poke.slot = slot
+		poke.clear_volatile()
+		poke.lastMove = ""
+		if battle:
+			battle.lastMove = "switch-in"
+		var effect_id = kw_args.get("from", "")
+		if effect_id in ["batonpass", "zbatonpass", "shedtail"]:
+			if last_pokemon:
+				poke.copy_volatile_from(last_pokemon, "shedtail" if effect_id == "shedtail" else false)
+		elif battle and "tier" in battle and typeof(battle.tier) == TYPE_STRING and battle.tier.contains("Relay Race") and effect_id == "":
+			if last_pokemon and not last_pokemon.fainted:
+				poke.copy_volatile_from(last_pokemon, false)
+
+		if battle and battle.has_method("scene") and battle.scene:
+			battle.scene.anim_summon(poke, slot)
+
+	func drag_in(poke: Pokemon, slot: int = -1):
+		if slot == -1: slot = poke.slot
+		while active.size() <= slot:
+			active.append(null)
+			
+		var oldpokemon = active[slot]
+		if oldpokemon == poke: return
+		last_pokemon = oldpokemon
+		if oldpokemon:
+			if battle and battle.has_method("scene") and battle.scene:
+				battle.scene.anim_drag_out(oldpokemon)
+			oldpokemon.clear_volatile()
+		poke.clear_volatile()
+		poke.lastMove = ""
+		if battle:
+			battle.lastMove = "switch-in"
+		active[slot] = poke
+		poke.slot = slot
+
+		if battle and battle.has_method("scene") and battle.scene:
+			battle.scene.anim_drag_in(poke, slot)
+
+	func replace(poke: Pokemon, slot: int = -1):
+		if slot == -1: slot = poke.slot
+		while active.size() <= slot:
+			active.append(null)
+			
+		var oldpokemon = active[slot]
+		if poke == oldpokemon: return
+		last_pokemon = oldpokemon
+		poke.clear_volatile()
+		if oldpokemon:
+			poke.lastMove = oldpokemon.lastMove
+			poke.hp = oldpokemon.hp
+			poke.maxhp = oldpokemon.maxhp
+			poke.hpcolor = oldpokemon.hpcolor
+			poke.status = oldpokemon.status
+			poke.copy_volatile_from(oldpokemon, true)
+			poke.status_data = oldpokemon.status_data.duplicate(true)
+			if oldpokemon.terastallized:
+				poke.terastallized = oldpokemon.terastallized
+				poke.teraType = oldpokemon.terastallized
+				oldpokemon.terastallized = ""
+				oldpokemon.teraType = ""
+			oldpokemon.fainted = false
+			oldpokemon.hp = oldpokemon.maxhp
+			oldpokemon.status = StatusName.UNKNOWN
+			
+		active[slot] = poke
+		poke.slot = slot
+
+		if battle and battle.has_method("scene") and battle.scene:
+			if oldpokemon:
+				battle.scene.anim_unsummon(oldpokemon, true)
+			battle.scene.anim_summon(poke, slot, true)
+
+	func switch_out(poke: Pokemon, kw_args: Dictionary, slot: int = -1):
+		if slot == -1: slot = poke.slot
+		var effect_id = kw_args.get("from", "")
+		if not effect_id in ["batonpass", "zbatonpass", "shedtail"] and not (battle and "tier" in battle and typeof(battle.tier) == TYPE_STRING and battle.tier.contains("Relay Race") and effect_id == ""):
+			poke.clear_volatile()
+		else:
+			poke.remove_volatile("transform")
+			poke.remove_volatile("formechange")
+			
+		if not effect_id in ["batonpass", "zbatonpass", "shedtail", "teleport"] and not (battle and "tier" in battle and typeof(battle.tier) == TYPE_STRING and battle.tier.contains("Relay Race") and effect_id == ""):
+			if battle and battle.has_method("add_log"):
+				battle.add_log(["switchout", poke.ident], {"from": effect_id})
+				
+		poke.status_data["toxicTurns"] = 0
+		if battle and "gen" in battle and battle.gen == 5:
+			poke.status_data["sleepTurns"] = 0
+		last_pokemon = poke
+		if slot < active.size():
+			active[slot] = null
+
+		if battle and battle.has_method("scene") and battle.scene:
+			battle.scene.anim_unsummon(poke)
+
+	func swap_to(poke: Pokemon, slot: int):
+		if poke.slot == slot: return
+		while active.size() <= max(slot, poke.slot):
+			active.append(null)
+			
+		var target = active[slot]
+		var oslot = poke.slot
+
+		poke.slot = slot
+		if target: target.slot = oslot
+
+		active[slot] = poke
+		active[oslot] = target
+
+		if battle and battle.has_method("scene") and battle.scene:
+			battle.scene.anim_unsummon(poke, true)
+			if target: battle.scene.anim_unsummon(target, true)
+			battle.scene.anim_summon(poke, slot, true)
+			if target: battle.scene.anim_summon(target, oslot, true)
+
+	func swap_with(poke: Pokemon, target: Pokemon, kw_args: Dictionary):
+		if poke == target: return
+
+		var oslot = poke.slot
+		var nslot = target.slot
+
+		poke.slot = nslot
+		target.slot = oslot
+		while active.size() <= max(nslot, oslot):
+			active.append(null)
+			
+		active[nslot] = poke
+		active[oslot] = target
+
+		if battle and battle.has_method("scene") and battle.scene:
+			battle.scene.anim_unsummon(poke, true)
+			battle.scene.anim_unsummon(target, true)
+			battle.scene.anim_summon(poke, nslot, true)
+			battle.scene.anim_summon(target, oslot, true)
+
+	func faint(poke: Pokemon, slot: int = -1):
+		if slot == -1: slot = poke.slot
+		poke.clear_volatile()
+		last_pokemon = poke
+		if slot < active.size():
+			active[slot] = null
+
+		poke.fainted = true
+		poke.hp = 0
+		poke.terastallized = ""
+		# regex string replacement
+		var regex = RegEx.new()
+		regex.compile(", tera:[a-z]+")
+		poke.details = regex.sub(poke.details, "", true)
+		poke.searchid = regex.sub(poke.searchid, "", true)
+		
+		if poke.side and poke.side.faint_counter < 100:
+			poke.side.faint_counter += 1
+
+		if battle and battle.has_method("scene") and battle.scene:
+			battle.scene.anim_faint(poke)
+
+	func destroy():
+		clear_pokemon()
+		battle = null
+		foe = null
+
+class PokemonSprite:
+	func destroy():
+		pass
+
+class Pokemon:
+	var name: String = ""
+	var species_forme: String = ""
+	var ident: String = ""
+	var details: String = ""
+	var searchid: String = ""
+	
+	var side: BattleSide
+	var slot: int = 0
+	
+	var fainted: bool = false
+	var hp: int = 0
+	var maxhp: int = 1000
+	var level: int = 100
+	var gender: String = "N"
+	var shiny: bool = false
+	
+	var hpcolor: HPColor = HPColor.G
+	var moves: Array[String] = []
+	var ability: String = ""
+	var base_ability: String = ""
+	var item: String = ""
+	var item_effect: String = ""
+	var prev_item: String = ""
+	var prev_item_effect: String = ""
 	var terastallized: String = ""
+	var teraType: String = ""
+	
+	var boosts: Dictionary = {}
+	var status: StatusName = StatusName.NONE
+	var statusStage: int = 0
+	var volatiles: Dictionary = {}
+	var turnstatuses: Dictionary = {}
+	var movestatuses: Dictionary = {}
+	var lastMove: String = ""
+	
+	var move_track: Array = []
+	var status_data: Dictionary = {"sleepTurns": 0, "toxicTurns": 0}
+	var times_attacked: int = 0
+	
+	var sprite: PokemonSprite
+	
+	func _init(data: ServerPokemon, p_side: BattleSide):
+		side = p_side
+		species_forme = data.speciesForme
+		details = data.details
+		name = data.name
+		level = data.level
+		shiny = data.shiny
+		gender = data.gender if data.gender != "" else "N"
+		ident = data.ident
+		terastallized = data.terastallized
+		searchid = data.searchid
+		
+	func is_active() -> bool:
+		return side.active.has(self )
+		
+	func get_hp_color() -> HPColor:
+		if hpcolor != HPColor.NONE: return hpcolor
+		var ratio: float = float(hp) / float(maxhp)
+		if ratio > 0.5: return HPColor.G
+		if ratio > 0.2: return HPColor.Y
+		return HPColor.R
 
-	func _init(json_data: Dictionary):
-		for i in get_property_list():
-			if not (i.usage & PROPERTY_USAGE_SCRIPT_VARIABLE):
-				continue
+	func get_hp_color_class() -> String:
+		match get_hp_color():
+			HPColor.Y: return "hpbar hpbar-yellow"
+			HPColor.R: return "hpbar hpbar-red"
+		return "hpbar"
+		
+	static func get_pixel_range(pixels: int, color: HPColor) -> Array:
+		var epsilon: float = 0.5 / 714.0
+		
+		if pixels == 0: return [0.0, 0.0]
+		if pixels == 1: return [0.0 + epsilon, 2.0 / 48.0 - epsilon]
+		if color != HPColor.NONE:
+			if pixels == 9:
+				if color == HPColor.Y:
+					return [0.2 + epsilon, 10.0 / 48.0 - epsilon]
+				elif color == HPColor.R:
+					return [9.0 / 48.0, 0.2]
+			if pixels == 24:
+				if color == HPColor.G:
+					return [0.5 + epsilon, 25.0 / 48.0 - epsilon]
+				elif color == HPColor.Y:
+					return [0.5, 0.5]
+		if pixels == 48: return [1.0, 1.0]
+		
+		return [pixels / 48.0, (pixels + 1.0) / 48.0 - epsilon]
+		
+	static func get_formatted_range(range_vals: Array, precision: int, separator: String) -> String:
+		if range_vals[0] == range_vals[1]:
+			var percentage: float = abs(range_vals[0] * 100.0)
+			if floor(percentage) == percentage:
+				return str(percentage) + "%"
+			return "%.*f" % [precision, percentage] + "%"
+		var lower: String
+		var upper: String
+		if precision == 0:
+			lower = str(floor(range_vals[0] * 100.0))
+			upper = str(ceil(range_vals[1] * 100.0))
+		else:
+			lower = "%.*f" % [precision, range_vals[0] * 100.0]
+			upper = "%.*f" % [precision, range_vals[1] * 100.0]
+		return lower + separator + upper
 
-			if i.type == TYPE_ARRAY:
-				moves.append_array(json_data[i.name])
+	func get_damage_range(damage: Array) -> Array:
+		if damage[1] != 48:
+			var ratio: float = float(damage[0]) / float(damage[1])
+			return [ratio, ratio]
+		elif damage.size() == 3:
+			return [float(damage[2]) / 100.0, float(damage[2]) / 100.0]
+			
+		var oldrange: Array = Pokemon.get_pixel_range(damage[3], damage[4] if damage.size() > 4 else HPColor.NONE)
+		var newrange: Array = Pokemon.get_pixel_range(damage[3] + damage[0], hpcolor)
+		if damage[0] == 0:
+			return [0.0, newrange[1] - newrange[0]]
+		if oldrange[0] < newrange[0]:
+			var r = oldrange
+			oldrange = newrange
+			newrange = r
+		return [oldrange[0] - newrange[1], oldrange[1] - newrange[0]]
+
+	func health_parse(hpstring: String, parsedamage: bool = false, heal: bool = false):
+		if hpstring == null or hpstring.length() == 0: return null
+		
+		var paren_index = hpstring.rfind("(")
+		if paren_index >= 0:
+			if parsedamage:
+				var damage = float(hpstring)
+				if is_nan(damage): damage = 50.0
+				if heal:
+					hp += int(maxhp * damage / 100.0)
+					if hp > maxhp: hp = maxhp
+				else:
+					hp -= int(maxhp * damage / 100.0)
+					
+				var ret = health_parse(hpstring)
+				if ret != null and ret[1] == 100:
+					return [damage, 100, damage]
+					
+				var percent = round(ceil(damage * 48.0 / 100.0) / 48.0 * 100.0)
+				var pixels = ceil(damage * 48.0 / 100.0)
+				return [pixels, 48, percent]
+				
+			if not hpstring.ends_with(")"):
+				return null
+			hpstring = hpstring.substr(paren_index + 1, hpstring.length() - paren_index - 2)
+			
+		var oldhp = 0 if fainted else (hp if hp > 0 else 1)
+		var oldmaxhp = maxhp
+		var oldwidth = hp_width(100)
+		var oldcolor = hpcolor
+		
+		if oldmaxhp == 0:
+			oldmaxhp = maxhp
+			oldhp = maxhp
+			
+		var oldnum = floor(float(maxhp) * float(oldhp) / float(oldmaxhp)) if oldhp > 0 else 0
+		if oldnum == 0 and oldhp > 0: oldnum = 1
+		
+		var delta = hp - oldnum
+		var deltawidth = hp_width(100) - oldwidth
+		return [delta, maxhp, deltawidth, oldnum, oldcolor]
+
+	func check_details(p_details: String = "") -> bool:
+		if p_details == "": return false
+		if p_details == details: return true
+		if searchid != "": return false
+		if ", shiny" in p_details:
+			if check_details(p_details.replace(", shiny", "")): return true
+		return false
+		
+	func get_ident() -> String:
+		var slots = ["a", "b", "c", "d", "e", "f"]
+		return ident.substr(0, 2) + slots[slot] + ident.substr(2)
+		
+	func remove_volatile(volatile: String):
+		if not has_volatile(volatile): return
+		volatiles.erase(volatile)
+		
+	func add_volatile(volatile: String, args: Array = []):
+		if has_volatile(volatile) and args.is_empty(): return
+		volatiles[volatile] = [volatile] + args
+		
+	func has_volatile(volatile: String) -> bool:
+		return volatiles.has(volatile)
+		
+	func remove_turnstatus(volatile: String):
+		if not has_turnstatus(volatile): return
+		turnstatuses.erase(volatile)
+		
+	func add_turnstatus(volatile: String):
+		if has_turnstatus(volatile): return
+		turnstatuses[volatile] = [volatile]
+		
+	func has_turnstatus(volatile: String) -> bool:
+		return turnstatuses.has(volatile)
+		
+	func clear_turnstatuses():
+		turnstatuses.clear()
+		
+	func remove_movestatus(volatile: String):
+		if not has_movestatus(volatile): return
+		movestatuses.erase(volatile)
+		
+	func add_movestatus(volatile: String):
+		if has_movestatus(volatile): return
+		movestatuses[volatile] = [volatile]
+		
+	func has_movestatus(volatile: String) -> bool:
+		return movestatuses.has(volatile)
+		
+	func clear_movestatuses():
+		movestatuses.clear()
+		
+	func clear_volatiles():
+		volatiles.clear()
+		clear_turnstatuses()
+		clear_movestatuses()
+		
+	func remember_move(move_name: String, pp: int = 1, recursion_source: String = ""):
+		if recursion_source == ident: return
+		if move_name.begins_with("*"): return
+		if move_name == "Struggle": return
+		
+		if volatiles.has("transform"):
+			if recursion_source == "": recursion_source = ident
+			volatiles["transform"][1].remember_move(move_name, 0, recursion_source)
+			move_name = "*" + move_name
+			
+		for entry in move_track:
+			if move_name == entry[0]:
+				entry[1] += pp
+				if entry[1] < 0: entry[1] = 0
+				return
+		move_track.append([move_name, pp])
+		
+	func remember_ability(p_ability: String, is_not_base: bool = false):
+		ability = p_ability
+		if base_ability == "" and not is_not_base:
+			base_ability = p_ability
+			
+	func get_boost(boost_stat: String) -> String:
+		var boost_stat_table = {
+			"atk": "Atk", "def": "Def", "spa": "SpA", "spd": "SpD",
+			"spe": "Spe", "accuracy": "Accuracy", "evasion": "Evasion", "spc": "Spc"
+		}
+		if not boosts.has(boost_stat):
+			return "1x " + boost_stat_table.get(boost_stat, boost_stat)
+			
+		var val = boosts[boost_stat]
+		if val > 6: val = 6
+		if val < -6: val = -6
+		
+		if boost_stat == "accuracy" or boost_stat == "evasion":
+			if val > 0:
+				var good = ["1x", "1.33x", "1.67x", "2x", "2.33x", "2.67x", "3x"]
+				return good[val] + " " + boost_stat_table.get(boost_stat, boost_stat)
 			else:
-				set(i.name, json_data[i.name])
+				var bad = ["1x", "0.75x", "0.6x", "0.5x", "0.43x", "0.38x", "0.33x"]
+				return bad[-val] + " " + boost_stat_table.get(boost_stat, boost_stat)
+				
+		if val > 0:
+			var good = ["1x", "1.5x", "2x", "2.5x", "3x", "3.5x", "4x"]
+			return good[val] + " " + boost_stat_table.get(boost_stat, boost_stat)
+			
+		var bad = ["1x", "0.67x", "0.5x", "0.4x", "0.33x", "0.29x", "0.25x"]
+		return bad[-val] + " " + boost_stat_table.get(boost_stat, boost_stat)
+		
+	func get_weight_kg(server_pokemon: ServerPokemon = null) -> float:
+		var autotomize_factor = (volatiles["autotomize"][1] * 100) if volatiles.has("autotomize") else 0
+		return max(0.1, 10.0 - autotomize_factor)
+		
+	func get_boost_type(boost_stat: String) -> String:
+		if not boosts.has(boost_stat): return "neutral"
+		if boosts[boost_stat] > 0: return "good"
+		return "bad"
+		
+	func clear_volatile():
+		ability = base_ability
+		boosts.clear()
+		clear_volatiles()
+		var new_track = []
+		for entry in move_track:
+			if not entry[0].begins_with("*"):
+				new_track.append(entry)
+		move_track = new_track
+		statusStage = 0
+		status_data["toxicTurns"] = 0
+		
+	func copy_volatile_from(pokemon: Pokemon, copy_source = null):
+		boosts = pokemon.boosts.duplicate()
+		volatiles = pokemon.volatiles.duplicate()
+		if copy_source == null or (typeof(copy_source) == TYPE_BOOL and copy_source == false):
+			var volatiles_to_remove = [
+				"airballoon", "attract", "autotomize", "disable", "encore", "foresight",
+				"gmaxchistrike", "imprison", "laserfocus", "mimic", "miracleeye", "nightmare",
+				"saltcure", "smackdown", "stockpile1", "stockpile2", "stockpile3", "syrupbomb",
+				"torment", "typeadd", "typechange", "yawn"
+			]
+			for v in volatiles_to_remove:
+				volatiles.erase(v)
+		if typeof(copy_source) == TYPE_STRING and copy_source == "shedtail":
+			var new_vols = {}
+			if volatiles.has("substitute"):
+				new_vols["substitute"] = volatiles["substitute"]
+			volatiles = new_vols
+			boosts.clear()
+			
+		volatiles.erase("transform")
+		volatiles.erase("formechange")
+		pokemon.boosts.clear()
+		pokemon.volatiles.clear()
+		pokemon.statusStage = 0
+		
+	func copy_types_from(pokemon: Pokemon, preterastallized: bool = false):
+		var types_data = pokemon.get_types(null, preterastallized)
+		var types = types_data[0]
+		var added_type = types_data[1]
+		add_volatile("typechange", ["/".join(types)])
+		if added_type != "":
+			add_volatile("typeadd", [added_type])
+		else:
+			remove_volatile("typeadd")
+			
+	func get_types(server_pokemon: ServerPokemon = null, preterastallized: bool = false) -> Array:
+		var types = []
+		if not preterastallized and terastallized != "" and terastallized != "Stellar":
+			types = [terastallized]
+		elif volatiles.has("typechange"):
+			types = volatiles["typechange"][1].split("/")
+		else:
+			types = ["Normal"]
+			
+		if has_turnstatus("roost") and types.has("Flying"):
+			var new_types = []
+			for t in types:
+				if t != "Flying": new_types.append(t)
+			types = new_types
+			if types.is_empty(): types = ["Normal"]
+			
+		var added_type = volatiles["typeadd"][1] if volatiles.has("typeadd") else ""
+		return [types, added_type]
+		
+	func is_grounded(server_pokemon: ServerPokemon = null) -> bool:
+		if volatiles.has("ingrain"): return true
+		if volatiles.has("smackdown"): return true
+		
+		var l_item = server_pokemon.item if server_pokemon else item
+		var l_ability = effective_ability(server_pokemon)
+		if volatiles.has("embargo") or l_ability == "klutz":
+			l_item = ""
+			
+		if l_item == "ironball": return true
+		if l_ability == "levitate": return false
+		if volatiles.has("magnetrise") or volatiles.has("telekinesis"): return false
+		if l_item == "airballoon": return false
+		
+		return not get_type_list(server_pokemon).has("Flying")
+		
+	func effective_ability(server_pokemon: ServerPokemon = null) -> String:
+		if fainted: return ""
+		return server_pokemon.ability if server_pokemon else ability
+		
+	func get_type_list(server_pokemon: ServerPokemon = null, preterastallized: bool = false) -> Array:
+		var types_data = get_types(server_pokemon, preterastallized)
+		var types = types_data[0]
+		var added_type = types_data[1]
+		if added_type != "":
+			types.append(added_type)
+		return types
+		
+	func get_species_forme(server_pokemon: ServerPokemon = null) -> String:
+		if volatiles.has("formechange"): return volatiles["formechange"][1]
+		return server_pokemon.speciesForme if server_pokemon else species_forme
+		
+	func reset():
+		clear_volatile()
+		hp = maxhp
+		fainted = false
+		status = StatusName.NONE
+		move_track.clear()
+		if name == "": name = species_forme
+		
+	func hp_width(max_width: int) -> int:
+		if fainted or hp == 0: return 0
+		if hp == 1 and maxhp > 45: return 1
+		
+		if maxhp == 48:
+			var range_val = Pokemon.get_pixel_range(hp, hpcolor)
+			var ratio = (range_val[0] + range_val[1]) / 2.0
+			return max(1, round(max_width * ratio))
+			
+		var percentage = ceil(100.0 * float(hp) / float(maxhp))
+		if percentage == 100 and hp < maxhp:
+			percentage = 99
+		return percentage * max_width / 100
 
-# interface Resquest {
-#   active: Active[]
-#   side: Side
-# }
-
-# interface Active {
-#   moves: Move[]
-#   canTerastallize: string
-# }
-
-# interface Move {
-#   move: string
-#   id: string
-#   pp: number
-#   maxpp: number
-#   target: string
-#   disabled: boolean
-# }
-
-# interface Side {
-#   name: string
-#   id: string
-#   pokemon: Pokemon[]
-# }
-
-# interface Pokemon {
-#   ident: string
-#   details: string
-#   condition: string
-#   active: boolean
-#   stats: Stats
-#   moves: string[]
-#   baseAbility: string
-#   item: string
-#   pokeball: string
-#   ability: string
-#   commanding: boolean
-#   reviving: boolean
-#   teraType: string
-#   terastallized: string
-# }
-
-# interface Stats {
-#   atk: number
-#   def: number
-#   spa: number
-#   spd: number
-#   spe: number
-# }
+	func get_hp_text(precision: int = 1) -> String:
+		return Pokemon.get_hp_text_static(self , false, precision)
+		
+	static func get_hp_text_static(pokemon: Pokemon, exact_hp: bool, precision: int = 1) -> String:
+		if exact_hp: return "%d/%d" % [pokemon.hp, pokemon.maxhp]
+		if pokemon.maxhp == 100: return "%d%%" % pokemon.hp
+		if pokemon.maxhp != 48:
+			return "%.*f" % [precision, 100.0 * float(pokemon.hp) / float(pokemon.maxhp)] + "%"
+		var range_val = Pokemon.get_pixel_range(pokemon.hp, pokemon.hpcolor)
+		return Pokemon.get_formatted_range(range_val, precision, " - ")
+		
+	func destroy():
+		if sprite: sprite.destroy()
