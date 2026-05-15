@@ -161,7 +161,7 @@ func reset_step():
 	active_move_is_spread = null
 	current_step = 0
 	reset_turns_since_moved()
-	# nextStep() - To be implemented
+	next_step()
 
 func destroy():
 	if scene and scene.has_method("destroy"):
@@ -227,8 +227,8 @@ func set_turn(turn_num: int):
 
 func reset_turns_since_moved():
 	turns_since_moved = 0
-	if scene and scene.has_method("update_acceleration"):
-		scene.update_acceleration()
+	scene.update_acceleration()
+		
 
 func update_turn_counters():
 	for p_weather in pseudo_weather:
@@ -250,10 +250,49 @@ func update_turn_counters():
 	if scene and scene.has_method("update_weather"):
 		scene.update_weather()
 
-func run_major(args: Array, kwargs: Dictionary = {}, preempt: bool = false):
-	if args.size() == 0: return
-	
+func run_major(args: Array, kwargs: Dictionary = {}, preempt: bool = false):    
 	match args[0]:
+		"start":
+			near_side.active[0] = null
+			far_side.active[0] = null
+			scene.reset_sides()
+			start()
+		"tier":
+			tier = args[1]
+
+			if tier.ends_with("Random Battle"):
+				species_clause = true
+
+			if tier.ends_with(" (Blitz)"):
+				message_fade_time = 40
+				is_blitz = true
+
+			if tier.find("Let's Go") != -1:
+				dex = Dex.mod("gen7letsgo")
+
+			if tier.find("Super Staff Bros") != -1:
+				dex = Dex.mod("gen9ssb")
+
+			if tier.find("Legends") != -1:
+				dex = Dex.mod("gen9legendsou")
+
+			add_log(args)
+		"player":
+			var side = get_side(args[1])
+
+			side.set_name(args[2])
+
+			if args.size() > 3 and args[3]:
+				side.set_avatar(args[3])
+
+			if args.size() > 4 and args[4]:
+				side.rating = args[4]
+
+			if join_buttons:
+				scene.hide_join_buttons()
+
+			add_log(args)
+			scene.update_sidebar(side)
 		"fieldhtml":
 			if scene and scene.has_method("set_frame_html"):
 				scene.set_frame_html(args[1])
@@ -558,8 +597,7 @@ func add(command: String = ""):
 		
 	if at_queue_end and current_step < step_queue.size():
 		at_queue_end = false
-		if has_method("next_step"):
-			call("next_step")
+		next_step()
 
 func instant_add(command: String):
 	run(command, true)
@@ -577,6 +615,8 @@ func run(line: String, preempt: bool = false) -> void:
 		return
 	
 	var parsed = BattleTextParser.parse_battle_line(line)
+	print(parsed)
+
 	var args = parsed.args
 	var kwargs = parsed.kwargs
 	
@@ -623,8 +663,10 @@ func set_hardcore_mode(mode: bool):
 		scene.update_weather(true)
 
 func reset_to_current_turn():
-	if has_method("seekTurn"):
-		call("seekTurn", INF if ended else turn, true)
+	if ended:
+		seek_turn(INF, true)
+	else:
+		seek_turn(turn, true)
 
 func switch_viewpoint():
 	set_viewpoint("p1" if viewpoint_switched else "p2")
@@ -761,8 +803,217 @@ func run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], next
 
 	if kwargs.simult:
 		wait_for_animations = "simult"
+	
+	_run_minor(args, kwargs, next_args, next_kwargs)
 
+func _run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], next_kwargs: Dictionary = {}):
 	const CONSUMED = ["eaten", "popped", "consumed", "held up"]
+
+	match args[0]:
+		"-damage":
+			var poke = get_pokemon(args[1])
+			var damage = poke.health_parse(args[2], true)
+			if damage == null:
+				return
+
+			var range = poke.get_damage_range(damage)
+
+			if kwargs.from:
+				var effect = Dex.get_effect(kwargs.from)
+				var of_poke = get_pokemon(kwargs.of)
+
+				activate_ability(of_poke, effect)
+
+				if effect.effect_type == "Item":
+					var item_poke = of_poke if of_poke != null else poke
+					if item_poke.prev_item != effect.name and not (item_poke.prev_item_effect in CONSUMED):
+						item_poke.item = effect.name
+
+				match effect.id:
+					"brn":
+						scene.run_status_anim("brn", [poke])
+					"psn":
+						scene.run_status_anim("psn", [poke])
+					"baddreams", "curse":
+						scene.run_status_anim("cursed", [poke])
+					"confusion":
+						scene.run_status_anim("confusedselfhit", [poke])
+					"leechseed":
+						scene.run_other_anim("leech", [of_poke, poke])
+					"bind", "wrap":
+						scene.run_other_anim("bound", [poke])
+			else:
+				if dex.moves.get(last_move).category != "Status":
+					poke.times_attacked += 1
+
+				var damage_info = "" + Pokemon.get_formatted_range(range, 0 if damage[1] == 100 else 1, "–")
+
+				if damage[1] != 100:
+					var hover = ("%s%d/%d" % [
+						"−" if damage[0] < 0 else "",
+						abs(damage[0]),
+						damage[1]
+					])
+
+					if damage[1] == 48:
+						hover += " pixels"
+
+					damage_info = "||" + hover + "||" + damage_info + "||"
+
+				args[3] = damage_info
+
+			scene.damage_anim(poke, Pokemon.get_formatted_range(range, 0, " to "))
+			add_log(args, kwargs)
+
+		"-heal":
+			var poke = get_pokemon(args[1], Dex.get_effect(kwargs.from).id == "revivalblessing")
+			var damage = poke.health_parse(args[2], true, true)
+			if damage == null:
+				return
+
+			var range = poke.get_damage_range(damage)
+
+			if kwargs.from:
+				var effect = Dex.get_effect(kwargs.from)
+				var of_poke = get_pokemon(kwargs.of)
+
+				activate_ability(of_poke if of_poke != null else poke, effect)
+
+				if effect.effect_type == "Item" and not (poke.prev_item_effect in CONSUMED):
+					if poke.prev_item != effect.name:
+						poke.item = effect.name
+
+				match effect.id:
+					"lunardance":
+						for tracked_move in poke.move_track:
+							tracked_move[1] = 0
+						# fallthrough
+
+					"healingwish":
+						last_move = "healing-wish"
+						scene.run_residual_anim("healingwish", poke)
+						poke.side.wisher = null
+						poke.status_data.sleep_turns = 0
+						poke.status_data.toxic_turns = 0
+
+					"wish":
+						scene.run_residual_anim("wish", poke)
+
+					"revivalblessing":
+						scene.run_residual_anim("wish", poke)
+						var parsed = parse_pokemon_id(args[1])
+						var side = sides[parsed.siden]
+
+						poke.fainted = false
+						poke.status = ""
+						scene.update_sidebar(side)
+
+			scene.run_other_anim("heal", [poke])
+			scene.heal_anim(poke, Pokemon.get_formatted_range(range, 0, " to "))
+			add_log(args, kwargs)
+
+func parse_sprite_data(data: Dictionary) -> void:
+	assert(false, "not implemented yet")
+
+func get_switched_pokemon() -> Pokemon:
+	assert(false, "not implemented yet")
+	return null
+
+func remember_team_preview_pokemon() -> void:
+	assert(false, "not implemented yet")
+
+func find_corresponding_pokemon(poke: Pokemon) -> Pokemon:
+	assert(false, "not implemented yet")
+	return null
+
+func ngas_active() -> bool:
+	assert(false, "not implemented yet")
+	return false
+
+func check_active() -> void:
+	assert(false, "not implemented yet")
+
+func pause() -> void:
+	assert(false, "not implemented yet")
+
+func play() -> void:
+	assert(false, "not implemented yet")
+
+func skip_turn() -> void:
+	assert(false, "not implemented yet")
+
+func seek_by(amount: int) -> void:
+	assert(false, "not implemented yet")
+
+func seek_turn(turn_number: int, skip_to_next: bool = false) -> void:
+	assert(false, "not implemented yet")
+
+func stop_seeking() -> void:
+	assert(false, "not implemented yet")
+
+func should_step() -> bool:
+	if at_queue_end:
+		return false
+
+	if seeking != null:
+		return true
+
+	var battle_started = turn >= 0
+	return not (paused and battle_started)
+
+func next_step():
+	if not should_step():
+		return
+
+	var time = Time.get_ticks_msec()
+	scene.start_animations()
+	var animations = null
+
+	var interruption_count
+
+	while true:
+		run(step_queue[current_step])
+		current_step += 1
+
+		if wait_for_animations == true:
+			animations = scene.finish_animations()
+		elif wait_for_animations == "simult":
+			scene.time_offset = 0
+
+		if Time.get_ticks_msec() - time > 300:
+			interruption_count = scene.interruption_count
+
+			#await get_tree().create_timer(0.001).timeout
+
+			if interruption_count == scene.interruption_count:
+				next_step()
+			return
+
+		if animations or not should_step():
+			break
+
+	if paused and turn >= 0 and seeking == null:
+		scene.pause()
+		return
+
+	if not animations:
+		return
+
+	interruption_count = scene.interruption_count
+
+	animations.done(func():
+		if interruption_count == scene.interruption_count:
+			next_step()
+	)
+
+func set_timeout(timeout: int) -> void:
+	assert(false, "not implemented yet")
+
+func set_queue(queue_lines: Array) -> void:
+	assert(false, "not implemented yet")
+
+func set_mute(mute_flag: bool) -> void:
+	assert(false, "not implemented yet")
 
 enum HPColor {
 	NONE,
@@ -806,36 +1057,94 @@ class BattleSceneLog:
 
 class BattleScene:
 	var log = BattleSceneLog.new()
-	func update_weather(hardcore: bool = false): pass
-	func pause(): pass
-	func reset(): pass
-	func destroy(): pass
-	func update_statbars(): pass
-	func increment_turn(): pass
-	func update_acceleration(): pass
-	func set_frame_html(html: String): pass
-	func set_controls_html(html: String): pass
-	func add_side_condition(side_n: int, condition: String): pass
-	func remove_side_condition(side_n: int, condition: String): pass
-	func run_prepare_anim(move_id: String, attacker: Pokemon, defender: Pokemon): pass
-	func run_move_anim(move_id: String, targets: Array): pass
-	func update_statbar(poke: Pokemon): pass
-	func run_status_anim(status_id: String, targets: Array): pass
-	func result_anim(poke: Pokemon, result: String, type: String): pass
-	func run_other_anim(anim_id: String, targets: Array): pass
-	func anim_reset(poke: Pokemon): pass
-	func ability_activate_anim(poke: Pokemon, ability_name: String): pass
-	func update_sidebar(side): pass
-	func anim_summon(poke: Pokemon, slot: int, replace: bool = false): pass
-	func anim_unsummon(poke: Pokemon, replace: bool = false): pass
-	func anim_drag_out(poke: Pokemon): pass
-	func anim_drag_in(poke: Pokemon, slot: int): pass
-	func anim_faint(poke: Pokemon): pass
-	func heal_anim(poke: Pokemon, range_str: String): pass
-	func damage_anim(poke: Pokemon, range_str: String): pass
-	func run_residual_anim(anim_id: String, poke: Pokemon): pass
-	func upkeep_weather(): pass
+	var animating: bool = false
+	var acceleration: float = NAN
+	var gen: float = NAN
+	var active_count: float = NAN
+	var numeric_id: float = NAN
+	var time_offset: float = NAN
+	var interruption_count: float = NAN
+	var messagebar_open: bool = false
+	var frame: Variant = null
 
+	func ability_activate_anim(pokemon: Pokemon, result: String) -> void: pass
+	func add_pokemon_sprite(pokemon: Pokemon) -> PokemonSprite: return null
+	func add_side_condition(siden: int, id: String, instant: bool = false) -> void: pass
+	func animation_off() -> void: pass
+	func animation_on() -> void: pass
+	func maybe_close_messagebar(args: Array, kw_args: Dictionary) -> bool: return false
+	func close_messagebar() -> bool: return false
+	func damage_anim(pokemon: Pokemon, damage: Variant) -> void: pass
+	func destroy() -> void: pass
+	func finish_animations() -> Variant: return null
+	func heal_anim(pokemon: Pokemon, damage: Variant) -> void: pass
+	func hide_join_buttons() -> void: pass
+	func increment_turn() -> void: pass
+	func update_acceleration() -> void: pass
+	func message(message: String, hidden_message: String = "") -> void: pass
+	func pause() -> void: pass
+	func set_mute(muted: bool) -> void: pass
+	func preempt_catchup() -> void: pass
+	func remove_side_condition(siden: int, id: String) -> void: pass
+	func reset() -> void: pass
+	func reset_bgm() -> void: pass
+	func update_bgm() -> void: pass
+	func result_anim(
+		pokemon:Pokemon, result: String, type: String
+	) -> void: pass
+	func type_anim(pokemon: Pokemon, types: String) -> void: pass
+	func resume() -> void: pass
+	func run_move_anim(moveid: String, participants: Array[Pokemon]) -> void: pass
+	func run_other_anim(moveid: String, participants: Array[Pokemon]) -> void: pass
+	func run_prepare_anim(moveid: String, attacker: Pokemon, defender: Pokemon) -> void: pass
+	func run_residual_anim(moveid: String, pokemon: Pokemon) -> void: pass
+	func run_status_anim(moveid: String, participants: Array[Pokemon]) -> void: pass
+	func start_animations() -> void: pass
+	func team_preview() -> void: pass
+	func reset_sides() -> void: pass
+	func update_gen() -> void: pass
+	func update_sidebar(side: BattleSide) -> void: pass
+	func update_sidebars() -> void: pass
+	func update_statbars() -> void: pass
+	func update_weather(instant: bool = false) -> void: pass
+	func upkeep_weather() -> void: pass
+	func wait(time: float) -> void: pass
+	func set_frame_html(html: Variant) -> void: pass
+	func set_controls_html(html: Variant) -> void: pass
+	func remove_effect(pokemon: Pokemon, id: String, instant: bool = false) -> void: pass
+	func add_effect(pokemon: Pokemon, id: String, instant: bool = false) -> void: pass
+	func anim_summon(pokemon: Pokemon, slot: int, instant: bool = false) -> void: pass
+	func anim_unsummon(pokemon: Pokemon, instant: bool = false) -> void: pass
+	func anim_drag_in(pokemon: Pokemon, slot: int) -> void: pass
+	func anim_drag_out(pokemon: Pokemon) -> void: pass
+	func reset_statbar(pokemon: Pokemon, start_hidden: bool = false) -> void: pass
+	func update_statbar(pokemon: Pokemon, update_prevhp: bool = false, update_hp: bool = false) -> void: pass
+	func update_statbar_if_exists(pokemon: Pokemon, update_prevhp: bool = false, update_hp: bool = false) -> void: pass
+	func anim_transform(pokemon: Pokemon, use_species_anim: bool = false, is_permanent: bool = false) -> void: pass
+	func clear_effects(pokemon: Pokemon) -> void: pass
+	func remove_transform(pokemon: Pokemon) -> void: pass
+	func anim_faint(pokemon: Pokemon) -> void: pass
+	func anim_reset(pokemon: Pokemon) -> void: pass
+	func anim(pokemon: Pokemon, end: Vector2, transition: String = "") -> void: pass
+	func before_move(pokemon: Pokemon) -> void: pass
+	func after_move(pokemon: Pokemon) -> void: pass
+
+class Dex:
+	static func get_effect(effect_id: String) -> Dictionary:
+		return {}
+
+	static func get_ability(ability_id: String) -> Dictionary:
+		return {}
+
+	static func get_item(item_id: String) -> Dictionary:
+		return {}
+
+	static func get_move(move_id: String) -> Dictionary:
+		return {}
+
+	static func mod(gen: String) -> Dex:
+		var dex = Dex.new()
+		return dex
 
 class ServerPokemon extends Serializable:
 	# PokemonDetails
@@ -1161,8 +1470,7 @@ class BattleSide:
 			poke.remove_volatile("formechange")
 			
 		if not effect_id in ["batonpass", "zbatonpass", "shedtail", "teleport"] and not (battle and "tier" in battle and typeof(battle.tier) == TYPE_STRING and battle.tier.contains("Relay Race") and effect_id == ""):
-			if battle and battle.has_method("add_log"):
-				battle.add_log(["switchout", poke.ident], {"from": effect_id})
+			battle.add_log(["switchout", poke.ident], {"from": effect_id})
 				
 		poke.status_data["toxicTurns"] = 0
 		if battle and "gen" in battle and battle.gen == 5:
@@ -1171,8 +1479,7 @@ class BattleSide:
 		if slot < active.size():
 			active[slot] = null
 
-		if battle and battle.has_method("scene") and battle.scene:
-			battle.scene.anim_unsummon(poke)
+		battle.scene.anim_unsummon(poke)
 
 	func swap_to(poke: Pokemon, slot: int):
 		if poke.slot == slot: return

@@ -1,0 +1,1 @@
+C:\Users\crist\AppData\Roaming\godotenv\godot\bin\godot.exe --path C:\Users\crist\Documents\pkm --headless
