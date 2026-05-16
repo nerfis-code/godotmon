@@ -244,3 +244,7 @@ func get_species(name_or_species):
 				break
 
 	return species
+
+func for_gen(gen: int) -> Dex:
+	var dex = Dex
+	return dex

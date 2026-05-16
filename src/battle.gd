@@ -60,7 +60,7 @@ var grace_time_left: int = 0
 var kicking_inactive = false
 
 var id: String = ""
-var room_id: String = ""
+var roomid = null
 var hardcore_mode: bool = false
 var ignore_nicks: bool = false
 var ignore_opponent: bool = false
@@ -69,6 +69,12 @@ var debug: bool = false
 var join_buttons: bool = false
 var autoresize: bool = false
 var paused: bool = false
+
+var app: Dictionary = {
+	"user": {},
+	"rooms": {},
+	"ignore": {}
+}
 
 func _init(options: Dictionary = {}):
 	id = options.get("id", "")
@@ -241,60 +247,43 @@ func update_turn_counters():
 			poke.clear_turnstatuses()
 	scene.update_weather()
 
-func run_major(args: Array, kwargs: Dictionary = {}, preempt: bool = false):    
+func run_major(args: Array, kwargs: Dictionary = {}, preempt := false):
 	match args[0]:
 		"start":
 			near_side.active[0] = null
 			far_side.active[0] = null
 			scene.reset_sides()
 			start()
-		"player":
-			var side = get_side(args[1])
 
-			side.set_name(args[2])
+		"upkeep":
+			uses_upkeep = true
+			update_turn_counters()
+			for side in sides:
+				side.last_pokemon = null
 
-			if args.size() > 3 and args[3]:
-				side.set_avatar(args[3])
+		"turn":
+			set_turn(int(args[1]))
+			add_log(args)
 
-			if args.size() > 4 and args[4]:
-				side.rating = args[4]
+		"tier":
+			tier = args[1]
 
-			if join_buttons:
-				scene.hide_join_buttons()
+			if tier.ends_with("Random Battle"):
+				species_clause = true
+			if tier.ends_with(" (Blitz)"):
+				message_fade_time = 40
+				is_blitz = true
+			if tier.find("Let's Go") != -1:
+				dex = Dex.mod("gen7letsgo")
+			if tier.find("Super Staff Bros") != -1:
+				dex = Dex.mod("gen9ssb")
+			if tier.find("Legends") != -1:
+				dex = Dex.mod("gen9legendsou")
+			if tier.find("Champions") != -1:
+				dex = Dex.mod("champions")
 
 			add_log(args)
-			scene.update_sidebar(side)
-		"switch", "drag", "replace":
-			end_last_turn()
 
-			var poke = get_switched_pokemon(args[1], args[2])
-			var slot = poke.slot
-
-			poke.health_parse(args[3])
-			poke.remove_volatile("itemremoved")
-
-			var tera_match = RegEx.new()
-			tera_match.compile("tera:([a-z]+)$")
-			var result = tera_match.search(args[2])
-			poke.terastallized = result.get_string(1) if result else ""
-
-			if args[0] == "switch":
-				if poke.side.active[slot]:
-					poke.side.switch_out(poke.side.active[slot], kwargs)
-				poke.side.switch_in(poke, kwargs)
-
-			elif args[0] == "replace":
-				poke.side.replace(poke)
-
-			else:
-				poke.side.drag_in(poke)
-
-			scene.update_weather()
-			add_log(args, kwargs)
-		"teamsize":
-			var side = get_side(args[1])
-			side.total_pokemon = int(args[2])
-			scene.update_sidebar(side)
 		"gametype":
 			game_type = args[1]
 			compat_mode = false
@@ -303,9 +292,9 @@ func run_major(args: Array, kwargs: Dictionary = {}, preempt: bool = false):
 				"multi", "freeforall":
 					pokemon_controlled = 1
 
-					if not p3:
+					if p3 == null:
 						p3 = BattleSide.new(self, 2)
-					if not p4:
+					if p4 == null:
 						p4 = BattleSide.new(self, 3)
 
 					p3.foe = p2
@@ -323,9 +312,8 @@ func run_major(args: Array, kwargs: Dictionary = {}, preempt: bool = false):
 					sides = [p1, p2, p3, p4]
 
 					p1.active = [null, null]
-					p3.active = p1.active
-
 					p2.active = [null, null]
+					p3.active = p1.active
 					p4.active = p2.active
 
 				"doubles":
@@ -345,33 +333,252 @@ func run_major(args: Array, kwargs: Dictionary = {}, preempt: bool = false):
 
 			scene.update_gen()
 			scene.reset_sides()
-		"turn":
-			set_turn(int(args[1]))
+
+		"rule":
+			var rule_name = args[1].split(": ")[0]
+
+			if rule_name == "Species Clause":
+				species_clause = true
+			if rule_name == "Blitz":
+				message_fade_time = 40
+				is_blitz = true
+			if rule_name == "Exact HP Mod":
+				report_exact_hp = true
+
+			rules[rule_name] = 1
+			add_log(args)
+
+		"rated":
+			rated = args[1] if args.size() > 1 else true
+			scene.update_gen()
+			add_log(args)
+
+		"inactive":
+			if not kicking_inactive:
+				kicking_inactive = true
+
+			var msg: String = args[1]
+
+			if msg.begins_with("Time left: "):
+				var parts = msg.split(" | ")
+				var time = parts[0]
+				var total_time = parts[1]
+				var grace_time = parts[2] if parts.size() > 2 else ""
+
+				kicking_inactive = int(time.substr(11))
+				total_time_left = int(total_time)
+				grace_time_left = int(grace_time) if grace_time != "" else 0
+
+				if total_time_left == kicking_inactive:
+					total_time_left = 0
+				return
+
+			elif msg.begins_with("You have "):
+				kicking_inactive = int(msg.substr(9))
+				return
+
+			elif msg.ends_with(" seconds left."):
+				var idx = msg.find(" has ")
+				kicking_inactive = int(msg.substr(idx + 5))
+
+			elif msg.ends_with(" 15 seconds left this turn."):
+				if is_blitz:
+					return
+
+			add_log(args, kwargs, preempt)
+
+		"inactiveoff":
+			kicking_inactive = false
+			add_log(args, kwargs, preempt)
+
+		"join", "j", "J":
+			if roomid != null:
+				var room = app.rooms[roomid]
+				var user = BattleTextParser.parse_name_parts(args[1])
+				var userid = Utils.to_id(user.name)
+
+				if not room.users.has(userid):
+					room.user_count.users += 1
+
+				room.users[userid] = user
+				room.user_list.add(userid)
+				room.user_list.update_user_count()
+				room.user_list.update_no_users_online()
+
+			add_log(args, kwargs, preempt)
+
+		"leave", "l", "L":
+			if roomid != null:
+				var room = app.rooms[roomid]
+				var userid = Utils.to_id(args[1])
+
+				if room.users.has(userid):
+					room.user_count.users -= 1
+
+				room.users.erase(userid)
+				room.user_list.remove(userid)
+				room.user_list.update_user_count()
+				room.user_list.update_no_users_online()
+
+			add_log(args, kwargs, preempt)
+
+		"name", "n", "N":
+			if roomid != null:
+				var room = app.rooms[roomid]
+				var user = BattleTextParser.parse_name_parts(args[1])
+				var oldid = args[2]
+				var userid = Utils.to_id(user.name)
+
+				room.users[userid] = user
+				room.user_list.remove(oldid)
+				room.user_list.add(userid)
+
+			if not ignore_spects:
+				add_log(args, kwargs, preempt)
+
+		"player":
+			var side = get_side(args[1])
+			side.set_name(args[2])
+
+			if args.size() > 3:
+				side.set_avatar(args[3])
+			if args.size() > 4:
+				side.rating = args[4]
+
+			if join_buttons:
+				scene.hide_join_buttons()
+
+			add_log(args)
+			scene.update_sidebar(side)
+
+		"teamsize":
+			var side = get_side(args[1])
+			side.total_pokemon = int(args[2])
+			scene.update_sidebar(side)
+
+		"win", "tie":
+			winner(args[1] if args[0] != "tie" else null)
+
+		"clearpoke":
+			p1.clear_pokemon()
+			p2.clear_pokemon()
+
+		"poke":
+			var pokemon = remember_team_preview_pokemon(args[1], args[2])
+
+			if args.size() > 3:
+				if args[3] == "mail":
+					pokemon.item = "(mail)"
+				elif args[3] == "item":
+					pokemon.item = "(exists)"
+
+		"switch", "drag", "replace":
+			end_last_turn()
+
+			var poke = get_switched_pokemon(args[1], args[2])
+			var slot = poke.slot
+
+			poke.health_parse(args[3])
+			poke.remove_volatile("itemremoved")
+			poke.terastallized = ""
+
+			if args[0] == "switch":
+				if poke.side.active[slot] != null:
+					poke.side.switch_out(poke.side.active[slot], kwargs)
+				poke.side.switch_in(poke, kwargs)
+
+			elif args[0] == "replace":
+				poke.side.replace(poke)
+
+			else:
+				poke.side.drag_in(poke)
+
+			scene.update_weather()
+			add_log(args, kwargs)
+
+		"faint":
+			var poke = get_pokemon(args[1])
+			poke.side.faint(poke)
+			add_log(args, kwargs)
+
+		"swap":
+			var poke = get_pokemon(args[1])
+
+			var target_number = int(args[2])
+			var is_number := str(target_number) == str(args[2])
+
+			if not is_number:
+				var target = get_pokemon(args[2])
+				poke.side.swap_with(poke, target, kwargs)
+			else:
+				var target_index = target_number
+
+				if kwargs.has("from"):
+					var target = poke.side.active[target_index]
+					if target:
+						args[2] = target.ident
+
+				poke.side.swap_to(poke, target_index)
+
 			add_log(args, kwargs)
 		"move":
 			end_last_turn()
 			reset_turns_since_moved()
 
 			var poke = get_pokemon(args[1])
-			var move := Dex.get_move(args[2])
+			var move = Dex.get_move(args[2])
 
 			if check_active(poke):
 				return
 
-			var poke2 = get_pokemon(args[3])
+			var target = get_pokemon(args[3])
 
 			scene.before_move(poke)
-			use_move(poke, move, poke2, kwargs)
-			animate_move(poke, move, poke2, kwargs)
+			use_move(poke, move, target, kwargs)
+			animate_move(poke, move, target, kwargs)
 			scene.after_move(poke)
 
 			add_log(args, kwargs)
+
+		"cant":
+			end_last_turn()
+			reset_turns_since_moved()
+
+			var poke = get_pokemon(args[1])
+			var effect = Dex.get_effect(args[2])
+			var move = Dex.get_move(args[3])
+
+			cant_use_move(poke, effect, move, kwargs)
+			add_log(args, kwargs)
+
+		"gen":
+			gen = int(args[1])
+			dex = Dex.for_gen(gen)
+			scene.update_gen()
+			add_log(args)
+
+		"callback":
+			if subscription != null:
+				subscription.call("callback")
+
 		"fieldhtml":
-			scene.set_frame_html(args[1])
+			scene.set_frame_html(BattleLog.sanitize_html(args[1]))
+
 		"controlshtml":
-			scene.set_controls_html(args[1])
+			scene.set_controls_html(BattleLog.sanitize_html(args[1]))
+
+		"custom":
+			if args[1] == "-endterastallize":
+				var poke = get_pokemon(args[2])
+				poke.remove_volatile("terastallize")
+				poke.tera_type = ""
+				poke.terastallized = ""
+				scene.anim_transform(poke)
+				scene.reset_statbar(poke)
+				add_log(args, kwargs)
+
 		_:
-			pass
+			add_log(args, kwargs, preempt)
 
 func change_weather(weather_name: String, poke: Pokemon = null, is_ipkeep: bool = false, ability: Dictionary = {}):
 	var w = weather_name.to_lower().replace(" ", "")
@@ -1173,8 +1380,11 @@ func _run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], nex
 func parse_sprite_data(data: Dictionary) -> void:
 	assert(false, "not implemented yet")
 
-func remember_team_preview_pokemon() -> void:
-	assert(false, "not implemented yet")
+func remember_team_preview_pokemon(sideid: String, details: String):
+	var parsed = parse_pokemon_id(sideid)
+	var siden = parsed["siden"]
+
+	return sides[siden].add_pokemon("", "", details)
 
 func find_corresponding_pokemon(poke: Pokemon) -> Pokemon:
 	assert(false, "not implemented yet")
@@ -1313,28 +1523,124 @@ enum StatusName {
 }
 
 class BattleTextParser:
-	static func parse_battle_line(line: String) -> Dictionary:
-		var parts = line.split("|")
-		var args = []
-		var kwargs = {}
-		if parts.size() > 1:
-			for i in range(1, parts.size()):
-				var p = parts[i]
-				if p.begins_with("[") and p.contains("]"):
-					var end_idx = p.find("]")
-					var key = p.substr(1, end_idx - 1)
-					var val = p.substr(end_idx + 1).strip_edges()
-					kwargs[key] = val
-				else:
-					args.append(p)
-		elif parts.size() == 1:
-			args.append(parts[0])
-		return {"args": args, "kwargs": kwargs}
+	static func parse_line(line: String, no_default: bool = false) -> Variant:
+		if not line.begins_with("|"):
+			return ["", line]
 
+		if line == "|":
+			return ["done"]
+
+		var index := line.find("|", 1)
+		var cmd := line.substr(1, index - 1)
+
+		match cmd:
+			"chatmsg", "chatmsg-raw", "raw", "error", "html", "inactive", "inactiveoff", "warning", "fieldhtml", "controlshtml", "pagehtml", "bigerror", "debug", "tier", "challstr", "popup", "":
+				return [cmd, line.substr(index + 1)]
+
+			"c", "chat", "uhtml", "uhtmlchange", "queryresponse", "showteam":
+				var index2a := line.find("|", index + 1)
+				return [
+					cmd,
+					line.substr(index + 1, index2a - (index + 1)),
+					line.substr(index2a + 1)
+				]
+
+			"c:", "pm":
+				var index2b := line.find("|", index + 1)
+				var index3b := line.find("|", index2b + 1)
+				return [
+					cmd,
+					line.substr(index + 1, index2b - (index + 1)),
+					line.substr(index2b + 1, index3b - (index2b + 1)),
+					line.substr(index3b + 1)
+				]
+
+		if no_default:
+			return null
+
+		return line.substr(1).split("|")
+
+
+	static func parse_battle_line(line: String) -> Dictionary:
+		var args = parse_line(line, true)
+
+		if args != null:
+			return {
+				"args": args,
+				"kwargs": {}
+			}
+
+		args = Array(line.substr(1).split("|"))
+		var kwargs := {}
+
+		while args.size() > 1:
+			var last_arg: String = args[args.size() - 1]
+
+			if not last_arg.begins_with("["):
+				break
+
+			var bracket_pos := last_arg.find("]")
+			if bracket_pos <= 0:
+				break
+
+			var key := last_arg.substr(1, bracket_pos - 1)
+			var value := last_arg.substr(bracket_pos + 1).strip_edges()
+
+			if value == "":
+				value = "."
+
+			kwargs[key] = value
+			args.pop_back()
+
+		return upgrade_args({
+			"args": args,
+			"kwargs": kwargs
+		})
+	
+	static func parse_name_parts(text: String) -> Dictionary:
+		var group := ""
+		
+		# Los nombres no pueden empezar con símbolo
+		if text.length() > 0 and not _is_alnum(text[0]):
+			group = text[0]
+			text = text.substr(1)
+
+		var name := text
+		var status := ""
+		var away := false
+
+		var at_index := text.find("@")
+
+		if at_index > 0:
+			name = text.substr(0, at_index)
+			status = text.substr(at_index + 1)
+
+			if status.begins_with("!"):
+				away = true
+				status = status.substr(1)
+
+		return {
+			"group": group,
+			"name": name,
+			"away": away,
+			"status": status
+		}
+
+	static func _is_alnum(char: String) -> bool:
+		var code := char.unicode_at(0)
+		return (code >= 48 and code <= 57) or (code >= 65 and code <= 90) or (code >= 97 and code <= 122)
+	
+	static func upgrade_args(data: Dictionary):
+		return {"args": data.args, "kwargs": data.kwargs}
+		
+class BattleLog:
+	static func sanitize_html(_html: Variant):
+		pass
+		
 class BattleSceneLog:
 	func add(args: Array, kwargs: Dictionary = {}, preempt: bool = false):
 		pass
-
+			
 class BattleScene:
 	var log = BattleSceneLog.new()
 	var animating: bool = false
@@ -1352,7 +1658,7 @@ class BattleScene:
 	func add_side_condition(siden: int, id: String, instant: bool = false) -> void: pass
 	func animation_off() -> void: pass
 	func animation_on() -> void: pass
-	func maybe_close_messagebar(args: Array, kw_args: Dictionary) -> bool: return false
+	func maybe_close_messagebar(args: Array, kwargs: Dictionary) -> bool: return false
 	func close_messagebar() -> bool: return false
 	func damage_anim(pokemon: Pokemon, damage: Variant) -> void: pass
 	func destroy() -> void: pass
@@ -1578,7 +1884,7 @@ class BattleSide:
 		if old_pokemon:
 			poke.item = old_pokemon.item
 			poke.base_ability = old_pokemon.base_ability
-			poke.teraType = old_pokemon.teraType
+			poke.tera_type = old_pokemon.tera_type
 
 		if not poke.ability and poke.base_ability:
 			poke.ability = poke.base_ability
