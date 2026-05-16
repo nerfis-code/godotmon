@@ -597,10 +597,10 @@ func cant_use_move(pokemon: Pokemon, effect: Dictionary, move: Dictionary, kwarg
 func activate_ability(pokemon: Pokemon, effect_or_name, is_not_base: bool = false):
 	if not pokemon or not effect_or_name: return
 	var effect_name = effect_or_name
-	if typeof(effect_or_name) == TYPE_DICTIONARY:
+	if typeof(effect_or_name) != TYPE_STRING:
 		if effect_or_name.get("effectType") != "Ability": return
 		effect_name = effect_or_name.get("name", "")
-		
+	
 	scene.ability_activate_anim(pokemon, effect_name)
 	pokemon.remember_ability(effect_name, is_not_base)
 

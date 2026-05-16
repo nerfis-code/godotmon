@@ -265,7 +265,7 @@ class Move extends Effect:
 	var pressure_target: String
 	var flags
 	var crit_ratio: int
-	var damage
+	var damage: int
 
 	var desc: String
 	var short_desc: String
