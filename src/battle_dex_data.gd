@@ -265,7 +265,7 @@ class Move extends Effect:
 	var pressure_target: String
 	var flags
 	var crit_ratio: int
-	var damage: int
+	var damage: float
 
 	var desc: String
 	var short_desc: String
@@ -309,11 +309,11 @@ class Move extends Effect:
 		pressure_target = data.get("pressureTarget", target)
 		flags = data.get("flags", {})
 		crit_ratio = 0 if data.get("critRatio") == 0 else data.get("critRatio", 1)
-		damage = data.get("damage")
+		damage = data.get("damage", NAN)
 
 		# textos
-		desc = data.get("desc")
-		short_desc = data.get("shortDesc")
+		desc = data.get("desc", "")
+		short_desc = data.get("shortDesc", "")
 		is_nonstandard = data.get("isNonstandard", null)
 		is_z = data.get("isZ", "")
 		z_move = data.get("zMove", {})

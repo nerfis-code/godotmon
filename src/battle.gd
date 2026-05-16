@@ -447,35 +447,35 @@ func swap_side_conditions():
 			side2.remove_side_condition(id)
 
 func use_move(pokemon: Pokemon, move: Variant, target: Pokemon, kwargs: Dictionary):
-	var fromeffect = dex.get_effect(kwargs.get("from", "")) if dex and dex.has_method("get_effect") else {"id": kwargs.get("from", ""), "name": kwargs.get("from", "")}
+	var fromeffect = dex.get_effect(kwargs.get("from", ""))
 	activate_ability(pokemon, fromeffect)
 	pokemon.clear_movestatuses()
-	if move.get("id") == "focuspunch":
+	if move.id == "focuspunch":
 		pokemon.remove_turnstatus("focuspunch")
 	scene.update_statbar(pokemon)
-	if fromeffect.get("id") == "sleeptalk":
-		pokemon.remember_move(move.get("name", ""), 0)
+	if fromeffect.id == "sleeptalk":
+		pokemon.remember_move(move.name, 0)
 		
 	var caller_move_for_pressure = null
-	if fromeffect.get("id") and String(kwargs.get("from", "")).begins_with("move:"):
+	if fromeffect.id and String(kwargs.get("from", "")).begins_with("move:"):
 		caller_move_for_pressure = fromeffect
 		
-	if not fromeffect.get("id") or caller_move_for_pressure or fromeffect.get("id") == "pursuit":
-		var move_name = move.get("name", "")
+	if not fromeffect.id or caller_move_for_pressure or fromeffect.id == "pursuit":
+		var move_name = move.name
 		if not caller_move_for_pressure:
-			if move.get("isZ"):
-				pokemon.item = move.get("isZ")
-				var item = dex.get_item(move.get("isZ")) if dex and "items" in dex else {}
-				if item and item.get("zMoveFrom"):
-					move_name = item.get("zMoveFrom")
+			if move.is_z:
+				pokemon.item = move.is_z
+				var item = dex.get_item(move.is_z) if dex and "items" in dex else {}
+				if item and item.z_move_from:
+					move_name = item.z_move_from
 			elif move_name.begins_with("Z-"):
 				move_name = move_name.substr(2)
 				move = dex.get_move(move_name) if dex and "moves" in dex else {}
 				
 		var pp = 1
-		if ability_active("Pressure") and move.get("id") != "stickyweb":
+		if ability_active("Pressure") and move.id != "stickyweb":
 			var foe_targets = []
-			var move_target = move.get("pressureTarget", "")
+			var move_target = move.pressure_target
 			
 			if not target and game_type == "singles" and not move_target in ["self", "allies", "allySide", "adjacentAlly", "adjacentAllyOrSelf", "allyTeam"]:
 				if pokemon.side and pokemon.side.foe and pokemon.side.foe.active.size() > 0:
@@ -497,8 +497,8 @@ func use_move(pokemon: Pokemon, move: Variant, target: Pokemon, kwargs: Dictiona
 		else:
 			pokemon.remember_move(caller_move_for_pressure.get("name", ""), pp - 1)
 			
-	pokemon.last_move = move.get("id", "")
-	last_move = move.get("id", "")
+	pokemon.last_move = move.id
+	last_move = move.id
 	if last_move in ["wish", "healingwish"]:
 		if pokemon.side:
 			pokemon.side.wisher = pokemon
@@ -754,7 +754,6 @@ func run(line: String, preempt: bool = false) -> void:
 		return
 	
 	var parsed = BattleTextParser.parse_battle_line(line)
-	print(parsed)
 
 	var args = parsed.args
 	var kwargs = parsed.kwargs
