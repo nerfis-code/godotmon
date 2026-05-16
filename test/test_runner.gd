@@ -86,7 +86,8 @@ func run(script_path: String) -> void:
 					ignore = -1
 				else:
 					lines[j] = "  %*d|  " % [fn_line_max_width, fn_line + 1 + j + ignore] + lines[j]
-
+			const MAX_ERROR_LINES = 4
+			lines = lines.slice(max(0, i - MAX_ERROR_LINES), i + MAX_ERROR_LINES + 1)
 			exec.error_trace = "  %*d|  " % [fn_line_max_width, fn_line] + fn_declaration + "\n" + "\n".join(lines)
 			exec.error = error
 			exec.at = "\n  at Object.%s (%s:%d:%d)" % [error.fn, script_path, exec.pos.y, exec.pos.x]

@@ -744,9 +744,6 @@ func instant_add(command: String):
 	add(command)
 
 func run(line: String, preempt: bool = false) -> void:
-	if debug: 
-		print(line)
-
 	# Manejo de preempt
 	if not preempt and preempt_step_queue.size() > 0 and line == preempt_step_queue[0]:
 		preempt_step_queue.pop_front()
@@ -878,8 +875,8 @@ func parse_health(hpstring: String, output = {}):
 	output.hpcolor = ""
 
 	if hp == "0" or hp == "0.0":
-		if not output.has("maxhp") or not output.maxhp:
-			output.maxhp = 100
+		# if not output.has("maxhp") or not output.maxhp:
+		# 	output.maxhp = 100
 		output.hp = 0
 
 	elif hp.find("/") > 0:
@@ -981,7 +978,7 @@ func _run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], nex
 
 			if kwargs.has("from"):
 				var effect = Dex.get_effect(kwargs.from)
-				var of_poke = get_pokemon(kwargs.of)
+				var of_poke = get_pokemon(kwargs.get("of", ""))
 
 				activate_ability(of_poke, effect)
 
@@ -1028,14 +1025,14 @@ func _run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], nex
 			add_log(args, kwargs)
 
 		"-heal":
-			var poke = get_pokemon(args[1], Dex.get_effect(kwargs.from).id == "revivalblessing")
+			var poke = get_pokemon(args[1], Dex.get_effect(kwargs.get("from")).id == "revivalblessing")
 			var damage = poke.health_parse(args[2], true, true)
 			if damage == null:
 				return
 
 			var range = poke.get_damage_range(damage)
 
-			if kwargs.from:
+			if kwargs.has("from"):
 				var effect = Dex.get_effect(kwargs.from)
 				var of_poke = get_pokemon(kwargs.of)
 
@@ -1142,7 +1139,7 @@ func _run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], nex
 		"-ability":
 			var poke = get_pokemon(args[1])
 			var ability = Dex.get_ability(args[2])
-			var old_ability = Dex.get_ability(args.get(3))
+			var old_ability = Dex.get_ability(args[3] if args.size() > 3 else "")
 			var effect = Dex.get_effect(kwargs.get("from"))
 			var of_poke = get_pokemon(kwargs.get("of", ""))
 
