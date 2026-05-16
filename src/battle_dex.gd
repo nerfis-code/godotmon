@@ -1,12 +1,29 @@
 extends Node
 
 const BattleDexData = preload("uid://d1mlt2fddq0e8")
-var battle_items = preload("uid://cs5tenx7noy6f").AB
-var BattleMovedex = {}
+
+var items: Dictionary
+var movedex: Dictionary
+var abilities: Dictionary
+var aliases: Dictionary
+var pokedex: Dictionary
+var alt_forms: Dictionary
 
 func _ready():
-	var json = FileAccess.open("res://src/moves.json", FileAccess.READ).get_as_text()
-	BattleMovedex = JSON.parse_string(json)
+	var items_json = FileAccess.open("res://src/items.json", FileAccess.READ).get_as_text()
+	items = JSON.parse_string(items_json)
+
+	var moves_json = FileAccess.open("res://src/moves.json", FileAccess.READ).get_as_text()
+	movedex = JSON.parse_string(moves_json)
+
+	var abilities_json = FileAccess.open("res://src/abilities.json", FileAccess.READ).get_as_text()
+	abilities = JSON.parse_string(abilities_json)
+
+	var aliases_json = FileAccess.open("res://src/aliases.json", FileAccess.READ).get_as_text()
+	aliases = JSON.parse_string(aliases_json)
+
+	var pokedex_json = FileAccess.open("res://src/pokedex.json", FileAccess.READ).get_as_text()
+	pokedex = JSON.parse_string(pokedex_json)
 
 func get_item(name_or_item) -> BattleDexData.Item:
 	# Si ya es un objeto (Item), devolverlo directamente
@@ -17,13 +34,11 @@ func get_item(name_or_item) -> BattleDexData.Item:
 	var id: String = Utils.to_id(name_or_item)
 
 	# Aliases
-	if Engine.has_singleton("BattleAliases"):
-		var aliases = Engine.get_singleton("BattleAliases")
-		if aliases.has(id):
+	if aliases.has(id):
 			name = aliases[id]
 			id = Utils.to_id(name)
-
-	var data = battle_items.get(id)
+		
+	var data = items.get(id)
 
 	# Si ya existe y es válido, devolverlo
 	if typeof(data) == TYPE_DICTIONARY and data.get("exists") != null:
@@ -34,7 +49,7 @@ func get_item(name_or_item) -> BattleDexData.Item:
 		data = { "exists": false }
 
 	var item = BattleDexData.Item.new(id, name, data)
-	#battle_items[id] = item
+	#items[id] = item
 
 	return item
 
@@ -52,8 +67,35 @@ func get_effect(name) -> Variant:
 	var id: String = Utils.to_id(name)
 	return BattleDexData.PureEffect.new(id, name)
 
-func get_ability(ability_id: String) -> Dictionary:
-	return { }
+func get_ability(name_or_ability):
+	# Si ya es un objeto (Ability), devolverlo directamente
+	if name_or_ability != null and typeof(name_or_ability) != TYPE_STRING:
+		return name_or_ability
+
+	var name: String = name_or_ability if name_or_ability != null else ""
+	var id: String = Utils.to_id(name_or_ability)
+
+	# Aliases
+	if aliases.has(id):
+		name = aliases[id]
+		id = Utils.to_id(name)
+
+
+	var battle_abilities = abilities
+	var data = battle_abilities.get(id)
+
+	# Si ya existe y es válido
+	if typeof(data) == TYPE_DICTIONARY and data.get("exists") != null:
+		return data
+
+	# Crear datos por defecto si no existen
+	if data == null:
+		data = {"exists": false}
+
+	var ability = BattleDexData.Ability.new(id, name, data)
+	battle_abilities[id] = ability
+
+	return ability
 
 func get_move(name_or_move) -> BattleDexData.Move:
 	# Si ya es un objeto (Move), devolverlo directamente
@@ -64,14 +106,12 @@ func get_move(name_or_move) -> BattleDexData.Move:
 	var id: String = Utils.to_id(name_or_move)
 
 	# Aliases
-	if Engine.has_singleton("BattleAliases"):
-		var aliases = Engine.get_singleton("BattleAliases")
-		if aliases.has(id):
-			name = aliases[id]
-			id = Utils.to_id(name)
+	if aliases.has(id):
+		name = aliases[id]
+		id = Utils.to_id(name)
 
 
-	var movedex = BattleMovedex
+	var movedex = movedex
 	var data = movedex.get(id)
 	# Si ya existe y es válido
 	if typeof(data) == TYPE_DICTIONARY and data.get("exists") != null:
@@ -132,3 +172,75 @@ func sanitize_name(name) -> String:
 	s = s.replace('"', "&quot;")
 
 	return s.substr(0, 50)
+
+func get_species(name_or_species):
+	# Si ya es un objeto (Species), devolverlo directamente
+	if name_or_species != null and typeof(name_or_species) != TYPE_STRING:
+		return name_or_species
+
+	var name: String = name_or_species if name_or_species != null else ""
+	var id: String = Utils.to_id(name_or_species)
+	var formid: String = id
+
+	if alt_forms.has(formid):
+		return alt_forms[formid]
+
+	if aliases.has(id):
+			name = aliases[id]
+			id = Utils.to_id(name)
+
+	var battle_pokedex = pokedex
+	var data = battle_pokedex.get(id)
+
+	var species
+
+	# Si ya existe y es válido
+	if typeof(data) == TYPE_DICTIONARY and data.get("exists") != null:
+		species = data
+	else:
+		if data == null:
+			data = {"exists": false}
+
+		# Tier fallback
+		if not data.has("tier") and id.ends_with("totem"):
+			var base_id = id.substr(0, id.length() - 5)
+			data["tier"] = get_species(base_id).tier
+
+		if not data.has("tier") and data.has("base_species") and Utils.to_id(data["base_species"]) != id:
+			data["tier"] = get_species(data["base_species"]).tier
+
+		# NFE cálculo
+		var nfe = false
+		if id == "dipplin":
+			nfe = true
+		elif data.has("evos"):
+			for evo in data["evos"]:
+				var evo_species = get_species(evo)
+				if not evo_species.is_nonstandard \
+				or evo_species.is_nonstandard == data.get("is_nonstandard") \
+				or evo_species.is_nonstandard == "Unobtainable":
+					nfe = true
+					break
+
+		data["nfe"] = nfe
+
+		species = BattleDexData.Species.new(id, name, data)
+		battle_pokedex[id] = species
+
+	# Cosmetic formes
+	if species.cosmetic_formes:
+		for forme in species.cosmetic_formes:
+			if Utils.to_id(forme) == formid:
+				var new_species = BattleDexData.Species.new(formid, name, {
+					"id": formid,
+					"name": forme,
+					"forme": forme.substr(species.name.length() + 1),
+					"base_forme": "",
+					"base_species": species.name,
+					"other_formes": null,
+				})
+				alt_forms[formid] = new_species
+				species = new_species
+				break
+
+	return species

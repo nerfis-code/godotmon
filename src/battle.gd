@@ -746,7 +746,7 @@ func instant_add(command: String):
 func run(line: String, preempt: bool = false) -> void:
 	if debug: 
 		print(line)
-		
+
 	# Manejo de preempt
 	if not preempt and preempt_step_queue.size() > 0 and line == preempt_step_queue[0]:
 		preempt_step_queue.pop_front()
@@ -1139,6 +1139,38 @@ func _run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], nex
 
 					_:
 						poke.prev_item_effect = "consumed"
+		"-ability":
+			var poke = get_pokemon(args[1])
+			var ability = Dex.get_ability(args[2])
+			var old_ability = Dex.get_ability(args.get(3))
+			var effect = Dex.get_effect(kwargs.get("from"))
+			var of_poke = get_pokemon(kwargs.get("of", ""))
+
+			poke.remember_ability(ability.name, effect.id != "" and not kwargs.get("fail", false))
+
+			if kwargs.get("silent", false):
+				pass
+
+			elif old_ability.id != "":
+				activate_ability(poke, old_ability.name)
+				scene.wait(0.5)
+				activate_ability(poke, ability.name, true)
+
+				if of_poke != null:
+					of_poke.remember_ability(ability.name)
+
+			elif effect.id != "":
+				match effect.id:
+					"desolateland", "primordialsea", "deltastream":
+						if kwargs.get("fail", false):
+							activate_ability(poke, ability.name)
+					_:
+						activate_ability(poke, ability.name)
+			else:
+				activate_ability(poke, ability.name)
+
+			scene.update_weather()
+			add_log(args, kwargs)
 
 			add_log(args, kwargs)
 func parse_sprite_data(data: Dictionary) -> void:
