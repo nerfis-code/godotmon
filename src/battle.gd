@@ -744,7 +744,9 @@ func instant_add(command: String):
 	add(command)
 
 func run(line: String, preempt: bool = false) -> void:
-	print(line)
+	if debug: 
+		print(line)
+		
 	# Manejo de preempt
 	if not preempt and preempt_step_queue.size() > 0 and line == preempt_step_queue[0]:
 		preempt_step_queue.pop_front()

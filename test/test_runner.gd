@@ -18,12 +18,12 @@ func _ready() -> void:
 	var end_time = Time.get_ticks_msec()
 	time = (end_time - start_time) / 1000
 	
-	# print("\n\n")
-	# print("Test Suites: %d failed, %d passed, %d total" % [test_suites.failed, test_suites.passed, test_suites.total])
-	# print("Tests: %d failed, %d passed, %d total" % [tests.failed, tests.passed, tests.total])
-	# print("Snapshots: 0 total")
-	# print("Time: %d s" % time)
-	# print("Ran all test suites.")
+	print("\n\n")
+	print("Test Suites: %d failed, %d passed, %d total" % [test_suites.failed, test_suites.passed, test_suites.total])
+	print("Tests: %d failed, %d passed, %d total" % [tests.failed, tests.passed, tests.total])
+	print("Snapshots: 0 total")
+	print("Time: %d s" % time)
+	print("Ran all test suites.")
 	get_tree().quit()
 
 func run(script_path: String) -> void:
@@ -90,34 +90,34 @@ func run(script_path: String) -> void:
 			exec.error = error
 			exec.at = "\n  at Object.%s (%s:%d:%d)" % [error.fn, script_path, exec.pos.y, exec.pos.x]
 
-	# if execs.all(func(ex): return ex.all_right):
-	# 	print_rich("\n[bgcolor=green][color=white] PASS [/color][/bgcolor] " + script_path)
-	# 	test_suites.passed += 1
-	# else:
-	# 	print_rich("\n[bgcolor=red][color=white] FAIL [/color][/bgcolor] " + script_path)
-	# 	test_suites.failed += 1
-	# test_suites.total += 1
+	if execs.all(func(ex): return ex.all_right):
+		print_rich("\n[bgcolor=green][color=white] PASS [/color][/bgcolor] " + script_path)
+		test_suites.passed += 1
+	else:
+		print_rich("\n[bgcolor=red][color=white] FAIL [/color][/bgcolor] " + script_path)
+		test_suites.failed += 1
+	test_suites.total += 1
 
-	# for ex in execs:
-	# 	if ex.all_right:
-	# 		print("  ✓ " + ex.name)
-	# 		tests.passed += 1
-	# 	else:
-	# 		print("  ✕ " + ex.name)
-	# 		tests.failed += 1
-	# 	tests.total += 1
+	for ex in execs:
+		if ex.all_right:
+			print("  ✓ " + ex.name)
+			tests.passed += 1
+		else:
+			print("  ✕ " + ex.name)
+			tests.failed += 1
+		tests.total += 1
 
-	# for ex in execs:
-	# 	if ex.all_right:
-	# 		continue
+	for ex in execs:
+		if ex.all_right:
+			continue
 		
-	# 	print("\n  ● " + ex.name)
-	# 	print("\n  " + ex.error_line)
-	# 	print("\n  Expected: " + str(ex.error.expected))
-	# 	print("  Received: " + str(ex.error.received))
+		print("\n  ● " + ex.name)
+		print("\n  " + ex.error_line)
+		print("\n  Expected: " + str(ex.error.expected))
+		print("  Received: " + str(ex.error.received))
 
-	# 	print("\n" + ex.error_trace)
-	# 	print(ex.at)
+		print("\n" + ex.error_trace)
+		print(ex.at)
 
 func _find_test_files(directory: String) -> Array:
 	var test_files = []

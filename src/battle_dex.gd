@@ -120,5 +120,15 @@ func mod(_gen: String) -> Dex:
 	var dex = Dex.new()
 	return dex
 
-func sanitize_name(name: String) -> String:
-		return name.strip_edges().to_lower()
+func sanitize_name(name) -> String:
+	if name == null or name == "":
+		return ""
+
+	var s: String = str(name)
+
+	s = s.replace("&", "&amp;")
+	s = s.replace("<", "&lt;")
+	s = s.replace(">", "&gt;")
+	s = s.replace('"', "&quot;")
+
+	return s.substr(0, 50)
