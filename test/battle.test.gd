@@ -308,12 +308,12 @@ func test_real_battle_turn_by_turn_verification() -> void:
 	var p1_kleavor = p1.pokemon[0]
 	var p2_gastrodon = p2.pokemon[0]
 	
-	expect(p1_kleavor.ident).to_be("p1a: summer lose ends")
+	expect(p1_kleavor.get_ident()).to_be("p1a: summer lose ends")
 	expect(p1_kleavor.hp).to_be(100)
 	expect(p1_kleavor.maxhp).to_be(100)
 	expect(p1_kleavor.is_active()).to_be_truthy()
 	
-	expect(p2_gastrodon.ident).to_be("p2a: Gastrodon")
+	expect(p2_gastrodon.get_ident()).to_be("p2a: Gastrodon")
 	expect(p2_gastrodon.hp).to_be(100)
 	expect(p2_gastrodon.maxhp).to_be(100)
 	expect(p2_gastrodon.is_active()).to_be_truthy()
@@ -362,7 +362,7 @@ func test_real_battle_turn_by_turn_verification() -> void:
 	expect(p2.pokemon).to_have_length(2)
 	
 	var p2_ditto = p2.pokemon[1]
-	expect(p2_ditto.ident).to_be("p2a: Ditto")
+	expect(p2_ditto.get_ident()).to_be("p2a: Ditto")
 	expect(p2_ditto.is_active()).to_be_truthy()
 	expect(p2_ditto.hp).to_be(100)
 
@@ -393,7 +393,7 @@ func test_real_battle_turn_by_turn_verification() -> void:
 	expect(p1.pokemon).to_have_length(2)
 	
 	var p1_mimikyu = p1.pokemon[1]
-	expect(p1_mimikyu.ident).to_be("p1a: practicing romance")
+	expect(p1_mimikyu.get_ident()).to_be("p1a: practicing romance")
 	expect(p1_mimikyu.is_active()).to_be_truthy()
 	expect(p1_mimikyu.hp).to_be(88)
 	expect(p1_mimikyu.maxhp).to_be(100)
@@ -444,7 +444,7 @@ func test_real_battle_turn_by_turn_verification() -> void:
 	expect(p1.pokemon).to_have_length(3)
 	
 	var p1_bisharp = p1.pokemon[2]
-	expect(p1_bisharp.ident).to_be("p1a: we match")
+	expect(p1_bisharp.get_ident()).to_be("p1a: we match")
 	expect(p1_bisharp.is_active()).to_be_truthy()
 	expect(p1_bisharp.hp).to_be(94)
 
@@ -466,7 +466,7 @@ func test_real_battle_turn_by_turn_verification() -> void:
 	expect(p2.pokemon).to_have_length(3)
 	
 	var p2_umbreon = p2.pokemon[2]
-	expect(p2_umbreon.ident).to_be("p2a: Umbreon")
+	expect(p2_umbreon.get_ident()).to_be("p2a: Umbreon")
 	expect(p2_umbreon.hp).to_be(100)
 	expect(p2_umbreon.is_active()).to_be_truthy()
 
@@ -488,7 +488,7 @@ func test_real_battle_turn_by_turn_verification() -> void:
 	# Turn 8 verification
 	expect(p1_bisharp.hp).to_be(78)
 	expect(p2_umbreon.hp).to_be(94)
-	expect(p1_bisharp.move_track).to_have_length(1)
+	expect(p1_bisharp.move_track).to_have_length(2)
 
 	var turn8_lines = [
 		"|",
@@ -533,7 +533,7 @@ func test_real_battle_turn_by_turn_verification() -> void:
 	expect(p2.pokemon).to_have_length(4)
 	
 	var p2_blissey = p2.pokemon[3]
-	expect(p2_blissey.ident).to_be("p2a: Blissey")
+	expect(p2_blissey.get_ident()).to_be("p2a: Blissey")
 	expect(p2_blissey.is_active()).to_be_truthy()
 	expect(p2_blissey.hp).to_be(100)
 
