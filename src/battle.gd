@@ -44,7 +44,7 @@ var my_ally_pokemon: Array = []
 var last_move: String = ""
 
 var gen: int = 8
-var dex = null
+var dex = Dex
 var team_preview_count: int = 0
 var species_clause: bool = false
 var tier: String = ""
@@ -353,6 +353,24 @@ func run_major(args: Array, kwargs: Dictionary = {}, preempt: bool = false):
 		"turn":
 			set_turn(int(args[1]))
 			add_log(args, kwargs)
+		"move":
+			end_last_turn()
+			reset_turns_since_moved()
+
+			var poke = get_pokemon(args[1])
+			var move := Dex.get_move(args[2])
+
+			if check_active(poke):
+				return
+
+			var poke2 = get_pokemon(args[3])
+
+			scene.before_move(poke)
+			use_move(poke, move, poke2, kwargs)
+			animate_move(poke, move, poke2, kwargs)
+			scene.after_move(poke)
+
+			add_log(args, kwargs)
 		"fieldhtml":
 			scene.set_frame_html(args[1])
 		"controlshtml":
@@ -439,7 +457,7 @@ func swap_side_conditions():
 				scene.add_side_condition(side1.n, id)
 			side2.remove_side_condition(id)
 
-func use_move(pokemon: Pokemon, move: Dictionary, target: Pokemon, kwargs: Dictionary):
+func use_move(pokemon: Pokemon, move: Variant, target: Pokemon, kwargs: Dictionary):
 	var fromeffect = dex.get_effect(kwargs.get("from", "")) if dex and dex.has_method("get_effect") else {"id": kwargs.get("from", ""), "name": kwargs.get("from", "")}
 	activate_ability(pokemon, fromeffect)
 	pokemon.clear_movestatuses()
@@ -459,12 +477,12 @@ func use_move(pokemon: Pokemon, move: Dictionary, target: Pokemon, kwargs: Dicti
 		if not caller_move_for_pressure:
 			if move.get("isZ"):
 				pokemon.item = move.get("isZ")
-				var item = dex.items.get(move.get("isZ")) if dex and "items" in dex else {}
+				var item = dex.get_item(move.get("isZ")) if dex and "items" in dex else {}
 				if item and item.get("zMoveFrom"):
 					move_name = item.get("zMoveFrom")
 			elif move_name.begins_with("Z-"):
 				move_name = move_name.substr(2)
-				move = dex.moves.get(move_name) if dex and "moves" in dex else {}
+				move = dex.get_move(move_name) if dex and "moves" in dex else {}
 				
 		var pp = 1
 		if ability_active("Pressure") and move.get("id") != "stickyweb":
@@ -510,7 +528,7 @@ func ability_active(abilities) -> bool:
 			return true
 	return false
 
-func animate_move(pokemon: Pokemon, move: Dictionary, target: Pokemon, kwargs: Dictionary):
+func animate_move(pokemon: Pokemon, move: Variant, target: Pokemon, kwargs: Dictionary):
 	active_move_is_spread = kwargs.get("spread", null)
 	if seeking != null or kwargs.get("still"): return
 	
@@ -532,7 +550,7 @@ func animate_move(pokemon: Pokemon, move: Dictionary, target: Pokemon, kwargs: D
 		
 	var used_move = move
 	if kwargs.get("anim"):
-		used_move = dex.moves.get(kwargs.get("anim")) if dex and "moves" in dex else {"id": kwargs.get("anim")}
+		used_move = dex.get_move(kwargs.get("anim")) if dex and "moves" in dex else {"id": kwargs.get("anim")}
 		
 	if not kwargs.get("spread"):
 		if scene and scene.has_method("run_move_anim"):
@@ -1005,7 +1023,7 @@ func _run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], nex
 					"bind", "wrap":
 						scene.run_other_anim("bound", [poke])
 			else:
-				if dex.moves.get(last_move).category != "Status":
+				if dex.get_move(last_move).category != "Status":
 					poke.times_attacked += 1
 
 				var damage_info = "" + Pokemon.get_formatted_range(range, 0 if damage[1] == 100 else 1, "–")
@@ -1076,7 +1094,7 @@ func _run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], nex
 
 		"-enditem":
 			var poke = get_pokemon(args[1])
-			var item = Dex.items["foo"].call(args[2])
+			var item = Dex.get_item(args[2])
 			var effect = Dex.get_effect(kwargs.get("from"))
 
 			if gen > 4 or effect.id != "knockoff":
@@ -1155,8 +1173,12 @@ func ngas_active() -> bool:
 	assert(false, "not implemented yet")
 	return false
 
-func check_active() -> void:
-	assert(false, "not implemented yet")
+func check_active(poke) -> bool:
+	if not poke.side.active[poke.slot]:
+		# SOMEONE jumped in in the middle of a replay. <_<
+		poke.side.replace(poke)
+
+	return false
 
 func pause() -> void:
 	assert(false, "not implemented yet")
