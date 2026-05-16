@@ -744,6 +744,7 @@ func instant_add(command: String):
 	add(command)
 
 func run(line: String, preempt: bool = false) -> void:
+	print(line)
 	# Manejo de preempt
 	if not preempt and preempt_step_queue.size() > 0 and line == preempt_step_queue[0]:
 		preempt_step_queue.pop_front()
@@ -1017,7 +1018,8 @@ func _run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], nex
 						hover += " pixels"
 
 					damage_info = "||" + hover + "||" + damage_info + "||"
-
+				if args.size() < 4:
+					args.append(null)
 				args[3] = damage_info
 
 			scene.damage_anim(poke, Pokemon.get_formatted_range(range, 0, " to "))

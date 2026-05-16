@@ -43,11 +43,11 @@ func get_effect(name) -> Variant:
 	name = ("" if name == null else str(name)).strip_edges()
 
 	if name.substr(0, 5) == "item:":
-		return Dex.items.get(name.substr(5).strip_edges())
+		return Dex.get_item(name.substr(5).strip_edges())
 	elif name.substr(0, 8) == "ability:":
-		return Dex.abilities.get(name.substr(8).strip_edges())
+		return Dex.get_ability(name.substr(8).strip_edges())
 	elif name.substr(0, 5) == "move:":
-		return Dex.moves.get(name.substr(5).strip_edges())
+		return Dex.get_move(name.substr(5).strip_edges())
 
 	var id: String = Utils.to_id(name)
 	return BattleDexData.PureEffect.new(id, name)
