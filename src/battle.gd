@@ -133,8 +133,7 @@ func get_all_active() -> Array[Pokemon]:
 
 func reset():
 	paused = true
-	if scene and scene.has_method("pause"):
-		scene.pause()
+	scene.pause()
 	reset_step()
 	if subscription.is_valid():
 		subscription.call("paused")
@@ -155,8 +154,7 @@ func reset_step():
 	my_pokemon = []
 	my_ally_pokemon = []
 
-	if scene and scene.has_method("reset"):
-		scene.reset()
+	scene.reset()
 
 	active_move_is_spread = null
 	current_step = 0
@@ -164,8 +162,7 @@ func reset_step():
 	next_step()
 
 func destroy():
-	if scene and scene.has_method("destroy"):
-		scene.destroy()
+	scene.destroy()
 	for i in range(sides.size()):
 		if sides[i]:
 			sides[i].destroy()
@@ -179,8 +176,7 @@ func destroy():
 	p4 = null
 
 func add_log(args: Array, kwargs: Dictionary = {}, preempt: bool = false):
-	if scene and scene.get("log"):
-		scene.log.add(args, kwargs, preempt)
+	scene.log.add(args, kwargs, preempt)
 
 func start():
 	add_log(["start"])
@@ -257,26 +253,6 @@ func run_major(args: Array, kwargs: Dictionary = {}, preempt: bool = false):
 			far_side.active[0] = null
 			scene.reset_sides()
 			start()
-		"tier":
-			tier = args[1]
-
-			if tier.ends_with("Random Battle"):
-				species_clause = true
-
-			if tier.ends_with(" (Blitz)"):
-				message_fade_time = 40
-				is_blitz = true
-
-			if tier.find("Let's Go") != -1:
-				dex = Dex.mod("gen7letsgo")
-
-			if tier.find("Super Staff Bros") != -1:
-				dex = Dex.mod("gen9ssb")
-
-			if tier.find("Legends") != -1:
-				dex = Dex.mod("gen9legendsou")
-
-			add_log(args)
 		"player":
 			var side = get_side(args[1])
 
@@ -293,13 +269,94 @@ func run_major(args: Array, kwargs: Dictionary = {}, preempt: bool = false):
 
 			add_log(args)
 			scene.update_sidebar(side)
+		"switch", "drag", "replace":
+			end_last_turn()
+
+			var poke = get_switched_pokemon(args[1], args[2])
+			var slot = poke.slot
+
+			poke.health_parse(args[3])
+			poke.remove_volatile("itemremoved")
+
+			var tera_match = RegEx.new()
+			tera_match.compile("tera:([a-z]+)$")
+			var result = tera_match.search(args[2])
+			poke.terastallized = result.get_string(1) if result else ""
+
+			if args[0] == "switch":
+				if poke.side.active[slot]:
+					poke.side.switch_out(poke.side.active[slot], kwargs)
+				poke.side.switch_in(poke, kwargs)
+
+			elif args[0] == "replace":
+				poke.side.replace(poke)
+
+			else:
+				poke.side.drag_in(poke)
+
+			scene.update_weather()
+			add_log(args, kwargs)
+		"teamsize":
+			var side = get_side(args[1])
+			side.total_pokemon = int(args[2])
+			scene.update_sidebar(side)
+		"gametype":
+			game_type = args[1]
+			compat_mode = false
+
+			match args[1]:
+				"multi", "freeforall":
+					pokemon_controlled = 1
+
+					if not p3:
+						p3 = BattleSide.new(self, 2)
+					if not p4:
+						p4 = BattleSide.new(self, 3)
+
+					p3.foe = p2
+					p4.foe = p1
+
+					if args[1] == "multi":
+						p4.ally = p2
+						p3.ally = p1
+						p1.ally = p3
+						p2.ally = p4
+
+					p3.is_far = p1.is_far
+					p4.is_far = p2.is_far
+
+					sides = [p1, p2, p3, p4]
+
+					p1.active = [null, null]
+					p3.active = p1.active
+
+					p2.active = [null, null]
+					p4.active = p2.active
+
+				"doubles":
+					near_side.active = [null, null]
+					far_side.active = [null, null]
+
+				"triples", "rotation":
+					near_side.active = [null, null, null]
+					far_side.active = [null, null, null]
+
+				_:
+					for side in sides:
+						side.active = [null]
+
+			if not pokemon_controlled:
+				pokemon_controlled = near_side.active.size()
+
+			scene.update_gen()
+			scene.reset_sides()
+		"turn":
+			set_turn(int(args[1]))
+			add_log(args, kwargs)
 		"fieldhtml":
-			if scene and scene.has_method("set_frame_html"):
-				scene.set_frame_html(args[1])
+			scene.set_frame_html(args[1])
 		"controlshtml":
-			if scene and scene.has_method("set_controls_html"):
-				scene.set_controls_html(args[1])
-		# El resto de metodos runMajor se añadirá progresivamente ya que es muy largo
+			scene.set_controls_html(args[1])
 		_:
 			pass
 
@@ -548,33 +605,116 @@ func activate_ability(pokemon: Pokemon, effect_or_name, is_not_base: bool = fals
 		scene.ability_activate_anim(pokemon, effect_name)
 	pokemon.remember_ability(effect_name, is_not_base)
 
-func parse_pokemon_id(ident: String) -> Dictionary:
-	var res = {"siden": - 1, "slot": - 1}
-	if not ident: return res
-	var p_id = ident.substr(0, 2)
-	var letter = ident.substr(2, 1)
-	res["slot"] = letter.unicode_at(0) - "a".unicode_at(0)
-	
-	for i in range(sides.size()):
-		if sides[i] and sides[i].sideid == p_id:
-			res["siden"] = sides[i].n
-			break
-	return res
+func parse_pokemon_id(pokemonid: String) -> Dictionary:
+	var name = pokemonid
 
-func get_pokemon(ident: String, details: String = "") -> Pokemon:
-	if not ident: return null
-	var parts = ident.split(":")
-	if parts.size() < 1: return null
-	
-	var slot_str = parts[0].strip_edges()
-	var parsed = parse_pokemon_id(slot_str)
-	var siden = parsed["siden"]
-	var slot_idx = parsed["slot"]
-	
-	if siden >= 0 and siden < sides.size():
-		var target_side = sides[siden]
-		if target_side and slot_idx >= 0 and slot_idx < target_side.active.size():
-			return target_side.active[slot_idx]
+	var siden = -1
+	var slot = -1 # si hay un slot explícito para este pokemon
+
+	var regex_basic = RegEx.new()
+	regex_basic.compile("^p[1-9]($|: )")
+
+	var regex_with_slot = RegEx.new()
+	regex_with_slot.compile("^p[1-9][a-f]: ")
+
+	if regex_basic.search(name):
+		siden = int(name[1]) - 1
+		name = name.substr(4)
+
+	elif regex_with_slot.search(name):
+		var slot_chart = {
+			"a": 0, "b": 1, "c": 2,
+			"d": 3, "e": 4, "f": 5
+		}
+
+		siden = int(name[1]) - 1
+		slot = slot_chart.get(name[2], -1)
+		name = name.substr(5)
+		pokemonid = "p%d: %s" % [siden + 1, name]
+
+	return {
+		"name": name,
+		"siden": siden,
+		"slot": slot,
+		"pokemonid": pokemonid
+	}
+
+func get_switched_pokemon(pokemonid: String, details: String) -> Pokemon:
+	if pokemonid == "??":
+		push_error("pokemonid not passed")
+		return null
+
+	var parsed = parse_pokemon_id(pokemonid)
+	var name = parsed.name
+	var siden = parsed.siden
+	var slot = parsed.slot
+	pokemonid = parsed.pokemonid
+
+	var searchid = "%s|%s" % [pokemonid, details]
+	var side = sides[siden]
+
+	# search inactive revealed pokemon
+	for i in range(side.pokemon.size()):
+		var pokemon = side.pokemon[i]
+
+		if pokemon.fainted:
+			continue
+
+		# already active, can't be switching in
+		if pokemon in side.active:
+			continue
+
+		# just switched out, can't be switching in
+		if pokemon == side.last_pokemon and not side.active[slot]:
+			continue
+
+		if pokemon.searchid == searchid:
+			# exact match
+			if slot >= 0:
+				pokemon.slot = slot
+			return pokemon
+
+		if not pokemon.searchid and pokemon.check_details(details):
+			# switch-in matches Team Preview entry
+			pokemon = side.add_pokemon(name, pokemonid, details, i)
+			if slot >= 0:
+				pokemon.slot = slot
+			return pokemon
+
+	# pokemon not found, create a new pokemon object for it
+	var pokemon = side.add_pokemon(name, pokemonid, details)
+	if slot >= 0:
+		pokemon.slot = slot
+
+	return pokemon
+
+func get_pokemon(pokemonid: String, fainted_only: bool = false):
+	if not pokemonid or pokemonid == "??" or pokemonid == "null" or pokemonid == "false":
+		return null
+
+	var parsed = parse_pokemon_id(pokemonid)
+	var siden = parsed.siden
+	var slot = parsed.slot
+	pokemonid = parsed.pokemonid
+
+	var is_inactive = slot < 0
+	var side = sides[siden]
+
+	if not is_inactive and side.active[slot]:
+		return side.active[slot]
+
+	for pokemon in side.pokemon:
+		if is_inactive and not compat_mode and pokemon in side.active:
+			continue
+
+		if fainted_only and pokemon.hp:
+			continue
+
+		if pokemon.ident == pokemonid:
+			if slot >= 0:
+				pokemon.slot = slot
+			return pokemon
+
 	return null
 
 func get_side(sidename: String) -> BattleSide:
@@ -704,7 +844,7 @@ func parse_details(name: String, pokemonid: String, details: String) -> Dictiona
 	var is_team_preview = (name == "")
 	output["details"] = details
 	output["name"] = name
-	output["speciesForme"] = name
+	output["species_forme"] = name
 	output["level"] = 100
 	output["shiny"] = false
 	output["gender"] = ""
@@ -712,52 +852,74 @@ func parse_details(name: String, pokemonid: String, details: String) -> Dictiona
 	output["searchid"] = (pokemonid + "|" + details) if not is_team_preview else ""
 	var split_details = details.split(", ")
 	
-	if split_details.size() > 0 and split_details[split_details.size() - 1].begins_with("tera:"):
+	if split_details[split_details.size() - 1].begins_with("tera:"):
 		output["terastallized"] = split_details[split_details.size() - 1].substr(5)
 		split_details.remove_at(split_details.size() - 1)
-	if split_details.size() > 0 and split_details[split_details.size() - 1] == "shiny":
+	if split_details[split_details.size() - 1] == "shiny":
 		output["shiny"] = true
 		split_details.remove_at(split_details.size() - 1)
-	if split_details.size() > 0 and (split_details[split_details.size() - 1] == "M" or split_details[split_details.size() - 1] == "F"):
+	if (split_details[split_details.size() - 1] == "M" or split_details[split_details.size() - 1] == "F"):
 		output["gender"] = split_details[split_details.size() - 1]
 		split_details.remove_at(split_details.size() - 1)
-	if split_details.size() > 0 and split_details[split_details.size() - 1].begins_with("L"):
+	if split_details[split_details.size() - 1].begins_with("L"):
 		var lvl_str = split_details[split_details.size() - 1].substr(1)
 		if lvl_str.is_valid_int():
 			output["level"] = lvl_str.to_int()
 		split_details.remove_at(split_details.size() - 1)
 	if split_details.size() > 0:
-		output["speciesForme"] = split_details[0]
+		output["species_forme"] = split_details[0]
 	return output
 
-func parse_health(hpstring: String) -> Dictionary:
-	var output = {}
+func parse_health(hpstring: String, output = {}):
 	var parts = hpstring.split(" ")
-	var hp_str = parts[0]
-	var status_str = parts[1] if parts.size() > 1 else ""
-	
-	output["hpcolor"] = ""
-	if hp_str == "0" or hp_str == "0.0":
-		output["hp"] = 0
-		output["maxhp"] = 100
-	elif hp_str.find("/") > 0:
-		var hp_parts = hp_str.split("/")
-		var curhp = hp_parts[0].to_float()
-		var maxhp = hp_parts[1].to_float()
-		output["hp"] = curhp
-		output["maxhp"] = maxhp
-		if output["hp"] > output["maxhp"]: output["hp"] = output["maxhp"]
-		var colorchar = hp_parts[1].substr(hp_parts[1].length() - 1)
-		if colorchar in ["r", "y", "g"]:
-			output["hpcolor"] = colorchar
-	else:
-		output["hp"] = hp_str.to_float()
-		
-	if status_str:
-		output["status"] = status_str
-		if status_str == "fnt":
-			output["hp"] = 0
-			output["fainted"] = true
+	var hp = parts[0]
+	var status = parts[1] if parts.size() > 1 else null
+
+	# parseo de hp
+	output.hpcolor = ""
+
+	if hp == "0" or hp == "0.0":
+		if not output.has("maxhp") or not output.maxhp:
+			output.maxhp = 100
+		output.hp = 0
+
+	elif hp.find("/") > 0:
+		var hp_parts = hp.split("/")
+		var curhp = hp_parts[0]
+		var maxhp = hp_parts[1]
+
+		if is_nan(float(curhp)) or is_nan(float(maxhp)):
+			return null
+
+		output.hp = float(curhp)
+		output.maxhp = float(maxhp)
+
+		if output.hp > output.maxhp:
+			output.hp = output.maxhp
+
+		var colorchar = maxhp.substr(maxhp.length() - 1, 1)
+		if colorchar == "r" or colorchar == "y" or colorchar == "g":
+			output.hpcolor = colorchar
+
+	elif not is_nan(float(hp)):
+		if not output.has("maxhp") or not output.maxhp:
+			output.maxhp = 100
+		output.hp = output.maxhp * float(hp) / 100.0
+
+	# parseo de estado
+	if not status:
+		output.status = ""
+
+	elif status in ["par", "brn", "slp", "frz", "tox"]:
+		output.status = status
+
+	elif status == "psn" and output.status != "tox":
+		output.status = status
+
+	elif status == "fnt":
+		output.hp = 0
+		output.fainted = true
+
 	return output
 
 func run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], next_kwargs: Dictionary = {}):
@@ -798,10 +960,10 @@ func run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], next
 				return
 			kwargs.simult = "."
 
-	if kwargs.then:
+	if kwargs.has("then") and kwargs.then:
 		wait_for_animations = false
 
-	if kwargs.simult:
+	if kwargs.has("simult") and kwargs.simult:
 		wait_for_animations = "simult"
 	
 	_run_minor(args, kwargs, next_args, next_kwargs)
@@ -818,7 +980,7 @@ func _run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], nex
 
 			var range = poke.get_damage_range(damage)
 
-			if kwargs.from:
+			if kwargs.has("from"):
 				var effect = Dex.get_effect(kwargs.from)
 				var of_poke = get_pokemon(kwargs.of)
 
@@ -912,12 +1074,75 @@ func _run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], nex
 			scene.heal_anim(poke, Pokemon.get_formatted_range(range, 0, " to "))
 			add_log(args, kwargs)
 
+		"-enditem":
+			var poke = get_pokemon(args[1])
+			var item = Dex.items["foo"].call(args[2])
+			var effect = Dex.get_effect(kwargs.get("from"))
+
+			if gen > 4 or effect.id != "knockoff":
+				poke.item = ""
+				poke.item_effect = ""
+				poke.prev_item = item.name
+				poke.prev_item_effect = ""
+
+			poke.remove_volatile("airballoon")
+			poke.add_volatile("itemremoved")
+
+			if kwargs.has("eat"):
+				poke.prev_item_effect = "eaten"
+				scene.run_other_anim("consume", [poke])
+				last_move = item.id
+
+			elif kwargs.has("weaken"):
+				poke.prev_item_effect = "eaten"
+				last_move = item.id
+
+			elif effect.id:
+				match effect.id:
+					"fling":
+						poke.prev_item_effect = "flung"
+
+					"knockoff":
+						if gen <= 4:
+							poke.item_effect = "knocked off"
+						else:
+							poke.prev_item_effect = "knocked off"
+
+						scene.run_other_anim("itemoff", [poke])
+						scene.result_anim(poke, "Item knocked off", "neutral")
+
+					"stealeat":
+						poke.prev_item_effect = "stolen"
+
+					"gem":
+						poke.prev_item_effect = "consumed"
+
+					"incinerate":
+						poke.prev_item_effect = "incinerated"
+
+			else:
+				match item.id:
+					"airballoon":
+						poke.prev_item_effect = "popped"
+						poke.remove_volatile("airballoon")
+						scene.result_anim(poke, "Balloon popped", "neutral")
+
+					"focussash":
+						poke.prev_item_effect = "consumed"
+						scene.result_anim(poke, "Sash", "neutral")
+
+					"focusband":
+						scene.result_anim(poke, "Focus Band", "neutral")
+
+					"redcard":
+						poke.prev_item_effect = "held up"
+
+					_:
+						poke.prev_item_effect = "consumed"
+
+			add_log(args, kwargs)
 func parse_sprite_data(data: Dictionary) -> void:
 	assert(false, "not implemented yet")
-
-func get_switched_pokemon() -> Pokemon:
-	assert(false, "not implemented yet")
-	return null
 
 func remember_team_preview_pokemon() -> void:
 	assert(false, "not implemented yet")
@@ -948,8 +1173,12 @@ func seek_by(amount: int) -> void:
 func seek_turn(turn_number: int, skip_to_next: bool = false) -> void:
 	assert(false, "not implemented yet")
 
-func stop_seeking() -> void:
-	assert(false, "not implemented yet")
+func stop_seeking():
+	seeking = null
+	scene.animation_on()
+
+	if subscription:
+		subscription.call("paused" if paused else "playing")
 
 func should_step() -> bool:
 	if at_queue_end:
@@ -972,6 +1201,24 @@ func next_step():
 	var interruption_count
 
 	while true:
+		wait_for_animations = true
+
+		if current_step >= step_queue.size():
+			at_queue_end = true
+
+			if not ended and is_replay:
+				premature_end()
+
+			stop_seeking()
+
+			if ended:
+				scene.update_bgm()
+
+			if subscription:
+				subscription.call("atqueueend")
+
+			return
+
 		run(step_queue[current_step])
 		current_step += 1
 
@@ -983,7 +1230,7 @@ func next_step():
 		if Time.get_ticks_msec() - time > 300:
 			interruption_count = scene.interruption_count
 
-			#await get_tree().create_timer(0.001).timeout
+			await Engine.get_main_loop().create_timer(0.001).timeout
 
 			if interruption_count == scene.interruption_count:
 				next_step()
@@ -1128,23 +1375,6 @@ class BattleScene:
 	func anim(pokemon: Pokemon, end: Vector2, transition: String = "") -> void: pass
 	func before_move(pokemon: Pokemon) -> void: pass
 	func after_move(pokemon: Pokemon) -> void: pass
-
-class Dex:
-	static func get_effect(effect_id: String) -> Dictionary:
-		return {}
-
-	static func get_ability(ability_id: String) -> Dictionary:
-		return {}
-
-	static func get_item(item_id: String) -> Dictionary:
-		return {}
-
-	static func get_move(move_id: String) -> Dictionary:
-		return {}
-
-	static func mod(gen: String) -> Dex:
-		var dex = Dex.new()
-		return dex
 
 class ServerPokemon extends Serializable:
 	# PokemonDetails
@@ -1313,8 +1543,8 @@ class BattleSide:
 	func add_pokemon(_name: String, ident: String, details: String, replace_slot: int = -1) -> Pokemon:
 		var old_pokemon: Pokemon = pokemon[replace_slot] if replace_slot >= 0 and replace_slot < pokemon.size() else null
 
-		var data = battle.parse_details(_name, ident, details) if battle and battle.has_method("parse_details") else {}
-		var poke = Pokemon.new(data, self )
+		var data = battle.parse_details(_name, ident, details)
+		var poke = Pokemon.new(data, self)
 		if old_pokemon:
 			poke.item = old_pokemon.item
 			poke.base_ability = old_pokemon.base_ability
@@ -1390,9 +1620,9 @@ class BattleSide:
 		active[slot] = poke
 		poke.slot = slot
 		poke.clear_volatile()
-		poke.lastMove = ""
+		poke.last_move = ""
 		if battle:
-			battle.lastMove = "switch-in"
+			battle.last_move = "switch-in"
 		var effect_id = kwargs.get("from", "")
 		if effect_id in ["batonpass", "zbatonpass", "shedtail"]:
 			if last_pokemon:
@@ -1594,7 +1824,7 @@ class Pokemon:
 	
 	var sprite: PokemonSprite
 	
-	func _init(data: ServerPokemon, p_side: BattleSide):
+	func _init(data: Dictionary, p_side: BattleSide):
 		side = p_side
 		species_forme = data.species_forme
 		details = data.details
@@ -1603,7 +1833,7 @@ class Pokemon:
 		shiny = data.shiny
 		gender = data.gender if data.gender != "" else "N"
 		ident = data.ident
-		terastallized = data.terastallized
+		terastallized = data.get("terastallized", "")
 		searchid = data.searchid
 		
 	func is_active() -> bool:
@@ -1676,46 +1906,59 @@ class Pokemon:
 		return [oldrange[0] - newrange[1], oldrange[1] - newrange[0]]
 
 	func health_parse(hpstring: String, parsedamage: bool = false, heal: bool = false):
-		if hpstring == null or hpstring.length() == 0: return null
-		
+		# retorna [delta, denominator, percent(, oldnum, oldcolor)] o null
+		if not hpstring or hpstring.length() == 0:
+			return null
+
 		var paren_index = hpstring.rfind("(")
+
 		if paren_index >= 0:
+			# estilo antiguo de daño y vida
 			if parsedamage:
 				var damage = float(hpstring)
-				if is_nan(damage): damage = 50.0
+				if is_nan(damage):
+					damage = 50.0
+
 				if heal:
-					hp += int(maxhp * damage / 100.0)
-					if hp > maxhp: hp = maxhp
+					hp += maxhp * damage / 100.0
+					if hp > maxhp:
+						hp = maxhp
 				else:
-					hp -= int(maxhp * damage / 100.0)
-					
+					hp -= maxhp * damage / 100.0
+
+				# parsear info absoluta
 				var ret = health_parse(hpstring)
-				if ret != null and ret[1] == 100:
+				if ret and ret[1] == 100:
 					return [damage, 100, damage]
-					
+
 				var percent = round(ceil(damage * 48.0 / 100.0) / 48.0 * 100.0)
 				var pixels = ceil(damage * 48.0 / 100.0)
 				return [pixels, 48, percent]
-				
-			if not hpstring.ends_with(")"):
+
+			if hpstring.substr(hpstring.length() - 1, 1) != ")":
 				return null
+
 			hpstring = hpstring.substr(paren_index + 1, hpstring.length() - paren_index - 2)
-			
-		var oldhp = 0 if fainted else (hp if hp > 0 else 1)
-		var oldmaxhp = maxhp
-		var oldwidth = hp_width(100)
-		var oldcolor = hpcolor
-		
-		if oldmaxhp == 0:
-			oldmaxhp = maxhp
-			oldhp = maxhp
-			
-		var oldnum = floor(float(maxhp) * float(oldhp) / float(oldmaxhp)) if oldhp > 0 else 0
-		if oldnum == 0 and oldhp > 0: oldnum = 1
-		
-		var delta = hp - oldnum
-		var deltawidth = hp_width(100) - oldwidth
-		return [delta, maxhp, deltawidth, oldnum, oldcolor]
+
+		var old_hp = 0 if fainted else (hp if hp != 0 else 1)
+		var old_maxhp = maxhp
+		var old_width = hp_width(100)
+		var old_color = hpcolor
+
+		side.battle.parse_health(hpstring, self)
+
+		if old_maxhp == 0:
+			old_maxhp = maxhp
+			old_hp = maxhp
+
+		var old_num = int(floor(maxhp * old_hp / old_maxhp)) if old_hp else 0
+		if old_hp and old_num == 0:
+			old_num = 1
+
+		var delta = hp - old_num
+		var delta_width = hp_width(100) - old_width
+
+		return [delta, maxhp, delta_width, old_num, old_color]
 
 	func check_details(p_details: String = "") -> bool:
 		if p_details == "": return false

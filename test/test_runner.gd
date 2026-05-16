@@ -2,6 +2,7 @@ class_name TextRunner
 extends Node
 
 static var error_queue: Array
+static var visited: Array
 var test_suites = {"failed": 0, "passed": 0, "total": 0}
 var tests = {"failed": 0, "passed": 0, "total": 0 }
 var snapshots = 0
@@ -55,13 +56,18 @@ func run(script_path: String) -> void:
 			exec.pos = Vector2i()
 			var lines = body.split("\n")
 			var i = 0
+			var ignore_count = error.count
+
 			for line in lines:
-				var j = line.find(error.fn)
+				var j = line.find(error.fn + "(")
 				if j != -1:
-					var new_line = "^".lpad(j)
-					lines.insert(i + 1, "".lpad(line.count("\t"), "\t") + new_line)
-					exec.pos.x = j
-					break
+					if ignore_count > 0:
+						ignore_count -= 1
+					else:
+						var new_line = "^".lpad(j)
+						lines.insert(i + 1, "".lpad(line.count("\t"), "\t") + new_line)
+						exec.pos.x = j
+						break
 
 				i += 1
 			

@@ -19,6 +19,10 @@ run/main_scene="uid://qbsoqipjwhne"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
+[autoload]
+
+Dex="*uid://dfs8xr71nb2kq"
+
 [display]
 
 window/stretch/aspect="ignore"
