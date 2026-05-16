@@ -34,6 +34,7 @@ func run(script_path: String) -> void:
 	var fn_regex = RegEx.create_from_string("func \\w+\\(\\).*?:")
 
 	for match in fn_regex.search_all(content):
+		TextRunner.visited.clear()
 		var fn_declaration = match.get_string()
 		var body_regex = RegEx.create_from_string("[\\s\\S]*?(?=func\\s+\\w|$)")
 		
@@ -70,7 +71,7 @@ func run(script_path: String) -> void:
 						break
 
 				i += 1
-			
+
 			exec.error_line = lines[i]
 			
 			var fn_line_max_width = str(fn_line + lines.size() - 1).length()
