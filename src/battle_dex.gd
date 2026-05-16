@@ -73,7 +73,6 @@ func get_move(name_or_move) -> BattleDexData.Move:
 
 	var movedex = BattleMovedex
 	var data = movedex.get(id)
-	print("move data for id '%s': %s" % [id, str(data)])
 	# Si ya existe y es válido
 	if typeof(data) == TYPE_DICTIONARY and data.get("exists") != null:
 		return data

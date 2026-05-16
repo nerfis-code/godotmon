@@ -107,14 +107,12 @@ func remove_pseudo_weather(_weather: String):
 	for i in range(pseudo_weather.size()):
 		if pseudo_weather[i][0] == _weather:
 			pseudo_weather.remove_at(i)
-			if scene and scene.has_method("update_weather"):
-				scene.update_weather()
+			scene.update_weather()
 			return
 
 func add_pseudo_weather(_weather: String, min_time_left: int, time_left: int):
 	pseudo_weather.append([_weather, min_time_left, time_left])
-	if scene and scene.has_method("update_weather"):
-		scene.update_weather()
+	scene.update_weather()
 
 func has_pseudo_weather(_weather: String) -> bool:
 	for pw in pseudo_weather:
@@ -197,8 +195,7 @@ func premature_end():
 func end_last_turn():
 	if end_last_turn_pending:
 		end_last_turn_pending = false
-		if scene and scene.has_method("update_statbars"):
-			scene.update_statbars()
+		scene.update_statbars()
 
 func set_turn(turn_num: int):
 	if turn_num == turn + 1:
@@ -211,8 +208,7 @@ func set_turn(turn_num: int):
 	if seeking == null:
 		turns_since_moved += 1
 
-	if scene and scene.has_method("increment_turn"):
-		scene.increment_turn()
+	scene.increment_turn()
 
 	if seeking != null:
 		if turn_num >= seeking:
@@ -243,8 +239,7 @@ func update_turn_counters():
 			if poke.status == StatusName.TOX:
 				poke.statusData["toxicTurns"] += 1
 			poke.clear_turnstatuses()
-	if scene and scene.has_method("update_weather"):
-		scene.update_weather()
+	scene.update_weather()
 
 func run_major(args: Array, kwargs: Dictionary = {}, preempt: bool = false):    
 	match args[0]:
@@ -389,8 +384,7 @@ func change_weather(weather_name: String, poke: Pokemon = null, is_ipkeep: bool 
 			if weather_min_time_left > 0:
 				weather_min_time_left -= 1
 		if seeking == null:
-			if scene and scene.has_method("upkeep_weather"):
-				scene.upkeep_weather()
+			scene.upkeep_weather()
 		return
 	
 	if w:
@@ -408,8 +402,7 @@ func change_weather(weather_name: String, poke: Pokemon = null, is_ipkeep: bool 
 			weather_min_time_left = 0 if gen <= 3 else 5
 	
 	weather = w
-	if scene and scene.has_method("update_weather"):
-		scene.update_weather()
+	scene.update_weather()
 
 func swap_side_conditions():
 	var conds = [
@@ -432,8 +425,7 @@ func swap_side_conditions():
 			if not target_side: continue
 			for id in source_side_conditions.keys():
 				target_side.side_conditions[id] = source_side_conditions[id]
-				if scene and scene.has_method("add_side_condition"):
-					scene.add_side_condition(target_side.n, id)
+				scene.add_side_condition(target_side.n, id)
 		return
 	
 	var side1 = sides[0]
@@ -443,18 +435,15 @@ func swap_side_conditions():
 			var t = side1.side_conditions[id]
 			side1.side_conditions[id] = side2.side_conditions[id]
 			side2.side_conditions[id] = t
-			if scene and scene.has_method("add_side_condition"):
-				scene.add_side_condition(side1.n, id)
-				scene.add_side_condition(side2.n, id)
+			scene.add_side_condition(side1.n, id)
+			scene.add_side_condition(side2.n, id)
 		elif side1.side_conditions.has(id) and not side2.side_conditions.has(id):
 			side2.side_conditions[id] = side1.side_conditions[id]
-			if scene and scene.has_method("add_side_condition"):
-				scene.add_side_condition(side2.n, id)
+			scene.add_side_condition(side2.n, id)
 			side1.remove_side_condition(id)
 		elif side2.side_conditions.has(id) and not side1.side_conditions.has(id):
 			side1.side_conditions[id] = side2.side_conditions[id]
-			if scene and scene.has_method("add_side_condition"):
-				scene.add_side_condition(side1.n, id)
+			scene.add_side_condition(side1.n, id)
 			side2.remove_side_condition(id)
 
 func use_move(pokemon: Pokemon, move: Variant, target: Pokemon, kwargs: Dictionary):
@@ -463,8 +452,7 @@ func use_move(pokemon: Pokemon, move: Variant, target: Pokemon, kwargs: Dictiona
 	pokemon.clear_movestatuses()
 	if move.get("id") == "focuspunch":
 		pokemon.remove_turnstatus("focuspunch")
-	if scene and scene.has_method("update_statbar"):
-		scene.update_statbar(pokemon)
+	scene.update_statbar(pokemon)
 	if fromeffect.get("id") == "sleeptalk":
 		pokemon.remember_move(move.get("name", ""), 0)
 		
@@ -544,8 +532,7 @@ func animate_move(pokemon: Pokemon, move: Variant, target: Pokemon, kwargs: Dict
 		return
 		
 	if kwargs.get("prepare") or kwargs.get("anim") == "prepare":
-		if scene and scene.has_method("run_prepare_anim"):
-			scene.run_prepare_anim(move.get("id"), pokemon, target)
+		scene.run_prepare_anim(move.get("id"), pokemon, target)
 		return
 		
 	var used_move = move
@@ -553,8 +540,7 @@ func animate_move(pokemon: Pokemon, move: Variant, target: Pokemon, kwargs: Dict
 		used_move = dex.get_move(kwargs.get("anim")) if dex and "moves" in dex else {"id": kwargs.get("anim")}
 		
 	if not kwargs.get("spread"):
-		if scene and scene.has_method("run_move_anim"):
-			scene.run_move_anim(used_move.get("id"), [pokemon, target])
+		scene.run_move_anim(used_move.get("id"), [pokemon, target])
 		return
 		
 	var targets = [pokemon]
@@ -570,15 +556,12 @@ func animate_move(pokemon: Pokemon, move: Variant, target: Pokemon, kwargs: Dict
 				continue
 			targets.append(cur_target)
 			
-	if scene and scene.has_method("run_move_anim"):
-		scene.run_move_anim(used_move.get("id"), targets)
+	scene.run_move_anim(used_move.get("id"), targets)
 
 func cant_use_move(pokemon: Pokemon, effect: Dictionary, move: Dictionary, kwargs: Dictionary):
 	pokemon.clear_movestatuses()
-	if scene and scene.has_method("update_statbar"):
-		scene.update_statbar(pokemon)
-	if scene and scene.has_method("run_status_anim"):
-		scene.run_status_anim(effect.get("id", ""), [pokemon])
+	scene.update_statbar(pokemon)
+	scene.run_status_anim(effect.get("id", ""), [pokemon])
 		
 	activate_ability(pokemon, effect)
 	if move.get("id"):
@@ -586,31 +569,30 @@ func cant_use_move(pokemon: Pokemon, effect: Dictionary, move: Dictionary, kwarg
 		
 	match effect.get("id", ""):
 		"par":
-			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Paralyzed", "par")
+			scene.result_anim(pokemon, "Paralyzed", "par")
 		"frz":
-			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Frozen", "frz")
+			scene.result_anim(pokemon, "Frozen", "frz")
 		"slp":
-			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Asleep", "slp")
+			scene.result_anim(pokemon, "Asleep", "slp")
 			pokemon.status_data["sleepTurns"] += 1
 		"truant":
-			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Loafing around", "neutral")
+			scene.result_anim(pokemon, "Loafing around", "neutral")
 		"recharge":
-			if scene and scene.has_method("run_other_anim"): scene.run_other_anim("selfstatus", [pokemon])
-			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Must recharge", "neutral")
+			scene.run_other_anim("selfstatus", [pokemon])
+			scene.result_anim(pokemon, "Must recharge", "neutral")
 		"focuspunch":
-			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Lost focus", "neutral")
+			scene.result_anim(pokemon, "Lost focus", "neutral")
 			pokemon.remove_turnstatus("focuspunch")
 		"shelltrap":
-			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Trap failed", "neutral")
+			scene.result_anim(pokemon, "Trap failed", "neutral")
 			pokemon.remove_turnstatus("shelltrap")
 		"flinch":
-			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Flinched", "neutral")
+			scene.result_anim(pokemon, "Flinched", "neutral")
 			pokemon.remove_turnstatus("focuspunch")
 		"attract":
-			if scene and scene.has_method("result_anim"): scene.result_anim(pokemon, "Immobilized", "neutral")
+			scene.result_anim(pokemon, "Immobilized", "neutral")
 			
-	if scene and scene.has_method("anim_reset"):
-		scene.anim_reset(pokemon)
+	scene.anim_reset(pokemon)
 
 func activate_ability(pokemon: Pokemon, effect_or_name, is_not_base: bool = false):
 	if not pokemon or not effect_or_name: return
@@ -619,8 +601,7 @@ func activate_ability(pokemon: Pokemon, effect_or_name, is_not_base: bool = fals
 		if effect_or_name.get("effectType") != "Ability": return
 		effect_name = effect_or_name.get("name", "")
 		
-	if scene and scene.has_method("ability_activate_anim"):
-		scene.ability_activate_anim(pokemon, effect_name)
+	scene.ability_activate_anim(pokemon, effect_name)
 	pokemon.remember_ability(effect_name, is_not_base)
 
 func parse_pokemon_id(pokemonid: String) -> Dictionary:
@@ -815,11 +796,9 @@ func run(line: String, preempt: bool = false) -> void:
 
 func set_hardcore_mode(mode: bool):
 	hardcore_mode = mode
-	if scene and scene.has_method("update_sidebars"):
-		scene.update_sidebars()
-	if scene and scene.has_method("update_weather"):
-		scene.update_weather(true)
-
+	scene.update_sidebars()
+	scene.update_weather(true)
+		
 func reset_to_current_turn():
 	if ended:
 		seek_turn(INF, true)
@@ -1515,8 +1494,7 @@ class BattleSide:
 		if side_conditions.has(condition):
 			if condition == "spikes" or condition == "toxicspikes":
 				side_conditions[condition][1] += 1
-			if battle and battle.has_method("scene") and battle.scene:
-				battle.scene.add_side_condition(n, condition)
+			battle.scene.add_side_condition(n, condition)
 			return
 
 		var effect_name = effect.get("name", condition)
@@ -1551,16 +1529,14 @@ class BattleSide:
 			_:
 				side_conditions[condition] = [effect_name, 1, 0, 0]
 		
-		if battle and battle.has_method("scene") and battle.scene:
-			battle.scene.add_side_condition(n, condition)
+		battle.scene.add_side_condition(n, condition)
 
 	func remove_side_condition(condition: String):
 		var id = condition.to_lower().replace(" ", "")
 		if not side_conditions.has(id):
 			return
 		side_conditions.erase(id)
-		if battle and battle.has_method("scene") and battle.scene:
-			battle.scene.remove_side_condition(n, id)
+		battle.scene.remove_side_condition(n, id)
 
 	func add_pokemon(_name: String, ident: String, details: String, replace_slot: int = -1) -> Pokemon:
 		var old_pokemon: Pokemon = pokemon[replace_slot] if replace_slot >= 0 and replace_slot < pokemon.size() else null
@@ -1629,8 +1605,7 @@ class BattleSide:
 						illusion_found.status = StatusName.NONE
 				pokemon.remove_at(to_remove)
 				
-		if battle and battle.has_method("scene") and battle.scene:
-			battle.scene.update_sidebar(self )
+		battle.scene.update_sidebar(self)
 
 		return poke
 
@@ -1653,8 +1628,7 @@ class BattleSide:
 			if last_pokemon and not last_pokemon.fainted:
 				poke.copy_volatile_from(last_pokemon, false)
 
-		if battle and battle.has_method("scene") and battle.scene:
-			battle.scene.anim_summon(poke, slot)
+		battle.scene.anim_summon(poke, slot)
 
 	func drag_in(poke: Pokemon, slot: int = -1):
 		if slot == -1: slot = poke.slot
@@ -1665,8 +1639,7 @@ class BattleSide:
 		if oldpokemon == poke: return
 		last_pokemon = oldpokemon
 		if oldpokemon:
-			if battle and battle.has_method("scene") and battle.scene:
-				battle.scene.anim_drag_out(oldpokemon)
+			battle.scene.anim_drag_out(oldpokemon)
 			oldpokemon.clear_volatile()
 		poke.clear_volatile()
 		poke.lastMove = ""
@@ -1675,9 +1648,8 @@ class BattleSide:
 		active[slot] = poke
 		poke.slot = slot
 
-		if battle and battle.has_method("scene") and battle.scene:
-			battle.scene.anim_drag_in(poke, slot)
-
+		battle.scene.anim_drag_in(poke, slot)
+			
 	func replace(poke: Pokemon, slot: int = -1):
 		if slot == -1: slot = poke.slot
 		while active.size() <= slot:
@@ -1707,10 +1679,9 @@ class BattleSide:
 		active[slot] = poke
 		poke.slot = slot
 
-		if battle and battle.has_method("scene") and battle.scene:
-			if oldpokemon:
-				battle.scene.anim_unsummon(oldpokemon, true)
-			battle.scene.anim_summon(poke, slot, true)
+		if oldpokemon:
+			battle.scene.anim_unsummon(oldpokemon, true)
+		battle.scene.anim_summon(poke, slot, true)
 
 	func switch_out(poke: Pokemon, kwargs: Dictionary, slot: int = -1):
 		if slot == -1: slot = poke.slot
@@ -1747,11 +1718,10 @@ class BattleSide:
 		active[slot] = poke
 		active[oslot] = target
 
-		if battle and battle.has_method("scene") and battle.scene:
-			battle.scene.anim_unsummon(poke, true)
-			if target: battle.scene.anim_unsummon(target, true)
-			battle.scene.anim_summon(poke, slot, true)
-			if target: battle.scene.anim_summon(target, oslot, true)
+		battle.scene.anim_unsummon(poke, true)
+		if target: battle.scene.anim_unsummon(target, true)
+		battle.scene.anim_summon(poke, slot, true)
+		if target: battle.scene.anim_summon(target, oslot, true)
 
 	func swap_with(poke: Pokemon, target: Pokemon, kwargs: Dictionary):
 		if poke == target: return
@@ -1767,11 +1737,10 @@ class BattleSide:
 		active[nslot] = poke
 		active[oslot] = target
 
-		if battle and battle.has_method("scene") and battle.scene:
-			battle.scene.anim_unsummon(poke, true)
-			battle.scene.anim_unsummon(target, true)
-			battle.scene.anim_summon(poke, nslot, true)
-			battle.scene.anim_summon(target, oslot, true)
+		battle.scene.anim_unsummon(poke, true)
+		battle.scene.anim_unsummon(target, true)
+		battle.scene.anim_summon(poke, nslot, true)
+		battle.scene.anim_summon(target, oslot, true)
 
 	func faint(poke: Pokemon, slot: int = -1):
 		if slot == -1: slot = poke.slot
@@ -1792,8 +1761,7 @@ class BattleSide:
 		if poke.side and poke.side.faint_counter < 100:
 			poke.side.faint_counter += 1
 
-		if battle and battle.has_method("scene") and battle.scene:
-			battle.scene.anim_faint(poke)
+		battle.scene.anim_faint(poke)
 
 	func destroy():
 		clear_pokemon()
