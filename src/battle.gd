@@ -480,10 +480,14 @@ func run_major(args: Array, kwargs: Dictionary = {}, preempt := false):
 
 			poke.health_parse(args[3])
 			poke.remove_volatile("itemremoved")
-			poke.terastallized = ""
+
+			var tera_match = RegEx.create_from_string("tera:([a-z]+)$")
+			var result = tera_match.search(args[2].to_lower())
+
+			poke.terastallized = result.get_string(1) if result else ""
 
 			if args[0] == "switch":
-				if poke.side.active[slot] != null:
+				if poke.side.active[slot]:
 					poke.side.switch_out(poke.side.active[slot], kwargs)
 				poke.side.switch_in(poke, kwargs)
 
