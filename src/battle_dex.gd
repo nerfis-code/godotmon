@@ -12,19 +12,19 @@ var alt_forms: Dictionary
 var afd_mode = false
 
 func _ready():
-	var items_json = FileAccess.open("res://src/items.json", FileAccess.READ).get_as_text()
+	var items_json = FileAccess.open("res://data/items.json", FileAccess.READ).get_as_text()
 	items = JSON.parse_string(items_json)
 
-	var moves_json = FileAccess.open("res://src/moves.json", FileAccess.READ).get_as_text()
+	var moves_json = FileAccess.open("res://data/moves.json", FileAccess.READ).get_as_text()
 	movedex = JSON.parse_string(moves_json)
 
-	var abilities_json = FileAccess.open("res://src/abilities.json", FileAccess.READ).get_as_text()
+	var abilities_json = FileAccess.open("res://data/abilities.json", FileAccess.READ).get_as_text()
 	abilities = JSON.parse_string(abilities_json)
 
-	var aliases_json = FileAccess.open("res://src/aliases.json", FileAccess.READ).get_as_text()
+	var aliases_json = FileAccess.open("res://data/aliases.json", FileAccess.READ).get_as_text()
 	aliases = JSON.parse_string(aliases_json)
 
-	var pokedex_json = FileAccess.open("res://src/pokedex.json", FileAccess.READ).get_as_text()
+	var pokedex_json = FileAccess.open("res://data/pokedex.json", FileAccess.READ).get_as_text()
 	pokedex = JSON.parse_string(pokedex_json)
 
 func get_item(name_or_item) -> BattleDexData.Item:
