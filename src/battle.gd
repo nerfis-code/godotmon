@@ -243,7 +243,7 @@ func update_turn_counters():
 	for poke in actives:
 		if poke:
 			if poke.status == StatusName.TOX:
-				poke.statusData["toxicTurns"] += 1
+				poke.statusData["toxic_turns"] += 1
 			poke.clear_turnstatuses()
 	scene.update_weather()
 
@@ -785,7 +785,7 @@ func cant_use_move(pokemon: Pokemon, effect: Dictionary, move: Dictionary, kwarg
 			scene.result_anim(pokemon, "Frozen", "frz")
 		"slp":
 			scene.result_anim(pokemon, "Asleep", "slp")
-			pokemon.status_data["sleepTurns"] += 1
+			pokemon.status_data["sleep_turns"] += 1
 		"truant":
 			scene.result_anim(pokemon, "Loafing around", "neutral")
 		"recharge":
@@ -809,7 +809,7 @@ func activate_ability(pokemon: Pokemon, effect_or_name, is_not_base: bool = fals
 	if not pokemon or not effect_or_name: return
 	var effect_name = effect_or_name
 	if typeof(effect_or_name) != TYPE_STRING:
-		if effect_or_name.get("effectType") != "Ability": return
+		if effect_or_name.effect_type != "Ability": return
 		effect_name = effect_or_name.get("name", "")
 	
 	scene.ability_activate_anim(pokemon, effect_name)
@@ -3214,9 +3214,9 @@ class BattleSide:
 			battle.scene.anim_drag_out(oldpokemon)
 			oldpokemon.clear_volatile()
 		poke.clear_volatile()
-		poke.lastMove = ""
+		poke.last_move = ""
 		if battle:
-			battle.lastMove = "switch-in"
+			battle.last_move = "switch-in"
 		active[slot] = poke
 		poke.slot = slot
 
@@ -3232,7 +3232,7 @@ class BattleSide:
 		last_pokemon = oldpokemon
 		poke.clear_volatile()
 		if oldpokemon:
-			poke.lastMove = oldpokemon.lastMove
+			poke.last_move = oldpokemon.last_move
 			poke.hp = oldpokemon.hp
 			poke.maxhp = oldpokemon.maxhp
 			poke.hpcolor = oldpokemon.hpcolor
@@ -3241,9 +3241,9 @@ class BattleSide:
 			poke.status_data = oldpokemon.status_data.duplicate(true)
 			if oldpokemon.terastallized:
 				poke.terastallized = oldpokemon.terastallized
-				poke.teraType = oldpokemon.terastallized
+				poke.tera_type = oldpokemon.terastallized
 				oldpokemon.terastallized = ""
-				oldpokemon.teraType = ""
+				oldpokemon.tera_type = ""
 			oldpokemon.fainted = false
 			oldpokemon.hp = oldpokemon.maxhp
 			oldpokemon.status = StatusName.UNKNOWN
@@ -3267,9 +3267,9 @@ class BattleSide:
 		if not effect_id in ["batonpass", "zbatonpass", "shedtail", "teleport"] and not (battle and "tier" in battle and typeof(battle.tier) == TYPE_STRING and battle.tier.contains("Relay Race") and effect_id == ""):
 			battle.add_log(["switchout", poke.ident], {"from": effect_id})
 				
-		poke.status_data["toxicTurns"] = 0
+		poke.status_data["toxic_turns"] = 0
 		if battle and "gen" in battle and battle.gen == 5:
-			poke.status_data["sleepTurns"] = 0
+			poke.status_data["sleep_turns"] = 0
 		last_pokemon = poke
 		if slot < active.size():
 			active[slot] = null
@@ -3381,7 +3381,7 @@ class Pokemon:
 	var last_move: String = ""
 	
 	var move_track: Array = []
-	var status_data: Dictionary = {"sleepTurns": 0, "toxicTurns": 0}
+	var status_data: Dictionary = {"sleep_turns": 0, "toxic_turns": 0}
 	var times_attacked: int = 0
 	
 	var sprite: PokemonSprite
@@ -3646,7 +3646,7 @@ class Pokemon:
 				new_track.append(entry)
 		move_track = new_track
 		status_stage = 0
-		status_data["toxicTurns"] = 0
+		status_data["toxic_turns"] = 0
 		
 	func copy_volatile_from(pokemon: Pokemon, copy_source = null):
 		boosts = pokemon.boosts.duplicate()
