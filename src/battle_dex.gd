@@ -9,6 +9,8 @@ var aliases: Dictionary
 var pokedex: Dictionary
 var alt_forms: Dictionary
 
+var afd_mode = false
+
 func _ready():
 	var items_json = FileAccess.open("res://src/items.json", FileAccess.READ).get_as_text()
 	items = JSON.parse_string(items_json)

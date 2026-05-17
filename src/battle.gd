@@ -1234,7 +1234,6 @@ func _run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], nex
 
 			scene.damage_anim(poke, Pokemon.get_formatted_range(range, 0, " to "))
 			add_log(args, kwargs)
-
 		"-heal":
 			var poke = get_pokemon(args[1], Dex.get_effect(kwargs.get("from")).id == "revivalblessing")
 			var damage = poke.health_parse(args[2], true, true)
@@ -1281,7 +1280,522 @@ func _run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], nex
 			scene.run_other_anim("heal", [poke])
 			scene.heal_anim(poke, Pokemon.get_formatted_range(range, 0, " to "))
 			add_log(args, kwargs)
+		"-sethp":
+			for k in range(2):
+				var cpoke = get_pokemon(args[1 + 2 * k])
 
+				if cpoke:
+					var damage = cpoke.health_parse(args[2 + 2 * k])
+					var range = cpoke.get_damage_range(damage)
+					var formatted_range = Pokemon.get_formatted_range(range, 0, " to ")
+
+					var diff = damage[0]
+
+					if diff > 0:
+						scene.heal_anim(cpoke, formatted_range)
+					else:
+						scene.damage_anim(cpoke, formatted_range)
+
+			add_log(args, kwargs)
+		"-boost":
+			var poke = get_pokemon(args[1])
+			var stat = args[2]
+
+			if gen == 1 and stat == "spd":
+				return
+
+			if gen == 1 and stat == "spa":
+				stat = "spc"
+
+			var amount := int(args[3])
+
+			if amount == 0:
+				scene.result_anim(poke, "already " + poke.get_boost(stat), "neutral")
+				add_log(args, kwargs)
+				return
+
+			if not poke.boosts.has(stat):
+				poke.boosts[stat] = 0
+
+			poke.boosts[stat] += amount
+
+			if not kwargs.get("silent") and kwargs.has("from"):
+				var effect = Dex.get_effect(kwargs["from"])
+				var ofpoke = get_pokemon(kwargs.get("of"))
+
+				if not (effect.id == "weakarmor" and stat == "spe"):
+					activate_ability(ofpoke if ofpoke else poke, effect)
+
+			scene.result_anim(poke, poke.get_boost(stat), "good")
+			add_log(args, kwargs)
+		"-unboost":
+			var poke = get_pokemon(args[1])
+			var stat = args[2]
+
+			if gen == 1 and stat == "spd":
+				return
+
+			if gen == 1 and stat == "spa":
+				stat = "spc"
+
+			var amount := int(args[3])
+
+			if amount == 0:
+				scene.result_anim(poke, "already " + poke.get_boost(stat), "neutral")
+				add_log(args, kwargs)
+				return
+
+			if not poke.boosts.has(stat):
+				poke.boosts[stat] = 0
+
+			poke.boosts[stat] -= amount
+
+			if not kwargs.get("silent") and kwargs.has("from"):
+				var effect = Dex.get_effect(kwargs["from"])
+				var ofpoke = get_pokemon(kwargs.get("of"))
+				activate_ability(ofpoke if ofpoke else poke, effect)
+
+			scene.result_anim(poke, poke.get_boost(stat), "bad")
+			add_log(args, kwargs)
+		"-setboost":
+			var poke = get_pokemon(args[1])
+			var stat = args[2]
+			var amount := int(args[3])
+
+			poke.boosts[stat] = amount
+
+			var result_type = "good" if amount > 0 else "bad"
+			scene.result_anim(poke, poke.get_boost(stat), result_type)
+
+			add_log(args, kwargs)
+		"-swapboost":
+			var poke = get_pokemon(args[1])
+			var poke2 = get_pokemon(args[2])
+
+			var stats = args[3].split(", ") if args.size() > 3 and args[3] != "" else [
+				"atk", "def", "spa", "spd", "spe", "accuracy", "evasion"
+			]
+
+			for stat in stats:
+				var tmp = poke.boosts.get(stat)
+
+				poke.boosts[stat] = poke2.boosts.get(stat)
+				if not poke.boosts[stat]:
+					poke.boosts.erase(stat)
+
+				poke2.boosts[stat] = tmp
+				if not poke2.boosts[stat]:
+					poke2.boosts.erase(stat)
+
+			scene.result_anim(poke, "Stats swapped", "neutral")
+			scene.result_anim(poke2, "Stats swapped", "neutral")
+
+			add_log(args, kwargs)
+		"-clearpositiveboost":
+			var poke = get_pokemon(args[1])
+			var ofpoke = get_pokemon(args[2])
+			var effect = Dex.get_effect(args[3])
+
+			for stat in poke.boosts.keys():
+				if poke.boosts[stat] > 0:
+					poke.boosts.erase(stat)
+
+			scene.result_anim(poke, "Boosts lost", "bad")
+
+			if effect.id != "":
+				match effect.id:
+					"spectralthief":
+						# TODO: animar primero en Spectral Thief como en Showdown
+						scene.run_other_anim("spectralthiefboost", [ofpoke, poke])
+
+			add_log(args, kwargs)
+		"-clearnegativeboost":
+			var poke = get_pokemon(args[1])
+
+			for stat in poke.boosts.keys():
+				if poke.boosts[stat] < 0:
+					poke.boosts.erase(stat)
+
+			scene.result_anim(poke, "Restored", "good")
+
+			add_log(args, kwargs)
+		"-copyboost":
+			var poke = get_pokemon(args[1])
+			var frompoke = get_pokemon(args[2])
+
+			if not kwargs.get("silent") and kwargs.has("from"):
+				var effect = Dex.get_effect(kwargs["from"])
+				activate_ability(poke, effect)
+
+			var stats = args[3].split(", ") if args.size() > 3 and args[3] != "" else [
+				"atk", "def", "spa", "spd", "spe", "accuracy", "evasion"
+			]
+
+			for stat in stats:
+				poke.boosts[stat] = frompoke.boosts.get(stat)
+				if not poke.boosts[stat]:
+					poke.boosts.erase(stat)
+
+			if gen >= 6:
+				var volatiles_to_copy = ["focusenergy", "gmaxchistrike", "laserfocus"]
+
+				for volatile in volatiles_to_copy:
+					if frompoke.volatiles.get(volatile):
+						poke.add_volatile(volatile)
+					else:
+						poke.remove_volatile(volatile)
+
+			scene.result_anim(poke, "Stats copied", "neutral")
+
+			add_log(args, kwargs)
+		"-clearboost":
+			var poke = get_pokemon(args[1])
+
+			poke.boosts = {}
+
+			if not kwargs.get("silent") and kwargs.has("from"):
+				var effect = Dex.get_effect(kwargs["from"])
+				var ofpoke = get_pokemon(kwargs.get("of"))
+				activate_ability(ofpoke if ofpoke else poke, effect)
+
+			scene.result_anim(poke, "Stats reset", "neutral")
+
+			add_log(args, kwargs)
+		"-invertboost":
+			var poke = get_pokemon(args[1])
+
+			for stat in poke.boosts.keys():
+				poke.boosts[stat] = -poke.boosts[stat]
+
+			scene.result_anim(poke, "Stats inverted", "neutral")
+
+			add_log(args, kwargs)
+		"-clearallboost":
+			var time_offset = scene.time_offset
+
+			for active in get_all_active():
+				active.boosts = {}
+				scene.time_offset = time_offset
+				scene.result_anim(active, "Stats reset", "neutral")
+
+			add_log(args, kwargs)
+		"-crit":
+			var poke = get_pokemon(args[1])
+
+			if poke:
+				scene.result_anim(poke, "Critical hit", "bad")
+
+			if active_move_is_spread:
+				kwargs["spread"] = "."
+
+			add_log(args, kwargs)
+		"-supereffective":
+			var poke = get_pokemon(args[1])
+
+			if poke:
+				scene.result_anim(poke, "Super-effective", "bad")
+
+				if Dex.afd_mode == true:
+					# April Fool's 2018
+					scene.run_other_anim("hitmark", [poke])
+
+			if active_move_is_spread:
+				kwargs["spread"] = "."
+
+			add_log(args, kwargs)
+		"-resisted":
+			var poke = get_pokemon(args[1])
+
+			if poke:
+				scene.result_anim(poke, "Resisted", "neutral")
+
+			if active_move_is_spread:
+				kwargs["spread"] = "."
+
+			add_log(args, kwargs)
+		"-immune":
+			var poke = get_pokemon(args[1])
+
+			var from_effect = Dex.get_effect(kwargs.get("from"))
+			activate_ability(get_pokemon(kwargs.get("of")) if kwargs.get("of") else poke, from_effect)
+
+			add_log(args, kwargs)
+
+			scene.result_anim(poke, "Immune", "neutral")
+		"-miss":
+			var target = get_pokemon(args[2])
+
+			if target:
+				scene.result_anim(target, "Missed", "neutral")
+
+			add_log(args, kwargs)
+		"-fail":
+			var poke = get_pokemon(args[1])
+
+			var effect = Dex.get_effect(args[2])
+			var from_effect = Dex.get_effect(kwargs.get("from"))
+			var ofpoke = get_pokemon(kwargs.get("of"))
+
+			if from_effect.id == "clearamulet":
+				if ofpoke:
+					ofpoke.item = "Clear Amulet"
+			else:
+				activate_ability(ofpoke if ofpoke else poke, from_effect)
+
+			match effect.id:
+				"brn":
+					scene.result_anim(poke, "Already burned", "neutral")
+				"tox", "psn":
+					scene.result_anim(poke, "Already poisoned", "neutral")
+				"slp":
+					if from_effect.id == "uproar":
+						scene.result_anim(poke, "Failed", "neutral")
+					else:
+						scene.result_anim(poke, "Already asleep", "neutral")
+				"par":
+					scene.result_anim(poke, "Already paralyzed", "neutral")
+				"frz":
+					scene.result_anim(poke, "Already frozen", "neutral")
+				"unboost":
+					scene.result_anim(poke, "Stat drop blocked", "neutral")
+				_:
+					if poke:
+						scene.result_anim(poke, "Failed", "neutral")
+
+			scene.anim_reset(poke)
+
+			add_log(args, kwargs)
+		"-block":
+			var poke = get_pokemon(args[1])
+			var ofpoke = get_pokemon(kwargs.get("of"))
+			var effect = Dex.get_effect(args[2])
+
+			activate_ability(ofpoke if ofpoke else poke, effect)
+
+			match effect.id:
+				"quickguard":
+					poke.add_turnstatus("quickguard")
+					scene.result_anim(poke, "Quick Guard", "good")
+				"wideguard":
+					poke.add_turnstatus("wideguard")
+					scene.result_anim(poke, "Wide Guard", "good")
+				"craftyshield":
+					poke.add_turnstatus("craftyshield")
+					scene.result_anim(poke, "Crafty Shield", "good")
+				"protect":
+					poke.add_turnstatus("protect")
+					scene.result_anim(poke, "Protected", "good")
+
+				"safetygoggles":
+					poke.item = "Safety Goggles"
+				"protectivepads":
+					poke.item = "Protective Pads"
+				"abilityshield":
+					poke.item = "Ability Shield"
+
+			add_log(args, kwargs)
+		"-center", "-notarget", "-ohko", "-combine", "-hitcount", "-waiting", "-zbroken":
+			add_log(args, kwargs)
+		"-zpower":
+			var poke = get_pokemon(args[1])
+
+			scene.run_other_anim("zpower", [poke])
+
+			add_log(args, kwargs)
+		"-prepare":
+			var poke = get_pokemon(args[1])
+			var moveid = Utils.to_id(args[2])
+			var target = get_pokemon(args[3]) if get_pokemon(args[3]) else (poke.side.foe.active[0] if poke.side.foe.active.size() > 0 else poke)
+
+			scene.run_prepare_anim(moveid, poke, target)
+
+			add_log(args, kwargs)
+		"-mustrecharge":
+			var poke = get_pokemon(args[1])
+
+			poke.add_movestatus("mustrecharge")
+			scene.update_statbar(poke)
+		"-status":
+			var poke = get_pokemon(args[1])
+
+			var effect = Dex.get_effect(kwargs.get("from"))
+			var ofpoke = get_pokemon(kwargs.get("of")) if kwargs.get("of") else poke
+
+			poke.status = args[2]
+
+			activate_ability(ofpoke if ofpoke else poke, effect)
+
+			if effect.effect_type == "Item":
+				ofpoke.item = effect.name
+
+			match args[2]:
+				"brn":
+					scene.result_anim(poke, "Burned", "brn")
+					scene.run_status_anim("brn", [poke])
+
+				"tox":
+					scene.result_anim(poke, "Toxic poison", "psn")
+					scene.run_status_anim("psn", [poke])
+					poke.status_data.toxic_turns = -1 if effect.name == "Toxic Orb" else 0
+
+				"psn":
+					scene.result_anim(poke, "Poisoned", "psn")
+					scene.run_status_anim("psn", [poke])
+
+				"slp":
+					scene.result_anim(poke, "Asleep", "slp")
+					if effect.id == "rest":
+						poke.status_data.sleep_turns = 0
+
+				"par":
+					scene.result_anim(poke, "Paralyzed", "par")
+					scene.run_status_anim("par", [poke])
+
+				"frz":
+					scene.result_anim(poke, "Frozen", "frz")
+					scene.run_status_anim("frz", [poke])
+
+				_:
+					scene.update_statbar(poke)
+
+			add_log(args, kwargs)
+		"-curestatus":
+			var poke = get_pokemon(args[1])
+			var effect = Dex.get_effect(kwargs.get("from"))
+
+			if effect.id:
+				match effect.id:
+					"flamewheel", "flareblitz", "fusionflare", "sacredfire", "scald", "steameruption":
+						kwargs["thaw"] = "."
+
+			if poke:
+				poke.status = ""
+
+				match args[2]:
+					"brn":
+						scene.result_anim(poke, "Burn cured", "good")
+
+					"tox", "psn":
+						poke.status_data.toxic_turns = 0
+						scene.result_anim(poke, "Poison cured", "good")
+
+					"slp":
+						scene.result_anim(poke, "Woke up", "good")
+						poke.status_data.sleep_turns = 0
+
+					"par":
+						scene.result_anim(poke, "Paralysis cured", "good")
+
+					"frz":
+						scene.result_anim(poke, "Thawed", "good")
+
+					_:
+						poke.remove_volatile("confusion")
+						scene.result_anim(poke, "Cured", "good")
+
+			add_log(args, kwargs)
+		"-cureteam":
+			var poke = get_pokemon(args[1])
+
+			for target in poke.side.pokemon:
+				target.status = ""
+				scene.update_statbar_if_exists(target)
+
+			scene.result_anim(poke, "Team Cured", "good")
+
+			add_log(args, kwargs)
+		"-item":
+			var poke = get_pokemon(args[1])
+			var item = Dex.items.get(args[2])
+			var effect = Dex.get_effect(kwargs.get("from"))
+			var ofpoke = get_pokemon(kwargs.get("of"))
+
+			if not poke:
+				if effect.id == "frisk":
+					var possible_targets = []
+					for p in ofpoke.side.foe.active:
+						if p != null:
+							possible_targets.append(p)
+
+					if possible_targets.size() == 1:
+						poke = possible_targets[0]
+					else:
+						activate_ability(ofpoke, "Frisk")
+						add_log(args, kwargs)
+						return
+				else:
+					push_error("No Pokemon in -item message")
+					return
+
+			poke.item = item.name
+			poke.item_effect = ""
+
+			poke.remove_volatile("airballoon")
+			if item.id == "airballoon":
+				poke.add_volatile("airballoon")
+
+			if effect.id:
+				match effect.id:
+					"pickup":
+						activate_ability(poke, "Pickup")
+						# fallthrough
+						poke.item_effect = "found"
+						scene.result_anim(poke, item.name, "neutral")
+
+					"recycle":
+						poke.item_effect = "found"
+						scene.result_anim(poke, item.name, "neutral")
+
+					"frisk":
+						activate_ability(ofpoke, "Frisk")
+						if poke and poke != ofpoke:
+							poke.item_effect = "frisked"
+							scene.result_anim(poke, item.name, "neutral")
+
+					"magician", "pickpocket":
+						activate_ability(poke, effect.name)
+						# fallthrough
+						ofpoke.item = ""
+						ofpoke.item_effect = ""
+						ofpoke.prev_item = item.name
+						ofpoke.prev_item_effect = "stolen"
+						ofpoke.add_volatile("itemremoved")
+
+						poke.item_effect = "stolen"
+						scene.result_anim(poke, item.name, "neutral")
+						scene.result_anim(ofpoke, "Item Stolen", "bad")
+
+					"thief", "covet":
+						ofpoke.item = ""
+						ofpoke.item_effect = ""
+						ofpoke.prev_item = item.name
+						ofpoke.prev_item_effect = "stolen"
+						ofpoke.add_volatile("itemremoved")
+
+						poke.item_effect = "stolen"
+						scene.result_anim(poke, item.name, "neutral")
+						scene.result_anim(ofpoke, "Item Stolen", "bad")
+
+					"harvest":
+						poke.item_effect = "harvested"
+						activate_ability(poke, "Harvest")
+						scene.result_anim(poke, item.name, "neutral")
+
+					"bestow":
+						poke.item_effect = "bestowed"
+						scene.result_anim(poke, item.name, "neutral")
+
+					"switcheroo", "trick":
+						poke.item_effect = "tricked"
+
+					_:
+						pass
+			else:
+				match item.id:
+					"airballoon":
+						scene.result_anim(poke, "Balloon", "good")
+
+			add_log(args, kwargs)
 		"-enditem":
 			var poke = get_pokemon(args[1])
 			var item = Dex.get_item(args[2])
@@ -1381,6 +1895,722 @@ func _run_minor(args: Array, kwargs: Dictionary = {}, next_args: Array = [], nex
 			add_log(args, kwargs)
 
 			add_log(args, kwargs)
+		"-endability":
+			# deprecated; use |-start| for Gastro Acid
+			# and the third arg of |-ability| for Entrainment et al
+
+			var poke = get_pokemon(args[1])
+			var ability = Dex.abilities.get(args[2])
+
+			poke.ability = "(suppressed)"
+
+			if ability.id:
+				if not poke.base_ability:
+					poke.base_ability = ability.name
+
+			add_log(args, kwargs)
+		"detailschange":
+			var poke = get_pokemon(args[1])
+
+			poke.remove_volatile("formechange")
+			poke.remove_volatile("typeadd")
+			poke.remove_volatile("typechange")
+
+			var new_species_forme = args[2]
+			var comma_index = new_species_forme.find(",")
+
+			if comma_index != -1:
+				var level = new_species_forme.substr(comma_index + 1).strip_edges()
+				if level.begins_with("L"):
+					poke.level = int(level.substr(1))
+				new_species_forme = args[2].substr(0, comma_index)
+
+			var species = dex.get_species(new_species_forme)
+
+			if next_args:
+				# Handle abilities in Mix and Mega
+				if next_args[0] == "-mega":
+					var item = dex.items.get(next_args[3])
+					if item.mega_stone:
+						var values = item.mega_stone.values()
+						var index = values.find(species.name)
+						if index < 0:
+							index = 0
+						species = dex.species.get(values[index])
+
+				elif next_args[0] == "-primal" and next_args.size() > 2:
+					if next_args[2] == "Red Orb":
+						species = dex.species.get("Groudon-Primal")
+					if next_args[2] == "Blue Orb":
+						species = dex.species.get("Kyogre-Primal")
+
+			poke.species_forme = new_species_forme
+			poke.ability = species.abilities.get("0") if species.abilities else ""
+			poke.base_ability = poke.ability
+
+			poke.details = args[2]
+
+			var prefix = args[1].substr(0, 2)
+			var suffix = args[1].substr(args[1].find(":"))
+			poke.searchid = prefix + suffix + "|" + args[2]
+
+			scene.anim_transform(poke, true, true)
+
+			add_log(args, kwargs)
+		"-transform":
+			var poke = get_pokemon(args[1])
+			var tpoke = get_pokemon(args[2])
+			var effect = Dex.get_effect(kwargs.get("from"))
+
+			if poke == tpoke:
+				push_error("Transforming into self")
+				return
+
+			if not kwargs.get("silent"):
+				activate_ability(poke, effect)
+
+			poke.boosts = tpoke.boosts.duplicate()
+
+			poke.copy_types_from(tpoke, true)
+			poke.ability = tpoke.ability
+			poke.times_attacked = tpoke.times_attacked
+
+			var target_forme = tpoke.volatiles.get("formechange")
+			var species_forme = tpoke.species_forme
+
+			if target_forme and not str(target_forme[1]).ends_with("-Gmax"):
+				species_forme = target_forme[1]
+
+			var pokemon = tpoke
+			var shiny = tpoke.shiny
+			var gender = tpoke.gender
+			var level = tpoke.level
+
+			poke.add_volatile("transform", pokemon, shiny, gender, level)
+			poke.add_volatile("formechange", species_forme)
+
+			for tracked_move in tpoke.move_track:
+				poke.remember_move(tracked_move[0], 0)
+
+			scene.anim_transform(poke)
+			scene.result_anim(poke, "Transformed", "good")
+
+			add_log(["-transform", args[1], args[2], tpoke.species_forme], kwargs)
+		"-formechange":
+			var poke = get_pokemon(args[1])
+			var species = Dex.species.get(args[2])
+			var fromeffect = Dex.get_effect(kwargs.get("from"))
+
+			if not poke.get_species_forme().ends_with("-Gmax") and not species.name.ends_with("-Gmax"):
+				poke.remove_volatile("typeadd")
+				poke.remove_volatile("typechange")
+				if gen >= 6:
+					poke.remove_volatile("autotomize")
+
+			if not kwargs.get("silent"):
+				activate_ability(poke, fromeffect)
+
+			# recuerda revertir al cambiar
+			poke.add_volatile("formechange", species.name)
+
+			scene.anim_transform(poke, true)
+
+			add_log(args, kwargs)
+		"-mega":
+			var poke = get_pokemon(args[1])
+			var item = Dex.items.get(args[3])
+
+			if args[3]:
+				poke.item = item.name
+
+			add_log(args, kwargs)
+		"-primal", "-burst":
+			add_log(args, kwargs)
+		"-terastallize":
+			var poke = get_pokemon(args[1])
+			var type = Dex.types.get(args[2]).name
+			var lock_forme = false
+
+			poke.remove_volatile("typeadd")
+
+			poke.tera_type = type
+			poke.terastallized = type
+
+			poke.details += ", tera:%s" % type
+			poke.searchid += ", tera:%s" % type
+
+			if poke.species_forme.begins_with("Morpeko"):
+				lock_forme = true
+				poke.species_forme = poke.get_species_forme()
+
+				poke.details = poke.details.replace("Morpeko", poke.species_forme)
+				poke.searchid = "%s|%s" % [poke.ident, poke.details]
+
+				poke.volatiles.erase("formechange")
+
+			scene.anim_transform(poke, true, lock_forme)
+			scene.reset_statbar(poke)
+
+			add_log(args, kwargs)
+		"-start":
+			var poke = get_pokemon(args[1])
+			var effect = Dex.get_effect(args[2])
+			var ofpoke = get_pokemon(kwargs.get("of"))
+			var fromeffect = Dex.get_effect(kwargs.get("from"))
+
+			activate_ability(poke, effect)
+			activate_ability(ofpoke if ofpoke else poke, fromeffect)
+
+			match effect.id:
+
+				"typechange":
+					if poke.terastallized:
+						return
+
+					if ofpoke and fromeffect.id == "reflecttype":
+						poke.copy_types_from(ofpoke)
+					else:
+						var types = Dex.sanitize_name(args[3] if args.size() > 3 else "???")
+						poke.remove_volatile("typeadd")
+						poke.add_volatile("typechange", types)
+
+						if not kwargs.get("silent"):
+							scene.type_anim(poke, types)
+
+					scene.update_statbar(poke)
+
+
+				"typeadd":
+					var type = Dex.sanitize_name(args[3])
+					poke.add_volatile("typeadd", type)
+
+					if not kwargs.get("silent"):
+						scene.type_anim(poke, type)
+
+
+				"dynamax":
+					poke.add_volatile("dynamax", bool(args[3]) if args.size() > 3 else false)
+					scene.anim_transform(poke, true)
+
+
+				"powertrick":
+					scene.result_anim(poke, "Power Trick", "neutral")
+
+				"foresight", "miracleeye":
+					scene.result_anim(poke, "Identified", "bad")
+
+				"telekinesis":
+					scene.result_anim(poke, "Telekinesis", "neutral")
+
+				"confusion":
+					if not kwargs.get("already"):
+						scene.run_status_anim("confused", [poke])
+						scene.result_anim(poke, "Confused", "bad")
+
+				"leechseed":
+					scene.update_statbar(poke)
+
+				"healblock":
+					scene.result_anim(poke, "Heal Block", "bad")
+
+				"yawn":
+					scene.result_anim(poke, "Drowsy", "slp")
+
+				"taunt":
+					scene.result_anim(poke, "Taunted", "bad")
+
+				"imprison":
+					scene.result_anim(poke, "Imprisoning", "good")
+
+				"disable":
+					scene.result_anim(poke, "Disabled", "bad")
+
+				"embargo":
+					scene.result_anim(poke, "Embargo", "bad")
+
+				"torment":
+					scene.result_anim(poke, "Tormented", "bad")
+
+				"ingrain":
+					scene.result_anim(poke, "Ingrained", "good")
+
+				"aquaring":
+					scene.result_anim(poke, "Aqua Ring", "good")
+
+				"stockpile1":
+					scene.result_anim(poke, "Stockpile", "good")
+
+				"stockpile2":
+					poke.remove_volatile("stockpile1")
+					scene.result_anim(poke, "Stockpile×2", "good")
+
+				"stockpile3":
+					poke.remove_volatile("stockpile2")
+					scene.result_anim(poke, "Stockpile×3", "good")
+
+				"perish0":
+					poke.remove_volatile("perish1")
+
+				"perish1":
+					poke.remove_volatile("perish2")
+					scene.result_anim(poke, "Perish next turn", "bad")
+
+				"perish2":
+					poke.remove_volatile("perish3")
+					scene.result_anim(poke, "Perish in 2", "bad")
+
+				"perish3":
+					if not kwargs.get("silent"):
+						scene.result_anim(poke, "Perish in 3", "bad")
+
+				"encore":
+					scene.result_anim(poke, "Encored", "bad")
+
+				"bide":
+					scene.result_anim(poke, "Bide", "good")
+
+				"attract":
+					scene.result_anim(poke, "Attracted", "bad")
+
+				"autotomize":
+					scene.result_anim(poke, "Lightened", "good")
+
+					if poke.volatiles.has("autotomize"):
+						poke.volatiles["autotomize"][1] += 1
+					else:
+						poke.add_volatile("autotomize", 1)
+
+				"focusenergy":
+					scene.result_anim(poke, "+Crit rate", "good")
+
+				"curse":
+					scene.result_anim(poke, "Cursed", "bad")
+
+				"nightmare":
+					scene.result_anim(poke, "Nightmare", "bad")
+
+				"magnetrise":
+					scene.result_anim(poke, "Magnet Rise", "good")
+
+				"smackdown":
+					scene.result_anim(poke, "Smacked Down", "bad")
+					poke.remove_volatile("magnetrise")
+					poke.remove_volatile("telekinesis")
+
+					if poke.last_move in ["fly", "bounce"]:
+						scene.anim_reset(poke)
+
+				"substitute":
+					if kwargs.get("damage"):
+						scene.result_anim(poke, "Damage", "bad")
+					elif kwargs.get("block"):
+						scene.result_anim(poke, "Blocked", "neutral")
+
+				# Gen antiguos
+				"mist":
+					scene.result_anim(poke, "Mist", "good")
+
+				"lightscreen":
+					scene.result_anim(poke, "Light Screen", "good")
+
+				"reflect":
+					scene.result_anim(poke, "Reflect", "good")
+
+				"futuresight", "doomdesire":
+					poke.side.add_side_condition(effect, false)
+					scene.update_weather()
+
+			# añadir volatile general
+			if not (effect.id == "typechange" and poke.terastallized) \
+			and effect.id not in ["futuresight", "doomdesire"]:
+				poke.add_volatile(effect.id)
+
+			scene.update_statbar(poke)
+
+			add_log(args, kwargs)
+		"-end":
+			var poke = get_pokemon(args[1])
+			var effect = Dex.get_effect(args[2])
+			var fromeffect = Dex.get_effect(kwargs.get("from"))
+
+			poke.remove_volatile(effect.id)
+
+			if kwargs.get("silent") and effect.id not in ["protosynthesis", "quarkdrive"]:
+				pass
+			else:
+				match effect.id:
+
+					"dynamax":
+						scene.anim_transform(poke)
+
+					"powertrick":
+						scene.result_anim(poke, "Power Trick", "neutral")
+
+					"telekinesis":
+						scene.result_anim(poke, "Telekinesis ended", "neutral")
+
+					"skydrop":
+						if kwargs.get("interrupt"):
+							scene.anim(poke, {"time": 100})
+
+					"confusion":
+						scene.result_anim(poke, "Confusion ended", "good")
+
+					"leechseed":
+						if fromeffect.id == "rapidspin":
+							scene.result_anim(poke, "De-seeded", "good")
+
+					"healblock":
+						scene.result_anim(poke, "Heal Block ended", "good")
+
+					"attract":
+						scene.result_anim(poke, "Attract ended", "good")
+
+					"taunt":
+						scene.result_anim(poke, "Taunt ended", "good")
+
+					"disable":
+						scene.result_anim(poke, "Disable ended", "good")
+
+					"embargo":
+						scene.result_anim(poke, "Embargo ended", "good")
+
+					"torment":
+						scene.result_anim(poke, "Torment ended", "good")
+
+					"encore":
+						scene.result_anim(poke, "Encore ended", "good")
+
+					"bide":
+						scene.run_other_anim("bideunleash", [poke])
+
+					"illusion":
+						scene.result_anim(poke, "Illusion ended", "bad")
+						poke.remember_ability("Illusion")
+
+					"slowstart":
+						scene.result_anim(poke, "Slow Start ended", "good")
+
+					"perishsong":
+						poke.remove_volatile("perish3")
+
+					"substitute":
+						scene.result_anim(poke, "Faded", "bad")
+
+					"stockpile":
+						poke.remove_volatile("stockpile1")
+						poke.remove_volatile("stockpile2")
+						poke.remove_volatile("stockpile3")
+
+					"protosynthesis":
+						poke.remove_volatile("protosynthesisatk")
+						poke.remove_volatile("protosynthesisdef")
+						poke.remove_volatile("protosynthesisspa")
+						poke.remove_volatile("protosynthesisspd")
+						poke.remove_volatile("protosynthesisspe")
+
+					"quarkdrive":
+						poke.remove_volatile("quarkdriveatk")
+						poke.remove_volatile("quarkdrivedef")
+						poke.remove_volatile("quarkdrivespa")
+						poke.remove_volatile("quarkdrivespd")
+						poke.remove_volatile("quarkdrivespe")
+
+					_:
+						if effect.effect_type == "Move":
+							if effect.name == "Doom Desire":
+								scene.run_other_anim("doomdesirehit", [poke])
+								poke.side.foe.remove_side_condition("Doom Desire")
+								scene.update_weather()
+
+							elif effect.name == "Future Sight":
+								scene.run_other_anim("futuresighthit", [poke])
+								poke.side.foe.remove_side_condition("Future Sight")
+								scene.update_weather()
+
+			scene.update_statbar(poke)
+
+			add_log(args, kwargs)
+		"-singleturn":
+			var poke = get_pokemon(args[1])
+			var effect = Dex.get_effect(args[2])
+
+			if effect.id == "roost" and not "Flying" in poke.get_type_list():
+				pass
+			else:
+				poke.add_turnstatus(effect.id)
+
+				match effect.id:
+					"roost":
+						scene.result_anim(poke, "Landed", "neutral")
+					"quickguard":
+						scene.result_anim(poke, "Quick Guard", "good")
+					"wideguard":
+						scene.result_anim(poke, "Wide Guard", "good")
+					"craftyshield":
+						scene.result_anim(poke, "Crafty Shield", "good")
+					"matblock":
+						scene.result_anim(poke, "Mat Block", "good")
+					"protect":
+						scene.result_anim(poke, "Protected", "good")
+					"endure":
+						scene.result_anim(poke, "Enduring", "good")
+					"helpinghand":
+						scene.result_anim(poke, "Helping Hand", "good")
+					"focuspunch":
+						scene.result_anim(poke, "Focusing", "neutral")
+						poke.remember_move(effect.name, 0)
+					"shelltrap":
+						scene.result_anim(poke, "Trap set", "neutral")
+						poke.remember_move(effect.name, 0)
+					"beakblast":
+						scene.run_other_anim("bidecharge", [poke])
+						scene.result_anim(poke, "Beak Blast", "neutral")
+
+			scene.update_statbar(poke)
+			add_log(args, kwargs)
+		"-singlemove":
+			var poke = get_pokemon(args[1])
+			var effect = Dex.get_effect(args[2])
+
+			poke.add_move_status(effect.id)
+
+			match effect.id:
+				"grudge":
+					scene.result_anim(poke, "Grudge", "neutral")
+				"destinybond":
+					scene.result_anim(poke, "Destiny Bond", "neutral")
+
+			scene.update_statbar(poke)
+			add_log(args, kwargs)
+		"-activate":
+			var poke = get_pokemon(args[1])
+			var effect = Dex.get_effect(args[2])
+			var target = get_pokemon(args[3] if args.size() > 3 else "")
+
+			activate_ability(poke, effect)
+
+			match effect.id:
+				"poltergeist":
+					poke.item = kwargs.item
+					poke.item_effect = "disturbed"
+
+				"symbiosis":
+					poke.item = ""
+					poke.item_effect = ""
+					poke.prev_item = kwargs.item
+					poke.prev_item_effect = "given away"
+					target.item = kwargs.item
+					target.item_effect = "shared"
+
+				"grudge":
+					poke.remember_move(kwargs.move, INF)
+
+				"substitute":
+					if kwargs.damage:
+						scene.result_anim(poke, "Damage", "bad")
+					elif kwargs.block:
+						scene.result_anim(poke, "Blocked", "neutral")
+
+				"attract":
+					scene.run_status_anim("attracted", [poke])
+
+				"bide":
+					scene.run_other_anim("bidecharge", [poke])
+
+				"aromatherapy":
+					scene.result_anim(poke, "Team Cured", "good")
+
+				"healbell":
+					scene.result_anim(poke, "Team Cured", "good")
+
+				"brickbreak":
+					target.side.remove_side_condition("Reflect")
+					target.side.remove_side_condition("LightScreen")
+
+				"hyperspacefury", "hyperspacehole", "phantomforce", "shadowforce", "feint":
+					scene.result_anim(poke, "Protection broken", "bad")
+					poke.remove_turnstatus("protect")
+
+					for cur_target in poke.side.pokemon:
+						cur_target.remove_turnstatus("wideguard")
+						cur_target.remove_turnstatus("quickguard")
+						cur_target.remove_turnstatus("craftyshield")
+						cur_target.remove_turnstatus("matblock")
+						scene.update_statbar(cur_target)
+
+				"eeriespell", "gmaxdepletion", "spite":
+					var move = Dex.moves.get(kwargs.move).name
+					var pp = int(kwargs.number)
+					if pp == 0:
+						pp = 4
+					poke.remember_move(move, pp)
+
+				"gravity":
+					poke.remove_volatile("magnetrise")
+					poke.remove_volatile("telekinesis")
+					scene.anim(poke, {"time": 100})
+
+				"skillswap", "wanderingspirit":
+					if gen <= 4:
+						return
+
+					var pokeability = Dex.sanitize_name(kwargs.ability) if kwargs.ability else target.ability
+					var targetability = Dex.sanitize_name(kwargs.ability2) if kwargs.ability2 else poke.ability
+
+					if pokeability:
+						poke.ability = pokeability
+						if not target.base_ability:
+							target.base_ability = pokeability
+
+					if targetability:
+						target.ability = targetability
+						if not poke.base_ability:
+							poke.base_ability = targetability
+
+					if poke.side != target.side:
+						activate_ability(poke, pokeability, true)
+						activate_ability(target, targetability, true)
+
+				"electromorphosis", "windpower":
+					poke.add_move_status("charge")
+
+				"forewarn":
+					if target:
+						target.remember_move(kwargs.move, 0)
+					else:
+						var foe_active = []
+						for maybe in poke.side.foe.active:
+							if maybe and not maybe.fainted:
+								foe_active.append(maybe)
+
+						if foe_active.size() == 1:
+							foe_active[0].remember_move(kwargs.move, 0)
+
+				"lingeringaroma", "mummy":
+					if not kwargs.ability:
+						return
+
+					var ability = Dex.abilities.get(kwargs.ability)
+					activate_ability(target, ability.name)
+					activate_ability(poke, effect.name)
+					scene.wait(0.7)
+					activate_ability(target, effect.name, true)
+
+				"leppaberry", "mysteryberry":
+					poke.remember_move(kwargs.move, -10 if effect.id == "leppaberry" else -5)
+
+				"focusband":
+					poke.item = "Focus Band"
+
+				"quickclaw":
+					poke.item = "Quick Claw"
+
+				"abilityshield":
+					poke.item = "Ability Shield"
+
+				_:
+					if kwargs.has("broken") and kwargs.broken:
+						scene.result_anim(poke, "Protection broken", "bad")
+
+			add_log(args, kwargs)
+		"-sidestart":
+			var side = get_side(args[1])
+			var effect = Dex.get_effect(args[2])
+
+			side.add_side_condition(effect, kwargs.get("persistent", false))
+
+			match effect.id:
+				"tailwind", "auroraveil", "reflect", "lightscreen", "safeguard", "mist",\
+				"futuresight", "doomdesire",\
+				"gmaxwildfire", "gmaxvolcalith", "gmaxvinelash", "gmaxcannonade",\
+				"grasspledge", "firepledge", "waterpledge":
+					scene.update_weather()
+
+			add_log(args, kwargs)
+		"-sideend":
+			var side = get_side(args[1])
+			var effect = Dex.get_effect(args[2])
+
+			side.remove_side_condition(effect.name)
+
+			add_log(args, kwargs)
+		"-swapsideconditions":
+			swap_side_conditions()
+			scene.update_weather()
+			add_log(args, kwargs)
+		"-weather":
+			var effect = Dex.get_effect(args[1])
+			var poke = get_pokemon(kwargs.of) if kwargs.has("of") else null
+			var ability = Dex.get_effect(kwargs.from)
+
+			if not effect.id or effect.id == "none":
+				kwargs.from = weather
+
+			change_weather(effect.name, poke, bool(kwargs.upkeep), ability)
+			add_log(args, kwargs)
+		"-fieldstart":
+			var effect = Dex.get_effect(args[1])
+			var poke = get_pokemon(kwargs.of)
+			var fromeffect = Dex.get_effect(kwargs.from)
+
+			activate_ability(poke, fromeffect)
+
+			var min_time_left = 5
+			var max_time_left = 0
+
+			if effect.id.ends_with("terrain"):
+				for i in range(pseudo_weather.size() - 1, -1, -1):
+					var pw_id = Utils.to_id(pseudo_weather[i][0])
+					if pw_id.ends_with("terrain"):
+						pseudo_weather.remove_at(i)
+
+				if gen > 6:
+					max_time_left = 8
+
+			if kwargs.has("persistent") and kwargs.persistent:
+				min_time_left += 2
+
+			add_pseudo_weather(effect.name, min_time_left, max_time_left)
+
+			match effect.id:
+				"gravity":
+					if seeking != null:
+						pass
+					else:
+						for active in get_all_active():
+							scene.run_other_anim("gravity", [active])
+
+			add_log(args, kwargs)
+		"-fieldend":
+			var effect = Dex.get_effect(args[1])
+			remove_pseudo_weather(effect.name)
+			add_log(args, kwargs)
+		"-fieldactivate":
+			var effect = Dex.get_effect(args[1])
+
+			match effect.id:
+				"perishsong":
+					scene.update_statbars()
+
+			add_log(args, kwargs)
+		"-anim":
+			var poke = get_pokemon(args[1])
+			var move = Dex.moves.get(args[2])
+
+			if check_active(poke):
+				return
+
+			var poke2 = get_pokemon(args[3])
+
+			scene.before_move(poke)
+			animate_move(poke, move, poke2, kwargs)
+			scene.after_move(poke)
+		"-hint", "-message", "-candynamax":
+			add_log(args, kwargs)
+		_:
+			push_error("Unrecognized minor action: %s" % args[0])
+
 func parse_sprite_data(data: Dictionary) -> void:
 	assert(false, "not implemented yet")
 
@@ -1715,7 +2945,7 @@ class BattleScene:
 	func remove_transform(pokemon: Pokemon) -> void: pass
 	func anim_faint(pokemon: Pokemon) -> void: pass
 	func anim_reset(pokemon: Pokemon) -> void: pass
-	func anim(pokemon: Pokemon, end: Vector2, transition: String = "") -> void: pass
+	func anim(pokemon: Pokemon, end: Variant, transition: String = "") -> void: pass
 	func before_move(pokemon: Pokemon) -> void: pass
 	func after_move(pokemon: Pokemon) -> void: pass
 
@@ -1831,15 +3061,15 @@ class BattleSide:
 			if foe and self.avatar == foe.avatar:
 				roll_trainer_sprites()
 
-	func add_side_condition(effect: Dictionary, persist: bool = false):
-		var condition = effect.get("id", "")
+	func add_side_condition(effect: Variant, persist: bool = false):
+		var condition = effect.id
 		if side_conditions.has(condition):
 			if condition == "spikes" or condition == "toxicspikes":
 				side_conditions[condition][1] += 1
 			battle.scene.add_side_condition(n, condition)
 			return
 
-		var effect_name = effect.get("name", condition)
+		var effect_name = effect.name if effect.name.length() > 0 else condition.capitalize()
 		match condition:
 			"auroraveil":
 				side_conditions[condition] = [effect_name, 1, 5, 8]
@@ -2308,7 +3538,7 @@ class Pokemon:
 		if not has_volatile(volatile): return
 		volatiles.erase(volatile)
 		
-	func add_volatile(volatile: String, args: Array = []):
+	func add_volatile(volatile: String, ...args: Array):
 		if has_volatile(volatile) and args.is_empty(): return
 		volatiles[volatile] = [volatile] + args
 		
